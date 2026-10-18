@@ -2,7 +2,7 @@
  "title": "Keyword market data: Milton, GA",
  "description": "Top Milton, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Milton, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 21,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash milton ga",
     "slug": "car-wash-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-milton-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist milton ga",
     "slug": "dentist-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-milton-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym milton ga",
     "slug": "gym-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-milton-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon milton ga",
     "slug": "hair-salon-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-milton-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon milton ga",
     "slug": "nail-salon-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-milton-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic milton ga",
     "slug": "mechanic-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-milton-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop milton ga",
     "slug": "tire-shop-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-milton-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "vet milton ga",
     "slug": "vet-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-milton-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "haircut milton ga",
     "slug": "haircut-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-milton-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -146,7 +146,7 @@
    {
     "keyword": "auto repair milton ga",
     "slug": "auto-repair-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-milton-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog boarding milton ga",
     "slug": "dog-boarding-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-milton-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -176,7 +176,7 @@
    {
     "keyword": "real estate agent milton ga",
     "slug": "real-estate-agent-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-milton-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -191,7 +191,7 @@
    {
     "keyword": "realtor milton ga",
     "slug": "realtor-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-milton-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -206,7 +206,7 @@
    {
     "keyword": "tax preparation milton ga",
     "slug": "tax-preparation-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-milton-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -221,7 +221,7 @@
    {
     "keyword": "tax preparer milton ga",
     "slug": "tax-preparer-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-milton-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -238,7 +238,7 @@
    {
     "keyword": "flooring companies milton ga",
     "slug": "flooring-companies-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-milton-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -253,7 +253,7 @@
    {
     "keyword": "storage units milton ga",
     "slug": "storage-units-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-milton-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -268,7 +268,7 @@
    {
     "keyword": "tax preparer milton ga",
     "slug": "tax-preparer-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-milton-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -283,7 +283,7 @@
    {
     "keyword": "driving school milton ga",
     "slug": "driving-school-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-milton-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -298,7 +298,7 @@
    {
     "keyword": "orthopedic surgeon milton ga",
     "slug": "orthopedic-surgeon-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/orthopedic-surgeon-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-milton-ga/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 630,
@@ -313,7 +313,7 @@
    {
     "keyword": "dentist milton ga",
     "slug": "dentist-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-milton-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -328,7 +328,7 @@
    {
     "keyword": "haircut milton ga",
     "slug": "haircut-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-milton-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -343,7 +343,7 @@
    {
     "keyword": "auto repair milton ga",
     "slug": "auto-repair-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-milton-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -358,7 +358,7 @@
    {
     "keyword": "car wash milton ga",
     "slug": "car-wash-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-milton-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -373,7 +373,7 @@
    {
     "keyword": "mechanic milton ga",
     "slug": "mechanic-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-milton-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -388,7 +388,7 @@
    {
     "keyword": "tire shop milton ga",
     "slug": "tire-shop-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-milton-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -403,7 +403,7 @@
    {
     "keyword": "bike shop milton ga",
     "slug": "bike-shop-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-milton-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -418,7 +418,7 @@
    {
     "keyword": "mattress store milton ga",
     "slug": "mattress-store-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store-milton-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -433,7 +433,7 @@
    {
     "keyword": "dog boarding milton ga",
     "slug": "dog-boarding-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-milton-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -448,7 +448,7 @@
    {
     "keyword": "vet milton ga",
     "slug": "vet-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-milton-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist milton ga",
     "slug": "dentist-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-milton-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash milton ga",
     "slug": "car-wash-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-milton-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym milton ga",
     "slug": "gym-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-milton-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic milton ga",
     "slug": "mechanic-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-milton-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop milton ga",
     "slug": "tire-shop-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-milton-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet milton ga",
     "slug": "vet-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-milton-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut milton ga",
     "slug": "haircut-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-milton-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair milton ga",
     "slug": "auto-repair-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-milton-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -585,7 +585,7 @@
    {
     "keyword": "dog boarding milton ga",
     "slug": "dog-boarding-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-milton-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -600,7 +600,7 @@
    {
     "keyword": "hair salon milton ga",
     "slug": "hair-salon-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-milton-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -615,7 +615,7 @@
    {
     "keyword": "real estate agent milton ga",
     "slug": "real-estate-agent-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-milton-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -630,7 +630,7 @@
    {
     "keyword": "nail salon milton ga",
     "slug": "nail-salon-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-milton-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -645,7 +645,7 @@
    {
     "keyword": "tax preparer milton ga",
     "slug": "tax-preparer-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-milton-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -660,7 +660,7 @@
    {
     "keyword": "realtor milton ga",
     "slug": "realtor-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-milton-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -675,7 +675,7 @@
    {
     "keyword": "tax preparation milton ga",
     "slug": "tax-preparation-milton-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-milton-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-milton-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

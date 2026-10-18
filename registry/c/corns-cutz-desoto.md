@@ -13,12 +13,12 @@ Corn's Cutz is a barber shop in DeSoto, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 85% of barber shops in Dallas–Fort Worth, #1 of 1 barber shops in DeSoto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 39.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 85% of barber shops in Dallas–Fort Worth, #1 of 1 barber shops in DeSoto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/corns-cutz-desoto/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/corns-cutz-desoto.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/corns-cutz-desoto/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/corns-cutz-desoto.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13152998179 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

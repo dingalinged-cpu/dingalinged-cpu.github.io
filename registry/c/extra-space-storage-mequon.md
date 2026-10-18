@@ -13,12 +13,12 @@ Extra Space Storage is a self-storage facility in Mequon, WI at 10448 North Port
 - Website: https://www.extraspace.com/storage/facilities/us/wisconsin/mequon/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 78% of self-storage facilitys in Milwaukee, #1 of 1 self-storage facilitys in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 78% of self-storage facilitys in Milwaukee, #1 of 1 self-storage facilitys in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mequon/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-mequon.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-mequon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-mequon.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1221819419 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

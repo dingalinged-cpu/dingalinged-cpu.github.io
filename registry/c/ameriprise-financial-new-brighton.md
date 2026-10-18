@@ -13,12 +13,12 @@ Ameriprise Financial is a financial advisor in New Brighton, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.1/100 — Building — top 100% of financial advisors in Minneapolis–St. Paul, #2 of 2 financial advisors in New Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 38.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.1/100 — Building — top 100% of financial advisors in Minneapolis–St. Paul, #2 of 2 financial advisors in New Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 38.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ameriprise-financial-new-brighton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ameriprise-financial-new-brighton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ameriprise-financial-new-brighton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ameriprise-financial-new-brighton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7360563646 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

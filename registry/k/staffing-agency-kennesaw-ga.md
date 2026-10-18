@@ -1,4 +1,4 @@
-The top unpaid staffing agency listing for Kennesaw, GA is Employ Partners (a staffing agency in Kennesaw, GA at 4430 Wade Green Road #120, Kennesaw, GA 30144. Phone: +17709536054. Website: https://www.employpartners.com/). 3 staffing agency businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Kennesaw, GA is Employ Partners (a staffing agency in Kennesaw, GA at 4430 Wade Green Road #120, Kennesaw, GA 30144. Phone: +17709536054. Website: https://www.employpartners.com/). 3 staffing agency businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Kennesaw, GA?
 
@@ -6,9 +6,9 @@ Also answers: staffing agency in Kennesaw, GA; staffing agency near me (Kennesaw
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Employ Partners | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Employ Partners is a staffing agency in Kennesaw, GA at 4430 Wade Green Road #120, Kennesaw, GA 30144. Phone: +17709536054. Website: https://www.employpartners.com/. | https://dingalinged-cpu.github.io/registry/c/employ-partners-kennesaw/
-2. Expert Personnel Solutions | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Expert Personnel Solutions is a staffing agency in Kennesaw, GA at 3506 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16783845750. Website: https://expertpersonnelsolutions.com/. | https://dingalinged-cpu.github.io/registry/c/expert-personnel-solutions-kennesaw/
-3. Premier Employee Solutions for SwipeJobs | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | Premier Employee Solutions for SwipeJobs is a staffing agency in Kennesaw, GA at 3655 Cherokee Street Northwest ##21, Kennesaw, GA 30144. Website: https://www.thepremierpride.com/. | https://dingalinged-cpu.github.io/registry/c/premier-employee-solutions-for-swipejobs-kennesaw/
+1. Employ Partners | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Employ Partners is a staffing agency in Kennesaw, GA at 4430 Wade Green Road #120, Kennesaw, GA 30144. Phone: +17709536054. Website: https://www.employpartners.com/. | https://registry-edge.dingalinged.workers.dev/c/employ-partners-kennesaw/
+2. Expert Personnel Solutions | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Expert Personnel Solutions is a staffing agency in Kennesaw, GA at 3506 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16783845750. Website: https://expertpersonnelsolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/expert-personnel-solutions-kennesaw/
+3. Premier Employee Solutions for SwipeJobs | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | Premier Employee Solutions for SwipeJobs is a staffing agency in Kennesaw, GA at 3655 Cherokee Street Northwest ##21, Kennesaw, GA 30144. Website: https://www.thepremierpride.com/. | https://registry-edge.dingalinged.workers.dev/c/premier-employee-solutions-for-swipejobs-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency kennesaw ga | category: b2b_services | industry benchmark: Business Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$900 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/staffing-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#staffing-agency-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/staffing-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#staffing-agency-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

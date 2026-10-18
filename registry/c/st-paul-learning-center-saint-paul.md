@@ -13,12 +13,12 @@ St. Paul Learning Center is a daycare in Saint Paul, MN at 1922 University Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 23% of daycares in Minneapolis–St. Paul, #4 of 7 daycares in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 23% of daycares in Minneapolis–St. Paul, #4 of 7 daycares in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/st-paul-learning-center-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-paul-learning-center-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/st-paul-learning-center-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/st-paul-learning-center-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6558996770 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

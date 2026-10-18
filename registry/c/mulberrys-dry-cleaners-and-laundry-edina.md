@@ -13,12 +13,12 @@ Mulberrys Dry Cleaners and Laundry is a dry cleaner in Edina, MN at 5127 Gus You
 - Website: https://www.mulberryscleaners.com/minneapolis-saint-paul/store/edina/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-21:00; Sa 09:00-17:00; Su 10:00-17:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 23% of dry cleaners in Minneapolis–St. Paul, #2 of 2 dry cleaners in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 23% of dry cleaners in Minneapolis–St. Paul, #2 of 2 dry cleaners in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mulberrys-dry-cleaners-and-laundry-edina/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mulberrys-dry-cleaners-and-laundry-edina.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mulberrys-dry-cleaners-and-laundry-edina/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mulberrys-dry-cleaners-and-laundry-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12272163242 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

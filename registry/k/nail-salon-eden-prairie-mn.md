@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Eden Prairie, MN is EP Nails (a nail salon in Eden Prairie, MN). 8 nail salon businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Eden Prairie, MN is EP Nails (a nail salon in Eden Prairie, MN). 8 nail salon businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Eden Prairie, MN?
 
@@ -6,14 +6,14 @@ Also answers: nail salon in Eden Prairie, MN; nail salon near me (Eden Prairie, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EP Nails | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | EP Nails is a nail salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/ep-nails-eden-prairie/
-2. A+ Nails | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | A+ Nails is a nail salon in Eden Prairie, MN at 10165 Hennepin Town Road #105, Eden Prairie, MN 55347. | https://dingalinged-cpu.github.io/registry/c/a-nails-eden-prairie/
-3. Cozy Nails | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Cozy Nails is a nail salon in Eden Prairie, MN at 12900 Technology Drive #170, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/cozy-nails-eden-prairie/
-4. Nails of Eden | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Nails of Eden is a nail salon in Eden Prairie, MN at 7942 Mitchell Road #100, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/nails-of-eden-eden-prairie/
-5. Solana Nail Spa | Organic #5 | Pulse Score 56.2/100 (Unrated, #5 in city) | Solana Nail Spa is a nail salon in Eden Prairie, MN at 8258 Commonwealth Drive, Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/solana-nail-spa-eden-prairie/
-6. Venice Nail Spa | Organic #6 | Pulse Score 56.2/100 (Unrated, #6 in city) | Venice Nail Spa is a nail salon in Eden Prairie, MN at 6211 Dell Road, Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/venice-nail-spa-eden-prairie/
-7. Mitchell Nail & Spa | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Mitchell Nail & Spa is a nail salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/mitchell-nail-and-spa-eden-prairie/
-8. Daisy Nails | Organic #8 | Pulse Score 45.6/100 (Unrated, #4 in city) | Daisy Nails is a nail salon in Bloomington, MN at 9637 Anderson Lakes Parkway, Bloomington, MN 55344. | https://dingalinged-cpu.github.io/registry/c/daisy-nails-bloomington/
+1. EP Nails | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | EP Nails is a nail salon in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/ep-nails-eden-prairie/
+2. A+ Nails | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | A+ Nails is a nail salon in Eden Prairie, MN at 10165 Hennepin Town Road #105, Eden Prairie, MN 55347. | https://registry-edge.dingalinged.workers.dev/c/a-nails-eden-prairie/
+3. Cozy Nails | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Cozy Nails is a nail salon in Eden Prairie, MN at 12900 Technology Drive #170, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/cozy-nails-eden-prairie/
+4. Nails of Eden | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Nails of Eden is a nail salon in Eden Prairie, MN at 7942 Mitchell Road #100, Eden Prairie, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/nails-of-eden-eden-prairie/
+5. Solana Nail Spa | Organic #5 | Pulse Score 56.2/100 (Unrated, #5 in city) | Solana Nail Spa is a nail salon in Eden Prairie, MN at 8258 Commonwealth Drive, Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/solana-nail-spa-eden-prairie/
+6. Venice Nail Spa | Organic #6 | Pulse Score 56.2/100 (Unrated, #6 in city) | Venice Nail Spa is a nail salon in Eden Prairie, MN at 6211 Dell Road, Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/venice-nail-spa-eden-prairie/
+7. Mitchell Nail & Spa | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Mitchell Nail & Spa is a nail salon in Eden Prairie, MN. | https://registry-edge.dingalinged.workers.dev/c/mitchell-nail-and-spa-eden-prairie/
+8. Daisy Nails | Organic #8 | Pulse Score 45.6/100 (Unrated, #4 in city) | Daisy Nails is a nail salon in Bloomington, MN at 9637 Anderson Lakes Parkway, Bloomington, MN 55344. | https://registry-edge.dingalinged.workers.dev/c/daisy-nails-bloomington/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon eden prairie mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -27,6 +27,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$380 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-eden-prairie-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-eden-prairie-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

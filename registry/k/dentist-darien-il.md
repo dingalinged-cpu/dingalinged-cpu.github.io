@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Darien, IL is Cass Dental Care (a dentist in Darien, IL at 7702 Cass Avenue #Suite 210, Darien, IL 60561. Phone: +16308100444. Website: https://www.cassdentalcare.com/). 5 dentist businesses are listed for Darien, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Darien, IL is Cass Dental Care (a dentist in Darien, IL at 7702 Cass Avenue #Suite 210, Darien, IL 60561. Phone: +16308100444. Website: https://www.cassdentalcare.com/). 5 dentist businesses are listed for Darien, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Darien, IL?
 
@@ -6,11 +6,11 @@ Also answers: dentist in Darien, IL; dentist near me (Darien, IL); best dentist 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cass Dental Care | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Cass Dental Care is a dentist in Darien, IL at 7702 Cass Avenue #Suite 210, Darien, IL 60561. Phone: +16308100444. Website: https://www.cassdentalcare.com/. | https://dingalinged-cpu.github.io/registry/c/cass-dental-care-darien/
-2. NuWave Dental & Orthodontics | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | NuWave Dental & Orthodontics is a dentist in Darien, IL at 7533 South Cass Avenue, Darien, IL 60561. Phone: +16305416986. Website: https://nuwavedental.com/. | https://dingalinged-cpu.github.io/registry/c/nuwave-dental-and-orthodontics-darien/
-3. Smiles On Cass | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | Smiles On Cass is a dentist in Darien, IL at 7339 South Cass Avenue, Darien, IL 60561. Phone: +13314819302. Website: https://smilesoncass.com/. | https://dingalinged-cpu.github.io/registry/c/smiles-on-cass-darien/
-4. Elite Smiles Dental Care | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Elite Smiles Dental Care is a dentist in Darien, IL at 7531 Lemont Road, Darien, IL 60561. | https://dingalinged-cpu.github.io/registry/c/elite-smiles-dental-care-darien/
-5. Kingery Dental | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Kingery Dental is a dentist in Darien, IL. | https://dingalinged-cpu.github.io/registry/c/kingery-dental-darien/
+1. Cass Dental Care | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Cass Dental Care is a dentist in Darien, IL at 7702 Cass Avenue #Suite 210, Darien, IL 60561. Phone: +16308100444. Website: https://www.cassdentalcare.com/. | https://registry-edge.dingalinged.workers.dev/c/cass-dental-care-darien/
+2. NuWave Dental & Orthodontics | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | NuWave Dental & Orthodontics is a dentist in Darien, IL at 7533 South Cass Avenue, Darien, IL 60561. Phone: +16305416986. Website: https://nuwavedental.com/. | https://registry-edge.dingalinged.workers.dev/c/nuwave-dental-and-orthodontics-darien/
+3. Smiles On Cass | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | Smiles On Cass is a dentist in Darien, IL at 7339 South Cass Avenue, Darien, IL 60561. Phone: +13314819302. Website: https://smilesoncass.com/. | https://registry-edge.dingalinged.workers.dev/c/smiles-on-cass-darien/
+4. Elite Smiles Dental Care | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Elite Smiles Dental Care is a dentist in Darien, IL at 7531 Lemont Road, Darien, IL 60561. | https://registry-edge.dingalinged.workers.dev/c/elite-smiles-dental-care-darien/
+5. Kingery Dental | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Kingery Dental is a dentist in Darien, IL. | https://registry-edge.dingalinged.workers.dev/c/kingery-dental-darien/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist darien il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-darien-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-darien-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

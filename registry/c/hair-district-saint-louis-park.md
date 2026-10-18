@@ -13,12 +13,12 @@ Hair District is a hair salon in Saint Louis Park, MN at 3725 Grand Way, Saint L
 - Website: https://www.thehairdistrict.com/st-louis-park/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 10:30-18:00; Sa 09:00-16:00; PH closed
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Minneapolis–St. Paul, #4 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Minneapolis–St. Paul, #4 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hair-district-saint-louis-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hair-district-saint-louis-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hair-district-saint-louis-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hair-district-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1907408854 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

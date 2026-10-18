@@ -13,12 +13,12 @@ Flare Heating and Air Conditioning is a HVAC contractor in Golden Valley, MN at 
 - Website: https://www.flareheating.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 41% of HVAC contractors in Minneapolis–St. Paul, #1 of 1 HVAC contractors in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 41% of HVAC contractors in Minneapolis–St. Paul, #1 of 1 HVAC contractors in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/flare-heating-and-air-conditioning-golden-valley/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/flare-heating-and-air-conditioning-golden-valley.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/flare-heating-and-air-conditioning-golden-valley/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/flare-heating-and-air-conditioning-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12751755439 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

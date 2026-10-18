@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Vernon Hills, IL is Arbor Hills Dental Care (a dentist in Vernon Hills, IL at 175 North Milwaukee, Vernon Hills, IL 60061. Phone: +18479559500. Website: https://www.arborhillsdental.com/). 5 dentist businesses are listed for Vernon Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Vernon Hills, IL is Arbor Hills Dental Care (a dentist in Vernon Hills, IL at 175 North Milwaukee, Vernon Hills, IL 60061. Phone: +18479559500. Website: https://www.arborhillsdental.com/). 5 dentist businesses are listed for Vernon Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Vernon Hills, IL?
 
@@ -6,11 +6,11 @@ Also answers: dentist in Vernon Hills, IL; dentist near me (Vernon Hills, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arbor Hills Dental Care | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Arbor Hills Dental Care is a dentist in Vernon Hills, IL at 175 North Milwaukee, Vernon Hills, IL 60061. Phone: +18479559500. Website: https://www.arborhillsdental.com/. | https://dingalinged-cpu.github.io/registry/c/arbor-hills-dental-care-vernon-hills/
-2. Dentist in Vernon Hills | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Dentist in Vernon Hills is a dentist in Vernon Hills, IL at 555 Townline Road, Vernon Hills, IL 60061. Website: https://dentistinvernonhills.com/. | https://dingalinged-cpu.github.io/registry/c/dentist-in-vernon-hills-vernon-hills/
-3. Steven Hoffenberg DDS | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Steven Hoffenberg DDS is a dentist in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/steven-hoffenberg-dds-vernon-hills/
-4. Affiliated Dental Specialists | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Affiliated Dental Specialists is a dentist in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/affiliated-dental-specialists-vernon-hills/
-5. Midwest Dental | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | Midwest Dental is a dentist in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-vernon-hills/
+1. Arbor Hills Dental Care | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Arbor Hills Dental Care is a dentist in Vernon Hills, IL at 175 North Milwaukee, Vernon Hills, IL 60061. Phone: +18479559500. Website: https://www.arborhillsdental.com/. | https://registry-edge.dingalinged.workers.dev/c/arbor-hills-dental-care-vernon-hills/
+2. Dentist in Vernon Hills | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Dentist in Vernon Hills is a dentist in Vernon Hills, IL at 555 Townline Road, Vernon Hills, IL 60061. Website: https://dentistinvernonhills.com/. | https://registry-edge.dingalinged.workers.dev/c/dentist-in-vernon-hills-vernon-hills/
+3. Steven Hoffenberg DDS | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Steven Hoffenberg DDS is a dentist in Vernon Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/steven-hoffenberg-dds-vernon-hills/
+4. Affiliated Dental Specialists | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Affiliated Dental Specialists is a dentist in Vernon Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/affiliated-dental-specialists-vernon-hills/
+5. Midwest Dental | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | Midwest Dental is a dentist in Vernon Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/midwest-dental-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist vernon hills il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-vernon-hills-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-vernon-hills-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

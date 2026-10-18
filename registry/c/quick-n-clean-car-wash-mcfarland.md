@@ -13,12 +13,12 @@ Quick N' Clean Car Wash is a car wash in McFarland, WI at 4710 Farwell Street, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 3% of car washes in Madison, #1 of 1 car washes in McFarland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 3% of car washes in Madison, #1 of 1 car washes in McFarland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/quick-n-clean-car-wash-mcfarland/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/quick-n-clean-car-wash-mcfarland.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/quick-n-clean-car-wash-mcfarland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quick-n-clean-car-wash-mcfarland.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/572463173 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

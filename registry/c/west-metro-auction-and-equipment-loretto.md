@@ -13,12 +13,12 @@ West Metro Auction and Equipment is a thrift store in Loretto, MN at 200 North M
 - Website: https://www.westmetroauction.com/
 - Email: sales@westmetroauction.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 65.2/100 — Good — top 2% of thrift stores in Minneapolis–St. Paul, #1 of 1 thrift stores in Loretto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 66.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 2% of thrift stores in Minneapolis–St. Paul, #1 of 1 thrift stores in Loretto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/west-metro-auction-and-equipment-loretto/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/west-metro-auction-and-equipment-loretto.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/west-metro-auction-and-equipment-loretto/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/west-metro-auction-and-equipment-loretto.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13382333121 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

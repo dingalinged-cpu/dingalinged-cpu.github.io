@@ -13,12 +13,12 @@ Upswing Creative is a marketing agency in Saint Paul, MN at 755 North Prior Aven
 - Website: https://www.upswingcreative.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 34% of marketing agencys in Minneapolis–St. Paul, #2 of 6 marketing agencys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 34% of marketing agencys in Minneapolis–St. Paul, #2 of 6 marketing agencys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/upswing-creative-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/upswing-creative-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/upswing-creative-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/upswing-creative-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7196019065 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Evanston, IL is Evanston Family Dental Associates (a dentist in Evanston, IL at 823 Chicago Avenue, Evanston, IL 60202. Phone: +18474911200). 7 dentist businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Evanston, IL is Evanston Family Dental Associates (a dentist in Evanston, IL at 823 Chicago Avenue, Evanston, IL 60202. Phone: +18474911200). 7 dentist businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Evanston, IL?
 
@@ -6,13 +6,13 @@ Also answers: dentist in Evanston, IL; dentist near me (Evanston, IL); best dent
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Evanston Family Dental Associates | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Evanston Family Dental Associates is a dentist in Evanston, IL at 823 Chicago Avenue, Evanston, IL 60202. Phone: +18474911200. | https://dingalinged-cpu.github.io/registry/c/evanston-family-dental-associates-evanston/
-2. Radiant Smile | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Radiant Smile is a dentist in Evanston, IL at 1632 Maple Avenue, Evanston, IL 60201. Phone: +18473288573. | https://dingalinged-cpu.github.io/registry/c/radiant-smile-evanston/
-3. North Shore Dental | Organic #3 | Pulse Score 58.7/100 (Unrated, #3 in city) | North Shore Dental is a dentist in Evanston, IL at 635 Chicago Avenue #6, Evanston, IL 60202. Phone: +18474910880. | https://dingalinged-cpu.github.io/registry/c/north-shore-dental-evanston/
-4. Dental Arts Specialists | Organic #4 | Pulse Score 57.5/100 (Unrated, #4 in city) | Dental Arts Specialists is a dentist in Evanston, IL at 1964 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/dental-arts-specialists-evanston/
-5. Premier Dental Care | Organic #5 | Pulse Score 57.5/100 (Unrated, #5 in city) | Premier Dental Care is a dentist in Evanston, IL at 1819 Church Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/premier-dental-care-evanston/
-6. Way Dental | Organic #6 | Pulse Score 57.5/100 (Unrated, #6 in city) | Way Dental is a dentist in Evanston, IL at 2424 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/way-dental-evanston/
-7. Bowdental of Evanston | Organic #7 | Pulse Score 57/100 (Unrated, #7 in city) | Bowdental of Evanston is a dentist in Evanston, IL at 2611 Broadway Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/bowdental-of-evanston-evanston/
+1. Evanston Family Dental Associates | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Evanston Family Dental Associates is a dentist in Evanston, IL at 823 Chicago Avenue, Evanston, IL 60202. Phone: +18474911200. | https://registry-edge.dingalinged.workers.dev/c/evanston-family-dental-associates-evanston/
+2. Radiant Smile | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Radiant Smile is a dentist in Evanston, IL at 1632 Maple Avenue, Evanston, IL 60201. Phone: +18473288573. | https://registry-edge.dingalinged.workers.dev/c/radiant-smile-evanston/
+3. North Shore Dental | Organic #3 | Pulse Score 58.7/100 (Unrated, #3 in city) | North Shore Dental is a dentist in Evanston, IL at 635 Chicago Avenue #6, Evanston, IL 60202. Phone: +18474910880. | https://registry-edge.dingalinged.workers.dev/c/north-shore-dental-evanston/
+4. Dental Arts Specialists | Organic #4 | Pulse Score 57.5/100 (Unrated, #4 in city) | Dental Arts Specialists is a dentist in Evanston, IL at 1964 Dempster Street, Evanston, IL 60202. | https://registry-edge.dingalinged.workers.dev/c/dental-arts-specialists-evanston/
+5. Premier Dental Care | Organic #5 | Pulse Score 57.5/100 (Unrated, #5 in city) | Premier Dental Care is a dentist in Evanston, IL at 1819 Church Street, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/premier-dental-care-evanston/
+6. Way Dental | Organic #6 | Pulse Score 57.5/100 (Unrated, #6 in city) | Way Dental is a dentist in Evanston, IL at 2424 Main Street, Evanston, IL 60202. | https://registry-edge.dingalinged.workers.dev/c/way-dental-evanston/
+7. Bowdental of Evanston | Organic #7 | Pulse Score 57/100 (Unrated, #7 in city) | Bowdental of Evanston is a dentist in Evanston, IL at 2611 Broadway Avenue, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/bowdental-of-evanston-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist evanston il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

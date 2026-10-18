@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Oak Lawn, IL is Eco Friendly Dentistry (a dentist in Oak Lawn, IL at 4934 West 95th Street, Oak Lawn, IL 60453. Phone: +17734291400. Website: https://ecofriendlydentistry.com/). 3 dentist businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Oak Lawn, IL is Eco Friendly Dentistry (a dentist in Oak Lawn, IL at 4934 West 95th Street, Oak Lawn, IL 60453. Phone: +17734291400. Website: https://ecofriendlydentistry.com/). 3 dentist businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Oak Lawn, IL?
 
@@ -6,9 +6,9 @@ Also answers: dentist in Oak Lawn, IL; dentist near me (Oak Lawn, IL); best dent
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eco Friendly Dentistry | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Eco Friendly Dentistry is a dentist in Oak Lawn, IL at 4934 West 95th Street, Oak Lawn, IL 60453. Phone: +17734291400. Website: https://ecofriendlydentistry.com/. | https://dingalinged-cpu.github.io/registry/c/eco-friendly-dentistry-oak-lawn/
-2. Thomas A. Swingler DDS | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Thomas A. Swingler DDS is a dentist in Oak Lawn, IL at 4600 103rd Street, Oak Lawn, IL 60453. Phone: +17084238380. Website: https://www.thomasaswinglerdds.com/. | https://dingalinged-cpu.github.io/registry/c/thomas-a-swingler-dds-oak-lawn/
-3. Family Dental Care | Organic #3 | Pulse Score 47.5/100 (Unrated, #3 in city) | Family Dental Care is a dentist in Oak Lawn, IL at 9101 South Cicero Avenue, Oak Lawn, IL 60453. Phone: +17084191601. Website: https://www.familydentalcare.com/oak-lawn-office/. | https://dingalinged-cpu.github.io/registry/c/family-dental-care-oak-lawn/
+1. Eco Friendly Dentistry | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Eco Friendly Dentistry is a dentist in Oak Lawn, IL at 4934 West 95th Street, Oak Lawn, IL 60453. Phone: +17734291400. Website: https://ecofriendlydentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/eco-friendly-dentistry-oak-lawn/
+2. Thomas A. Swingler DDS | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Thomas A. Swingler DDS is a dentist in Oak Lawn, IL at 4600 103rd Street, Oak Lawn, IL 60453. Phone: +17084238380. Website: https://www.thomasaswinglerdds.com/. | https://registry-edge.dingalinged.workers.dev/c/thomas-a-swingler-dds-oak-lawn/
+3. Family Dental Care | Organic #3 | Pulse Score 47.5/100 (Unrated, #3 in city) | Family Dental Care is a dentist in Oak Lawn, IL at 9101 South Cicero Avenue, Oak Lawn, IL 60453. Phone: +17084191601. Website: https://www.familydentalcare.com/oak-lawn-office/. | https://registry-edge.dingalinged.workers.dev/c/family-dental-care-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist oak lawn il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-oak-lawn-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-oak-lawn-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

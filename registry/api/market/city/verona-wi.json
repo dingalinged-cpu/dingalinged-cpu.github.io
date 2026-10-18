@@ -2,7 +2,7 @@
  "title": "Keyword market data: Verona, WI",
  "description": "Top Verona, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Verona, WI",
  "geography": "Madison, WI metro",
  "keywords": 23,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash verona wi",
     "slug": "car-wash-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-verona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist verona wi",
     "slug": "dentist-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-verona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym verona wi",
     "slug": "gym-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-verona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon verona wi",
     "slug": "hair-salon-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-verona-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon verona wi",
     "slug": "nail-salon-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-verona-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic verona wi",
     "slug": "mechanic-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-verona-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet verona wi",
     "slug": "vet-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-verona-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut verona wi",
     "slug": "haircut-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-verona-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair verona wi",
     "slug": "auto-repair-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-verona-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog boarding verona wi",
     "slug": "dog-boarding-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-verona-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -161,7 +161,7 @@
    {
     "keyword": "electrician verona wi",
     "slug": "electrician-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-verona-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -176,7 +176,7 @@
    {
     "keyword": "landscaping verona wi",
     "slug": "landscaping-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-verona-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -191,7 +191,7 @@
    {
     "keyword": "yoga classes verona wi",
     "slug": "yoga-classes-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-verona-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -208,7 +208,7 @@
    {
     "keyword": "electrician verona wi",
     "slug": "electrician-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-verona-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -223,7 +223,7 @@
    {
     "keyword": "landscaping verona wi",
     "slug": "landscaping-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-verona-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -238,7 +238,7 @@
    {
     "keyword": "storage units verona wi",
     "slug": "storage-units-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-verona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -253,7 +253,7 @@
    {
     "keyword": "bakery verona wi",
     "slug": "bakery-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-verona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -268,7 +268,7 @@
    {
     "keyword": "preschool verona wi",
     "slug": "preschool-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-verona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -283,7 +283,7 @@
    {
     "keyword": "assisted living verona wi",
     "slug": "assisted-living-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-verona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -298,7 +298,7 @@
    {
     "keyword": "eye doctor verona wi",
     "slug": "eye-doctor-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-verona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -313,7 +313,7 @@
    {
     "keyword": "physical therapy verona wi",
     "slug": "physical-therapy-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-verona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -328,7 +328,7 @@
    {
     "keyword": "dentist verona wi",
     "slug": "dentist-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-verona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -343,7 +343,7 @@
    {
     "keyword": "haircut verona wi",
     "slug": "haircut-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-verona-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -358,7 +358,7 @@
    {
     "keyword": "auto repair verona wi",
     "slug": "auto-repair-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-verona-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -373,7 +373,7 @@
    {
     "keyword": "car wash verona wi",
     "slug": "car-wash-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-verona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -388,7 +388,7 @@
    {
     "keyword": "mechanic verona wi",
     "slug": "mechanic-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-verona-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -403,7 +403,7 @@
    {
     "keyword": "bike shop verona wi",
     "slug": "bike-shop-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-verona-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -418,7 +418,7 @@
    {
     "keyword": "thrift store verona wi",
     "slug": "thrift-store-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-verona-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -435,7 +435,7 @@
    {
     "keyword": "dentist verona wi",
     "slug": "dentist-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-verona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -450,7 +450,7 @@
    {
     "keyword": "car wash verona wi",
     "slug": "car-wash-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-verona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -465,7 +465,7 @@
    {
     "keyword": "gym verona wi",
     "slug": "gym-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-verona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -480,7 +480,7 @@
    {
     "keyword": "electrician verona wi",
     "slug": "electrician-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-verona-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic verona wi",
     "slug": "mechanic-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-verona-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -510,7 +510,7 @@
    {
     "keyword": "vet verona wi",
     "slug": "vet-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-verona-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -525,7 +525,7 @@
    {
     "keyword": "landscaping verona wi",
     "slug": "landscaping-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-verona-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -540,7 +540,7 @@
    {
     "keyword": "haircut verona wi",
     "slug": "haircut-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-verona-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -555,7 +555,7 @@
    {
     "keyword": "auto repair verona wi",
     "slug": "auto-repair-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-verona-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog boarding verona wi",
     "slug": "dog-boarding-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-verona-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon verona wi",
     "slug": "hair-salon-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-verona-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -600,7 +600,7 @@
    {
     "keyword": "nail salon verona wi",
     "slug": "nail-salon-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-verona-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -615,7 +615,7 @@
    {
     "keyword": "yoga classes verona wi",
     "slug": "yoga-classes-verona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-verona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-verona-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,

@@ -13,12 +13,12 @@ Abiding Yoga By Lisa Ash is a yoga studio in Kansas City, MO at 5911 Main Street
 - Website: https://www.lisaashyoga.com/
 - Email: manager@lisaashyoga.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 27% of yoga studios in Kansas City, MO, #2 of 9 yoga studios in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 27% of yoga studios in Kansas City, MO, #2 of 9 yoga studios in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 55.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/abiding-yoga-by-lisa-ash-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/abiding-yoga-by-lisa-ash-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/abiding-yoga-by-lisa-ash-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/abiding-yoga-by-lisa-ash-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11642167767 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

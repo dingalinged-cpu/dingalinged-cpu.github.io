@@ -13,12 +13,12 @@ Texas Energy Concepts is a window installer in Hurst, TX at 1500 Central Park Dr
 - Website: https://txenergyconcepts.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 56% of window installers in Dallas–Fort Worth, #2 of 2 window installers in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 56% of window installers in Dallas–Fort Worth, #2 of 2 window installers in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/texas-energy-concepts-hurst/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/texas-energy-concepts-hurst.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-energy-concepts-hurst/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-energy-concepts-hurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/560008592 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Kennesaw, GA",
  "description": "Top Kennesaw, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Kennesaw, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 80,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage kennesaw ga",
     "slug": "massage-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-kennesaw-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care kennesaw ga",
     "slug": "urgent-care-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-kennesaw-ga/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 52000,
@@ -41,7 +41,7 @@
    {
     "keyword": "car wash kennesaw ga",
     "slug": "car-wash-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-kennesaw-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "dentist kennesaw ga",
     "slug": "dentist-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-kennesaw-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -71,7 +71,7 @@
    {
     "keyword": "gym kennesaw ga",
     "slug": "gym-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-kennesaw-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change kennesaw ga",
     "slug": "oil-change-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-kennesaw-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon kennesaw ga",
     "slug": "hair-salon-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-kennesaw-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon kennesaw ga",
     "slug": "nail-salon-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-kennesaw-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -131,7 +131,7 @@
    {
     "keyword": "mechanic kennesaw ga",
     "slug": "mechanic-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-kennesaw-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -146,7 +146,7 @@
    {
     "keyword": "tire shop kennesaw ga",
     "slug": "tire-shop-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-kennesaw-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -161,7 +161,7 @@
    {
     "keyword": "vet kennesaw ga",
     "slug": "vet-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-kennesaw-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -176,7 +176,7 @@
    {
     "keyword": "dog groomer kennesaw ga",
     "slug": "dog-groomer-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-kennesaw-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -191,7 +191,7 @@
    {
     "keyword": "haircut kennesaw ga",
     "slug": "haircut-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-kennesaw-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -206,7 +206,7 @@
    {
     "keyword": "auto repair kennesaw ga",
     "slug": "auto-repair-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-kennesaw-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -221,7 +221,7 @@
    {
     "keyword": "pilates kennesaw ga",
     "slug": "pilates-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-kennesaw-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair kennesaw ga",
     "slug": "hvac-repair-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-kennesaw-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "painters kennesaw ga",
     "slug": "painters-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/painters-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-kennesaw-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -268,7 +268,7 @@
    {
     "keyword": "electrician kennesaw ga",
     "slug": "electrician-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-kennesaw-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -283,7 +283,7 @@
    {
     "keyword": "attorney kennesaw ga",
     "slug": "attorney-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-kennesaw-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -298,7 +298,7 @@
    {
     "keyword": "lawyer kennesaw ga",
     "slug": "lawyer-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-kennesaw-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -313,7 +313,7 @@
    {
     "keyword": "landscaping kennesaw ga",
     "slug": "landscaping-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-kennesaw-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -328,7 +328,7 @@
    {
     "keyword": "window replacement kennesaw ga",
     "slug": "window-replacement-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-replacement-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-kennesaw-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -343,7 +343,7 @@
    {
     "keyword": "architect kennesaw ga",
     "slug": "architect-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-kennesaw-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -358,7 +358,7 @@
    {
     "keyword": "concrete contractor kennesaw ga",
     "slug": "concrete-contractor-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/concrete-contractor-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-kennesaw-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -373,7 +373,7 @@
    {
     "keyword": "flooring companies kennesaw ga",
     "slug": "flooring-companies-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-kennesaw-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -388,7 +388,7 @@
    {
     "keyword": "heating and air kennesaw ga",
     "slug": "heating-and-air-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-kennesaw-ga/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 68.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "insulation contractor kennesaw ga",
     "slug": "insulation-contractor-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insulation-contractor-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insulation-contractor-kennesaw-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -418,7 +418,7 @@
    {
     "keyword": "locksmith kennesaw ga",
     "slug": "locksmith-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-kennesaw-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -433,7 +433,7 @@
    {
     "keyword": "storage units kennesaw ga",
     "slug": "storage-units-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-kennesaw-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -448,7 +448,7 @@
    {
     "keyword": "bakery kennesaw ga",
     "slug": "bakery-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-kennesaw-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage kennesaw ga",
     "slug": "massage-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-kennesaw-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care kennesaw ga",
     "slug": "urgent-care-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-kennesaw-ga/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 52000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist kennesaw ga",
     "slug": "dentist-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-kennesaw-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash kennesaw ga",
     "slug": "car-wash-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-kennesaw-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -525,7 +525,7 @@
    {
     "keyword": "oil change kennesaw ga",
     "slug": "oil-change-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-kennesaw-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -540,7 +540,7 @@
    {
     "keyword": "gym kennesaw ga",
     "slug": "gym-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-kennesaw-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -555,7 +555,7 @@
    {
     "keyword": "electrician kennesaw ga",
     "slug": "electrician-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-kennesaw-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -570,7 +570,7 @@
    {
     "keyword": "mechanic kennesaw ga",
     "slug": "mechanic-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-kennesaw-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -585,7 +585,7 @@
    {
     "keyword": "tire shop kennesaw ga",
     "slug": "tire-shop-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-kennesaw-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -600,7 +600,7 @@
    {
     "keyword": "vet kennesaw ga",
     "slug": "vet-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-kennesaw-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -615,7 +615,7 @@
    {
     "keyword": "locksmith kennesaw ga",
     "slug": "locksmith-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-kennesaw-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -630,7 +630,7 @@
    {
     "keyword": "dog groomer kennesaw ga",
     "slug": "dog-groomer-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-kennesaw-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -645,7 +645,7 @@
    {
     "keyword": "pilates kennesaw ga",
     "slug": "pilates-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-kennesaw-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -660,7 +660,7 @@
    {
     "keyword": "landscaping kennesaw ga",
     "slug": "landscaping-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-kennesaw-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -675,7 +675,7 @@
    {
     "keyword": "haircut kennesaw ga",
     "slug": "haircut-kennesaw-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-kennesaw-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-kennesaw-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,

@@ -13,12 +13,12 @@ Public Storage is a self-storage facility in New Hope, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.6/100 — Building — top 90% of self-storage facilitys in Minneapolis–St. Paul, #2 of 3 self-storage facilitys in New Hope (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 42.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.6/100 — Building — top 90% of self-storage facilitys in Minneapolis–St. Paul, #2 of 3 self-storage facilitys in New Hope (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-new-hope/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-new-hope.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-new-hope/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-new-hope.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11349274809 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

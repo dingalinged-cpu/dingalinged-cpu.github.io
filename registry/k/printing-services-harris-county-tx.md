@@ -1,4 +1,4 @@
-The top unpaid printing services listing for Harris County, TX is Postal Copy Center (a printing service in Harris County, TX). 7 printing services businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Harris County, TX is Postal Copy Center (a printing service in Harris County, TX). 7 printing services businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Harris County, TX?
 
@@ -6,13 +6,13 @@ Also answers: printing services in Harris County, TX; printing services near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Postal Copy Center | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Postal Copy Center is a printing service in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/postal-copy-center-harris-county/
-2. Texas Mail & Copies | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Texas Mail & Copies is a printing service in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/texas-mail-and-copies-harris-county/
-3. FedEx Office | Organic #3 | Pulse Score 51.1/100 (Fair, #3 in city) | FedEx Office is a printing service in Harris County, TX. Phone: +17133303933. Website: https://local.fedex.com/en-us/tx/houston/office-0394. | https://dingalinged-cpu.github.io/registry/c/fedex-office-harris-county/
-4. The UPS Store | Organic #4 | Pulse Score 50.8/100 (Fair, #4 in city) | The UPS Store is a printing service in Harris County, TX at 15634 Wallisville Road, Harris County, TX 77049. Phone: +12814571006. Website: https://locations.theupsstore.com/tx/houston/15634-wallisville-rd. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-harris-county-n12304648601/
-5. The UPS Store | Organic #5 | Pulse Score 43/100 (Building, #5 in city) | The UPS Store is a printing service in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-harris-county/
-6. The UPS Store | Organic #6 | Pulse Score 42.1/100 (Building, #6 in city) | The UPS Store is a printing service in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-harris-county-n11132255725/
-7. The UPS Store | Organic #7 | Pulse Score 42.1/100 (Building, #7 in city) | The UPS Store is a printing service in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-harris-county-n13812550905/
+1. Postal Copy Center | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Postal Copy Center is a printing service in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/postal-copy-center-harris-county/
+2. Texas Mail & Copies | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Texas Mail & Copies is a printing service in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/texas-mail-and-copies-harris-county/
+3. FedEx Office | Organic #3 | Pulse Score 51.1/100 (Fair, #3 in city) | FedEx Office is a printing service in Harris County, TX. Phone: +17133303933. Website: https://local.fedex.com/en-us/tx/houston/office-0394. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-harris-county/
+4. The UPS Store | Organic #4 | Pulse Score 50.8/100 (Fair, #4 in city) | The UPS Store is a printing service in Harris County, TX at 15634 Wallisville Road, Harris County, TX 77049. Phone: +12814571006. Website: https://locations.theupsstore.com/tx/houston/15634-wallisville-rd. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-harris-county-n12304648601/
+5. The UPS Store | Organic #5 | Pulse Score 43/100 (Building, #5 in city) | The UPS Store is a printing service in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-harris-county/
+6. The UPS Store | Organic #6 | Pulse Score 42.1/100 (Building, #6 in city) | The UPS Store is a printing service in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-harris-county-n11132255725/
+7. The UPS Store | Organic #7 | Pulse Score 42.1/100 (Building, #7 in city) | The UPS Store is a printing service in Harris County, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-harris-county-n13812550905/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services harris county tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$260 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/printing-services.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#printing-services-harris-county-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/printing-services.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#printing-services-harris-county-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

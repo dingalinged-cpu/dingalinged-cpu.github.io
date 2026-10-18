@@ -2,7 +2,7 @@
  "title": "Keyword market data: New York, NY",
  "description": "Top New York, NY service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "New York, NY",
  "geography": "New York-Newark-Jersey City, NY-NJ metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage new york ny",
     "slug": "massage-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-new-york-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 290000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care new york ny",
     "slug": "urgent-care-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-new-york-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist new york ny",
     "slug": "dentist-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-new-york-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym new york ny",
     "slug": "gym-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-new-york-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash new york ny",
     "slug": "car-wash-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-new-york-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change new york ny",
     "slug": "oil-change-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-new-york-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon new york ny",
     "slug": "hair-salon-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-new-york-ny",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 88000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon new york ny",
     "slug": "nail-salon-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-new-york-ny",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 59000,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes new york ny",
     "slug": "car-insurance-quotes-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-new-york-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 48000,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber new york ny",
     "slug": "plumber-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-new-york-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 48000,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments new york ny",
     "slug": "apartments-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-new-york-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 48000,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance new york ny",
     "slug": "auto-insurance-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-new-york-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40000,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop new york ny",
     "slug": "barber-shop-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-new-york-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40000,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage new york ny",
     "slug": "lymphatic-drainage-massage-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-new-york-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40000,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic new york ny",
     "slug": "mechanic-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-new-york-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40000,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer new york ny",
     "slug": "personal-injury-lawyer-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-new-york-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber new york ny",
     "slug": "emergency-plumber-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-new-york-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair new york ny",
     "slug": "hvac-repair-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-new-york-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair new york ny",
     "slug": "ac-repair-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-new-york-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 22000,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement new york ny",
     "slug": "roof-replacement-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-new-york-ny",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair new york ny",
     "slug": "roof-repair-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-new-york-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast new york ny",
     "slug": "sell-my-house-fast-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-new-york-ny",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 580,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services new york ny",
     "slug": "plumbing-services-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-new-york-ny",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2900,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining new york ny",
     "slug": "deck-staining-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-new-york-ny",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters new york ny",
     "slug": "exterior-house-painters-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-new-york-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 710,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters new york ny",
     "slug": "interior-painters-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-new-york-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 710,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters new york ny",
     "slug": "painters-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-new-york-ny",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3600,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company new york ny",
     "slug": "moving-company-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-new-york-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney new york ny",
     "slug": "criminal-defense-attorney-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-new-york-ny",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer new york ny",
     "slug": "dui-defense-lawyer-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-new-york-ny",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 210,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage new york ny",
     "slug": "massage-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-new-york-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 290000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care new york ny",
     "slug": "urgent-care-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-new-york-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer new york ny",
     "slug": "personal-injury-lawyer-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-new-york-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber new york ny",
     "slug": "plumber-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-new-york-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 48000,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist new york ny",
     "slug": "dentist-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-new-york-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash new york ny",
     "slug": "car-wash-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-new-york-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change new york ny",
     "slug": "oil-change-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-new-york-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair new york ny",
     "slug": "ac-repair-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-new-york-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 22000,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer new york ny",
     "slug": "car-accident-lawyer-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-new-york-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 22000,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym new york ny",
     "slug": "gym-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-new-york-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110000,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage new york ny",
     "slug": "lymphatic-drainage-massage-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-new-york-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40000,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician new york ny",
     "slug": "electrician-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-new-york-ny",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic new york ny",
     "slug": "mechanic-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-new-york-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40000,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes new york ny",
     "slug": "car-insurance-quotes-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-new-york-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 48000,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement new york ny",
     "slug": "water-heater-replacement-new-york-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-new-york-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-new-york-ny",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,

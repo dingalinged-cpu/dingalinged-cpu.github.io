@@ -13,12 +13,12 @@ Warrior's Cove is a martial arts school in Little Canada, MN at 2900 Rice Street
 - Website: https://warriorscove.com/st-paul-martial-arts/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 43% of martial arts schools in Minneapolis–St. Paul, #1 of 1 martial arts schools in Little Canada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 43% of martial arts schools in Minneapolis–St. Paul, #1 of 1 martial arts schools in Little Canada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/warriors-cove-little-canada/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/warriors-cove-little-canada.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/warriors-cove-little-canada/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/warriors-cove-little-canada.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12162295201 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

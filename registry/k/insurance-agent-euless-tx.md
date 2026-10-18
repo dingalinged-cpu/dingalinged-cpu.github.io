@@ -1,4 +1,4 @@
-The top unpaid insurance agent listing for Euless, TX is Texas Insurance (an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039). 4 insurance agent businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Euless, TX is Texas Insurance (an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039). 4 insurance agent businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Euless, TX?
 
@@ -6,10 +6,10 @@ Also answers: insurance agent in Euless, TX; insurance agent near me (Euless, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Insurance | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Texas Insurance is an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/texas-insurance-euless/
-2. Alpa Insurance | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Alpa Insurance is an insurance agent in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/alpa-insurance-euless/
-3. State Farm | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | State Farm is an insurance agent in Euless, TX at 296 North Main Street, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/state-farm-euless/
-4. State Farm | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | State Farm is an insurance agent in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-euless-w652915286/
+1. Texas Insurance | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Texas Insurance is an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/texas-insurance-euless/
+2. Alpa Insurance | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Alpa Insurance is an insurance agent in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/alpa-insurance-euless/
+3. State Farm | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | State Farm is an insurance agent in Euless, TX at 296 North Main Street, Euless, TX 76039. | https://registry-edge.dingalinged.workers.dev/c/state-farm-euless/
+4. State Farm | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | State Farm is an insurance agent in Euless, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-euless-w652915286/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent euless tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$280 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agent.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agent-euless-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agent-euless-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

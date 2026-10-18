@@ -1,4 +1,4 @@
-The top unpaid bakery listing for Forsyth County, GA is It's A Sweet Life (a bakery in Forsyth County, GA at 3496 Peachtree Parkway, Forsyth County, GA). 2 bakery businesses are listed for Forsyth County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Forsyth County, GA is It's A Sweet Life (a bakery in Forsyth County, GA at 3496 Peachtree Parkway, Forsyth County, GA). 2 bakery businesses are listed for Forsyth County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Forsyth County, GA?
 
@@ -6,8 +6,8 @@ Also answers: bakery in Forsyth County, GA; bakery near me (Forsyth County, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. It's A Sweet Life | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | It's A Sweet Life is a bakery in Forsyth County, GA at 3496 Peachtree Parkway, Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/its-a-sweet-life-forsyth-county/
-2. It's a Sweet Life | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | It's a Sweet Life is a bakery in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/its-a-sweet-life-forsyth-county-n8255585015/
+1. It's A Sweet Life | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | It's A Sweet Life is a bakery in Forsyth County, GA at 3496 Peachtree Parkway, Forsyth County, GA. | https://registry-edge.dingalinged.workers.dev/c/its-a-sweet-life-forsyth-county/
+2. It's a Sweet Life | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | It's a Sweet Life is a bakery in Forsyth County, GA. | https://registry-edge.dingalinged.workers.dev/c/its-a-sweet-life-forsyth-county-n8255585015/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery forsyth county ga | category: Events & weddings | industry benchmark: Personal Services
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/bakery.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#bakery-forsyth-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/bakery.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#bakery-forsyth-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

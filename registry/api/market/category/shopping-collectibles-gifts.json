@@ -2,7 +2,7 @@
  "title": "Keyword market data: Shopping, Collectibles & Gifts",
  "description": "Top Shopping, Collectibles & Gifts keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Shopping, Collectibles & Gifts",
  "keywords": 22,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "ecommerce website",
     "slug": "ecommerce-website",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ecommerce-website",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ecommerce-website",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.14,
@@ -26,7 +26,7 @@
    {
     "keyword": "bike shop",
     "slug": "bike-shop",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -40,7 +40,7 @@
    {
     "keyword": "boutique",
     "slug": "boutique",
-    "url": "https://dingalinged-cpu.github.io/registry/k/boutique/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/boutique/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -54,7 +54,7 @@
    {
     "keyword": "bridal shop",
     "slug": "bridal-shop",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bridal-shop/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bridal-shop/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -68,7 +68,7 @@
    {
     "keyword": "cell phone repair",
     "slug": "cell-phone-repair",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cell-phone-repair",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cell-phone-repair",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -82,7 +82,7 @@
    {
     "keyword": "custom signs",
     "slug": "custom-signs",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#custom-signs",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#custom-signs",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -96,7 +96,7 @@
    {
     "keyword": "custom t shirts",
     "slug": "custom-t-shirts",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#custom-t-shirts",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#custom-t-shirts",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -110,7 +110,7 @@
    {
     "keyword": "ecommerce website",
     "slug": "ecommerce-website",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ecommerce-website",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ecommerce-website",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.14,
@@ -124,7 +124,7 @@
    {
     "keyword": "eyeglasses online",
     "slug": "eyeglasses-online",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#eyeglasses-online",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#eyeglasses-online",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -138,7 +138,7 @@
    {
     "keyword": "flower delivery",
     "slug": "flower-delivery",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#flower-delivery",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#flower-delivery",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -152,7 +152,7 @@
    {
     "keyword": "furniture store",
     "slug": "furniture-store",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -166,7 +166,7 @@
    {
     "keyword": "gift shop",
     "slug": "gift-shop",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -180,7 +180,7 @@
    {
     "keyword": "jewelry store",
     "slug": "jewelry-store",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -194,7 +194,7 @@
    {
     "keyword": "liquor store",
     "slug": "liquor-store",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -208,7 +208,7 @@
    {
     "keyword": "mattress store",
     "slug": "mattress-store",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -222,7 +222,7 @@
    {
     "keyword": "office furniture",
     "slug": "office-furniture",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#office-furniture",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#office-furniture",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -236,7 +236,7 @@
    {
     "keyword": "office supplies",
     "slug": "office-supplies",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#office-supplies",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#office-supplies",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -250,7 +250,7 @@
    {
     "keyword": "pet store",
     "slug": "pet-store",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -264,7 +264,7 @@
    {
     "keyword": "print on demand",
     "slug": "print-on-demand",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#print-on-demand",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#print-on-demand",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -278,7 +278,7 @@
    {
     "keyword": "promotional products",
     "slug": "promotional-products",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#promotional-products",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#promotional-products",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -292,7 +292,7 @@
    {
     "keyword": "thrift store",
     "slug": "thrift-store",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.14,
@@ -308,7 +308,7 @@
    {
     "keyword": "ecommerce website",
     "slug": "ecommerce-website",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ecommerce-website",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ecommerce-website",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.14,

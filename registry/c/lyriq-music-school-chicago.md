@@ -13,12 +13,12 @@ LYRIQ Music School is a music school in Chicago, IL at 1906 West Irving Park Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 62% of music schools in Chicago, #16 of 22 music schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 62% of music schools in Chicago, #16 of 22 music schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lyriq-music-school-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lyriq-music-school-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lyriq-music-school-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lyriq-music-school-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13147918303 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

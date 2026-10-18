@@ -13,12 +13,12 @@ Lake Zurich Tire & Auto is a tire shop in Lake Zurich, IL at 526 West Main Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 26% of tire shops in Chicago, #1 of 2 tire shops in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 26% of tire shops in Chicago, #1 of 2 tire shops in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lake-zurich-tire-and-auto-lake-zurich/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lake-zurich-tire-and-auto-lake-zurich.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lake-zurich-tire-and-auto-lake-zurich/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lake-zurich-tire-and-auto-lake-zurich.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1215808017 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Alton Heights Leading Office is a property management company in Kansas City, MO
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su off
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 63% of property management companys in Kansas City, MO, #7 of 9 property management companys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 63% of property management companys in Kansas City, MO, #7 of 9 property management companys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/alton-heights-leading-office-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/alton-heights-leading-office-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/alton-heights-leading-office-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/alton-heights-leading-office-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13398095311 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

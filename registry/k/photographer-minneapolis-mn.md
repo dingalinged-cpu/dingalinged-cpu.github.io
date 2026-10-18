@@ -1,4 +1,4 @@
-The top unpaid photographer listing for Minneapolis, MN is Sports Star Photography (a photographer in Minneapolis, MN at 3948 Lyndale Avenue South, Minneapolis, MN 55409. Phone: +16128243509. Website: https://www.sportsstarphoto.com/). 4 photographer businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Minneapolis, MN is Sports Star Photography (a photographer in Minneapolis, MN at 3948 Lyndale Avenue South, Minneapolis, MN 55409. Phone: +16128243509. Website: https://www.sportsstarphoto.com/). 4 photographer businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Minneapolis, MN?
 
@@ -6,10 +6,10 @@ Also answers: photographer in Minneapolis, MN; photographer near me (Minneapolis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sports Star Photography | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Sports Star Photography is a photographer in Minneapolis, MN at 3948 Lyndale Avenue South, Minneapolis, MN 55409. Phone: +16128243509. Website: https://www.sportsstarphoto.com/. | https://dingalinged-cpu.github.io/registry/c/sports-star-photography-minneapolis/
-2. Bundle Studios | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Bundle Studios is a photographer in Minneapolis, MN at 733 East 48th Street, Minneapolis, MN 55417. Website: https://bundlestudios.com/. | https://dingalinged-cpu.github.io/registry/c/bundle-studios-minneapolis/
-3. Heather Fenske Photography | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Heather Fenske Photography is a photographer in Minneapolis, MN. Website: https://www.heatherfenskephotography.com/. | https://dingalinged-cpu.github.io/registry/c/heather-fenske-photography-minneapolis/
-4. Little Lion Studio | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Little Lion Studio is a photographer in Minneapolis, MN. Website: https://www.littlelion-studio.com/. | https://dingalinged-cpu.github.io/registry/c/little-lion-studio-minneapolis/
+1. Sports Star Photography | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Sports Star Photography is a photographer in Minneapolis, MN at 3948 Lyndale Avenue South, Minneapolis, MN 55409. Phone: +16128243509. Website: https://www.sportsstarphoto.com/. | https://registry-edge.dingalinged.workers.dev/c/sports-star-photography-minneapolis/
+2. Bundle Studios | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Bundle Studios is a photographer in Minneapolis, MN at 733 East 48th Street, Minneapolis, MN 55417. Website: https://bundlestudios.com/. | https://registry-edge.dingalinged.workers.dev/c/bundle-studios-minneapolis/
+3. Heather Fenske Photography | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Heather Fenske Photography is a photographer in Minneapolis, MN. Website: https://www.heatherfenskephotography.com/. | https://registry-edge.dingalinged.workers.dev/c/heather-fenske-photography-minneapolis/
+4. Little Lion Studio | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Little Lion Studio is a photographer in Minneapolis, MN. Website: https://www.littlelion-studio.com/. | https://registry-edge.dingalinged.workers.dev/c/little-lion-studio-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer minneapolis mn | category: Events & weddings | industry benchmark: Personal Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/photographer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#photographer-minneapolis-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/photographer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#photographer-minneapolis-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

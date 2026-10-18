@@ -2,7 +2,7 @@
  "title": "Keyword market data: Syracuse, NY",
  "description": "Top Syracuse, NY service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Syracuse, NY",
  "geography": "Syracuse, NY metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage syracuse ny",
     "slug": "massage-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-syracuse-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9500,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care syracuse ny",
     "slug": "urgent-care-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-syracuse-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5200,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist syracuse ny",
     "slug": "dentist-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-syracuse-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym syracuse ny",
     "slug": "gym-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-syracuse-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash syracuse ny",
     "slug": "car-wash-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-syracuse-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change syracuse ny",
     "slug": "oil-change-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-syracuse-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon syracuse ny",
     "slug": "hair-salon-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-syracuse-ny",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2900,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon syracuse ny",
     "slug": "nail-salon-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-syracuse-ny",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes syracuse ny",
     "slug": "car-insurance-quotes-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-syracuse-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber syracuse ny",
     "slug": "plumber-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-syracuse-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments syracuse ny",
     "slug": "apartments-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-syracuse-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance syracuse ny",
     "slug": "auto-insurance-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-syracuse-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop syracuse ny",
     "slug": "barber-shop-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-syracuse-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage syracuse ny",
     "slug": "lymphatic-drainage-massage-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-syracuse-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic syracuse ny",
     "slug": "mechanic-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-syracuse-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer syracuse ny",
     "slug": "personal-injury-lawyer-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-syracuse-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 380,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber syracuse ny",
     "slug": "emergency-plumber-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-syracuse-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair syracuse ny",
     "slug": "hvac-repair-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-syracuse-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair syracuse ny",
     "slug": "ac-repair-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-syracuse-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 700,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement syracuse ny",
     "slug": "roof-replacement-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-syracuse-ny",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 63.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair syracuse ny",
     "slug": "roof-repair-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-syracuse-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast syracuse ny",
     "slug": "sell-my-house-fast-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-syracuse-ny",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services syracuse ny",
     "slug": "plumbing-services-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-syracuse-ny",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 94.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining syracuse ny",
     "slug": "deck-staining-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-syracuse-ny",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters syracuse ny",
     "slug": "exterior-house-painters-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-syracuse-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters syracuse ny",
     "slug": "interior-painters-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-syracuse-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters syracuse ny",
     "slug": "painters-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-syracuse-ny",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company syracuse ny",
     "slug": "moving-company-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-syracuse-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 380,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney syracuse ny",
     "slug": "criminal-defense-attorney-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-syracuse-ny",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer syracuse ny",
     "slug": "dui-defense-lawyer-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-syracuse-ny",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6.9,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage syracuse ny",
     "slug": "massage-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-syracuse-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9500,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care syracuse ny",
     "slug": "urgent-care-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-syracuse-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5200,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer syracuse ny",
     "slug": "personal-injury-lawyer-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-syracuse-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 380,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber syracuse ny",
     "slug": "plumber-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-syracuse-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist syracuse ny",
     "slug": "dentist-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-syracuse-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash syracuse ny",
     "slug": "car-wash-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-syracuse-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change syracuse ny",
     "slug": "oil-change-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-syracuse-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair syracuse ny",
     "slug": "ac-repair-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-syracuse-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 700,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer syracuse ny",
     "slug": "car-accident-lawyer-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-syracuse-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 700,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage syracuse ny",
     "slug": "lymphatic-drainage-massage-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-syracuse-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym syracuse ny",
     "slug": "gym-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-syracuse-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician syracuse ny",
     "slug": "electrician-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-syracuse-ny",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 470,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic syracuse ny",
     "slug": "mechanic-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-syracuse-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes syracuse ny",
     "slug": "car-insurance-quotes-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-syracuse-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments syracuse ny",
     "slug": "apartments-syracuse-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-syracuse-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-syracuse-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,

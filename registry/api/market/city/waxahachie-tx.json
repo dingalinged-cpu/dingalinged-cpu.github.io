@@ -2,7 +2,7 @@
  "title": "Keyword market data: Waxahachie, TX",
  "description": "Top Waxahachie, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Waxahachie, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 40,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash waxahachie tx",
     "slug": "car-wash-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-waxahachie-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist waxahachie tx",
     "slug": "dentist-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waxahachie-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym waxahachie tx",
     "slug": "gym-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-waxahachie-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "oil change waxahachie tx",
     "slug": "oil-change-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-waxahachie-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon waxahachie tx",
     "slug": "hair-salon-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-waxahachie-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon waxahachie tx",
     "slug": "nail-salon-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-waxahachie-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "plumber waxahachie tx",
     "slug": "plumber-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-waxahachie-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic waxahachie tx",
     "slug": "mechanic-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-waxahachie-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop waxahachie tx",
     "slug": "tire-shop-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-waxahachie-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet waxahachie tx",
     "slug": "vet-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-waxahachie-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut waxahachie tx",
     "slug": "haircut-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-waxahachie-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair waxahachie tx",
     "slug": "auto-repair-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-waxahachie-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -191,7 +191,7 @@
    {
     "keyword": "financial advisor waxahachie tx",
     "slug": "financial-advisor-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-waxahachie-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -206,7 +206,7 @@
    {
     "keyword": "real estate agent waxahachie tx",
     "slug": "real-estate-agent-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-waxahachie-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -221,7 +221,7 @@
    {
     "keyword": "brake repair waxahachie tx",
     "slug": "brake-repair-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/brake-repair-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/brake-repair-waxahachie-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -238,7 +238,7 @@
    {
     "keyword": "plumbing services waxahachie tx",
     "slug": "plumbing-services-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-waxahachie-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumber waxahachie tx",
     "slug": "plumber-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-waxahachie-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofing contractor waxahachie tx",
     "slug": "roofing-contractor-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-waxahachie-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -283,7 +283,7 @@
    {
     "keyword": "roofer waxahachie tx",
     "slug": "roofer-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-waxahachie-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -298,7 +298,7 @@
    {
     "keyword": "attorney waxahachie tx",
     "slug": "attorney-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-waxahachie-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -313,7 +313,7 @@
    {
     "keyword": "lawyer waxahachie tx",
     "slug": "lawyer-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-waxahachie-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -328,7 +328,7 @@
    {
     "keyword": "architect waxahachie tx",
     "slug": "architect-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-waxahachie-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbers waxahachie tx",
     "slug": "plumbers-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-waxahachie-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "storage units waxahachie tx",
     "slug": "storage-units-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-waxahachie-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -373,7 +373,7 @@
    {
     "keyword": "event venues waxahachie tx",
     "slug": "event-venues-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-waxahachie-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "staffing agency waxahachie tx",
     "slug": "staffing-agency-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-waxahachie-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -403,7 +403,7 @@
    {
     "keyword": "daycare waxahachie tx",
     "slug": "daycare-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-waxahachie-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -418,7 +418,7 @@
    {
     "keyword": "driving school waxahachie tx",
     "slug": "driving-school-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-waxahachie-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -433,7 +433,7 @@
    {
     "keyword": "dentist waxahachie tx",
     "slug": "dentist-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waxahachie-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -448,7 +448,7 @@
    {
     "keyword": "haircut waxahachie tx",
     "slug": "haircut-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-waxahachie-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -465,7 +465,7 @@
    {
     "keyword": "plumber waxahachie tx",
     "slug": "plumber-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-waxahachie-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist waxahachie tx",
     "slug": "dentist-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waxahachie-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash waxahachie tx",
     "slug": "car-wash-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-waxahachie-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "oil change waxahachie tx",
     "slug": "oil-change-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-waxahachie-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym waxahachie tx",
     "slug": "gym-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-waxahachie-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic waxahachie tx",
     "slug": "mechanic-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-waxahachie-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop waxahachie tx",
     "slug": "tire-shop-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-waxahachie-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet waxahachie tx",
     "slug": "vet-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-waxahachie-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut waxahachie tx",
     "slug": "haircut-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-waxahachie-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -600,7 +600,7 @@
    {
     "keyword": "roofing contractor waxahachie tx",
     "slug": "roofing-contractor-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-waxahachie-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair waxahachie tx",
     "slug": "auto-repair-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-waxahachie-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -630,7 +630,7 @@
    {
     "keyword": "financial advisor waxahachie tx",
     "slug": "financial-advisor-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-waxahachie-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -645,7 +645,7 @@
    {
     "keyword": "hair salon waxahachie tx",
     "slug": "hair-salon-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-waxahachie-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -660,7 +660,7 @@
    {
     "keyword": "attorney waxahachie tx",
     "slug": "attorney-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-waxahachie-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -675,7 +675,7 @@
    {
     "keyword": "real estate agent waxahachie tx",
     "slug": "real-estate-agent-waxahachie-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-waxahachie-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-waxahachie-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,

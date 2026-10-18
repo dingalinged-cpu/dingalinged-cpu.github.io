@@ -1,4 +1,4 @@
-The top unpaid physical therapy listing for Elk Grove Village, IL is Doctors of Physical Therapy (a physical therapy clinic in Elk Grove Village, IL at 80 Biesterfield Road, Elk Grove Village, IL 60007). 2 physical therapy businesses are listed for Elk Grove Village, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Elk Grove Village, IL is Doctors of Physical Therapy (a physical therapy clinic in Elk Grove Village, IL at 80 Biesterfield Road, Elk Grove Village, IL 60007). 2 physical therapy businesses are listed for Elk Grove Village, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Elk Grove Village, IL?
 
@@ -6,8 +6,8 @@ Also answers: physical therapy in Elk Grove Village, IL; physical therapy near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Doctors of Physical Therapy | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | Doctors of Physical Therapy is a physical therapy clinic in Elk Grove Village, IL at 80 Biesterfield Road, Elk Grove Village, IL 60007. | https://dingalinged-cpu.github.io/registry/c/doctors-of-physical-therapy-elk-grove-village/
-2. ATI Physical Therapy | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | ATI Physical Therapy is a physical therapy clinic in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-elk-grove-village/
+1. Doctors of Physical Therapy | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | Doctors of Physical Therapy is a physical therapy clinic in Elk Grove Village, IL at 80 Biesterfield Road, Elk Grove Village, IL 60007. | https://registry-edge.dingalinged.workers.dev/c/doctors-of-physical-therapy-elk-grove-village/
+2. ATI Physical Therapy | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | ATI Physical Therapy is a physical therapy clinic in Elk Grove Village, IL. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapy-elk-grove-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy elk grove village il | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/physical-therapy.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#physical-therapy-elk-grove-village-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/physical-therapy.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#physical-therapy-elk-grove-village-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

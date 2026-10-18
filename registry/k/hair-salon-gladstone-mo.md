@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Gladstone, MO is Carol's Hair Beautique (a hair salon in Gladstone, MO at 6404 North Oak Trafficway, Gladstone, MO 64118). 3 hair salon businesses are listed for Gladstone, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Gladstone, MO is Carol's Hair Beautique (a hair salon in Gladstone, MO at 6404 North Oak Trafficway, Gladstone, MO 64118). 3 hair salon businesses are listed for Gladstone, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Gladstone, MO?
 
@@ -6,9 +6,9 @@ Also answers: hair salon in Gladstone, MO; hair salon near me (Gladstone, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carol's Hair Beautique | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Carol's Hair Beautique is a hair salon in Gladstone, MO at 6404 North Oak Trafficway, Gladstone, MO 64118. | https://dingalinged-cpu.github.io/registry/c/carols-hair-beautique-gladstone/
-2. Randy and Alfred's Hair Design | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Randy and Alfred's Hair Design is a hair salon in Gladstone, MO at 6402 North Oak Trafficway, Gladstone, MO 64118. | https://dingalinged-cpu.github.io/registry/c/randy-and-alfreds-hair-design-gladstone/
-3. Great Clips | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | Great Clips is a hair salon in Gladstone, MO at 6415 North Prospect Avenue, Gladstone, MO 64119. Website: https://www.greatclips.com/salons/1798. | https://dingalinged-cpu.github.io/registry/c/great-clips-gladstone/
+1. Carol's Hair Beautique | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Carol's Hair Beautique is a hair salon in Gladstone, MO at 6404 North Oak Trafficway, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/carols-hair-beautique-gladstone/
+2. Randy and Alfred's Hair Design | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Randy and Alfred's Hair Design is a hair salon in Gladstone, MO at 6402 North Oak Trafficway, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/randy-and-alfreds-hair-design-gladstone/
+3. Great Clips | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | Great Clips is a hair salon in Gladstone, MO at 6415 North Prospect Avenue, Gladstone, MO 64119. Website: https://www.greatclips.com/salons/1798. | https://registry-edge.dingalinged.workers.dev/c/great-clips-gladstone/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon gladstone mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$310 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/hair-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-gladstone-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-gladstone-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

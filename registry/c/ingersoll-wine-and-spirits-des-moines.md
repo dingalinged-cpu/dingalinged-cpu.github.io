@@ -13,12 +13,12 @@ Ingersoll Wine & Spirits is a liquor store in Des Moines, IA at 536 35th Street,
 - Website: https://www.ingersollwine.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-18:00; Su 12:00-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 5% of liquor stores in Des Moines, IA, #1 of 6 liquor stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 5% of liquor stores in Des Moines, IA, #1 of 6 liquor stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 64.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ingersoll-wine-and-spirits-des-moines/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ingersoll-wine-and-spirits-des-moines.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ingersoll-wine-and-spirits-des-moines/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ingersoll-wine-and-spirits-des-moines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/155925686 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

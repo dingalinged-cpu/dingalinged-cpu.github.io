@@ -13,12 +13,12 @@ Precision Weight Loss is a business consultant in Atlanta, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 86% of business consultants in Atlanta, #5 of 7 business consultants in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58, Trust 39.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 86% of business consultants in Atlanta, #5 of 7 business consultants in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/precision-weight-loss-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/precision-weight-loss-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/precision-weight-loss-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/precision-weight-loss-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8975673107 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

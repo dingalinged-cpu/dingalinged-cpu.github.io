@@ -13,12 +13,12 @@ Edward Jones Financial Advisor - Matthew McManus , AAMS™ is a financial adviso
 - Website: https://www.edwardjones.com/us-en/financial-advisor/matthew-mcmanus
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Fair — top 23% of financial advisors in Atlanta, #2 of 3 financial advisors in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Fair — top 23% of financial advisors in Atlanta, #2 of 3 financial advisors in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 53.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-financial-advisor-matthew-mcmanus-aams-kennesaw/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-financial-advisor-matthew-mcmanus-aams-kennesaw.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-financial-advisor-matthew-mcmanus-aams-kennesaw/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-financial-advisor-matthew-mcmanus-aams-kennesaw.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1309156788 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

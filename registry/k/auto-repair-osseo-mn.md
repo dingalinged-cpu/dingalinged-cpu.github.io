@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Osseo, MN is Bob & Carl's Auto Body (an auto repair shop in Osseo, MN at 107 Central Avenue, Osseo, MN 55369). 3 auto repair businesses are listed for Osseo, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Osseo, MN is Bob & Carl's Auto Body (an auto repair shop in Osseo, MN at 107 Central Avenue, Osseo, MN 55369). 3 auto repair businesses are listed for Osseo, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Osseo, MN?
 
@@ -6,9 +6,9 @@ Also answers: auto repair in Osseo, MN; auto repair near me (Osseo, MN); best au
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bob & Carl's Auto Body | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Bob & Carl's Auto Body is an auto repair shop in Osseo, MN at 107 Central Avenue, Osseo, MN 55369. | https://dingalinged-cpu.github.io/registry/c/bob-and-carls-auto-body-osseo/
-2. C&J Automotive | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | C&J Automotive is an auto repair shop in Osseo, MN at 248 Central Avenue, Osseo, MN 55369. | https://dingalinged-cpu.github.io/registry/c/c-and-j-automotive-osseo/
-3. Sipe Bros. | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Sipe Bros. is an auto repair shop in Osseo, MN at 408 3rd Street Southeast, Osseo, MN 55369. | https://dingalinged-cpu.github.io/registry/c/sipe-bros-osseo/
+1. Bob & Carl's Auto Body | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Bob & Carl's Auto Body is an auto repair shop in Osseo, MN at 107 Central Avenue, Osseo, MN 55369. | https://registry-edge.dingalinged.workers.dev/c/bob-and-carls-auto-body-osseo/
+2. C&J Automotive | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | C&J Automotive is an auto repair shop in Osseo, MN at 248 Central Avenue, Osseo, MN 55369. | https://registry-edge.dingalinged.workers.dev/c/c-and-j-automotive-osseo/
+3. Sipe Bros. | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Sipe Bros. is an auto repair shop in Osseo, MN at 408 3rd Street Southeast, Osseo, MN 55369. | https://registry-edge.dingalinged.workers.dev/c/sipe-bros-osseo/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair osseo mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-osseo-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-osseo-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

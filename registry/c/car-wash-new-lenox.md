@@ -13,12 +13,12 @@ Car Wash is a car wash in New Lenox, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 100% of car washes in Chicago, #5 of 5 car washes in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 40.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 100% of car washes in Chicago, #5 of 5 car washes in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/car-wash-new-lenox/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/car-wash-new-lenox.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/car-wash-new-lenox/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/car-wash-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1211889494 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

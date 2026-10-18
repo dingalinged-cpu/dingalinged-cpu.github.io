@@ -1,4 +1,4 @@
-The top unpaid therapist listing for Flower Mound, TX is Medi Weightloss (a therapy practice in Flower Mound, TX. Phone: +14698302121. Website: https://www.mediweightloss.com/). 7 therapist businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Flower Mound, TX is Medi Weightloss (a therapy practice in Flower Mound, TX. Phone: +14698302121. Website: https://www.mediweightloss.com/). 7 therapist businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Flower Mound, TX?
 
@@ -6,13 +6,13 @@ Also answers: therapist in Flower Mound, TX; therapist near me (Flower Mound, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Medi Weightloss | Organic #1 | Pulse Score 62.2/100 (Good, #1 in city) | Medi Weightloss is a therapy practice in Flower Mound, TX. Phone: +14698302121. Website: https://www.mediweightloss.com/. | https://dingalinged-cpu.github.io/registry/c/medi-weightloss-flower-mound/
-2. Blue Sprig | Organic #2 | Pulse Score 60.5/100 (Good, #2 in city) | Blue Sprig is a therapy practice in Flower Mound, TX at 4491 Long Prairie Road #300, Flower Mound, TX. Website: https://www.bluesprigautism.com/centers/texas/bluesprig-flower-mound/. | https://dingalinged-cpu.github.io/registry/c/blue-sprig-flower-mound/
-3. North Pointe Psychiatry | Organic #3 | Pulse Score 58.1/100 (Fair, #3 in city) | North Pointe Psychiatry is a therapy practice in Flower Mound, TX at 4491 Long Prairie Road #600, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/north-pointe-psychiatry-flower-mound/
-4. Oak & Willow Counseling | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Oak & Willow Counseling is a therapy practice in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/oak-and-willow-counseling-flower-mound/
-5. Guiding Compass Counseling | Organic #5 | Pulse Score 55.7/100 (Unrated, #5 in city) | Guiding Compass Counseling is a therapy practice in Flower Mound, TX at 4431 Long Prairie Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/guiding-compass-counseling-flower-mound/
-6. Whitney McGee Psychological Services, PLCC | Organic #6 | Pulse Score 54/100 (Unrated, #6 in city) | Whitney McGee Psychological Services, PLCC is a therapy practice in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/whitney-mcgee-psychological-services-plcc-flower-mound/
-7. Behavioral Innovations | Organic #7 | Pulse Score 47.5/100 (Building, #7 in city) | Behavioral Innovations is a therapy practice in Flower Mound, TX. Phone: +19728952365. | https://dingalinged-cpu.github.io/registry/c/behavioral-innovations-flower-mound/
+1. Medi Weightloss | Organic #1 | Pulse Score 62.2/100 (Good, #1 in city) | Medi Weightloss is a therapy practice in Flower Mound, TX. Phone: +14698302121. Website: https://www.mediweightloss.com/. | https://registry-edge.dingalinged.workers.dev/c/medi-weightloss-flower-mound/
+2. Blue Sprig | Organic #2 | Pulse Score 60.5/100 (Good, #2 in city) | Blue Sprig is a therapy practice in Flower Mound, TX at 4491 Long Prairie Road #300, Flower Mound, TX. Website: https://www.bluesprigautism.com/centers/texas/bluesprig-flower-mound/. | https://registry-edge.dingalinged.workers.dev/c/blue-sprig-flower-mound/
+3. North Pointe Psychiatry | Organic #3 | Pulse Score 58.1/100 (Fair, #3 in city) | North Pointe Psychiatry is a therapy practice in Flower Mound, TX at 4491 Long Prairie Road #600, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/north-pointe-psychiatry-flower-mound/
+4. Oak & Willow Counseling | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Oak & Willow Counseling is a therapy practice in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/oak-and-willow-counseling-flower-mound/
+5. Guiding Compass Counseling | Organic #5 | Pulse Score 55.7/100 (Unrated, #5 in city) | Guiding Compass Counseling is a therapy practice in Flower Mound, TX at 4431 Long Prairie Road, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/guiding-compass-counseling-flower-mound/
+6. Whitney McGee Psychological Services, PLCC | Organic #6 | Pulse Score 54/100 (Unrated, #6 in city) | Whitney McGee Psychological Services, PLCC is a therapy practice in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/whitney-mcgee-psychological-services-plcc-flower-mound/
+7. Behavioral Innovations | Organic #7 | Pulse Score 47.5/100 (Building, #7 in city) | Behavioral Innovations is a therapy practice in Flower Mound, TX. Phone: +19728952365. | https://registry-edge.dingalinged.workers.dev/c/behavioral-innovations-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist flower mound tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/therapist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#therapist-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/therapist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#therapist-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

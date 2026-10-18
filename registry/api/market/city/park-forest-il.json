@@ -2,7 +2,7 @@
  "title": "Keyword market data: Park Forest, IL",
  "description": "Top Park Forest, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Park Forest, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 5,
@@ -11,7 +11,7 @@
    {
     "keyword": "insurance agency park forest il",
     "slug": "insurance-agency-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-park-forest-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -26,7 +26,7 @@
    {
     "keyword": "insurance agents park forest il",
     "slug": "insurance-agents-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-park-forest-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -41,7 +41,7 @@
    {
     "keyword": "insurance agent park forest il",
     "slug": "insurance-agent-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-park-forest-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -58,7 +58,7 @@
    {
     "keyword": "storage units park forest il",
     "slug": "storage-units-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-park-forest-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -73,7 +73,7 @@
    {
     "keyword": "preschool park forest il",
     "slug": "preschool-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-park-forest-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -88,7 +88,7 @@
    {
     "keyword": "insurance agency park forest il",
     "slug": "insurance-agency-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-park-forest-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -103,7 +103,7 @@
    {
     "keyword": "insurance agent park forest il",
     "slug": "insurance-agent-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-park-forest-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -118,7 +118,7 @@
    {
     "keyword": "insurance agents park forest il",
     "slug": "insurance-agents-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-park-forest-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -135,7 +135,7 @@
    {
     "keyword": "insurance agency park forest il",
     "slug": "insurance-agency-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-park-forest-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -150,7 +150,7 @@
    {
     "keyword": "insurance agents park forest il",
     "slug": "insurance-agents-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-park-forest-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -165,7 +165,7 @@
    {
     "keyword": "insurance agent park forest il",
     "slug": "insurance-agent-park-forest-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-park-forest-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-park-forest-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

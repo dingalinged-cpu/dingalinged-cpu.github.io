@@ -13,12 +13,12 @@ Dreamland Child Care Center is a daycare in Racine, WI at 3034 Kentucky Street, 
 - Website: https://www.facebook.com/people/Dreamland-Childcare-Center-LLC/100066535120240/?sk=about
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.3/100 — Good — top 2% of daycares in Milwaukee, #1 of 1 daycares in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 66.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 2% of daycares in Milwaukee, #1 of 1 daycares in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 66.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dreamland-child-care-center-racine/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dreamland-child-care-center-racine.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dreamland-child-care-center-racine/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dreamland-child-care-center-racine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/668753031 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for Waxahachie, TX is Big Thrift (a thrift store in Waxahachie, TX at 109 North Elm Street, Waxahachie, TX 75165). 3 thrift store businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Waxahachie, TX is Big Thrift (a thrift store in Waxahachie, TX at 109 North Elm Street, Waxahachie, TX 75165). 3 thrift store businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Waxahachie, TX?
 
@@ -6,9 +6,9 @@ Also answers: thrift store in Waxahachie, TX; thrift store near me (Waxahachie, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Thrift | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Big Thrift is a thrift store in Waxahachie, TX at 109 North Elm Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/big-thrift-waxahachie/
-2. Soul's Harbor Thrift Store | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Soul's Harbor Thrift Store is a thrift store in Waxahachie, TX at 215 East Madison Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/souls-harbor-thrift-store-waxahachie/
-3. Baylor Auxiliary Thrift Store | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | Baylor Auxiliary Thrift Store is a thrift store in Waxahachie, TX at 431 North College Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/baylor-auxiliary-thrift-store-waxahachie/
+1. Big Thrift | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Big Thrift is a thrift store in Waxahachie, TX at 109 North Elm Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/big-thrift-waxahachie/
+2. Soul's Harbor Thrift Store | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Soul's Harbor Thrift Store is a thrift store in Waxahachie, TX at 215 East Madison Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/souls-harbor-thrift-store-waxahachie/
+3. Baylor Auxiliary Thrift Store | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | Baylor Auxiliary Thrift Store is a thrift store in Waxahachie, TX at 431 North College Street, Waxahachie, TX 75165. | https://registry-edge.dingalinged.workers.dev/c/baylor-auxiliary-thrift-store-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store waxahachie tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#thrift-store-waxahachie-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/thrift-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#thrift-store-waxahachie-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

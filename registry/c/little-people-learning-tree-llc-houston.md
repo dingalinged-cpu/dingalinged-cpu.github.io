@@ -13,12 +13,12 @@ Little People Learning Tree, LLC is a daycare in Houston, TX at 457 Pickering St
 - Website: https://littlepeopleslearningtree.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:30
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of daycares in Houston, #4 of 23 daycares in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of daycares in Houston, #4 of 23 daycares in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/little-people-learning-tree-llc-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/little-people-learning-tree-llc-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/little-people-learning-tree-llc-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/little-people-learning-tree-llc-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/921805490 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

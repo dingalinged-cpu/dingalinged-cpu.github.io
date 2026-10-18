@@ -2,7 +2,7 @@
  "title": "Keyword market data: Lombard, IL",
  "description": "Top Lombard, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Lombard, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 38,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash lombard il",
     "slug": "car-wash-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lombard-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist lombard il",
     "slug": "dentist-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-lombard-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym lombard il",
     "slug": "gym-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-lombard-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon lombard il",
     "slug": "hair-salon-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-lombard-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon lombard il",
     "slug": "nail-salon-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-lombard-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic lombard il",
     "slug": "mechanic-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-lombard-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop lombard il",
     "slug": "tire-shop-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-lombard-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -116,7 +116,7 @@
    {
     "keyword": "vet lombard il",
     "slug": "vet-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-lombard-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -131,7 +131,7 @@
    {
     "keyword": "dog groomer lombard il",
     "slug": "dog-groomer-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lombard-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -146,7 +146,7 @@
    {
     "keyword": "haircut lombard il",
     "slug": "haircut-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lombard-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -161,7 +161,7 @@
    {
     "keyword": "auto repair lombard il",
     "slug": "auto-repair-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-lombard-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -176,7 +176,7 @@
    {
     "keyword": "dog boarding lombard il",
     "slug": "dog-boarding-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-lombard-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -191,7 +191,7 @@
    {
     "keyword": "real estate agent lombard il",
     "slug": "real-estate-agent-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lombard-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agency lombard il",
     "slug": "insurance-agency-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lombard-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -221,7 +221,7 @@
    {
     "keyword": "realtor lombard il",
     "slug": "realtor-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-lombard-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney lombard il",
     "slug": "attorney-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-lombard-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer lombard il",
     "slug": "lawyer-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-lombard-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -268,7 +268,7 @@
    {
     "keyword": "flooring companies lombard il",
     "slug": "flooring-companies-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-lombard-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -283,7 +283,7 @@
    {
     "keyword": "storage units lombard il",
     "slug": "storage-units-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-lombard-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -298,7 +298,7 @@
    {
     "keyword": "event venues lombard il",
     "slug": "event-venues-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-lombard-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "tax preparer lombard il",
     "slug": "tax-preparer-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lombard-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -328,7 +328,7 @@
    {
     "keyword": "preschool lombard il",
     "slug": "preschool-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-lombard-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "therapist lombard il",
     "slug": "therapist-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-lombard-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -358,7 +358,7 @@
    {
     "keyword": "dentist lombard il",
     "slug": "dentist-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-lombard-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -373,7 +373,7 @@
    {
     "keyword": "facial lombard il",
     "slug": "facial-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-lombard-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -388,7 +388,7 @@
    {
     "keyword": "haircut lombard il",
     "slug": "haircut-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lombard-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -403,7 +403,7 @@
    {
     "keyword": "auto body shop lombard il",
     "slug": "auto-body-shop-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-lombard-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -418,7 +418,7 @@
    {
     "keyword": "auto repair lombard il",
     "slug": "auto-repair-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-lombard-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -433,7 +433,7 @@
    {
     "keyword": "car wash lombard il",
     "slug": "car-wash-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lombard-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -448,7 +448,7 @@
    {
     "keyword": "mechanic lombard il",
     "slug": "mechanic-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-lombard-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist lombard il",
     "slug": "dentist-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-lombard-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash lombard il",
     "slug": "car-wash-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lombard-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym lombard il",
     "slug": "gym-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-lombard-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic lombard il",
     "slug": "mechanic-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-lombard-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop lombard il",
     "slug": "tire-shop-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-lombard-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet lombard il",
     "slug": "vet-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-lombard-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "dog groomer lombard il",
     "slug": "dog-groomer-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-lombard-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut lombard il",
     "slug": "haircut-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lombard-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair lombard il",
     "slug": "auto-repair-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-lombard-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -600,7 +600,7 @@
    {
     "keyword": "dog boarding lombard il",
     "slug": "dog-boarding-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-lombard-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -615,7 +615,7 @@
    {
     "keyword": "hair salon lombard il",
     "slug": "hair-salon-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-lombard-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -630,7 +630,7 @@
    {
     "keyword": "attorney lombard il",
     "slug": "attorney-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-lombard-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -645,7 +645,7 @@
    {
     "keyword": "real estate agent lombard il",
     "slug": "real-estate-agent-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lombard-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -660,7 +660,7 @@
    {
     "keyword": "nail salon lombard il",
     "slug": "nail-salon-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-lombard-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -675,7 +675,7 @@
    {
     "keyword": "lawyer lombard il",
     "slug": "lawyer-lombard-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-lombard-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-lombard-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

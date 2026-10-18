@@ -2,7 +2,7 @@
  "title": "Keyword market data: Bensenville, IL",
  "description": "Top Bensenville, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Bensenville, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 12,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash bensenville il",
     "slug": "car-wash-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-bensenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym bensenville il",
     "slug": "gym-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-bensenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "plumber bensenville il",
     "slug": "plumber-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-bensenville-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -56,7 +56,7 @@
    {
     "keyword": "insurance agency bensenville il",
     "slug": "insurance-agency-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bensenville-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -71,7 +71,7 @@
    {
     "keyword": "hvac repair bensenville il",
     "slug": "hvac-repair-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bensenville-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -86,7 +86,7 @@
    {
     "keyword": "insurance agents bensenville il",
     "slug": "insurance-agents-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-bensenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -101,7 +101,7 @@
    {
     "keyword": "plumbing services bensenville il",
     "slug": "plumbing-services-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-bensenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agent bensenville il",
     "slug": "insurance-agent-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-bensenville-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -133,7 +133,7 @@
    {
     "keyword": "hvac repair bensenville il",
     "slug": "hvac-repair-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bensenville-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -148,7 +148,7 @@
    {
     "keyword": "plumbing services bensenville il",
     "slug": "plumbing-services-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-bensenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -163,7 +163,7 @@
    {
     "keyword": "plumber bensenville il",
     "slug": "plumber-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-bensenville-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -178,7 +178,7 @@
    {
     "keyword": "heating and air bensenville il",
     "slug": "heating-and-air-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-bensenville-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -193,7 +193,7 @@
    {
     "keyword": "plumbers bensenville il",
     "slug": "plumbers-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-bensenville-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -208,7 +208,7 @@
    {
     "keyword": "storage units bensenville il",
     "slug": "storage-units-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-bensenville-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -223,7 +223,7 @@
    {
     "keyword": "car wash bensenville il",
     "slug": "car-wash-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-bensenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -238,7 +238,7 @@
    {
     "keyword": "insurance agency bensenville il",
     "slug": "insurance-agency-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bensenville-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -253,7 +253,7 @@
    {
     "keyword": "insurance agent bensenville il",
     "slug": "insurance-agent-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-bensenville-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -268,7 +268,7 @@
    {
     "keyword": "insurance agents bensenville il",
     "slug": "insurance-agents-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-bensenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -283,7 +283,7 @@
    {
     "keyword": "printing services bensenville il",
     "slug": "printing-services-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-bensenville-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -298,7 +298,7 @@
    {
     "keyword": "gym bensenville il",
     "slug": "gym-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-bensenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -315,7 +315,7 @@
    {
     "keyword": "plumber bensenville il",
     "slug": "plumber-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-bensenville-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -330,7 +330,7 @@
    {
     "keyword": "car wash bensenville il",
     "slug": "car-wash-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-bensenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -345,7 +345,7 @@
    {
     "keyword": "gym bensenville il",
     "slug": "gym-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-bensenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -360,7 +360,7 @@
    {
     "keyword": "hvac repair bensenville il",
     "slug": "hvac-repair-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-bensenville-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -375,7 +375,7 @@
    {
     "keyword": "plumbing services bensenville il",
     "slug": "plumbing-services-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-bensenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -390,7 +390,7 @@
    {
     "keyword": "insurance agency bensenville il",
     "slug": "insurance-agency-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-bensenville-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -405,7 +405,7 @@
    {
     "keyword": "insurance agents bensenville il",
     "slug": "insurance-agents-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-bensenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -420,7 +420,7 @@
    {
     "keyword": "insurance agent bensenville il",
     "slug": "insurance-agent-bensenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-bensenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-bensenville-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

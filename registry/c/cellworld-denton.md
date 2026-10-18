@@ -13,12 +13,12 @@ Cellworld is a phone repair shop in Denton, TX at 1916 North Carroll Boulevard, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 29% of phone repair shops in Dallas–Fort Worth, #1 of 3 phone repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 29% of phone repair shops in Dallas–Fort Worth, #1 of 3 phone repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cellworld-denton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cellworld-denton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cellworld-denton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cellworld-denton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9417898987 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

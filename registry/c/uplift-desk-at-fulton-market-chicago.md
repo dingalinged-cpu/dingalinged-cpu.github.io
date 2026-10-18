@@ -13,12 +13,12 @@ UPLIFT Desk at Fulton Market is a furniture store in Chicago, IL at 1118 West Fu
 - Website: https://www.upliftdesk.com/chicago-showroom/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00
-- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 46% of furniture stores in Chicago, #37 of 57 furniture stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 46% of furniture stores in Chicago, #37 of 57 furniture stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/uplift-desk-at-fulton-market-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/uplift-desk-at-fulton-market-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/uplift-desk-at-fulton-market-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/uplift-desk-at-fulton-market-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11495856976 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

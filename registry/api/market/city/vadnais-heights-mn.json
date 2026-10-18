@@ -2,7 +2,7 @@
  "title": "Keyword market data: Vadnais Heights, MN",
  "description": "Top Vadnais Heights, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Vadnais Heights, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "hair salon vadnais heights mn",
     "slug": "hair-salon-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-vadnais-heights-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -26,7 +26,7 @@
    {
     "keyword": "nail salon vadnais heights mn",
     "slug": "nail-salon-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-vadnais-heights-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -41,7 +41,7 @@
    {
     "keyword": "haircut vadnais heights mn",
     "slug": "haircut-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-vadnais-heights-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -56,7 +56,7 @@
    {
     "keyword": "tax preparation vadnais heights mn",
     "slug": "tax-preparation-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-vadnais-heights-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -71,7 +71,7 @@
    {
     "keyword": "tax preparer vadnais heights mn",
     "slug": "tax-preparer-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-vadnais-heights-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -86,7 +86,7 @@
    {
     "keyword": "family doctor vadnais heights mn",
     "slug": "family-doctor-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-vadnais-heights-mn/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -101,7 +101,7 @@
    {
     "keyword": "primary care physician vadnais heights mn",
     "slug": "primary-care-physician-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-vadnais-heights-mn/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -118,7 +118,7 @@
    {
     "keyword": "storage units vadnais heights mn",
     "slug": "storage-units-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-vadnais-heights-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -133,7 +133,7 @@
    {
     "keyword": "tax preparer vadnais heights mn",
     "slug": "tax-preparer-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-vadnais-heights-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -148,7 +148,7 @@
    {
     "keyword": "assisted living vadnais heights mn",
     "slug": "assisted-living-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-vadnais-heights-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -163,7 +163,7 @@
    {
     "keyword": "eye doctor vadnais heights mn",
     "slug": "eye-doctor-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-vadnais-heights-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -178,7 +178,7 @@
    {
     "keyword": "family doctor vadnais heights mn",
     "slug": "family-doctor-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-vadnais-heights-mn/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -193,7 +193,7 @@
    {
     "keyword": "primary care physician vadnais heights mn",
     "slug": "primary-care-physician-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-vadnais-heights-mn/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -208,7 +208,7 @@
    {
     "keyword": "haircut vadnais heights mn",
     "slug": "haircut-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-vadnais-heights-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -223,7 +223,7 @@
    {
     "keyword": "bike shop vadnais heights mn",
     "slug": "bike-shop-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-vadnais-heights-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -238,7 +238,7 @@
    {
     "keyword": "liquor store vadnais heights mn",
     "slug": "liquor-store-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-vadnais-heights-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -253,7 +253,7 @@
    {
     "keyword": "dry cleaners vadnais heights mn",
     "slug": "dry-cleaners-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-vadnais-heights-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -268,7 +268,7 @@
    {
     "keyword": "printing services vadnais heights mn",
     "slug": "printing-services-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-vadnais-heights-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -283,7 +283,7 @@
    {
     "keyword": "tax preparation vadnais heights mn",
     "slug": "tax-preparation-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-vadnais-heights-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -298,7 +298,7 @@
    {
     "keyword": "nail salon vadnais heights mn",
     "slug": "nail-salon-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-vadnais-heights-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -313,7 +313,7 @@
    {
     "keyword": "hair salon vadnais heights mn",
     "slug": "hair-salon-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-vadnais-heights-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -330,7 +330,7 @@
    {
     "keyword": "haircut vadnais heights mn",
     "slug": "haircut-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-vadnais-heights-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -345,7 +345,7 @@
    {
     "keyword": "hair salon vadnais heights mn",
     "slug": "hair-salon-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-vadnais-heights-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -360,7 +360,7 @@
    {
     "keyword": "nail salon vadnais heights mn",
     "slug": "nail-salon-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-vadnais-heights-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -375,7 +375,7 @@
    {
     "keyword": "tax preparer vadnais heights mn",
     "slug": "tax-preparer-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-vadnais-heights-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -390,7 +390,7 @@
    {
     "keyword": "tax preparation vadnais heights mn",
     "slug": "tax-preparation-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-vadnais-heights-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -405,7 +405,7 @@
    {
     "keyword": "family doctor vadnais heights mn",
     "slug": "family-doctor-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-vadnais-heights-mn/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -420,7 +420,7 @@
    {
     "keyword": "primary care physician vadnais heights mn",
     "slug": "primary-care-physician-vadnais-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-vadnais-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-vadnais-heights-mn/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,

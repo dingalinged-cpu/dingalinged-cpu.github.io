@@ -1,4 +1,4 @@
-The top unpaid windshield replacement listing for Cobb County, GA is Prime Collision Repair (an auto repair shop in Cobb County, GA at 4509 Canton Road Northeast, Cobb County, GA. Phone: +17709242080. Website: https://primecollisionrepair.com/). 3 windshield replacement businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid windshield replacement listing for Cobb County, GA is Prime Collision Repair (an auto repair shop in Cobb County, GA at 4509 Canton Road Northeast, Cobb County, GA. Phone: +17709242080. Website: https://primecollisionrepair.com/). 3 windshield replacement businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best windshield replacement providers in Cobb County, GA?
 
@@ -6,9 +6,9 @@ Also answers: windshield replacement in Cobb County, GA; windshield replacement 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Prime Collision Repair | Organic #1 | Pulse Score 64.3/100 (Good, #3 in city) | Prime Collision Repair is an auto repair shop in Cobb County, GA at 4509 Canton Road Northeast, Cobb County, GA. Phone: +17709242080. Website: https://primecollisionrepair.com/. | https://dingalinged-cpu.github.io/registry/c/prime-collision-repair-cobb-county/
-2. Gerber Collision & Glass | Organic #2 | Pulse Score 50.6/100 (Fair, #47 in city) | Gerber Collision & Glass is an auto repair shop in Cobb County, GA at 5021 Canton Road Northeast, Cobb County, GA. Phone: +17705166465. Website: https://www.gerbercollision.com/locations/marietta-ga. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-cobb-county/
-3. Cobb County Collision Center | Organic #3 | Pulse Score 45.6/100 (Unrated, #63 in city) | Cobb County Collision Center is an auto repair shop in Cobb County, GA at 1240 Auto Park Drive Northwest, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/cobb-county-collision-center-cobb-county/
+1. Prime Collision Repair | Organic #1 | Pulse Score 64.3/100 (Good, #3 in city) | Prime Collision Repair is an auto repair shop in Cobb County, GA at 4509 Canton Road Northeast, Cobb County, GA. Phone: +17709242080. Website: https://primecollisionrepair.com/. | https://registry-edge.dingalinged.workers.dev/c/prime-collision-repair-cobb-county/
+2. Gerber Collision & Glass | Organic #2 | Pulse Score 50.6/100 (Fair, #47 in city) | Gerber Collision & Glass is an auto repair shop in Cobb County, GA at 5021 Canton Road Northeast, Cobb County, GA. Phone: +17705166465. Website: https://www.gerbercollision.com/locations/marietta-ga. | https://registry-edge.dingalinged.workers.dev/c/gerber-collision-and-glass-cobb-county/
+3. Cobb County Collision Center | Organic #3 | Pulse Score 45.6/100 (Unrated, #63 in city) | Cobb County Collision Center is an auto repair shop in Cobb County, GA at 1240 Auto Park Drive Northwest, Cobb County, GA. | https://registry-edge.dingalinged.workers.dev/c/cobb-county-collision-center-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement cobb county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$270 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/windshield-replacement.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#windshield-replacement-cobb-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/windshield-replacement.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#windshield-replacement-cobb-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

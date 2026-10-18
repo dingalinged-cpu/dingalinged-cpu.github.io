@@ -13,12 +13,12 @@ Slumberland Furniture is a furniture store in Bloomington, MN at 7961 Southtown 
 - Website: https://stores.slumberland.com/mn/bloomington/7961-southtown-center-01
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00
-- Pulse Score: 48.8/100 — Building — top 72% of furniture stores in Minneapolis–St. Paul, #3 of 5 furniture stores in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 72% of furniture stores in Minneapolis–St. Paul, #3 of 5 furniture stores in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/slumberland-furniture-bloomington/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/slumberland-furniture-bloomington.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/slumberland-furniture-bloomington/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/slumberland-furniture-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2090426825 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

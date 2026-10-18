@@ -13,12 +13,12 @@ State Farm is an insurance agent in Houston, TX at 23902 Highway 59 North, Houst
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.1/100 — Building — top 79% of insurance agents in Houston, #96 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 79% of insurance agents in Houston, #96 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-houston-n7633149808/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-houston-n7633149808.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-houston-n7633149808/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-houston-n7633149808.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7633149808 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

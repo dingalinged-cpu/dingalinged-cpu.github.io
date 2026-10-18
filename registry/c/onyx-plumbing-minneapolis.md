@@ -13,12 +13,12 @@ Onyx Plumbing is a plumber in Minneapolis, MN at 6325 Cambridge Street #7, Minne
 - Website: https://calltheonyx.com/
 - Email: info@calltheonyx.com
 - Opening hours (OSM syntax): Mo-Su 07:00-20:00
-- Pulse Score: 63.2/100 — Good — top 10% of plumbers in Minneapolis–St. Paul, #1 of 1 plumbers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 65.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 10% of plumbers in Minneapolis–St. Paul, #1 of 1 plumbers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/onyx-plumbing-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/onyx-plumbing-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/onyx-plumbing-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/onyx-plumbing-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12159156278 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

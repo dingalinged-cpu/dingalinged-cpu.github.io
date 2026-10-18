@@ -2,7 +2,7 @@
  "title": "Keyword market data: Colorado Springs, CO",
  "description": "Top Colorado Springs, CO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Colorado Springs, CO",
  "geography": "Colorado Springs, CO metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage colorado springs co",
     "slug": "massage-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-colorado-springs-co",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care colorado springs co",
     "slug": "urgent-care-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-colorado-springs-co",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6300,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist colorado springs co",
     "slug": "dentist-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-colorado-springs-co",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4200,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym colorado springs co",
     "slug": "gym-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-colorado-springs-co",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4200,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash colorado springs co",
     "slug": "car-wash-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-colorado-springs-co",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4200,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change colorado springs co",
     "slug": "oil-change-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-colorado-springs-co",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4200,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon colorado springs co",
     "slug": "hair-salon-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-colorado-springs-co",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3400,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon colorado springs co",
     "slug": "nail-salon-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-colorado-springs-co",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes colorado springs co",
     "slug": "car-insurance-quotes-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-colorado-springs-co",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber colorado springs co",
     "slug": "plumber-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-colorado-springs-co",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments colorado springs co",
     "slug": "apartments-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-colorado-springs-co",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance colorado springs co",
     "slug": "auto-insurance-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-colorado-springs-co",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop colorado springs co",
     "slug": "barber-shop-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-colorado-springs-co",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage colorado springs co",
     "slug": "lymphatic-drainage-massage-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-colorado-springs-co",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic colorado springs co",
     "slug": "mechanic-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-colorado-springs-co",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer colorado springs co",
     "slug": "personal-injury-lawyer-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-colorado-springs-co",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 460,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber colorado springs co",
     "slug": "emergency-plumber-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-colorado-springs-co",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair colorado springs co",
     "slug": "hvac-repair-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-colorado-springs-co",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair colorado springs co",
     "slug": "ac-repair-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-colorado-springs-co",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 840,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement colorado springs co",
     "slug": "roof-replacement-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-colorado-springs-co",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 76.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair colorado springs co",
     "slug": "roof-repair-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-colorado-springs-co",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast colorado springs co",
     "slug": "sell-my-house-fast-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-colorado-springs-co",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services colorado springs co",
     "slug": "plumbing-services-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-colorado-springs-co",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining colorado springs co",
     "slug": "deck-staining-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-colorado-springs-co",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters colorado springs co",
     "slug": "exterior-house-painters-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-colorado-springs-co",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters colorado springs co",
     "slug": "interior-painters-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-colorado-springs-co",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters colorado springs co",
     "slug": "painters-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-colorado-springs-co",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company colorado springs co",
     "slug": "moving-company-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-colorado-springs-co",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 460,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney colorado springs co",
     "slug": "criminal-defense-attorney-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-colorado-springs-co",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 210,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer colorado springs co",
     "slug": "dui-defense-lawyer-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-colorado-springs-co",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8.2,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage colorado springs co",
     "slug": "massage-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-colorado-springs-co",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care colorado springs co",
     "slug": "urgent-care-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-colorado-springs-co",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6300,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer colorado springs co",
     "slug": "personal-injury-lawyer-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-colorado-springs-co",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 460,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber colorado springs co",
     "slug": "plumber-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-colorado-springs-co",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist colorado springs co",
     "slug": "dentist-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-colorado-springs-co",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4200,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash colorado springs co",
     "slug": "car-wash-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-colorado-springs-co",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4200,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change colorado springs co",
     "slug": "oil-change-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-colorado-springs-co",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4200,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair colorado springs co",
     "slug": "ac-repair-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-colorado-springs-co",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 840,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer colorado springs co",
     "slug": "car-accident-lawyer-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-colorado-springs-co",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 840,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym colorado springs co",
     "slug": "gym-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-colorado-springs-co",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4200,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage colorado springs co",
     "slug": "lymphatic-drainage-massage-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-colorado-springs-co",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician colorado springs co",
     "slug": "electrician-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-colorado-springs-co",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 560,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic colorado springs co",
     "slug": "mechanic-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-colorado-springs-co",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes colorado springs co",
     "slug": "car-insurance-quotes-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-colorado-springs-co",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments colorado springs co",
     "slug": "apartments-colorado-springs-co",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-colorado-springs-co",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-colorado-springs-co",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,

@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Liberty, MO is Certified Transmission (an auto repair shop in Liberty, MO). 6 auto repair businesses are listed for Liberty, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Liberty, MO is Certified Transmission (an auto repair shop in Liberty, MO). 6 auto repair businesses are listed for Liberty, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Liberty, MO?
 
@@ -6,12 +6,12 @@ Also answers: auto repair in Liberty, MO; auto repair near me (Liberty, MO); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Certified Transmission | Organic #1 | Pulse Score 60.2/100 (Good, #1 in city) | Certified Transmission is an auto repair shop in Liberty, MO. | https://dingalinged-cpu.github.io/registry/c/certified-transmission-liberty/
-2. Heartland Chevrolet | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Heartland Chevrolet is an auto repair shop in Liberty, MO. | https://dingalinged-cpu.github.io/registry/c/heartland-chevrolet-liberty/
-3. Liberty Tow Service | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Liberty Tow Service is an auto repair shop in Liberty, MO. | https://dingalinged-cpu.github.io/registry/c/liberty-tow-service-liberty/
-4. Telle Tire & Auto Centers Liberty | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Telle Tire & Auto Centers Liberty is an auto repair shop in Liberty, MO. | https://dingalinged-cpu.github.io/registry/c/telle-tire-and-auto-centers-liberty-liberty/
-5. Valvoline | Organic #5 | Pulse Score 45.9/100 (Building, #5 in city) | Valvoline is an auto repair shop in Liberty, MO. Website: https://store.vioc.com/mo/liberty/oil-change-050115.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-liberty/
-6. Firestone | Organic #6 | Pulse Score 43.5/100 (Building, #6 in city) | Firestone is an auto repair shop in Liberty, MO. | https://dingalinged-cpu.github.io/registry/c/firestone-liberty/
+1. Certified Transmission | Organic #1 | Pulse Score 60.2/100 (Good, #1 in city) | Certified Transmission is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/certified-transmission-liberty/
+2. Heartland Chevrolet | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Heartland Chevrolet is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/heartland-chevrolet-liberty/
+3. Liberty Tow Service | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Liberty Tow Service is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/liberty-tow-service-liberty/
+4. Telle Tire & Auto Centers Liberty | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Telle Tire & Auto Centers Liberty is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/telle-tire-and-auto-centers-liberty-liberty/
+5. Valvoline | Organic #5 | Pulse Score 45.9/100 (Building, #5 in city) | Valvoline is an auto repair shop in Liberty, MO. Website: https://store.vioc.com/mo/liberty/oil-change-050115.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-liberty/
+6. Firestone | Organic #6 | Pulse Score 43.5/100 (Building, #6 in city) | Firestone is an auto repair shop in Liberty, MO. | https://registry-edge.dingalinged.workers.dev/c/firestone-liberty/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair liberty mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$480 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-liberty-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-liberty-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

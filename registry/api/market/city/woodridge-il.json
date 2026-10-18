@@ -2,7 +2,7 @@
  "title": "Keyword market data: Woodridge, IL",
  "description": "Top Woodridge, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Woodridge, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 23,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist woodridge il",
     "slug": "dentist-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-woodridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym woodridge il",
     "slug": "gym-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-woodridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon woodridge il",
     "slug": "hair-salon-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-woodridge-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon woodridge il",
     "slug": "nail-salon-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-woodridge-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic woodridge il",
     "slug": "mechanic-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-woodridge-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "vet woodridge il",
     "slug": "vet-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-woodridge-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut woodridge il",
     "slug": "haircut-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-woodridge-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair woodridge il",
     "slug": "auto-repair-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-woodridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -131,7 +131,7 @@
    {
     "keyword": "pilates woodridge il",
     "slug": "pilates-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-woodridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -146,7 +146,7 @@
    {
     "keyword": "chiropractor woodridge il",
     "slug": "chiropractor-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-woodridge-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agency woodridge il",
     "slug": "insurance-agency-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-woodridge-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparation woodridge il",
     "slug": "tax-preparation-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-woodridge-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -191,7 +191,7 @@
    {
     "keyword": "tax preparer woodridge il",
     "slug": "tax-preparer-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-woodridge-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agents woodridge il",
     "slug": "insurance-agents-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-woodridge-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agent woodridge il",
     "slug": "insurance-agent-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-woodridge-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -238,7 +238,7 @@
    {
     "keyword": "pilates woodridge il",
     "slug": "pilates-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-woodridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -253,7 +253,7 @@
    {
     "keyword": "tax preparer woodridge il",
     "slug": "tax-preparer-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-woodridge-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -268,7 +268,7 @@
    {
     "keyword": "preschool woodridge il",
     "slug": "preschool-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-woodridge-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "chiropractor woodridge il",
     "slug": "chiropractor-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-woodridge-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -298,7 +298,7 @@
    {
     "keyword": "eye doctor woodridge il",
     "slug": "eye-doctor-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-woodridge-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "physical therapy woodridge il",
     "slug": "physical-therapy-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-woodridge-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "dentist woodridge il",
     "slug": "dentist-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-woodridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -343,7 +343,7 @@
    {
     "keyword": "haircut woodridge il",
     "slug": "haircut-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-woodridge-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -358,7 +358,7 @@
    {
     "keyword": "auto repair woodridge il",
     "slug": "auto-repair-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-woodridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -373,7 +373,7 @@
    {
     "keyword": "mechanic woodridge il",
     "slug": "mechanic-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-woodridge-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -388,7 +388,7 @@
    {
     "keyword": "furniture store woodridge il",
     "slug": "furniture-store-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-woodridge-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -403,7 +403,7 @@
    {
     "keyword": "jewelry store woodridge il",
     "slug": "jewelry-store-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-woodridge-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -418,7 +418,7 @@
    {
     "keyword": "liquor store woodridge il",
     "slug": "liquor-store-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-woodridge-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -433,7 +433,7 @@
    {
     "keyword": "mattress store woodridge il",
     "slug": "mattress-store-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store-woodridge-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -448,7 +448,7 @@
    {
     "keyword": "thrift store woodridge il",
     "slug": "thrift-store-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-woodridge-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist woodridge il",
     "slug": "dentist-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-woodridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "gym woodridge il",
     "slug": "gym-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-woodridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic woodridge il",
     "slug": "mechanic-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-woodridge-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -510,7 +510,7 @@
    {
     "keyword": "vet woodridge il",
     "slug": "vet-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-woodridge-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -525,7 +525,7 @@
    {
     "keyword": "pilates woodridge il",
     "slug": "pilates-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-woodridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -540,7 +540,7 @@
    {
     "keyword": "haircut woodridge il",
     "slug": "haircut-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-woodridge-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -555,7 +555,7 @@
    {
     "keyword": "auto repair woodridge il",
     "slug": "auto-repair-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-woodridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -570,7 +570,7 @@
    {
     "keyword": "chiropractor woodridge il",
     "slug": "chiropractor-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-woodridge-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon woodridge il",
     "slug": "hair-salon-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-woodridge-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -600,7 +600,7 @@
    {
     "keyword": "nail salon woodridge il",
     "slug": "nail-salon-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-woodridge-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -615,7 +615,7 @@
    {
     "keyword": "tax preparer woodridge il",
     "slug": "tax-preparer-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-woodridge-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agency woodridge il",
     "slug": "insurance-agency-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-woodridge-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -645,7 +645,7 @@
    {
     "keyword": "tax preparation woodridge il",
     "slug": "tax-preparation-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-woodridge-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agents woodridge il",
     "slug": "insurance-agents-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-woodridge-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agent woodridge il",
     "slug": "insurance-agent-woodridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-woodridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-woodridge-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

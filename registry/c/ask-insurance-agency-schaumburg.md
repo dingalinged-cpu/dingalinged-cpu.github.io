@@ -13,12 +13,12 @@ Ask Insurance Agency is an insurance agent in Schaumburg, IL at 1110 South Rosel
 - Website: https://askinsurance.us/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 12% of insurance agents in Chicago, #2 of 5 insurance agents in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 12% of insurance agents in Chicago, #2 of 5 insurance agents in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ask-insurance-agency-schaumburg/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ask-insurance-agency-schaumburg.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ask-insurance-agency-schaumburg/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ask-insurance-agency-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4574925016 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

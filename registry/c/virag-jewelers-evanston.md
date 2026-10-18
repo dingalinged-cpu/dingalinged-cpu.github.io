@@ -13,12 +13,12 @@ Virag Jewelers is a jewelry store in Evanston, IL at 703 Main Street, Evanston, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 27% of jewelry stores in Chicago, #2 of 2 jewelry stores in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 27% of jewelry stores in Chicago, #2 of 2 jewelry stores in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/virag-jewelers-evanston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/virag-jewelers-evanston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/virag-jewelers-evanston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/virag-jewelers-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2294252735 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

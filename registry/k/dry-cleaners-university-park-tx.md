@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for University Park, TX is Bibbentucker's (a dry cleaner in Dallas, TX at 6817 Hillcrest Avenue, Dallas, TX 75205. Phone: +12143619703. Website: https://www.bibbentuckers.com/). 3 dry cleaners businesses are listed for University Park, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for University Park, TX is Bibbentucker's (a dry cleaner in Dallas, TX at 6817 Hillcrest Avenue, Dallas, TX 75205. Phone: +12143619703. Website: https://www.bibbentuckers.com/). 3 dry cleaners businesses are listed for University Park, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in University Park, TX?
 
@@ -6,9 +6,9 @@ Also answers: dry cleaners in University Park, TX; dry cleaners near me (Univers
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bibbentucker's | Organic #1 | Pulse Score 62.1/100 (Unrated, #5 in city) | Bibbentucker's is a dry cleaner in Dallas, TX at 6817 Hillcrest Avenue, Dallas, TX 75205. Phone: +12143619703. Website: https://www.bibbentuckers.com/. | https://dingalinged-cpu.github.io/registry/c/bibbentuckers-dallas/
-2. Swiss The Greener | Organic #2 | Pulse Score 60.7/100 (Unrated, #1 in city) | Swiss The Greener is a dry cleaner in University Park, TX at 3030 Mockingbird Lane, University Park, TX. | https://dingalinged-cpu.github.io/registry/c/swiss-the-greener-university-park/
-3. Nu-Care Cleaners | Organic #3 | Pulse Score 57.6/100 (Unrated, #19 in city) | Nu-Care Cleaners is a dry cleaner in Dallas, TX at 6927 Hillcrest Avenue, Dallas, TX 75205. | https://dingalinged-cpu.github.io/registry/c/nu-care-cleaners-dallas/
+1. Bibbentucker's | Organic #1 | Pulse Score 62.1/100 (Unrated, #5 in city) | Bibbentucker's is a dry cleaner in Dallas, TX at 6817 Hillcrest Avenue, Dallas, TX 75205. Phone: +12143619703. Website: https://www.bibbentuckers.com/. | https://registry-edge.dingalinged.workers.dev/c/bibbentuckers-dallas/
+2. Swiss The Greener | Organic #2 | Pulse Score 60.7/100 (Unrated, #1 in city) | Swiss The Greener is a dry cleaner in University Park, TX at 3030 Mockingbird Lane, University Park, TX. | https://registry-edge.dingalinged.workers.dev/c/swiss-the-greener-university-park/
+3. Nu-Care Cleaners | Organic #3 | Pulse Score 57.6/100 (Unrated, #19 in city) | Nu-Care Cleaners is a dry cleaner in Dallas, TX at 6927 Hillcrest Avenue, Dallas, TX 75205. | https://registry-edge.dingalinged.workers.dev/c/nu-care-cleaners-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners university park tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners-university-park-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dry-cleaners.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dry-cleaners-university-park-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid phone repair listing for Kansas City, MO is TXK Repair Services (a phone repair shop in Kansas City, MO at 8123 North Oak Trafficway, Kansas City, MO. Website: https://www.txk.services/). 2 phone repair businesses are listed for Kansas City, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Kansas City, MO is TXK Repair Services (a phone repair shop in Kansas City, MO at 8123 North Oak Trafficway, Kansas City, MO. Website: https://www.txk.services/). 2 phone repair businesses are listed for Kansas City, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Kansas City, MO?
 
@@ -6,8 +6,8 @@ Also answers: phone repair in Kansas City, MO; phone repair near me (Kansas City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TXK Repair Services | Organic #1 | Pulse Score 57.6/100 (Unrated, #2 in city) | TXK Repair Services is a phone repair shop in Kansas City, MO at 8123 North Oak Trafficway, Kansas City, MO. Website: https://www.txk.services/. | https://dingalinged-cpu.github.io/registry/c/txk-repair-services-kansas-city/
-2. uBreakiFix | Organic #2 | Pulse Score 42.1/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-kansas-city/
+1. TXK Repair Services | Organic #1 | Pulse Score 57.6/100 (Unrated, #2 in city) | TXK Repair Services is a phone repair shop in Kansas City, MO at 8123 North Oak Trafficway, Kansas City, MO. Website: https://www.txk.services/. | https://registry-edge.dingalinged.workers.dev/c/txk-repair-services-kansas-city/
+2. uBreakiFix | Organic #2 | Pulse Score 42.1/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Kansas City, MO. | https://registry-edge.dingalinged.workers.dev/c/ubreakifix-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair kansas city mo | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$420 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/phone-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#phone-repair-kansas-city-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/phone-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#phone-repair-kansas-city-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

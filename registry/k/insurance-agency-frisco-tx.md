@@ -1,4 +1,4 @@
-The top unpaid insurance agency listing for Frisco, TX is John Betty Insurance Inc. (an insurance agent in Frisco, TX at 9555 Lebanon Rd ##202, Frisco, TX 75035. Phone: +12146191700. Website: https://johnbettyinsurance.net/). 4 insurance agency businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Frisco, TX is John Betty Insurance Inc. (an insurance agent in Frisco, TX at 9555 Lebanon Rd ##202, Frisco, TX 75035. Phone: +12146191700. Website: https://johnbettyinsurance.net/). 4 insurance agency businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Frisco, TX?
 
@@ -6,10 +6,10 @@ Also answers: insurance agency in Frisco, TX; insurance agency near me (Frisco, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. John Betty Insurance Inc. | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | John Betty Insurance Inc. is an insurance agent in Frisco, TX at 9555 Lebanon Rd ##202, Frisco, TX 75035. Phone: +12146191700. Website: https://johnbettyinsurance.net/. | https://dingalinged-cpu.github.io/registry/c/john-betty-insurance-inc-frisco/
-2. AAA | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | AAA is an insurance agent in Frisco, TX at 4760 Preston Road #208, Frisco, TX 75034. Phone: +19727120569. Website: https://www.ace.aaa.com/locations.html?branch=Frisco-75034-96. | https://dingalinged-cpu.github.io/registry/c/aaa-frisco/
-3. Allstate | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | Allstate is an insurance agent in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/allstate-frisco/
-4. State Farm | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | State Farm is an insurance agent in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-frisco/
+1. John Betty Insurance Inc. | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | John Betty Insurance Inc. is an insurance agent in Frisco, TX at 9555 Lebanon Rd ##202, Frisco, TX 75035. Phone: +12146191700. Website: https://johnbettyinsurance.net/. | https://registry-edge.dingalinged.workers.dev/c/john-betty-insurance-inc-frisco/
+2. AAA | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | AAA is an insurance agent in Frisco, TX at 4760 Preston Road #208, Frisco, TX 75034. Phone: +19727120569. Website: https://www.ace.aaa.com/locations.html?branch=Frisco-75034-96. | https://registry-edge.dingalinged.workers.dev/c/aaa-frisco/
+3. Allstate | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | Allstate is an insurance agent in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/allstate-frisco/
+4. State Farm | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | State Farm is an insurance agent in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/state-farm-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency frisco tx | category: insurance | industry benchmark: Finance & Insurance
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$620 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agency-frisco-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agency-frisco-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

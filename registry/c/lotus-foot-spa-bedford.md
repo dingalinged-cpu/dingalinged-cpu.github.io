@@ -13,12 +13,12 @@ Lotus Foot Spa is a massage studio in Bedford, TX at 2900 State Highway 121 #141
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 45% of massage studios in Dallas–Fort Worth, #3 of 3 massage studios in Bedford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 45% of massage studios in Dallas–Fort Worth, #3 of 3 massage studios in Bedford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lotus-foot-spa-bedford/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lotus-foot-spa-bedford.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lotus-foot-spa-bedford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lotus-foot-spa-bedford.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13738903222 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

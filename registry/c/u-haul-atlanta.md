@@ -13,12 +13,12 @@ U-Haul is a self-storage facility in Atlanta, GA at 2885 Clairmont Road, Atlanta
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 43% of self-storage facilitys in Atlanta, #8 of 18 self-storage facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 43% of self-storage facilitys in Atlanta, #8 of 18 self-storage facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/u-haul-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/u-haul-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/u-haul-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/u-haul-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/321045107 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

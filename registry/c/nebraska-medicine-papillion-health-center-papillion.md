@@ -13,12 +13,12 @@ Nebraska Medicine Papillion Health Center is a family medicine practice in Papil
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 80% of family medicine practices in Omaha, NE, #1 of 2 family medicine practices in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 41.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 80% of family medicine practices in Omaha, NE, #1 of 2 family medicine practices in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/nebraska-medicine-papillion-health-center-papillion/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nebraska-medicine-papillion-health-center-papillion.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nebraska-medicine-papillion-health-center-papillion/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nebraska-medicine-papillion-health-center-papillion.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12060897077 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

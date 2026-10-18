@@ -13,12 +13,12 @@ Fuel City Car Wash is a car wash in Wylie, TX at 1802 North State Highway 78, Wy
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 38% of car washes in Dallas–Fort Worth, #2 of 4 car washes in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 38% of car washes in Dallas–Fort Worth, #2 of 4 car washes in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fuel-city-car-wash-wylie/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fuel-city-car-wash-wylie.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fuel-city-car-wash-wylie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fuel-city-car-wash-wylie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1304713066 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

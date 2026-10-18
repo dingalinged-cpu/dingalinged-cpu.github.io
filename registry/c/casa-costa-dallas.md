@@ -13,12 +13,12 @@ Casa Costa is a furniture store in Dallas, TX at 6611 Hillcrest Avenue, Dallas, 
 - Website: n/a
 - Email: blaze@casacostadallas.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 12% of furniture stores in Dallas–Fort Worth, #2 of 30 furniture stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 12% of furniture stores in Dallas–Fort Worth, #2 of 30 furniture stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/casa-costa-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/casa-costa-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/casa-costa-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/casa-costa-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1201199986 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

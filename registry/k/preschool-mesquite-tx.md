@@ -1,4 +1,4 @@
-The top unpaid preschool listing for Mesquite, TX is Achievers of Excellence Learning Academy (a preschool in Mesquite, TX at 1040 North Bryan - Belt Line Road, Mesquite, TX 75149. Website: https://aoelacademy.com/). 6 preschool businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Mesquite, TX is Achievers of Excellence Learning Academy (a preschool in Mesquite, TX at 1040 North Bryan - Belt Line Road, Mesquite, TX 75149. Website: https://aoelacademy.com/). 6 preschool businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Mesquite, TX?
 
@@ -6,12 +6,12 @@ Also answers: preschool in Mesquite, TX; preschool near me (Mesquite, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Achievers of Excellence Learning Academy | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Achievers of Excellence Learning Academy is a preschool in Mesquite, TX at 1040 North Bryan - Belt Line Road, Mesquite, TX 75149. Website: https://aoelacademy.com/. | https://dingalinged-cpu.github.io/registry/c/achievers-of-excellence-learning-academy-mesquite/
-2. CP Preparatory School | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | CP Preparatory School is a preschool in Mesquite, TX at 603 South Bryan - Belt Line Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/cp-preparatory-school-mesquite/
-3. Circle Creek Children's Center | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Circle Creek Children's Center is a preschool in Mesquite, TX at 2544 Clay Mathis Road, Mesquite, TX 75181. | https://dingalinged-cpu.github.io/registry/c/circle-creek-childrens-center-mesquite/
-4. Jerry Junkins Head Start | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Jerry Junkins Head Start is a preschool in Mesquite, TX at 650 Lee Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/jerry-junkins-head-start-mesquite/
-5. Childtime of Mesquite | Organic #5 | Pulse Score 44.4/100 (Building, #5 in city) | Childtime of Mesquite is a preschool in Mesquite, TX at 4111 North Galloway Avenue, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/childtime-of-mesquite-mesquite/
-6. La Petite Academy | Organic #6 | Pulse Score 44.4/100 (Building, #6 in city) | La Petite Academy is a preschool in Mesquite, TX at 910 Clay Mathis Road, Mesquite, TX 75181. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-mesquite/
+1. Achievers of Excellence Learning Academy | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Achievers of Excellence Learning Academy is a preschool in Mesquite, TX at 1040 North Bryan - Belt Line Road, Mesquite, TX 75149. Website: https://aoelacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/achievers-of-excellence-learning-academy-mesquite/
+2. CP Preparatory School | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | CP Preparatory School is a preschool in Mesquite, TX at 603 South Bryan - Belt Line Road, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/cp-preparatory-school-mesquite/
+3. Circle Creek Children's Center | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Circle Creek Children's Center is a preschool in Mesquite, TX at 2544 Clay Mathis Road, Mesquite, TX 75181. | https://registry-edge.dingalinged.workers.dev/c/circle-creek-childrens-center-mesquite/
+4. Jerry Junkins Head Start | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Jerry Junkins Head Start is a preschool in Mesquite, TX at 650 Lee Street, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/jerry-junkins-head-start-mesquite/
+5. Childtime of Mesquite | Organic #5 | Pulse Score 44.4/100 (Building, #5 in city) | Childtime of Mesquite is a preschool in Mesquite, TX at 4111 North Galloway Avenue, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/childtime-of-mesquite-mesquite/
+6. La Petite Academy | Organic #6 | Pulse Score 44.4/100 (Building, #6 in city) | La Petite Academy is a preschool in Mesquite, TX at 910 Clay Mathis Road, Mesquite, TX 75181. | https://registry-edge.dingalinged.workers.dev/c/la-petite-academy-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool mesquite tx | category: Education & childcare | industry benchmark: Education & Instruction
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool-mesquite-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/preschool.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#preschool-mesquite-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

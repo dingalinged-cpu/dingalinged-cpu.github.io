@@ -2,7 +2,7 @@
  "title": "Keyword market data: Stone Mountain, GA",
  "description": "Top Stone Mountain, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Stone Mountain, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash stone mountain ga",
     "slug": "car-wash-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-stone-mountain-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist stone mountain ga",
     "slug": "dentist-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-stone-mountain-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon stone mountain ga",
     "slug": "hair-salon-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-stone-mountain-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic stone mountain ga",
     "slug": "mechanic-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-stone-mountain-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet stone mountain ga",
     "slug": "vet-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-stone-mountain-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut stone mountain ga",
     "slug": "haircut-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-stone-mountain-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair stone mountain ga",
     "slug": "auto-repair-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-stone-mountain-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agency stone mountain ga",
     "slug": "insurance-agency-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-stone-mountain-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -131,7 +131,7 @@
    {
     "keyword": "attorney stone mountain ga",
     "slug": "attorney-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-stone-mountain-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agents stone mountain ga",
     "slug": "insurance-agents-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-stone-mountain-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -161,7 +161,7 @@
    {
     "keyword": "lawyer stone mountain ga",
     "slug": "lawyer-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-stone-mountain-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agent stone mountain ga",
     "slug": "insurance-agent-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-stone-mountain-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -191,7 +191,7 @@
    {
     "keyword": "accountant stone mountain ga",
     "slug": "accountant-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-stone-mountain-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -206,7 +206,7 @@
    {
     "keyword": "accounting services stone mountain ga",
     "slug": "accounting-services-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-stone-mountain-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -223,7 +223,7 @@
    {
     "keyword": "attorney stone mountain ga",
     "slug": "attorney-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-stone-mountain-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -238,7 +238,7 @@
    {
     "keyword": "lawyer stone mountain ga",
     "slug": "lawyer-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-stone-mountain-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -253,7 +253,7 @@
    {
     "keyword": "bakery stone mountain ga",
     "slug": "bakery-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-stone-mountain-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -268,7 +268,7 @@
    {
     "keyword": "photographer stone mountain ga",
     "slug": "photographer-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-stone-mountain-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -283,7 +283,7 @@
    {
     "keyword": "dance studio stone mountain ga",
     "slug": "dance-studio-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-stone-mountain-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -298,7 +298,7 @@
    {
     "keyword": "accounting services stone mountain ga",
     "slug": "accounting-services-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-stone-mountain-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -313,7 +313,7 @@
    {
     "keyword": "accountant stone mountain ga",
     "slug": "accountant-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-stone-mountain-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -328,7 +328,7 @@
    {
     "keyword": "daycare stone mountain ga",
     "slug": "daycare-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-stone-mountain-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -343,7 +343,7 @@
    {
     "keyword": "dentist stone mountain ga",
     "slug": "dentist-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-stone-mountain-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -358,7 +358,7 @@
    {
     "keyword": "haircut stone mountain ga",
     "slug": "haircut-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-stone-mountain-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -373,7 +373,7 @@
    {
     "keyword": "auto repair stone mountain ga",
     "slug": "auto-repair-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-stone-mountain-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -388,7 +388,7 @@
    {
     "keyword": "car wash stone mountain ga",
     "slug": "car-wash-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-stone-mountain-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -403,7 +403,7 @@
    {
     "keyword": "mechanic stone mountain ga",
     "slug": "mechanic-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-stone-mountain-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -418,7 +418,7 @@
    {
     "keyword": "bike shop stone mountain ga",
     "slug": "bike-shop-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-stone-mountain-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -433,7 +433,7 @@
    {
     "keyword": "gift shop stone mountain ga",
     "slug": "gift-shop-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-stone-mountain-ga/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 340,
@@ -450,7 +450,7 @@
    {
     "keyword": "dentist stone mountain ga",
     "slug": "dentist-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-stone-mountain-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -465,7 +465,7 @@
    {
     "keyword": "car wash stone mountain ga",
     "slug": "car-wash-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-stone-mountain-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -480,7 +480,7 @@
    {
     "keyword": "mechanic stone mountain ga",
     "slug": "mechanic-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-stone-mountain-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -495,7 +495,7 @@
    {
     "keyword": "vet stone mountain ga",
     "slug": "vet-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-stone-mountain-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -510,7 +510,7 @@
    {
     "keyword": "haircut stone mountain ga",
     "slug": "haircut-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-stone-mountain-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -525,7 +525,7 @@
    {
     "keyword": "auto repair stone mountain ga",
     "slug": "auto-repair-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-stone-mountain-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -540,7 +540,7 @@
    {
     "keyword": "hair salon stone mountain ga",
     "slug": "hair-salon-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-stone-mountain-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -555,7 +555,7 @@
    {
     "keyword": "attorney stone mountain ga",
     "slug": "attorney-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-stone-mountain-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -570,7 +570,7 @@
    {
     "keyword": "lawyer stone mountain ga",
     "slug": "lawyer-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-stone-mountain-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -585,7 +585,7 @@
    {
     "keyword": "insurance agency stone mountain ga",
     "slug": "insurance-agency-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-stone-mountain-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -600,7 +600,7 @@
    {
     "keyword": "accountant stone mountain ga",
     "slug": "accountant-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-stone-mountain-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agents stone mountain ga",
     "slug": "insurance-agents-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-stone-mountain-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agent stone mountain ga",
     "slug": "insurance-agent-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-stone-mountain-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -645,7 +645,7 @@
    {
     "keyword": "accounting services stone mountain ga",
     "slug": "accounting-services-stone-mountain-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-stone-mountain-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-stone-mountain-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,

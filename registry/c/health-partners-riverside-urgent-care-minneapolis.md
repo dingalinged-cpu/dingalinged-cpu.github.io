@@ -13,12 +13,12 @@ Health Partners Riverside Urgent Care is an urgent care clinic in Minneapolis, M
 - Website: https://www.healthpartners.com/public/find-care/location-detail.html?type=medical&networkId=hp&distance=20&hpmgOnly=false&view=list&start=20&keepCmpCrit=1&locationId=280
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa-Su 08:00-17:00
-- Pulse Score: 64.3/100 — Good — top 34% of urgent care clinics in Minneapolis–St. Paul, #1 of 1 urgent care clinics in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 70.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 34% of urgent care clinics in Minneapolis–St. Paul, #1 of 1 urgent care clinics in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 70.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/health-partners-riverside-urgent-care-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/health-partners-riverside-urgent-care-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/health-partners-riverside-urgent-care-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/health-partners-riverside-urgent-care-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/255808894 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

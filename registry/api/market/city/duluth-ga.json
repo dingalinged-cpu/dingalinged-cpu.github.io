@@ -2,7 +2,7 @@
  "title": "Keyword market data: Duluth, GA",
  "description": "Top Duluth, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Duluth, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 18,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist duluth ga",
     "slug": "dentist-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-duluth-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym duluth ga",
     "slug": "gym-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-duluth-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic duluth ga",
     "slug": "mechanic-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-duluth-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -56,7 +56,7 @@
    {
     "keyword": "tire shop duluth ga",
     "slug": "tire-shop-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-duluth-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet duluth ga",
     "slug": "vet-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-duluth-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair duluth ga",
     "slug": "auto-repair-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-duluth-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -101,7 +101,7 @@
    {
     "keyword": "spa duluth ga",
     "slug": "spa-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-duluth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -116,7 +116,7 @@
    {
     "keyword": "attorney duluth ga",
     "slug": "attorney-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-duluth-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto body shop duluth ga",
     "slug": "auto-body-shop-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-duluth-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -146,7 +146,7 @@
    {
     "keyword": "lawyer duluth ga",
     "slug": "lawyer-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-duluth-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -163,7 +163,7 @@
    {
     "keyword": "attorney duluth ga",
     "slug": "attorney-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-duluth-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -178,7 +178,7 @@
    {
     "keyword": "lawyer duluth ga",
     "slug": "lawyer-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-duluth-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -193,7 +193,7 @@
    {
     "keyword": "storage units duluth ga",
     "slug": "storage-units-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-duluth-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -208,7 +208,7 @@
    {
     "keyword": "eye doctor duluth ga",
     "slug": "eye-doctor-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-duluth-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -223,7 +223,7 @@
    {
     "keyword": "dentist duluth ga",
     "slug": "dentist-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-duluth-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -238,7 +238,7 @@
    {
     "keyword": "spa duluth ga",
     "slug": "spa-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-duluth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -253,7 +253,7 @@
    {
     "keyword": "auto body shop duluth ga",
     "slug": "auto-body-shop-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-duluth-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -268,7 +268,7 @@
    {
     "keyword": "auto repair duluth ga",
     "slug": "auto-repair-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-duluth-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -283,7 +283,7 @@
    {
     "keyword": "mechanic duluth ga",
     "slug": "mechanic-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-duluth-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -298,7 +298,7 @@
    {
     "keyword": "tire shop duluth ga",
     "slug": "tire-shop-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-duluth-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -313,7 +313,7 @@
    {
     "keyword": "bike shop duluth ga",
     "slug": "bike-shop-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-duluth-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -328,7 +328,7 @@
    {
     "keyword": "boutique duluth ga",
     "slug": "boutique-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/boutique-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/boutique-duluth-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -343,7 +343,7 @@
    {
     "keyword": "furniture store duluth ga",
     "slug": "furniture-store-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-duluth-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -358,7 +358,7 @@
    {
     "keyword": "mattress store duluth ga",
     "slug": "mattress-store-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store-duluth-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -373,7 +373,7 @@
    {
     "keyword": "used cars for sale duluth ga",
     "slug": "used-cars-for-sale-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-duluth-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -390,7 +390,7 @@
    {
     "keyword": "dentist duluth ga",
     "slug": "dentist-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-duluth-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -405,7 +405,7 @@
    {
     "keyword": "gym duluth ga",
     "slug": "gym-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-duluth-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -420,7 +420,7 @@
    {
     "keyword": "mechanic duluth ga",
     "slug": "mechanic-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-duluth-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -435,7 +435,7 @@
    {
     "keyword": "tire shop duluth ga",
     "slug": "tire-shop-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-duluth-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -450,7 +450,7 @@
    {
     "keyword": "vet duluth ga",
     "slug": "vet-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-duluth-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -465,7 +465,7 @@
    {
     "keyword": "auto repair duluth ga",
     "slug": "auto-repair-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-duluth-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -480,7 +480,7 @@
    {
     "keyword": "spa duluth ga",
     "slug": "spa-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-duluth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -495,7 +495,7 @@
    {
     "keyword": "attorney duluth ga",
     "slug": "attorney-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-duluth-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -510,7 +510,7 @@
    {
     "keyword": "lawyer duluth ga",
     "slug": "lawyer-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-duluth-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -525,7 +525,7 @@
    {
     "keyword": "auto body shop duluth ga",
     "slug": "auto-body-shop-duluth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-duluth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-duluth-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

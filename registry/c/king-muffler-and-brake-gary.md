@@ -13,12 +13,12 @@ King Muffler & Brake is an auto repair shop in Gary, IN at 3515 Grant Street, Ga
 - Website: https://kingmufflerandbrake.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Chicago, #8 of 24 auto repair shops in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Chicago, #8 of 24 auto repair shops in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/king-muffler-and-brake-gary/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/king-muffler-and-brake-gary.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/king-muffler-and-brake-gary/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/king-muffler-and-brake-gary.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1243268067 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

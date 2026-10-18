@@ -2,7 +2,7 @@
  "title": "Keyword market data: Greenwood, NE",
  "description": "Top Greenwood, NE service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Greenwood, NE",
  "geography": "Omaha, NE-IA metro",
  "keywords": 5,
@@ -11,7 +11,7 @@
    {
     "keyword": "mechanic greenwood ne",
     "slug": "mechanic-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-greenwood-ne/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -26,7 +26,7 @@
    {
     "keyword": "auto repair greenwood ne",
     "slug": "auto-repair-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-greenwood-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -41,7 +41,7 @@
    {
     "keyword": "movers greenwood ne",
     "slug": "movers-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/movers-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-greenwood-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -56,7 +56,7 @@
    {
     "keyword": "moving company greenwood ne",
     "slug": "moving-company-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-greenwood-ne/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 590,
@@ -73,7 +73,7 @@
    {
     "keyword": "moving company greenwood ne",
     "slug": "moving-company-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-greenwood-ne/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 590,
@@ -88,7 +88,7 @@
    {
     "keyword": "movers greenwood ne",
     "slug": "movers-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/movers-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-greenwood-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -103,7 +103,7 @@
    {
     "keyword": "auto repair greenwood ne",
     "slug": "auto-repair-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-greenwood-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -118,7 +118,7 @@
    {
     "keyword": "mechanic greenwood ne",
     "slug": "mechanic-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-greenwood-ne/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -133,7 +133,7 @@
    {
     "keyword": "furniture store greenwood ne",
     "slug": "furniture-store-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-greenwood-ne/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 410,
@@ -150,7 +150,7 @@
    {
     "keyword": "mechanic greenwood ne",
     "slug": "mechanic-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-greenwood-ne/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -165,7 +165,7 @@
    {
     "keyword": "movers greenwood ne",
     "slug": "movers-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/movers-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-greenwood-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -180,7 +180,7 @@
    {
     "keyword": "moving company greenwood ne",
     "slug": "moving-company-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-greenwood-ne/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 590,
@@ -195,7 +195,7 @@
    {
     "keyword": "auto repair greenwood ne",
     "slug": "auto-repair-greenwood-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-greenwood-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-greenwood-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,

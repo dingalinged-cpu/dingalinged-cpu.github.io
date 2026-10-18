@@ -13,12 +13,12 @@ State Farm is an insurance agent in Houston, TX at 1140 Eldridge Parkway #110, H
 - Website: https://www.statefarm.com/agent/us/tx/houston/steve-quimby-gbfvz1ys000
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 48.5/100 — Building — top 51% of insurance agents in Houston, #56 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 51% of insurance agents in Houston, #56 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-houston-w834041985/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-houston-w834041985.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-houston-w834041985/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-houston-w834041985.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/834041985 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

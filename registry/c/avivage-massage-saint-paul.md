@@ -13,12 +13,12 @@ Avivage Massage is a massage studio in Saint Paul, MN at 649 Grand Avenue #2, Sa
 - Website: https://avivagemassage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 36% of massage studios in Minneapolis–St. Paul, #4 of 6 massage studios in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 36% of massage studios in Minneapolis–St. Paul, #4 of 6 massage studios in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/avivage-massage-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/avivage-massage-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/avivage-massage-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/avivage-massage-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8920889289 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

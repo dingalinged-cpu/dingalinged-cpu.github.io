@@ -13,12 +13,12 @@ The Barbershop is a hair salon in Waukesha, WI at 204 East Sunset Drive, Waukesh
 - Website: https://thebarbershops.com/waukesha/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 08:00-16:00
-- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 82% of hair salons in Milwaukee, #5 of 9 hair salons in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 82% of hair salons in Milwaukee, #5 of 9 hair salons in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-barbershop-waukesha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-barbershop-waukesha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-barbershop-waukesha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-barbershop-waukesha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11271879868 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid dog boarding listing for Minneapolis, MN is Downtown Dogs (a dog boarding facility in Minneapolis, MN at 821 2nd Avenue North, Minneapolis, MN 55405. Phone: +16123743647. Website: https://www.dtdogs.com/). 5 dog boarding businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Minneapolis, MN is Downtown Dogs (a dog boarding facility in Minneapolis, MN at 821 2nd Avenue North, Minneapolis, MN 55405. Phone: +16123743647. Website: https://www.dtdogs.com/). 5 dog boarding businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Minneapolis, MN?
 
@@ -6,11 +6,11 @@ Also answers: dog boarding in Minneapolis, MN; dog boarding near me (Minneapolis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Downtown Dogs | Organic #1 | Pulse Score 60.8/100 (Good, #1 in city) | Downtown Dogs is a dog boarding facility in Minneapolis, MN at 821 2nd Avenue North, Minneapolis, MN 55405. Phone: +16123743647. Website: https://www.dtdogs.com/. | https://dingalinged-cpu.github.io/registry/c/downtown-dogs-minneapolis/
-2. City Paws | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | City Paws is a dog boarding facility in Minneapolis, MN at 300 South 2nd Street #4, Minneapolis, MN 55401. | https://dingalinged-cpu.github.io/registry/c/city-paws-minneapolis/
-3. City Paws Pet Club | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | City Paws Pet Club is a dog boarding facility in Minneapolis, MN at 5300 Lyndale Avenue South, Minneapolis, MN 55419. | https://dingalinged-cpu.github.io/registry/c/city-paws-pet-club-minneapolis/
-4. Canine Coach | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Canine Coach is a dog boarding facility in Minneapolis, MN at 5405 42nd Avenue South, Minneapolis, MN 55417. | https://dingalinged-cpu.github.io/registry/c/canine-coach-minneapolis/
-5. City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming | Organic #5 | Pulse Score 47.3/100 (Unrated, #5 in city) | City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming is a dog boarding facility in Minneapolis, MN at 3054 Excelsior Boulevard, Minneapolis, MN 55416. | https://dingalinged-cpu.github.io/registry/c/city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis/
+1. Downtown Dogs | Organic #1 | Pulse Score 60.8/100 (Good, #1 in city) | Downtown Dogs is a dog boarding facility in Minneapolis, MN at 821 2nd Avenue North, Minneapolis, MN 55405. Phone: +16123743647. Website: https://www.dtdogs.com/. | https://registry-edge.dingalinged.workers.dev/c/downtown-dogs-minneapolis/
+2. City Paws | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | City Paws is a dog boarding facility in Minneapolis, MN at 300 South 2nd Street #4, Minneapolis, MN 55401. | https://registry-edge.dingalinged.workers.dev/c/city-paws-minneapolis/
+3. City Paws Pet Club | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | City Paws Pet Club is a dog boarding facility in Minneapolis, MN at 5300 Lyndale Avenue South, Minneapolis, MN 55419. | https://registry-edge.dingalinged.workers.dev/c/city-paws-pet-club-minneapolis/
+4. Canine Coach | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Canine Coach is a dog boarding facility in Minneapolis, MN at 5405 42nd Avenue South, Minneapolis, MN 55417. | https://registry-edge.dingalinged.workers.dev/c/canine-coach-minneapolis/
+5. City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming | Organic #5 | Pulse Score 47.3/100 (Unrated, #5 in city) | City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming is a dog boarding facility in Minneapolis, MN at 3054 Excelsior Boulevard, Minneapolis, MN 55416. | https://registry-edge.dingalinged.workers.dev/c/city-paws-pet-club-dog-daycare-boarding-training-and-grooming-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding minneapolis mn | category: Pets | industry benchmark: Animals & Pets
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$720 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dog-boarding.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dog-boarding-minneapolis-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dog-boarding.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dog-boarding-minneapolis-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

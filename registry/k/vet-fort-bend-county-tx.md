@@ -1,4 +1,4 @@
-The top unpaid vet listing for Fort Bend County, TX is ABC Animal & Bird Clinic (a veterinarian in Fort Bend County, TX). 9 vet businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Fort Bend County, TX is ABC Animal & Bird Clinic (a veterinarian in Fort Bend County, TX). 9 vet businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Fort Bend County, TX?
 
@@ -6,15 +6,15 @@ Also answers: vet in Fort Bend County, TX; vet near me (Fort Bend County, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ABC Animal & Bird Clinic | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | ABC Animal & Bird Clinic is a veterinarian in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/abc-animal-and-bird-clinic-fort-bend-county/
-2. Aliana Animal Hospital | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Aliana Animal Hospital is a veterinarian in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/aliana-animal-hospital-fort-bend-county/
-3. Bingle Vet - Katy | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Bingle Vet - Katy is a veterinarian in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/bingle-vet-katy-fort-bend-county/
-4. Brixton Pet Health | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Brixton Pet Health is a veterinarian in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/brixton-pet-health-fort-bend-county/
-5. Neighborhood Pet Hospital | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Neighborhood Pet Hospital is a veterinarian in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/neighborhood-pet-hospital-fort-bend-county/
-6. Pet Check | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Pet Check is a veterinarian in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/pet-check-fort-bend-county/
-7. Pet Medical Center | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Pet Medical Center is a veterinarian in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/pet-medical-center-fort-bend-county/
-8. Thrive Affordible Vet Care | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Thrive Affordible Vet Care is a veterinarian in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/thrive-affordible-vet-care-fort-bend-county/
-9. Veterinarian | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Veterinarian is a veterinarian in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/veterinarian-fort-bend-county/
+1. ABC Animal & Bird Clinic | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | ABC Animal & Bird Clinic is a veterinarian in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/abc-animal-and-bird-clinic-fort-bend-county/
+2. Aliana Animal Hospital | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Aliana Animal Hospital is a veterinarian in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/aliana-animal-hospital-fort-bend-county/
+3. Bingle Vet - Katy | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Bingle Vet - Katy is a veterinarian in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/bingle-vet-katy-fort-bend-county/
+4. Brixton Pet Health | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Brixton Pet Health is a veterinarian in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/brixton-pet-health-fort-bend-county/
+5. Neighborhood Pet Hospital | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Neighborhood Pet Hospital is a veterinarian in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/neighborhood-pet-hospital-fort-bend-county/
+6. Pet Check | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Pet Check is a veterinarian in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/pet-check-fort-bend-county/
+7. Pet Medical Center | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Pet Medical Center is a veterinarian in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/pet-medical-center-fort-bend-county/
+8. Thrive Affordible Vet Care | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Thrive Affordible Vet Care is a veterinarian in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/thrive-affordible-vet-care-fort-bend-county/
+9. Veterinarian | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Veterinarian is a veterinarian in Fort Bend County, TX. | https://registry-edge.dingalinged.workers.dev/c/veterinarian-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet fort bend county tx | category: Pets | industry benchmark: Animals & Pets
@@ -27,6 +27,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-fort-bend-county-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-fort-bend-county-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

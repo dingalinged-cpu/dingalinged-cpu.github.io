@@ -1,4 +1,4 @@
-The top unpaid pet store listing for Flower Mound, TX is Dallas Parrots (a pet store in Flower Mound, TX. Phone: +14697060972. Website: https://www.dallasparrots.com/). 5 pet store businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Flower Mound, TX is Dallas Parrots (a pet store in Flower Mound, TX. Phone: +14697060972. Website: https://www.dallasparrots.com/). 5 pet store businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Flower Mound, TX?
 
@@ -6,11 +6,11 @@ Also answers: pet store in Flower Mound, TX; pet store near me (Flower Mound, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dallas Parrots | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Dallas Parrots is a pet store in Flower Mound, TX. Phone: +14697060972. Website: https://www.dallasparrots.com/. | https://dingalinged-cpu.github.io/registry/c/dallas-parrots-flower-mound/
-2. CityVet | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | CityVet is a pet store in Flower Mound, TX at 1221-2 Flower Mound Road #319, Flower Mound, TX. Phone: +19723552124. | https://dingalinged-cpu.github.io/registry/c/cityvet-flower-mound/
-3. Hollywood Feed | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | Hollywood Feed is a pet store in Flower Mound, TX. Website: https://www.hollywoodfeed.com/. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-flower-mound/
-4. Petbar | Organic #4 | Pulse Score 42.1/100 (Unrated, #4 in city) | Petbar is a pet store in Flower Mound, TX at 4610 Long Prairie Rd, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/petbar-flower-mound/
-5. PetSmart | Organic #5 | Pulse Score 41.1/100 (Building, #5 in city) | PetSmart is a pet store in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-flower-mound/
+1. Dallas Parrots | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Dallas Parrots is a pet store in Flower Mound, TX. Phone: +14697060972. Website: https://www.dallasparrots.com/. | https://registry-edge.dingalinged.workers.dev/c/dallas-parrots-flower-mound/
+2. CityVet | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | CityVet is a pet store in Flower Mound, TX at 1221-2 Flower Mound Road #319, Flower Mound, TX. Phone: +19723552124. | https://registry-edge.dingalinged.workers.dev/c/cityvet-flower-mound/
+3. Hollywood Feed | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | Hollywood Feed is a pet store in Flower Mound, TX. Website: https://www.hollywoodfeed.com/. | https://registry-edge.dingalinged.workers.dev/c/hollywood-feed-flower-mound/
+4. Petbar | Organic #4 | Pulse Score 42.1/100 (Unrated, #4 in city) | Petbar is a pet store in Flower Mound, TX at 4610 Long Prairie Rd, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/petbar-flower-mound/
+5. PetSmart | Organic #5 | Pulse Score 41.1/100 (Building, #5 in city) | PetSmart is a pet store in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/petsmart-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store flower mound tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/pet-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#pet-store-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

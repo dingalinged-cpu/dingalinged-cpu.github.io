@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Palatine, IL is A&L Autobody (an auto repair shop in Palatine, IL at 1979 West Dundee Road, Palatine, IL 60067. Phone: +18479915620). 10 auto repair businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Palatine, IL is A&L Autobody (an auto repair shop in Palatine, IL at 1979 West Dundee Road, Palatine, IL 60067. Phone: +18479915620). 10 auto repair businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Palatine, IL?
 
@@ -6,16 +6,16 @@ Also answers: auto repair in Palatine, IL; auto repair near me (Palatine, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A&L Autobody | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | A&L Autobody is an auto repair shop in Palatine, IL at 1979 West Dundee Road, Palatine, IL 60067. Phone: +18479915620. | https://dingalinged-cpu.github.io/registry/c/a-and-l-autobody-palatine/
-2. Bush's  Auto Service Center | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Bush's  Auto Service Center is an auto repair shop in Palatine, IL at 137 East Northwest Highway, Palatine, IL 60067. | https://dingalinged-cpu.github.io/registry/c/bushs-auto-service-center-palatine/
-3. Palatine Shell Service, Inc. | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Palatine Shell Service, Inc. is an auto repair shop in Palatine, IL. Website: https://www.palatineshellservice.com/Auto-Services/Schedule-A-Repair. | https://dingalinged-cpu.github.io/registry/c/palatine-shell-service-inc-palatine/
-4. Casey Automotive Service & Repair | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Casey Automotive Service & Repair is an auto repair shop in Palatine, IL at 138 East Northwest Highway, Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/casey-automotive-service-and-repair-palatine/
-5. Caliber Collision | Organic #5 | Pulse Score 45.3/100 (Building, #5 in city) | Caliber Collision is an auto repair shop in Palatine, IL at 1930 North Rand Road, Palatine, IL 60074. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-palatine/
-6. Car-X | Organic #6 | Pulse Score 44.7/100 (Building, #6 in city) | Car-X is an auto repair shop in Palatine, IL at 1098 East Dundee Road, Palatine, IL 60074. | https://dingalinged-cpu.github.io/registry/c/car-x-palatine/
-7. NTB | Organic #7 | Pulse Score 42.2/100 (Building, #7 in city) | NTB is an auto repair shop in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/ntb-palatine/
-8. Jiffy Lube | Organic #8 | Pulse Score 41.7/100 (Building, #8 in city) | Jiffy Lube is an auto repair shop in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-palatine/
-9. Midas | Organic #9 | Pulse Score 41.7/100 (Building, #9 in city) | Midas is an auto repair shop in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/midas-palatine/
-10. Havoline Xpress Lube | Organic #10 | Pulse Score 41.4/100 (Unrated, #10 in city) | Havoline Xpress Lube is an auto repair shop in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/havoline-xpress-lube-palatine/
+1. A&L Autobody | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | A&L Autobody is an auto repair shop in Palatine, IL at 1979 West Dundee Road, Palatine, IL 60067. Phone: +18479915620. | https://registry-edge.dingalinged.workers.dev/c/a-and-l-autobody-palatine/
+2. Bush's  Auto Service Center | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Bush's  Auto Service Center is an auto repair shop in Palatine, IL at 137 East Northwest Highway, Palatine, IL 60067. | https://registry-edge.dingalinged.workers.dev/c/bushs-auto-service-center-palatine/
+3. Palatine Shell Service, Inc. | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Palatine Shell Service, Inc. is an auto repair shop in Palatine, IL. Website: https://www.palatineshellservice.com/Auto-Services/Schedule-A-Repair. | https://registry-edge.dingalinged.workers.dev/c/palatine-shell-service-inc-palatine/
+4. Casey Automotive Service & Repair | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Casey Automotive Service & Repair is an auto repair shop in Palatine, IL at 138 East Northwest Highway, Palatine, IL. | https://registry-edge.dingalinged.workers.dev/c/casey-automotive-service-and-repair-palatine/
+5. Caliber Collision | Organic #5 | Pulse Score 45.3/100 (Building, #5 in city) | Caliber Collision is an auto repair shop in Palatine, IL at 1930 North Rand Road, Palatine, IL 60074. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-palatine/
+6. Car-X | Organic #6 | Pulse Score 44.7/100 (Building, #6 in city) | Car-X is an auto repair shop in Palatine, IL at 1098 East Dundee Road, Palatine, IL 60074. | https://registry-edge.dingalinged.workers.dev/c/car-x-palatine/
+7. NTB | Organic #7 | Pulse Score 42.2/100 (Building, #7 in city) | NTB is an auto repair shop in Palatine, IL. | https://registry-edge.dingalinged.workers.dev/c/ntb-palatine/
+8. Jiffy Lube | Organic #8 | Pulse Score 41.7/100 (Building, #8 in city) | Jiffy Lube is an auto repair shop in Palatine, IL. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-palatine/
+9. Midas | Organic #9 | Pulse Score 41.7/100 (Building, #9 in city) | Midas is an auto repair shop in Palatine, IL. | https://registry-edge.dingalinged.workers.dev/c/midas-palatine/
+10. Havoline Xpress Lube | Organic #10 | Pulse Score 41.4/100 (Unrated, #10 in city) | Havoline Xpress Lube is an auto repair shop in Palatine, IL. | https://registry-edge.dingalinged.workers.dev/c/havoline-xpress-lube-palatine/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair palatine il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -28,6 +28,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-palatine-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-palatine-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

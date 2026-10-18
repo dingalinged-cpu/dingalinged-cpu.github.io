@@ -13,12 +13,12 @@ World Market is a furniture store in Flower Mound, TX at 6101 Long Prairie Rd, F
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 35% of furniture stores in Dallas–Fort Worth, #1 of 1 furniture stores in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 46.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 35% of furniture stores in Dallas–Fort Worth, #1 of 1 furniture stores in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 46.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/world-market-flower-mound/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/world-market-flower-mound.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/world-market-flower-mound/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/world-market-flower-mound.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10891952455 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

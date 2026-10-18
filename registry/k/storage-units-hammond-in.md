@@ -1,4 +1,4 @@
-The top unpaid storage units listing for Hammond, IN is Public Storage (a self-storage facility in Hammond, IN at 4015 Calumet Avenue, Hammond, IN 46320. Website: https://www.publicstorage.com/self-storage-in-hammond/1259.html). 4 storage units businesses are listed for Hammond, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Hammond, IN is Public Storage (a self-storage facility in Hammond, IN at 4015 Calumet Avenue, Hammond, IN 46320. Website: https://www.publicstorage.com/self-storage-in-hammond/1259.html). 4 storage units businesses are listed for Hammond, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Hammond, IN?
 
@@ -6,10 +6,10 @@ Also answers: storage units in Hammond, IN; storage units near me (Hammond, IN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | Public Storage is a self-storage facility in Hammond, IN at 4015 Calumet Avenue, Hammond, IN 46320. Website: https://www.publicstorage.com/self-storage-in-hammond/1259.html. | https://dingalinged-cpu.github.io/registry/c/public-storage-hammond/
-2. Extra Space Storage | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Extra Space Storage is a self-storage facility in Hammond, IN at 6641 Columbia Avenue, Hammond, IN 46320. Website: https://www.extraspace.com/storage/facilities/us/indiana/hammond/2046/. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-hammond/
-3. Extra Space Storage | Organic #3 | Pulse Score 46.9/100 (Building, #3 in city) | Extra Space Storage is a self-storage facility in Hammond, IN at 950 165th Street, Hammond, IN 46324. Website: https://www.extraspace.com/storage/facilities/us/indiana/hammond/7608. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-hammond-w1359710980/
-4. U-Haul | Organic #4 | Pulse Score 46.9/100 (Building, #4 in city) | U-Haul is a self-storage facility in Hammond, IN at 822 165th Street, Hammond, IN 46324. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Hammond-IN-46324/759022. | https://dingalinged-cpu.github.io/registry/c/u-haul-hammond/
+1. Public Storage | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | Public Storage is a self-storage facility in Hammond, IN at 4015 Calumet Avenue, Hammond, IN 46320. Website: https://www.publicstorage.com/self-storage-in-hammond/1259.html. | https://registry-edge.dingalinged.workers.dev/c/public-storage-hammond/
+2. Extra Space Storage | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Extra Space Storage is a self-storage facility in Hammond, IN at 6641 Columbia Avenue, Hammond, IN 46320. Website: https://www.extraspace.com/storage/facilities/us/indiana/hammond/2046/. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-hammond/
+3. Extra Space Storage | Organic #3 | Pulse Score 46.9/100 (Building, #3 in city) | Extra Space Storage is a self-storage facility in Hammond, IN at 950 165th Street, Hammond, IN 46324. Website: https://www.extraspace.com/storage/facilities/us/indiana/hammond/7608. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-hammond-w1359710980/
+4. U-Haul | Organic #4 | Pulse Score 46.9/100 (Building, #4 in city) | U-Haul is a self-storage facility in Hammond, IN at 822 165th Street, Hammond, IN 46324. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Hammond-IN-46324/759022. | https://registry-edge.dingalinged.workers.dev/c/u-haul-hammond/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units hammond in | category: Home services - Moving | industry benchmark: Home & Home Improvement
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/storage-units.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#storage-units-hammond-in | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/storage-units.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#storage-units-hammond-in | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

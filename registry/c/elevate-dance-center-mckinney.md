@@ -13,12 +13,12 @@ Elevate Dance Center is a dance studio in McKinney, TX. Phone: +14697420383. Web
 - Website: https://danceatelevate.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 16% of dance studios in Dallas–Fort Worth, #1 of 3 dance studios in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 16% of dance studios in Dallas–Fort Worth, #1 of 3 dance studios in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/elevate-dance-center-mckinney/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/elevate-dance-center-mckinney.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/elevate-dance-center-mckinney/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elevate-dance-center-mckinney.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9687880383 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Elite HVACS Furnace, AC & Plumbing Repair is a HVAC contractor in Skokie, IL at 
 - Website: https://elitehvacs.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 7% of HVAC contractors in Chicago, #1 of 3 HVAC contractors in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 7% of HVAC contractors in Chicago, #1 of 3 HVAC contractors in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/elite-hvacs-furnace-ac-and-plumbing-repair-skokie/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/elite-hvacs-furnace-ac-and-plumbing-repair-skokie.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/elite-hvacs-furnace-ac-and-plumbing-repair-skokie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elite-hvacs-furnace-ac-and-plumbing-repair-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13674894504 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

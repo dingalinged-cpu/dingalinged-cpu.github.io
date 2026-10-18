@@ -13,12 +13,12 @@ Wealth Guidance is a financial advisor in Chanhassen, MN at 7925 Stone Creek Dri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 45% of financial advisors in Minneapolis–St. Paul, #2 of 2 financial advisors in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 45. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 45% of financial advisors in Minneapolis–St. Paul, #2 of 2 financial advisors in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/wealth-guidance-chanhassen/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wealth-guidance-chanhassen.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wealth-guidance-chanhassen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wealth-guidance-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6734428579 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Galveston County, TX",
  "description": "Top Galveston County, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Galveston County, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 4,
@@ -11,7 +11,7 @@
    {
     "keyword": "hair salon galveston county tx",
     "slug": "hair-salon-galveston-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-galveston-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-galveston-county-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "haircut galveston county tx",
     "slug": "haircut-galveston-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-galveston-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-galveston-county-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -43,7 +43,7 @@
    {
     "keyword": "haircut galveston county tx",
     "slug": "haircut-galveston-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-galveston-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-galveston-county-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -58,7 +58,7 @@
    {
     "keyword": "liquor store galveston county tx",
     "slug": "liquor-store-galveston-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-galveston-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-galveston-county-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -73,7 +73,7 @@
    {
     "keyword": "thrift store galveston county tx",
     "slug": "thrift-store-galveston-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-galveston-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-galveston-county-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -88,7 +88,7 @@
    {
     "keyword": "hair salon galveston county tx",
     "slug": "hair-salon-galveston-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-galveston-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-galveston-county-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -105,7 +105,7 @@
    {
     "keyword": "haircut galveston county tx",
     "slug": "haircut-galveston-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-galveston-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-galveston-county-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -120,7 +120,7 @@
    {
     "keyword": "hair salon galveston county tx",
     "slug": "hair-salon-galveston-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-galveston-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-galveston-county-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,

@@ -13,12 +13,12 @@ Cost Cutters is a hair salon in Houston, TX at 9650 Westheimer Road #200, Housto
 - Website: https://www.costcutters.com/locations/tx/houston/woodlake-square-haircuts-15697.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-18:00
-- Pulse Score: 49.2/100 — Building — top 69% of hair salons in Houston, #145 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 69% of hair salons in Houston, #145 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cost-cutters-houston-n9611895944/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cost-cutters-houston-n9611895944.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cost-cutters-houston-n9611895944/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cost-cutters-houston-n9611895944.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9611895944 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

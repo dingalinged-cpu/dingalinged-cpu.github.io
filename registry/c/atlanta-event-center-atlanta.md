@@ -13,12 +13,12 @@ Atlanta Event Center is an event venue in Atlanta, GA at 1150 Crescent Avenue No
 - Website: https://www.atleventcenter.com/
 - Email: sbonet@graeatl.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 30% of event venues in Atlanta, #12 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 30% of event venues in Atlanta, #12 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/atlanta-event-center-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/atlanta-event-center-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/atlanta-event-center-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/atlanta-event-center-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/613428259 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

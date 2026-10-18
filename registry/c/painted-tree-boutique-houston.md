@@ -13,12 +13,12 @@ Painted Tree Boutique is a gift shop in Houston, TX at 1153 Kingwood Drive, Hous
 - Website: https://paintedtree.com/locations/kingwood-texas/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 25% of gift shops in Houston, #16 of 62 gift shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 25% of gift shops in Houston, #16 of 62 gift shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/painted-tree-boutique-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/painted-tree-boutique-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/painted-tree-boutique-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/painted-tree-boutique-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4198113494 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

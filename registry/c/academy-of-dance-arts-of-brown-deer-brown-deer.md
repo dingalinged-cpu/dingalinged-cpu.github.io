@@ -13,12 +13,12 @@ Academy Of Dance Arts Of Brown Deer is a dance studio in Brown Deer, WI at 9036 
 - Website: https://adaofwisc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 35% of dance studios in Milwaukee, #1 of 1 dance studios in Brown Deer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 35% of dance studios in Milwaukee, #1 of 1 dance studios in Brown Deer (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/academy-of-dance-arts-of-brown-deer-brown-deer/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/academy-of-dance-arts-of-brown-deer-brown-deer.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/academy-of-dance-arts-of-brown-deer-brown-deer/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/academy-of-dance-arts-of-brown-deer-brown-deer.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2052205045 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

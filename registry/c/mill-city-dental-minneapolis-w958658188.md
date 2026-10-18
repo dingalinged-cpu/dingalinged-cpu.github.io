@@ -13,12 +13,12 @@ Mill City Dental is a dentist in Minneapolis, MN at 2218 Laurel Avenue West, Min
 - Website: https://millcitydental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.4/100 — Good — top 5% of dentists in Minneapolis–St. Paul, #7 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 66.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 5% of dentists in Minneapolis–St. Paul, #7 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 66.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mill-city-dental-minneapolis-w958658188/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mill-city-dental-minneapolis-w958658188.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mill-city-dental-minneapolis-w958658188/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mill-city-dental-minneapolis-w958658188.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/958658188 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

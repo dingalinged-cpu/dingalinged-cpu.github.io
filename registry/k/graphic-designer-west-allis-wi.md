@@ -1,4 +1,4 @@
-The top unpaid graphic designer listing for West Allis, WI is MKE Graphics (a graphic designer in West Allis, WI at 7629 West Beloit Road, West Allis, WI 53219. Phone: +14149352882. Website: https://mke-graphics.com/contact-us). 2 graphic designer businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid graphic designer listing for West Allis, WI is MKE Graphics (a graphic designer in West Allis, WI at 7629 West Beloit Road, West Allis, WI 53219. Phone: +14149352882. Website: https://mke-graphics.com/contact-us). 2 graphic designer businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best graphic designer providers in West Allis, WI?
 
@@ -6,8 +6,8 @@ Also answers: graphic designer in West Allis, WI; graphic designer near me (West
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MKE Graphics | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | MKE Graphics is a graphic designer in West Allis, WI at 7629 West Beloit Road, West Allis, WI 53219. Phone: +14149352882. Website: https://mke-graphics.com/contact-us. | https://dingalinged-cpu.github.io/registry/c/mke-graphics-west-allis/
-2. Magenta Printing | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Magenta Printing is a graphic designer in West Allis, WI at 9234 West Oklahoma Avenue, West Allis, WI 53227. | https://dingalinged-cpu.github.io/registry/c/magenta-printing-west-allis/
+1. MKE Graphics | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | MKE Graphics is a graphic designer in West Allis, WI at 7629 West Beloit Road, West Allis, WI 53219. Phone: +14149352882. Website: https://mke-graphics.com/contact-us. | https://registry-edge.dingalinged.workers.dev/c/mke-graphics-west-allis/
+2. Magenta Printing | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Magenta Printing is a graphic designer in West Allis, WI at 9234 West Oklahoma Avenue, West Allis, WI 53227. | https://registry-edge.dingalinged.workers.dev/c/magenta-printing-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer west allis wi | category: professional_marketing | industry benchmark: Business Services
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$12.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/graphic-designer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#graphic-designer-west-allis-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/graphic-designer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#graphic-designer-west-allis-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

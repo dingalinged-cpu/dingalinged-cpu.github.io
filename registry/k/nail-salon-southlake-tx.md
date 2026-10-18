@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Southlake, TX is Castle Nail Spa in Southlake (a nail salon in Southlake, TX at 2251 South Kimball Avenue #120, Southlake, TX 76092. Phone: +18174425000). 6 nail salon businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Southlake, TX is Castle Nail Spa in Southlake (a nail salon in Southlake, TX at 2251 South Kimball Avenue #120, Southlake, TX 76092. Phone: +18174425000). 6 nail salon businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Southlake, TX?
 
@@ -6,12 +6,12 @@ Also answers: nail salon in Southlake, TX; nail salon near me (Southlake, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Castle Nail Spa in Southlake | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Castle Nail Spa in Southlake is a nail salon in Southlake, TX at 2251 South Kimball Avenue #120, Southlake, TX 76092. Phone: +18174425000. | https://dingalinged-cpu.github.io/registry/c/castle-nail-spa-in-southlake-southlake/
-2. Grand Nail Spa | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Grand Nail Spa is a nail salon in Southlake, TX at 2175 East Southlake Boulevard #140, Southlake, TX 76092. Phone: +18174429285. Website: https://grandnailsouthlake.com/. | https://dingalinged-cpu.github.io/registry/c/grand-nail-spa-southlake/
-3. Southlake Nails | Organic #3 | Pulse Score 61.7/100 (Unrated, #3 in city) | Southlake Nails is a nail salon in Southlake, TX. Phone: +18174429060. | https://dingalinged-cpu.github.io/registry/c/southlake-nails-southlake/
-4. Venetian Nail Salon | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Venetian Nail Salon is a nail salon in Southlake, TX at 291 Grand Avenue, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/venetian-nail-salon-southlake/
-5. D'nail Studio | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | D'nail Studio is a nail salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/dnail-studio-southlake/
-6. Posh Nail Spa | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Posh Nail Spa is a nail salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/posh-nail-spa-southlake/
+1. Castle Nail Spa in Southlake | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Castle Nail Spa in Southlake is a nail salon in Southlake, TX at 2251 South Kimball Avenue #120, Southlake, TX 76092. Phone: +18174425000. | https://registry-edge.dingalinged.workers.dev/c/castle-nail-spa-in-southlake-southlake/
+2. Grand Nail Spa | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Grand Nail Spa is a nail salon in Southlake, TX at 2175 East Southlake Boulevard #140, Southlake, TX 76092. Phone: +18174429285. Website: https://grandnailsouthlake.com/. | https://registry-edge.dingalinged.workers.dev/c/grand-nail-spa-southlake/
+3. Southlake Nails | Organic #3 | Pulse Score 61.7/100 (Unrated, #3 in city) | Southlake Nails is a nail salon in Southlake, TX. Phone: +18174429060. | https://registry-edge.dingalinged.workers.dev/c/southlake-nails-southlake/
+4. Venetian Nail Salon | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Venetian Nail Salon is a nail salon in Southlake, TX at 291 Grand Avenue, Southlake, TX 76092. | https://registry-edge.dingalinged.workers.dev/c/venetian-nail-salon-southlake/
+5. D'nail Studio | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | D'nail Studio is a nail salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/dnail-studio-southlake/
+6. Posh Nail Spa | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Posh Nail Spa is a nail salon in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/posh-nail-spa-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon southlake tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$870 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-southlake-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-southlake-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

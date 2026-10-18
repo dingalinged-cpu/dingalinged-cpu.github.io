@@ -2,7 +2,7 @@
  "title": "Keyword market data: Balch Springs, TX",
  "description": "Top Balch Springs, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Balch Springs, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 15,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash balch springs tx",
     "slug": "car-wash-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-balch-springs-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist balch springs tx",
     "slug": "dentist-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-balch-springs-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon balch springs tx",
     "slug": "hair-salon-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-balch-springs-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic balch springs tx",
     "slug": "mechanic-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-balch-springs-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet balch springs tx",
     "slug": "vet-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-balch-springs-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut balch springs tx",
     "slug": "haircut-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-balch-springs-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair balch springs tx",
     "slug": "auto-repair-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-balch-springs-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agency balch springs tx",
     "slug": "insurance-agency-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-balch-springs-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agents balch springs tx",
     "slug": "insurance-agents-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-balch-springs-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agent balch springs tx",
     "slug": "insurance-agent-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-balch-springs-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -163,7 +163,7 @@
    {
     "keyword": "storage units balch springs tx",
     "slug": "storage-units-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-balch-springs-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -178,7 +178,7 @@
    {
     "keyword": "event venues balch springs tx",
     "slug": "event-venues-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-balch-springs-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -193,7 +193,7 @@
    {
     "keyword": "dentist balch springs tx",
     "slug": "dentist-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-balch-springs-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -208,7 +208,7 @@
    {
     "keyword": "haircut balch springs tx",
     "slug": "haircut-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-balch-springs-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -223,7 +223,7 @@
    {
     "keyword": "auto repair balch springs tx",
     "slug": "auto-repair-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-balch-springs-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -238,7 +238,7 @@
    {
     "keyword": "car wash balch springs tx",
     "slug": "car-wash-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-balch-springs-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -253,7 +253,7 @@
    {
     "keyword": "mechanic balch springs tx",
     "slug": "mechanic-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-balch-springs-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -268,7 +268,7 @@
    {
     "keyword": "furniture store balch springs tx",
     "slug": "furniture-store-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-balch-springs-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -283,7 +283,7 @@
    {
     "keyword": "liquor store balch springs tx",
     "slug": "liquor-store-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-balch-springs-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -298,7 +298,7 @@
    {
     "keyword": "vet balch springs tx",
     "slug": "vet-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-balch-springs-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -313,7 +313,7 @@
    {
     "keyword": "funeral home balch springs tx",
     "slug": "funeral-home-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-balch-springs-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -328,7 +328,7 @@
    {
     "keyword": "insurance agency balch springs tx",
     "slug": "insurance-agency-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-balch-springs-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -343,7 +343,7 @@
    {
     "keyword": "insurance agent balch springs tx",
     "slug": "insurance-agent-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-balch-springs-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -358,7 +358,7 @@
    {
     "keyword": "insurance agents balch springs tx",
     "slug": "insurance-agents-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-balch-springs-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -373,7 +373,7 @@
    {
     "keyword": "hair salon balch springs tx",
     "slug": "hair-salon-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-balch-springs-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -390,7 +390,7 @@
    {
     "keyword": "dentist balch springs tx",
     "slug": "dentist-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-balch-springs-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -405,7 +405,7 @@
    {
     "keyword": "car wash balch springs tx",
     "slug": "car-wash-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-balch-springs-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -420,7 +420,7 @@
    {
     "keyword": "mechanic balch springs tx",
     "slug": "mechanic-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-balch-springs-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -435,7 +435,7 @@
    {
     "keyword": "vet balch springs tx",
     "slug": "vet-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-balch-springs-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -450,7 +450,7 @@
    {
     "keyword": "haircut balch springs tx",
     "slug": "haircut-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-balch-springs-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -465,7 +465,7 @@
    {
     "keyword": "auto repair balch springs tx",
     "slug": "auto-repair-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-balch-springs-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -480,7 +480,7 @@
    {
     "keyword": "hair salon balch springs tx",
     "slug": "hair-salon-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-balch-springs-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -495,7 +495,7 @@
    {
     "keyword": "insurance agency balch springs tx",
     "slug": "insurance-agency-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-balch-springs-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -510,7 +510,7 @@
    {
     "keyword": "insurance agents balch springs tx",
     "slug": "insurance-agents-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-balch-springs-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -525,7 +525,7 @@
    {
     "keyword": "insurance agent balch springs tx",
     "slug": "insurance-agent-balch-springs-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-balch-springs-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-balch-springs-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,

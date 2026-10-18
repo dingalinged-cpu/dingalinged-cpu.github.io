@@ -2,7 +2,7 @@
  "title": "Keyword market data: Chicago Ridge, IL",
  "description": "Top Chicago Ridge, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Chicago Ridge, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 9,
@@ -11,7 +11,7 @@
    {
     "keyword": "gym chicago ridge il",
     "slug": "gym-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-chicago-ridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "mechanic chicago ridge il",
     "slug": "mechanic-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-ridge-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -41,7 +41,7 @@
    {
     "keyword": "auto repair chicago ridge il",
     "slug": "auto-repair-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-chicago-ridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -56,7 +56,7 @@
    {
     "keyword": "auto body shop chicago ridge il",
     "slug": "auto-body-shop-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-chicago-ridge-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -73,7 +73,7 @@
    {
     "keyword": "storage units chicago ridge il",
     "slug": "storage-units-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-chicago-ridge-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -88,7 +88,7 @@
    {
     "keyword": "auto body shop chicago ridge il",
     "slug": "auto-body-shop-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-chicago-ridge-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -103,7 +103,7 @@
    {
     "keyword": "auto repair chicago ridge il",
     "slug": "auto-repair-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-chicago-ridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -118,7 +118,7 @@
    {
     "keyword": "mechanic chicago ridge il",
     "slug": "mechanic-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-ridge-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -133,7 +133,7 @@
    {
     "keyword": "gift shop chicago ridge il",
     "slug": "gift-shop-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-chicago-ridge-il/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 500,
@@ -148,7 +148,7 @@
    {
     "keyword": "jewelry store chicago ridge il",
     "slug": "jewelry-store-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-chicago-ridge-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -163,7 +163,7 @@
    {
     "keyword": "liquor store chicago ridge il",
     "slug": "liquor-store-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-chicago-ridge-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -178,7 +178,7 @@
    {
     "keyword": "printing services chicago ridge il",
     "slug": "printing-services-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-chicago-ridge-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -193,7 +193,7 @@
    {
     "keyword": "gym chicago ridge il",
     "slug": "gym-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-chicago-ridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -210,7 +210,7 @@
    {
     "keyword": "gym chicago ridge il",
     "slug": "gym-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-chicago-ridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -225,7 +225,7 @@
    {
     "keyword": "mechanic chicago ridge il",
     "slug": "mechanic-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-ridge-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -240,7 +240,7 @@
    {
     "keyword": "auto repair chicago ridge il",
     "slug": "auto-repair-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-chicago-ridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -255,7 +255,7 @@
    {
     "keyword": "auto body shop chicago ridge il",
     "slug": "auto-body-shop-chicago-ridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-chicago-ridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-chicago-ridge-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,

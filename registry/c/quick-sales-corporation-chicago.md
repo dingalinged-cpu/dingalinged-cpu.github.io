@@ -13,12 +13,12 @@ Quick Sales Corporation is an used car dealer in Chicago, IL at 5800 West Fuller
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 11:00-19:00; Sa 10:00-16:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of used car dealers in Chicago, #2 of 13 used car dealers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of used car dealers in Chicago, #2 of 13 used car dealers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/quick-sales-corporation-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/quick-sales-corporation-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/quick-sales-corporation-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quick-sales-corporation-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13587088029 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Regency Car Wash is a car wash in Racine, WI at 6149 Regency West Drive, Racine,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 30% of car washes in Milwaukee, #2 of 6 car washes in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 44. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 30% of car washes in Milwaukee, #2 of 6 car washes in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/regency-car-wash-racine/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/regency-car-wash-racine.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/regency-car-wash-racine/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/regency-car-wash-racine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/376385310 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

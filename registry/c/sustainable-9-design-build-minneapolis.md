@@ -13,12 +13,12 @@ Sustainable 9 Design + Build is an architect in Minneapolis, MN at 3511 West 44t
 - Website: https://sustainable9.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 71% of architects in Minneapolis–St. Paul, #5 of 8 architects in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 71% of architects in Minneapolis–St. Paul, #5 of 8 architects in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sustainable-9-design-build-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sustainable-9-design-build-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sustainable-9-design-build-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sustainable-9-design-build-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1308879559 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

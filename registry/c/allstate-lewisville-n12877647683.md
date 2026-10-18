@@ -13,12 +13,12 @@ Allstate is an insurance agent in Lewisville, TX at 1165 South Stemmons Freeway 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Su off; Sa "By appointment only"
-- Pulse Score: 49.5/100 — Building — top 43% of insurance agents in Dallas–Fort Worth, #10 of 19 insurance agents in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 43% of insurance agents in Dallas–Fort Worth, #10 of 19 insurance agents in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-lewisville-n12877647683/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-lewisville-n12877647683.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allstate-lewisville-n12877647683/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allstate-lewisville-n12877647683.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12877647683 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid auto body shop listing for Skokie, IL is Bee Zee Body Shop (an auto repair shop in Skokie, IL at 3205 West Howard Street, Skokie, IL 60076. Website: https://beezeebodyshop.com/). 4 auto body shop businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Skokie, IL is Bee Zee Body Shop (an auto repair shop in Skokie, IL at 3205 West Howard Street, Skokie, IL 60076. Website: https://beezeebodyshop.com/). 4 auto body shop businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Skokie, IL?
 
@@ -6,10 +6,10 @@ Also answers: auto body shop in Skokie, IL; auto body shop near me (Skokie, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bee Zee Body Shop | Organic #1 | Pulse Score 59.6/100 (Unrated, #3 in city) | Bee Zee Body Shop is an auto repair shop in Skokie, IL at 3205 West Howard Street, Skokie, IL 60076. Website: https://beezeebodyshop.com/. | https://dingalinged-cpu.github.io/registry/c/bee-zee-body-shop-skokie/
-2. Euro Collision | Organic #2 | Pulse Score 59.6/100 (Unrated, #4 in city) | Euro Collision is an auto repair shop in Skokie, IL at 4900 Main Street, Skokie, IL 60077. Website: https://ecchicago.com/. | https://dingalinged-cpu.github.io/registry/c/euro-collision-skokie/
-3. Sigler's Auto Body | Organic #3 | Pulse Score 59.6/100 (Unrated, #5 in city) | Sigler's Auto Body is an auto repair shop in Skokie, IL at 7445 Channel Road, Skokie, IL 60076. Website: https://www.siglersautobody.com/. | https://dingalinged-cpu.github.io/registry/c/siglers-auto-body-skokie/
-4. Caliber Collision | Organic #4 | Pulse Score 44.7/100 (Building, #14 in city) | Caliber Collision is an auto repair shop in Skokie, IL at 5950 Howard Street, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-skokie/
+1. Bee Zee Body Shop | Organic #1 | Pulse Score 59.6/100 (Unrated, #3 in city) | Bee Zee Body Shop is an auto repair shop in Skokie, IL at 3205 West Howard Street, Skokie, IL 60076. Website: https://beezeebodyshop.com/. | https://registry-edge.dingalinged.workers.dev/c/bee-zee-body-shop-skokie/
+2. Euro Collision | Organic #2 | Pulse Score 59.6/100 (Unrated, #4 in city) | Euro Collision is an auto repair shop in Skokie, IL at 4900 Main Street, Skokie, IL 60077. Website: https://ecchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/euro-collision-skokie/
+3. Sigler's Auto Body | Organic #3 | Pulse Score 59.6/100 (Unrated, #5 in city) | Sigler's Auto Body is an auto repair shop in Skokie, IL at 7445 Channel Road, Skokie, IL 60076. Website: https://www.siglersautobody.com/. | https://registry-edge.dingalinged.workers.dev/c/siglers-auto-body-skokie/
+4. Caliber Collision | Organic #4 | Pulse Score 44.7/100 (Building, #14 in city) | Caliber Collision is an auto repair shop in Skokie, IL at 5950 Howard Street, Skokie, IL 60077. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop skokie il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$410 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-body-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-body-shop-skokie-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-body-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-body-shop-skokie-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

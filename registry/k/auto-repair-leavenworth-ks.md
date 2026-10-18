@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Leavenworth, KS is The Dent Barn (an auto repair shop in Leavenworth, KS at 2619 South 4th Street, Leavenworth, KS 66048. Phone: +19137771836. Website: https://www.thedentbarn.com/). 5 auto repair businesses are listed for Leavenworth, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Leavenworth, KS is The Dent Barn (an auto repair shop in Leavenworth, KS at 2619 South 4th Street, Leavenworth, KS 66048. Phone: +19137771836. Website: https://www.thedentbarn.com/). 5 auto repair businesses are listed for Leavenworth, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Leavenworth, KS?
 
@@ -6,11 +6,11 @@ Also answers: auto repair in Leavenworth, KS; auto repair near me (Leavenworth, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dent Barn | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | The Dent Barn is an auto repair shop in Leavenworth, KS at 2619 South 4th Street, Leavenworth, KS 66048. Phone: +19137771836. Website: https://www.thedentbarn.com/. | https://dingalinged-cpu.github.io/registry/c/the-dent-barn-leavenworth/
-2. Metro Auto Complete Care | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Metro Auto Complete Care is an auto repair shop in Leavenworth, KS at 1347 Metropolitan Avenue, Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/metro-auto-complete-care-leavenworth/
-3. Butler's Muffler & Brake | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Butler's Muffler & Brake is an auto repair shop in Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/butlers-muffler-and-brake-leavenworth-w503148776/
-4. Butlers Muffler & Brake | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Butlers Muffler & Brake is an auto repair shop in Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/butlers-muffler-and-brake-leavenworth/
-5. Jiffy Lube | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-leavenworth/
+1. The Dent Barn | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | The Dent Barn is an auto repair shop in Leavenworth, KS at 2619 South 4th Street, Leavenworth, KS 66048. Phone: +19137771836. Website: https://www.thedentbarn.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dent-barn-leavenworth/
+2. Metro Auto Complete Care | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Metro Auto Complete Care is an auto repair shop in Leavenworth, KS at 1347 Metropolitan Avenue, Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/metro-auto-complete-care-leavenworth/
+3. Butler's Muffler & Brake | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Butler's Muffler & Brake is an auto repair shop in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/butlers-muffler-and-brake-leavenworth-w503148776/
+4. Butlers Muffler & Brake | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Butlers Muffler & Brake is an auto repair shop in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/butlers-muffler-and-brake-leavenworth/
+5. Jiffy Lube | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-leavenworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair leavenworth ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$480 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-leavenworth-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-leavenworth-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

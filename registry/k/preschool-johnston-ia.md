@@ -1,4 +1,4 @@
-The top unpaid preschool listing for Johnston, IA is Traditions Children Center V (a preschool in Johnston, IA. Website: https://www.traditionschildrenscenter.com/). 6 preschool businesses are listed for Johnston, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Johnston, IA is Traditions Children Center V (a preschool in Johnston, IA. Website: https://www.traditionschildrenscenter.com/). 6 preschool businesses are listed for Johnston, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Johnston, IA?
 
@@ -6,12 +6,12 @@ Also answers: preschool in Johnston, IA; preschool near me (Johnston, IA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Traditions Children Center V | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Traditions Children Center V is a preschool in Johnston, IA. Website: https://www.traditionschildrenscenter.com/. | https://dingalinged-cpu.github.io/registry/c/traditions-children-center-v-johnston/
-2. As We Grow | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | As We Grow is a preschool in Johnston, IA. | https://dingalinged-cpu.github.io/registry/c/as-we-grow-johnston/
-3. Generation Next Child Development Center and Preschool | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Generation Next Child Development Center and Preschool is a preschool in Johnston, IA. | https://dingalinged-cpu.github.io/registry/c/generation-next-child-development-center-and-preschool-johnston/
-4. Loving Arms Childrens Center | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Loving Arms Childrens Center is a preschool in Johnston, IA. | https://dingalinged-cpu.github.io/registry/c/loving-arms-childrens-center-johnston/
-5. NorthPoint Kids | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | NorthPoint Kids is a preschool in Johnston, IA. | https://dingalinged-cpu.github.io/registry/c/northpoint-kids-johnston/
-6. KinderCare Learning Center | Organic #6 | Pulse Score 43.1/100 (Building, #6 in city) | KinderCare Learning Center is a preschool in Johnston, IA. | https://dingalinged-cpu.github.io/registry/c/kindercare-learning-center-johnston/
+1. Traditions Children Center V | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Traditions Children Center V is a preschool in Johnston, IA. Website: https://www.traditionschildrenscenter.com/. | https://registry-edge.dingalinged.workers.dev/c/traditions-children-center-v-johnston/
+2. As We Grow | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | As We Grow is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/as-we-grow-johnston/
+3. Generation Next Child Development Center and Preschool | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Generation Next Child Development Center and Preschool is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/generation-next-child-development-center-and-preschool-johnston/
+4. Loving Arms Childrens Center | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Loving Arms Childrens Center is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/loving-arms-childrens-center-johnston/
+5. NorthPoint Kids | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | NorthPoint Kids is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/northpoint-kids-johnston/
+6. KinderCare Learning Center | Organic #6 | Pulse Score 43.1/100 (Building, #6 in city) | KinderCare Learning Center is a preschool in Johnston, IA. | https://registry-edge.dingalinged.workers.dev/c/kindercare-learning-center-johnston/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool johnston ia | category: Education & childcare | industry benchmark: Education & Instruction
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$140 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool-johnston-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/preschool.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#preschool-johnston-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

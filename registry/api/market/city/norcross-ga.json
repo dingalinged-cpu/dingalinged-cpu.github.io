@@ -2,7 +2,7 @@
  "title": "Keyword market data: Norcross, GA",
  "description": "Top Norcross, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Norcross, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 19,
@@ -11,7 +11,7 @@
    {
     "keyword": "gym norcross ga",
     "slug": "gym-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-norcross-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "mechanic norcross ga",
     "slug": "mechanic-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-norcross-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -41,7 +41,7 @@
    {
     "keyword": "auto repair norcross ga",
     "slug": "auto-repair-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-norcross-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -56,7 +56,7 @@
    {
     "keyword": "chiropractor norcross ga",
     "slug": "chiropractor-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-norcross-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -71,7 +71,7 @@
    {
     "keyword": "attorney norcross ga",
     "slug": "attorney-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-norcross-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -86,7 +86,7 @@
    {
     "keyword": "lawyer norcross ga",
     "slug": "lawyer-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-norcross-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -101,7 +101,7 @@
    {
     "keyword": "accountant norcross ga",
     "slug": "accountant-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-norcross-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -116,7 +116,7 @@
    {
     "keyword": "flooring companies norcross ga",
     "slug": "flooring-companies-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-norcross-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -131,7 +131,7 @@
    {
     "keyword": "accounting services norcross ga",
     "slug": "accounting-services-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-norcross-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -148,7 +148,7 @@
    {
     "keyword": "attorney norcross ga",
     "slug": "attorney-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-norcross-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -163,7 +163,7 @@
    {
     "keyword": "lawyer norcross ga",
     "slug": "lawyer-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-norcross-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -178,7 +178,7 @@
    {
     "keyword": "flooring companies norcross ga",
     "slug": "flooring-companies-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-norcross-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -193,7 +193,7 @@
    {
     "keyword": "storage units norcross ga",
     "slug": "storage-units-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-norcross-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -208,7 +208,7 @@
    {
     "keyword": "accounting services norcross ga",
     "slug": "accounting-services-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-norcross-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -223,7 +223,7 @@
    {
     "keyword": "staffing agency norcross ga",
     "slug": "staffing-agency-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-norcross-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -238,7 +238,7 @@
    {
     "keyword": "accountant norcross ga",
     "slug": "accountant-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-norcross-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -253,7 +253,7 @@
    {
     "keyword": "chiropractor norcross ga",
     "slug": "chiropractor-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-norcross-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -268,7 +268,7 @@
    {
     "keyword": "auto repair norcross ga",
     "slug": "auto-repair-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-norcross-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -283,7 +283,7 @@
    {
     "keyword": "mechanic norcross ga",
     "slug": "mechanic-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-norcross-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -298,7 +298,7 @@
    {
     "keyword": "bike shop norcross ga",
     "slug": "bike-shop-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-norcross-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -313,7 +313,7 @@
    {
     "keyword": "furniture store norcross ga",
     "slug": "furniture-store-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-norcross-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -328,7 +328,7 @@
    {
     "keyword": "jewelry store norcross ga",
     "slug": "jewelry-store-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-norcross-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -343,7 +343,7 @@
    {
     "keyword": "mattress store norcross ga",
     "slug": "mattress-store-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store-norcross-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -358,7 +358,7 @@
    {
     "keyword": "pet store norcross ga",
     "slug": "pet-store-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-norcross-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -375,7 +375,7 @@
    {
     "keyword": "gym norcross ga",
     "slug": "gym-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-norcross-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -390,7 +390,7 @@
    {
     "keyword": "mechanic norcross ga",
     "slug": "mechanic-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-norcross-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -405,7 +405,7 @@
    {
     "keyword": "auto repair norcross ga",
     "slug": "auto-repair-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-norcross-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -420,7 +420,7 @@
    {
     "keyword": "chiropractor norcross ga",
     "slug": "chiropractor-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-norcross-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -435,7 +435,7 @@
    {
     "keyword": "attorney norcross ga",
     "slug": "attorney-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-norcross-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -450,7 +450,7 @@
    {
     "keyword": "lawyer norcross ga",
     "slug": "lawyer-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-norcross-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -465,7 +465,7 @@
    {
     "keyword": "accountant norcross ga",
     "slug": "accountant-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-norcross-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -480,7 +480,7 @@
    {
     "keyword": "flooring companies norcross ga",
     "slug": "flooring-companies-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-norcross-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -495,7 +495,7 @@
    {
     "keyword": "accounting services norcross ga",
     "slug": "accounting-services-norcross-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-norcross-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-norcross-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,

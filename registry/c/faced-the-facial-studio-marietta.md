@@ -13,12 +13,12 @@ Faced The Facial Studio is a skin care studio in Marietta, GA at 4475 Roswell Ro
 - Website: https://avenueeastcobb.com/directory/faced-the-facial-studio/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu-Fr 09:00-20:00; Sa-Su 09:00-17:00
-- Pulse Score: 59.4/100 — Fair — top 48% of skin care studios in Atlanta, #5 of 5 skin care studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Fair — top 48% of skin care studios in Atlanta, #5 of 5 skin care studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/faced-the-facial-studio-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/faced-the-facial-studio-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/faced-the-facial-studio-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/faced-the-facial-studio-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12479767038 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

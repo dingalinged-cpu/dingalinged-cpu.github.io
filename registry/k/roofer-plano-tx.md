@@ -1,4 +1,4 @@
-The top unpaid roofer listing for Plano, TX is Regent Restoration (a roofer in Plano, TX at 6275 W Plano Pkwy, Plano, TX 75093. Phone: +12149152482. Website: https://regentrestoration.com/water-damage-restoration-service-plano-tx/). 4 roofer businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Plano, TX is Regent Restoration (a roofer in Plano, TX at 6275 W Plano Pkwy, Plano, TX 75093. Phone: +12149152482. Website: https://regentrestoration.com/water-damage-restoration-service-plano-tx/). 4 roofer businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Plano, TX?
 
@@ -6,10 +6,10 @@ Also answers: roofer in Plano, TX; roofer near me (Plano, TX); best roofer Plano
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Regent Restoration | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Regent Restoration is a roofer in Plano, TX at 6275 W Plano Pkwy, Plano, TX 75093. Phone: +12149152482. Website: https://regentrestoration.com/water-damage-restoration-service-plano-tx/. | https://dingalinged-cpu.github.io/registry/c/regent-restoration-plano/
-2. Triumph Roofing and Construction | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Triumph Roofing and Construction is a roofer in Plano, TX at 820 F Avenue #102, Plano, TX 75074. Phone: +19723321766. Website: https://www.triumphroofing.net/. | https://dingalinged-cpu.github.io/registry/c/triumph-roofing-and-construction-plano/
-3. American Pride Roofing | Organic #3 | Pulse Score 51/100 (Unrated, #3 in city) | American Pride Roofing is a roofer in Plano, TX at 5055 W. Park Blvd. ##400, Plano, TX 75093. Phone: +19726274828. Website: https://americanprideroofing.com/plano-tx-roofing-company/. | https://dingalinged-cpu.github.io/registry/c/american-pride-roofing-plano/
-4. Apple Roofing | Organic #4 | Pulse Score 47.7/100 (Unrated, #4 in city) | Apple Roofing is a roofer in Plano, TX at 3001 East Plano Parkway #100, Plano, TX 75074. Phone: +14699084323. Website: https://appleroof.com/dallas/. | https://dingalinged-cpu.github.io/registry/c/apple-roofing-plano/
+1. Regent Restoration | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Regent Restoration is a roofer in Plano, TX at 6275 W Plano Pkwy, Plano, TX 75093. Phone: +12149152482. Website: https://regentrestoration.com/water-damage-restoration-service-plano-tx/. | https://registry-edge.dingalinged.workers.dev/c/regent-restoration-plano/
+2. Triumph Roofing and Construction | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Triumph Roofing and Construction is a roofer in Plano, TX at 820 F Avenue #102, Plano, TX 75074. Phone: +19723321766. Website: https://www.triumphroofing.net/. | https://registry-edge.dingalinged.workers.dev/c/triumph-roofing-and-construction-plano/
+3. American Pride Roofing | Organic #3 | Pulse Score 51/100 (Unrated, #3 in city) | American Pride Roofing is a roofer in Plano, TX at 5055 W. Park Blvd. ##400, Plano, TX 75093. Phone: +19726274828. Website: https://americanprideroofing.com/plano-tx-roofing-company/. | https://registry-edge.dingalinged.workers.dev/c/american-pride-roofing-plano/
+4. Apple Roofing | Organic #4 | Pulse Score 47.7/100 (Unrated, #4 in city) | Apple Roofing is a roofer in Plano, TX at 3001 East Plano Parkway #100, Plano, TX 75074. Phone: +14699084323. Website: https://appleroof.com/dallas/. | https://registry-edge.dingalinged.workers.dev/c/apple-roofing-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer plano tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$820 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/roofer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#roofer-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/roofer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#roofer-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

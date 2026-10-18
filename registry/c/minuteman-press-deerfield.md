@@ -13,12 +13,12 @@ Minuteman Press is a printing service in Deerfield, IL at 20574 North Milwaukee 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 79% of printing services in Chicago, #2 of 2 printing services in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.4, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 79% of printing services in Chicago, #2 of 2 printing services in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.4, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/minuteman-press-deerfield/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/minuteman-press-deerfield.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/minuteman-press-deerfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/minuteman-press-deerfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11124474564 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

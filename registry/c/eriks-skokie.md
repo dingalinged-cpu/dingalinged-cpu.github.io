@@ -13,12 +13,12 @@ Erik's is a bike shop in Skokie, IL at 3801 Oakton Street, Skokie, IL 60076. Pho
 - Website: https://www.eriksbikeshop.com/store/skokie-il-60076/Skok
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 95% of bike shops in Chicago, #2 of 2 bike shops in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 95% of bike shops in Chicago, #2 of 2 bike shops in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/eriks-skokie/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/eriks-skokie.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/eriks-skokie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/eriks-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1357054847 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

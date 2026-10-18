@@ -1,4 +1,4 @@
-The top unpaid electrician listing for Independence, MO is 3 Phase Electrical Services (an electrician in Independence, MO at 12805 McCoy Street, Independence, MO 64055. Phone: +18167304523. Website: https://3phasekc.com/). 1 electrician businesses are listed for Independence, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid electrician listing for Independence, MO is 3 Phase Electrical Services (an electrician in Independence, MO at 12805 McCoy Street, Independence, MO 64055. Phone: +18167304523. Website: https://3phasekc.com/). 1 electrician businesses are listed for Independence, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best electrician providers in Independence, MO?
 
@@ -6,7 +6,7 @@ Also answers: electrician in Independence, MO; electrician near me (Independence
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 3 Phase Electrical Services | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | 3 Phase Electrical Services is an electrician in Independence, MO at 12805 McCoy Street, Independence, MO 64055. Phone: +18167304523. Website: https://3phasekc.com/. | https://dingalinged-cpu.github.io/registry/c/3-phase-electrical-services-independence/
+1. 3 Phase Electrical Services | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | 3 Phase Electrical Services is an electrician in Independence, MO at 12805 McCoy Street, Independence, MO 64055. Phone: +18167304523. Website: https://3phasekc.com/. | https://registry-edge.dingalinged.workers.dev/c/3-phase-electrical-services-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician independence mo | category: Home services - Electrical | industry benchmark: Home & Home Improvement
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/electrician.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#electrician-independence-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/electrician.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-independence-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

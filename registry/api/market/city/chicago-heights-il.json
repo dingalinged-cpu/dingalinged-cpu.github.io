@@ -2,7 +2,7 @@
  "title": "Keyword market data: Chicago Heights, IL",
  "description": "Top Chicago Heights, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Chicago Heights, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 22,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash chicago heights il",
     "slug": "car-wash-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-chicago-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist chicago heights il",
     "slug": "dentist-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-chicago-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym chicago heights il",
     "slug": "gym-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-chicago-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic chicago heights il",
     "slug": "mechanic-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-heights-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -71,7 +71,7 @@
    {
     "keyword": "auto repair chicago heights il",
     "slug": "auto-repair-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-chicago-heights-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -86,7 +86,7 @@
    {
     "keyword": "insurance agency chicago heights il",
     "slug": "insurance-agency-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-chicago-heights-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -101,7 +101,7 @@
    {
     "keyword": "tax preparation chicago heights il",
     "slug": "tax-preparation-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-chicago-heights-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto body shop chicago heights il",
     "slug": "auto-body-shop-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-chicago-heights-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -131,7 +131,7 @@
    {
     "keyword": "tax preparer chicago heights il",
     "slug": "tax-preparer-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-chicago-heights-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agents chicago heights il",
     "slug": "insurance-agents-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-chicago-heights-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agent chicago heights il",
     "slug": "insurance-agent-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-chicago-heights-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -176,7 +176,7 @@
    {
     "keyword": "transmission repair chicago heights il",
     "slug": "transmission-repair-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/transmission-repair-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/transmission-repair-chicago-heights-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -193,7 +193,7 @@
    {
     "keyword": "storage units chicago heights il",
     "slug": "storage-units-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-chicago-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -208,7 +208,7 @@
    {
     "keyword": "bakery chicago heights il",
     "slug": "bakery-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-chicago-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -223,7 +223,7 @@
    {
     "keyword": "tax preparer chicago heights il",
     "slug": "tax-preparer-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-chicago-heights-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -238,7 +238,7 @@
    {
     "keyword": "preschool chicago heights il",
     "slug": "preschool-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-chicago-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -253,7 +253,7 @@
    {
     "keyword": "therapist chicago heights il",
     "slug": "therapist-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-chicago-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -268,7 +268,7 @@
    {
     "keyword": "dentist chicago heights il",
     "slug": "dentist-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-chicago-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -283,7 +283,7 @@
    {
     "keyword": "auto body shop chicago heights il",
     "slug": "auto-body-shop-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-chicago-heights-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -298,7 +298,7 @@
    {
     "keyword": "auto repair chicago heights il",
     "slug": "auto-repair-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-chicago-heights-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -313,7 +313,7 @@
    {
     "keyword": "car wash chicago heights il",
     "slug": "car-wash-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-chicago-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -328,7 +328,7 @@
    {
     "keyword": "mechanic chicago heights il",
     "slug": "mechanic-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-heights-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -343,7 +343,7 @@
    {
     "keyword": "transmission repair chicago heights il",
     "slug": "transmission-repair-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/transmission-repair-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/transmission-repair-chicago-heights-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -358,7 +358,7 @@
    {
     "keyword": "furniture store chicago heights il",
     "slug": "furniture-store-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-chicago-heights-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -373,7 +373,7 @@
    {
     "keyword": "thrift store chicago heights il",
     "slug": "thrift-store-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-chicago-heights-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -388,7 +388,7 @@
    {
     "keyword": "dry cleaners chicago heights il",
     "slug": "dry-cleaners-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-chicago-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -403,7 +403,7 @@
    {
     "keyword": "insurance agency chicago heights il",
     "slug": "insurance-agency-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-chicago-heights-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -420,7 +420,7 @@
    {
     "keyword": "dentist chicago heights il",
     "slug": "dentist-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-chicago-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -435,7 +435,7 @@
    {
     "keyword": "car wash chicago heights il",
     "slug": "car-wash-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-chicago-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -450,7 +450,7 @@
    {
     "keyword": "gym chicago heights il",
     "slug": "gym-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-chicago-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -465,7 +465,7 @@
    {
     "keyword": "mechanic chicago heights il",
     "slug": "mechanic-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-heights-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -480,7 +480,7 @@
    {
     "keyword": "auto repair chicago heights il",
     "slug": "auto-repair-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-chicago-heights-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -495,7 +495,7 @@
    {
     "keyword": "tax preparer chicago heights il",
     "slug": "tax-preparer-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-chicago-heights-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -510,7 +510,7 @@
    {
     "keyword": "insurance agency chicago heights il",
     "slug": "insurance-agency-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-chicago-heights-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -525,7 +525,7 @@
    {
     "keyword": "auto body shop chicago heights il",
     "slug": "auto-body-shop-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-chicago-heights-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -540,7 +540,7 @@
    {
     "keyword": "tax preparation chicago heights il",
     "slug": "tax-preparation-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-chicago-heights-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -555,7 +555,7 @@
    {
     "keyword": "insurance agents chicago heights il",
     "slug": "insurance-agents-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-chicago-heights-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -570,7 +570,7 @@
    {
     "keyword": "insurance agent chicago heights il",
     "slug": "insurance-agent-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-chicago-heights-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -585,7 +585,7 @@
    {
     "keyword": "transmission repair chicago heights il",
     "slug": "transmission-repair-chicago-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/transmission-repair-chicago-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/transmission-repair-chicago-heights-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,

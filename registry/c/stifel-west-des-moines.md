@@ -13,12 +13,12 @@ Stifel is a financial advisor in West Des Moines, IA at 595 South 60th Street #2
 - Website: https://www.stifel.com/branch/ia/des-moines-ia
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 40% of financial advisors in Des Moines, IA, #3 of 5 financial advisors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 51.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 40% of financial advisors in Des Moines, IA, #3 of 5 financial advisors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/stifel-west-des-moines/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/stifel-west-des-moines.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stifel-west-des-moines/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stifel-west-des-moines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12621779874 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

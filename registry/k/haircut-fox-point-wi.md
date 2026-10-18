@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Fox Point, WI is Valentine’s Salon (a hair salon in Fox Point, WI at 8795 North Port Washington Road, Fox Point, WI 53217). 2 haircut businesses are listed for Fox Point, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Fox Point, WI is Valentine’s Salon (a hair salon in Fox Point, WI at 8795 North Port Washington Road, Fox Point, WI 53217). 2 haircut businesses are listed for Fox Point, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Fox Point, WI?
 
@@ -6,8 +6,8 @@ Also answers: haircut in Fox Point, WI; haircut near me (Fox Point, WI); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valentine’s Salon | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Valentine’s Salon is a hair salon in Fox Point, WI at 8795 North Port Washington Road, Fox Point, WI 53217. | https://dingalinged-cpu.github.io/registry/c/valentine-s-salon-fox-point/
-2. Great Clips | Organic #2 | Pulse Score 48.9/100 (Building, #2 in city) | Great Clips is a hair salon in Fox Point, WI at 8689 North Port Washington Road, Fox Point, WI 53217. Phone: +14142282668. Website: https://www.greatclips.com/salons/1133. | https://dingalinged-cpu.github.io/registry/c/great-clips-fox-point/
+1. Valentine’s Salon | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Valentine’s Salon is a hair salon in Fox Point, WI at 8795 North Port Washington Road, Fox Point, WI 53217. | https://registry-edge.dingalinged.workers.dev/c/valentine-s-salon-fox-point/
+2. Great Clips | Organic #2 | Pulse Score 48.9/100 (Building, #2 in city) | Great Clips is a hair salon in Fox Point, WI at 8689 North Port Washington Road, Fox Point, WI 53217. Phone: +14142282668. Website: https://www.greatclips.com/salons/1133. | https://registry-edge.dingalinged.workers.dev/c/great-clips-fox-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut fox point wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$450 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-fox-point-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-fox-point-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

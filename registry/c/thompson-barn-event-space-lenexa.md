@@ -13,12 +13,12 @@ Thompson Barn Event Space is an event venue in Lenexa, KS at 11184 Lackman Road,
 - Website: https://www.lenexa.com/government/departments___divisions/parks___recreation/facilities/thompson_barn
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 7% of event venues in Kansas City, MO, #1 of 1 event venues in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 7% of event venues in Kansas City, MO, #1 of 1 event venues in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/thompson-barn-event-space-lenexa/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/thompson-barn-event-space-lenexa.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/thompson-barn-event-space-lenexa/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/thompson-barn-event-space-lenexa.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/502927622 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ H&R Block is a tax preparation service in Chaska, MN at 146 Pioneer Trail, Chask
 - Website: https://www.hrblock.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 70% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 70% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/h-and-r-block-chaska/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-and-r-block-chaska.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-chaska/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-and-r-block-chaska.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12880183060 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

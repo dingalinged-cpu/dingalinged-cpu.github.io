@@ -1,4 +1,4 @@
-The top unpaid therapist listing for Coon Rapids, MN is Anoka Psychological Services (a therapy practice in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541531). 1 therapist businesses are listed for Coon Rapids, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Coon Rapids, MN is Anoka Psychological Services (a therapy practice in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541531). 1 therapist businesses are listed for Coon Rapids, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Coon Rapids, MN?
 
@@ -6,7 +6,7 @@ Also answers: therapist in Coon Rapids, MN; therapist near me (Coon Rapids, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anoka Psychological Services | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Anoka Psychological Services is a therapy practice in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541531. | https://dingalinged-cpu.github.io/registry/c/anoka-psychological-services-coon-rapids/
+1. Anoka Psychological Services | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Anoka Psychological Services is a therapy practice in Coon Rapids, MN at 11427 Hanson Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637541531. | https://registry-edge.dingalinged.workers.dev/c/anoka-psychological-services-coon-rapids/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist coon rapids mn | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$770 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/therapist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#therapist-coon-rapids-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/therapist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#therapist-coon-rapids-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

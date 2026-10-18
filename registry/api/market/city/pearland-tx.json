@@ -2,7 +2,7 @@
  "title": "Keyword market data: Pearland, TX",
  "description": "Top Pearland, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Pearland, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 53,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage pearland tx",
     "slug": "massage-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-pearland-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash pearland tx",
     "slug": "car-wash-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-pearland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist pearland tx",
     "slug": "dentist-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-pearland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym pearland tx",
     "slug": "gym-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-pearland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon pearland tx",
     "slug": "hair-salon-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-pearland-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon pearland tx",
     "slug": "nail-salon-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-pearland-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic pearland tx",
     "slug": "mechanic-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pearland-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop pearland tx",
     "slug": "tire-shop-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-pearland-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet pearland tx",
     "slug": "vet-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-pearland-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer pearland tx",
     "slug": "dog-groomer-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-pearland-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut pearland tx",
     "slug": "haircut-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-pearland-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair pearland tx",
     "slug": "auto-repair-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pearland-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor pearland tx",
     "slug": "chiropractor-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-pearland-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -206,7 +206,7 @@
    {
     "keyword": "real estate agent pearland tx",
     "slug": "real-estate-agent-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pearland-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -221,7 +221,7 @@
    {
     "keyword": "car inspection pearland tx",
     "slug": "car-inspection-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-inspection-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-inspection-pearland-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair pearland tx",
     "slug": "hvac-repair-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-pearland-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney pearland tx",
     "slug": "attorney-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-pearland-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer pearland tx",
     "slug": "lawyer-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-pearland-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -283,7 +283,7 @@
    {
     "keyword": "heating and air pearland tx",
     "slug": "heating-and-air-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-pearland-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 83.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "storage units pearland tx",
     "slug": "storage-units-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-pearland-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -313,7 +313,7 @@
    {
     "keyword": "bakery pearland tx",
     "slug": "bakery-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-pearland-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -328,7 +328,7 @@
    {
     "keyword": "martial arts pearland tx",
     "slug": "martial-arts-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-pearland-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6900,
@@ -343,7 +343,7 @@
    {
     "keyword": "tax preparer pearland tx",
     "slug": "tax-preparer-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-pearland-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -358,7 +358,7 @@
    {
     "keyword": "daycare pearland tx",
     "slug": "daycare-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-pearland-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -373,7 +373,7 @@
    {
     "keyword": "music lessons pearland tx",
     "slug": "music-lessons-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/music-lessons-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/music-lessons-pearland-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool pearland tx",
     "slug": "preschool-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-pearland-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -403,7 +403,7 @@
    {
     "keyword": "audiologist pearland tx",
     "slug": "audiologist-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/audiologist-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/audiologist-pearland-tx/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -418,7 +418,7 @@
    {
     "keyword": "chiropractor pearland tx",
     "slug": "chiropractor-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-pearland-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -433,7 +433,7 @@
    {
     "keyword": "eye doctor pearland tx",
     "slug": "eye-doctor-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-pearland-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -448,7 +448,7 @@
    {
     "keyword": "plastic surgeon pearland tx",
     "slug": "plastic-surgeon-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-pearland-tx/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage pearland tx",
     "slug": "massage-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-pearland-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist pearland tx",
     "slug": "dentist-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-pearland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash pearland tx",
     "slug": "car-wash-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-pearland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym pearland tx",
     "slug": "gym-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-pearland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic pearland tx",
     "slug": "mechanic-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pearland-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop pearland tx",
     "slug": "tire-shop-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-pearland-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet pearland tx",
     "slug": "vet-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-pearland-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog groomer pearland tx",
     "slug": "dog-groomer-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-pearland-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut pearland tx",
     "slug": "haircut-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-pearland-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair pearland tx",
     "slug": "auto-repair-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pearland-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -615,7 +615,7 @@
    {
     "keyword": "hvac repair pearland tx",
     "slug": "hvac-repair-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-pearland-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor pearland tx",
     "slug": "chiropractor-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-pearland-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -645,7 +645,7 @@
    {
     "keyword": "hair salon pearland tx",
     "slug": "hair-salon-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-pearland-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -660,7 +660,7 @@
    {
     "keyword": "attorney pearland tx",
     "slug": "attorney-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-pearland-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -675,7 +675,7 @@
    {
     "keyword": "real estate agent pearland tx",
     "slug": "real-estate-agent-pearland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-pearland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pearland-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Brookfield, WI",
  "description": "Top Brookfield, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Brookfield, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 51,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage brookfield wi",
     "slug": "massage-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-brookfield-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash brookfield wi",
     "slug": "car-wash-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-brookfield-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist brookfield wi",
     "slug": "dentist-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-brookfield-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym brookfield wi",
     "slug": "gym-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-brookfield-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon brookfield wi",
     "slug": "hair-salon-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-brookfield-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon brookfield wi",
     "slug": "nail-salon-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-brookfield-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -101,7 +101,7 @@
    {
     "keyword": "barber shop brookfield wi",
     "slug": "barber-shop-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-brookfield-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic brookfield wi",
     "slug": "mechanic-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-brookfield-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop brookfield wi",
     "slug": "tire-shop-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-brookfield-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet brookfield wi",
     "slug": "vet-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-brookfield-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog groomer brookfield wi",
     "slug": "dog-groomer-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-brookfield-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut brookfield wi",
     "slug": "haircut-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-brookfield-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair brookfield wi",
     "slug": "auto-repair-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-brookfield-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -206,7 +206,7 @@
    {
     "keyword": "chiropractor brookfield wi",
     "slug": "chiropractor-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-brookfield-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -221,7 +221,7 @@
    {
     "keyword": "financial advisor brookfield wi",
     "slug": "financial-advisor-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-brookfield-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair brookfield wi",
     "slug": "hvac-repair-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-brookfield-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney brookfield wi",
     "slug": "attorney-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-brookfield-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer brookfield wi",
     "slug": "lawyer-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-brookfield-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -283,7 +283,7 @@
    {
     "keyword": "window replacement brookfield wi",
     "slug": "window-replacement-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-replacement-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-brookfield-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -298,7 +298,7 @@
    {
     "keyword": "architect brookfield wi",
     "slug": "architect-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-brookfield-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 180,
@@ -313,7 +313,7 @@
    {
     "keyword": "flooring companies brookfield wi",
     "slug": "flooring-companies-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-brookfield-wi/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 83.0,
@@ -328,7 +328,7 @@
    {
     "keyword": "heating and air brookfield wi",
     "slug": "heating-and-air-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-brookfield-wi/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 17.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "bakery brookfield wi",
     "slug": "bakery-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-brookfield-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -358,7 +358,7 @@
    {
     "keyword": "caterers brookfield wi",
     "slug": "caterers-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/caterers-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-brookfield-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -373,7 +373,7 @@
    {
     "keyword": "martial arts brookfield wi",
     "slug": "martial-arts-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-brookfield-wi/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1400,
@@ -388,7 +388,7 @@
    {
     "keyword": "tax preparer brookfield wi",
     "slug": "tax-preparer-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-brookfield-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -403,7 +403,7 @@
    {
     "keyword": "preschool brookfield wi",
     "slug": "preschool-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-brookfield-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -418,7 +418,7 @@
    {
     "keyword": "acupuncture brookfield wi",
     "slug": "acupuncture-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/acupuncture-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/acupuncture-brookfield-wi/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 150,
@@ -433,7 +433,7 @@
    {
     "keyword": "assisted living brookfield wi",
     "slug": "assisted-living-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-brookfield-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -448,7 +448,7 @@
    {
     "keyword": "chiropractor brookfield wi",
     "slug": "chiropractor-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-brookfield-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage brookfield wi",
     "slug": "massage-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-brookfield-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist brookfield wi",
     "slug": "dentist-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-brookfield-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash brookfield wi",
     "slug": "car-wash-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-brookfield-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym brookfield wi",
     "slug": "gym-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-brookfield-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic brookfield wi",
     "slug": "mechanic-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-brookfield-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop brookfield wi",
     "slug": "tire-shop-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-brookfield-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet brookfield wi",
     "slug": "vet-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-brookfield-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog groomer brookfield wi",
     "slug": "dog-groomer-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-brookfield-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut brookfield wi",
     "slug": "haircut-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-brookfield-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair brookfield wi",
     "slug": "auto-repair-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-brookfield-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -615,7 +615,7 @@
    {
     "keyword": "hvac repair brookfield wi",
     "slug": "hvac-repair-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-brookfield-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor brookfield wi",
     "slug": "chiropractor-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-brookfield-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -645,7 +645,7 @@
    {
     "keyword": "hair salon brookfield wi",
     "slug": "hair-salon-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-brookfield-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -660,7 +660,7 @@
    {
     "keyword": "financial advisor brookfield wi",
     "slug": "financial-advisor-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-brookfield-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -675,7 +675,7 @@
    {
     "keyword": "attorney brookfield wi",
     "slug": "attorney-brookfield-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-brookfield-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-brookfield-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,

@@ -13,12 +13,12 @@ Mattress Firm is a mattress store in Allen, TX at 824 West Stacey Road #400, All
 - Website: https://www.mattressfirm.com/en-us/stores/tx/allen/002072/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.3/100 — Fair — top 18% of mattress stores in Dallas–Fort Worth, #1 of 2 mattress stores in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 18% of mattress stores in Dallas–Fort Worth, #1 of 2 mattress stores in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 63.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mattress-firm-allen/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mattress-firm-allen.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mattress-firm-allen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mattress-firm-allen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9210984895 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid yoga classes listing for Glenview, IL is The Hot Room North Shore (a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/). 4 yoga classes businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Glenview, IL is The Hot Room North Shore (a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/). 4 yoga classes businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Glenview, IL?
 
@@ -6,10 +6,10 @@ Also answers: yoga classes in Glenview, IL; yoga classes near me (Glenview, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Hot Room North Shore | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | The Hot Room North Shore is a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/. | https://dingalinged-cpu.github.io/registry/c/the-hot-room-north-shore-glenview/
-2. Elite Center | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Elite Center is a yoga studio in Glenview, IL at 1841 Waukegan Road, Glenview, IL 60025. Website: https://elitecenter.net/. | https://dingalinged-cpu.github.io/registry/c/elite-center-glenview/
-3. Evolution Yoga | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Evolution Yoga is a yoga studio in Glenview, IL. Website: https://www.evolutionyogaglenview.com/. | https://dingalinged-cpu.github.io/registry/c/evolution-yoga-glenview/
-4. CorePower Yoga | Organic #4 | Pulse Score 45.6/100 (Building, #4 in city) | CorePower Yoga is a yoga studio in Glenview, IL at 1819 Glenview Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-glenview/
+1. The Hot Room North Shore | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | The Hot Room North Shore is a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/. | https://registry-edge.dingalinged.workers.dev/c/the-hot-room-north-shore-glenview/
+2. Elite Center | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Elite Center is a yoga studio in Glenview, IL at 1841 Waukegan Road, Glenview, IL 60025. Website: https://elitecenter.net/. | https://registry-edge.dingalinged.workers.dev/c/elite-center-glenview/
+3. Evolution Yoga | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Evolution Yoga is a yoga studio in Glenview, IL. Website: https://www.evolutionyogaglenview.com/. | https://registry-edge.dingalinged.workers.dev/c/evolution-yoga-glenview/
+4. CorePower Yoga | Organic #4 | Pulse Score 45.6/100 (Building, #4 in city) | CorePower Yoga is a yoga studio in Glenview, IL at 1819 Glenview Road, Glenview, IL 60025. | https://registry-edge.dingalinged.workers.dev/c/corepower-yoga-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes glenview il | category: Fitness | industry benchmark: Health & Fitness
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$260 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/yoga-classes.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#yoga-classes-glenview-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/yoga-classes.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#yoga-classes-glenview-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

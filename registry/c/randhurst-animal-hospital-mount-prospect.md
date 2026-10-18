@@ -13,12 +13,12 @@ Randhurst Animal Hospital is a veterinarian in Mount Prospect, IL at 212 East Ra
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 64% of veterinarians in Chicago, #1 of 1 veterinarians in Mount Prospect (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 64% of veterinarians in Chicago, #1 of 1 veterinarians in Mount Prospect (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/randhurst-animal-hospital-mount-prospect/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/randhurst-animal-hospital-mount-prospect.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/randhurst-animal-hospital-mount-prospect/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/randhurst-animal-hospital-mount-prospect.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1221221067 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

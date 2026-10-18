@@ -13,12 +13,12 @@ Sarah Lynn Photography is a photographer in Arlington, TX at 4609 Woodstone Ct, 
 - Website: https://www.shootwithsarah.com/
 - Email: shootwithsarah@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 14% of photographers in Dallas–Fort Worth, #1 of 1 photographers in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 14% of photographers in Dallas–Fort Worth, #1 of 1 photographers in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sarah-lynn-photography-arlington/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sarah-lynn-photography-arlington.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sarah-lynn-photography-arlington/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sarah-lynn-photography-arlington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12110208445 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Gerber Collision & Glass is an auto repair shop in Buffalo Grove, IL at 20445 No
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 68% of auto repair shops in Chicago, #3 of 3 auto repair shops in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 68% of auto repair shops in Chicago, #3 of 3 auto repair shops in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-buffalo-grove/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gerber-collision-and-glass-buffalo-grove.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gerber-collision-and-glass-buffalo-grove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gerber-collision-and-glass-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/332359617 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

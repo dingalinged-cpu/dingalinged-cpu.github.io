@@ -13,12 +13,12 @@ Duren Law Offices, LLC is a lawyer in Waunakee, WI at 101 East Main Street #4, W
 - Website: https://durenlawoffice.com/
 - Email: chris@durenlawoffice.com
 - Opening hours (OSM syntax): Su, Su off; Mo-Fr 08:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Madison, #1 of 2 lawyers in Waunakee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Madison, #1 of 2 lawyers in Waunakee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/duren-law-offices-llc-waunakee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/duren-law-offices-llc-waunakee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/duren-law-offices-llc-waunakee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/duren-law-offices-llc-waunakee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3952986948 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

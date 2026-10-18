@@ -13,12 +13,12 @@ Goodwill is a thrift store in Westchester, IL at 3054 Wolf Road, Westchester, IL
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 80% of thrift stores in Chicago, #1 of 1 thrift stores in Westchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 80% of thrift stores in Chicago, #1 of 1 thrift stores in Westchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-westchester/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-westchester.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-westchester/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-westchester.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5369425084 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Eden Prairie, MN",
  "description": "Top Eden Prairie, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Eden Prairie, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 49,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage eden prairie mn",
     "slug": "massage-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-eden-prairie-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash eden prairie mn",
     "slug": "car-wash-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-eden-prairie-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist eden prairie mn",
     "slug": "dentist-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-eden-prairie-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym eden prairie mn",
     "slug": "gym-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-eden-prairie-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon eden prairie mn",
     "slug": "hair-salon-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-eden-prairie-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon eden prairie mn",
     "slug": "nail-salon-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-eden-prairie-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -101,7 +101,7 @@
    {
     "keyword": "barber shop eden prairie mn",
     "slug": "barber-shop-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-eden-prairie-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic eden prairie mn",
     "slug": "mechanic-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-eden-prairie-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop eden prairie mn",
     "slug": "tire-shop-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-eden-prairie-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet eden prairie mn",
     "slug": "vet-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-eden-prairie-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut eden prairie mn",
     "slug": "haircut-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-eden-prairie-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair eden prairie mn",
     "slug": "auto-repair-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-eden-prairie-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor eden prairie mn",
     "slug": "chiropractor-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-eden-prairie-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -206,7 +206,7 @@
    {
     "keyword": "electrician eden prairie mn",
     "slug": "electrician-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-eden-prairie-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -221,7 +221,7 @@
    {
     "keyword": "financial advisor eden prairie mn",
     "slug": "financial-advisor-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-eden-prairie-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -238,7 +238,7 @@
    {
     "keyword": "electrician eden prairie mn",
     "slug": "electrician-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-eden-prairie-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -253,7 +253,7 @@
    {
     "keyword": "landscaping eden prairie mn",
     "slug": "landscaping-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-eden-prairie-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -268,7 +268,7 @@
    {
     "keyword": "bakery eden prairie mn",
     "slug": "bakery-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-eden-prairie-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -283,7 +283,7 @@
    {
     "keyword": "florist eden prairie mn",
     "slug": "florist-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-eden-prairie-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -298,7 +298,7 @@
    {
     "keyword": "martial arts eden prairie mn",
     "slug": "martial-arts-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-eden-prairie-mn/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3300,
@@ -313,7 +313,7 @@
    {
     "keyword": "daycare eden prairie mn",
     "slug": "daycare-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-eden-prairie-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -328,7 +328,7 @@
    {
     "keyword": "preschool eden prairie mn",
     "slug": "preschool-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-eden-prairie-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -343,7 +343,7 @@
    {
     "keyword": "chiropractor eden prairie mn",
     "slug": "chiropractor-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-eden-prairie-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -358,7 +358,7 @@
    {
     "keyword": "eye doctor eden prairie mn",
     "slug": "eye-doctor-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-eden-prairie-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -373,7 +373,7 @@
    {
     "keyword": "family doctor eden prairie mn",
     "slug": "family-doctor-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-eden-prairie-mn/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -388,7 +388,7 @@
    {
     "keyword": "primary care physician eden prairie mn",
     "slug": "primary-care-physician-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-eden-prairie-mn/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -403,7 +403,7 @@
    {
     "keyword": "therapist eden prairie mn",
     "slug": "therapist-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-eden-prairie-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -418,7 +418,7 @@
    {
     "keyword": "dentist eden prairie mn",
     "slug": "dentist-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-eden-prairie-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -433,7 +433,7 @@
    {
     "keyword": "facial eden prairie mn",
     "slug": "facial-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-eden-prairie-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -448,7 +448,7 @@
    {
     "keyword": "haircut eden prairie mn",
     "slug": "haircut-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-eden-prairie-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage eden prairie mn",
     "slug": "massage-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-eden-prairie-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist eden prairie mn",
     "slug": "dentist-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-eden-prairie-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash eden prairie mn",
     "slug": "car-wash-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-eden-prairie-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -510,7 +510,7 @@
    {
     "keyword": "electrician eden prairie mn",
     "slug": "electrician-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-eden-prairie-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym eden prairie mn",
     "slug": "gym-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-eden-prairie-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic eden prairie mn",
     "slug": "mechanic-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-eden-prairie-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop eden prairie mn",
     "slug": "tire-shop-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-eden-prairie-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet eden prairie mn",
     "slug": "vet-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-eden-prairie-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut eden prairie mn",
     "slug": "haircut-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-eden-prairie-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -600,7 +600,7 @@
    {
     "keyword": "landscaping eden prairie mn",
     "slug": "landscaping-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-eden-prairie-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair eden prairie mn",
     "slug": "auto-repair-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-eden-prairie-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor eden prairie mn",
     "slug": "chiropractor-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-eden-prairie-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -645,7 +645,7 @@
    {
     "keyword": "hair salon eden prairie mn",
     "slug": "hair-salon-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-eden-prairie-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -660,7 +660,7 @@
    {
     "keyword": "financial advisor eden prairie mn",
     "slug": "financial-advisor-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-eden-prairie-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -675,7 +675,7 @@
    {
     "keyword": "nail salon eden prairie mn",
     "slug": "nail-salon-eden-prairie-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-eden-prairie-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-eden-prairie-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,

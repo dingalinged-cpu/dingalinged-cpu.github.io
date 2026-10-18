@@ -2,7 +2,7 @@
  "title": "Keyword market data: Plattsmouth, NE",
  "description": "Top Plattsmouth, NE service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Plattsmouth, NE",
  "geography": "Omaha, NE-IA metro",
  "keywords": 7,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash plattsmouth ne",
     "slug": "car-wash-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-plattsmouth-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist plattsmouth ne",
     "slug": "dentist-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-plattsmouth-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym plattsmouth ne",
     "slug": "gym-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-plattsmouth-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon plattsmouth ne",
     "slug": "hair-salon-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-plattsmouth-ne/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut plattsmouth ne",
     "slug": "haircut-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-plattsmouth-ne/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -86,7 +86,7 @@
    {
     "keyword": "chiropractor plattsmouth ne",
     "slug": "chiropractor-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-plattsmouth-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -103,7 +103,7 @@
    {
     "keyword": "chiropractor plattsmouth ne",
     "slug": "chiropractor-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-plattsmouth-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -118,7 +118,7 @@
    {
     "keyword": "dentist plattsmouth ne",
     "slug": "dentist-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-plattsmouth-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -133,7 +133,7 @@
    {
     "keyword": "haircut plattsmouth ne",
     "slug": "haircut-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-plattsmouth-ne/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -148,7 +148,7 @@
    {
     "keyword": "car wash plattsmouth ne",
     "slug": "car-wash-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-plattsmouth-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -163,7 +163,7 @@
    {
     "keyword": "used cars for sale plattsmouth ne",
     "slug": "used-cars-for-sale-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-plattsmouth-ne/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 410,
@@ -178,7 +178,7 @@
    {
     "keyword": "gym plattsmouth ne",
     "slug": "gym-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-plattsmouth-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -193,7 +193,7 @@
    {
     "keyword": "hair salon plattsmouth ne",
     "slug": "hair-salon-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-plattsmouth-ne/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -210,7 +210,7 @@
    {
     "keyword": "dentist plattsmouth ne",
     "slug": "dentist-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-plattsmouth-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -225,7 +225,7 @@
    {
     "keyword": "car wash plattsmouth ne",
     "slug": "car-wash-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-plattsmouth-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -240,7 +240,7 @@
    {
     "keyword": "gym plattsmouth ne",
     "slug": "gym-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-plattsmouth-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -255,7 +255,7 @@
    {
     "keyword": "haircut plattsmouth ne",
     "slug": "haircut-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-plattsmouth-ne/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -270,7 +270,7 @@
    {
     "keyword": "chiropractor plattsmouth ne",
     "slug": "chiropractor-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-plattsmouth-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -285,7 +285,7 @@
    {
     "keyword": "hair salon plattsmouth ne",
     "slug": "hair-salon-plattsmouth-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-plattsmouth-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-plattsmouth-ne/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,

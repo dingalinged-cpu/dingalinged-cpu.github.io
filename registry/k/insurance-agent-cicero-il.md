@@ -1,4 +1,4 @@
-The top unpaid insurance agent listing for Cicero, IL is Insurance Navy Brokers (an insurance agent in Cicero, IL at 5114 West Cermak Road, Cicero, IL 60804. Phone: +17084007122. Website: https://www.insurancenavy.com/locations/il/cicero/). 4 insurance agent businesses are listed for Cicero, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Cicero, IL is Insurance Navy Brokers (an insurance agent in Cicero, IL at 5114 West Cermak Road, Cicero, IL 60804. Phone: +17084007122. Website: https://www.insurancenavy.com/locations/il/cicero/). 4 insurance agent businesses are listed for Cicero, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Cicero, IL?
 
@@ -6,10 +6,10 @@ Also answers: insurance agent in Cicero, IL; insurance agent near me (Cicero, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Insurance Navy Brokers | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Insurance Navy Brokers is an insurance agent in Cicero, IL at 5114 West Cermak Road, Cicero, IL 60804. Phone: +17084007122. Website: https://www.insurancenavy.com/locations/il/cicero/. | https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-cicero/
-2. Insurance Navy Brokers | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Insurance Navy Brokers is an insurance agent in Cicero, IL at 5701 West Cermak Road, Cicero, IL 60804. Phone: +17088631235. Website: https://www.insurancenavy.com/locations/il/cicero-3/. | https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-cicero-n12316325158/
-3. Insurance Navy Brokers | Organic #3 | Pulse Score 48.6/100 (Building, #3 in city) | Insurance Navy Brokers is an insurance agent in Cicero, IL at 2201 South Cicero Avenue #B, Cicero, IL 60804. Phone: +17088639000. Website: https://www.insurancenavy.com/locations/il/cicero-2/. | https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-cicero-n8595647057/
-4. GEICO | Organic #4 | Pulse Score 43.7/100 (Building, #4 in city) | GEICO is an insurance agent in Cicero, IL at 4769 West Cermak Road, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/geico-cicero/
+1. Insurance Navy Brokers | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Insurance Navy Brokers is an insurance agent in Cicero, IL at 5114 West Cermak Road, Cicero, IL 60804. Phone: +17084007122. Website: https://www.insurancenavy.com/locations/il/cicero/. | https://registry-edge.dingalinged.workers.dev/c/insurance-navy-brokers-cicero/
+2. Insurance Navy Brokers | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Insurance Navy Brokers is an insurance agent in Cicero, IL at 5701 West Cermak Road, Cicero, IL 60804. Phone: +17088631235. Website: https://www.insurancenavy.com/locations/il/cicero-3/. | https://registry-edge.dingalinged.workers.dev/c/insurance-navy-brokers-cicero-n12316325158/
+3. Insurance Navy Brokers | Organic #3 | Pulse Score 48.6/100 (Building, #3 in city) | Insurance Navy Brokers is an insurance agent in Cicero, IL at 2201 South Cicero Avenue #B, Cicero, IL 60804. Phone: +17088639000. Website: https://www.insurancenavy.com/locations/il/cicero-2/. | https://registry-edge.dingalinged.workers.dev/c/insurance-navy-brokers-cicero-n8595647057/
+4. GEICO | Organic #4 | Pulse Score 43.7/100 (Building, #4 in city) | GEICO is an insurance agent in Cicero, IL at 4769 West Cermak Road, Cicero, IL 60804. | https://registry-edge.dingalinged.workers.dev/c/geico-cicero/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent cicero il | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$310 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agent.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agent-cicero-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agent-cicero-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

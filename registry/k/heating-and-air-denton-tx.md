@@ -1,4 +1,4 @@
-The top unpaid heating and air listing for Denton, TX is BCI Plumbing, Heating and Air (a HVAC contractor in Denton, TX at 400 East Oak Street, Denton, TX 76201. Phone: +19403531556. Website: https://www.bcimechanical.com/). 2 heating and air businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Denton, TX is BCI Plumbing, Heating and Air (a HVAC contractor in Denton, TX at 400 East Oak Street, Denton, TX 76201. Phone: +19403531556. Website: https://www.bcimechanical.com/). 2 heating and air businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Denton, TX?
 
@@ -6,8 +6,8 @@ Also answers: heating and air in Denton, TX; heating and air near me (Denton, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BCI Plumbing, Heating and Air | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | BCI Plumbing, Heating and Air is a HVAC contractor in Denton, TX at 400 East Oak Street, Denton, TX 76201. Phone: +19403531556. Website: https://www.bcimechanical.com/. | https://dingalinged-cpu.github.io/registry/c/bci-plumbing-heating-and-air-denton/
-2. PRK Services, Inc. | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | PRK Services, Inc. is a HVAC contractor in Denton, TX at 904 South Woodrow Lane, Denton, TX 76205. Phone: +19403828554. Website: https://www.fixac.com/. | https://dingalinged-cpu.github.io/registry/c/prk-services-inc-denton/
+1. BCI Plumbing, Heating and Air | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | BCI Plumbing, Heating and Air is a HVAC contractor in Denton, TX at 400 East Oak Street, Denton, TX 76201. Phone: +19403531556. Website: https://www.bcimechanical.com/. | https://registry-edge.dingalinged.workers.dev/c/bci-plumbing-heating-and-air-denton/
+2. PRK Services, Inc. | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | PRK Services, Inc. is a HVAC contractor in Denton, TX at 904 South Woodrow Lane, Denton, TX 76205. Phone: +19403828554. Website: https://www.fixac.com/. | https://registry-edge.dingalinged.workers.dev/c/prk-services-inc-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air denton tx | category: Home Services | industry benchmark: Home & Home Improvement
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$47.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/heating-and-air.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#heating-and-air-denton-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/heating-and-air.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#heating-and-air-denton-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

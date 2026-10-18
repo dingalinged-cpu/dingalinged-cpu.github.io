@@ -13,12 +13,12 @@ Edmar Corporation is a concrete contractor in Chicago, IL at 4411 West Montrose 
 - Website: https://masonrytuckpointing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-21:00; Sa-Su 09:00-21:00
-- Pulse Score: 62.1/100 — Good — top 25% of concrete contractors in Chicago, #2 of 4 concrete contractors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 25% of concrete contractors in Chicago, #2 of 4 concrete contractors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/edmar-corporation-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/edmar-corporation-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edmar-corporation-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edmar-corporation-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12171291324 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

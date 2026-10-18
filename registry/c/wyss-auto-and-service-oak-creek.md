@@ -13,12 +13,12 @@ Wyss Auto and Service is an used car dealer in Oak Creek, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 69% of used car dealers in Milwaukee, #1 of 2 used car dealers in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 37.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 69% of used car dealers in Milwaukee, #1 of 2 used car dealers in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 37.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/wyss-auto-and-service-oak-creek/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wyss-auto-and-service-oak-creek.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wyss-auto-and-service-oak-creek/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wyss-auto-and-service-oak-creek.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7071435989 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

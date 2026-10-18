@@ -13,12 +13,12 @@ College Muscle Movers is a moving company in Saint Paul, MN at 720 North Prior A
 - Website: https://collegemusclemovers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 09:00-13:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 25% of moving companys in Minneapolis–St. Paul, #1 of 1 moving companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 25% of moving companys in Minneapolis–St. Paul, #1 of 1 moving companys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/college-muscle-movers-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/college-muscle-movers-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/college-muscle-movers-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/college-muscle-movers-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7196011280 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

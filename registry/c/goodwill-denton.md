@@ -13,12 +13,12 @@ Goodwill is a thrift store in Denton, TX at 2231 South Loop 288 #Suite# 130, Den
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Building — top 88% of thrift stores in Dallas–Fort Worth, #9 of 9 thrift stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 88% of thrift stores in Dallas–Fort Worth, #9 of 9 thrift stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 45.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-denton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-denton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-denton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-denton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9968724594 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

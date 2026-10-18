@@ -1,4 +1,4 @@
-The top unpaid used cars for sale listing for Oak Creek, WI is Wyss Auto and Service (an used car dealer in Oak Creek, WI). 2 used cars for sale businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Oak Creek, WI is Wyss Auto and Service (an used car dealer in Oak Creek, WI). 2 used cars for sale businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Oak Creek, WI?
 
@@ -6,8 +6,8 @@ Also answers: used cars for sale in Oak Creek, WI; used cars for sale near me (O
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wyss Auto and Service | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Wyss Auto and Service is an used car dealer in Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/wyss-auto-and-service-oak-creek/
-2. Kunes Buick GMC of Oak Creek | Organic #2 | Pulse Score 46.4/100 (Unrated, #2 in city) | Kunes Buick GMC of Oak Creek is an used car dealer in Oak Creek, WI at 7020 South 27th Street, Oak Creek, WI 53154. Website: https://kunesbuickgmc.com/kunes-buick-gmc-of-oak-creek. | https://dingalinged-cpu.github.io/registry/c/kunes-buick-gmc-of-oak-creek-oak-creek/
+1. Wyss Auto and Service | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Wyss Auto and Service is an used car dealer in Oak Creek, WI. | https://registry-edge.dingalinged.workers.dev/c/wyss-auto-and-service-oak-creek/
+2. Kunes Buick GMC of Oak Creek | Organic #2 | Pulse Score 46.4/100 (Unrated, #2 in city) | Kunes Buick GMC of Oak Creek is an used car dealer in Oak Creek, WI at 7020 South 27th Street, Oak Creek, WI 53154. Website: https://kunesbuickgmc.com/kunes-buick-gmc-of-oak-creek. | https://registry-edge.dingalinged.workers.dev/c/kunes-buick-gmc-of-oak-creek-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale oak creek wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$240 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/used-cars-for-sale.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#used-cars-for-sale-oak-creek-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/used-cars-for-sale.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#used-cars-for-sale-oak-creek-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Jaidee Thai Massage is a massage studio in Spring, TX at 5200 FM 2920 #170, Spri
 - Website: https://jaideethaimassagesspringtx.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 13% of massage studios in Houston, #4 of 8 massage studios in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 13% of massage studios in Houston, #4 of 8 massage studios in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/jaidee-thai-massage-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jaidee-thai-massage-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jaidee-thai-massage-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jaidee-thai-massage-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13077445164 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

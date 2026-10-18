@@ -13,12 +13,12 @@ Spring Klein Dentistry is a dentist in Spring, TX at 6710 Spring Stuebner Road #
 - Website: https://www.springkleindentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of dentists in Houston, #12 of 16 dentists in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of dentists in Houston, #12 of 16 dentists in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/spring-klein-dentistry-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/spring-klein-dentistry-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/spring-klein-dentistry-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spring-klein-dentistry-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9995717163 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

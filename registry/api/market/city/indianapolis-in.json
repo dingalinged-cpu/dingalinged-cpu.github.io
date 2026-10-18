@@ -2,7 +2,7 @@
  "title": "Keyword market data: Indianapolis, IN",
  "description": "Top Indianapolis, IN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Indianapolis, IN",
  "geography": "Indianapolis-Carmel-Greenwood, IN metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage indianapolis in",
     "slug": "massage-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-indianapolis-in",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 32000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care indianapolis in",
     "slug": "urgent-care-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-indianapolis-in",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist indianapolis in",
     "slug": "dentist-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-indianapolis-in",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym indianapolis in",
     "slug": "gym-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-indianapolis-in",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash indianapolis in",
     "slug": "car-wash-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-indianapolis-in",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change indianapolis in",
     "slug": "oil-change-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-indianapolis-in",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon indianapolis in",
     "slug": "hair-salon-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-indianapolis-in",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9700,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon indianapolis in",
     "slug": "nail-salon-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-indianapolis-in",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6500,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes indianapolis in",
     "slug": "car-insurance-quotes-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-indianapolis-in",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber indianapolis in",
     "slug": "plumber-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-indianapolis-in",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments indianapolis in",
     "slug": "apartments-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-indianapolis-in",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance indianapolis in",
     "slug": "auto-insurance-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-indianapolis-in",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop indianapolis in",
     "slug": "barber-shop-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-indianapolis-in",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage indianapolis in",
     "slug": "lymphatic-drainage-massage-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-indianapolis-in",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic indianapolis in",
     "slug": "mechanic-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-indianapolis-in",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer indianapolis in",
     "slug": "personal-injury-lawyer-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-indianapolis-in",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber indianapolis in",
     "slug": "emergency-plumber-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-indianapolis-in",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 480,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair indianapolis in",
     "slug": "hvac-repair-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-indianapolis-in",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 480,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair indianapolis in",
     "slug": "ac-repair-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-indianapolis-in",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement indianapolis in",
     "slug": "roof-replacement-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-indianapolis-in",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 210,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair indianapolis in",
     "slug": "roof-repair-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-indianapolis-in",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 480,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast indianapolis in",
     "slug": "sell-my-house-fast-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-indianapolis-in",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 64.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services indianapolis in",
     "slug": "plumbing-services-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-indianapolis-in",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 320,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining indianapolis in",
     "slug": "deck-staining-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-indianapolis-in",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters indianapolis in",
     "slug": "exterior-house-painters-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-indianapolis-in",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 78.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters indianapolis in",
     "slug": "interior-painters-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-indianapolis-in",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 78.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters indianapolis in",
     "slug": "painters-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-indianapolis-in",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 390,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company indianapolis in",
     "slug": "moving-company-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-indianapolis-in",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney indianapolis in",
     "slug": "criminal-defense-attorney-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-indianapolis-in",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 580,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer indianapolis in",
     "slug": "dui-defense-lawyer-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-indianapolis-in",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 23.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage indianapolis in",
     "slug": "massage-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-indianapolis-in",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 32000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care indianapolis in",
     "slug": "urgent-care-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-indianapolis-in",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer indianapolis in",
     "slug": "personal-injury-lawyer-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-indianapolis-in",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber indianapolis in",
     "slug": "plumber-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-indianapolis-in",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist indianapolis in",
     "slug": "dentist-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-indianapolis-in",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash indianapolis in",
     "slug": "car-wash-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-indianapolis-in",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change indianapolis in",
     "slug": "oil-change-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-indianapolis-in",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair indianapolis in",
     "slug": "ac-repair-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-indianapolis-in",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer indianapolis in",
     "slug": "car-accident-lawyer-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-indianapolis-in",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym indianapolis in",
     "slug": "gym-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-indianapolis-in",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage indianapolis in",
     "slug": "lymphatic-drainage-massage-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-indianapolis-in",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician indianapolis in",
     "slug": "electrician-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-indianapolis-in",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic indianapolis in",
     "slug": "mechanic-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-indianapolis-in",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes indianapolis in",
     "slug": "car-insurance-quotes-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-indianapolis-in",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement indianapolis in",
     "slug": "water-heater-replacement-indianapolis-in",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-indianapolis-in",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-indianapolis-in",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,

@@ -1,4 +1,4 @@
-The top unpaid funeral home listing for Blue Springs, MO is Meyers Funeral Chapel (a funeral home in Blue Springs, MO at 1600 West Main Street, Blue Springs, MO 64015. Website: https://meyersfuneralchapel.com/). 1 funeral home businesses are listed for Blue Springs, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Blue Springs, MO is Meyers Funeral Chapel (a funeral home in Blue Springs, MO at 1600 West Main Street, Blue Springs, MO 64015. Website: https://meyersfuneralchapel.com/). 1 funeral home businesses are listed for Blue Springs, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Blue Springs, MO?
 
@@ -6,7 +6,7 @@ Also answers: funeral home in Blue Springs, MO; funeral home near me (Blue Sprin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meyers Funeral Chapel | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Meyers Funeral Chapel is a funeral home in Blue Springs, MO at 1600 West Main Street, Blue Springs, MO 64015. Website: https://meyersfuneralchapel.com/. | https://dingalinged-cpu.github.io/registry/c/meyers-funeral-chapel-blue-springs/
+1. Meyers Funeral Chapel | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Meyers Funeral Chapel is a funeral home in Blue Springs, MO at 1600 West Main Street, Blue Springs, MO 64015. Website: https://meyersfuneralchapel.com/. | https://registry-edge.dingalinged.workers.dev/c/meyers-funeral-chapel-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home blue springs mo | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$420 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/funeral-home.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#funeral-home-blue-springs-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/funeral-home.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#funeral-home-blue-springs-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Brazoria County, TX",
  "description": "Top Brazoria County, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Brazoria County, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 19,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash brazoria county tx",
     "slug": "car-wash-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-brazoria-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist brazoria county tx",
     "slug": "dentist-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-brazoria-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -41,7 +41,7 @@
    {
     "keyword": "nail salon brazoria county tx",
     "slug": "nail-salon-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-brazoria-county-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -56,7 +56,7 @@
    {
     "keyword": "barber shop brazoria county tx",
     "slug": "barber-shop-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-brazoria-county-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic brazoria county tx",
     "slug": "mechanic-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-brazoria-county-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut brazoria county tx",
     "slug": "haircut-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-brazoria-county-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair brazoria county tx",
     "slug": "auto-repair-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-brazoria-county-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -116,7 +116,7 @@
    {
     "keyword": "locksmith brazoria county tx",
     "slug": "locksmith-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-brazoria-county-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -131,7 +131,7 @@
    {
     "keyword": "real estate agent brazoria county tx",
     "slug": "real-estate-agent-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-brazoria-county-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agency brazoria county tx",
     "slug": "insurance-agency-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brazoria-county-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -161,7 +161,7 @@
    {
     "keyword": "realtor brazoria county tx",
     "slug": "realtor-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-brazoria-county-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -176,7 +176,7 @@
    {
     "keyword": "facial brazoria county tx",
     "slug": "facial-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-brazoria-county-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agents brazoria county tx",
     "slug": "insurance-agents-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-brazoria-county-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agent brazoria county tx",
     "slug": "insurance-agent-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-brazoria-county-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -223,7 +223,7 @@
    {
     "keyword": "locksmith brazoria county tx",
     "slug": "locksmith-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-brazoria-county-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -238,7 +238,7 @@
    {
     "keyword": "martial arts brazoria county tx",
     "slug": "martial-arts-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-brazoria-county-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6900,
@@ -253,7 +253,7 @@
    {
     "keyword": "preschool brazoria county tx",
     "slug": "preschool-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-brazoria-county-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -268,7 +268,7 @@
    {
     "keyword": "physical therapy brazoria county tx",
     "slug": "physical-therapy-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-brazoria-county-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -283,7 +283,7 @@
    {
     "keyword": "dentist brazoria county tx",
     "slug": "dentist-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-brazoria-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -298,7 +298,7 @@
    {
     "keyword": "facial brazoria county tx",
     "slug": "facial-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-brazoria-county-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -313,7 +313,7 @@
    {
     "keyword": "haircut brazoria county tx",
     "slug": "haircut-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-brazoria-county-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -328,7 +328,7 @@
    {
     "keyword": "waxing brazoria county tx",
     "slug": "waxing-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/waxing-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/waxing-brazoria-county-tx/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 22000,
@@ -343,7 +343,7 @@
    {
     "keyword": "auto repair brazoria county tx",
     "slug": "auto-repair-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-brazoria-county-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -358,7 +358,7 @@
    {
     "keyword": "car wash brazoria county tx",
     "slug": "car-wash-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-brazoria-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -373,7 +373,7 @@
    {
     "keyword": "mechanic brazoria county tx",
     "slug": "mechanic-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-brazoria-county-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -388,7 +388,7 @@
    {
     "keyword": "realtor brazoria county tx",
     "slug": "realtor-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-brazoria-county-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -403,7 +403,7 @@
    {
     "keyword": "real estate agent brazoria county tx",
     "slug": "real-estate-agent-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-brazoria-county-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -418,7 +418,7 @@
    {
     "keyword": "dry cleaners brazoria county tx",
     "slug": "dry-cleaners-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-brazoria-county-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -433,7 +433,7 @@
    {
     "keyword": "insurance agency brazoria county tx",
     "slug": "insurance-agency-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brazoria-county-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -450,7 +450,7 @@
    {
     "keyword": "dentist brazoria county tx",
     "slug": "dentist-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-brazoria-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -465,7 +465,7 @@
    {
     "keyword": "car wash brazoria county tx",
     "slug": "car-wash-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-brazoria-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -480,7 +480,7 @@
    {
     "keyword": "mechanic brazoria county tx",
     "slug": "mechanic-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-brazoria-county-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -495,7 +495,7 @@
    {
     "keyword": "locksmith brazoria county tx",
     "slug": "locksmith-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-brazoria-county-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -510,7 +510,7 @@
    {
     "keyword": "haircut brazoria county tx",
     "slug": "haircut-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-brazoria-county-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -525,7 +525,7 @@
    {
     "keyword": "auto repair brazoria county tx",
     "slug": "auto-repair-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-brazoria-county-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -540,7 +540,7 @@
    {
     "keyword": "real estate agent brazoria county tx",
     "slug": "real-estate-agent-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-brazoria-county-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -555,7 +555,7 @@
    {
     "keyword": "nail salon brazoria county tx",
     "slug": "nail-salon-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-brazoria-county-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -570,7 +570,7 @@
    {
     "keyword": "barber shop brazoria county tx",
     "slug": "barber-shop-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-brazoria-county-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -585,7 +585,7 @@
    {
     "keyword": "facial brazoria county tx",
     "slug": "facial-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-brazoria-county-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -600,7 +600,7 @@
    {
     "keyword": "realtor brazoria county tx",
     "slug": "realtor-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-brazoria-county-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agency brazoria county tx",
     "slug": "insurance-agency-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brazoria-county-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agents brazoria county tx",
     "slug": "insurance-agents-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-brazoria-county-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agent brazoria county tx",
     "slug": "insurance-agent-brazoria-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-brazoria-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-brazoria-county-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,

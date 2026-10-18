@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Lombard, IL is Othman Orthodontics (a dentist in Lombard, IL at 2340 South Highland Avenue, Lombard, IL 60148. Phone: +16304249070. Website: https://othmanorthodontics.com/). 6 dentist businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Lombard, IL is Othman Orthodontics (a dentist in Lombard, IL at 2340 South Highland Avenue, Lombard, IL 60148. Phone: +16304249070. Website: https://othmanorthodontics.com/). 6 dentist businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Lombard, IL?
 
@@ -6,12 +6,12 @@ Also answers: dentist in Lombard, IL; dentist near me (Lombard, IL); best dentis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Othman Orthodontics | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Othman Orthodontics is a dentist in Lombard, IL at 2340 South Highland Avenue, Lombard, IL 60148. Phone: +16304249070. Website: https://othmanorthodontics.com/. | https://dingalinged-cpu.github.io/registry/c/othman-orthodontics-lombard/
-2. Christine Michaels Orthodontics | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Christine Michaels Orthodontics is a dentist in Lombard, IL at 2500 South Highland Avenue #100, Lombard, IL 60148. Phone: +16308898898. Website: https://www.cmorthodontics.com/. | https://dingalinged-cpu.github.io/registry/c/christine-michaels-orthodontics-lombard/
-3. Dr. Dino's Dental Oasis | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | Dr. Dino's Dental Oasis is a dentist in Lombard, IL at 510 East 22nd Street, Lombard, IL 60148. Phone: +16306789090. Website: https://drdinosdentaloasis.com/. | https://dingalinged-cpu.github.io/registry/c/dr-dinos-dental-oasis-lombard/
-4. Cater Dental | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Cater Dental is a dentist in Lombard, IL at 894 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/cater-dental-lombard/
-5. Highlands Dental Care | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Highlands Dental Care is a dentist in Lombard, IL at 2770 South Highland Avenue #103, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/highlands-dental-care-lombard/
-6. Ace Dental Center | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Ace Dental Center is a dentist in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/ace-dental-center-lombard/
+1. Othman Orthodontics | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Othman Orthodontics is a dentist in Lombard, IL at 2340 South Highland Avenue, Lombard, IL 60148. Phone: +16304249070. Website: https://othmanorthodontics.com/. | https://registry-edge.dingalinged.workers.dev/c/othman-orthodontics-lombard/
+2. Christine Michaels Orthodontics | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Christine Michaels Orthodontics is a dentist in Lombard, IL at 2500 South Highland Avenue #100, Lombard, IL 60148. Phone: +16308898898. Website: https://www.cmorthodontics.com/. | https://registry-edge.dingalinged.workers.dev/c/christine-michaels-orthodontics-lombard/
+3. Dr. Dino's Dental Oasis | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | Dr. Dino's Dental Oasis is a dentist in Lombard, IL at 510 East 22nd Street, Lombard, IL 60148. Phone: +16306789090. Website: https://drdinosdentaloasis.com/. | https://registry-edge.dingalinged.workers.dev/c/dr-dinos-dental-oasis-lombard/
+4. Cater Dental | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Cater Dental is a dentist in Lombard, IL at 894 East Roosevelt Road, Lombard, IL 60148. | https://registry-edge.dingalinged.workers.dev/c/cater-dental-lombard/
+5. Highlands Dental Care | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Highlands Dental Care is a dentist in Lombard, IL at 2770 South Highland Avenue #103, Lombard, IL 60148. | https://registry-edge.dingalinged.workers.dev/c/highlands-dental-care-lombard/
+6. Ace Dental Center | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Ace Dental Center is a dentist in Lombard, IL. | https://registry-edge.dingalinged.workers.dev/c/ace-dental-center-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist lombard il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-lombard-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-lombard-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid preschool listing for Lino Lakes, MN is Milestones Early Learning Center Lino Lakes (a preschool in Lino Lakes, MN at 595 Lilac St., Lino Lakes, MN 55014. Phone: +16519642277. Website: https://www.milestoneselc.com/locations/lino-lakes). 1 preschool businesses are listed for Lino Lakes, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Lino Lakes, MN is Milestones Early Learning Center Lino Lakes (a preschool in Lino Lakes, MN at 595 Lilac St., Lino Lakes, MN 55014. Phone: +16519642277. Website: https://www.milestoneselc.com/locations/lino-lakes). 1 preschool businesses are listed for Lino Lakes, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Lino Lakes, MN?
 
@@ -6,7 +6,7 @@ Also answers: preschool in Lino Lakes, MN; preschool near me (Lino Lakes, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Milestones Early Learning Center Lino Lakes | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Milestones Early Learning Center Lino Lakes is a preschool in Lino Lakes, MN at 595 Lilac St., Lino Lakes, MN 55014. Phone: +16519642277. Website: https://www.milestoneselc.com/locations/lino-lakes. | https://dingalinged-cpu.github.io/registry/c/milestones-early-learning-center-lino-lakes-lino-lakes/
+1. Milestones Early Learning Center Lino Lakes | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Milestones Early Learning Center Lino Lakes is a preschool in Lino Lakes, MN at 595 Lilac St., Lino Lakes, MN 55014. Phone: +16519642277. Website: https://www.milestoneselc.com/locations/lino-lakes. | https://registry-edge.dingalinged.workers.dev/c/milestones-early-learning-center-lino-lakes-lino-lakes/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool lino lakes mn | category: Education & childcare | industry benchmark: Education & Instruction
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$660 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool-lino-lakes-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/preschool.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#preschool-lino-lakes-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

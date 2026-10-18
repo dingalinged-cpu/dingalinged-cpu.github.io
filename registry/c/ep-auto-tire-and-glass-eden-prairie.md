@@ -13,12 +13,12 @@ EP Auto, Tire & Glass is a tire shop in Eden Prairie, MN at 12479 Plaza Drive, E
 - Website: https://lamettrysautotech.com/
 - Email: info@qualitycollisiongroup.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30; Sa,Su off
-- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 3% of tire shops in Minneapolis–St. Paul, #1 of 1 tire shops in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 3% of tire shops in Minneapolis–St. Paul, #1 of 1 tire shops in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ep-auto-tire-and-glass-eden-prairie/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ep-auto-tire-and-glass-eden-prairie.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ep-auto-tire-and-glass-eden-prairie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ep-auto-tire-and-glass-eden-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2699285065 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

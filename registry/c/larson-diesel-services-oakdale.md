@@ -13,12 +13,12 @@ Larson Diesel Services is an auto repair shop in Oakdale, MN at 5275 Geneva Aven
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 28% of auto repair shops in Minneapolis–St. Paul, #2 of 3 auto repair shops in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 28% of auto repair shops in Minneapolis–St. Paul, #2 of 3 auto repair shops in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/larson-diesel-services-oakdale/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/larson-diesel-services-oakdale.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/larson-diesel-services-oakdale/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/larson-diesel-services-oakdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6636537906 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

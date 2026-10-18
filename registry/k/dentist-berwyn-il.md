@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Berwyn, IL is Forever Dental - Berwyn (a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Phone: +17087889414. Website: https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/). 3 dentist businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Berwyn, IL is Forever Dental - Berwyn (a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Phone: +17087889414. Website: https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/). 3 dentist businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Berwyn, IL?
 
@@ -6,9 +6,9 @@ Also answers: dentist in Berwyn, IL; dentist near me (Berwyn, IL); best dentist 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forever Dental - Berwyn | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Forever Dental - Berwyn is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Phone: +17087889414. Website: https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/. | https://dingalinged-cpu.github.io/registry/c/forever-dental-berwyn-berwyn/
-2. G.R. Zehak, DDS & Associates | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | G.R. Zehak, DDS & Associates is a dentist in Berwyn, IL. Phone: +17084840235. | https://dingalinged-cpu.github.io/registry/c/g-r-zehak-dds-and-associates-berwyn/
-3. Diane Garrison D.D.S | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Diane Garrison D.D.S is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Website: https://www.dianegarrisondds.com/. | https://dingalinged-cpu.github.io/registry/c/diane-garrison-d-d-s-berwyn/
+1. Forever Dental - Berwyn | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Forever Dental - Berwyn is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Phone: +17087889414. Website: https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/. | https://registry-edge.dingalinged.workers.dev/c/forever-dental-berwyn-berwyn/
+2. G.R. Zehak, DDS & Associates | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | G.R. Zehak, DDS & Associates is a dentist in Berwyn, IL. Phone: +17084840235. | https://registry-edge.dingalinged.workers.dev/c/g-r-zehak-dds-and-associates-berwyn/
+3. Diane Garrison D.D.S | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Diane Garrison D.D.S is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Website: https://www.dianegarrisondds.com/. | https://registry-edge.dingalinged.workers.dev/c/diane-garrison-d-d-s-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist berwyn il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-berwyn-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-berwyn-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

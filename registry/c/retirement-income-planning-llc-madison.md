@@ -13,12 +13,12 @@ Retirement Income Planning LLC is a financial advisor in Madison, WI at 2310 Cro
 - Website: https://retirementincomeplanningllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 6% of financial advisors in Madison, #1 of 6 financial advisors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 6% of financial advisors in Madison, #1 of 6 financial advisors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/retirement-income-planning-llc-madison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/retirement-income-planning-llc-madison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/retirement-income-planning-llc-madison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/retirement-income-planning-llc-madison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7089829719 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid facial listing for Minneapolis, MN is Watershed Spa (a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/). 4 facial businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Minneapolis, MN is Watershed Spa (a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/). 4 facial businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Minneapolis, MN?
 
@@ -6,10 +6,10 @@ Also answers: facial in Minneapolis, MN; facial near me (Minneapolis, MN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Watershed Spa | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Watershed Spa is a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/. | https://dingalinged-cpu.github.io/registry/c/watershed-spa-minneapolis/
-2. Wrinkleboss | Organic #2 | Pulse Score 63/100 (Good, #1 in city) | Wrinkleboss is a skin care studio in Minneapolis, MN at 4308 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16124052326. Website: https://wrinkleboss.co/. | https://dingalinged-cpu.github.io/registry/c/wrinkleboss-minneapolis/
-3. Spa Sweet | Organic #3 | Pulse Score 59.7/100 (Unrated, #6 in city) | Spa Sweet is a nail salon in Minneapolis, MN at 4747 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16127993588. | https://dingalinged-cpu.github.io/registry/c/spa-sweet-minneapolis/
-4. Ulta Beauty | Organic #4 | Pulse Score 49.4/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Minneapolis, MN at 1050 West 78th Street, Minneapolis, MN 55423. Phone: +16128690150. Website: https://www.ulta.com/stores/richfield-mn-607. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-minneapolis/
+1. Watershed Spa | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Watershed Spa is a spa in Minneapolis, MN at 514 Southeast 2nd Street, Minneapolis, MN 55414. Phone: +16123314182. Website: https://www.watershedspa.com/. | https://registry-edge.dingalinged.workers.dev/c/watershed-spa-minneapolis/
+2. Wrinkleboss | Organic #2 | Pulse Score 63/100 (Good, #1 in city) | Wrinkleboss is a skin care studio in Minneapolis, MN at 4308 Bryant Avenue South, Minneapolis, MN 55409. Phone: +16124052326. Website: https://wrinkleboss.co/. | https://registry-edge.dingalinged.workers.dev/c/wrinkleboss-minneapolis/
+3. Spa Sweet | Organic #3 | Pulse Score 59.7/100 (Unrated, #6 in city) | Spa Sweet is a nail salon in Minneapolis, MN at 4747 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16127993588. | https://registry-edge.dingalinged.workers.dev/c/spa-sweet-minneapolis/
+4. Ulta Beauty | Organic #4 | Pulse Score 49.4/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Minneapolis, MN at 1050 West 78th Street, Minneapolis, MN 55423. Phone: +16128690150. Website: https://www.ulta.com/stores/richfield-mn-607. | https://registry-edge.dingalinged.workers.dev/c/ulta-beauty-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial minneapolis mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$220 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/facial.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#facial-minneapolis-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/facial.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#facial-minneapolis-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

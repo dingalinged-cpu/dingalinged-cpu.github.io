@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Richmond, TX is Children's Lighthouse of Richmond (a daycare in Richmond, TX at 4734 Harvest Corner Drive, Richmond, TX 77406. Phone: +12813361877. Website: https://childrenslighthouse.com/harvestgreen). 4 daycare businesses are listed for Richmond, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Richmond, TX is Children's Lighthouse of Richmond (a daycare in Richmond, TX at 4734 Harvest Corner Drive, Richmond, TX 77406. Phone: +12813361877. Website: https://childrenslighthouse.com/harvestgreen). 4 daycare businesses are listed for Richmond, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Richmond, TX?
 
@@ -6,10 +6,10 @@ Also answers: daycare in Richmond, TX; daycare near me (Richmond, TX); best dayc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Children's Lighthouse of Richmond | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Children's Lighthouse of Richmond is a daycare in Richmond, TX at 4734 Harvest Corner Drive, Richmond, TX 77406. Phone: +12813361877. Website: https://childrenslighthouse.com/harvestgreen. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-of-richmond-richmond/
-2. The Foundations Montessori | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | The Foundations Montessori is a daycare in Richmond, TX at 10530 FM 1464, Richmond, TX 77407. Phone: +12812400010. Website: https://www.thefoundationsmontessori.com/. | https://dingalinged-cpu.github.io/registry/c/the-foundations-montessori-richmond/
-3. Funshine Acadamy | Organic #3 | Pulse Score 61.3/100 (Unrated, #3 in city) | Funshine Acadamy is a daycare in Richmond, TX at 707 Pitts Road, Richmond, TX 77406. Phone: +12813429624. Website: https://www.funshine-academy.com/. | https://dingalinged-cpu.github.io/registry/c/funshine-acadamy-richmond/
-4. Kids 'R' Kids | Organic #4 | Pulse Score 47.2/100 (Building, #4 in city) | Kids 'R' Kids is a daycare in Richmond, TX at 17317 Bellaire Boulevard, Richmond, TX 77407. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-richmond/
+1. Children's Lighthouse of Richmond | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Children's Lighthouse of Richmond is a daycare in Richmond, TX at 4734 Harvest Corner Drive, Richmond, TX 77406. Phone: +12813361877. Website: https://childrenslighthouse.com/harvestgreen. | https://registry-edge.dingalinged.workers.dev/c/childrens-lighthouse-of-richmond-richmond/
+2. The Foundations Montessori | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | The Foundations Montessori is a daycare in Richmond, TX at 10530 FM 1464, Richmond, TX 77407. Phone: +12812400010. Website: https://www.thefoundationsmontessori.com/. | https://registry-edge.dingalinged.workers.dev/c/the-foundations-montessori-richmond/
+3. Funshine Acadamy | Organic #3 | Pulse Score 61.3/100 (Unrated, #3 in city) | Funshine Acadamy is a daycare in Richmond, TX at 707 Pitts Road, Richmond, TX 77406. Phone: +12813429624. Website: https://www.funshine-academy.com/. | https://registry-edge.dingalinged.workers.dev/c/funshine-acadamy-richmond/
+4. Kids 'R' Kids | Organic #4 | Pulse Score 47.2/100 (Building, #4 in city) | Kids 'R' Kids is a daycare in Richmond, TX at 17317 Bellaire Boulevard, Richmond, TX 77407. | https://registry-edge.dingalinged.workers.dev/c/kids-r-kids-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare richmond tx | category: Education & childcare | industry benchmark: Education & Instruction
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare-richmond-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/daycare.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#daycare-richmond-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

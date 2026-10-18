@@ -13,12 +13,12 @@ Caribbean Travel & Income Tax Service is a tax preparation service in Berwyn, IL
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 7% of tax preparation services in Chicago, #1 of 1 tax preparation services in Berwyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 7% of tax preparation services in Chicago, #1 of 1 tax preparation services in Berwyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/caribbean-travel-and-income-tax-service-berwyn/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/caribbean-travel-and-income-tax-service-berwyn.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/caribbean-travel-and-income-tax-service-berwyn/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/caribbean-travel-and-income-tax-service-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8181744857 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Homer Glen, IL is Studio Red Hair Design (a hair salon in Homer Glen, IL at 14203 South Bell Road, Homer Glen, IL 60491. Phone: +17086451966. Website: https://www.studioredhairdesign.com/). 5 haircut businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Homer Glen, IL is Studio Red Hair Design (a hair salon in Homer Glen, IL at 14203 South Bell Road, Homer Glen, IL 60491. Phone: +17086451966. Website: https://www.studioredhairdesign.com/). 5 haircut businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Homer Glen, IL?
 
@@ -6,11 +6,11 @@ Also answers: haircut in Homer Glen, IL; haircut near me (Homer Glen, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Studio Red Hair Design | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Studio Red Hair Design is a hair salon in Homer Glen, IL at 14203 South Bell Road, Homer Glen, IL 60491. Phone: +17086451966. Website: https://www.studioredhairdesign.com/. | https://dingalinged-cpu.github.io/registry/c/studio-red-hair-design-homer-glen/
-2. Billy Malley's Hair Salon | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Billy Malley's Hair Salon is a hair salon in Homer Glen, IL at 14322 South Golden Oak Drive, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/billy-malleys-hair-salon-homer-glen/
-3. Flair for Hair | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Flair for Hair is a hair salon in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/flair-for-hair-homer-glen/
-4. Great Clips | Organic #4 | Pulse Score 49.2/100 (Building, #4 in city) | Great Clips is a hair salon in Homer Glen, IL at 14230 South Bell Road, Homer Glen, IL 60491. Phone: +17083018299. Website: https://www.greatclips.com/salons/2158. | https://dingalinged-cpu.github.io/registry/c/great-clips-homer-glen/
-5. Sport Clips | Organic #5 | Pulse Score 49.2/100 (Building, #5 in city) | Sport Clips is a hair salon in Homer Glen, IL at 14005 South Bell Road, Homer Glen, IL 60491. Phone: +17086457005. Website: https://haircutmenhomerglenil.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-homer-glen/
+1. Studio Red Hair Design | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Studio Red Hair Design is a hair salon in Homer Glen, IL at 14203 South Bell Road, Homer Glen, IL 60491. Phone: +17086451966. Website: https://www.studioredhairdesign.com/. | https://registry-edge.dingalinged.workers.dev/c/studio-red-hair-design-homer-glen/
+2. Billy Malley's Hair Salon | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Billy Malley's Hair Salon is a hair salon in Homer Glen, IL at 14322 South Golden Oak Drive, Homer Glen, IL 60491. | https://registry-edge.dingalinged.workers.dev/c/billy-malleys-hair-salon-homer-glen/
+3. Flair for Hair | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Flair for Hair is a hair salon in Homer Glen, IL. | https://registry-edge.dingalinged.workers.dev/c/flair-for-hair-homer-glen/
+4. Great Clips | Organic #4 | Pulse Score 49.2/100 (Building, #4 in city) | Great Clips is a hair salon in Homer Glen, IL at 14230 South Bell Road, Homer Glen, IL 60491. Phone: +17083018299. Website: https://www.greatclips.com/salons/2158. | https://registry-edge.dingalinged.workers.dev/c/great-clips-homer-glen/
+5. Sport Clips | Organic #5 | Pulse Score 49.2/100 (Building, #5 in city) | Sport Clips is a hair salon in Homer Glen, IL at 14005 South Bell Road, Homer Glen, IL 60491. Phone: +17086457005. Website: https://haircutmenhomerglenil.com/. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut homer glen il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-homer-glen-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-homer-glen-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

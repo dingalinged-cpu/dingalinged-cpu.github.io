@@ -13,12 +13,12 @@ The Vineyard Cafe & Gift Shop is a gift shop in Marietta, GA at 21 West Park Squ
 - Website: https://www.thevineyardcafe.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 11:00-15:00; Fr-Sa 11:00-16:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 15% of gift shops in Atlanta, #5 of 5 gift shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 15% of gift shops in Atlanta, #5 of 5 gift shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-vineyard-cafe-and-gift-shop-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-vineyard-cafe-and-gift-shop-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-vineyard-cafe-and-gift-shop-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-vineyard-cafe-and-gift-shop-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/321916059 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Goodwill is a thrift store in Lemont Township, IL at 1146 State Street, Lemont T
 - Website: https://www.goodwill.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 48% of thrift stores in Chicago, #1 of 1 thrift stores in Lemont Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 48% of thrift stores in Chicago, #1 of 1 thrift stores in Lemont Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-lemont-township/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-lemont-township.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-lemont-township/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-lemont-township.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/308321311 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

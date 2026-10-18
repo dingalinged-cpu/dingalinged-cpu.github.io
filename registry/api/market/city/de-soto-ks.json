@@ -2,7 +2,7 @@
  "title": "Keyword market data: De Soto, KS",
  "description": "Top De Soto, KS service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "De Soto, KS",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash de soto ks",
     "slug": "car-wash-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-de-soto-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon de soto ks",
     "slug": "hair-salon-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-de-soto-ks/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -41,7 +41,7 @@
    {
     "keyword": "nail salon de soto ks",
     "slug": "nail-salon-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-de-soto-ks/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -56,7 +56,7 @@
    {
     "keyword": "vet de soto ks",
     "slug": "vet-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-de-soto-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut de soto ks",
     "slug": "haircut-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-de-soto-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -86,7 +86,7 @@
    {
     "keyword": "pest control de soto ks",
     "slug": "pest-control-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pest-control-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-de-soto-ks/",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -101,7 +101,7 @@
    {
     "keyword": "exterminator de soto ks",
     "slug": "exterminator-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/exterminator-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-de-soto-ks/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 900,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agency de soto ks",
     "slug": "insurance-agency-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-de-soto-ks/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agents de soto ks",
     "slug": "insurance-agents-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-de-soto-ks/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agent de soto ks",
     "slug": "insurance-agent-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-de-soto-ks/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -163,7 +163,7 @@
    {
     "keyword": "exterminator de soto ks",
     "slug": "exterminator-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/exterminator-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-de-soto-ks/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 900,
@@ -178,7 +178,7 @@
    {
     "keyword": "pest control de soto ks",
     "slug": "pest-control-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pest-control-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-de-soto-ks/",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -193,7 +193,7 @@
    {
     "keyword": "florist de soto ks",
     "slug": "florist-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-de-soto-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -208,7 +208,7 @@
    {
     "keyword": "haircut de soto ks",
     "slug": "haircut-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-de-soto-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -223,7 +223,7 @@
    {
     "keyword": "car wash de soto ks",
     "slug": "car-wash-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-de-soto-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -238,7 +238,7 @@
    {
     "keyword": "gift shop de soto ks",
     "slug": "gift-shop-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-de-soto-ks/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 120,
@@ -253,7 +253,7 @@
    {
     "keyword": "liquor store de soto ks",
     "slug": "liquor-store-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-de-soto-ks/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -268,7 +268,7 @@
    {
     "keyword": "vet de soto ks",
     "slug": "vet-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-de-soto-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -283,7 +283,7 @@
    {
     "keyword": "funeral home de soto ks",
     "slug": "funeral-home-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-de-soto-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -298,7 +298,7 @@
    {
     "keyword": "insurance agency de soto ks",
     "slug": "insurance-agency-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-de-soto-ks/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -313,7 +313,7 @@
    {
     "keyword": "insurance agent de soto ks",
     "slug": "insurance-agent-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-de-soto-ks/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -328,7 +328,7 @@
    {
     "keyword": "insurance agents de soto ks",
     "slug": "insurance-agents-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-de-soto-ks/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -343,7 +343,7 @@
    {
     "keyword": "nail salon de soto ks",
     "slug": "nail-salon-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-de-soto-ks/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -358,7 +358,7 @@
    {
     "keyword": "hair salon de soto ks",
     "slug": "hair-salon-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-de-soto-ks/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -375,7 +375,7 @@
    {
     "keyword": "car wash de soto ks",
     "slug": "car-wash-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-de-soto-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -390,7 +390,7 @@
    {
     "keyword": "vet de soto ks",
     "slug": "vet-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-de-soto-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -405,7 +405,7 @@
    {
     "keyword": "haircut de soto ks",
     "slug": "haircut-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-de-soto-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -420,7 +420,7 @@
    {
     "keyword": "pest control de soto ks",
     "slug": "pest-control-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pest-control-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-de-soto-ks/",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -435,7 +435,7 @@
    {
     "keyword": "exterminator de soto ks",
     "slug": "exterminator-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/exterminator-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-de-soto-ks/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 900,
@@ -450,7 +450,7 @@
    {
     "keyword": "hair salon de soto ks",
     "slug": "hair-salon-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-de-soto-ks/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -465,7 +465,7 @@
    {
     "keyword": "nail salon de soto ks",
     "slug": "nail-salon-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-de-soto-ks/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -480,7 +480,7 @@
    {
     "keyword": "insurance agency de soto ks",
     "slug": "insurance-agency-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-de-soto-ks/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -495,7 +495,7 @@
    {
     "keyword": "insurance agents de soto ks",
     "slug": "insurance-agents-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-de-soto-ks/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -510,7 +510,7 @@
    {
     "keyword": "insurance agent de soto ks",
     "slug": "insurance-agent-de-soto-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-de-soto-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-de-soto-ks/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,

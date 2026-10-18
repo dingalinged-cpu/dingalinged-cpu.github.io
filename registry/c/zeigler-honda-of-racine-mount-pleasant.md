@@ -13,12 +13,12 @@ Zeigler Honda of Racine is an used car dealer in Mount Pleasant, WI at 1701 Sout
 - Website: https://www.zeiglerhondaracine.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-21:00; Sa 08:00-18:00
-- Pulse Score: 47.3/100 — Building — top 77% of used car dealers in Milwaukee, #1 of 1 used car dealers in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 51.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 77% of used car dealers in Milwaukee, #1 of 1 used car dealers in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/zeigler-honda-of-racine-mount-pleasant/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/zeigler-honda-of-racine-mount-pleasant.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/zeigler-honda-of-racine-mount-pleasant/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/zeigler-honda-of-racine-mount-pleasant.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9604100007 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

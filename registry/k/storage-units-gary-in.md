@@ -1,4 +1,4 @@
-The top unpaid storage units listing for Gary, IN is Area U Lock (a self-storage facility in Gary, IN at 3721 North Colfax Street, Gary, IN 46408. Phone: +12192442986. Website: https://www.areaulock.com/). 2 storage units businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Gary, IN is Area U Lock (a self-storage facility in Gary, IN at 3721 North Colfax Street, Gary, IN 46408. Phone: +12192442986. Website: https://www.areaulock.com/). 2 storage units businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Gary, IN?
 
@@ -6,8 +6,8 @@ Also answers: storage units in Gary, IN; storage units near me (Gary, IN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Area U Lock | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Area U Lock is a self-storage facility in Gary, IN at 3721 North Colfax Street, Gary, IN 46408. Phone: +12192442986. Website: https://www.areaulock.com/. | https://dingalinged-cpu.github.io/registry/c/area-u-lock-gary/
-2. CubeSmart | Organic #2 | Pulse Score 52.3/100 (Fair, #2 in city) | CubeSmart is a self-storage facility in Gary, IN at 855 Taft Street, Gary, IN 46404. Phone: +12192001456. Website: https://www.cubesmart.com/indiana-self-storage/gary-self-storage/4796.html. | https://dingalinged-cpu.github.io/registry/c/cubesmart-gary/
+1. Area U Lock | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Area U Lock is a self-storage facility in Gary, IN at 3721 North Colfax Street, Gary, IN 46408. Phone: +12192442986. Website: https://www.areaulock.com/. | https://registry-edge.dingalinged.workers.dev/c/area-u-lock-gary/
+2. CubeSmart | Organic #2 | Pulse Score 52.3/100 (Fair, #2 in city) | CubeSmart is a self-storage facility in Gary, IN at 855 Taft Street, Gary, IN 46404. Phone: +12192001456. Website: https://www.cubesmart.com/indiana-self-storage/gary-self-storage/4796.html. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units gary in | category: Home services - Moving | industry benchmark: Home & Home Improvement
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/storage-units.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#storage-units-gary-in | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/storage-units.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#storage-units-gary-in | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

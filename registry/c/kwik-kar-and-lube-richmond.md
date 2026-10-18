@@ -13,12 +13,12 @@ Kwik Kar and Lube is an auto repair shop in Richmond, TX at 1832 Fm 359, Richmon
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 31% of auto repair shops in Houston, #4 of 7 auto repair shops in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 51.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 31% of auto repair shops in Houston, #4 of 7 auto repair shops in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/kwik-kar-and-lube-richmond/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kwik-kar-and-lube-richmond.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kwik-kar-and-lube-richmond/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kwik-kar-and-lube-richmond.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5757418946 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

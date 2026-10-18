@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Grapevine, TX is Blagg Tire & Service (an auto repair shop in Grapevine, TX). 8 auto repair businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Grapevine, TX is Blagg Tire & Service (an auto repair shop in Grapevine, TX). 8 auto repair businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Grapevine, TX?
 
@@ -6,14 +6,14 @@ Also answers: auto repair in Grapevine, TX; auto repair near me (Grapevine, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blagg Tire & Service | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Blagg Tire & Service is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/blagg-tire-and-service-grapevine/
-2. DFW Collision Center | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | DFW Collision Center is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/dfw-collision-center-grapevine/
-3. Stuart's Paint & Body | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Stuart's Paint & Body is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/stuarts-paint-and-body-grapevine/
-4. National Tire and Battery | Organic #4 | Pulse Score 46.8/100 (Building, #4 in city) | National Tire and Battery is an auto repair shop in Grapevine, TX at 3590 Grapevine Mills Boulevard North, Grapevine, TX 76051. Website: https://www.ntb.com/store/tx/grapevine/3590-n-grapevine-mills-blvd-76051/4464. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-grapevine-w706848984/
-5. National Tire and Battery | Organic #5 | Pulse Score 46.5/100 (Building, #5 in city) | National Tire and Battery is an auto repair shop in Grapevine, TX at 202 East State Highway 114, Grapevine, TX 76051. Website: https://www.ntb.com/store/tx/grapevine/202-e-state-highway-114-76051/4465. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-grapevine/
-6. Firestone | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Firestone is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-grapevine/
-7. Midas | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | Midas is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/midas-grapevine/
-8. Walmart Auto Center | Organic #8 | Pulse Score 41.4/100 (Unrated, #8 in city) | Walmart Auto Center is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/walmart-auto-center-grapevine/
+1. Blagg Tire & Service | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Blagg Tire & Service is an auto repair shop in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/blagg-tire-and-service-grapevine/
+2. DFW Collision Center | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | DFW Collision Center is an auto repair shop in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/dfw-collision-center-grapevine/
+3. Stuart's Paint & Body | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Stuart's Paint & Body is an auto repair shop in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/stuarts-paint-and-body-grapevine/
+4. National Tire and Battery | Organic #4 | Pulse Score 46.8/100 (Building, #4 in city) | National Tire and Battery is an auto repair shop in Grapevine, TX at 3590 Grapevine Mills Boulevard North, Grapevine, TX 76051. Website: https://www.ntb.com/store/tx/grapevine/3590-n-grapevine-mills-blvd-76051/4464. | https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-grapevine-w706848984/
+5. National Tire and Battery | Organic #5 | Pulse Score 46.5/100 (Building, #5 in city) | National Tire and Battery is an auto repair shop in Grapevine, TX at 202 East State Highway 114, Grapevine, TX 76051. Website: https://www.ntb.com/store/tx/grapevine/202-e-state-highway-114-76051/4465. | https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-grapevine/
+6. Firestone | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Firestone is an auto repair shop in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/firestone-grapevine/
+7. Midas | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | Midas is an auto repair shop in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/midas-grapevine/
+8. Walmart Auto Center | Organic #8 | Pulse Score 41.4/100 (Unrated, #8 in city) | Walmart Auto Center is an auto repair shop in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/walmart-auto-center-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair grapevine tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-grapevine-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-grapevine-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

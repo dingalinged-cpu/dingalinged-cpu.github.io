@@ -1,4 +1,4 @@
-The top unpaid tax preparer listing for North Richland Hills, TX is H&R Block (a tax preparation service in North Richland Hills, TX at 8415 Davis Boulevard #307, North Richland Hills, TX 76182. Phone: +18175146339. Website: https://www.hrblock.com/local-tax-offices/texas/north-richland-hills/8415-davis-blvd-ste-307/41895/). 3 tax preparer businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for North Richland Hills, TX is H&R Block (a tax preparation service in North Richland Hills, TX at 8415 Davis Boulevard #307, North Richland Hills, TX 76182. Phone: +18175146339. Website: https://www.hrblock.com/local-tax-offices/texas/north-richland-hills/8415-davis-blvd-ste-307/41895/). 3 tax preparer businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in North Richland Hills, TX?
 
@@ -6,9 +6,9 @@ Also answers: tax preparer in North Richland Hills, TX; tax preparer near me (No
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | Organic #1 | Pulse Score 50.7/100 (Fair, #1 in city) | H&R Block is a tax preparation service in North Richland Hills, TX at 8415 Davis Boulevard #307, North Richland Hills, TX 76182. Phone: +18175146339. Website: https://www.hrblock.com/local-tax-offices/texas/north-richland-hills/8415-davis-blvd-ste-307/41895/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-north-richland-hills-n11903180458/
-2. Jackson Hewitt | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in North Richland Hills, TX at 6242 Rufe Snow Drive #222, North Richland Hills, TX. Phone: +18175351040. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-north-richland-hills/
-3. H&R Block | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | H&R Block is a tax preparation service in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-north-richland-hills/
+1. H&R Block | Organic #1 | Pulse Score 50.7/100 (Fair, #1 in city) | H&R Block is a tax preparation service in North Richland Hills, TX at 8415 Davis Boulevard #307, North Richland Hills, TX 76182. Phone: +18175146339. Website: https://www.hrblock.com/local-tax-offices/texas/north-richland-hills/8415-davis-blvd-ste-307/41895/. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-north-richland-hills-n11903180458/
+2. Jackson Hewitt | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in North Richland Hills, TX at 6242 Rufe Snow Drive #222, North Richland Hills, TX. Phone: +18175351040. | https://registry-edge.dingalinged.workers.dev/c/jackson-hewitt-north-richland-hills/
+3. H&R Block | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | H&R Block is a tax preparation service in North Richland Hills, TX. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer north richland hills tx | category: professional_accounting | industry benchmark: Business Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tax-preparer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tax-preparer-north-richland-hills-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tax-preparer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tax-preparer-north-richland-hills-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

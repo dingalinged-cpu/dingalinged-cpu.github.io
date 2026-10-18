@@ -13,12 +13,12 @@ Tony's Barber Shop is a hair salon in Downers Grove, IL at 6228A Main Street, Do
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Chicago, #3 of 8 hair salons in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 25% of hair salons in Chicago, #3 of 8 hair salons in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tonys-barber-shop-downers-grove/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tonys-barber-shop-downers-grove.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tonys-barber-shop-downers-grove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tonys-barber-shop-downers-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5792665798 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

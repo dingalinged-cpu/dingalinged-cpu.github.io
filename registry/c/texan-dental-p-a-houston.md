@@ -13,12 +13,12 @@ Texan Dental, P.A. is a dentist in Houston, TX at 2493 South Braeswood Boulevard
 - Website: https://www.texandental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 16% of dentists in Houston, #21 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 16% of dentists in Houston, #21 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/texan-dental-p-a-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/texan-dental-p-a-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texan-dental-p-a-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texan-dental-p-a-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13699189667 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

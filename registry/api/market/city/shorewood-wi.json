@@ -2,7 +2,7 @@
  "title": "Keyword market data: Shorewood, WI",
  "description": "Top Shorewood, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Shorewood, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 35,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist shorewood wi",
     "slug": "dentist-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shorewood-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym shorewood wi",
     "slug": "gym-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shorewood-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon shorewood wi",
     "slug": "hair-salon-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-shorewood-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon shorewood wi",
     "slug": "nail-salon-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-shorewood-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -71,7 +71,7 @@
    {
     "keyword": "barber shop shorewood wi",
     "slug": "barber-shop-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-shorewood-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic shorewood wi",
     "slug": "mechanic-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-shorewood-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet shorewood wi",
     "slug": "vet-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-shorewood-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -116,7 +116,7 @@
    {
     "keyword": "dog groomer shorewood wi",
     "slug": "dog-groomer-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-shorewood-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -131,7 +131,7 @@
    {
     "keyword": "haircut shorewood wi",
     "slug": "haircut-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shorewood-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -146,7 +146,7 @@
    {
     "keyword": "auto repair shorewood wi",
     "slug": "auto-repair-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-shorewood-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "chiropractor shorewood wi",
     "slug": "chiropractor-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-shorewood-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -176,7 +176,7 @@
    {
     "keyword": "financial advisor shorewood wi",
     "slug": "financial-advisor-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-shorewood-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -191,7 +191,7 @@
    {
     "keyword": "real estate agent shorewood wi",
     "slug": "real-estate-agent-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-shorewood-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agency shorewood wi",
     "slug": "insurance-agency-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shorewood-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -221,7 +221,7 @@
    {
     "keyword": "realtor shorewood wi",
     "slug": "realtor-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-shorewood-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney shorewood wi",
     "slug": "attorney-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-shorewood-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer shorewood wi",
     "slug": "lawyer-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-shorewood-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -268,7 +268,7 @@
    {
     "keyword": "interior designer shorewood wi",
     "slug": "interior-designer-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/interior-designer-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/interior-designer-shorewood-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 180,
@@ -283,7 +283,7 @@
    {
     "keyword": "bakery shorewood wi",
     "slug": "bakery-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-shorewood-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -298,7 +298,7 @@
    {
     "keyword": "event venues shorewood wi",
     "slug": "event-venues-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-shorewood-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -313,7 +313,7 @@
    {
     "keyword": "florist shorewood wi",
     "slug": "florist-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-shorewood-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -328,7 +328,7 @@
    {
     "keyword": "daycare shorewood wi",
     "slug": "daycare-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-shorewood-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -343,7 +343,7 @@
    {
     "keyword": "chiropractor shorewood wi",
     "slug": "chiropractor-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-shorewood-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -358,7 +358,7 @@
    {
     "keyword": "physical therapy shorewood wi",
     "slug": "physical-therapy-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-shorewood-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -373,7 +373,7 @@
    {
     "keyword": "therapist shorewood wi",
     "slug": "therapist-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-shorewood-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -388,7 +388,7 @@
    {
     "keyword": "dentist shorewood wi",
     "slug": "dentist-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shorewood-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -403,7 +403,7 @@
    {
     "keyword": "haircut shorewood wi",
     "slug": "haircut-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shorewood-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -418,7 +418,7 @@
    {
     "keyword": "tattoo shop shorewood wi",
     "slug": "tattoo-shop-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tattoo-shop-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-shorewood-wi/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4300,
@@ -433,7 +433,7 @@
    {
     "keyword": "auto repair shorewood wi",
     "slug": "auto-repair-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-shorewood-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -448,7 +448,7 @@
    {
     "keyword": "mechanic shorewood wi",
     "slug": "mechanic-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-shorewood-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist shorewood wi",
     "slug": "dentist-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shorewood-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -480,7 +480,7 @@
    {
     "keyword": "gym shorewood wi",
     "slug": "gym-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shorewood-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic shorewood wi",
     "slug": "mechanic-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-shorewood-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -510,7 +510,7 @@
    {
     "keyword": "vet shorewood wi",
     "slug": "vet-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-shorewood-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -525,7 +525,7 @@
    {
     "keyword": "dog groomer shorewood wi",
     "slug": "dog-groomer-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-shorewood-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -540,7 +540,7 @@
    {
     "keyword": "haircut shorewood wi",
     "slug": "haircut-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shorewood-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -555,7 +555,7 @@
    {
     "keyword": "auto repair shorewood wi",
     "slug": "auto-repair-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-shorewood-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -570,7 +570,7 @@
    {
     "keyword": "chiropractor shorewood wi",
     "slug": "chiropractor-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-shorewood-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon shorewood wi",
     "slug": "hair-salon-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-shorewood-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -600,7 +600,7 @@
    {
     "keyword": "financial advisor shorewood wi",
     "slug": "financial-advisor-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-shorewood-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -615,7 +615,7 @@
    {
     "keyword": "attorney shorewood wi",
     "slug": "attorney-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-shorewood-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -630,7 +630,7 @@
    {
     "keyword": "real estate agent shorewood wi",
     "slug": "real-estate-agent-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-shorewood-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -645,7 +645,7 @@
    {
     "keyword": "nail salon shorewood wi",
     "slug": "nail-salon-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-shorewood-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -660,7 +660,7 @@
    {
     "keyword": "lawyer shorewood wi",
     "slug": "lawyer-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-shorewood-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -675,7 +675,7 @@
    {
     "keyword": "barber shop shorewood wi",
     "slug": "barber-shop-shorewood-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-shorewood-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-shorewood-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,

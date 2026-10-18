@@ -2,7 +2,7 @@
  "title": "Keyword market data: Texas City, TX",
  "description": "Top Texas City, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Texas City, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash texas city tx",
     "slug": "car-wash-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-texas-city-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist texas city tx",
     "slug": "dentist-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-texas-city-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym texas city tx",
     "slug": "gym-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-texas-city-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -56,7 +56,7 @@
    {
     "keyword": "tire shop texas city tx",
     "slug": "tire-shop-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-texas-city-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -71,7 +71,7 @@
    {
     "keyword": "real estate agent texas city tx",
     "slug": "real-estate-agent-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-texas-city-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -86,7 +86,7 @@
    {
     "keyword": "insurance agency texas city tx",
     "slug": "insurance-agency-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-texas-city-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -101,7 +101,7 @@
    {
     "keyword": "realtor texas city tx",
     "slug": "realtor-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-texas-city-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agents texas city tx",
     "slug": "insurance-agents-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-texas-city-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agent texas city tx",
     "slug": "insurance-agent-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-texas-city-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -148,7 +148,7 @@
    {
     "keyword": "storage units texas city tx",
     "slug": "storage-units-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-texas-city-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -163,7 +163,7 @@
    {
     "keyword": "dentist texas city tx",
     "slug": "dentist-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-texas-city-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -178,7 +178,7 @@
    {
     "keyword": "car wash texas city tx",
     "slug": "car-wash-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-texas-city-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -193,7 +193,7 @@
    {
     "keyword": "tire shop texas city tx",
     "slug": "tire-shop-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-texas-city-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -208,7 +208,7 @@
    {
     "keyword": "gift shop texas city tx",
     "slug": "gift-shop-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-texas-city-tx/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 420,
@@ -223,7 +223,7 @@
    {
     "keyword": "jewelry store texas city tx",
     "slug": "jewelry-store-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-texas-city-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -238,7 +238,7 @@
    {
     "keyword": "thrift store texas city tx",
     "slug": "thrift-store-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-texas-city-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -253,7 +253,7 @@
    {
     "keyword": "realtor texas city tx",
     "slug": "realtor-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-texas-city-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -268,7 +268,7 @@
    {
     "keyword": "real estate agent texas city tx",
     "slug": "real-estate-agent-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-texas-city-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -283,7 +283,7 @@
    {
     "keyword": "funeral home texas city tx",
     "slug": "funeral-home-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-texas-city-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -298,7 +298,7 @@
    {
     "keyword": "insurance agency texas city tx",
     "slug": "insurance-agency-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-texas-city-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -313,7 +313,7 @@
    {
     "keyword": "insurance agent texas city tx",
     "slug": "insurance-agent-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-texas-city-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -328,7 +328,7 @@
    {
     "keyword": "insurance agents texas city tx",
     "slug": "insurance-agents-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-texas-city-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -343,7 +343,7 @@
    {
     "keyword": "gym texas city tx",
     "slug": "gym-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-texas-city-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -360,7 +360,7 @@
    {
     "keyword": "dentist texas city tx",
     "slug": "dentist-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-texas-city-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -375,7 +375,7 @@
    {
     "keyword": "car wash texas city tx",
     "slug": "car-wash-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-texas-city-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -390,7 +390,7 @@
    {
     "keyword": "gym texas city tx",
     "slug": "gym-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-texas-city-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -405,7 +405,7 @@
    {
     "keyword": "tire shop texas city tx",
     "slug": "tire-shop-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-texas-city-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -420,7 +420,7 @@
    {
     "keyword": "real estate agent texas city tx",
     "slug": "real-estate-agent-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-texas-city-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -435,7 +435,7 @@
    {
     "keyword": "realtor texas city tx",
     "slug": "realtor-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-texas-city-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -450,7 +450,7 @@
    {
     "keyword": "insurance agency texas city tx",
     "slug": "insurance-agency-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-texas-city-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -465,7 +465,7 @@
    {
     "keyword": "insurance agents texas city tx",
     "slug": "insurance-agents-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-texas-city-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -480,7 +480,7 @@
    {
     "keyword": "insurance agent texas city tx",
     "slug": "insurance-agent-texas-city-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-texas-city-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-texas-city-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,

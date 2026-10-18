@@ -13,12 +13,12 @@ Fix Your Kicks is a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Ch
 - Website: https://fixyourkickschi.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.6/100 — Good — top 12% of shoe repairs in Chicago, #1 of 7 shoe repairs in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 64.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 12% of shoe repairs in Chicago, #1 of 7 shoe repairs in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 64.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fix-your-kicks-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fix-your-kicks-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fix-your-kicks-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fix-your-kicks-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13689035157 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

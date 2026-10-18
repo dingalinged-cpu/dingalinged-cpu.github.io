@@ -13,12 +13,12 @@ Gold's Gym is a gym in Milwaukee, WI at 731 North Water Street, Milwaukee, WI 53
 - Website: https://www.goldsgym.com/milwaukeewi
 - Email: questions@goldsgymmilwaukee.net
 - Opening hours (OSM syntax): Mo-Th 04:30-23:00; Fr 04:30-21:00; Sa-Su 07:00-19:00
-- Pulse Score: 49.2/100 — Building — top 57% of gyms in Milwaukee, #22 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 57% of gyms in Milwaukee, #22 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/golds-gym-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/golds-gym-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/golds-gym-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/golds-gym-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1239454822 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Town Of Burke, WI",
  "description": "Top Town Of Burke, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Town Of Burke, WI",
  "geography": "Madison, WI metro",
  "keywords": 5,
@@ -11,7 +11,7 @@
    {
     "keyword": "mechanic town of burke wi",
     "slug": "mechanic-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-town-of-burke-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -26,7 +26,7 @@
    {
     "keyword": "vet town of burke wi",
     "slug": "vet-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-town-of-burke-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -41,7 +41,7 @@
    {
     "keyword": "auto repair town of burke wi",
     "slug": "auto-repair-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-town-of-burke-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -56,7 +56,7 @@
    {
     "keyword": "dog boarding town of burke wi",
     "slug": "dog-boarding-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-town-of-burke-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -73,7 +73,7 @@
    {
     "keyword": "storage units town of burke wi",
     "slug": "storage-units-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-town-of-burke-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -88,7 +88,7 @@
    {
     "keyword": "auto repair town of burke wi",
     "slug": "auto-repair-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-town-of-burke-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -103,7 +103,7 @@
    {
     "keyword": "mechanic town of burke wi",
     "slug": "mechanic-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-town-of-burke-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -118,7 +118,7 @@
    {
     "keyword": "dog boarding town of burke wi",
     "slug": "dog-boarding-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-town-of-burke-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -133,7 +133,7 @@
    {
     "keyword": "vet town of burke wi",
     "slug": "vet-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-town-of-burke-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -150,7 +150,7 @@
    {
     "keyword": "mechanic town of burke wi",
     "slug": "mechanic-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-town-of-burke-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -165,7 +165,7 @@
    {
     "keyword": "vet town of burke wi",
     "slug": "vet-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-town-of-burke-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -180,7 +180,7 @@
    {
     "keyword": "auto repair town of burke wi",
     "slug": "auto-repair-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-town-of-burke-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -195,7 +195,7 @@
    {
     "keyword": "dog boarding town of burke wi",
     "slug": "dog-boarding-town-of-burke-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-town-of-burke-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-town-of-burke-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,

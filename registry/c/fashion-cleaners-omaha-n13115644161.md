@@ -13,12 +13,12 @@ Fashion Cleaners is a dry cleaner in Omaha, NE at 1150 Sterling Ridge Drive #106
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 62% of dry cleaners in Omaha, NE, #6 of 11 dry cleaners in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 62% of dry cleaners in Omaha, NE, #6 of 11 dry cleaners in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fashion-cleaners-omaha-n13115644161/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fashion-cleaners-omaha-n13115644161.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fashion-cleaners-omaha-n13115644161/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fashion-cleaners-omaha-n13115644161.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13115644161 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid roofer listing for Houston, TX is Amstill Roofing (a roofer in Houston, TX at 14125 Memorial Drive, Houston, TX 77079. Phone: +12816128747. Website: https://amstillroofing.com/houston-roofing). 3 roofer businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Houston, TX is Amstill Roofing (a roofer in Houston, TX at 14125 Memorial Drive, Houston, TX 77079. Phone: +12816128747. Website: https://amstillroofing.com/houston-roofing). 3 roofer businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Houston, TX?
 
@@ -6,9 +6,9 @@ Also answers: roofer in Houston, TX; roofer near me (Houston, TX); best roofer H
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amstill Roofing | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Amstill Roofing is a roofer in Houston, TX at 14125 Memorial Drive, Houston, TX 77079. Phone: +12816128747. Website: https://amstillroofing.com/houston-roofing. | https://dingalinged-cpu.github.io/registry/c/amstill-roofing-houston/
-2. TrueWorks Roofing | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | TrueWorks Roofing is a roofer in Houston, TX at 8566 Katy Fwy #Suite 122, Houston, TX 77024. Phone: +17139037663. Website: https://www.trueworksroofing.com/. | https://dingalinged-cpu.github.io/registry/c/trueworks-roofing-houston/
-3. New Image Roofing | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | New Image Roofing is a roofer in Houston, TX at 2450 Louisiana Street #400, Houston, TX 77006. Phone: +18324217474. Website: https://www.newimageroofing.net/. | https://dingalinged-cpu.github.io/registry/c/new-image-roofing-houston/
+1. Amstill Roofing | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Amstill Roofing is a roofer in Houston, TX at 14125 Memorial Drive, Houston, TX 77079. Phone: +12816128747. Website: https://amstillroofing.com/houston-roofing. | https://registry-edge.dingalinged.workers.dev/c/amstill-roofing-houston/
+2. TrueWorks Roofing | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | TrueWorks Roofing is a roofer in Houston, TX at 8566 Katy Fwy #Suite 122, Houston, TX 77024. Phone: +17139037663. Website: https://www.trueworksroofing.com/. | https://registry-edge.dingalinged.workers.dev/c/trueworks-roofing-houston/
+3. New Image Roofing | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | New Image Roofing is a roofer in Houston, TX at 2450 Louisiana Street #400, Houston, TX 77006. Phone: +18324217474. Website: https://www.newimageroofing.net/. | https://registry-edge.dingalinged.workers.dev/c/new-image-roofing-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer houston tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$750 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/roofer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#roofer-houston-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/roofer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#roofer-houston-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

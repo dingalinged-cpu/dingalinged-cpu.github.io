@@ -13,12 +13,12 @@ Haven Beauty Collective is a nail salon in Minnetonka, MN at 14729 Excelsior Bou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 39% of nail salons in Minneapolis–St. Paul, #2 of 4 nail salons in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 39% of nail salons in Minneapolis–St. Paul, #2 of 4 nail salons in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/haven-beauty-collective-minnetonka/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/haven-beauty-collective-minnetonka.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/haven-beauty-collective-minnetonka/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/haven-beauty-collective-minnetonka.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12710480524 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

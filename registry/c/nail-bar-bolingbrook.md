@@ -13,12 +13,12 @@ Nail Bar is a nail salon in Bolingbrook, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 74% of nail salons in Chicago, #2 of 2 nail salons in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 74% of nail salons in Chicago, #2 of 2 nail salons in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/nail-bar-bolingbrook/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nail-bar-bolingbrook.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nail-bar-bolingbrook/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nail-bar-bolingbrook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8203576118 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

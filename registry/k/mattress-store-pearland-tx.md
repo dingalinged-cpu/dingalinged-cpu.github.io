@@ -1,4 +1,4 @@
-The top unpaid mattress store listing for Pearland, TX is Mattress One (a mattress store in Pearland, TX at 11200 West Broadway Street #630, Pearland, TX). 4 mattress store businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Pearland, TX is Mattress One (a mattress store in Pearland, TX at 11200 West Broadway Street #630, Pearland, TX). 4 mattress store businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Pearland, TX?
 
@@ -6,10 +6,10 @@ Also answers: mattress store in Pearland, TX; mattress store near me (Pearland, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress One | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Mattress One is a mattress store in Pearland, TX at 11200 West Broadway Street #630, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-one-pearland/
-2. Mattress Firm | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Mattress Firm is a mattress store in Pearland, TX at 2680 Pearland Parkway #150, Pearland, TX 77581. Phone: +12814124143. Website: https://www.mattressfirm.com/en-us/stores/tx/pearland/001148/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-pearland/
-3. REST & RELAX by Mattress Firm | Organic #3 | Pulse Score 47.2/100 (Building, #3 in city) | REST & RELAX by Mattress Firm is a mattress store in Pearland, TX at 10645 West Broadway Street #109, Pearland, TX 77584. Phone: +17134365522. Website: https://www.mattressfirm.com/en-us/stores/tx/pearland/001038/. | https://dingalinged-cpu.github.io/registry/c/rest-and-relax-by-mattress-firm-pearland/
-4. Sleep Number | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Sleep Number is a mattress store in Pearland, TX at 3609 Business Center Drive #132, Pearland, TX 77584. | https://dingalinged-cpu.github.io/registry/c/sleep-number-pearland/
+1. Mattress One | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Mattress One is a mattress store in Pearland, TX at 11200 West Broadway Street #630, Pearland, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-one-pearland/
+2. Mattress Firm | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Mattress Firm is a mattress store in Pearland, TX at 2680 Pearland Parkway #150, Pearland, TX 77581. Phone: +12814124143. Website: https://www.mattressfirm.com/en-us/stores/tx/pearland/001148/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-pearland/
+3. REST & RELAX by Mattress Firm | Organic #3 | Pulse Score 47.2/100 (Building, #3 in city) | REST & RELAX by Mattress Firm is a mattress store in Pearland, TX at 10645 West Broadway Street #109, Pearland, TX 77584. Phone: +17134365522. Website: https://www.mattressfirm.com/en-us/stores/tx/pearland/001038/. | https://registry-edge.dingalinged.workers.dev/c/rest-and-relax-by-mattress-firm-pearland/
+4. Sleep Number | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Sleep Number is a mattress store in Pearland, TX at 3609 Business Center Drive #132, Pearland, TX 77584. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store pearland tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mattress-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mattress-store-pearland-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mattress-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mattress-store-pearland-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

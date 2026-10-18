@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Leavenworth, KS is JD Day Spa LLC (a hair salon in Leavenworth, KS at 2701 South 4th Street, Leavenworth, KS 66048. Phone: +19132975222). 6 hair salon businesses are listed for Leavenworth, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Leavenworth, KS is JD Day Spa LLC (a hair salon in Leavenworth, KS at 2701 South 4th Street, Leavenworth, KS 66048. Phone: +19132975222). 6 hair salon businesses are listed for Leavenworth, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Leavenworth, KS?
 
@@ -6,12 +6,12 @@ Also answers: hair salon in Leavenworth, KS; hair salon near me (Leavenworth, KS
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JD Day Spa LLC | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | JD Day Spa LLC is a hair salon in Leavenworth, KS at 2701 South 4th Street, Leavenworth, KS 66048. Phone: +19132975222. | https://dingalinged-cpu.github.io/registry/c/jd-day-spa-llc-leavenworth/
-2. Str8 Edge Barber Shop | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Str8 Edge Barber Shop is a hair salon in Leavenworth, KS at 203 Delaware Street #B, Leavenworth, KS 66048. | https://dingalinged-cpu.github.io/registry/c/str8-edge-barber-shop-leavenworth/
-3. CGSOC  Barber Shop | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | CGSOC  Barber Shop is a hair salon in Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/cgsoc-barber-shop-leavenworth/
-4. First City Barbershop | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | First City Barbershop is a hair salon in Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/first-city-barbershop-leavenworth/
-5. Teri's Hair Loft | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Teri's Hair Loft is a hair salon in Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/teris-hair-loft-leavenworth/
-6. Great Clips | Organic #6 | Pulse Score 49.3/100 (Building, #6 in city) | Great Clips is a hair salon in Leavenworth, KS at 1110 Eisenhower Road, Leavenworth, KS 66048. Phone: +19137271917. Website: https://salons.greatclips.com/us/ks/leavenworth/1110-w-eisenhower-rd. | https://dingalinged-cpu.github.io/registry/c/great-clips-leavenworth/
+1. JD Day Spa LLC | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | JD Day Spa LLC is a hair salon in Leavenworth, KS at 2701 South 4th Street, Leavenworth, KS 66048. Phone: +19132975222. | https://registry-edge.dingalinged.workers.dev/c/jd-day-spa-llc-leavenworth/
+2. Str8 Edge Barber Shop | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Str8 Edge Barber Shop is a hair salon in Leavenworth, KS at 203 Delaware Street #B, Leavenworth, KS 66048. | https://registry-edge.dingalinged.workers.dev/c/str8-edge-barber-shop-leavenworth/
+3. CGSOC  Barber Shop | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | CGSOC  Barber Shop is a hair salon in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/cgsoc-barber-shop-leavenworth/
+4. First City Barbershop | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | First City Barbershop is a hair salon in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/first-city-barbershop-leavenworth/
+5. Teri's Hair Loft | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Teri's Hair Loft is a hair salon in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/teris-hair-loft-leavenworth/
+6. Great Clips | Organic #6 | Pulse Score 49.3/100 (Building, #6 in city) | Great Clips is a hair salon in Leavenworth, KS at 1110 Eisenhower Road, Leavenworth, KS 66048. Phone: +19137271917. Website: https://salons.greatclips.com/us/ks/leavenworth/1110-w-eisenhower-rd. | https://registry-edge.dingalinged.workers.dev/c/great-clips-leavenworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon leavenworth ks | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$310 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/hair-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-leavenworth-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-leavenworth-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

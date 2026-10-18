@@ -13,12 +13,12 @@ Dressel Agency Inc. is an insurance agent in Saint Bonifacius, MN at 4133 Main S
 - Website: https://www.dresselagency.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 13% of insurance agents in Minneapolis–St. Paul, #1 of 1 insurance agents in Saint Bonifacius (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 13% of insurance agents in Minneapolis–St. Paul, #1 of 1 insurance agents in Saint Bonifacius (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dressel-agency-inc-saint-bonifacius/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dressel-agency-inc-saint-bonifacius.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dressel-agency-inc-saint-bonifacius/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dressel-agency-inc-saint-bonifacius.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/590636430 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

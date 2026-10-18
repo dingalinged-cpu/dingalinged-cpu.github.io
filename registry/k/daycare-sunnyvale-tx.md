@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Sunnyvale, TX is Little Ponderosa Child Care (a daycare in Sunnyvale, TX at 3131 North Belt Line Road, Sunnyvale, TX 75182). 3 daycare businesses are listed for Sunnyvale, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Sunnyvale, TX is Little Ponderosa Child Care (a daycare in Sunnyvale, TX at 3131 North Belt Line Road, Sunnyvale, TX 75182). 3 daycare businesses are listed for Sunnyvale, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Sunnyvale, TX?
 
@@ -6,9 +6,9 @@ Also answers: daycare in Sunnyvale, TX; daycare near me (Sunnyvale, TX); best da
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Ponderosa Child Care | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Little Ponderosa Child Care is a daycare in Sunnyvale, TX at 3131 North Belt Line Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/little-ponderosa-child-care-sunnyvale/
-2. Eden's Play Cafe | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Eden's Play Cafe is a daycare in Sunnyvale, TX at 400 South Paschal Road #200, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/edens-play-cafe-sunnyvale/
-3. Handprints Academy | Organic #3 | Pulse Score 45.3/100 (Unrated, #3 in city) | Handprints Academy is a daycare in Sunnyvale, TX at 2763 North Belt Line Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/handprints-academy-sunnyvale/
+1. Little Ponderosa Child Care | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Little Ponderosa Child Care is a daycare in Sunnyvale, TX at 3131 North Belt Line Road, Sunnyvale, TX 75182. | https://registry-edge.dingalinged.workers.dev/c/little-ponderosa-child-care-sunnyvale/
+2. Eden's Play Cafe | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Eden's Play Cafe is a daycare in Sunnyvale, TX at 400 South Paschal Road #200, Sunnyvale, TX 75182. | https://registry-edge.dingalinged.workers.dev/c/edens-play-cafe-sunnyvale/
+3. Handprints Academy | Organic #3 | Pulse Score 45.3/100 (Unrated, #3 in city) | Handprints Academy is a daycare in Sunnyvale, TX at 2763 North Belt Line Road, Sunnyvale, TX 75182. | https://registry-edge.dingalinged.workers.dev/c/handprints-academy-sunnyvale/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare sunnyvale tx | category: Education & childcare | industry benchmark: Education & Instruction
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare-sunnyvale-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/daycare.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#daycare-sunnyvale-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

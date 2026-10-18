@@ -2,7 +2,7 @@
  "title": "Keyword market data: Coweta County, GA",
  "description": "Top Coweta County, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Coweta County, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 17,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist coweta county ga",
     "slug": "dentist-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-coweta-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon coweta county ga",
     "slug": "hair-salon-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-coweta-county-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -41,7 +41,7 @@
    {
     "keyword": "nail salon coweta county ga",
     "slug": "nail-salon-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-coweta-county-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic coweta county ga",
     "slug": "mechanic-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-coweta-county-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut coweta county ga",
     "slug": "haircut-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-coweta-county-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair coweta county ga",
     "slug": "auto-repair-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-coweta-county-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -101,7 +101,7 @@
    {
     "keyword": "financial advisor coweta county ga",
     "slug": "financial-advisor-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-coweta-county-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -116,7 +116,7 @@
    {
     "keyword": "real estate agent coweta county ga",
     "slug": "real-estate-agent-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-coweta-county-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -131,7 +131,7 @@
    {
     "keyword": "realtor coweta county ga",
     "slug": "realtor-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-coweta-county-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -148,7 +148,7 @@
    {
     "keyword": "bakery coweta county ga",
     "slug": "bakery-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-coweta-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -163,7 +163,7 @@
    {
     "keyword": "eye doctor coweta county ga",
     "slug": "eye-doctor-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-coweta-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -178,7 +178,7 @@
    {
     "keyword": "dentist coweta county ga",
     "slug": "dentist-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-coweta-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -193,7 +193,7 @@
    {
     "keyword": "haircut coweta county ga",
     "slug": "haircut-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-coweta-county-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -208,7 +208,7 @@
    {
     "keyword": "tanning salon coweta county ga",
     "slug": "tanning-salon-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon-coweta-county-ga/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 570,
@@ -223,7 +223,7 @@
    {
     "keyword": "auto repair coweta county ga",
     "slug": "auto-repair-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-coweta-county-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -238,7 +238,7 @@
    {
     "keyword": "mechanic coweta county ga",
     "slug": "mechanic-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-coweta-county-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -253,7 +253,7 @@
    {
     "keyword": "liquor store coweta county ga",
     "slug": "liquor-store-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-coweta-county-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -268,7 +268,7 @@
    {
     "keyword": "pet store coweta county ga",
     "slug": "pet-store-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-coweta-county-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -283,7 +283,7 @@
    {
     "keyword": "thrift store coweta county ga",
     "slug": "thrift-store-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-coweta-county-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -298,7 +298,7 @@
    {
     "keyword": "realtor coweta county ga",
     "slug": "realtor-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-coweta-county-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -313,7 +313,7 @@
    {
     "keyword": "real estate agent coweta county ga",
     "slug": "real-estate-agent-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-coweta-county-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -328,7 +328,7 @@
    {
     "keyword": "financial advisor coweta county ga",
     "slug": "financial-advisor-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-coweta-county-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -343,7 +343,7 @@
    {
     "keyword": "property management company coweta county ga",
     "slug": "property-management-company-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/property-management-company-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/property-management-company-coweta-county-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -358,7 +358,7 @@
    {
     "keyword": "property management companies coweta county ga",
     "slug": "property-management-companies-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/property-management-companies-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/property-management-companies-coweta-county-ga/",
     "us_monthly_searches": 22000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 420,
@@ -375,7 +375,7 @@
    {
     "keyword": "dentist coweta county ga",
     "slug": "dentist-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-coweta-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -390,7 +390,7 @@
    {
     "keyword": "mechanic coweta county ga",
     "slug": "mechanic-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-coweta-county-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -405,7 +405,7 @@
    {
     "keyword": "haircut coweta county ga",
     "slug": "haircut-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-coweta-county-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -420,7 +420,7 @@
    {
     "keyword": "auto repair coweta county ga",
     "slug": "auto-repair-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-coweta-county-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -435,7 +435,7 @@
    {
     "keyword": "financial advisor coweta county ga",
     "slug": "financial-advisor-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-coweta-county-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -450,7 +450,7 @@
    {
     "keyword": "hair salon coweta county ga",
     "slug": "hair-salon-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-coweta-county-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -465,7 +465,7 @@
    {
     "keyword": "real estate agent coweta county ga",
     "slug": "real-estate-agent-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-coweta-county-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -480,7 +480,7 @@
    {
     "keyword": "nail salon coweta county ga",
     "slug": "nail-salon-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-coweta-county-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -495,7 +495,7 @@
    {
     "keyword": "realtor coweta county ga",
     "slug": "realtor-coweta-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-coweta-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-coweta-county-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,

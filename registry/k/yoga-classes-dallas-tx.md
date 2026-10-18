@@ -1,4 +1,4 @@
-The top unpaid yoga classes listing for Dallas, TX is Movement Design District (a yoga studio in Dallas, TX at 141 Glass Street, Dallas, TX 75207. Website: https://movementgyms.com/design-district/). 11 yoga classes businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Dallas, TX is Movement Design District (a yoga studio in Dallas, TX at 141 Glass Street, Dallas, TX 75207. Website: https://movementgyms.com/design-district/). 11 yoga classes businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Dallas, TX?
 
@@ -6,17 +6,17 @@ Also answers: yoga classes in Dallas, TX; yoga classes near me (Dallas, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Movement Design District | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Movement Design District is a yoga studio in Dallas, TX at 141 Glass Street, Dallas, TX 75207. Website: https://movementgyms.com/design-district/. | https://dingalinged-cpu.github.io/registry/c/movement-design-district-dallas/
-2. Movement The Hill | Organic #2 | Pulse Score 62.3/100 (Good, #2 in city) | Movement The Hill is a yoga studio in Dallas, TX at 8021 Walnut Hill Lane, Dallas, TX 75231. Website: https://movementgyms.com/the-hill/. | https://dingalinged-cpu.github.io/registry/c/movement-the-hill-dallas/
-3. Haven | Organic #3 | Pulse Score 61.8/100 (Unrated, #3 in city) | Haven is a yoga studio in Dallas, TX at 6465 East Mockingbird Lane #362, Dallas, TX. Phone: +12146132025. Website: https://havendallas.com/. | https://dingalinged-cpu.github.io/registry/c/haven-dallas/
-4. Second Side Yoga | Organic #4 | Pulse Score 59.8/100 (Unrated, #4 in city) | Second Side Yoga is a yoga studio in Dallas, TX at 4333 Belmont Avenue, Dallas, TX 75204. Website: https://www.secondsideyoga.com/. | https://dingalinged-cpu.github.io/registry/c/second-side-yoga-dallas/
-5. The Mat Yoga | Organic #5 | Pulse Score 56/100 (Unrated, #5 in city) | The Mat Yoga is a yoga studio in Dallas, TX at 18484 Preston Road #201, Dallas, TX 75252. | https://dingalinged-cpu.github.io/registry/c/the-mat-yoga-dallas/
-6. The Mat Yoga | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | The Mat Yoga is a yoga studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/the-mat-yoga-dallas-n12004767767/
-7. CorePower Yoga | Organic #7 | Pulse Score 46.3/100 (Building, #7 in city) | CorePower Yoga is a yoga studio in Dallas, TX at 1907 North Henderson Avenue, Dallas, TX. Phone: +18334482561. Website: https://www.corepoweryoga.com/yoga-studios/tx/dallas/henderson. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-dallas-w463900508/
-8. Spenga | Organic #8 | Pulse Score 42.9/100 (Building, #8 in city) | Spenga is a yoga studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/spenga-dallas/
-9. Yoga Six | Organic #9 | Pulse Score 42.5/100 (Building, #9 in city) | Yoga Six is a yoga studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/yoga-six-dallas/
-10. CorePower Yoga | Organic #10 | Pulse Score 42/100 (Building, #10 in city) | CorePower Yoga is a yoga studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-dallas/
-11. CorePower Yoga | Organic #11 | Pulse Score 42/100 (Building, #11 in city) | CorePower Yoga is a yoga studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-dallas-n13287630700/
+1. Movement Design District | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Movement Design District is a yoga studio in Dallas, TX at 141 Glass Street, Dallas, TX 75207. Website: https://movementgyms.com/design-district/. | https://registry-edge.dingalinged.workers.dev/c/movement-design-district-dallas/
+2. Movement The Hill | Organic #2 | Pulse Score 62.3/100 (Good, #2 in city) | Movement The Hill is a yoga studio in Dallas, TX at 8021 Walnut Hill Lane, Dallas, TX 75231. Website: https://movementgyms.com/the-hill/. | https://registry-edge.dingalinged.workers.dev/c/movement-the-hill-dallas/
+3. Haven | Organic #3 | Pulse Score 61.8/100 (Unrated, #3 in city) | Haven is a yoga studio in Dallas, TX at 6465 East Mockingbird Lane #362, Dallas, TX. Phone: +12146132025. Website: https://havendallas.com/. | https://registry-edge.dingalinged.workers.dev/c/haven-dallas/
+4. Second Side Yoga | Organic #4 | Pulse Score 59.8/100 (Unrated, #4 in city) | Second Side Yoga is a yoga studio in Dallas, TX at 4333 Belmont Avenue, Dallas, TX 75204. Website: https://www.secondsideyoga.com/. | https://registry-edge.dingalinged.workers.dev/c/second-side-yoga-dallas/
+5. The Mat Yoga | Organic #5 | Pulse Score 56/100 (Unrated, #5 in city) | The Mat Yoga is a yoga studio in Dallas, TX at 18484 Preston Road #201, Dallas, TX 75252. | https://registry-edge.dingalinged.workers.dev/c/the-mat-yoga-dallas/
+6. The Mat Yoga | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | The Mat Yoga is a yoga studio in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/the-mat-yoga-dallas-n12004767767/
+7. CorePower Yoga | Organic #7 | Pulse Score 46.3/100 (Building, #7 in city) | CorePower Yoga is a yoga studio in Dallas, TX at 1907 North Henderson Avenue, Dallas, TX. Phone: +18334482561. Website: https://www.corepoweryoga.com/yoga-studios/tx/dallas/henderson. | https://registry-edge.dingalinged.workers.dev/c/corepower-yoga-dallas-w463900508/
+8. Spenga | Organic #8 | Pulse Score 42.9/100 (Building, #8 in city) | Spenga is a yoga studio in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/spenga-dallas/
+9. Yoga Six | Organic #9 | Pulse Score 42.5/100 (Building, #9 in city) | Yoga Six is a yoga studio in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/yoga-six-dallas/
+10. CorePower Yoga | Organic #10 | Pulse Score 42/100 (Building, #10 in city) | CorePower Yoga is a yoga studio in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/corepower-yoga-dallas/
+11. CorePower Yoga | Organic #11 | Pulse Score 42/100 (Building, #11 in city) | CorePower Yoga is a yoga studio in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/corepower-yoga-dallas-n13287630700/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes dallas tx | category: Fitness | industry benchmark: Health & Fitness
@@ -30,6 +30,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$230 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/yoga-classes.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#yoga-classes-dallas-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/yoga-classes.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#yoga-classes-dallas-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

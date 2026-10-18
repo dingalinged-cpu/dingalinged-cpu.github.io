@@ -13,12 +13,12 @@ Emergency Dentist Kennesaw is a dentist in Kennesaw, GA at 205 Hawkins Store Roa
 - Website: https://emergencydentistkennesaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th off; Tu-We 08:00-17:00; Fr-Sa 00:00-24:00; Su 12:00-18:00
-- Pulse Score: 63.8/100 — Good — top 5% of dentists in Atlanta, #1 of 11 dentists in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 5% of dentists in Atlanta, #1 of 11 dentists in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/emergency-dentist-kennesaw-kennesaw/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/emergency-dentist-kennesaw-kennesaw.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/emergency-dentist-kennesaw-kennesaw/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/emergency-dentist-kennesaw-kennesaw.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/360091149 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

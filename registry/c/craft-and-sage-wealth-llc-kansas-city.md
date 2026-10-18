@@ -13,12 +13,12 @@ Craft and Sage Wealth, LLC is a financial advisor in Kansas City, MO at 1535 Wal
 - Website: https://www.craftandsage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 15% of financial advisors in Kansas City, MO, #2 of 5 financial advisors in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 15% of financial advisors in Kansas City, MO, #2 of 5 financial advisors in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/craft-and-sage-wealth-llc-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/craft-and-sage-wealth-llc-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/craft-and-sage-wealth-llc-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/craft-and-sage-wealth-llc-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12379437812 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

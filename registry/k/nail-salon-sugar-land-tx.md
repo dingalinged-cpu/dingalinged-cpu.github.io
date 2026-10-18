@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Sugar Land, TX is Nails by Yen (a nail salon in Sugar Land, TX at 3133 State Highway 6 South, Sugar Land, TX. Phone: +12812656118. Website: https://www.nailsbyyentx.com/). 10 nail salon businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Sugar Land, TX is Nails by Yen (a nail salon in Sugar Land, TX at 3133 State Highway 6 South, Sugar Land, TX. Phone: +12812656118. Website: https://www.nailsbyyentx.com/). 10 nail salon businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Sugar Land, TX?
 
@@ -6,16 +6,16 @@ Also answers: nail salon in Sugar Land, TX; nail salon near me (Sugar Land, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nails by Yen | Organic #1 | Pulse Score 64.7/100 (Good, #1 in city) | Nails by Yen is a nail salon in Sugar Land, TX at 3133 State Highway 6 South, Sugar Land, TX. Phone: +12812656118. Website: https://www.nailsbyyentx.com/. | https://dingalinged-cpu.github.io/registry/c/nails-by-yen-sugar-land/
-2. Beauty Envy Nails & Spa | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Beauty Envy Nails & Spa is a nail salon in Sugar Land, TX at 16535 Lexington Boulevard #140, Sugar Land, TX 77479. | https://dingalinged-cpu.github.io/registry/c/beauty-envy-nails-and-spa-sugar-land/
-3. T&T Nails & Spa | Organic #3 | Pulse Score 62.1/100 (Unrated, #3 in city) | T&T Nails & Spa is a nail salon in Sugar Land, TX at 4504 State Highway 6 South #E, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/t-and-t-nails-and-spa-sugar-land/
-4. Executive Nail & Spa | Organic #4 | Pulse Score 59.2/100 (Unrated, #4 in city) | Executive Nail & Spa is a nail salon in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/executive-nail-and-spa-sugar-land/
-5. Nail Nest | Organic #5 | Pulse Score 59.2/100 (Unrated, #5 in city) | Nail Nest is a nail salon in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/nail-nest-sugar-land/
-6. Nails by Lily | Organic #6 | Pulse Score 59.2/100 (Unrated, #6 in city) | Nails by Lily is a nail salon in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/nails-by-lily-sugar-land/
-7. Royale Retreat Nails Spa | Organic #7 | Pulse Score 58.1/100 (Unrated, #7 in city) | Royale Retreat Nails Spa is a nail salon in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/royale-retreat-nails-spa-sugar-land/
-8. Venus Nails Palace | Organic #8 | Pulse Score 57.5/100 (Unrated, #8 in city) | Venus Nails Palace is a nail salon in Sugar Land, TX at 18721 University Boulevard, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/venus-nails-palace-sugar-land/
-9. Heiress Nail Makeup Salon | Organic #9 | Pulse Score 55.1/100 (Unrated, #9 in city) | Heiress Nail Makeup Salon is a nail salon in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/heiress-nail-makeup-salon-sugar-land/
-10. Venetian Nail Spa | Organic #10 | Pulse Score 50.9/100 (Fair, #10 in city) | Venetian Nail Spa is a nail salon in Sugar Land, TX at 13513 University Boulevard #600, Sugar Land, TX 77479. Phone: +12819428888. Website: https://venetiansalon.com/university-commons/. | https://dingalinged-cpu.github.io/registry/c/venetian-nail-spa-sugar-land/
+1. Nails by Yen | Organic #1 | Pulse Score 64.7/100 (Good, #1 in city) | Nails by Yen is a nail salon in Sugar Land, TX at 3133 State Highway 6 South, Sugar Land, TX. Phone: +12812656118. Website: https://www.nailsbyyentx.com/. | https://registry-edge.dingalinged.workers.dev/c/nails-by-yen-sugar-land/
+2. Beauty Envy Nails & Spa | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Beauty Envy Nails & Spa is a nail salon in Sugar Land, TX at 16535 Lexington Boulevard #140, Sugar Land, TX 77479. | https://registry-edge.dingalinged.workers.dev/c/beauty-envy-nails-and-spa-sugar-land/
+3. T&T Nails & Spa | Organic #3 | Pulse Score 62.1/100 (Unrated, #3 in city) | T&T Nails & Spa is a nail salon in Sugar Land, TX at 4504 State Highway 6 South #E, Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/t-and-t-nails-and-spa-sugar-land/
+4. Executive Nail & Spa | Organic #4 | Pulse Score 59.2/100 (Unrated, #4 in city) | Executive Nail & Spa is a nail salon in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/executive-nail-and-spa-sugar-land/
+5. Nail Nest | Organic #5 | Pulse Score 59.2/100 (Unrated, #5 in city) | Nail Nest is a nail salon in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/nail-nest-sugar-land/
+6. Nails by Lily | Organic #6 | Pulse Score 59.2/100 (Unrated, #6 in city) | Nails by Lily is a nail salon in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/nails-by-lily-sugar-land/
+7. Royale Retreat Nails Spa | Organic #7 | Pulse Score 58.1/100 (Unrated, #7 in city) | Royale Retreat Nails Spa is a nail salon in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/royale-retreat-nails-spa-sugar-land/
+8. Venus Nails Palace | Organic #8 | Pulse Score 57.5/100 (Unrated, #8 in city) | Venus Nails Palace is a nail salon in Sugar Land, TX at 18721 University Boulevard, Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/venus-nails-palace-sugar-land/
+9. Heiress Nail Makeup Salon | Organic #9 | Pulse Score 55.1/100 (Unrated, #9 in city) | Heiress Nail Makeup Salon is a nail salon in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/heiress-nail-makeup-salon-sugar-land/
+10. Venetian Nail Spa | Organic #10 | Pulse Score 50.9/100 (Fair, #10 in city) | Venetian Nail Spa is a nail salon in Sugar Land, TX at 13513 University Boulevard #600, Sugar Land, TX 77479. Phone: +12819428888. Website: https://venetiansalon.com/university-commons/. | https://registry-edge.dingalinged.workers.dev/c/venetian-nail-spa-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon sugar land tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -29,6 +29,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-sugar-land-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-sugar-land-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

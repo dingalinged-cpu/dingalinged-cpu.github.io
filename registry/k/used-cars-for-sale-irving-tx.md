@@ -1,4 +1,4 @@
-The top unpaid used cars for sale listing for Irving, TX is CarMax (an used car dealer in Irving, TX at 3100 Spur 482, Irving, TX 75062. Website: https://www.carmax.com/stores/7115). 3 used cars for sale businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Irving, TX is CarMax (an used car dealer in Irving, TX at 3100 Spur 482, Irving, TX 75062. Website: https://www.carmax.com/stores/7115). 3 used cars for sale businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Irving, TX?
 
@@ -6,9 +6,9 @@ Also answers: used cars for sale in Irving, TX; used cars for sale near me (Irvi
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CarMax | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | CarMax is an used car dealer in Irving, TX at 3100 Spur 482, Irving, TX 75062. Website: https://www.carmax.com/stores/7115. | https://dingalinged-cpu.github.io/registry/c/carmax-irving/
-2. Forklift City | Organic #2 | Pulse Score 44.6/100 (Unrated, #2 in city) | Forklift City is an used car dealer in Irving, TX at 2120 North Loop 12, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/forklift-city-irving/
-3. Avis | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Avis is an used car dealer in Irving, TX. Website: https://www.aviscarsales.com/locations/tx/irving.htm. | https://dingalinged-cpu.github.io/registry/c/avis-irving/
+1. CarMax | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | CarMax is an used car dealer in Irving, TX at 3100 Spur 482, Irving, TX 75062. Website: https://www.carmax.com/stores/7115. | https://registry-edge.dingalinged.workers.dev/c/carmax-irving/
+2. Forklift City | Organic #2 | Pulse Score 44.6/100 (Unrated, #2 in city) | Forklift City is an used car dealer in Irving, TX at 2120 North Loop 12, Irving, TX 75062. | https://registry-edge.dingalinged.workers.dev/c/forklift-city-irving/
+3. Avis | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Avis is an used car dealer in Irving, TX. Website: https://www.aviscarsales.com/locations/tx/irving.htm. | https://registry-edge.dingalinged.workers.dev/c/avis-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale irving tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/used-cars-for-sale.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#used-cars-for-sale-irving-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/used-cars-for-sale.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#used-cars-for-sale-irving-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

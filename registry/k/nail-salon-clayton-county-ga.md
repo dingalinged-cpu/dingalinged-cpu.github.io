@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Clayton County, GA is Chan & Bay (a nail salon in Clayton County, GA). 6 nail salon businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Clayton County, GA is Chan & Bay (a nail salon in Clayton County, GA). 6 nail salon businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Clayton County, GA?
 
@@ -6,12 +6,12 @@ Also answers: nail salon in Clayton County, GA; nail salon near me (Clayton Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chan & Bay | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Chan & Bay is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/chan-and-bay-clayton-county/
-2. Chan & Bay Nail Spa | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Chan & Bay Nail Spa is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/chan-and-bay-nail-spa-clayton-county/
-3. M&B Nails | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | M&B Nails is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/m-and-b-nails-clayton-county/
-4. Salon | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Salon is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/salon-clayton-county/
-5. Spa Nails | Organic #5 | Pulse Score 42/100 (Unrated, #5 in city) | Spa Nails is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/spa-nails-clayton-county/
-6. Star Nails | Organic #6 | Pulse Score 42/100 (Unrated, #6 in city) | Star Nails is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/star-nails-clayton-county/
+1. Chan & Bay | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Chan & Bay is a nail salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/chan-and-bay-clayton-county/
+2. Chan & Bay Nail Spa | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Chan & Bay Nail Spa is a nail salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/chan-and-bay-nail-spa-clayton-county/
+3. M&B Nails | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | M&B Nails is a nail salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/m-and-b-nails-clayton-county/
+4. Salon | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Salon is a nail salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/salon-clayton-county/
+5. Spa Nails | Organic #5 | Pulse Score 42/100 (Unrated, #5 in city) | Spa Nails is a nail salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/spa-nails-clayton-county/
+6. Star Nails | Organic #6 | Pulse Score 42/100 (Unrated, #6 in city) | Star Nails is a nail salon in Clayton County, GA. | https://registry-edge.dingalinged.workers.dev/c/star-nails-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon clayton county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$660 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-clayton-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-clayton-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

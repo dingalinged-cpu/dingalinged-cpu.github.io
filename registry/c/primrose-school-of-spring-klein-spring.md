@@ -13,12 +13,12 @@ Primrose School of Spring-Klein is a preschool in spring, TX at 22003 Bridgeston
 - Website: https://www.primroseschools.com/schools/spring-klein/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 62% of preschools in Houston, #3 of 6 preschools in spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 62% of preschools in Houston, #3 of 6 preschools in spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 57. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/primrose-school-of-spring-klein-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/primrose-school-of-spring-klein-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/primrose-school-of-spring-klein-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/primrose-school-of-spring-klein-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1374297133 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

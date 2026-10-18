@@ -13,12 +13,12 @@ Independent Roofing Co. is a roofer in Omaha, NE at 6102 Arbor Street #5, Omaha,
 - Website: https://www.independentroofing.net/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 50% of roofers in Omaha, NE, #3 of 5 roofers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 50% of roofers in Omaha, NE, #3 of 5 roofers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/independent-roofing-co-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/independent-roofing-co-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/independent-roofing-co-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/independent-roofing-co-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7539421697 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

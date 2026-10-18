@@ -13,12 +13,12 @@ The Kirt Locker is a gym in Lake Zurich, IL at 765 Ela Road #107, Lake Zurich, I
 - Website: https://thekirtlocker.com/
 - Email: thekirtlocker@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 05:00-20:00; Sa 08:00-16:00
-- Pulse Score: 64.9/100 — Good — top 1% of gyms in Chicago, #1 of 5 gyms in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 65.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 1% of gyms in Chicago, #1 of 5 gyms in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 65.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-kirt-locker-lake-zurich/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-kirt-locker-lake-zurich.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-kirt-locker-lake-zurich/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-kirt-locker-lake-zurich.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13394120566 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

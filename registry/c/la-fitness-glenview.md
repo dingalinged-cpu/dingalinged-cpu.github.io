@@ -13,12 +13,12 @@ LA Fitness is a gym in Glenview, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.9/100 — Building — top 92% of gyms in Chicago, #3 of 5 gyms in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 39.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.9/100 — Building — top 92% of gyms in Chicago, #3 of 5 gyms in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-glenview/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-glenview.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/la-fitness-glenview/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/la-fitness-glenview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/376311354 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

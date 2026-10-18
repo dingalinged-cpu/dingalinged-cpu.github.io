@@ -13,12 +13,12 @@ Cobble Creek Leasing Office is a property management company in Tomball, TX at 9
 - Website: https://www.cobblecreekliving.com/
 - Email: 22049@newhome1.com
 - Opening hours (OSM syntax): Mo,We-Fr 08:30-17:30; Tu 10:00-17:30; Sa 10:00-17:00; Su closed
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 9% of property management companys in Houston, #1 of 1 property management companys in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 9% of property management companys in Houston, #1 of 1 property management companys in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cobble-creek-leasing-office-tomball/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cobble-creek-leasing-office-tomball.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cobble-creek-leasing-office-tomball/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cobble-creek-leasing-office-tomball.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1227845544 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

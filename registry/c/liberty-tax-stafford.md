@@ -13,12 +13,12 @@ Liberty Tax is a tax preparation service in Stafford, TX at 508 FM 1092 Road #Su
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.7/100 — Good — top 10% of tax preparation services in Houston, #1 of 2 tax preparation services in Stafford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 10% of tax preparation services in Houston, #1 of 2 tax preparation services in Stafford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/liberty-tax-stafford/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/liberty-tax-stafford.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/liberty-tax-stafford/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/liberty-tax-stafford.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13231555198 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

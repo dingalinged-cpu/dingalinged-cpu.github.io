@@ -2,7 +2,7 @@
  "title": "Keyword market data: Westlake, TX",
  "description": "Top Westlake, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Westlake, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 17,
@@ -11,7 +11,7 @@
    {
     "keyword": "gym westlake tx",
     "slug": "gym-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-westlake-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "nail salon westlake tx",
     "slug": "nail-salon-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-westlake-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -41,7 +41,7 @@
    {
     "keyword": "vet westlake tx",
     "slug": "vet-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-westlake-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -56,7 +56,7 @@
    {
     "keyword": "real estate agent westlake tx",
     "slug": "real-estate-agent-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-westlake-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -71,7 +71,7 @@
    {
     "keyword": "insurance agency westlake tx",
     "slug": "insurance-agency-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-westlake-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -86,7 +86,7 @@
    {
     "keyword": "realtor westlake tx",
     "slug": "realtor-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-westlake-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -101,7 +101,7 @@
    {
     "keyword": "insurance agents westlake tx",
     "slug": "insurance-agents-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-westlake-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agent westlake tx",
     "slug": "insurance-agent-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-westlake-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -133,7 +133,7 @@
    {
     "keyword": "architect westlake tx",
     "slug": "architect-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-westlake-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -148,7 +148,7 @@
    {
     "keyword": "event venues westlake tx",
     "slug": "event-venues-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-westlake-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -163,7 +163,7 @@
    {
     "keyword": "preschool westlake tx",
     "slug": "preschool-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-westlake-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -178,7 +178,7 @@
    {
     "keyword": "eye doctor westlake tx",
     "slug": "eye-doctor-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-westlake-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -193,7 +193,7 @@
    {
     "keyword": "liquor store westlake tx",
     "slug": "liquor-store-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-westlake-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -208,7 +208,7 @@
    {
     "keyword": "vet westlake tx",
     "slug": "vet-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-westlake-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -223,7 +223,7 @@
    {
     "keyword": "realtor westlake tx",
     "slug": "realtor-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-westlake-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -238,7 +238,7 @@
    {
     "keyword": "real estate agent westlake tx",
     "slug": "real-estate-agent-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-westlake-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -253,7 +253,7 @@
    {
     "keyword": "insurance agency westlake tx",
     "slug": "insurance-agency-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-westlake-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -268,7 +268,7 @@
    {
     "keyword": "insurance agent westlake tx",
     "slug": "insurance-agent-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-westlake-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -283,7 +283,7 @@
    {
     "keyword": "insurance agents westlake tx",
     "slug": "insurance-agents-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-westlake-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -298,7 +298,7 @@
    {
     "keyword": "it support westlake tx",
     "slug": "it-support-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/it-support-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/it-support-westlake-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -313,7 +313,7 @@
    {
     "keyword": "marketing agency westlake tx",
     "slug": "marketing-agency-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/marketing-agency-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/marketing-agency-westlake-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -328,7 +328,7 @@
    {
     "keyword": "property management company westlake tx",
     "slug": "property-management-company-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/property-management-company-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/property-management-company-westlake-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -343,7 +343,7 @@
    {
     "keyword": "property management companies westlake tx",
     "slug": "property-management-companies-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/property-management-companies-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/property-management-companies-westlake-tx/",
     "us_monthly_searches": 22000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 550,
@@ -360,7 +360,7 @@
    {
     "keyword": "gym westlake tx",
     "slug": "gym-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-westlake-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -375,7 +375,7 @@
    {
     "keyword": "vet westlake tx",
     "slug": "vet-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-westlake-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -390,7 +390,7 @@
    {
     "keyword": "real estate agent westlake tx",
     "slug": "real-estate-agent-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-westlake-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -405,7 +405,7 @@
    {
     "keyword": "nail salon westlake tx",
     "slug": "nail-salon-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-westlake-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -420,7 +420,7 @@
    {
     "keyword": "realtor westlake tx",
     "slug": "realtor-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-westlake-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -435,7 +435,7 @@
    {
     "keyword": "insurance agency westlake tx",
     "slug": "insurance-agency-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-westlake-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -450,7 +450,7 @@
    {
     "keyword": "insurance agents westlake tx",
     "slug": "insurance-agents-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-westlake-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -465,7 +465,7 @@
    {
     "keyword": "insurance agent westlake tx",
     "slug": "insurance-agent-westlake-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-westlake-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-westlake-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,

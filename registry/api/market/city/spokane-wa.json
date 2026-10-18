@@ -2,7 +2,7 @@
  "title": "Keyword market data: Spokane, WA",
  "description": "Top Spokane, WA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Spokane, WA",
  "geography": "Spokane-Spokane Valley, WA metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage spokane wa",
     "slug": "massage-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-spokane-wa",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8900,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care spokane wa",
     "slug": "urgent-care-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-spokane-wa",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist spokane wa",
     "slug": "dentist-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-spokane-wa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym spokane wa",
     "slug": "gym-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-spokane-wa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash spokane wa",
     "slug": "car-wash-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-spokane-wa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change spokane wa",
     "slug": "oil-change-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-spokane-wa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon spokane wa",
     "slug": "hair-salon-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-spokane-wa",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon spokane wa",
     "slug": "nail-salon-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-spokane-wa",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes spokane wa",
     "slug": "car-insurance-quotes-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-spokane-wa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber spokane wa",
     "slug": "plumber-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-spokane-wa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments spokane wa",
     "slug": "apartments-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-spokane-wa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance spokane wa",
     "slug": "auto-insurance-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-spokane-wa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop spokane wa",
     "slug": "barber-shop-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-spokane-wa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage spokane wa",
     "slug": "lymphatic-drainage-massage-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-spokane-wa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic spokane wa",
     "slug": "mechanic-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-spokane-wa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer spokane wa",
     "slug": "personal-injury-lawyer-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-spokane-wa",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 360,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber spokane wa",
     "slug": "emergency-plumber-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-spokane-wa",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair spokane wa",
     "slug": "hvac-repair-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-spokane-wa",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair spokane wa",
     "slug": "ac-repair-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-spokane-wa",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 650,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement spokane wa",
     "slug": "roof-replacement-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-spokane-wa",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 59.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair spokane wa",
     "slug": "roof-repair-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-spokane-wa",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast spokane wa",
     "slug": "sell-my-house-fast-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-spokane-wa",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services spokane wa",
     "slug": "plumbing-services-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-spokane-wa",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 88.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining spokane wa",
     "slug": "deck-staining-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-spokane-wa",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 32.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters spokane wa",
     "slug": "exterior-house-painters-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-spokane-wa",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 22.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters spokane wa",
     "slug": "interior-painters-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-spokane-wa",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 22.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters spokane wa",
     "slug": "painters-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-spokane-wa",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company spokane wa",
     "slug": "moving-company-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-spokane-wa",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 360,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney spokane wa",
     "slug": "criminal-defense-attorney-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-spokane-wa",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer spokane wa",
     "slug": "dui-defense-lawyer-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-spokane-wa",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6.4,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage spokane wa",
     "slug": "massage-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-spokane-wa",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8900,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care spokane wa",
     "slug": "urgent-care-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-spokane-wa",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer spokane wa",
     "slug": "personal-injury-lawyer-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-spokane-wa",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 360,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber spokane wa",
     "slug": "plumber-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-spokane-wa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist spokane wa",
     "slug": "dentist-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-spokane-wa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash spokane wa",
     "slug": "car-wash-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-spokane-wa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change spokane wa",
     "slug": "oil-change-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-spokane-wa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair spokane wa",
     "slug": "ac-repair-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-spokane-wa",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 650,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer spokane wa",
     "slug": "car-accident-lawyer-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-spokane-wa",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 650,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym spokane wa",
     "slug": "gym-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-spokane-wa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage spokane wa",
     "slug": "lymphatic-drainage-massage-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-spokane-wa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician spokane wa",
     "slug": "electrician-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-spokane-wa",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 440,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic spokane wa",
     "slug": "mechanic-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-spokane-wa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes spokane wa",
     "slug": "car-insurance-quotes-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-spokane-wa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments spokane wa",
     "slug": "apartments-spokane-wa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-spokane-wa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-spokane-wa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,

@@ -13,12 +13,12 @@ Refuse To Sink Boutique is a boutique in Waxahachie, TX at 207 West Marvin Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 34% of boutiques in Dallas–Fort Worth, #1 of 1 boutiques in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 34% of boutiques in Dallas–Fort Worth, #1 of 1 boutiques in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/refuse-to-sink-boutique-waxahachie/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/refuse-to-sink-boutique-waxahachie.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/refuse-to-sink-boutique-waxahachie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/refuse-to-sink-boutique-waxahachie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/512629106 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

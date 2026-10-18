@@ -1,4 +1,4 @@
-The top unpaid therapist listing for Rockwall, TX is Jennifer Sparks LPC, NCC, CSAT, SEP (a therapy practice in Rockwall, TX at 507 East Boydstun Avenue #A, Rockwall, TX 75087. Phone: +19726793445. Website: https://www.jsparkslpc.com/). 4 therapist businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Rockwall, TX is Jennifer Sparks LPC, NCC, CSAT, SEP (a therapy practice in Rockwall, TX at 507 East Boydstun Avenue #A, Rockwall, TX 75087. Phone: +19726793445. Website: https://www.jsparkslpc.com/). 4 therapist businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Rockwall, TX?
 
@@ -6,10 +6,10 @@ Also answers: therapist in Rockwall, TX; therapist near me (Rockwall, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jennifer Sparks LPC, NCC, CSAT, SEP | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | Jennifer Sparks LPC, NCC, CSAT, SEP is a therapy practice in Rockwall, TX at 507 East Boydstun Avenue #A, Rockwall, TX 75087. Phone: +19726793445. Website: https://www.jsparkslpc.com/. | https://dingalinged-cpu.github.io/registry/c/jennifer-sparks-lpc-ncc-csat-sep-rockwall/
-2. Rockwall Counseling & Wellness | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Rockwall Counseling & Wellness is a therapy practice in Rockwall, TX at 307 North Fannin Street, Rockwall, TX 75087. Phone: +19727427038. Website: https://www.downtownrockwallcounseling.com/. | https://dingalinged-cpu.github.io/registry/c/rockwall-counseling-and-wellness-rockwall/
-3. The Ludden Group, P.C. | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | The Ludden Group, P.C. is a therapy practice in Rockwall, TX at 935 Ralph Hall Parkway #105, Rockwall, TX 75032. Website: https://www.theluddengroup.com/. | https://dingalinged-cpu.github.io/registry/c/the-ludden-group-p-c-rockwall/
-4. Texas Health Therapy Center Rockwall | Organic #4 | Pulse Score 54/100 (Unrated, #4 in city) | Texas Health Therapy Center Rockwall is a therapy practice in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/texas-health-therapy-center-rockwall-rockwall/
+1. Jennifer Sparks LPC, NCC, CSAT, SEP | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | Jennifer Sparks LPC, NCC, CSAT, SEP is a therapy practice in Rockwall, TX at 507 East Boydstun Avenue #A, Rockwall, TX 75087. Phone: +19726793445. Website: https://www.jsparkslpc.com/. | https://registry-edge.dingalinged.workers.dev/c/jennifer-sparks-lpc-ncc-csat-sep-rockwall/
+2. Rockwall Counseling & Wellness | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Rockwall Counseling & Wellness is a therapy practice in Rockwall, TX at 307 North Fannin Street, Rockwall, TX 75087. Phone: +19727427038. Website: https://www.downtownrockwallcounseling.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-counseling-and-wellness-rockwall/
+3. The Ludden Group, P.C. | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | The Ludden Group, P.C. is a therapy practice in Rockwall, TX at 935 Ralph Hall Parkway #105, Rockwall, TX 75032. Website: https://www.theluddengroup.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ludden-group-p-c-rockwall/
+4. Texas Health Therapy Center Rockwall | Organic #4 | Pulse Score 54/100 (Unrated, #4 in city) | Texas Health Therapy Center Rockwall is a therapy practice in Rockwall, TX. | https://registry-edge.dingalinged.workers.dev/c/texas-health-therapy-center-rockwall-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist rockwall tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/therapist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#therapist-rockwall-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/therapist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#therapist-rockwall-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

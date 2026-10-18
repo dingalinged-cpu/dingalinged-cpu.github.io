@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Calumet City, IL is Calumet City Car Wash (a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/). 4 car wash businesses are listed for Calumet City, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Calumet City, IL is Calumet City Car Wash (a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/). 4 car wash businesses are listed for Calumet City, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Calumet City, IL?
 
@@ -6,10 +6,10 @@ Also answers: car wash in Calumet City, IL; car wash near me (Calumet City, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Calumet City Car Wash | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Calumet City Car Wash is a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/. | https://dingalinged-cpu.github.io/registry/c/calumet-city-car-wash-calumet-city/
-2. Mobil | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Mobil is a car wash in Calumet City, IL at 2074 Sibley Boulevard, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/mobil-calumet-city-w1331500004/
-3. Buddy Bear Car Wash | Organic #3 | Pulse Score 46.3/100 (Unrated, #3 in city) | Buddy Bear Car Wash is a car wash in Calumet City, IL at 382 Torrence Avenue, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/buddy-bear-car-wash-calumet-city/
-4. Mobil | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Mobil is a car wash in Calumet City, IL at 1401 River Oaks Drive, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/mobil-calumet-city/
+1. Calumet City Car Wash | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Calumet City Car Wash is a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/. | https://registry-edge.dingalinged.workers.dev/c/calumet-city-car-wash-calumet-city/
+2. Mobil | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Mobil is a car wash in Calumet City, IL at 2074 Sibley Boulevard, Calumet City, IL 60409. | https://registry-edge.dingalinged.workers.dev/c/mobil-calumet-city-w1331500004/
+3. Buddy Bear Car Wash | Organic #3 | Pulse Score 46.3/100 (Unrated, #3 in city) | Buddy Bear Car Wash is a car wash in Calumet City, IL at 382 Torrence Avenue, Calumet City, IL 60409. | https://registry-edge.dingalinged.workers.dev/c/buddy-bear-car-wash-calumet-city/
+4. Mobil | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Mobil is a car wash in Calumet City, IL at 1401 River Oaks Drive, Calumet City, IL 60409. | https://registry-edge.dingalinged.workers.dev/c/mobil-calumet-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash calumet city il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$12,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-calumet-city-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-calumet-city-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

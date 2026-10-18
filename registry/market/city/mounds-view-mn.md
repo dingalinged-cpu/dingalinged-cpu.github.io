@@ -2,20 +2,20 @@ Keyword market for Mounds View, MN: 4 service keywords with search volume, CPC a
 
 # Top keywords in Mounds View, MN
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
 
 ## By monthly searches
-1. car wash mounds view mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-mounds-view-mn/
-2. dentist mounds view mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-mounds-view-mn/
+1. car wash mounds view mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-mounds-view-mn/
+2. dentist mounds view mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-mounds-view-mn/
 
 ## By CPC
-1. event venues mounds view mn | searches/mo 2,400 (est) | CPC $7.17 | value $17,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-mounds-view-mn/
-2. dentist mounds view mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-mounds-view-mn/
-3. car wash mounds view mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-mounds-view-mn/
-4. bike shop mounds view mn | searches/mo 1,600 (est) | CPC $4.14 | value $6,600 | Google Ads equiv $590/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/bike-shop-mounds-view-mn/
+1. event venues mounds view mn | searches/mo 2,400 (est) | CPC $7.17 | value $17,000 | Google Ads equiv $1,300/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-mounds-view-mn/
+2. dentist mounds view mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-mounds-view-mn/
+3. car wash mounds view mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-mounds-view-mn/
+4. bike shop mounds view mn | searches/mo 1,600 (est) | CPC $4.14 | value $6,600 | Google Ads equiv $590/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/bike-shop-mounds-view-mn/
 
 ## By value (searches x CPC)
-1. dentist mounds view mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-mounds-view-mn/
-2. car wash mounds view mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-mounds-view-mn/
+1. dentist mounds view mn | searches/mo 20,000 (est) | CPC $4.70 | value $94,000 | Google Ads equiv $5,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-mounds-view-mn/
+2. car wash mounds view mn | searches/mo 20,000 (est) | CPC $4.35 | value $87,000 | Google Ads equiv $4,800/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/car-wash-mounds-view-mn/
 
-All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

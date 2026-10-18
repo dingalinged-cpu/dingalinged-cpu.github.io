@@ -2,7 +2,7 @@
  "title": "Keyword market data: Parkville, MO",
  "description": "Top Parkville, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Parkville, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist parkville mo",
     "slug": "dentist-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-parkville-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym parkville mo",
     "slug": "gym-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-parkville-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon parkville mo",
     "slug": "hair-salon-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-parkville-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon parkville mo",
     "slug": "nail-salon-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-parkville-mo/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic parkville mo",
     "slug": "mechanic-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-parkville-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -86,7 +86,7 @@
    {
     "keyword": "vet parkville mo",
     "slug": "vet-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-parkville-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut parkville mo",
     "slug": "haircut-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-parkville-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair parkville mo",
     "slug": "auto-repair-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-parkville-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency parkville mo",
     "slug": "insurance-agency-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-parkville-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -146,7 +146,7 @@
    {
     "keyword": "attorney parkville mo",
     "slug": "attorney-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-parkville-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -161,7 +161,7 @@
    {
     "keyword": "yoga classes parkville mo",
     "slug": "yoga-classes-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-parkville-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agents parkville mo",
     "slug": "insurance-agents-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-parkville-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -191,7 +191,7 @@
    {
     "keyword": "lawyer parkville mo",
     "slug": "lawyer-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-parkville-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agent parkville mo",
     "slug": "insurance-agent-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-parkville-mo/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -221,7 +221,7 @@
    {
     "keyword": "family doctor parkville mo",
     "slug": "family-doctor-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-parkville-mo/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney parkville mo",
     "slug": "attorney-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-parkville-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer parkville mo",
     "slug": "lawyer-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-parkville-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -268,7 +268,7 @@
    {
     "keyword": "caterers parkville mo",
     "slug": "caterers-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/caterers-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-parkville-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -283,7 +283,7 @@
    {
     "keyword": "preschool parkville mo",
     "slug": "preschool-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-parkville-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -298,7 +298,7 @@
    {
     "keyword": "family doctor parkville mo",
     "slug": "family-doctor-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-parkville-mo/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -313,7 +313,7 @@
    {
     "keyword": "primary care physician parkville mo",
     "slug": "primary-care-physician-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-parkville-mo/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 180,
@@ -328,7 +328,7 @@
    {
     "keyword": "dentist parkville mo",
     "slug": "dentist-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-parkville-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -343,7 +343,7 @@
    {
     "keyword": "haircut parkville mo",
     "slug": "haircut-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-parkville-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -358,7 +358,7 @@
    {
     "keyword": "auto repair parkville mo",
     "slug": "auto-repair-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-parkville-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -373,7 +373,7 @@
    {
     "keyword": "mechanic parkville mo",
     "slug": "mechanic-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-parkville-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -388,7 +388,7 @@
    {
     "keyword": "jewelry store parkville mo",
     "slug": "jewelry-store-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-parkville-mo/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -403,7 +403,7 @@
    {
     "keyword": "liquor store parkville mo",
     "slug": "liquor-store-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-parkville-mo/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -418,7 +418,7 @@
    {
     "keyword": "thrift store parkville mo",
     "slug": "thrift-store-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-parkville-mo/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -433,7 +433,7 @@
    {
     "keyword": "vet parkville mo",
     "slug": "vet-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-parkville-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -448,7 +448,7 @@
    {
     "keyword": "funeral home parkville mo",
     "slug": "funeral-home-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-parkville-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist parkville mo",
     "slug": "dentist-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-parkville-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -480,7 +480,7 @@
    {
     "keyword": "gym parkville mo",
     "slug": "gym-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-parkville-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic parkville mo",
     "slug": "mechanic-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-parkville-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -510,7 +510,7 @@
    {
     "keyword": "vet parkville mo",
     "slug": "vet-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-parkville-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -525,7 +525,7 @@
    {
     "keyword": "haircut parkville mo",
     "slug": "haircut-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-parkville-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -540,7 +540,7 @@
    {
     "keyword": "auto repair parkville mo",
     "slug": "auto-repair-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-parkville-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -555,7 +555,7 @@
    {
     "keyword": "hair salon parkville mo",
     "slug": "hair-salon-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-parkville-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -570,7 +570,7 @@
    {
     "keyword": "attorney parkville mo",
     "slug": "attorney-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-parkville-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -585,7 +585,7 @@
    {
     "keyword": "nail salon parkville mo",
     "slug": "nail-salon-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-parkville-mo/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -600,7 +600,7 @@
    {
     "keyword": "lawyer parkville mo",
     "slug": "lawyer-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-parkville-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agency parkville mo",
     "slug": "insurance-agency-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-parkville-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agents parkville mo",
     "slug": "insurance-agents-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-parkville-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -645,7 +645,7 @@
    {
     "keyword": "family doctor parkville mo",
     "slug": "family-doctor-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-parkville-mo/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agent parkville mo",
     "slug": "insurance-agent-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-parkville-mo/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -675,7 +675,7 @@
    {
     "keyword": "yoga classes parkville mo",
     "slug": "yoga-classes-parkville-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-parkville-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-parkville-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,

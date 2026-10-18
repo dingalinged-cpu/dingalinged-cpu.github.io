@@ -13,12 +13,12 @@ Berkshire Hathaway HomeServices is a real estate agency in Altoona, IA at 3770 8
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 66% of real estate agencys in Des Moines, IA, #1 of 3 real estate agencys in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45/100 — Building — top 66% of real estate agencys in Des Moines, IA, #1 of 3 real estate agencys in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/berkshire-hathaway-homeservices-altoona/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/berkshire-hathaway-homeservices-altoona.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/berkshire-hathaway-homeservices-altoona/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/berkshire-hathaway-homeservices-altoona.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5379592147 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Baton Rouge, LA",
  "description": "Top Baton Rouge, LA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Baton Rouge, LA",
  "geography": "Baton Rouge, LA metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage baton rouge la",
     "slug": "massage-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-baton-rouge-la",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care baton rouge la",
     "slug": "urgent-care-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-baton-rouge-la",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7100,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist baton rouge la",
     "slug": "dentist-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-baton-rouge-la",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym baton rouge la",
     "slug": "gym-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-baton-rouge-la",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash baton rouge la",
     "slug": "car-wash-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-baton-rouge-la",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change baton rouge la",
     "slug": "oil-change-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-baton-rouge-la",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon baton rouge la",
     "slug": "hair-salon-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-baton-rouge-la",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3900,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon baton rouge la",
     "slug": "nail-salon-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-baton-rouge-la",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes baton rouge la",
     "slug": "car-insurance-quotes-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-baton-rouge-la",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber baton rouge la",
     "slug": "plumber-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-baton-rouge-la",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments baton rouge la",
     "slug": "apartments-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-baton-rouge-la",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance baton rouge la",
     "slug": "auto-insurance-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-baton-rouge-la",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop baton rouge la",
     "slug": "barber-shop-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-baton-rouge-la",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage baton rouge la",
     "slug": "lymphatic-drainage-massage-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-baton-rouge-la",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic baton rouge la",
     "slug": "mechanic-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-baton-rouge-la",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer baton rouge la",
     "slug": "personal-injury-lawyer-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-baton-rouge-la",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 520,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber baton rouge la",
     "slug": "emergency-plumber-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-baton-rouge-la",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair baton rouge la",
     "slug": "hvac-repair-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-baton-rouge-la",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair baton rouge la",
     "slug": "ac-repair-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-baton-rouge-la",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 960,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement baton rouge la",
     "slug": "roof-replacement-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-baton-rouge-la",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 86.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair baton rouge la",
     "slug": "roof-repair-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-baton-rouge-la",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast baton rouge la",
     "slug": "sell-my-house-fast-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-baton-rouge-la",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 26.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services baton rouge la",
     "slug": "plumbing-services-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-baton-rouge-la",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining baton rouge la",
     "slug": "deck-staining-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-baton-rouge-la",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 47.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters baton rouge la",
     "slug": "exterior-house-painters-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-baton-rouge-la",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 31.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters baton rouge la",
     "slug": "interior-painters-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-baton-rouge-la",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 31.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters baton rouge la",
     "slug": "painters-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-baton-rouge-la",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company baton rouge la",
     "slug": "moving-company-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-baton-rouge-la",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 520,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney baton rouge la",
     "slug": "criminal-defense-attorney-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-baton-rouge-la",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 240,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer baton rouge la",
     "slug": "dui-defense-lawyer-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-baton-rouge-la",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 9.4,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage baton rouge la",
     "slug": "massage-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-baton-rouge-la",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care baton rouge la",
     "slug": "urgent-care-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-baton-rouge-la",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7100,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer baton rouge la",
     "slug": "personal-injury-lawyer-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-baton-rouge-la",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 520,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber baton rouge la",
     "slug": "plumber-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-baton-rouge-la",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist baton rouge la",
     "slug": "dentist-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-baton-rouge-la",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash baton rouge la",
     "slug": "car-wash-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-baton-rouge-la",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change baton rouge la",
     "slug": "oil-change-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-baton-rouge-la",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair baton rouge la",
     "slug": "ac-repair-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-baton-rouge-la",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 960,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer baton rouge la",
     "slug": "car-accident-lawyer-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-baton-rouge-la",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 960,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym baton rouge la",
     "slug": "gym-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-baton-rouge-la",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage baton rouge la",
     "slug": "lymphatic-drainage-massage-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-baton-rouge-la",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician baton rouge la",
     "slug": "electrician-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-baton-rouge-la",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 640,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic baton rouge la",
     "slug": "mechanic-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-baton-rouge-la",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes baton rouge la",
     "slug": "car-insurance-quotes-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-baton-rouge-la",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments baton rouge la",
     "slug": "apartments-baton-rouge-la",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-baton-rouge-la",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-baton-rouge-la",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,

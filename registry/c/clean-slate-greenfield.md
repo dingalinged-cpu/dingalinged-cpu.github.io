@@ -13,12 +13,12 @@ Clean Slate is a therapy practice in Greenfield, WI at 4848 South 76th Street #S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 9:00-17:00; Tu,We 9:00-20:00; Fr 09:00-14:00
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 38% of therapy practices in Milwaukee, #3 of 7 therapy practices in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 38% of therapy practices in Milwaukee, #3 of 7 therapy practices in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/clean-slate-greenfield/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/clean-slate-greenfield.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/clean-slate-greenfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/clean-slate-greenfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11997740570 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

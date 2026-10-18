@@ -1,4 +1,4 @@
-The top unpaid funeral home listing for Norridge, IL is Cumberland Chapels (a funeral home in Norridge, IL at 8300 West Lawrence Avenue, Norridge, IL 60706). 1 funeral home businesses are listed for Norridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Norridge, IL is Cumberland Chapels (a funeral home in Norridge, IL at 8300 West Lawrence Avenue, Norridge, IL 60706). 1 funeral home businesses are listed for Norridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Norridge, IL?
 
@@ -6,7 +6,7 @@ Also answers: funeral home in Norridge, IL; funeral home near me (Norridge, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cumberland Chapels | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Cumberland Chapels is a funeral home in Norridge, IL at 8300 West Lawrence Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/cumberland-chapels-norridge/
+1. Cumberland Chapels | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Cumberland Chapels is a funeral home in Norridge, IL at 8300 West Lawrence Avenue, Norridge, IL 60706. | https://registry-edge.dingalinged.workers.dev/c/cumberland-chapels-norridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home norridge il | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/funeral-home.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#funeral-home-norridge-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/funeral-home.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#funeral-home-norridge-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

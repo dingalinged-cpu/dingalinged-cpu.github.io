@@ -13,12 +13,12 @@ Spa Land Sauna & Resort is a spa in Duluth, GA at 2645 North Berkeley Lake Road 
 - Website: https://spalandga.com/
 - Email: spalandga@gmail.com
 - Opening hours (OSM syntax): Mo-Th 09:00-24:00; Fr-Su 09:00-02:00
-- Pulse Score: 63/100 — Good — top 25% of spas in Atlanta, #1 of 1 spas in Duluth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 25% of spas in Atlanta, #1 of 1 spas in Duluth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/spa-land-sauna-and-resort-duluth/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/spa-land-sauna-and-resort-duluth.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/spa-land-sauna-and-resort-duluth/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spa-land-sauna-and-resort-duluth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13696482083 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

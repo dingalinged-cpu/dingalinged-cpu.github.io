@@ -2,7 +2,7 @@
  "title": "Keyword market data: Berkeley, IL",
  "description": "Top Berkeley, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Berkeley, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 5,
@@ -11,7 +11,7 @@
    {
     "keyword": "mechanic berkeley il",
     "slug": "mechanic-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-berkeley-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -26,7 +26,7 @@
    {
     "keyword": "auto repair berkeley il",
     "slug": "auto-repair-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-berkeley-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -41,7 +41,7 @@
    {
     "keyword": "tax preparation berkeley il",
     "slug": "tax-preparation-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-berkeley-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -56,7 +56,7 @@
    {
     "keyword": "tax preparer berkeley il",
     "slug": "tax-preparer-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-berkeley-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -73,7 +73,7 @@
    {
     "keyword": "tax preparer berkeley il",
     "slug": "tax-preparer-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-berkeley-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -88,7 +88,7 @@
    {
     "keyword": "auto repair berkeley il",
     "slug": "auto-repair-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-berkeley-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -103,7 +103,7 @@
    {
     "keyword": "mechanic berkeley il",
     "slug": "mechanic-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-berkeley-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -118,7 +118,7 @@
    {
     "keyword": "thrift store berkeley il",
     "slug": "thrift-store-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-berkeley-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -133,7 +133,7 @@
    {
     "keyword": "tax preparation berkeley il",
     "slug": "tax-preparation-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-berkeley-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -150,7 +150,7 @@
    {
     "keyword": "mechanic berkeley il",
     "slug": "mechanic-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-berkeley-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -165,7 +165,7 @@
    {
     "keyword": "auto repair berkeley il",
     "slug": "auto-repair-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-berkeley-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -180,7 +180,7 @@
    {
     "keyword": "tax preparer berkeley il",
     "slug": "tax-preparer-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-berkeley-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -195,7 +195,7 @@
    {
     "keyword": "tax preparation berkeley il",
     "slug": "tax-preparation-berkeley-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-berkeley-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-berkeley-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,

@@ -13,12 +13,12 @@ Les Mains Nail Bar is a nail salon in Atlanta, GA at 931 Monroe Drive Northeast 
 - Website: https://www.lesmainsnailbar.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:30-18:30; Su 12:00-17:30
-- Pulse Score: 63.1/100 — Good — top 11% of nail salons in Atlanta, #6 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 11% of nail salons in Atlanta, #6 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/les-mains-nail-bar-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/les-mains-nail-bar-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/les-mains-nail-bar-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/les-mains-nail-bar-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11261587609 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

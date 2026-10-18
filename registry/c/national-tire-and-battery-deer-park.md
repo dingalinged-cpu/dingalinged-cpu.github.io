@@ -13,12 +13,12 @@ National Tire and Battery is an auto repair shop in Deer Park, TX at 4951 East B
 - Website: https://www.ntb.com/store/tx/deer-park/4951-east-blvd-77536/4452
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 73% of auto repair shops in Houston, #2 of 4 auto repair shops in Deer Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 73% of auto repair shops in Houston, #2 of 4 auto repair shops in Deer Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-deer-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/national-tire-and-battery-deer-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/national-tire-and-battery-deer-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/national-tire-and-battery-deer-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1088029733 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

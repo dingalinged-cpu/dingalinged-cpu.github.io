@@ -13,12 +13,12 @@ Elite Smiles Dental Care is a dentist in Darien, IL at 7531 Lemont Road, Darien,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 52% of dentists in Chicago, #4 of 5 dentists in Darien (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 52% of dentists in Chicago, #4 of 5 dentists in Darien (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/elite-smiles-dental-care-darien/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/elite-smiles-dental-care-darien.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/elite-smiles-dental-care-darien/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elite-smiles-dental-care-darien.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8989217324 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

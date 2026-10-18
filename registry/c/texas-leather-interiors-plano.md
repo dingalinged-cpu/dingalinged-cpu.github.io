@@ -13,12 +13,12 @@ Texas Leather Interiors is a furniture store in Plano, TX at 6924 State Highway 
 - Website: https://texasleatherinteriors.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of furniture stores in Dallas–Fort Worth, #3 of 12 furniture stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of furniture stores in Dallas–Fort Worth, #3 of 12 furniture stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/texas-leather-interiors-plano/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/texas-leather-interiors-plano.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-leather-interiors-plano/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-leather-interiors-plano.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1029332433 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

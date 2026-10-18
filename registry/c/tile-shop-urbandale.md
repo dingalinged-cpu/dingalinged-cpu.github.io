@@ -13,12 +13,12 @@ Tile Shop is a flooring company in Urbandale, IA at 10151 Hickman Road, Urbandal
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 38% of flooring companys in Des Moines, IA, #3 of 5 flooring companys in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 49. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 38% of flooring companys in Des Moines, IA, #3 of 5 flooring companys in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tile-shop-urbandale/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tile-shop-urbandale.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tile-shop-urbandale/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tile-shop-urbandale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3031213764 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

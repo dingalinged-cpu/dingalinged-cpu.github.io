@@ -2,7 +2,7 @@
  "title": "Keyword market data: Shawnee, KS",
  "description": "Top Shawnee, KS service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Shawnee, KS",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 63,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage shawnee ks",
     "slug": "massage-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-shawnee-ks/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash shawnee ks",
     "slug": "car-wash-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-shawnee-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist shawnee ks",
     "slug": "dentist-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shawnee-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym shawnee ks",
     "slug": "gym-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shawnee-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon shawnee ks",
     "slug": "hair-salon-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-shawnee-ks/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon shawnee ks",
     "slug": "nail-salon-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-shawnee-ks/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -101,7 +101,7 @@
    {
     "keyword": "plumber shawnee ks",
     "slug": "plumber-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-shawnee-ks/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic shawnee ks",
     "slug": "mechanic-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-shawnee-ks/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop shawnee ks",
     "slug": "tire-shop-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-shawnee-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet shawnee ks",
     "slug": "vet-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-shawnee-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog groomer shawnee ks",
     "slug": "dog-groomer-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-shawnee-ks/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut shawnee ks",
     "slug": "haircut-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shawnee-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair shawnee ks",
     "slug": "auto-repair-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-shawnee-ks/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -206,7 +206,7 @@
    {
     "keyword": "chiropractor shawnee ks",
     "slug": "chiropractor-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-shawnee-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -221,7 +221,7 @@
    {
     "keyword": "dog boarding shawnee ks",
     "slug": "dog-boarding-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-shawnee-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair shawnee ks",
     "slug": "hvac-repair-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-shawnee-ks/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumbing services shawnee ks",
     "slug": "plumbing-services-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-shawnee-ks/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -268,7 +268,7 @@
    {
     "keyword": "electrician shawnee ks",
     "slug": "electrician-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-shawnee-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -283,7 +283,7 @@
    {
     "keyword": "plumber shawnee ks",
     "slug": "plumber-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-shawnee-ks/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -298,7 +298,7 @@
    {
     "keyword": "roofing contractor shawnee ks",
     "slug": "roofing-contractor-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-shawnee-ks/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 900,
@@ -313,7 +313,7 @@
    {
     "keyword": "roofer shawnee ks",
     "slug": "roofer-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-shawnee-ks/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -328,7 +328,7 @@
    {
     "keyword": "landscaping shawnee ks",
     "slug": "landscaping-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-shawnee-ks/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -343,7 +343,7 @@
    {
     "keyword": "architect shawnee ks",
     "slug": "architect-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-shawnee-ks/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -358,7 +358,7 @@
    {
     "keyword": "flooring companies shawnee ks",
     "slug": "flooring-companies-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-shawnee-ks/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -373,7 +373,7 @@
    {
     "keyword": "heating and air shawnee ks",
     "slug": "heating-and-air-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-shawnee-ks/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 24.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "plumbers shawnee ks",
     "slug": "plumbers-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-shawnee-ks/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 24.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "storage units shawnee ks",
     "slug": "storage-units-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-shawnee-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -418,7 +418,7 @@
    {
     "keyword": "bakery shawnee ks",
     "slug": "bakery-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-shawnee-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -433,7 +433,7 @@
    {
     "keyword": "florist shawnee ks",
     "slug": "florist-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-shawnee-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -448,7 +448,7 @@
    {
     "keyword": "dance studio shawnee ks",
     "slug": "dance-studio-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-shawnee-ks/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage shawnee ks",
     "slug": "massage-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-shawnee-ks/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33000,
@@ -480,7 +480,7 @@
    {
     "keyword": "plumber shawnee ks",
     "slug": "plumber-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-shawnee-ks/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist shawnee ks",
     "slug": "dentist-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shawnee-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash shawnee ks",
     "slug": "car-wash-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-shawnee-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym shawnee ks",
     "slug": "gym-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shawnee-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic shawnee ks",
     "slug": "mechanic-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-shawnee-ks/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -555,7 +555,7 @@
    {
     "keyword": "electrician shawnee ks",
     "slug": "electrician-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-shawnee-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -570,7 +570,7 @@
    {
     "keyword": "tire shop shawnee ks",
     "slug": "tire-shop-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-shawnee-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -585,7 +585,7 @@
    {
     "keyword": "vet shawnee ks",
     "slug": "vet-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-shawnee-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -600,7 +600,7 @@
    {
     "keyword": "dog groomer shawnee ks",
     "slug": "dog-groomer-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-shawnee-ks/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -615,7 +615,7 @@
    {
     "keyword": "haircut shawnee ks",
     "slug": "haircut-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shawnee-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -630,7 +630,7 @@
    {
     "keyword": "landscaping shawnee ks",
     "slug": "landscaping-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-shawnee-ks/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -645,7 +645,7 @@
    {
     "keyword": "roofing contractor shawnee ks",
     "slug": "roofing-contractor-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-shawnee-ks/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 900,
@@ -660,7 +660,7 @@
    {
     "keyword": "auto repair shawnee ks",
     "slug": "auto-repair-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-shawnee-ks/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -675,7 +675,7 @@
    {
     "keyword": "hvac repair shawnee ks",
     "slug": "hvac-repair-shawnee-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-shawnee-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-shawnee-ks/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,

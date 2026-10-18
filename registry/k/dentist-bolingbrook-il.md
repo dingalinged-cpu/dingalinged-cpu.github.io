@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Bolingbrook, IL is Innova Family Dental (a dentist in Bolingbrook, IL at 772 Weber Road, Bolingbrook, IL 60490. Phone: +16305182272). 6 dentist businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Bolingbrook, IL is Innova Family Dental (a dentist in Bolingbrook, IL at 772 Weber Road, Bolingbrook, IL 60490. Phone: +16305182272). 6 dentist businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Bolingbrook, IL?
 
@@ -6,12 +6,12 @@ Also answers: dentist in Bolingbrook, IL; dentist near me (Bolingbrook, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Innova Family Dental | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Innova Family Dental is a dentist in Bolingbrook, IL at 772 Weber Road, Bolingbrook, IL 60490. Phone: +16305182272. | https://dingalinged-cpu.github.io/registry/c/innova-family-dental-bolingbrook/
-2. Sonrisa Dental | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Sonrisa Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/sonrisa-dental-bolingbrook/
-3. Grove Dental | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Grove Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/grove-dental-bolingbrook/
-4. Integrity Dental | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Integrity Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/integrity-dental-bolingbrook/
-5. Ocean Dental | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Ocean Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/ocean-dental-bolingbrook/
-6. Aspen Dental | Organic #6 | Pulse Score 48.7/100 (Building, #6 in city) | Aspen Dental is a dentist in Bolingbrook, IL at 221 North Weber Road, Bolingbrook, IL 60490. Phone: +13317574181. Website: https://www.aspendental.com/dentist/il/bolingbrook/221-n-weber-rd. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-bolingbrook/
+1. Innova Family Dental | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Innova Family Dental is a dentist in Bolingbrook, IL at 772 Weber Road, Bolingbrook, IL 60490. Phone: +16305182272. | https://registry-edge.dingalinged.workers.dev/c/innova-family-dental-bolingbrook/
+2. Sonrisa Dental | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Sonrisa Dental is a dentist in Bolingbrook, IL. | https://registry-edge.dingalinged.workers.dev/c/sonrisa-dental-bolingbrook/
+3. Grove Dental | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Grove Dental is a dentist in Bolingbrook, IL. | https://registry-edge.dingalinged.workers.dev/c/grove-dental-bolingbrook/
+4. Integrity Dental | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Integrity Dental is a dentist in Bolingbrook, IL. | https://registry-edge.dingalinged.workers.dev/c/integrity-dental-bolingbrook/
+5. Ocean Dental | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Ocean Dental is a dentist in Bolingbrook, IL. | https://registry-edge.dingalinged.workers.dev/c/ocean-dental-bolingbrook/
+6. Aspen Dental | Organic #6 | Pulse Score 48.7/100 (Building, #6 in city) | Aspen Dental is a dentist in Bolingbrook, IL at 221 North Weber Road, Bolingbrook, IL 60490. Phone: +13317574181. Website: https://www.aspendental.com/dentist/il/bolingbrook/221-n-weber-rd. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist bolingbrook il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-bolingbrook-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-bolingbrook-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

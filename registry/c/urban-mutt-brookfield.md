@@ -13,12 +13,12 @@ Urban Mutt is a pet store in Brookfield, IL. Phone: +17084848006. Website: https
 - Website: https://www.theurbanmuttstore.com/home.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 16% of pet stores in Chicago, #1 of 2 pet stores in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 16% of pet stores in Chicago, #1 of 2 pet stores in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 48.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/urban-mutt-brookfield/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/urban-mutt-brookfield.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/urban-mutt-brookfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/urban-mutt-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9900481090 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

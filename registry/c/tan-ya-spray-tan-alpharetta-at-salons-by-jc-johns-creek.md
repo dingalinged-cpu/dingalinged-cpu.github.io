@@ -13,12 +13,12 @@ Tan.ya Spray Tan Alpharetta at Salons by JC is a tanning salon in Johns Creek, G
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-19:00
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 43% of tanning salons in Atlanta, #1 of 1 tanning salons in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 43% of tanning salons in Atlanta, #1 of 1 tanning salons in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 50.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tan-ya-spray-tan-alpharetta-at-salons-by-jc-johns-creek/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tan-ya-spray-tan-alpharetta-at-salons-by-jc-johns-creek.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tan-ya-spray-tan-alpharetta-at-salons-by-jc-johns-creek/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tan-ya-spray-tan-alpharetta-at-salons-by-jc-johns-creek.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13709390470 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

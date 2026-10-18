@@ -13,12 +13,12 @@ Chiropractic Lifestyle Center is a chiropractor in Olathe, KS at 2139 East 151st
 - Website: https://justadjustme.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 38% of chiropractors in Kansas City, MO, #2 of 2 chiropractors in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 38% of chiropractors in Kansas City, MO, #2 of 2 chiropractors in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/chiropractic-lifestyle-center-olathe/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chiropractic-lifestyle-center-olathe.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chiropractic-lifestyle-center-olathe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chiropractic-lifestyle-center-olathe.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1004223699 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

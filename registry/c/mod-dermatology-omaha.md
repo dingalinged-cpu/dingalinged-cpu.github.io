@@ -13,12 +13,12 @@ MOD Dermatology is a dermatologist in Omaha, NE at 144 South 40th Street, Omaha,
 - Website: https://moddermatology.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in Omaha, NE, #1 of 3 dermatologists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in Omaha, NE, #1 of 3 dermatologists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mod-dermatology-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mod-dermatology-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mod-dermatology-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mod-dermatology-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/186843325 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

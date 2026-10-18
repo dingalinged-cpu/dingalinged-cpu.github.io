@@ -2,7 +2,7 @@
  "title": "Keyword market data: Naperville, IL",
  "description": "Top Naperville, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Naperville, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 85,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage naperville il",
     "slug": "massage-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-naperville-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash naperville il",
     "slug": "car-wash-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-naperville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist naperville il",
     "slug": "dentist-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-naperville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym naperville il",
     "slug": "gym-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-naperville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -71,7 +71,7 @@
    {
     "keyword": "oil change naperville il",
     "slug": "oil-change-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-naperville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -86,7 +86,7 @@
    {
     "keyword": "hair salon naperville il",
     "slug": "hair-salon-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-naperville-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -101,7 +101,7 @@
    {
     "keyword": "nail salon naperville il",
     "slug": "nail-salon-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-naperville-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -116,7 +116,7 @@
    {
     "keyword": "plumber naperville il",
     "slug": "plumber-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-naperville-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -131,7 +131,7 @@
    {
     "keyword": "mechanic naperville il",
     "slug": "mechanic-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-naperville-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -146,7 +146,7 @@
    {
     "keyword": "tire shop naperville il",
     "slug": "tire-shop-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-naperville-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -161,7 +161,7 @@
    {
     "keyword": "vet naperville il",
     "slug": "vet-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-naperville-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -176,7 +176,7 @@
    {
     "keyword": "dog groomer naperville il",
     "slug": "dog-groomer-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-naperville-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -191,7 +191,7 @@
    {
     "keyword": "haircut naperville il",
     "slug": "haircut-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-naperville-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -206,7 +206,7 @@
    {
     "keyword": "auto repair naperville il",
     "slug": "auto-repair-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-naperville-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -221,7 +221,7 @@
    {
     "keyword": "chiropractor naperville il",
     "slug": "chiropractor-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-naperville-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair naperville il",
     "slug": "hvac-repair-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-naperville-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumbing services naperville il",
     "slug": "plumbing-services-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-naperville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -268,7 +268,7 @@
    {
     "keyword": "painters naperville il",
     "slug": "painters-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/painters-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-naperville-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -283,7 +283,7 @@
    {
     "keyword": "electrician naperville il",
     "slug": "electrician-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-naperville-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -298,7 +298,7 @@
    {
     "keyword": "plumber naperville il",
     "slug": "plumber-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-naperville-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -313,7 +313,7 @@
    {
     "keyword": "roofing contractor naperville il",
     "slug": "roofing-contractor-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-naperville-il/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -328,7 +328,7 @@
    {
     "keyword": "roofer naperville il",
     "slug": "roofer-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-naperville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -343,7 +343,7 @@
    {
     "keyword": "attorney naperville il",
     "slug": "attorney-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-naperville-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -358,7 +358,7 @@
    {
     "keyword": "lawyer naperville il",
     "slug": "lawyer-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-naperville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -373,7 +373,7 @@
    {
     "keyword": "window replacement naperville il",
     "slug": "window-replacement-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-replacement-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-naperville-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -388,7 +388,7 @@
    {
     "keyword": "architect naperville il",
     "slug": "architect-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-naperville-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -403,7 +403,7 @@
    {
     "keyword": "cabinet installation naperville il",
     "slug": "cabinet-installation-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/cabinet-installation-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/cabinet-installation-naperville-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -418,7 +418,7 @@
    {
     "keyword": "concrete contractor naperville il",
     "slug": "concrete-contractor-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/concrete-contractor-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-naperville-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -433,7 +433,7 @@
    {
     "keyword": "flooring companies naperville il",
     "slug": "flooring-companies-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-naperville-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -448,7 +448,7 @@
    {
     "keyword": "heating and air naperville il",
     "slug": "heating-and-air-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-naperville-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage naperville il",
     "slug": "massage-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-naperville-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -480,7 +480,7 @@
    {
     "keyword": "plumber naperville il",
     "slug": "plumber-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-naperville-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist naperville il",
     "slug": "dentist-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-naperville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash naperville il",
     "slug": "car-wash-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-naperville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -525,7 +525,7 @@
    {
     "keyword": "oil change naperville il",
     "slug": "oil-change-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-naperville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -540,7 +540,7 @@
    {
     "keyword": "gym naperville il",
     "slug": "gym-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-naperville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -555,7 +555,7 @@
    {
     "keyword": "electrician naperville il",
     "slug": "electrician-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-naperville-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -570,7 +570,7 @@
    {
     "keyword": "mechanic naperville il",
     "slug": "mechanic-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-naperville-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -585,7 +585,7 @@
    {
     "keyword": "tire shop naperville il",
     "slug": "tire-shop-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-naperville-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -600,7 +600,7 @@
    {
     "keyword": "vet naperville il",
     "slug": "vet-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-naperville-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -615,7 +615,7 @@
    {
     "keyword": "dog groomer naperville il",
     "slug": "dog-groomer-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-naperville-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -630,7 +630,7 @@
    {
     "keyword": "haircut naperville il",
     "slug": "haircut-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-naperville-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -645,7 +645,7 @@
    {
     "keyword": "roofing contractor naperville il",
     "slug": "roofing-contractor-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-naperville-il/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -660,7 +660,7 @@
    {
     "keyword": "auto repair naperville il",
     "slug": "auto-repair-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-naperville-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -675,7 +675,7 @@
    {
     "keyword": "hvac repair naperville il",
     "slug": "hvac-repair-naperville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-naperville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-naperville-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,

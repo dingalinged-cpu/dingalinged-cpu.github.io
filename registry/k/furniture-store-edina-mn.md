@@ -1,4 +1,4 @@
-The top unpaid furniture store listing for Edina, MN is International Design Center (a furniture store in Edina, MN at 7035 Washington Avenue South, Edina, MN 55439. Phone: +16123413441. Website: https://www.idcmn.com/). 6 furniture store businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Edina, MN is International Design Center (a furniture store in Edina, MN at 7035 Washington Avenue South, Edina, MN 55439. Phone: +16123413441. Website: https://www.idcmn.com/). 6 furniture store businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Edina, MN?
 
@@ -6,12 +6,12 @@ Also answers: furniture store in Edina, MN; furniture store near me (Edina, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. International Design Center | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | International Design Center is a furniture store in Edina, MN at 7035 Washington Avenue South, Edina, MN 55439. Phone: +16123413441. Website: https://www.idcmn.com/. | https://dingalinged-cpu.github.io/registry/c/international-design-center-edina/
-2. Macy's Furniture Gallery | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Macy's Furniture Gallery is a furniture store in Edina, MN at 7235 France Avenue South, Edina, MN 55435. Phone: +19528962160. Website: https://www.macys.com/stores/mn/edina/southdale-furniture-and-mattress-gallery_234.html. | https://dingalinged-cpu.github.io/registry/c/macys-furniture-gallery-edina/
-3. LoveSac | Organic #3 | Pulse Score 45.5/100 (Building, #3 in city) | LoveSac is a furniture store in Edina, MN. Website: https://www.lovesac.com/showroomlocator/50th-and-france. | https://dingalinged-cpu.github.io/registry/c/lovesac-edina/
-4. Ethan Allen | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Ethan Allen is a furniture store in Edina, MN at 7101 France Avenue South #Suite 116, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-edina/
-5. La-Z-Boy | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | La-Z-Boy is a furniture store in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-edina/
-6. west elm | Organic #6 | Pulse Score 44/100 (Building, #6 in city) | west elm is a furniture store in Edina, MN at West 27th Street, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/west-elm-edina/
+1. International Design Center | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | International Design Center is a furniture store in Edina, MN at 7035 Washington Avenue South, Edina, MN 55439. Phone: +16123413441. Website: https://www.idcmn.com/. | https://registry-edge.dingalinged.workers.dev/c/international-design-center-edina/
+2. Macy's Furniture Gallery | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Macy's Furniture Gallery is a furniture store in Edina, MN at 7235 France Avenue South, Edina, MN 55435. Phone: +19528962160. Website: https://www.macys.com/stores/mn/edina/southdale-furniture-and-mattress-gallery_234.html. | https://registry-edge.dingalinged.workers.dev/c/macys-furniture-gallery-edina/
+3. LoveSac | Organic #3 | Pulse Score 45.5/100 (Building, #3 in city) | LoveSac is a furniture store in Edina, MN. Website: https://www.lovesac.com/showroomlocator/50th-and-france. | https://registry-edge.dingalinged.workers.dev/c/lovesac-edina/
+4. Ethan Allen | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Ethan Allen is a furniture store in Edina, MN at 7101 France Avenue South #Suite 116, Edina, MN 55435. | https://registry-edge.dingalinged.workers.dev/c/ethan-allen-edina/
+5. La-Z-Boy | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | La-Z-Boy is a furniture store in Edina, MN. | https://registry-edge.dingalinged.workers.dev/c/la-z-boy-edina/
+6. west elm | Organic #6 | Pulse Score 44/100 (Building, #6 in city) | west elm is a furniture store in Edina, MN at West 27th Street, Edina, MN 55435. | https://registry-edge.dingalinged.workers.dev/c/west-elm-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store edina mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$590 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/furniture-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#furniture-store-edina-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/furniture-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#furniture-store-edina-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

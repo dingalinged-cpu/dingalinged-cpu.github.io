@@ -13,12 +13,12 @@ Acupuncture & Oriental Medicine Services is an acupuncture clinic in Wauwatosa, 
 - Website: https://milwaukeeacupuncture.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Good — top 25% of acupuncture clinics in Milwaukee, #1 of 2 acupuncture clinics in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 25% of acupuncture clinics in Milwaukee, #1 of 2 acupuncture clinics in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/acupuncture-and-oriental-medicine-services-wauwatosa/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/acupuncture-and-oriental-medicine-services-wauwatosa.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/acupuncture-and-oriental-medicine-services-wauwatosa/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/acupuncture-and-oriental-medicine-services-wauwatosa.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12624431267 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

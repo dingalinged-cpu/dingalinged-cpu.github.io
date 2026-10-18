@@ -13,12 +13,12 @@ Chihuahua Auto Repair is an auto repair shop in Milwaukee, WI at 3335 West Natio
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 40% of auto repair shops in Milwaukee, #53 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 48.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 40% of auto repair shops in Milwaukee, #53 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/chihuahua-auto-repair-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chihuahua-auto-repair-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chihuahua-auto-repair-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chihuahua-auto-repair-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11960686883 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

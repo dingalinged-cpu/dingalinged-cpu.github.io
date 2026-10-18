@@ -1,4 +1,4 @@
-The top unpaid heating and air listing for Omaha, NE is Johnstone supply stockyards (a HVAC contractor in Omaha, NE at 4747 South 30th Street, Omaha, NE 68107. Phone: +14023448900). 3 heating and air businesses are listed for Omaha, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Omaha, NE is Johnstone supply stockyards (a HVAC contractor in Omaha, NE at 4747 South 30th Street, Omaha, NE 68107. Phone: +14023448900). 3 heating and air businesses are listed for Omaha, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Omaha, NE?
 
@@ -6,9 +6,9 @@ Also answers: heating and air in Omaha, NE; heating and air near me (Omaha, NE);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Johnstone supply stockyards | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Johnstone supply stockyards is a HVAC contractor in Omaha, NE at 4747 South 30th Street, Omaha, NE 68107. Phone: +14023448900. | https://dingalinged-cpu.github.io/registry/c/johnstone-supply-stockyards-omaha/
-2. Johnstones supply west | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Johnstones supply west is a HVAC contractor in Omaha, NE at 9800 J Street, Omaha, NE 68127. Phone: +14023392342. | https://dingalinged-cpu.github.io/registry/c/johnstones-supply-west-omaha/
-3. Accurate Heating & Cooling | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Accurate Heating & Cooling is a HVAC contractor in Omaha, NE. Phone: +14024968955. Website: https://accurateheatingcooling.com/. | https://dingalinged-cpu.github.io/registry/c/accurate-heating-and-cooling-omaha/
+1. Johnstone supply stockyards | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Johnstone supply stockyards is a HVAC contractor in Omaha, NE at 4747 South 30th Street, Omaha, NE 68107. Phone: +14023448900. | https://registry-edge.dingalinged.workers.dev/c/johnstone-supply-stockyards-omaha/
+2. Johnstones supply west | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Johnstones supply west is a HVAC contractor in Omaha, NE at 9800 J Street, Omaha, NE 68127. Phone: +14023392342. | https://registry-edge.dingalinged.workers.dev/c/johnstones-supply-west-omaha/
+3. Accurate Heating & Cooling | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Accurate Heating & Cooling is a HVAC contractor in Omaha, NE. Phone: +14024968955. Website: https://accurateheatingcooling.com/. | https://registry-edge.dingalinged.workers.dev/c/accurate-heating-and-cooling-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air omaha ne | category: Home Services | industry benchmark: Home & Home Improvement
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$5.80 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/heating-and-air.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#heating-and-air-omaha-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/heating-and-air.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#heating-and-air-omaha-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

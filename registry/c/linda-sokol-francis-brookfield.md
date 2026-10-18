@@ -13,12 +13,12 @@ Linda Sokol Francis is a financial advisor in Brookfield, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 24% of financial advisors in Chicago, #1 of 2 financial advisors in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58, Trust 40.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 24% of financial advisors in Chicago, #1 of 2 financial advisors in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58, Trust 40.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/linda-sokol-francis-brookfield/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/linda-sokol-francis-brookfield.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/linda-sokol-francis-brookfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/linda-sokol-francis-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9793717170 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

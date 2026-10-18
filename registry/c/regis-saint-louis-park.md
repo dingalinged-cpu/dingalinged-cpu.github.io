@@ -13,12 +13,12 @@ Regis is a hair salon in Saint Louis Park, MN at 8318 Minnesota State Highway 7,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Building — top 86% of hair salons in Minneapolis–St. Paul, #23 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 86% of hair salons in Minneapolis–St. Paul, #23 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/regis-saint-louis-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/regis-saint-louis-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/regis-saint-louis-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/regis-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/491835973 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

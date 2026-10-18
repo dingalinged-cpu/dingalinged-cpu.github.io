@@ -1,4 +1,4 @@
-The top unpaid therapist listing for Olathe, KS is Johnson County Mental Health Center - Olathe Office (a therapy practice in Olathe, KS at 1125 West Spruce Street, Olathe, KS 66061. Phone: +19138264200. Website: https://jocogov.org/dept/mental-health/home). 2 therapist businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Olathe, KS is Johnson County Mental Health Center - Olathe Office (a therapy practice in Olathe, KS at 1125 West Spruce Street, Olathe, KS 66061. Phone: +19138264200. Website: https://jocogov.org/dept/mental-health/home). 2 therapist businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Olathe, KS?
 
@@ -6,8 +6,8 @@ Also answers: therapist in Olathe, KS; therapist near me (Olathe, KS); best ther
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Johnson County Mental Health Center - Olathe Office | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Johnson County Mental Health Center - Olathe Office is a therapy practice in Olathe, KS at 1125 West Spruce Street, Olathe, KS 66061. Phone: +19138264200. Website: https://jocogov.org/dept/mental-health/home. | https://dingalinged-cpu.github.io/registry/c/johnson-county-mental-health-center-olathe-office-olathe/
-2. Johnson County Adolescent Treatment | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Johnson County Adolescent Treatment is a therapy practice in Olathe, KS at 301 North Monroe Street, Olathe, KS 66061. | https://dingalinged-cpu.github.io/registry/c/johnson-county-adolescent-treatment-olathe/
+1. Johnson County Mental Health Center - Olathe Office | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Johnson County Mental Health Center - Olathe Office is a therapy practice in Olathe, KS at 1125 West Spruce Street, Olathe, KS 66061. Phone: +19138264200. Website: https://jocogov.org/dept/mental-health/home. | https://registry-edge.dingalinged.workers.dev/c/johnson-county-mental-health-center-olathe-office-olathe/
+2. Johnson County Adolescent Treatment | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Johnson County Adolescent Treatment is a therapy practice in Olathe, KS at 301 North Monroe Street, Olathe, KS 66061. | https://registry-edge.dingalinged.workers.dev/c/johnson-county-adolescent-treatment-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist olathe ks | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$480 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/therapist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#therapist-olathe-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/therapist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#therapist-olathe-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

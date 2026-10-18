@@ -2,7 +2,7 @@
  "title": "Keyword market data: Allen, TX",
  "description": "Top Allen, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Allen, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 58,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage allen tx",
     "slug": "massage-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-allen-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash allen tx",
     "slug": "car-wash-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-allen-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist allen tx",
     "slug": "dentist-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-allen-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym allen tx",
     "slug": "gym-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-allen-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon allen tx",
     "slug": "hair-salon-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-allen-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon allen tx",
     "slug": "nail-salon-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-allen-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic allen tx",
     "slug": "mechanic-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-allen-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop allen tx",
     "slug": "tire-shop-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-allen-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet allen tx",
     "slug": "vet-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-allen-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer allen tx",
     "slug": "dog-groomer-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-allen-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut allen tx",
     "slug": "haircut-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-allen-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair allen tx",
     "slug": "auto-repair-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-allen-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor allen tx",
     "slug": "chiropractor-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-allen-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -206,7 +206,7 @@
    {
     "keyword": "electrician allen tx",
     "slug": "electrician-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-allen-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -221,7 +221,7 @@
    {
     "keyword": "real estate agent allen tx",
     "slug": "real-estate-agent-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-allen-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -238,7 +238,7 @@
    {
     "keyword": "electrician allen tx",
     "slug": "electrician-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-allen-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofing contractor allen tx",
     "slug": "roofing-contractor-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-allen-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofer allen tx",
     "slug": "roofer-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-allen-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -283,7 +283,7 @@
    {
     "keyword": "attorney allen tx",
     "slug": "attorney-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-allen-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -298,7 +298,7 @@
    {
     "keyword": "lawyer allen tx",
     "slug": "lawyer-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-allen-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -313,7 +313,7 @@
    {
     "keyword": "exterminator allen tx",
     "slug": "exterminator-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/exterminator-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-allen-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -328,7 +328,7 @@
    {
     "keyword": "pest control allen tx",
     "slug": "pest-control-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pest-control-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-allen-tx/",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -343,7 +343,7 @@
    {
     "keyword": "storage units allen tx",
     "slug": "storage-units-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-allen-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -358,7 +358,7 @@
    {
     "keyword": "bakery allen tx",
     "slug": "bakery-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-allen-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -373,7 +373,7 @@
    {
     "keyword": "event venues allen tx",
     "slug": "event-venues-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-allen-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "martial arts allen tx",
     "slug": "martial-arts-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-allen-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -403,7 +403,7 @@
    {
     "keyword": "tax preparer allen tx",
     "slug": "tax-preparer-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-allen-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -418,7 +418,7 @@
    {
     "keyword": "daycare allen tx",
     "slug": "daycare-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-allen-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -433,7 +433,7 @@
    {
     "keyword": "preschool allen tx",
     "slug": "preschool-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-allen-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -448,7 +448,7 @@
    {
     "keyword": "allergist allen tx",
     "slug": "allergist-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/allergist-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/allergist-allen-tx/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 820,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage allen tx",
     "slug": "massage-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-allen-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist allen tx",
     "slug": "dentist-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-allen-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash allen tx",
     "slug": "car-wash-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-allen-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym allen tx",
     "slug": "gym-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-allen-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "electrician allen tx",
     "slug": "electrician-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-allen-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic allen tx",
     "slug": "mechanic-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-allen-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop allen tx",
     "slug": "tire-shop-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-allen-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet allen tx",
     "slug": "vet-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-allen-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -585,7 +585,7 @@
    {
     "keyword": "dog groomer allen tx",
     "slug": "dog-groomer-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-allen-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut allen tx",
     "slug": "haircut-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-allen-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -615,7 +615,7 @@
    {
     "keyword": "roofing contractor allen tx",
     "slug": "roofing-contractor-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-allen-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -630,7 +630,7 @@
    {
     "keyword": "pest control allen tx",
     "slug": "pest-control-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pest-control-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-allen-tx/",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -645,7 +645,7 @@
    {
     "keyword": "auto repair allen tx",
     "slug": "auto-repair-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-allen-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -660,7 +660,7 @@
    {
     "keyword": "chiropractor allen tx",
     "slug": "chiropractor-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-allen-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -675,7 +675,7 @@
    {
     "keyword": "exterminator allen tx",
     "slug": "exterminator-allen-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/exterminator-allen-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-allen-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,

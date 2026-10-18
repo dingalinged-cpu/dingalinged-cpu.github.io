@@ -2,7 +2,7 @@
  "title": "Keyword market data: Corinth, TX",
  "description": "Top Corinth, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Corinth, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 35,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage corinth tx",
     "slug": "massage-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-corinth-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash corinth tx",
     "slug": "car-wash-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-corinth-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist corinth tx",
     "slug": "dentist-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-corinth-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym corinth tx",
     "slug": "gym-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-corinth-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon corinth tx",
     "slug": "hair-salon-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-corinth-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon corinth tx",
     "slug": "nail-salon-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-corinth-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic corinth tx",
     "slug": "mechanic-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-corinth-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop corinth tx",
     "slug": "tire-shop-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-corinth-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet corinth tx",
     "slug": "vet-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-corinth-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer corinth tx",
     "slug": "dog-groomer-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-corinth-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut corinth tx",
     "slug": "haircut-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-corinth-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair corinth tx",
     "slug": "auto-repair-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-corinth-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor corinth tx",
     "slug": "chiropractor-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-corinth-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -206,7 +206,7 @@
    {
     "keyword": "roofing contractor corinth tx",
     "slug": "roofing-contractor-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-corinth-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agency corinth tx",
     "slug": "insurance-agency-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-corinth-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -238,7 +238,7 @@
    {
     "keyword": "roofing contractor corinth tx",
     "slug": "roofing-contractor-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-corinth-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofer corinth tx",
     "slug": "roofer-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-corinth-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -268,7 +268,7 @@
    {
     "keyword": "storage units corinth tx",
     "slug": "storage-units-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-corinth-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -283,7 +283,7 @@
    {
     "keyword": "bakery corinth tx",
     "slug": "bakery-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-corinth-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -298,7 +298,7 @@
    {
     "keyword": "event venues corinth tx",
     "slug": "event-venues-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-corinth-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -313,7 +313,7 @@
    {
     "keyword": "martial arts corinth tx",
     "slug": "martial-arts-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-corinth-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -328,7 +328,7 @@
    {
     "keyword": "tax preparer corinth tx",
     "slug": "tax-preparer-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-corinth-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -343,7 +343,7 @@
    {
     "keyword": "daycare corinth tx",
     "slug": "daycare-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-corinth-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -358,7 +358,7 @@
    {
     "keyword": "driving school corinth tx",
     "slug": "driving-school-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-corinth-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -373,7 +373,7 @@
    {
     "keyword": "preschool corinth tx",
     "slug": "preschool-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-corinth-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "chiropractor corinth tx",
     "slug": "chiropractor-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-corinth-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -403,7 +403,7 @@
    {
     "keyword": "occupational therapist corinth tx",
     "slug": "occupational-therapist-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/occupational-therapist-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/occupational-therapist-corinth-tx/",
     "us_monthly_searches": 8100,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 200,
@@ -418,7 +418,7 @@
    {
     "keyword": "dentist corinth tx",
     "slug": "dentist-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-corinth-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -433,7 +433,7 @@
    {
     "keyword": "haircut corinth tx",
     "slug": "haircut-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-corinth-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -448,7 +448,7 @@
    {
     "keyword": "massage corinth tx",
     "slug": "massage-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-corinth-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage corinth tx",
     "slug": "massage-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-corinth-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist corinth tx",
     "slug": "dentist-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-corinth-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash corinth tx",
     "slug": "car-wash-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-corinth-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym corinth tx",
     "slug": "gym-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-corinth-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic corinth tx",
     "slug": "mechanic-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-corinth-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop corinth tx",
     "slug": "tire-shop-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-corinth-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet corinth tx",
     "slug": "vet-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-corinth-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog groomer corinth tx",
     "slug": "dog-groomer-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-corinth-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut corinth tx",
     "slug": "haircut-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-corinth-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -600,7 +600,7 @@
    {
     "keyword": "roofing contractor corinth tx",
     "slug": "roofing-contractor-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-corinth-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair corinth tx",
     "slug": "auto-repair-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-corinth-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor corinth tx",
     "slug": "chiropractor-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-corinth-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -645,7 +645,7 @@
    {
     "keyword": "hair salon corinth tx",
     "slug": "hair-salon-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-corinth-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -660,7 +660,7 @@
    {
     "keyword": "nail salon corinth tx",
     "slug": "nail-salon-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-corinth-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -675,7 +675,7 @@
    {
     "keyword": "roofer corinth tx",
     "slug": "roofer-corinth-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-corinth-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-corinth-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,

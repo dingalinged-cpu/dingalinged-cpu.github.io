@@ -13,12 +13,12 @@ Firestone Complete Auto Care is an auto repair shop in Lemont Township, IL at 15
 - Website: https://www.firestonecompleteautocare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 55% of auto repair shops in Chicago, #3 of 4 auto repair shops in Lemont Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 55% of auto repair shops in Chicago, #3 of 4 auto repair shops in Lemont Township (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-lemont-township/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/firestone-complete-auto-care-lemont-township.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/firestone-complete-auto-care-lemont-township/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/firestone-complete-auto-care-lemont-township.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/315081826 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

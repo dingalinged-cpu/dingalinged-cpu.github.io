@@ -13,12 +13,12 @@ Anytime Fitness is a gym in Chicago, IL at 5417 North Broadway, Chicago, IL 6064
 - Website: https://www.anytimefitness.com/gyms/4869/chicago-il-60640/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.9/100 — Fair — top 45% of gyms in Chicago, #80 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 68.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 45% of gyms in Chicago, #80 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 68.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anytime-fitness-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12239804355 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

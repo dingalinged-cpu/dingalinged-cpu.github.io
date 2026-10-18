@@ -2,7 +2,7 @@
  "title": "Keyword market data: University Park, TX",
  "description": "Top University Park, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "University Park, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 12,
@@ -11,7 +11,7 @@
    {
     "keyword": "nail salon university park tx",
     "slug": "nail-salon-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-university-park-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -26,7 +26,7 @@
    {
     "keyword": "pilates university park tx",
     "slug": "pilates-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-university-park-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -41,7 +41,7 @@
    {
     "keyword": "financial advisor university park tx",
     "slug": "financial-advisor-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-university-park-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -58,7 +58,7 @@
    {
     "keyword": "bakery university park tx",
     "slug": "bakery-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-university-park-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -73,7 +73,7 @@
    {
     "keyword": "martial arts university park tx",
     "slug": "martial-arts-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-university-park-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -88,7 +88,7 @@
    {
     "keyword": "pilates university park tx",
     "slug": "pilates-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-university-park-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -103,7 +103,7 @@
    {
     "keyword": "bike shop university park tx",
     "slug": "bike-shop-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-university-park-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -118,7 +118,7 @@
    {
     "keyword": "furniture store university park tx",
     "slug": "furniture-store-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-university-park-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -133,7 +133,7 @@
    {
     "keyword": "gift shop university park tx",
     "slug": "gift-shop-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-university-park-tx/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 450,
@@ -148,7 +148,7 @@
    {
     "keyword": "jewelry store university park tx",
     "slug": "jewelry-store-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-university-park-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -163,7 +163,7 @@
    {
     "keyword": "mattress store university park tx",
     "slug": "mattress-store-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store-university-park-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -178,7 +178,7 @@
    {
     "keyword": "pet store university park tx",
     "slug": "pet-store-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-university-park-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -193,7 +193,7 @@
    {
     "keyword": "dry cleaners university park tx",
     "slug": "dry-cleaners-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-university-park-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -208,7 +208,7 @@
    {
     "keyword": "financial advisor university park tx",
     "slug": "financial-advisor-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-university-park-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -223,7 +223,7 @@
    {
     "keyword": "nail salon university park tx",
     "slug": "nail-salon-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-university-park-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -240,7 +240,7 @@
    {
     "keyword": "pilates university park tx",
     "slug": "pilates-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-university-park-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -255,7 +255,7 @@
    {
     "keyword": "financial advisor university park tx",
     "slug": "financial-advisor-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-university-park-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -270,7 +270,7 @@
    {
     "keyword": "nail salon university park tx",
     "slug": "nail-salon-university-park-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-university-park-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-university-park-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,

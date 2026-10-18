@@ -2,7 +2,7 @@
  "title": "Keyword market data: Streamwood, IL",
  "description": "Top Streamwood, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Streamwood, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 12,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage streamwood il",
     "slug": "massage-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-streamwood-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash streamwood il",
     "slug": "car-wash-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-streamwood-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist streamwood il",
     "slug": "dentist-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-streamwood-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic streamwood il",
     "slug": "mechanic-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-streamwood-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet streamwood il",
     "slug": "vet-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-streamwood-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair streamwood il",
     "slug": "auto-repair-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-streamwood-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -103,7 +103,7 @@
    {
     "keyword": "storage units streamwood il",
     "slug": "storage-units-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-streamwood-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -118,7 +118,7 @@
    {
     "keyword": "event venues streamwood il",
     "slug": "event-venues-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-streamwood-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -133,7 +133,7 @@
    {
     "keyword": "preschool streamwood il",
     "slug": "preschool-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-streamwood-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -148,7 +148,7 @@
    {
     "keyword": "dentist streamwood il",
     "slug": "dentist-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-streamwood-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -163,7 +163,7 @@
    {
     "keyword": "massage streamwood il",
     "slug": "massage-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-streamwood-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -178,7 +178,7 @@
    {
     "keyword": "auto repair streamwood il",
     "slug": "auto-repair-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-streamwood-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -193,7 +193,7 @@
    {
     "keyword": "car wash streamwood il",
     "slug": "car-wash-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-streamwood-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -208,7 +208,7 @@
    {
     "keyword": "mechanic streamwood il",
     "slug": "mechanic-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-streamwood-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -223,7 +223,7 @@
    {
     "keyword": "bike shop streamwood il",
     "slug": "bike-shop-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-streamwood-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -238,7 +238,7 @@
    {
     "keyword": "liquor store streamwood il",
     "slug": "liquor-store-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-streamwood-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -253,7 +253,7 @@
    {
     "keyword": "pet store streamwood il",
     "slug": "pet-store-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-streamwood-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -268,7 +268,7 @@
    {
     "keyword": "vet streamwood il",
     "slug": "vet-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-streamwood-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -285,7 +285,7 @@
    {
     "keyword": "massage streamwood il",
     "slug": "massage-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-streamwood-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -300,7 +300,7 @@
    {
     "keyword": "dentist streamwood il",
     "slug": "dentist-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-streamwood-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -315,7 +315,7 @@
    {
     "keyword": "car wash streamwood il",
     "slug": "car-wash-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-streamwood-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -330,7 +330,7 @@
    {
     "keyword": "mechanic streamwood il",
     "slug": "mechanic-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-streamwood-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -345,7 +345,7 @@
    {
     "keyword": "vet streamwood il",
     "slug": "vet-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-streamwood-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -360,7 +360,7 @@
    {
     "keyword": "auto repair streamwood il",
     "slug": "auto-repair-streamwood-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-streamwood-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-streamwood-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,

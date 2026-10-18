@@ -1,4 +1,4 @@
-The top unpaid insurance agency listing for Des Plaines, IL is Insure Now (an insurance agent in Des Plaines, IL at 782 West Oakton Street, Des Plaines, IL). 3 insurance agency businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Des Plaines, IL is Insure Now (an insurance agent in Des Plaines, IL at 782 West Oakton Street, Des Plaines, IL). 3 insurance agency businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Des Plaines, IL?
 
@@ -6,9 +6,9 @@ Also answers: insurance agency in Des Plaines, IL; insurance agency near me (Des
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Insure Now | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Insure Now is an insurance agent in Des Plaines, IL at 782 West Oakton Street, Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/insure-now-des-plaines/
-2. Allstate | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | Allstate is an insurance agent in Des Plaines, IL at 628 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/allstate-des-plaines/
-3. State Farm | Organic #3 | Pulse Score 41.5/100 (Building, #3 in city) | State Farm is an insurance agent in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-des-plaines/
+1. Insure Now | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Insure Now is an insurance agent in Des Plaines, IL at 782 West Oakton Street, Des Plaines, IL. | https://registry-edge.dingalinged.workers.dev/c/insure-now-des-plaines/
+2. Allstate | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | Allstate is an insurance agent in Des Plaines, IL at 628 West Algonquin Road, Des Plaines, IL 60016. | https://registry-edge.dingalinged.workers.dev/c/allstate-des-plaines/
+3. State Farm | Organic #3 | Pulse Score 41.5/100 (Building, #3 in city) | State Farm is an insurance agent in Des Plaines, IL. | https://registry-edge.dingalinged.workers.dev/c/state-farm-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency des plaines il | category: insurance | industry benchmark: Finance & Insurance
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$710 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agency-des-plaines-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agency-des-plaines-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Market cleaners is a dry cleaner in Harris County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 51% of dry cleaners in Houston, #10 of 27 dry cleaners in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 51% of dry cleaners in Houston, #10 of 27 dry cleaners in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/market-cleaners-harris-county/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/market-cleaners-harris-county.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/market-cleaners-harris-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/market-cleaners-harris-county.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13973127524 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

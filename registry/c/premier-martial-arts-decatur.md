@@ -13,12 +13,12 @@ Premier Martial Arts is a martial arts school in Decatur, GA at 102 Sams Street,
 - Website: https://www.premiermartialartsdecatureast.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 98% of martial arts schools in Atlanta, #2 of 2 martial arts schools in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 98% of martial arts schools in Atlanta, #2 of 2 martial arts schools in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 57.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/premier-martial-arts-decatur/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/premier-martial-arts-decatur.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/premier-martial-arts-decatur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/premier-martial-arts-decatur.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9424316067 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

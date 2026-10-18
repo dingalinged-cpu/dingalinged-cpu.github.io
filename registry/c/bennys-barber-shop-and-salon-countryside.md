@@ -13,12 +13,12 @@ Benny's Barber Shop & Salon is a hair salon in Countryside, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 57% of hair salons in Chicago, #3 of 12 hair salons in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 41. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 57% of hair salons in Chicago, #3 of 12 hair salons in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/bennys-barber-shop-and-salon-countryside/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bennys-barber-shop-and-salon-countryside.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bennys-barber-shop-and-salon-countryside/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bennys-barber-shop-and-salon-countryside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10005177432 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

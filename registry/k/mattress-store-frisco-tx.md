@@ -1,4 +1,4 @@
-The top unpaid mattress store listing for Frisco, TX is Mattress Firm (a mattress store in Frisco, TX at 6111 Custer Road #130, Frisco, TX 75035. Phone: +14698546708. Website: https://www.mattressfirm.com/en-us/stores/tx/frisco/002156/). 5 mattress store businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Frisco, TX is Mattress Firm (a mattress store in Frisco, TX at 6111 Custer Road #130, Frisco, TX 75035. Phone: +14698546708. Website: https://www.mattressfirm.com/en-us/stores/tx/frisco/002156/). 5 mattress store businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Frisco, TX?
 
@@ -6,11 +6,11 @@ Also answers: mattress store in Frisco, TX; mattress store near me (Frisco, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | Mattress Firm is a mattress store in Frisco, TX at 6111 Custer Road #130, Frisco, TX 75035. Phone: +14698546708. Website: https://www.mattressfirm.com/en-us/stores/tx/frisco/002156/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-frisco/
-2. Mattress Firm | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | Mattress Firm is a mattress store in Frisco, TX at 3031 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-frisco-n13320180693/
-3. Mattress Firm | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Mattress Firm is a mattress store in Frisco, TX at 5110 Eldorado Parkway #100, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-frisco-n13248622038/
-4. Mattress Firm | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Mattress Firm is a mattress store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-frisco-n12520256139/
-5. Sleep Number | Organic #5 | Pulse Score 41.7/100 (Building, #5 in city) | Sleep Number is a mattress store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/sleep-number-frisco/
+1. Mattress Firm | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | Mattress Firm is a mattress store in Frisco, TX at 6111 Custer Road #130, Frisco, TX 75035. Phone: +14698546708. Website: https://www.mattressfirm.com/en-us/stores/tx/frisco/002156/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco/
+2. Mattress Firm | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | Mattress Firm is a mattress store in Frisco, TX at 3031 Preston Road, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco-n13320180693/
+3. Mattress Firm | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Mattress Firm is a mattress store in Frisco, TX at 5110 Eldorado Parkway #100, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco-n13248622038/
+4. Mattress Firm | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Mattress Firm is a mattress store in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-frisco-n12520256139/
+5. Sleep Number | Organic #5 | Pulse Score 41.7/100 (Building, #5 in city) | Sleep Number is a mattress store in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/sleep-number-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store frisco tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mattress-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mattress-store-frisco-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mattress-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mattress-store-frisco-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

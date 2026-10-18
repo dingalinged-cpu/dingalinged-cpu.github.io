@@ -2,7 +2,7 @@
  "title": "Keyword market data: Skokie, IL",
  "description": "Top Skokie, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Skokie, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 52,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash skokie il",
     "slug": "car-wash-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-skokie-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist skokie il",
     "slug": "dentist-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-skokie-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym skokie il",
     "slug": "gym-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-skokie-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon skokie il",
     "slug": "hair-salon-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-skokie-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon skokie il",
     "slug": "nail-salon-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-skokie-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic skokie il",
     "slug": "mechanic-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-skokie-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop skokie il",
     "slug": "tire-shop-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-skokie-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -116,7 +116,7 @@
    {
     "keyword": "vet skokie il",
     "slug": "vet-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-skokie-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -131,7 +131,7 @@
    {
     "keyword": "dog groomer skokie il",
     "slug": "dog-groomer-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-skokie-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -146,7 +146,7 @@
    {
     "keyword": "haircut skokie il",
     "slug": "haircut-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-skokie-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -161,7 +161,7 @@
    {
     "keyword": "auto repair skokie il",
     "slug": "auto-repair-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-skokie-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -176,7 +176,7 @@
    {
     "keyword": "financial advisor skokie il",
     "slug": "financial-advisor-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-skokie-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -191,7 +191,7 @@
    {
     "keyword": "real estate agent skokie il",
     "slug": "real-estate-agent-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-skokie-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agency skokie il",
     "slug": "insurance-agency-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-skokie-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -221,7 +221,7 @@
    {
     "keyword": "pediatrician skokie il",
     "slug": "pediatrician-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-skokie-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair skokie il",
     "slug": "hvac-repair-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-skokie-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney skokie il",
     "slug": "attorney-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-skokie-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer skokie il",
     "slug": "lawyer-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-skokie-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -283,7 +283,7 @@
    {
     "keyword": "architect skokie il",
     "slug": "architect-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-skokie-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -298,7 +298,7 @@
    {
     "keyword": "flooring companies skokie il",
     "slug": "flooring-companies-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-skokie-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -313,7 +313,7 @@
    {
     "keyword": "heating and air skokie il",
     "slug": "heating-and-air-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-skokie-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -328,7 +328,7 @@
    {
     "keyword": "storage units skokie il",
     "slug": "storage-units-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-skokie-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "bakery skokie il",
     "slug": "bakery-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-skokie-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -358,7 +358,7 @@
    {
     "keyword": "caterers skokie il",
     "slug": "caterers-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/caterers-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-skokie-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -373,7 +373,7 @@
    {
     "keyword": "martial arts skokie il",
     "slug": "martial-arts-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-skokie-il/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8300,
@@ -388,7 +388,7 @@
    {
     "keyword": "tax preparer skokie il",
     "slug": "tax-preparer-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-skokie-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -403,7 +403,7 @@
    {
     "keyword": "daycare skokie il",
     "slug": "daycare-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-skokie-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -418,7 +418,7 @@
    {
     "keyword": "music lessons skokie il",
     "slug": "music-lessons-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/music-lessons-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/music-lessons-skokie-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -433,7 +433,7 @@
    {
     "keyword": "preschool skokie il",
     "slug": "preschool-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-skokie-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -448,7 +448,7 @@
    {
     "keyword": "acupuncture skokie il",
     "slug": "acupuncture-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/acupuncture-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/acupuncture-skokie-il/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 910,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist skokie il",
     "slug": "dentist-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-skokie-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash skokie il",
     "slug": "car-wash-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-skokie-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym skokie il",
     "slug": "gym-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-skokie-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic skokie il",
     "slug": "mechanic-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-skokie-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop skokie il",
     "slug": "tire-shop-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-skokie-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet skokie il",
     "slug": "vet-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-skokie-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "dog groomer skokie il",
     "slug": "dog-groomer-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-skokie-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut skokie il",
     "slug": "haircut-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-skokie-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair skokie il",
     "slug": "auto-repair-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-skokie-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -600,7 +600,7 @@
    {
     "keyword": "hvac repair skokie il",
     "slug": "hvac-repair-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-skokie-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -615,7 +615,7 @@
    {
     "keyword": "financial advisor skokie il",
     "slug": "financial-advisor-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-skokie-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -630,7 +630,7 @@
    {
     "keyword": "hair salon skokie il",
     "slug": "hair-salon-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-skokie-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -645,7 +645,7 @@
    {
     "keyword": "attorney skokie il",
     "slug": "attorney-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-skokie-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -660,7 +660,7 @@
    {
     "keyword": "real estate agent skokie il",
     "slug": "real-estate-agent-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-skokie-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -675,7 +675,7 @@
    {
     "keyword": "nail salon skokie il",
     "slug": "nail-salon-skokie-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-skokie-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-skokie-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,

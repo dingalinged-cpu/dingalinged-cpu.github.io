@@ -13,12 +13,12 @@ Chiu Quon Bakery is a bakery in Chicago, IL at 1127 West Argyle Street, Chicago,
 - Website: https://chiuquonbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-18:00; Tu Off
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 3% of bakerys in Chicago, #8 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 3% of bakerys in Chicago, #8 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 63.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/chiu-quon-bakery-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chiu-quon-bakery-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chiu-quon-bakery-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chiu-quon-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6282559360 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

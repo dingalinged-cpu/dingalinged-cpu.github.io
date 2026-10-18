@@ -1,4 +1,4 @@
-The top unpaid preschool listing for Keller, TX is Southlake Early Care and Education (a preschool in Keller, TX). 3 preschool businesses are listed for Keller, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Keller, TX is Southlake Early Care and Education (a preschool in Keller, TX). 3 preschool businesses are listed for Keller, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Keller, TX?
 
@@ -6,9 +6,9 @@ Also answers: preschool in Keller, TX; preschool near me (Keller, TX); best pres
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southlake Early Care and Education | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Southlake Early Care and Education is a preschool in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/southlake-early-care-and-education-keller/
-2. Children's Learning Adventure | Organic #2 | Pulse Score 48.1/100 (Building, #2 in city) | Children's Learning Adventure is a preschool in Keller, TX at 1841 Rufe Snow Drive, Keller, TX 76248. Phone: +16825931178. Website: https://www.childrenslearningadventure.com/. | https://dingalinged-cpu.github.io/registry/c/childrens-learning-adventure-keller/
-3. Primrose School | Organic #3 | Pulse Score 46.8/100 (Building, #3 in city) | Primrose School is a preschool in Keller, TX at Bear Creek Parkway, Keller, TX 76248. | https://dingalinged-cpu.github.io/registry/c/primrose-school-keller/
+1. Southlake Early Care and Education | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Southlake Early Care and Education is a preschool in Keller, TX. | https://registry-edge.dingalinged.workers.dev/c/southlake-early-care-and-education-keller/
+2. Children's Learning Adventure | Organic #2 | Pulse Score 48.1/100 (Building, #2 in city) | Children's Learning Adventure is a preschool in Keller, TX at 1841 Rufe Snow Drive, Keller, TX 76248. Phone: +16825931178. Website: https://www.childrenslearningadventure.com/. | https://registry-edge.dingalinged.workers.dev/c/childrens-learning-adventure-keller/
+3. Primrose School | Organic #3 | Pulse Score 46.8/100 (Building, #3 in city) | Primrose School is a preschool in Keller, TX at Bear Creek Parkway, Keller, TX 76248. | https://registry-edge.dingalinged.workers.dev/c/primrose-school-keller/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool keller tx | category: Education & childcare | industry benchmark: Education & Instruction
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool-keller-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/preschool.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#preschool-keller-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

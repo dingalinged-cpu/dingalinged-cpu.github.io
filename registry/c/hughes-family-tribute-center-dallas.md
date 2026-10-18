@@ -13,12 +13,12 @@ Hughes Family Tribute Center is a funeral home in Dallas, TX at 9700 Webbs Chape
 - Website: https://www.hughesftc.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of funeral homes in Dallas–Fort Worth, #2 of 11 funeral homes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of funeral homes in Dallas–Fort Worth, #2 of 11 funeral homes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hughes-family-tribute-center-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hughes-family-tribute-center-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hughes-family-tribute-center-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hughes-family-tribute-center-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/466984174 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Newport, MN",
  "description": "Top Newport, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Newport, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 23,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash newport mn",
     "slug": "car-wash-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-newport-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist newport mn",
     "slug": "dentist-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-newport-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym newport mn",
     "slug": "gym-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-newport-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon newport mn",
     "slug": "hair-salon-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-newport-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -71,7 +71,7 @@
    {
     "keyword": "plumber newport mn",
     "slug": "plumber-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-newport-mn/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic newport mn",
     "slug": "mechanic-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-newport-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop newport mn",
     "slug": "tire-shop-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-newport-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut newport mn",
     "slug": "haircut-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-newport-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair newport mn",
     "slug": "auto-repair-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-newport-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -146,7 +146,7 @@
    {
     "keyword": "movers newport mn",
     "slug": "movers-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/movers-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-newport-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog boarding newport mn",
     "slug": "dog-boarding-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-newport-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -176,7 +176,7 @@
    {
     "keyword": "electrician newport mn",
     "slug": "electrician-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-newport-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -191,7 +191,7 @@
    {
     "keyword": "landscaping newport mn",
     "slug": "landscaping-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-newport-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -206,7 +206,7 @@
    {
     "keyword": "moving company newport mn",
     "slug": "moving-company-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-newport-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agency newport mn",
     "slug": "insurance-agency-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-newport-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -238,7 +238,7 @@
    {
     "keyword": "plumbing services newport mn",
     "slug": "plumbing-services-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-newport-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -253,7 +253,7 @@
    {
     "keyword": "moving company newport mn",
     "slug": "moving-company-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-newport-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -268,7 +268,7 @@
    {
     "keyword": "electrician newport mn",
     "slug": "electrician-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-newport-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -283,7 +283,7 @@
    {
     "keyword": "plumber newport mn",
     "slug": "plumber-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-newport-mn/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -298,7 +298,7 @@
    {
     "keyword": "landscaping newport mn",
     "slug": "landscaping-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-newport-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -313,7 +313,7 @@
    {
     "keyword": "plumbers newport mn",
     "slug": "plumbers-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-newport-mn/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 40.0,
@@ -328,7 +328,7 @@
    {
     "keyword": "movers newport mn",
     "slug": "movers-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/movers-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-newport-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -343,7 +343,7 @@
    {
     "keyword": "dentist newport mn",
     "slug": "dentist-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-newport-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -358,7 +358,7 @@
    {
     "keyword": "haircut newport mn",
     "slug": "haircut-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-newport-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -373,7 +373,7 @@
    {
     "keyword": "auto repair newport mn",
     "slug": "auto-repair-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-newport-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -388,7 +388,7 @@
    {
     "keyword": "car wash newport mn",
     "slug": "car-wash-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-newport-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -403,7 +403,7 @@
    {
     "keyword": "mechanic newport mn",
     "slug": "mechanic-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-newport-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -418,7 +418,7 @@
    {
     "keyword": "motorcycle repair newport mn",
     "slug": "motorcycle-repair-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/motorcycle-repair-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/motorcycle-repair-newport-mn/",
     "us_monthly_searches": 22000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 240,
@@ -433,7 +433,7 @@
    {
     "keyword": "tire shop newport mn",
     "slug": "tire-shop-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-newport-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -448,7 +448,7 @@
    {
     "keyword": "windshield replacement newport mn",
     "slug": "windshield-replacement-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-newport-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -465,7 +465,7 @@
    {
     "keyword": "plumber newport mn",
     "slug": "plumber-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-newport-mn/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist newport mn",
     "slug": "dentist-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-newport-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash newport mn",
     "slug": "car-wash-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-newport-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -510,7 +510,7 @@
    {
     "keyword": "electrician newport mn",
     "slug": "electrician-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-newport-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym newport mn",
     "slug": "gym-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-newport-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic newport mn",
     "slug": "mechanic-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-newport-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -555,7 +555,7 @@
    {
     "keyword": "movers newport mn",
     "slug": "movers-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/movers-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-newport-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -570,7 +570,7 @@
    {
     "keyword": "moving company newport mn",
     "slug": "moving-company-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-newport-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -585,7 +585,7 @@
    {
     "keyword": "tire shop newport mn",
     "slug": "tire-shop-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-newport-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut newport mn",
     "slug": "haircut-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-newport-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -615,7 +615,7 @@
    {
     "keyword": "landscaping newport mn",
     "slug": "landscaping-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-newport-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -630,7 +630,7 @@
    {
     "keyword": "auto repair newport mn",
     "slug": "auto-repair-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-newport-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -645,7 +645,7 @@
    {
     "keyword": "dog boarding newport mn",
     "slug": "dog-boarding-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-newport-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -660,7 +660,7 @@
    {
     "keyword": "hair salon newport mn",
     "slug": "hair-salon-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-newport-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -675,7 +675,7 @@
    {
     "keyword": "plumbing services newport mn",
     "slug": "plumbing-services-newport-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-newport-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-newport-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,

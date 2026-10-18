@@ -13,12 +13,12 @@ Just Wright Barber Shop is a hair salon in Mesquite, TX at 1819 Crestridge Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 44% of hair salons in Dallas–Fort Worth, #8 of 15 hair salons in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 49.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 44% of hair salons in Dallas–Fort Worth, #8 of 15 hair salons in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/just-wright-barber-shop-mesquite/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/just-wright-barber-shop-mesquite.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/just-wright-barber-shop-mesquite/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/just-wright-barber-shop-mesquite.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1171015451 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

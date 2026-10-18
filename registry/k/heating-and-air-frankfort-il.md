@@ -1,4 +1,4 @@
-The top unpaid heating and air listing for Frankfort, IL is HAS Services (a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/). 2 heating and air businesses are listed for Frankfort, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Frankfort, IL is HAS Services (a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/). 2 heating and air businesses are listed for Frankfort, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Frankfort, IL?
 
@@ -6,8 +6,8 @@ Also answers: heating and air in Frankfort, IL; heating and air near me (Frankfo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HAS Services | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | HAS Services is a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/. | https://dingalinged-cpu.github.io/registry/c/has-services-frankfort/
-2. Air Source 1 Heating & Air Conditioning | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Air Source 1 Heating & Air Conditioning is a HVAC contractor in Frankfort, IL at 7649 Jamison Drive, Frankfort, IL 60423. Phone: +17089908965. Website: https://as1air.com/. | https://dingalinged-cpu.github.io/registry/c/air-source-1-heating-and-air-conditioning-frankfort/
+1. HAS Services | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | HAS Services is a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/. | https://registry-edge.dingalinged.workers.dev/c/has-services-frankfort/
+2. Air Source 1 Heating & Air Conditioning | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Air Source 1 Heating & Air Conditioning is a HVAC contractor in Frankfort, IL at 7649 Jamison Drive, Frankfort, IL 60423. Phone: +17089908965. Website: https://as1air.com/. | https://registry-edge.dingalinged.workers.dev/c/air-source-1-heating-and-air-conditioning-frankfort/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air frankfort il | category: Home Services | industry benchmark: Home & Home Improvement
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$53.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/heating-and-air.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#heating-and-air-frankfort-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/heating-and-air.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#heating-and-air-frankfort-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

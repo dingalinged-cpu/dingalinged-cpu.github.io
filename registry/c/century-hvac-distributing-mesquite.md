@@ -13,12 +13,12 @@ Century HVAC Distributing is a HVAC contractor in Mesquite, TX at 2900 Live Oak 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 82% of HVAC contractors in Dallas–Fort Worth, #3 of 3 HVAC contractors in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 82% of HVAC contractors in Dallas–Fort Worth, #3 of 3 HVAC contractors in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/century-hvac-distributing-mesquite/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/century-hvac-distributing-mesquite.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/century-hvac-distributing-mesquite/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/century-hvac-distributing-mesquite.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/640596507 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

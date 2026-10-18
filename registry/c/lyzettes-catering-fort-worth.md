@@ -13,12 +13,12 @@ Lyzette's Catering is a caterer in Fort Worth, TX at 4817 Brentwood Stair Road, 
 - Website: https://www.lyzettescatering.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 30% of caterers in Dallas–Fort Worth, #1 of 1 caterers in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 30% of caterers in Dallas–Fort Worth, #1 of 1 caterers in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lyzettes-catering-fort-worth/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lyzettes-catering-fort-worth.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lyzettes-catering-fort-worth/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lyzettes-catering-fort-worth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/498319194 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

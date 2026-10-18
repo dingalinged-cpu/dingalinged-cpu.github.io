@@ -13,12 +13,12 @@ Very Best Vintage is a thrift store in Chicago, IL at 1346 West 18th Street, Chi
 - Website: https://www.facebook.com/verybestvintage/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Good — top 14% of thrift stores in Chicago, #7 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Good — top 14% of thrift stores in Chicago, #7 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/very-best-vintage-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/very-best-vintage-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/very-best-vintage-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/very-best-vintage-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5928921227 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

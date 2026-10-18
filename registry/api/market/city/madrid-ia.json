@@ -2,7 +2,7 @@
  "title": "Keyword market data: Madrid, IA",
  "description": "Top Madrid, IA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Madrid, IA",
  "geography": "Des Moines-West Des Moines, IA metro",
  "keywords": 6,
@@ -11,7 +11,7 @@
    {
     "keyword": "real estate agent madrid ia",
     "slug": "real-estate-agent-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-madrid-ia/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -26,7 +26,7 @@
    {
     "keyword": "insurance agency madrid ia",
     "slug": "insurance-agency-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-madrid-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -41,7 +41,7 @@
    {
     "keyword": "realtor madrid ia",
     "slug": "realtor-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-madrid-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -56,7 +56,7 @@
    {
     "keyword": "insurance agents madrid ia",
     "slug": "insurance-agents-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-madrid-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -71,7 +71,7 @@
    {
     "keyword": "insurance agent madrid ia",
     "slug": "insurance-agent-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-madrid-ia/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 90.0,
@@ -88,7 +88,7 @@
    {
     "keyword": "bakery madrid ia",
     "slug": "bakery-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-madrid-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -103,7 +103,7 @@
    {
     "keyword": "realtor madrid ia",
     "slug": "realtor-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-madrid-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -118,7 +118,7 @@
    {
     "keyword": "real estate agent madrid ia",
     "slug": "real-estate-agent-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-madrid-ia/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -133,7 +133,7 @@
    {
     "keyword": "insurance agency madrid ia",
     "slug": "insurance-agency-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-madrid-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -148,7 +148,7 @@
    {
     "keyword": "insurance agent madrid ia",
     "slug": "insurance-agent-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-madrid-ia/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 90.0,
@@ -163,7 +163,7 @@
    {
     "keyword": "insurance agents madrid ia",
     "slug": "insurance-agents-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-madrid-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -180,7 +180,7 @@
    {
     "keyword": "real estate agent madrid ia",
     "slug": "real-estate-agent-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-madrid-ia/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -195,7 +195,7 @@
    {
     "keyword": "realtor madrid ia",
     "slug": "realtor-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-madrid-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -210,7 +210,7 @@
    {
     "keyword": "insurance agency madrid ia",
     "slug": "insurance-agency-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-madrid-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -225,7 +225,7 @@
    {
     "keyword": "insurance agents madrid ia",
     "slug": "insurance-agents-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-madrid-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -240,7 +240,7 @@
    {
     "keyword": "insurance agent madrid ia",
     "slug": "insurance-agent-madrid-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-madrid-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-madrid-ia/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 90.0,

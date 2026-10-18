@@ -13,12 +13,12 @@ Munoz Tax Services LLC (Alejandro Munoz) is a tax preparation service in Omaha, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 10:00-17:30; We-Fr 10:30-17:30
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 15% of tax preparation services in Omaha, NE, #1 of 3 tax preparation services in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 15% of tax preparation services in Omaha, NE, #1 of 3 tax preparation services in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/munoz-tax-services-llc-alejandro-munoz-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/munoz-tax-services-llc-alejandro-munoz-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/munoz-tax-services-llc-alejandro-munoz-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/munoz-tax-services-llc-alejandro-munoz-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/805819202 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

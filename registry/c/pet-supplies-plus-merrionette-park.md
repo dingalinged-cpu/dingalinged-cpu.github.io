@@ -13,12 +13,12 @@ Pet Supplies Plus is a pet store in Merrionette Park, IL at 3205 West 115th Stre
 - Website: https://www.petsuppliesplus.com/Store/IL/MERRIONETTE-PARK/Merrionette-Park/4038
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Building — top 84% of pet stores in Chicago, #1 of 1 pet stores in Merrionette Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 84% of pet stores in Chicago, #1 of 1 pet stores in Merrionette Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-merrionette-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-supplies-plus-merrionette-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-merrionette-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pet-supplies-plus-merrionette-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7246649527 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

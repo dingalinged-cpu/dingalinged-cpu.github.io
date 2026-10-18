@@ -13,12 +13,12 @@ Lenny's Hair Salon is a hair salon in Marietta, GA at 95 Church Street, Marietta
 - Website: https://www.lennyshairsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Atlanta, #22 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Atlanta, #22 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lennys-hair-salon-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lennys-hair-salon-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lennys-hair-salon-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lennys-hair-salon-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/245388688 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

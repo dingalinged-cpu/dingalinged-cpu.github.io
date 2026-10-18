@@ -13,12 +13,12 @@ T&T Nails & Spa is a nail salon in Sugar Land, TX at 4504 State Highway 6 South 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 11:00-17:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of nail salons in Houston, #3 of 10 nail salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of nail salons in Houston, #3 of 10 nail salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/t-and-t-nails-and-spa-sugar-land/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/t-and-t-nails-and-spa-sugar-land.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/t-and-t-nails-and-spa-sugar-land/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/t-and-t-nails-and-spa-sugar-land.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12793538390 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Snelling Avenue Fine Wines is a liquor store in Saint Paul, MN at 500 Snelling A
 - Website: https://snellingwines.wixsite.com/index
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 11:00-18:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of liquor stores in Minneapolis–St. Paul, #7 of 27 liquor stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of liquor stores in Minneapolis–St. Paul, #7 of 27 liquor stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/snelling-avenue-fine-wines-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/snelling-avenue-fine-wines-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/snelling-avenue-fine-wines-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/snelling-avenue-fine-wines-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7207338601 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

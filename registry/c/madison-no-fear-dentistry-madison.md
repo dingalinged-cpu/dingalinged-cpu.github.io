@@ -13,12 +13,12 @@ Madison No Fear Dentistry is a dentist in Madison, WI at 344 South Yellowstone D
 - Website: https://www.madisonnofeardentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 13% of dentists in Madison, #4 of 38 dentists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 13% of dentists in Madison, #4 of 38 dentists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/madison-no-fear-dentistry-madison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/madison-no-fear-dentistry-madison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/madison-no-fear-dentistry-madison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/madison-no-fear-dentistry-madison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/316329982 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Rowlett, TX",
  "description": "Top Rowlett, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Rowlett, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 23,
@@ -11,7 +11,7 @@
    {
     "keyword": "urgent care rowlett tx",
     "slug": "urgent-care-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-rowlett-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 68000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash rowlett tx",
     "slug": "car-wash-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-rowlett-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist rowlett tx",
     "slug": "dentist-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rowlett-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym rowlett tx",
     "slug": "gym-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-rowlett-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon rowlett tx",
     "slug": "hair-salon-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-rowlett-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon rowlett tx",
     "slug": "nail-salon-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-rowlett-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic rowlett tx",
     "slug": "mechanic-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rowlett-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop rowlett tx",
     "slug": "tire-shop-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rowlett-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet rowlett tx",
     "slug": "vet-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-rowlett-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -146,7 +146,7 @@
    {
     "keyword": "haircut rowlett tx",
     "slug": "haircut-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rowlett-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -161,7 +161,7 @@
    {
     "keyword": "auto repair rowlett tx",
     "slug": "auto-repair-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rowlett-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -176,7 +176,7 @@
    {
     "keyword": "brake repair rowlett tx",
     "slug": "brake-repair-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/brake-repair-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/brake-repair-rowlett-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -191,7 +191,7 @@
    {
     "keyword": "roofing contractor rowlett tx",
     "slug": "roofing-contractor-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-rowlett-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -206,7 +206,7 @@
    {
     "keyword": "hvac repair rowlett tx",
     "slug": "hvac-repair-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-rowlett-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -221,7 +221,7 @@
    {
     "keyword": "roofer rowlett tx",
     "slug": "roofer-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-rowlett-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair rowlett tx",
     "slug": "hvac-repair-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-rowlett-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofing contractor rowlett tx",
     "slug": "roofing-contractor-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-rowlett-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofer rowlett tx",
     "slug": "roofer-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-rowlett-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -283,7 +283,7 @@
    {
     "keyword": "heating and air rowlett tx",
     "slug": "heating-and-air-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-rowlett-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "storage units rowlett tx",
     "slug": "storage-units-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-rowlett-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -313,7 +313,7 @@
    {
     "keyword": "eye doctor rowlett tx",
     "slug": "eye-doctor-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-rowlett-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -328,7 +328,7 @@
    {
     "keyword": "urgent care rowlett tx",
     "slug": "urgent-care-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-rowlett-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 68000,
@@ -343,7 +343,7 @@
    {
     "keyword": "dentist rowlett tx",
     "slug": "dentist-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rowlett-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -358,7 +358,7 @@
    {
     "keyword": "haircut rowlett tx",
     "slug": "haircut-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rowlett-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -373,7 +373,7 @@
    {
     "keyword": "auto repair rowlett tx",
     "slug": "auto-repair-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rowlett-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -388,7 +388,7 @@
    {
     "keyword": "brake repair rowlett tx",
     "slug": "brake-repair-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/brake-repair-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/brake-repair-rowlett-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -403,7 +403,7 @@
    {
     "keyword": "car wash rowlett tx",
     "slug": "car-wash-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-rowlett-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -418,7 +418,7 @@
    {
     "keyword": "mechanic rowlett tx",
     "slug": "mechanic-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rowlett-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -433,7 +433,7 @@
    {
     "keyword": "tire shop rowlett tx",
     "slug": "tire-shop-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rowlett-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -448,7 +448,7 @@
    {
     "keyword": "furniture store rowlett tx",
     "slug": "furniture-store-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-rowlett-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -465,7 +465,7 @@
    {
     "keyword": "urgent care rowlett tx",
     "slug": "urgent-care-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-rowlett-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 68000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist rowlett tx",
     "slug": "dentist-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rowlett-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash rowlett tx",
     "slug": "car-wash-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-rowlett-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym rowlett tx",
     "slug": "gym-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-rowlett-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic rowlett tx",
     "slug": "mechanic-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rowlett-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop rowlett tx",
     "slug": "tire-shop-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rowlett-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet rowlett tx",
     "slug": "vet-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-rowlett-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut rowlett tx",
     "slug": "haircut-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rowlett-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -585,7 +585,7 @@
    {
     "keyword": "roofing contractor rowlett tx",
     "slug": "roofing-contractor-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-rowlett-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair rowlett tx",
     "slug": "auto-repair-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rowlett-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -615,7 +615,7 @@
    {
     "keyword": "hvac repair rowlett tx",
     "slug": "hvac-repair-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-rowlett-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -630,7 +630,7 @@
    {
     "keyword": "hair salon rowlett tx",
     "slug": "hair-salon-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-rowlett-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -645,7 +645,7 @@
    {
     "keyword": "nail salon rowlett tx",
     "slug": "nail-salon-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-rowlett-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -660,7 +660,7 @@
    {
     "keyword": "brake repair rowlett tx",
     "slug": "brake-repair-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/brake-repair-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/brake-repair-rowlett-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -675,7 +675,7 @@
    {
     "keyword": "roofer rowlett tx",
     "slug": "roofer-rowlett-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-rowlett-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-rowlett-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,

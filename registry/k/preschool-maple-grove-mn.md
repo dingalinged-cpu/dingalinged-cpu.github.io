@@ -1,4 +1,4 @@
-The top unpaid preschool listing for Maple Grove, MN is Yellow Brick Road (a preschool in Maple Grove, MN at 9745 Revere Lane North, Maple Grove, MN 55369. Phone: +16129273232. Website: https://www.ybrecdc.org/). 4 preschool businesses are listed for Maple Grove, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Maple Grove, MN is Yellow Brick Road (a preschool in Maple Grove, MN at 9745 Revere Lane North, Maple Grove, MN 55369. Phone: +16129273232. Website: https://www.ybrecdc.org/). 4 preschool businesses are listed for Maple Grove, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Maple Grove, MN?
 
@@ -6,10 +6,10 @@ Also answers: preschool in Maple Grove, MN; preschool near me (Maple Grove, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Yellow Brick Road | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Yellow Brick Road is a preschool in Maple Grove, MN at 9745 Revere Lane North, Maple Grove, MN 55369. Phone: +16129273232. Website: https://www.ybrecdc.org/. | https://dingalinged-cpu.github.io/registry/c/yellow-brick-road-maple-grove/
-2. KinderCare | Organic #2 | Pulse Score 49.6/100 (Building, #2 in city) | KinderCare is a preschool in Maple Grove, MN at 13380 Grove Drive North, Maple Grove, MN 55369. Phone: +17634209200. Website: https://www.kindercare.com/our-centers/maple-grove/mn/301287. | https://dingalinged-cpu.github.io/registry/c/kindercare-maple-grove/
-3. Casa de Corazón | Organic #3 | Pulse Score 47.7/100 (Unrated, #3 in city) | Casa de Corazón is a preschool in Maple Grove, MN at 8351 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17634163992. Website: https://casaearlylearning.com/. | https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-maple-grove/
-4. Tutor Time of Maple Grove | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Tutor Time of Maple Grove is a preschool in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/tutor-time-of-maple-grove-maple-grove/
+1. Yellow Brick Road | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Yellow Brick Road is a preschool in Maple Grove, MN at 9745 Revere Lane North, Maple Grove, MN 55369. Phone: +16129273232. Website: https://www.ybrecdc.org/. | https://registry-edge.dingalinged.workers.dev/c/yellow-brick-road-maple-grove/
+2. KinderCare | Organic #2 | Pulse Score 49.6/100 (Building, #2 in city) | KinderCare is a preschool in Maple Grove, MN at 13380 Grove Drive North, Maple Grove, MN 55369. Phone: +17634209200. Website: https://www.kindercare.com/our-centers/maple-grove/mn/301287. | https://registry-edge.dingalinged.workers.dev/c/kindercare-maple-grove/
+3. Casa de Corazón | Organic #3 | Pulse Score 47.7/100 (Unrated, #3 in city) | Casa de Corazón is a preschool in Maple Grove, MN at 8351 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17634163992. Website: https://casaearlylearning.com/. | https://registry-edge.dingalinged.workers.dev/c/casa-de-coraz-n-maple-grove/
+4. Tutor Time of Maple Grove | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Tutor Time of Maple Grove is a preschool in Maple Grove, MN. | https://registry-edge.dingalinged.workers.dev/c/tutor-time-of-maple-grove-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool maple grove mn | category: Education & childcare | industry benchmark: Education & Instruction
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$660 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool-maple-grove-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/preschool.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#preschool-maple-grove-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Infinite Aquatics is a pet store in Pasadena, TX at 7407 Spencer Highway #440, P
 - Website: https://infiniteaquatics.net/
 - Email: infinitaquatics@outlook.com
 - Opening hours (OSM syntax): Mo-Su 11:00-19:00
-- Pulse Score: 65.1/100 — Good — top 2% of pet stores in Houston, #1 of 1 pet stores in Pasadena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 2% of pet stores in Houston, #1 of 1 pet stores in Pasadena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/infinite-aquatics-pasadena/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/infinite-aquatics-pasadena.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/infinite-aquatics-pasadena/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/infinite-aquatics-pasadena.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13659711953 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

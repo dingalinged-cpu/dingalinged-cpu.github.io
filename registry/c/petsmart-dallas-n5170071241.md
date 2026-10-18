@@ -13,12 +13,12 @@ PetSmart is a pet store in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 09:00-19:00; Mo-Sa 09:00-21:00
-- Pulse Score: 43.2/100 — Building — top 82% of pet stores in Dallas–Fort Worth, #17 of 24 pet stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 44.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 82% of pet stores in Dallas–Fort Worth, #17 of 24 pet stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/petsmart-dallas-n5170071241/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/petsmart-dallas-n5170071241.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petsmart-dallas-n5170071241/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petsmart-dallas-n5170071241.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5170071241 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

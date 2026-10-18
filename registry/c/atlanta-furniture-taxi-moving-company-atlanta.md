@@ -13,12 +13,12 @@ Atlanta Furniture Taxi Moving Company is a moving company in Atlanta, GA at 2340
 - Website: https://www.atlantafurnituremovers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 09:00-17:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 58% of moving companys in Atlanta, #2 of 2 moving companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 58% of moving companys in Atlanta, #2 of 2 moving companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/atlanta-furniture-taxi-moving-company-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/atlanta-furniture-taxi-moving-company-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/atlanta-furniture-taxi-moving-company-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/atlanta-furniture-taxi-moving-company-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10736726977 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

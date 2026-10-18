@@ -13,12 +13,12 @@ My Favorite Cleaners is a dry cleaner in Richmond, TX at 11020 Harlem Road #600,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64/100 — Good — top 1% of dry cleaners in Houston, #1 of 2 dry cleaners in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 1% of dry cleaners in Houston, #1 of 2 dry cleaners in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/my-favorite-cleaners-richmond/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/my-favorite-cleaners-richmond.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/my-favorite-cleaners-richmond/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/my-favorite-cleaners-richmond.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1323189033 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

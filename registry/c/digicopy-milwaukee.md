@@ -13,12 +13,12 @@ DigiCopy is a printing service in Milwaukee, WI at 222 East Erie Street #Suite 7
 - Website: https://dcopy.net/locations/milwaukee.php
 - Email: milwaukee_erie@dcopy.net
 - Opening hours (OSM syntax): Mo-Th 07:00-22:00; Fr 07:00-19:00; Sa 09:00-18:00; Su 12:00-18:00
-- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 53% of printing services in Milwaukee, #12 of 16 printing services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.3, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 53% of printing services in Milwaukee, #12 of 16 printing services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/digicopy-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/digicopy-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/digicopy-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/digicopy-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1316711298 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

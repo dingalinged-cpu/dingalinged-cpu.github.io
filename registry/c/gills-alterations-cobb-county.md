@@ -13,12 +13,12 @@ Gill's Alterations is a dry cleaner in Cobb County, GA at 2932 Canton Road #270,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su off
-- Pulse Score: 63.5/100 — Good — top 11% of dry cleaners in Atlanta, #3 of 24 dry cleaners in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 11% of dry cleaners in Atlanta, #3 of 24 dry cleaners in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/gills-alterations-cobb-county/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gills-alterations-cobb-county.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gills-alterations-cobb-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gills-alterations-cobb-county.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11189103790 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

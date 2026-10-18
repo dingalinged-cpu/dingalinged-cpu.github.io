@@ -13,12 +13,12 @@ ULR Properties - Dallas is a real estate agency in Dallas, TX at 2320 North Hous
 - Website: https://urbanleasing.com/dallas-apartments/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-21:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 29% of real estate agencys in Dallas–Fort Worth, #13 of 36 real estate agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 29% of real estate agencys in Dallas–Fort Worth, #13 of 36 real estate agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ulr-properties-dallas-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ulr-properties-dallas-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ulr-properties-dallas-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ulr-properties-dallas-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5159506514 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

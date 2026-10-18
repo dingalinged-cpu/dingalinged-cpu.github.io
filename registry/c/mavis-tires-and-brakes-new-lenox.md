@@ -13,12 +13,12 @@ Mavis Tires & Brakes is an auto repair shop in New Lenox, IL at 2460 Lincoln Hig
 - Website: https://www.mavistire.com/locations/new-lenox-il.asp
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 56% of auto repair shops in Chicago, #7 of 7 auto repair shops in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 56% of auto repair shops in Chicago, #7 of 7 auto repair shops in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-new-lenox/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mavis-tires-and-brakes-new-lenox.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mavis-tires-and-brakes-new-lenox/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mavis-tires-and-brakes-new-lenox.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/995791070 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

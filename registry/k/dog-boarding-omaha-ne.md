@@ -1,4 +1,4 @@
-The top unpaid dog boarding listing for Omaha, NE is Dogtopia (a dog boarding facility in Omaha, NE at 18920 Edna Street, Omaha, NE 68136. Phone: +14022050074. Website: https://www.dogtopia.com/omaha-millard/). 2 dog boarding businesses are listed for Omaha, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Omaha, NE is Dogtopia (a dog boarding facility in Omaha, NE at 18920 Edna Street, Omaha, NE 68136. Phone: +14022050074. Website: https://www.dogtopia.com/omaha-millard/). 2 dog boarding businesses are listed for Omaha, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Omaha, NE?
 
@@ -6,8 +6,8 @@ Also answers: dog boarding in Omaha, NE; dog boarding near me (Omaha, NE); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dogtopia | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Dogtopia is a dog boarding facility in Omaha, NE at 18920 Edna Street, Omaha, NE 68136. Phone: +14022050074. Website: https://www.dogtopia.com/omaha-millard/. | https://dingalinged-cpu.github.io/registry/c/dogtopia-omaha-n13194833940/
-2. Dogtopia | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Dogtopia is a dog boarding facility in Omaha, NE at 14485 West Center Road, Omaha, NE 68144. | https://dingalinged-cpu.github.io/registry/c/dogtopia-omaha/
+1. Dogtopia | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Dogtopia is a dog boarding facility in Omaha, NE at 18920 Edna Street, Omaha, NE 68136. Phone: +14022050074. Website: https://www.dogtopia.com/omaha-millard/. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-omaha-n13194833940/
+2. Dogtopia | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Dogtopia is a dog boarding facility in Omaha, NE at 14485 West Center Road, Omaha, NE 68144. | https://registry-edge.dingalinged.workers.dev/c/dogtopia-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding omaha ne | category: Pets | industry benchmark: Animals & Pets
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dog-boarding.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dog-boarding-omaha-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dog-boarding.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dog-boarding-omaha-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

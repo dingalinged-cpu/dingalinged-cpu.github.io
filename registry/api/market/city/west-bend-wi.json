@@ -2,7 +2,7 @@
  "title": "Keyword market data: West Bend, WI",
  "description": "Top West Bend, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "West Bend, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 39,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash west bend wi",
     "slug": "car-wash-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-west-bend-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist west bend wi",
     "slug": "dentist-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-west-bend-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym west bend wi",
     "slug": "gym-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-west-bend-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon west bend wi",
     "slug": "hair-salon-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-west-bend-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon west bend wi",
     "slug": "nail-salon-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-west-bend-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic west bend wi",
     "slug": "mechanic-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-west-bend-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet west bend wi",
     "slug": "vet-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-west-bend-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -116,7 +116,7 @@
    {
     "keyword": "dog groomer west bend wi",
     "slug": "dog-groomer-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-west-bend-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -131,7 +131,7 @@
    {
     "keyword": "haircut west bend wi",
     "slug": "haircut-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-west-bend-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -146,7 +146,7 @@
    {
     "keyword": "auto repair west bend wi",
     "slug": "auto-repair-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-west-bend-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "financial advisor west bend wi",
     "slug": "financial-advisor-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-west-bend-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agency west bend wi",
     "slug": "insurance-agency-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-west-bend-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -191,7 +191,7 @@
    {
     "keyword": "attorney west bend wi",
     "slug": "attorney-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-west-bend-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -206,7 +206,7 @@
    {
     "keyword": "tax preparation west bend wi",
     "slug": "tax-preparation-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-west-bend-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -221,7 +221,7 @@
    {
     "keyword": "auto body shop west bend wi",
     "slug": "auto-body-shop-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-west-bend-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney west bend wi",
     "slug": "attorney-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-west-bend-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer west bend wi",
     "slug": "lawyer-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-west-bend-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -268,7 +268,7 @@
    {
     "keyword": "window repair west bend wi",
     "slug": "window-repair-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-repair-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-west-bend-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 180,
@@ -283,7 +283,7 @@
    {
     "keyword": "window replacement west bend wi",
     "slug": "window-replacement-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-replacement-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-west-bend-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -298,7 +298,7 @@
    {
     "keyword": "flooring companies west bend wi",
     "slug": "flooring-companies-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-west-bend-wi/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 83.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "staffing agency west bend wi",
     "slug": "staffing-agency-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-west-bend-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -328,7 +328,7 @@
    {
     "keyword": "tax preparer west bend wi",
     "slug": "tax-preparer-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-bend-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -343,7 +343,7 @@
    {
     "keyword": "daycare west bend wi",
     "slug": "daycare-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-west-bend-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -358,7 +358,7 @@
    {
     "keyword": "assisted living west bend wi",
     "slug": "assisted-living-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-west-bend-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -373,7 +373,7 @@
    {
     "keyword": "physical therapy west bend wi",
     "slug": "physical-therapy-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-west-bend-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -388,7 +388,7 @@
    {
     "keyword": "podiatrist west bend wi",
     "slug": "podiatrist-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/podiatrist-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/podiatrist-west-bend-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -403,7 +403,7 @@
    {
     "keyword": "dentist west bend wi",
     "slug": "dentist-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-west-bend-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -418,7 +418,7 @@
    {
     "keyword": "haircut west bend wi",
     "slug": "haircut-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-west-bend-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -433,7 +433,7 @@
    {
     "keyword": "auto body shop west bend wi",
     "slug": "auto-body-shop-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-west-bend-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -448,7 +448,7 @@
    {
     "keyword": "auto repair west bend wi",
     "slug": "auto-repair-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-west-bend-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist west bend wi",
     "slug": "dentist-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-west-bend-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash west bend wi",
     "slug": "car-wash-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-west-bend-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym west bend wi",
     "slug": "gym-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-west-bend-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic west bend wi",
     "slug": "mechanic-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-west-bend-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -525,7 +525,7 @@
    {
     "keyword": "vet west bend wi",
     "slug": "vet-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-west-bend-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -540,7 +540,7 @@
    {
     "keyword": "dog groomer west bend wi",
     "slug": "dog-groomer-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-west-bend-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut west bend wi",
     "slug": "haircut-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-west-bend-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair west bend wi",
     "slug": "auto-repair-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-west-bend-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon west bend wi",
     "slug": "hair-salon-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-west-bend-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -600,7 +600,7 @@
    {
     "keyword": "financial advisor west bend wi",
     "slug": "financial-advisor-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-west-bend-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -615,7 +615,7 @@
    {
     "keyword": "attorney west bend wi",
     "slug": "attorney-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-west-bend-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -630,7 +630,7 @@
    {
     "keyword": "nail salon west bend wi",
     "slug": "nail-salon-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-west-bend-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -645,7 +645,7 @@
    {
     "keyword": "lawyer west bend wi",
     "slug": "lawyer-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-west-bend-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -660,7 +660,7 @@
    {
     "keyword": "tax preparer west bend wi",
     "slug": "tax-preparer-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-bend-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agency west bend wi",
     "slug": "insurance-agency-west-bend-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-west-bend-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-west-bend-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,

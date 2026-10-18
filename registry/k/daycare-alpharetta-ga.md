@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Alpharetta, GA is Joyful Praise Academy (a daycare in Alpharetta, GA at 2965 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705948300. Website: https://jpcacademy.com/). 3 daycare businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Alpharetta, GA is Joyful Praise Academy (a daycare in Alpharetta, GA at 2965 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705948300. Website: https://jpcacademy.com/). 3 daycare businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Alpharetta, GA?
 
@@ -6,9 +6,9 @@ Also answers: daycare in Alpharetta, GA; daycare near me (Alpharetta, GA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Joyful Praise Academy | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Joyful Praise Academy is a daycare in Alpharetta, GA at 2965 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705948300. Website: https://jpcacademy.com/. | https://dingalinged-cpu.github.io/registry/c/joyful-praise-academy-alpharetta/
-2. Carrington Academy | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Carrington Academy is a daycare in Alpharetta, GA at 6670 Shiloh Road, Alpharetta, GA 30005. | https://dingalinged-cpu.github.io/registry/c/carrington-academy-alpharetta/
-3. Kids 'R' Kids | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Kids 'R' Kids is a daycare in Alpharetta, GA at 4780 West Morton Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-alpharetta/
+1. Joyful Praise Academy | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Joyful Praise Academy is a daycare in Alpharetta, GA at 2965 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705948300. Website: https://jpcacademy.com/. | https://registry-edge.dingalinged.workers.dev/c/joyful-praise-academy-alpharetta/
+2. Carrington Academy | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Carrington Academy is a daycare in Alpharetta, GA at 6670 Shiloh Road, Alpharetta, GA 30005. | https://registry-edge.dingalinged.workers.dev/c/carrington-academy-alpharetta/
+3. Kids 'R' Kids | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Kids 'R' Kids is a daycare in Alpharetta, GA at 4780 West Morton Road, Alpharetta, GA 30022. | https://registry-edge.dingalinged.workers.dev/c/kids-r-kids-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare alpharetta ga | category: Education & childcare | industry benchmark: Education & Instruction
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare-alpharetta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/daycare.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#daycare-alpharetta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

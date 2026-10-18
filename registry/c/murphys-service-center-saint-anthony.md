@@ -13,12 +13,12 @@ Murphys Service Center is an auto repair shop in Saint Anthony, MN at 3501 29th 
 - Website: https://www.murphysservicecenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): 07:00-19:00
-- Pulse Score: 49.3/100 — Building — top 75% of auto repair shops in Minneapolis–St. Paul, #3 of 5 auto repair shops in Saint Anthony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 75% of auto repair shops in Minneapolis–St. Paul, #3 of 5 auto repair shops in Saint Anthony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/murphys-service-center-saint-anthony/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/murphys-service-center-saint-anthony.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/murphys-service-center-saint-anthony/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/murphys-service-center-saint-anthony.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/166552237 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

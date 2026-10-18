@@ -13,12 +13,12 @@ Christine McGinnis, Psy.D is a therapy practice in Roswell, GA at 703 Macy Drive
 - Website: https://drchristinemcginnis.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 37% of therapy practices in Atlanta, #1 of 1 therapy practices in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 37% of therapy practices in Atlanta, #1 of 1 therapy practices in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/christine-mcginnis-psy-d-roswell/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/christine-mcginnis-psy-d-roswell.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/christine-mcginnis-psy-d-roswell/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/christine-mcginnis-psy-d-roswell.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9679234516 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

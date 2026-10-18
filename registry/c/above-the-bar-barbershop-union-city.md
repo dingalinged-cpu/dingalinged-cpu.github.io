@@ -13,12 +13,12 @@ Above The Bar Barbershop is a barber shop in Union City, GA at 6641 Roosevelt Hi
 - Website: https://www.abovethebarbarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.5/100 — Good — top 15% of barber shops in Atlanta, #1 of 1 barber shops in Union City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 65.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 15% of barber shops in Atlanta, #1 of 1 barber shops in Union City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 65.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/above-the-bar-barbershop-union-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/above-the-bar-barbershop-union-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/above-the-bar-barbershop-union-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/above-the-bar-barbershop-union-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13641005707 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

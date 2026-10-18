@@ -2,7 +2,7 @@
  "title": "Keyword market data: Dentists & Dental Services",
  "description": "Top Dentists & Dental Services keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Dentists & Dental Services",
  "keywords": 11,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "dentist",
     "slug": "dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.7,
@@ -24,7 +24,7 @@
    {
     "keyword": "emergency dentist",
     "slug": "emergency-dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-dentist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-dentist",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -38,7 +38,7 @@
    {
     "keyword": "teeth whitening",
     "slug": "teeth-whitening",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#teeth-whitening",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#teeth-whitening",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 2.24,
@@ -52,7 +52,7 @@
    {
     "keyword": "dental implants",
     "slug": "dental-implants",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dental-implants",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dental-implants",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -66,7 +66,7 @@
    {
     "keyword": "invisalign",
     "slug": "invisalign",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#invisalign",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#invisalign",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -80,7 +80,7 @@
    {
     "keyword": "pediatric dentist",
     "slug": "pediatric-dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#pediatric-dentist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#pediatric-dentist",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -94,7 +94,7 @@
    {
     "keyword": "root canal",
     "slug": "root-canal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#root-canal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#root-canal",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -108,7 +108,7 @@
    {
     "keyword": "dentures",
     "slug": "dentures",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentures",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentures",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -122,7 +122,7 @@
    {
     "keyword": "cosmetic dentist",
     "slug": "cosmetic-dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cosmetic-dentist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cosmetic-dentist",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -136,7 +136,7 @@
    {
     "keyword": "wisdom teeth removal",
     "slug": "wisdom-teeth-removal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#wisdom-teeth-removal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#wisdom-teeth-removal",
     "us_monthly_searches": 14800,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -152,7 +152,7 @@
    {
     "keyword": "cosmetic dentist",
     "slug": "cosmetic-dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cosmetic-dentist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cosmetic-dentist",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -166,7 +166,7 @@
    {
     "keyword": "dental implants",
     "slug": "dental-implants",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dental-implants",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dental-implants",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -180,7 +180,7 @@
    {
     "keyword": "dentures",
     "slug": "dentures",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentures",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentures",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -194,7 +194,7 @@
    {
     "keyword": "emergency dentist",
     "slug": "emergency-dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-dentist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-dentist",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -208,7 +208,7 @@
    {
     "keyword": "invisalign",
     "slug": "invisalign",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#invisalign",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#invisalign",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -222,7 +222,7 @@
    {
     "keyword": "orthodontist",
     "slug": "orthodontist",
-    "url": "https://dingalinged-cpu.github.io/registry/k/orthodontist/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/orthodontist/",
     "us_monthly_searches": 160000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 8.0,
@@ -236,7 +236,7 @@
    {
     "keyword": "pediatric dentist",
     "slug": "pediatric-dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#pediatric-dentist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#pediatric-dentist",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -250,7 +250,7 @@
    {
     "keyword": "root canal",
     "slug": "root-canal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#root-canal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#root-canal",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -264,7 +264,7 @@
    {
     "keyword": "wisdom teeth removal",
     "slug": "wisdom-teeth-removal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#wisdom-teeth-removal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#wisdom-teeth-removal",
     "us_monthly_searches": 14800,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -278,7 +278,7 @@
    {
     "keyword": "dentist",
     "slug": "dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.7,
@@ -292,7 +292,7 @@
    {
     "keyword": "teeth whitening",
     "slug": "teeth-whitening",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#teeth-whitening",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#teeth-whitening",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 2.24,
@@ -308,7 +308,7 @@
    {
     "keyword": "dentist",
     "slug": "dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.7,
@@ -322,7 +322,7 @@
    {
     "keyword": "emergency dentist",
     "slug": "emergency-dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-dentist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-dentist",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -336,7 +336,7 @@
    {
     "keyword": "dental implants",
     "slug": "dental-implants",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dental-implants",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dental-implants",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -350,7 +350,7 @@
    {
     "keyword": "invisalign",
     "slug": "invisalign",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#invisalign",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#invisalign",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -364,7 +364,7 @@
    {
     "keyword": "pediatric dentist",
     "slug": "pediatric-dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#pediatric-dentist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#pediatric-dentist",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -378,7 +378,7 @@
    {
     "keyword": "root canal",
     "slug": "root-canal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#root-canal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#root-canal",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -392,7 +392,7 @@
    {
     "keyword": "dentures",
     "slug": "dentures",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentures",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentures",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -406,7 +406,7 @@
    {
     "keyword": "teeth whitening",
     "slug": "teeth-whitening",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#teeth-whitening",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#teeth-whitening",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 2.24,
@@ -420,7 +420,7 @@
    {
     "keyword": "cosmetic dentist",
     "slug": "cosmetic-dentist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cosmetic-dentist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cosmetic-dentist",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,
@@ -434,7 +434,7 @@
    {
     "keyword": "wisdom teeth removal",
     "slug": "wisdom-teeth-removal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#wisdom-teeth-removal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#wisdom-teeth-removal",
     "us_monthly_searches": 14800,
     "us_volume_method": "cited",
     "cpc_basis_usd": 8.0,

@@ -13,12 +13,12 @@ Foreign and Domestic Auto Body of Evanston is an auto repair shop in Evanston, I
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Chicago, #7 of 18 auto repair shops in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 30% of auto repair shops in Chicago, #7 of 18 auto repair shops in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 48.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/foreign-and-domestic-auto-body-of-evanston-evanston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/foreign-and-domestic-auto-body-of-evanston-evanston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/foreign-and-domestic-auto-body-of-evanston-evanston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/foreign-and-domestic-auto-body-of-evanston-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/745477149 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

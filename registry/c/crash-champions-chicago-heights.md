@@ -13,12 +13,12 @@ Crash Champions is an auto repair shop in Chicago Heights, IL at 311 North Halst
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.1/100 — Building — top 92% of auto repair shops in Chicago, #3 of 3 auto repair shops in Chicago Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 42. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 92% of auto repair shops in Chicago, #3 of 3 auto repair shops in Chicago Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago-heights/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-chicago-heights.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crash-champions-chicago-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crash-champions-chicago-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1167119327 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

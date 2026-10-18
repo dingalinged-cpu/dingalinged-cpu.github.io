@@ -13,12 +13,12 @@ Dog Days Daycare & Boarding is a dog boarding facility in Saint Paul, MN. Phone:
 - Website: https://www.dogdaysinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 31% of dog boarding facilitys in Minneapolis–St. Paul, #4 of 6 dog boarding facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 31% of dog boarding facilitys in Minneapolis–St. Paul, #4 of 6 dog boarding facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dog-days-daycare-and-boarding-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dog-days-daycare-and-boarding-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dog-days-daycare-and-boarding-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dog-days-daycare-and-boarding-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8825834065 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

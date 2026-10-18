@@ -2,7 +2,7 @@
  "title": "Keyword market data: Galveston, TX",
  "description": "Top Galveston, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Galveston, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 2,
@@ -11,7 +11,7 @@
    {
     "keyword": "gym galveston tx",
     "slug": "gym-galveston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-galveston-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-galveston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -28,7 +28,7 @@
    {
     "keyword": "liquor store galveston tx",
     "slug": "liquor-store-galveston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-galveston-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-galveston-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -43,7 +43,7 @@
    {
     "keyword": "gym galveston tx",
     "slug": "gym-galveston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-galveston-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-galveston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -60,7 +60,7 @@
    {
     "keyword": "gym galveston tx",
     "slug": "gym-galveston-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-galveston-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-galveston-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,

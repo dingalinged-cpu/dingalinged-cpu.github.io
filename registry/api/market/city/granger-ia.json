@@ -2,7 +2,7 @@
  "title": "Keyword market data: Granger, IA",
  "description": "Top Granger, IA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Granger, IA",
  "geography": "Des Moines-West Des Moines, IA metro",
  "keywords": 3,
@@ -11,7 +11,7 @@
    {
     "keyword": "hair salon granger ia",
     "slug": "hair-salon-granger-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-granger-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-granger-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -26,7 +26,7 @@
    {
     "keyword": "haircut granger ia",
     "slug": "haircut-granger-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-granger-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-granger-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -43,7 +43,7 @@
    {
     "keyword": "haircut granger ia",
     "slug": "haircut-granger-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-granger-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-granger-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -58,7 +58,7 @@
    {
     "keyword": "used cars for sale granger ia",
     "slug": "used-cars-for-sale-granger-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-granger-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-granger-ia/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 310,
@@ -73,7 +73,7 @@
    {
     "keyword": "hair salon granger ia",
     "slug": "hair-salon-granger-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-granger-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-granger-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -90,7 +90,7 @@
    {
     "keyword": "haircut granger ia",
     "slug": "haircut-granger-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-granger-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-granger-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -105,7 +105,7 @@
    {
     "keyword": "hair salon granger ia",
     "slug": "hair-salon-granger-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-granger-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-granger-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,

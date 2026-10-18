@@ -13,12 +13,12 @@ Glo Sun Spa is a tanning salon in Sugar Land, TX at 15820 Southwest Freeway #200
 - Website: https://glosunspa.com/stores/sugar-land/
 - Email: Lauryn@glosunspa.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 10:00-18:00; Su 10:00-16:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 10% of tanning salons in Houston, #1 of 2 tanning salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 10% of tanning salons in Houston, #1 of 2 tanning salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 63.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/glo-sun-spa-sugar-land/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/glo-sun-spa-sugar-land.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/glo-sun-spa-sugar-land/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/glo-sun-spa-sugar-land.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12710795824 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

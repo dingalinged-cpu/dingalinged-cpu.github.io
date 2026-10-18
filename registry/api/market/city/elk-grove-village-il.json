@@ -2,7 +2,7 @@
  "title": "Keyword market data: Elk Grove Village, IL",
  "description": "Top Elk Grove Village, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Elk Grove Village, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 28,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash elk grove village il",
     "slug": "car-wash-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-elk-grove-village-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist elk grove village il",
     "slug": "dentist-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-elk-grove-village-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "nail salon elk grove village il",
     "slug": "nail-salon-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-elk-grove-village-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic elk grove village il",
     "slug": "mechanic-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-elk-grove-village-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet elk grove village il",
     "slug": "vet-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-elk-grove-village-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair elk grove village il",
     "slug": "auto-repair-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-elk-grove-village-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -101,7 +101,7 @@
    {
     "keyword": "financial advisor elk grove village il",
     "slug": "financial-advisor-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-elk-grove-village-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -116,7 +116,7 @@
    {
     "keyword": "real estate agent elk grove village il",
     "slug": "real-estate-agent-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-elk-grove-village-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency elk grove village il",
     "slug": "insurance-agency-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-elk-grove-village-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -146,7 +146,7 @@
    {
     "keyword": "realtor elk grove village il",
     "slug": "realtor-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-elk-grove-village-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -161,7 +161,7 @@
    {
     "keyword": "hvac repair elk grove village il",
     "slug": "hvac-repair-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-elk-grove-village-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparation elk grove village il",
     "slug": "tax-preparation-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-elk-grove-village-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -191,7 +191,7 @@
    {
     "keyword": "tax preparer elk grove village il",
     "slug": "tax-preparer-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-elk-grove-village-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agents elk grove village il",
     "slug": "insurance-agents-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-elk-grove-village-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agent elk grove village il",
     "slug": "insurance-agent-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-elk-grove-village-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair elk grove village il",
     "slug": "hvac-repair-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-elk-grove-village-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "concrete contractor elk grove village il",
     "slug": "concrete-contractor-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/concrete-contractor-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-elk-grove-village-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -268,7 +268,7 @@
    {
     "keyword": "heating and air elk grove village il",
     "slug": "heating-and-air-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-elk-grove-village-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -283,7 +283,7 @@
    {
     "keyword": "storage units elk grove village il",
     "slug": "storage-units-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-elk-grove-village-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -298,7 +298,7 @@
    {
     "keyword": "bakery elk grove village il",
     "slug": "bakery-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-elk-grove-village-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "event venues elk grove village il",
     "slug": "event-venues-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-elk-grove-village-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "florist elk grove village il",
     "slug": "florist-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-elk-grove-village-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "dance studio elk grove village il",
     "slug": "dance-studio-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-elk-grove-village-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -358,7 +358,7 @@
    {
     "keyword": "martial arts elk grove village il",
     "slug": "martial-arts-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-elk-grove-village-il/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8300,
@@ -373,7 +373,7 @@
    {
     "keyword": "tax preparer elk grove village il",
     "slug": "tax-preparer-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-elk-grove-village-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool elk grove village il",
     "slug": "preschool-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-elk-grove-village-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -403,7 +403,7 @@
    {
     "keyword": "eye doctor elk grove village il",
     "slug": "eye-doctor-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-elk-grove-village-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -418,7 +418,7 @@
    {
     "keyword": "physical therapy elk grove village il",
     "slug": "physical-therapy-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-elk-grove-village-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -433,7 +433,7 @@
    {
     "keyword": "plastic surgeon elk grove village il",
     "slug": "plastic-surgeon-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-elk-grove-village-il/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 910,
@@ -448,7 +448,7 @@
    {
     "keyword": "dentist elk grove village il",
     "slug": "dentist-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-elk-grove-village-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist elk grove village il",
     "slug": "dentist-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-elk-grove-village-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash elk grove village il",
     "slug": "car-wash-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-elk-grove-village-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic elk grove village il",
     "slug": "mechanic-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-elk-grove-village-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -510,7 +510,7 @@
    {
     "keyword": "vet elk grove village il",
     "slug": "vet-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-elk-grove-village-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -525,7 +525,7 @@
    {
     "keyword": "auto repair elk grove village il",
     "slug": "auto-repair-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-elk-grove-village-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -540,7 +540,7 @@
    {
     "keyword": "hvac repair elk grove village il",
     "slug": "hvac-repair-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-elk-grove-village-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -555,7 +555,7 @@
    {
     "keyword": "financial advisor elk grove village il",
     "slug": "financial-advisor-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-elk-grove-village-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -570,7 +570,7 @@
    {
     "keyword": "real estate agent elk grove village il",
     "slug": "real-estate-agent-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-elk-grove-village-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -585,7 +585,7 @@
    {
     "keyword": "nail salon elk grove village il",
     "slug": "nail-salon-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-elk-grove-village-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -600,7 +600,7 @@
    {
     "keyword": "tax preparer elk grove village il",
     "slug": "tax-preparer-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-elk-grove-village-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -615,7 +615,7 @@
    {
     "keyword": "realtor elk grove village il",
     "slug": "realtor-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-elk-grove-village-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agency elk grove village il",
     "slug": "insurance-agency-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-elk-grove-village-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -645,7 +645,7 @@
    {
     "keyword": "tax preparation elk grove village il",
     "slug": "tax-preparation-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-elk-grove-village-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agents elk grove village il",
     "slug": "insurance-agents-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-elk-grove-village-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agent elk grove village il",
     "slug": "insurance-agent-elk-grove-village-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-elk-grove-village-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-elk-grove-village-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

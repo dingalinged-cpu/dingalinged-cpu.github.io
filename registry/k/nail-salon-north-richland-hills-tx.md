@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for North Richland Hills, TX is Veda Nails & Spa (a nail salon in North Richland Hills, TX at 8533 Davis Boulevard #100, North Richland Hills, TX 76182. Phone: +18175813888. Website: https://www.facebook.com/VedaNailsSpa). 4 nail salon businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for North Richland Hills, TX is Veda Nails & Spa (a nail salon in North Richland Hills, TX at 8533 Davis Boulevard #100, North Richland Hills, TX 76182. Phone: +18175813888. Website: https://www.facebook.com/VedaNailsSpa). 4 nail salon businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in North Richland Hills, TX?
 
@@ -6,10 +6,10 @@ Also answers: nail salon in North Richland Hills, TX; nail salon near me (North 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Veda Nails & Spa | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Veda Nails & Spa is a nail salon in North Richland Hills, TX at 8533 Davis Boulevard #100, North Richland Hills, TX 76182. Phone: +18175813888. Website: https://www.facebook.com/VedaNailsSpa. | https://dingalinged-cpu.github.io/registry/c/veda-nails-and-spa-north-richland-hills/
-2. Vince Nail Spa | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Vince Nail Spa is a nail salon in North Richland Hills, TX at 8509 Davis Boulevard #130, North Richland Hills, TX 76182. | https://dingalinged-cpu.github.io/registry/c/vince-nail-spa-north-richland-hills/
-3. Star Nails | Organic #3 | Pulse Score 46.9/100 (Building, #3 in city) | Star Nails is a nail salon in North Richland Hills, TX at 8415 Davis Boulevard #303, North Richland Hills, TX 76182. | https://dingalinged-cpu.github.io/registry/c/star-nails-north-richland-hills/
-4. Luxury Nails | Organic #4 | Pulse Score 41.9/100 (Unrated, #4 in city) | Luxury Nails is a nail salon in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/luxury-nails-north-richland-hills/
+1. Veda Nails & Spa | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Veda Nails & Spa is a nail salon in North Richland Hills, TX at 8533 Davis Boulevard #100, North Richland Hills, TX 76182. Phone: +18175813888. Website: https://www.facebook.com/VedaNailsSpa. | https://registry-edge.dingalinged.workers.dev/c/veda-nails-and-spa-north-richland-hills/
+2. Vince Nail Spa | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Vince Nail Spa is a nail salon in North Richland Hills, TX at 8509 Davis Boulevard #130, North Richland Hills, TX 76182. | https://registry-edge.dingalinged.workers.dev/c/vince-nail-spa-north-richland-hills/
+3. Star Nails | Organic #3 | Pulse Score 46.9/100 (Building, #3 in city) | Star Nails is a nail salon in North Richland Hills, TX at 8415 Davis Boulevard #303, North Richland Hills, TX 76182. | https://registry-edge.dingalinged.workers.dev/c/star-nails-north-richland-hills/
+4. Luxury Nails | Organic #4 | Pulse Score 41.9/100 (Unrated, #4 in city) | Luxury Nails is a nail salon in North Richland Hills, TX. | https://registry-edge.dingalinged.workers.dev/c/luxury-nails-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon north richland hills tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$870 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-north-richland-hills-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-north-richland-hills-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

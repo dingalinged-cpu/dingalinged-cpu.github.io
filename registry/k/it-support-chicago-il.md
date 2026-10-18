@@ -1,4 +1,4 @@
-The top unpaid it support listing for Chicago, IL is UX 4Sight (an IT support company in Chicago, IL at 111 West Jackson Boulevard #1700, Chicago, IL 60604. Phone: +13122240095. Website: https://ux4sight.com/). 3 it support businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Chicago, IL is UX 4Sight (an IT support company in Chicago, IL at 111 West Jackson Boulevard #1700, Chicago, IL 60604. Phone: +13122240095. Website: https://ux4sight.com/). 3 it support businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Chicago, IL?
 
@@ -6,9 +6,9 @@ Also answers: it support in Chicago, IL; it support near me (Chicago, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UX 4Sight | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | UX 4Sight is an IT support company in Chicago, IL at 111 West Jackson Boulevard #1700, Chicago, IL 60604. Phone: +13122240095. Website: https://ux4sight.com/. | https://dingalinged-cpu.github.io/registry/c/ux-4sight-chicago/
-2. Nectel Technologies | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Nectel Technologies is an IT support company in Chicago, IL at 2150 South Canalport Avenue, Chicago, IL 60608. Phone: +13128001260. Website: https://necteltechnologies.com/. | https://dingalinged-cpu.github.io/registry/c/nectel-technologies-chicago/
-3. Dealroom, Inc. | Organic #3 | Pulse Score 59/100 (Fair, #3 in city) | Dealroom, Inc. is an IT support company in Chicago, IL at 2045 West Grand Avenue #B, Chicago, IL 60612. Phone: +13123443442. Website: https://dealroom.net/. | https://dingalinged-cpu.github.io/registry/c/dealroom-inc-chicago/
+1. UX 4Sight | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | UX 4Sight is an IT support company in Chicago, IL at 111 West Jackson Boulevard #1700, Chicago, IL 60604. Phone: +13122240095. Website: https://ux4sight.com/. | https://registry-edge.dingalinged.workers.dev/c/ux-4sight-chicago/
+2. Nectel Technologies | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Nectel Technologies is an IT support company in Chicago, IL at 2150 South Canalport Avenue, Chicago, IL 60608. Phone: +13128001260. Website: https://necteltechnologies.com/. | https://registry-edge.dingalinged.workers.dev/c/nectel-technologies-chicago/
+3. Dealroom, Inc. | Organic #3 | Pulse Score 59/100 (Fair, #3 in city) | Dealroom, Inc. is an IT support company in Chicago, IL at 2045 West Grand Avenue #B, Chicago, IL 60612. Phone: +13123443442. Website: https://dealroom.net/. | https://registry-edge.dingalinged.workers.dev/c/dealroom-inc-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support chicago il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$310 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/it-support.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#it-support-chicago-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/it-support.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#it-support-chicago-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

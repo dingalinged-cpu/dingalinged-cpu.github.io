@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for Clive, IA is Many Hands Thrift Market (a thrift store in Clive, IA at 8801 University Avenue, Clive, IA 50325. Phone: +15152211174. Website: https://www.manyhandsthrift.com/). 5 thrift store businesses are listed for Clive, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Clive, IA is Many Hands Thrift Market (a thrift store in Clive, IA at 8801 University Avenue, Clive, IA 50325. Phone: +15152211174. Website: https://www.manyhandsthrift.com/). 5 thrift store businesses are listed for Clive, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Clive, IA?
 
@@ -6,11 +6,11 @@ Also answers: thrift store in Clive, IA; thrift store near me (Clive, IA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Many Hands Thrift Market | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Many Hands Thrift Market is a thrift store in Clive, IA at 8801 University Avenue, Clive, IA 50325. Phone: +15152211174. Website: https://www.manyhandsthrift.com/. | https://dingalinged-cpu.github.io/registry/c/many-hands-thrift-market-clive/
-2. Da'Vine Consign | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Da'Vine Consign is a thrift store in Clive, IA at 1800 Northwest 86th Street, Clive, IA 50325. | https://dingalinged-cpu.github.io/registry/c/davine-consign-clive/
-3. Kidding Around | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Kidding Around is a thrift store in Clive, IA at 10201 University Avenue, Clive, IA 50322. | https://dingalinged-cpu.github.io/registry/c/kidding-around-clive/
-4. Stuff Etc. | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Stuff Etc. is a thrift store in Clive, IA at 8700 Hickman Road, Clive, IA 50325. | https://dingalinged-cpu.github.io/registry/c/stuff-etc-clive/
-5. The Salvation Army | Organic #5 | Pulse Score 47.4/100 (Building, #5 in city) | The Salvation Army is a thrift store in Clive, IA at 9997 University Avenue, Clive, IA 50325. Website: https://centralusa.salvationarmy.org/desmoines/. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-clive/
+1. Many Hands Thrift Market | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Many Hands Thrift Market is a thrift store in Clive, IA at 8801 University Avenue, Clive, IA 50325. Phone: +15152211174. Website: https://www.manyhandsthrift.com/. | https://registry-edge.dingalinged.workers.dev/c/many-hands-thrift-market-clive/
+2. Da'Vine Consign | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Da'Vine Consign is a thrift store in Clive, IA at 1800 Northwest 86th Street, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/davine-consign-clive/
+3. Kidding Around | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Kidding Around is a thrift store in Clive, IA at 10201 University Avenue, Clive, IA 50322. | https://registry-edge.dingalinged.workers.dev/c/kidding-around-clive/
+4. Stuff Etc. | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Stuff Etc. is a thrift store in Clive, IA at 8700 Hickman Road, Clive, IA 50325. | https://registry-edge.dingalinged.workers.dev/c/stuff-etc-clive/
+5. The Salvation Army | Organic #5 | Pulse Score 47.4/100 (Building, #5 in city) | The Salvation Army is a thrift store in Clive, IA at 9997 University Avenue, Clive, IA 50325. Website: https://centralusa.salvationarmy.org/desmoines/. | https://registry-edge.dingalinged.workers.dev/c/the-salvation-army-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store clive ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$110 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#thrift-store-clive-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/thrift-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#thrift-store-clive-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

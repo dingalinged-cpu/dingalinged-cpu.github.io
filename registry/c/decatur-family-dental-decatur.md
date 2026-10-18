@@ -13,12 +13,12 @@ Decatur Family Dental is a dentist in Decatur, GA at 814 Church Street, Decatur,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 57% of dentists in Atlanta, #1 of 1 dentists in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 47.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 57% of dentists in Atlanta, #1 of 1 dentists in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 47.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/decatur-family-dental-decatur/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/decatur-family-dental-decatur.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/decatur-family-dental-decatur/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/decatur-family-dental-decatur.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/567189376 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Elate Salon is a nail salon in Naperville, IL at 1823 Wehrli Road, Naperville, I
 - Website: https://www.facebook.com/elatesalon/
 - Email: jenniferskaplan@gmail.com
 - Opening hours (OSM syntax): Tu 11:00-21:00; We-Th 09:00-21:00; Fr-Sa 9:00-17:00
-- Pulse Score: 64.5/100 — Good — top 2% of nail salons in Chicago, #2 of 14 nail salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 69.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 2% of nail salons in Chicago, #2 of 14 nail salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 69.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/elate-salon-naperville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/elate-salon-naperville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/elate-salon-naperville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elate-salon-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7998411428 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

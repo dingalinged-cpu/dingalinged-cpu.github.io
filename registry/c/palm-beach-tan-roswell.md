@@ -13,12 +13,12 @@ Palm Beach Tan is a tanning salon in Roswell, GA at 2570 Holcomb Bridge Road, Ro
 - Website: https://palmbeachtan.com/locations/GA/Roswell-Holcomb-Bridge-Road
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 100% of tanning salons in Atlanta, #1 of 1 tanning salons in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 100% of tanning salons in Atlanta, #1 of 1 tanning salons in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-roswell/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/palm-beach-tan-roswell.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/palm-beach-tan-roswell/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/palm-beach-tan-roswell.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7857407780 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

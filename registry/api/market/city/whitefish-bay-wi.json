@@ -2,7 +2,7 @@
  "title": "Keyword market data: Whitefish Bay, WI",
  "description": "Top Whitefish Bay, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Whitefish Bay, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 10,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage whitefish bay wi",
     "slug": "massage-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-whitefish-bay-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist whitefish bay wi",
     "slug": "dentist-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-whitefish-bay-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym whitefish bay wi",
     "slug": "gym-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-whitefish-bay-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -56,7 +56,7 @@
    {
     "keyword": "tax preparation whitefish bay wi",
     "slug": "tax-preparation-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-whitefish-bay-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -71,7 +71,7 @@
    {
     "keyword": "tax preparer whitefish bay wi",
     "slug": "tax-preparer-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-whitefish-bay-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -88,7 +88,7 @@
    {
     "keyword": "bakery whitefish bay wi",
     "slug": "bakery-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-whitefish-bay-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -103,7 +103,7 @@
    {
     "keyword": "tax preparer whitefish bay wi",
     "slug": "tax-preparer-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-whitefish-bay-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -118,7 +118,7 @@
    {
     "keyword": "preschool whitefish bay wi",
     "slug": "preschool-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-whitefish-bay-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -133,7 +133,7 @@
    {
     "keyword": "physical therapy whitefish bay wi",
     "slug": "physical-therapy-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-whitefish-bay-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -148,7 +148,7 @@
    {
     "keyword": "dentist whitefish bay wi",
     "slug": "dentist-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-whitefish-bay-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -163,7 +163,7 @@
    {
     "keyword": "massage whitefish bay wi",
     "slug": "massage-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-whitefish-bay-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -178,7 +178,7 @@
    {
     "keyword": "pet store whitefish bay wi",
     "slug": "pet-store-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-whitefish-bay-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -193,7 +193,7 @@
    {
     "keyword": "funeral home whitefish bay wi",
     "slug": "funeral-home-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-whitefish-bay-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -208,7 +208,7 @@
    {
     "keyword": "tax preparation whitefish bay wi",
     "slug": "tax-preparation-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-whitefish-bay-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -223,7 +223,7 @@
    {
     "keyword": "gym whitefish bay wi",
     "slug": "gym-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-whitefish-bay-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -240,7 +240,7 @@
    {
     "keyword": "massage whitefish bay wi",
     "slug": "massage-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-whitefish-bay-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -255,7 +255,7 @@
    {
     "keyword": "dentist whitefish bay wi",
     "slug": "dentist-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-whitefish-bay-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -270,7 +270,7 @@
    {
     "keyword": "gym whitefish bay wi",
     "slug": "gym-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-whitefish-bay-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -285,7 +285,7 @@
    {
     "keyword": "tax preparer whitefish bay wi",
     "slug": "tax-preparer-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-whitefish-bay-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -300,7 +300,7 @@
    {
     "keyword": "tax preparation whitefish bay wi",
     "slug": "tax-preparation-whitefish-bay-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-whitefish-bay-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-whitefish-bay-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,

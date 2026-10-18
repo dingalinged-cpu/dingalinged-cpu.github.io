@@ -13,12 +13,12 @@ Gibraltar Title Agency is an insurance agent in Maple Grove, MN at 13700 83rd Wa
 - Website: https://www.gibraltartitle.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 15% of insurance agents in Minneapolis–St. Paul, #1 of 1 insurance agents in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 15% of insurance agents in Minneapolis–St. Paul, #1 of 1 insurance agents in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/gibraltar-title-agency-maple-grove/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gibraltar-title-agency-maple-grove.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gibraltar-title-agency-maple-grove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gibraltar-title-agency-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5757273577 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

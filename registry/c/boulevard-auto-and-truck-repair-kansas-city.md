@@ -13,12 +13,12 @@ Boulevard Auto & Truck Repair is an auto repair shop in Kansas City, KS at 1020,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 39% of auto repair shops in Kansas City, MO, #50 of 100 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 49.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 39% of auto repair shops in Kansas City, MO, #50 of 100 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 49.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/boulevard-auto-and-truck-repair-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/boulevard-auto-and-truck-repair-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/boulevard-auto-and-truck-repair-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/boulevard-auto-and-truck-repair-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/253808267 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

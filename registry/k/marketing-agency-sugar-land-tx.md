@@ -1,4 +1,4 @@
-The top unpaid marketing agency listing for Sugar Land, TX is The Dental Climb (a marketing agency in Sugar Land, TX at 5826 New Territory Boulevard #2171, Sugar Land, TX 77479. Phone: +18446374638. Website: https://bestseofordentists.com/). 2 marketing agency businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Sugar Land, TX is The Dental Climb (a marketing agency in Sugar Land, TX at 5826 New Territory Boulevard #2171, Sugar Land, TX 77479. Phone: +18446374638. Website: https://bestseofordentists.com/). 2 marketing agency businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Sugar Land, TX?
 
@@ -6,8 +6,8 @@ Also answers: marketing agency in Sugar Land, TX; marketing agency near me (Suga
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dental Climb | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | The Dental Climb is a marketing agency in Sugar Land, TX at 5826 New Territory Boulevard #2171, Sugar Land, TX 77479. Phone: +18446374638. Website: https://bestseofordentists.com/. | https://dingalinged-cpu.github.io/registry/c/the-dental-climb-sugar-land/
-2. Novatex Solutions | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Novatex Solutions is a marketing agency in Sugar Land, TX at 16525 Lexington Boulevard #240, Sugar Land, TX 77479. Phone: +18886871736. Website: https://www.novatexsolutions.com/. | https://dingalinged-cpu.github.io/registry/c/novatex-solutions-sugar-land/
+1. The Dental Climb | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | The Dental Climb is a marketing agency in Sugar Land, TX at 5826 New Territory Boulevard #2171, Sugar Land, TX 77479. Phone: +18446374638. Website: https://bestseofordentists.com/. | https://registry-edge.dingalinged.workers.dev/c/the-dental-climb-sugar-land/
+2. Novatex Solutions | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Novatex Solutions is a marketing agency in Sugar Land, TX at 16525 Lexington Boulevard #240, Sugar Land, TX 77479. Phone: +18886871736. Website: https://www.novatexsolutions.com/. | https://registry-edge.dingalinged.workers.dev/c/novatex-solutions-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency sugar land tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$260 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/marketing-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#marketing-agency-sugar-land-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/marketing-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#marketing-agency-sugar-land-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Shenandoah, TX",
  "description": "Top Shenandoah, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Shenandoah, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 16,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist shenandoah tx",
     "slug": "dentist-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shenandoah-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -26,7 +26,7 @@
    {
     "keyword": "nail salon shenandoah tx",
     "slug": "nail-salon-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-shenandoah-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -41,7 +41,7 @@
    {
     "keyword": "tire shop shenandoah tx",
     "slug": "tire-shop-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-shenandoah-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -56,7 +56,7 @@
    {
     "keyword": "insurance agency shenandoah tx",
     "slug": "insurance-agency-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shenandoah-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -71,7 +71,7 @@
    {
     "keyword": "facial shenandoah tx",
     "slug": "facial-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-shenandoah-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -86,7 +86,7 @@
    {
     "keyword": "insurance agents shenandoah tx",
     "slug": "insurance-agents-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-shenandoah-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -101,7 +101,7 @@
    {
     "keyword": "insurance agent shenandoah tx",
     "slug": "insurance-agent-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-shenandoah-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -118,7 +118,7 @@
    {
     "keyword": "bakery shenandoah tx",
     "slug": "bakery-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-shenandoah-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -133,7 +133,7 @@
    {
     "keyword": "dentist shenandoah tx",
     "slug": "dentist-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shenandoah-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -148,7 +148,7 @@
    {
     "keyword": "facial shenandoah tx",
     "slug": "facial-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-shenandoah-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -163,7 +163,7 @@
    {
     "keyword": "tanning salon shenandoah tx",
     "slug": "tanning-salon-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon-shenandoah-tx/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 690,
@@ -178,7 +178,7 @@
    {
     "keyword": "motorcycle repair shenandoah tx",
     "slug": "motorcycle-repair-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/motorcycle-repair-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/motorcycle-repair-shenandoah-tx/",
     "us_monthly_searches": 22000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 510,
@@ -193,7 +193,7 @@
    {
     "keyword": "tire shop shenandoah tx",
     "slug": "tire-shop-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-shenandoah-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -208,7 +208,7 @@
    {
     "keyword": "bike shop shenandoah tx",
     "slug": "bike-shop-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-shenandoah-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -223,7 +223,7 @@
    {
     "keyword": "furniture store shenandoah tx",
     "slug": "furniture-store-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-shenandoah-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -238,7 +238,7 @@
    {
     "keyword": "mattress store shenandoah tx",
     "slug": "mattress-store-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store-shenandoah-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -253,7 +253,7 @@
    {
     "keyword": "pet store shenandoah tx",
     "slug": "pet-store-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-shenandoah-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -268,7 +268,7 @@
    {
     "keyword": "thrift store shenandoah tx",
     "slug": "thrift-store-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-shenandoah-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -283,7 +283,7 @@
    {
     "keyword": "insurance agency shenandoah tx",
     "slug": "insurance-agency-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shenandoah-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -298,7 +298,7 @@
    {
     "keyword": "insurance agent shenandoah tx",
     "slug": "insurance-agent-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-shenandoah-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -313,7 +313,7 @@
    {
     "keyword": "insurance agents shenandoah tx",
     "slug": "insurance-agents-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-shenandoah-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -328,7 +328,7 @@
    {
     "keyword": "phone repair shenandoah tx",
     "slug": "phone-repair-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/phone-repair-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/phone-repair-shenandoah-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -345,7 +345,7 @@
    {
     "keyword": "dentist shenandoah tx",
     "slug": "dentist-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shenandoah-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -360,7 +360,7 @@
    {
     "keyword": "tire shop shenandoah tx",
     "slug": "tire-shop-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-shenandoah-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -375,7 +375,7 @@
    {
     "keyword": "nail salon shenandoah tx",
     "slug": "nail-salon-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-shenandoah-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -390,7 +390,7 @@
    {
     "keyword": "facial shenandoah tx",
     "slug": "facial-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-shenandoah-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -405,7 +405,7 @@
    {
     "keyword": "insurance agency shenandoah tx",
     "slug": "insurance-agency-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shenandoah-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -420,7 +420,7 @@
    {
     "keyword": "insurance agents shenandoah tx",
     "slug": "insurance-agents-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-shenandoah-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -435,7 +435,7 @@
    {
     "keyword": "insurance agent shenandoah tx",
     "slug": "insurance-agent-shenandoah-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-shenandoah-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-shenandoah-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,

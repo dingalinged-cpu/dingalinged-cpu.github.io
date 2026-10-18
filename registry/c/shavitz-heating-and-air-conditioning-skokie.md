@@ -13,12 +13,12 @@ Shavitz Heating and Air Conditioning is a HVAC contractor in Skokie, IL at 4849 
 - Website: https://www.shavitz.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 70% of HVAC contractors in Chicago, #3 of 3 HVAC contractors in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 50. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 70% of HVAC contractors in Chicago, #3 of 3 HVAC contractors in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 50. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/shavitz-heating-and-air-conditioning-skokie/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/shavitz-heating-and-air-conditioning-skokie.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/shavitz-heating-and-air-conditioning-skokie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/shavitz-heating-and-air-conditioning-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4170224869 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

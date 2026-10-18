@@ -13,12 +13,12 @@ Scenic Emissions is a vehicle inspection station in Lilburn, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 69% of vehicle inspection stations in Atlanta, #1 of 1 vehicle inspection stations in Lilburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 39.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 69% of vehicle inspection stations in Atlanta, #1 of 1 vehicle inspection stations in Lilburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/scenic-emissions-lilburn/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/scenic-emissions-lilburn.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/scenic-emissions-lilburn/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/scenic-emissions-lilburn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/808878062 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

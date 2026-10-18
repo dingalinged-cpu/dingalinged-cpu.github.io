@@ -2,7 +2,7 @@
  "title": "Keyword market data: Addison, TX",
  "description": "Top Addison, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Addison, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 70,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage addison tx",
     "slug": "massage-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-addison-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash addison tx",
     "slug": "car-wash-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-addison-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist addison tx",
     "slug": "dentist-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-addison-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym addison tx",
     "slug": "gym-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-addison-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon addison tx",
     "slug": "hair-salon-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-addison-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon addison tx",
     "slug": "nail-salon-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-addison-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic addison tx",
     "slug": "mechanic-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-addison-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop addison tx",
     "slug": "tire-shop-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-addison-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet addison tx",
     "slug": "vet-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-addison-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer addison tx",
     "slug": "dog-groomer-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-addison-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut addison tx",
     "slug": "haircut-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-addison-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair addison tx",
     "slug": "auto-repair-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-addison-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -191,7 +191,7 @@
    {
     "keyword": "movers addison tx",
     "slug": "movers-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/movers-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-addison-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -206,7 +206,7 @@
    {
     "keyword": "pilates addison tx",
     "slug": "pilates-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-addison-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -221,7 +221,7 @@
    {
     "keyword": "chiropractor addison tx",
     "slug": "chiropractor-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-addison-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair addison tx",
     "slug": "hvac-repair-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-addison-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -253,7 +253,7 @@
    {
     "keyword": "moving company addison tx",
     "slug": "moving-company-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-addison-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofing contractor addison tx",
     "slug": "roofing-contractor-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-addison-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -283,7 +283,7 @@
    {
     "keyword": "roofer addison tx",
     "slug": "roofer-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-addison-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -298,7 +298,7 @@
    {
     "keyword": "attorney addison tx",
     "slug": "attorney-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-addison-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -313,7 +313,7 @@
    {
     "keyword": "lawyer addison tx",
     "slug": "lawyer-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-addison-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -328,7 +328,7 @@
    {
     "keyword": "window repair addison tx",
     "slug": "window-repair-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-repair-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-addison-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -343,7 +343,7 @@
    {
     "keyword": "architect addison tx",
     "slug": "architect-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-addison-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -358,7 +358,7 @@
    {
     "keyword": "flooring companies addison tx",
     "slug": "flooring-companies-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-addison-tx/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -373,7 +373,7 @@
    {
     "keyword": "heating and air addison tx",
     "slug": "heating-and-air-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-addison-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "storage units addison tx",
     "slug": "storage-units-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-addison-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -403,7 +403,7 @@
    {
     "keyword": "movers addison tx",
     "slug": "movers-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/movers-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-addison-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -418,7 +418,7 @@
    {
     "keyword": "bakery addison tx",
     "slug": "bakery-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-addison-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -433,7 +433,7 @@
    {
     "keyword": "caterers addison tx",
     "slug": "caterers-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/caterers-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-addison-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -448,7 +448,7 @@
    {
     "keyword": "event venues addison tx",
     "slug": "event-venues-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-addison-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage addison tx",
     "slug": "massage-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-addison-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist addison tx",
     "slug": "dentist-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-addison-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash addison tx",
     "slug": "car-wash-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-addison-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym addison tx",
     "slug": "gym-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-addison-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic addison tx",
     "slug": "mechanic-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-addison-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -540,7 +540,7 @@
    {
     "keyword": "movers addison tx",
     "slug": "movers-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/movers-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/movers-addison-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -555,7 +555,7 @@
    {
     "keyword": "moving company addison tx",
     "slug": "moving-company-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-addison-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -570,7 +570,7 @@
    {
     "keyword": "tire shop addison tx",
     "slug": "tire-shop-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-addison-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -585,7 +585,7 @@
    {
     "keyword": "vet addison tx",
     "slug": "vet-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-addison-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -600,7 +600,7 @@
    {
     "keyword": "pilates addison tx",
     "slug": "pilates-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-addison-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -615,7 +615,7 @@
    {
     "keyword": "dog groomer addison tx",
     "slug": "dog-groomer-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-addison-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -630,7 +630,7 @@
    {
     "keyword": "haircut addison tx",
     "slug": "haircut-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-addison-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -645,7 +645,7 @@
    {
     "keyword": "roofing contractor addison tx",
     "slug": "roofing-contractor-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-addison-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -660,7 +660,7 @@
    {
     "keyword": "auto repair addison tx",
     "slug": "auto-repair-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-addison-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -675,7 +675,7 @@
    {
     "keyword": "hvac repair addison tx",
     "slug": "hvac-repair-addison-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-addison-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-addison-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,

@@ -1,4 +1,4 @@
-The top unpaid massage listing for Flower Mound, TX is Green Massage (a massage studio in Flower Mound, TX at 601 Garden Ridge Boulevard #103, Flower Mound, TX. Phone: +12145139262. Website: https://www.greenspatx.com/). 12 massage businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Flower Mound, TX is Green Massage (a massage studio in Flower Mound, TX at 601 Garden Ridge Boulevard #103, Flower Mound, TX. Phone: +12145139262. Website: https://www.greenspatx.com/). 12 massage businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Flower Mound, TX?
 
@@ -6,18 +6,18 @@ Also answers: massage in Flower Mound, TX; massage near me (Flower Mound, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Green Massage | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Green Massage is a massage studio in Flower Mound, TX at 601 Garden Ridge Boulevard #103, Flower Mound, TX. Phone: +12145139262. Website: https://www.greenspatx.com/. | https://dingalinged-cpu.github.io/registry/c/green-massage-flower-mound/
-2. Aloha Thai Massage | Organic #2 | Pulse Score 62.6/100 (Good, #2 in city) | Aloha Thai Massage is a massage studio in Flower Mound, TX. Phone: +14699938007. | https://dingalinged-cpu.github.io/registry/c/aloha-thai-massage-flower-mound/
-3. Sun Massage | Organic #3 | Pulse Score 60.7/100 (Good, #3 in city) | Sun Massage is a massage studio in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/sun-massage-flower-mound/
-4. 4Ever Young Anti-Aging Solutions | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | 4Ever Young Anti-Aging Solutions is a massage studio in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/4ever-young-anti-aging-solutions-flower-mound/
-5. Elegant Massage | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Elegant Massage is a massage studio in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/elegant-massage-flower-mound/
-6. Foot Massage | Organic #6 | Pulse Score 54.4/100 (Unrated, #6 in city) | Foot Massage is a massage studio in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/foot-massage-flower-mound/
-7. Jasmine Massage Spa | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | Jasmine Massage Spa is a massage studio in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/jasmine-massage-spa-flower-mound/
-8. La Masajista | Organic #8 | Pulse Score 54.4/100 (Unrated, #8 in city) | La Masajista is a massage studio in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/la-masajista-flower-mound/
-9. M&E Massage Parlor | Organic #9 | Pulse Score 54.4/100 (Unrated, #9 in city) | M&E Massage Parlor is a massage studio in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/m-and-e-massage-parlor-flower-mound/
-10. Hand & Stone Massage and Facial Spa | Organic #10 | Pulse Score 49.1/100 (Building, #10 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Flower Mound, TX. Phone: +19723553939. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-flower-mound/
-11. Massage Envy | Organic #11 | Pulse Score 42.4/100 (Building, #11 in city) | Massage Envy is a massage studio in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/massage-envy-flower-mound/
-12. Massage Heights | Organic #12 | Pulse Score 42.4/100 (Building, #12 in city) | Massage Heights is a massage studio in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/massage-heights-flower-mound/
+1. Green Massage | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Green Massage is a massage studio in Flower Mound, TX at 601 Garden Ridge Boulevard #103, Flower Mound, TX. Phone: +12145139262. Website: https://www.greenspatx.com/. | https://registry-edge.dingalinged.workers.dev/c/green-massage-flower-mound/
+2. Aloha Thai Massage | Organic #2 | Pulse Score 62.6/100 (Good, #2 in city) | Aloha Thai Massage is a massage studio in Flower Mound, TX. Phone: +14699938007. | https://registry-edge.dingalinged.workers.dev/c/aloha-thai-massage-flower-mound/
+3. Sun Massage | Organic #3 | Pulse Score 60.7/100 (Good, #3 in city) | Sun Massage is a massage studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/sun-massage-flower-mound/
+4. 4Ever Young Anti-Aging Solutions | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | 4Ever Young Anti-Aging Solutions is a massage studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/4ever-young-anti-aging-solutions-flower-mound/
+5. Elegant Massage | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Elegant Massage is a massage studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/elegant-massage-flower-mound/
+6. Foot Massage | Organic #6 | Pulse Score 54.4/100 (Unrated, #6 in city) | Foot Massage is a massage studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/foot-massage-flower-mound/
+7. Jasmine Massage Spa | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | Jasmine Massage Spa is a massage studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/jasmine-massage-spa-flower-mound/
+8. La Masajista | Organic #8 | Pulse Score 54.4/100 (Unrated, #8 in city) | La Masajista is a massage studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/la-masajista-flower-mound/
+9. M&E Massage Parlor | Organic #9 | Pulse Score 54.4/100 (Unrated, #9 in city) | M&E Massage Parlor is a massage studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/m-and-e-massage-parlor-flower-mound/
+10. Hand & Stone Massage and Facial Spa | Organic #10 | Pulse Score 49.1/100 (Building, #10 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Flower Mound, TX. Phone: +19723553939. | https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-massage-and-facial-spa-flower-mound/
+11. Massage Envy | Organic #11 | Pulse Score 42.4/100 (Building, #11 in city) | Massage Envy is a massage studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/massage-envy-flower-mound/
+12. Massage Heights | Organic #12 | Pulse Score 42.4/100 (Building, #12 in city) | Massage Heights is a massage studio in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/massage-heights-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -30,6 +30,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$32,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/massage.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#massage-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/massage.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#massage-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

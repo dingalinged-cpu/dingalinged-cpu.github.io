@@ -1,4 +1,4 @@
-The top unpaid preschool listing for The Colony, TX is Angels Christian Preschool and Daycare (a preschool in The Colony, TX. Phone: +19726250016. Website: https://www.angelchristianpreschool.com/). 3 preschool businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for The Colony, TX is Angels Christian Preschool and Daycare (a preschool in The Colony, TX. Phone: +19726250016. Website: https://www.angelchristianpreschool.com/). 3 preschool businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in The Colony, TX?
 
@@ -6,9 +6,9 @@ Also answers: preschool in The Colony, TX; preschool near me (The Colony, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Angels Christian Preschool and Daycare | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Angels Christian Preschool and Daycare is a preschool in The Colony, TX. Phone: +19726250016. Website: https://www.angelchristianpreschool.com/. | https://dingalinged-cpu.github.io/registry/c/angels-christian-preschool-and-daycare-the-colony/
-2. Legacy Day School | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Legacy Day School is a preschool in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-day-school-the-colony/
-3. La Petite Academy | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | La Petite Academy is a preschool in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-the-colony/
+1. Angels Christian Preschool and Daycare | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Angels Christian Preschool and Daycare is a preschool in The Colony, TX. Phone: +19726250016. Website: https://www.angelchristianpreschool.com/. | https://registry-edge.dingalinged.workers.dev/c/angels-christian-preschool-and-daycare-the-colony/
+2. Legacy Day School | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Legacy Day School is a preschool in The Colony, TX. | https://registry-edge.dingalinged.workers.dev/c/legacy-day-school-the-colony/
+3. La Petite Academy | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | La Petite Academy is a preschool in The Colony, TX. | https://registry-edge.dingalinged.workers.dev/c/la-petite-academy-the-colony/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool the colony tx | category: Education & childcare | industry benchmark: Education & Instruction
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool-the-colony-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/preschool.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#preschool-the-colony-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

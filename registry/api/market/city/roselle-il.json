@@ -2,7 +2,7 @@
  "title": "Keyword market data: Roselle, IL",
  "description": "Top Roselle, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Roselle, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 17,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash roselle il",
     "slug": "car-wash-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-roselle-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist roselle il",
     "slug": "dentist-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-roselle-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym roselle il",
     "slug": "gym-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-roselle-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon roselle il",
     "slug": "hair-salon-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-roselle-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic roselle il",
     "slug": "mechanic-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-roselle-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut roselle il",
     "slug": "haircut-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-roselle-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair roselle il",
     "slug": "auto-repair-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-roselle-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -116,7 +116,7 @@
    {
     "keyword": "financial advisor roselle il",
     "slug": "financial-advisor-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-roselle-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -131,7 +131,7 @@
    {
     "keyword": "real estate agent roselle il",
     "slug": "real-estate-agent-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-roselle-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agency roselle il",
     "slug": "insurance-agency-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-roselle-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -161,7 +161,7 @@
    {
     "keyword": "realtor roselle il",
     "slug": "realtor-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-roselle-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -176,7 +176,7 @@
    {
     "keyword": "facial roselle il",
     "slug": "facial-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-roselle-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -191,7 +191,7 @@
    {
     "keyword": "tax preparation roselle il",
     "slug": "tax-preparation-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-roselle-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -206,7 +206,7 @@
    {
     "keyword": "tax preparer roselle il",
     "slug": "tax-preparer-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-roselle-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agents roselle il",
     "slug": "insurance-agents-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-roselle-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -238,7 +238,7 @@
    {
     "keyword": "tax preparer roselle il",
     "slug": "tax-preparer-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-roselle-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -253,7 +253,7 @@
    {
     "keyword": "podiatrist roselle il",
     "slug": "podiatrist-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/podiatrist-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/podiatrist-roselle-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -268,7 +268,7 @@
    {
     "keyword": "dentist roselle il",
     "slug": "dentist-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-roselle-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -283,7 +283,7 @@
    {
     "keyword": "facial roselle il",
     "slug": "facial-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-roselle-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -298,7 +298,7 @@
    {
     "keyword": "haircut roselle il",
     "slug": "haircut-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-roselle-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -313,7 +313,7 @@
    {
     "keyword": "auto repair roselle il",
     "slug": "auto-repair-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-roselle-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -328,7 +328,7 @@
    {
     "keyword": "car wash roselle il",
     "slug": "car-wash-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-roselle-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -343,7 +343,7 @@
    {
     "keyword": "mechanic roselle il",
     "slug": "mechanic-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-roselle-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -358,7 +358,7 @@
    {
     "keyword": "realtor roselle il",
     "slug": "realtor-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-roselle-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -373,7 +373,7 @@
    {
     "keyword": "real estate agent roselle il",
     "slug": "real-estate-agent-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-roselle-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "financial advisor roselle il",
     "slug": "financial-advisor-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-roselle-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -403,7 +403,7 @@
    {
     "keyword": "insurance agency roselle il",
     "slug": "insurance-agency-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-roselle-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -418,7 +418,7 @@
    {
     "keyword": "insurance agent roselle il",
     "slug": "insurance-agent-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-roselle-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -433,7 +433,7 @@
    {
     "keyword": "insurance agents roselle il",
     "slug": "insurance-agents-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-roselle-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -448,7 +448,7 @@
    {
     "keyword": "tax preparation roselle il",
     "slug": "tax-preparation-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-roselle-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist roselle il",
     "slug": "dentist-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-roselle-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash roselle il",
     "slug": "car-wash-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-roselle-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym roselle il",
     "slug": "gym-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-roselle-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic roselle il",
     "slug": "mechanic-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-roselle-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -525,7 +525,7 @@
    {
     "keyword": "haircut roselle il",
     "slug": "haircut-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-roselle-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -540,7 +540,7 @@
    {
     "keyword": "auto repair roselle il",
     "slug": "auto-repair-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-roselle-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -555,7 +555,7 @@
    {
     "keyword": "financial advisor roselle il",
     "slug": "financial-advisor-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-roselle-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -570,7 +570,7 @@
    {
     "keyword": "hair salon roselle il",
     "slug": "hair-salon-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-roselle-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -585,7 +585,7 @@
    {
     "keyword": "real estate agent roselle il",
     "slug": "real-estate-agent-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-roselle-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -600,7 +600,7 @@
    {
     "keyword": "tax preparer roselle il",
     "slug": "tax-preparer-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-roselle-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -615,7 +615,7 @@
    {
     "keyword": "facial roselle il",
     "slug": "facial-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-roselle-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -630,7 +630,7 @@
    {
     "keyword": "realtor roselle il",
     "slug": "realtor-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-roselle-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agency roselle il",
     "slug": "insurance-agency-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-roselle-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -660,7 +660,7 @@
    {
     "keyword": "tax preparation roselle il",
     "slug": "tax-preparation-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-roselle-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agents roselle il",
     "slug": "insurance-agents-roselle-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-roselle-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-roselle-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

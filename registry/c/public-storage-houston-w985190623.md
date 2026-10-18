@@ -13,12 +13,12 @@ Public Storage is a self-storage facility in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 60% of self-storage facilitys in Houston, #46 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 60% of self-storage facilitys in Houston, #46 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-houston-w985190623/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-houston-w985190623.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-houston-w985190623/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-houston-w985190623.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/985190623 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

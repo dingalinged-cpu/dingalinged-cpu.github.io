@@ -2,7 +2,7 @@
  "title": "Keyword market data: San Diego, CA",
  "description": "Top San Diego, CA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "San Diego, CA",
  "geography": "San Diego-Chula Vista-Carlsbad, CA metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage san diego ca",
     "slug": "massage-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-san-diego-ca",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 48000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care san diego ca",
     "slug": "urgent-care-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-san-diego-ca",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 26000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist san diego ca",
     "slug": "dentist-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-san-diego-ca",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym san diego ca",
     "slug": "gym-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-san-diego-ca",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash san diego ca",
     "slug": "car-wash-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-san-diego-ca",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change san diego ca",
     "slug": "oil-change-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-san-diego-ca",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon san diego ca",
     "slug": "hair-salon-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-san-diego-ca",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon san diego ca",
     "slug": "nail-salon-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-san-diego-ca",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9600,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes san diego ca",
     "slug": "car-insurance-quotes-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-san-diego-ca",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7900,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber san diego ca",
     "slug": "plumber-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-san-diego-ca",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7900,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments san diego ca",
     "slug": "apartments-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-san-diego-ca",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7900,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance san diego ca",
     "slug": "auto-insurance-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-san-diego-ca",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6500,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop san diego ca",
     "slug": "barber-shop-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-san-diego-ca",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6500,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage san diego ca",
     "slug": "lymphatic-drainage-massage-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-san-diego-ca",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6500,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic san diego ca",
     "slug": "mechanic-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-san-diego-ca",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6500,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer san diego ca",
     "slug": "personal-injury-lawyer-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-san-diego-ca",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber san diego ca",
     "slug": "emergency-plumber-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-san-diego-ca",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 710,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair san diego ca",
     "slug": "hvac-repair-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-san-diego-ca",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 710,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair san diego ca",
     "slug": "ac-repair-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-san-diego-ca",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement san diego ca",
     "slug": "roof-replacement-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-san-diego-ca",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 320,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair san diego ca",
     "slug": "roof-repair-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-san-diego-ca",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 710,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast san diego ca",
     "slug": "sell-my-house-fast-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-san-diego-ca",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services san diego ca",
     "slug": "plumbing-services-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-san-diego-ca",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 480,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining san diego ca",
     "slug": "deck-staining-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-san-diego-ca",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters san diego ca",
     "slug": "exterior-house-painters-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-san-diego-ca",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters san diego ca",
     "slug": "interior-painters-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-san-diego-ca",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters san diego ca",
     "slug": "painters-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-san-diego-ca",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 580,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company san diego ca",
     "slug": "moving-company-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-san-diego-ca",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney san diego ca",
     "slug": "criminal-defense-attorney-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-san-diego-ca",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 870,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer san diego ca",
     "slug": "dui-defense-lawyer-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-san-diego-ca",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 35.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage san diego ca",
     "slug": "massage-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-san-diego-ca",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 48000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care san diego ca",
     "slug": "urgent-care-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-san-diego-ca",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 26000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer san diego ca",
     "slug": "personal-injury-lawyer-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-san-diego-ca",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber san diego ca",
     "slug": "plumber-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-san-diego-ca",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7900,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist san diego ca",
     "slug": "dentist-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-san-diego-ca",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash san diego ca",
     "slug": "car-wash-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-san-diego-ca",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change san diego ca",
     "slug": "oil-change-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-san-diego-ca",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair san diego ca",
     "slug": "ac-repair-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-san-diego-ca",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer san diego ca",
     "slug": "car-accident-lawyer-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-san-diego-ca",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym san diego ca",
     "slug": "gym-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-san-diego-ca",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage san diego ca",
     "slug": "lymphatic-drainage-massage-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-san-diego-ca",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6500,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician san diego ca",
     "slug": "electrician-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-san-diego-ca",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic san diego ca",
     "slug": "mechanic-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-san-diego-ca",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6500,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes san diego ca",
     "slug": "car-insurance-quotes-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-san-diego-ca",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7900,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement san diego ca",
     "slug": "water-heater-replacement-san-diego-ca",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-san-diego-ca",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-san-diego-ca",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,

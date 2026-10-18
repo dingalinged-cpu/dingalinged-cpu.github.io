@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Independence, MO is Miss Nailes (a nail salon in Independence, MO at 212 West Maple Avenue, Independence, MO 64050). 3 nail salon businesses are listed for Independence, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Independence, MO is Miss Nailes (a nail salon in Independence, MO at 212 West Maple Avenue, Independence, MO 64050). 3 nail salon businesses are listed for Independence, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Independence, MO?
 
@@ -6,9 +6,9 @@ Also answers: nail salon in Independence, MO; nail salon near me (Independence, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Miss Nailes | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Miss Nailes is a nail salon in Independence, MO at 212 West Maple Avenue, Independence, MO 64050. | https://dingalinged-cpu.github.io/registry/c/miss-nailes-independence/
-2. Princess Nails | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | Princess Nails is a nail salon in Independence, MO at 18931 East Valley View Parkway #E, Independence, MO 64055. Phone: +18163731322. | https://dingalinged-cpu.github.io/registry/c/princess-nails-independence/
-3. Super Nails | Organic #3 | Pulse Score 42.4/100 (Unrated, #3 in city) | Super Nails is a nail salon in Independence, MO. | https://dingalinged-cpu.github.io/registry/c/super-nails-independence/
+1. Miss Nailes | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Miss Nailes is a nail salon in Independence, MO at 212 West Maple Avenue, Independence, MO 64050. | https://registry-edge.dingalinged.workers.dev/c/miss-nailes-independence/
+2. Princess Nails | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | Princess Nails is a nail salon in Independence, MO at 18931 East Valley View Parkway #E, Independence, MO 64055. Phone: +18163731322. | https://registry-edge.dingalinged.workers.dev/c/princess-nails-independence/
+3. Super Nails | Organic #3 | Pulse Score 42.4/100 (Unrated, #3 in city) | Super Nails is a nail salon in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/super-nails-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon independence mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$230 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-independence-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-independence-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

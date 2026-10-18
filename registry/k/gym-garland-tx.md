@@ -1,4 +1,4 @@
-The top unpaid gym listing for Garland, TX is Fields Recreation Center (a gym in Garland, TX at 1701 Dairy Road, Garland, TX 75040. Phone: +19722053090. Website: https://www.garlandtx.gov/facilities/facility/details/Fields-Recreation-Center-94). 9 gym businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Garland, TX is Fields Recreation Center (a gym in Garland, TX at 1701 Dairy Road, Garland, TX 75040. Phone: +19722053090. Website: https://www.garlandtx.gov/facilities/facility/details/Fields-Recreation-Center-94). 9 gym businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Garland, TX?
 
@@ -6,15 +6,15 @@ Also answers: gym in Garland, TX; gym near me (Garland, TX); best gym Garland, T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fields Recreation Center | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Fields Recreation Center is a gym in Garland, TX at 1701 Dairy Road, Garland, TX 75040. Phone: +19722053090. Website: https://www.garlandtx.gov/facilities/facility/details/Fields-Recreation-Center-94. | https://dingalinged-cpu.github.io/registry/c/fields-recreation-center-garland/
-2. 3Q Fitness CrossFit Garland | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | 3Q Fitness CrossFit Garland is a gym in Garland, TX at 109 S 6th St, Garland, TX 75040. Phone: +19724942545. Website: https://crossfitgarland.com/. | https://dingalinged-cpu.github.io/registry/c/3q-fitness-crossfit-garland-garland/
-3. Dallas Golden Gloves | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Dallas Golden Gloves is a gym in Garland, TX at 2121 Rowlett Road, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/dallas-golden-gloves-garland/
-4. Fit Factory | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Fit Factory is a gym in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/fit-factory-garland/
-5. Garland Recreational Center | Organic #5 | Pulse Score 54.3/100 (Unrated, #5 in city) | Garland Recreational Center is a gym in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/garland-recreational-center-garland/
-6. Life Time | Organic #6 | Pulse Score 48.8/100 (Building, #6 in city) | Life Time is a gym in Garland, TX at 5602 Naaman Forest Boulevard, Garland, TX 75044. Phone: +19724965000. Website: https://www.lifetime.life/life-time-locations/tx-garland.html. | https://dingalinged-cpu.github.io/registry/c/life-time-garland/
-7. Retro Fitness | Organic #7 | Pulse Score 44.3/100 (Building, #7 in city) | Retro Fitness is a gym in Garland, TX at 3265 Broadway Boulevard #102, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/retro-fitness-garland/
-8. LA Fitness | Organic #8 | Pulse Score 41.9/100 (Building, #8 in city) | LA Fitness is a gym in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/la-fitness-garland/
-9. Planet Fitness | Organic #9 | Pulse Score 41.9/100 (Building, #9 in city) | Planet Fitness is a gym in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-garland/
+1. Fields Recreation Center | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Fields Recreation Center is a gym in Garland, TX at 1701 Dairy Road, Garland, TX 75040. Phone: +19722053090. Website: https://www.garlandtx.gov/facilities/facility/details/Fields-Recreation-Center-94. | https://registry-edge.dingalinged.workers.dev/c/fields-recreation-center-garland/
+2. 3Q Fitness CrossFit Garland | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | 3Q Fitness CrossFit Garland is a gym in Garland, TX at 109 S 6th St, Garland, TX 75040. Phone: +19724942545. Website: https://crossfitgarland.com/. | https://registry-edge.dingalinged.workers.dev/c/3q-fitness-crossfit-garland-garland/
+3. Dallas Golden Gloves | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Dallas Golden Gloves is a gym in Garland, TX at 2121 Rowlett Road, Garland, TX 75043. | https://registry-edge.dingalinged.workers.dev/c/dallas-golden-gloves-garland/
+4. Fit Factory | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Fit Factory is a gym in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/fit-factory-garland/
+5. Garland Recreational Center | Organic #5 | Pulse Score 54.3/100 (Unrated, #5 in city) | Garland Recreational Center is a gym in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/garland-recreational-center-garland/
+6. Life Time | Organic #6 | Pulse Score 48.8/100 (Building, #6 in city) | Life Time is a gym in Garland, TX at 5602 Naaman Forest Boulevard, Garland, TX 75044. Phone: +19724965000. Website: https://www.lifetime.life/life-time-locations/tx-garland.html. | https://registry-edge.dingalinged.workers.dev/c/life-time-garland/
+7. Retro Fitness | Organic #7 | Pulse Score 44.3/100 (Building, #7 in city) | Retro Fitness is a gym in Garland, TX at 3265 Broadway Boulevard #102, Garland, TX 75043. | https://registry-edge.dingalinged.workers.dev/c/retro-fitness-garland/
+8. LA Fitness | Organic #8 | Pulse Score 41.9/100 (Building, #8 in city) | LA Fitness is a gym in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-garland/
+9. Planet Fitness | Organic #9 | Pulse Score 41.9/100 (Building, #9 in city) | Planet Fitness is a gym in Garland, TX. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym garland tx | category: Fitness | industry benchmark: Health & Fitness
@@ -28,6 +28,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$5,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-garland-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-garland-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

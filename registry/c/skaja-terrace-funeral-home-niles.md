@@ -13,12 +13,12 @@ Skaja Terrace Funeral Home is a funeral home in Niles, IL at 7812 North Milwauke
 - Website: https://www.skajafuneralhomes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 41% of funeral homes in Chicago, #1 of 2 funeral homes in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 41% of funeral homes in Chicago, #1 of 2 funeral homes in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/skaja-terrace-funeral-home-niles/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/skaja-terrace-funeral-home-niles.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/skaja-terrace-funeral-home-niles/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/skaja-terrace-funeral-home-niles.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1356528232 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

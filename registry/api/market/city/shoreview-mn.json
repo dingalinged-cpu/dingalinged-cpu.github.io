@@ -2,7 +2,7 @@
  "title": "Keyword market data: Shoreview, MN",
  "description": "Top Shoreview, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Shoreview, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 13,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash shoreview mn",
     "slug": "car-wash-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-shoreview-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym shoreview mn",
     "slug": "gym-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shoreview-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon shoreview mn",
     "slug": "hair-salon-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-shoreview-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -56,7 +56,7 @@
    {
     "keyword": "barber shop shoreview mn",
     "slug": "barber-shop-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-shoreview-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet shoreview mn",
     "slug": "vet-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-shoreview-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut shoreview mn",
     "slug": "haircut-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shoreview-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -101,7 +101,7 @@
    {
     "keyword": "insurance agency shoreview mn",
     "slug": "insurance-agency-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shoreview-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agents shoreview mn",
     "slug": "insurance-agents-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-shoreview-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agent shoreview mn",
     "slug": "insurance-agent-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-shoreview-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -148,7 +148,7 @@
    {
     "keyword": "dance studio shoreview mn",
     "slug": "dance-studio-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-shoreview-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -163,7 +163,7 @@
    {
     "keyword": "martial arts shoreview mn",
     "slug": "martial-arts-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-shoreview-mn/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3300,
@@ -178,7 +178,7 @@
    {
     "keyword": "assisted living shoreview mn",
     "slug": "assisted-living-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-shoreview-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -193,7 +193,7 @@
    {
     "keyword": "haircut shoreview mn",
     "slug": "haircut-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shoreview-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -208,7 +208,7 @@
    {
     "keyword": "car wash shoreview mn",
     "slug": "car-wash-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-shoreview-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -223,7 +223,7 @@
    {
     "keyword": "liquor store shoreview mn",
     "slug": "liquor-store-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-shoreview-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -238,7 +238,7 @@
    {
     "keyword": "vet shoreview mn",
     "slug": "vet-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-shoreview-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -253,7 +253,7 @@
    {
     "keyword": "insurance agency shoreview mn",
     "slug": "insurance-agency-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shoreview-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -268,7 +268,7 @@
    {
     "keyword": "insurance agent shoreview mn",
     "slug": "insurance-agent-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-shoreview-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -283,7 +283,7 @@
    {
     "keyword": "insurance agents shoreview mn",
     "slug": "insurance-agents-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-shoreview-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -298,7 +298,7 @@
    {
     "keyword": "gym shoreview mn",
     "slug": "gym-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shoreview-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -313,7 +313,7 @@
    {
     "keyword": "barber shop shoreview mn",
     "slug": "barber-shop-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-shoreview-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -328,7 +328,7 @@
    {
     "keyword": "hair salon shoreview mn",
     "slug": "hair-salon-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-shoreview-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -345,7 +345,7 @@
    {
     "keyword": "car wash shoreview mn",
     "slug": "car-wash-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-shoreview-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -360,7 +360,7 @@
    {
     "keyword": "gym shoreview mn",
     "slug": "gym-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shoreview-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -375,7 +375,7 @@
    {
     "keyword": "vet shoreview mn",
     "slug": "vet-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-shoreview-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -390,7 +390,7 @@
    {
     "keyword": "haircut shoreview mn",
     "slug": "haircut-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shoreview-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -405,7 +405,7 @@
    {
     "keyword": "hair salon shoreview mn",
     "slug": "hair-salon-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-shoreview-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -420,7 +420,7 @@
    {
     "keyword": "barber shop shoreview mn",
     "slug": "barber-shop-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-shoreview-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -435,7 +435,7 @@
    {
     "keyword": "insurance agency shoreview mn",
     "slug": "insurance-agency-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-shoreview-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -450,7 +450,7 @@
    {
     "keyword": "insurance agents shoreview mn",
     "slug": "insurance-agents-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-shoreview-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -465,7 +465,7 @@
    {
     "keyword": "insurance agent shoreview mn",
     "slug": "insurance-agent-shoreview-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-shoreview-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-shoreview-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,

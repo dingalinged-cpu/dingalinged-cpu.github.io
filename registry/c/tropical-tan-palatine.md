@@ -13,12 +13,12 @@ Tropical Tan is a tanning salon in Palatine, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 15% of tanning salons in Chicago, #1 of 1 tanning salons in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 42.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 15% of tanning salons in Chicago, #1 of 1 tanning salons in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 42.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tropical-tan-palatine/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tropical-tan-palatine.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tropical-tan-palatine/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tropical-tan-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8441464390 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

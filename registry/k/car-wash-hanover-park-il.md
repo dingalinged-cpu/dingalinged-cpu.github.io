@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Hanover Park, IL is Everclean Car Wash (a car wash in Hanover Park, IL at 2020 West Lake Street, Hanover Park, IL 60133. Phone: +16304878108. Website: https://evercleancw.com/locations/hanover-park/). 3 car wash businesses are listed for Hanover Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Hanover Park, IL is Everclean Car Wash (a car wash in Hanover Park, IL at 2020 West Lake Street, Hanover Park, IL 60133. Phone: +16304878108. Website: https://evercleancw.com/locations/hanover-park/). 3 car wash businesses are listed for Hanover Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Hanover Park, IL?
 
@@ -6,9 +6,9 @@ Also answers: car wash in Hanover Park, IL; car wash near me (Hanover Park, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Everclean Car Wash | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Everclean Car Wash is a car wash in Hanover Park, IL at 2020 West Lake Street, Hanover Park, IL 60133. Phone: +16304878108. Website: https://evercleancw.com/locations/hanover-park/. | https://dingalinged-cpu.github.io/registry/c/everclean-car-wash-hanover-park/
-2. Car Brite | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Car Brite is a car wash in Hanover Park, IL at 2630 West Lake Street, Hanover Park, IL 60133. | https://dingalinged-cpu.github.io/registry/c/car-brite-hanover-park/
-3. Shell | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Shell is a car wash in Hanover Park, IL. | https://dingalinged-cpu.github.io/registry/c/shell-hanover-park/
+1. Everclean Car Wash | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Everclean Car Wash is a car wash in Hanover Park, IL at 2020 West Lake Street, Hanover Park, IL 60133. Phone: +16304878108. Website: https://evercleancw.com/locations/hanover-park/. | https://registry-edge.dingalinged.workers.dev/c/everclean-car-wash-hanover-park/
+2. Car Brite | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Car Brite is a car wash in Hanover Park, IL at 2630 West Lake Street, Hanover Park, IL 60133. | https://registry-edge.dingalinged.workers.dev/c/car-brite-hanover-park/
+3. Shell | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Shell is a car wash in Hanover Park, IL. | https://registry-edge.dingalinged.workers.dev/c/shell-hanover-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash hanover park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$12,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-hanover-park-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-hanover-park-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@
 - Website: https://www.4getmenotflowers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 10:00-15:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of florists in Chicago, #3 of 43 florists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of florists in Chicago, #3 of 43 florists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/4-get-me-not-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/4-get-me-not-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/4-get-me-not-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/4-get-me-not-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11154373854 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

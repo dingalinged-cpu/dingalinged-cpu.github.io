@@ -2,7 +2,7 @@
  "title": "Keyword market data: Morton Grove, IL",
  "description": "Top Morton Grove, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Morton Grove, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage morton grove il",
     "slug": "massage-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-morton-grove-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care morton grove il",
     "slug": "urgent-care-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-morton-grove-il/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 76000,
@@ -41,7 +41,7 @@
    {
     "keyword": "car wash morton grove il",
     "slug": "car-wash-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-morton-grove-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "dentist morton grove il",
     "slug": "dentist-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-morton-grove-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -71,7 +71,7 @@
    {
     "keyword": "gym morton grove il",
     "slug": "gym-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-morton-grove-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -86,7 +86,7 @@
    {
     "keyword": "hair salon morton grove il",
     "slug": "hair-salon-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-morton-grove-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic morton grove il",
     "slug": "mechanic-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-morton-grove-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut morton grove il",
     "slug": "haircut-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-morton-grove-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair morton grove il",
     "slug": "auto-repair-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-morton-grove-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -146,7 +146,7 @@
    {
     "keyword": "chiropractor morton grove il",
     "slug": "chiropractor-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-morton-grove-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -161,7 +161,7 @@
    {
     "keyword": "financial advisor morton grove il",
     "slug": "financial-advisor-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-morton-grove-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agency morton grove il",
     "slug": "insurance-agency-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-morton-grove-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -191,7 +191,7 @@
    {
     "keyword": "hvac repair morton grove il",
     "slug": "hvac-repair-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-morton-grove-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -206,7 +206,7 @@
    {
     "keyword": "windshield replacement morton grove il",
     "slug": "windshield-replacement-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-morton-grove-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agents morton grove il",
     "slug": "insurance-agents-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-morton-grove-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair morton grove il",
     "slug": "hvac-repair-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-morton-grove-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "heating and air morton grove il",
     "slug": "heating-and-air-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-morton-grove-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -268,7 +268,7 @@
    {
     "keyword": "storage units morton grove il",
     "slug": "storage-units-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-morton-grove-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "driving school morton grove il",
     "slug": "driving-school-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-morton-grove-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -298,7 +298,7 @@
    {
     "keyword": "chiropractor morton grove il",
     "slug": "chiropractor-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-morton-grove-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -313,7 +313,7 @@
    {
     "keyword": "eye doctor morton grove il",
     "slug": "eye-doctor-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-morton-grove-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "urgent care morton grove il",
     "slug": "urgent-care-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-morton-grove-il/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 76000,
@@ -343,7 +343,7 @@
    {
     "keyword": "dentist morton grove il",
     "slug": "dentist-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-morton-grove-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -358,7 +358,7 @@
    {
     "keyword": "haircut morton grove il",
     "slug": "haircut-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-morton-grove-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -373,7 +373,7 @@
    {
     "keyword": "massage morton grove il",
     "slug": "massage-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-morton-grove-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -388,7 +388,7 @@
    {
     "keyword": "auto repair morton grove il",
     "slug": "auto-repair-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-morton-grove-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -403,7 +403,7 @@
    {
     "keyword": "car wash morton grove il",
     "slug": "car-wash-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-morton-grove-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -418,7 +418,7 @@
    {
     "keyword": "mechanic morton grove il",
     "slug": "mechanic-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-morton-grove-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -433,7 +433,7 @@
    {
     "keyword": "windshield replacement morton grove il",
     "slug": "windshield-replacement-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-morton-grove-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -448,7 +448,7 @@
    {
     "keyword": "pet store morton grove il",
     "slug": "pet-store-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-morton-grove-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage morton grove il",
     "slug": "massage-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-morton-grove-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care morton grove il",
     "slug": "urgent-care-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-morton-grove-il/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 76000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist morton grove il",
     "slug": "dentist-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-morton-grove-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash morton grove il",
     "slug": "car-wash-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-morton-grove-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym morton grove il",
     "slug": "gym-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-morton-grove-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic morton grove il",
     "slug": "mechanic-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-morton-grove-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut morton grove il",
     "slug": "haircut-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-morton-grove-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair morton grove il",
     "slug": "auto-repair-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-morton-grove-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -585,7 +585,7 @@
    {
     "keyword": "hvac repair morton grove il",
     "slug": "hvac-repair-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-morton-grove-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -600,7 +600,7 @@
    {
     "keyword": "chiropractor morton grove il",
     "slug": "chiropractor-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-morton-grove-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -615,7 +615,7 @@
    {
     "keyword": "financial advisor morton grove il",
     "slug": "financial-advisor-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-morton-grove-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -630,7 +630,7 @@
    {
     "keyword": "hair salon morton grove il",
     "slug": "hair-salon-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-morton-grove-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agency morton grove il",
     "slug": "insurance-agency-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-morton-grove-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -660,7 +660,7 @@
    {
     "keyword": "windshield replacement morton grove il",
     "slug": "windshield-replacement-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-morton-grove-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agents morton grove il",
     "slug": "insurance-agents-morton-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-morton-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-morton-grove-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

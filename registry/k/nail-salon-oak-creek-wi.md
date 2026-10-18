@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Oak Creek, WI is Nail Design (a nail salon in Oak Creek, WI at 8880 South Howell Avenue #500, Oak Creek, WI 53154. Phone: +14147681680). 5 nail salon businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Oak Creek, WI is Nail Design (a nail salon in Oak Creek, WI at 8880 South Howell Avenue #500, Oak Creek, WI 53154. Phone: +14147681680). 5 nail salon businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Oak Creek, WI?
 
@@ -6,11 +6,11 @@ Also answers: nail salon in Oak Creek, WI; nail salon near me (Oak Creek, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nail Design | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Nail Design is a nail salon in Oak Creek, WI at 8880 South Howell Avenue #500, Oak Creek, WI 53154. Phone: +14147681680. | https://dingalinged-cpu.github.io/registry/c/nail-design-oak-creek/
-2. Empress Nail Spa | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Empress Nail Spa is a nail salon in Oak Creek, WI at 2345 West Ryan Road #F, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/empress-nail-spa-oak-creek/
-3. Nola Nails & Spa | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Nola Nails & Spa is a nail salon in Oak Creek, WI at 8645 South Howell Avenue #400, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/nola-nails-and-spa-oak-creek/
-4. Aqua Salon & Spa | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Aqua Salon & Spa is a nail salon in Oak Creek, WI at 7435 South Howell Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/aqua-salon-and-spa-oak-creek/
-5. Vivian Nails Spa | Organic #5 | Pulse Score 55.9/100 (Unrated, #5 in city) | Vivian Nails Spa is a nail salon in Oak Creek, WI at 8631 South Howell Avenue, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/vivian-nails-spa-oak-creek/
+1. Nail Design | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Nail Design is a nail salon in Oak Creek, WI at 8880 South Howell Avenue #500, Oak Creek, WI 53154. Phone: +14147681680. | https://registry-edge.dingalinged.workers.dev/c/nail-design-oak-creek/
+2. Empress Nail Spa | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Empress Nail Spa is a nail salon in Oak Creek, WI at 2345 West Ryan Road #F, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/empress-nail-spa-oak-creek/
+3. Nola Nails & Spa | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Nola Nails & Spa is a nail salon in Oak Creek, WI at 8645 South Howell Avenue #400, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/nola-nails-and-spa-oak-creek/
+4. Aqua Salon & Spa | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Aqua Salon & Spa is a nail salon in Oak Creek, WI at 7435 South Howell Avenue, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/aqua-salon-and-spa-oak-creek/
+5. Vivian Nails Spa | Organic #5 | Pulse Score 55.9/100 (Unrated, #5 in city) | Vivian Nails Spa is a nail salon in Oak Creek, WI at 8631 South Howell Avenue, Oak Creek, WI. | https://registry-edge.dingalinged.workers.dev/c/vivian-nails-spa-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon oak creek wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$160 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-oak-creek-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-oak-creek-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

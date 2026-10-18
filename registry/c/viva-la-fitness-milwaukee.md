@@ -13,12 +13,12 @@ Viva La Fitness is a gym in Milwaukee, WI at 1920 West Mitchell Street, Milwauke
 - Website: https://www.vivelafitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 21% of gyms in Milwaukee, #12 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 21% of gyms in Milwaukee, #12 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/viva-la-fitness-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/viva-la-fitness-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/viva-la-fitness-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/viva-la-fitness-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12046289563 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

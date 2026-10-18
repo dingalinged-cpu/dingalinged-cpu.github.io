@@ -2,7 +2,7 @@
  "title": "Keyword market data: Countryside, IL",
  "description": "Top Countryside, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Countryside, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 47,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash countryside il",
     "slug": "car-wash-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-countryside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist countryside il",
     "slug": "dentist-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-countryside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym countryside il",
     "slug": "gym-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-countryside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon countryside il",
     "slug": "hair-salon-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-countryside-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon countryside il",
     "slug": "nail-salon-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-countryside-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -86,7 +86,7 @@
    {
     "keyword": "plumber countryside il",
     "slug": "plumber-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-countryside-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic countryside il",
     "slug": "mechanic-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-countryside-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop countryside il",
     "slug": "tire-shop-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-countryside-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet countryside il",
     "slug": "vet-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-countryside-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer countryside il",
     "slug": "dog-groomer-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-countryside-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut countryside il",
     "slug": "haircut-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-countryside-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair countryside il",
     "slug": "auto-repair-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-countryside-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor countryside il",
     "slug": "chiropractor-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-countryside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -206,7 +206,7 @@
    {
     "keyword": "dog boarding countryside il",
     "slug": "dog-boarding-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-countryside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -221,7 +221,7 @@
    {
     "keyword": "financial advisor countryside il",
     "slug": "financial-advisor-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-countryside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair countryside il",
     "slug": "hvac-repair-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-countryside-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumbing services countryside il",
     "slug": "plumbing-services-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-countryside-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -268,7 +268,7 @@
    {
     "keyword": "plumber countryside il",
     "slug": "plumber-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-countryside-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -283,7 +283,7 @@
    {
     "keyword": "attorney countryside il",
     "slug": "attorney-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-countryside-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -298,7 +298,7 @@
    {
     "keyword": "lawyer countryside il",
     "slug": "lawyer-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-countryside-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -313,7 +313,7 @@
    {
     "keyword": "flooring companies countryside il",
     "slug": "flooring-companies-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-countryside-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -328,7 +328,7 @@
    {
     "keyword": "heating and air countryside il",
     "slug": "heating-and-air-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-countryside-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "locksmith countryside il",
     "slug": "locksmith-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-countryside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -358,7 +358,7 @@
    {
     "keyword": "plumbers countryside il",
     "slug": "plumbers-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-countryside-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "storage units countryside il",
     "slug": "storage-units-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-countryside-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -388,7 +388,7 @@
    {
     "keyword": "bakery countryside il",
     "slug": "bakery-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-countryside-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -403,7 +403,7 @@
    {
     "keyword": "dance studio countryside il",
     "slug": "dance-studio-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-countryside-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -418,7 +418,7 @@
    {
     "keyword": "martial arts countryside il",
     "slug": "martial-arts-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-countryside-il/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8300,
@@ -433,7 +433,7 @@
    {
     "keyword": "accounting services countryside il",
     "slug": "accounting-services-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-countryside-il/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -448,7 +448,7 @@
    {
     "keyword": "tax preparer countryside il",
     "slug": "tax-preparer-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-countryside-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -465,7 +465,7 @@
    {
     "keyword": "plumber countryside il",
     "slug": "plumber-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-countryside-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist countryside il",
     "slug": "dentist-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-countryside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash countryside il",
     "slug": "car-wash-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-countryside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym countryside il",
     "slug": "gym-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-countryside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic countryside il",
     "slug": "mechanic-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-countryside-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop countryside il",
     "slug": "tire-shop-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-countryside-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet countryside il",
     "slug": "vet-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-countryside-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -570,7 +570,7 @@
    {
     "keyword": "locksmith countryside il",
     "slug": "locksmith-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-countryside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -585,7 +585,7 @@
    {
     "keyword": "dog groomer countryside il",
     "slug": "dog-groomer-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-countryside-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut countryside il",
     "slug": "haircut-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-countryside-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair countryside il",
     "slug": "auto-repair-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-countryside-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -630,7 +630,7 @@
    {
     "keyword": "hvac repair countryside il",
     "slug": "hvac-repair-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-countryside-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -645,7 +645,7 @@
    {
     "keyword": "chiropractor countryside il",
     "slug": "chiropractor-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-countryside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -660,7 +660,7 @@
    {
     "keyword": "dog boarding countryside il",
     "slug": "dog-boarding-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-countryside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -675,7 +675,7 @@
    {
     "keyword": "financial advisor countryside il",
     "slug": "financial-advisor-countryside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-countryside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-countryside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,

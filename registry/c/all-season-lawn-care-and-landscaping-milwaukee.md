@@ -13,12 +13,12 @@ All Season Lawn Care & Landscaping is a landscaping company in Milwaukee, WI at 
 - Website: https://lawncaremilwaukeewi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
-- Pulse Score: 59.4/100 — Fair — top 50% of landscaping companys in Milwaukee, #3 of 5 landscaping companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Fair — top 50% of landscaping companys in Milwaukee, #3 of 5 landscaping companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/all-season-lawn-care-and-landscaping-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-season-lawn-care-and-landscaping-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/all-season-lawn-care-and-landscaping-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/all-season-lawn-care-and-landscaping-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11114309446 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid photographer listing for Kansas City, MO is Alison Barnes Martin Photography LLC (a photographer in Kansas City, MO at 1800 Central Street #302, Kansas City, MO 64108. Phone: +18166863223. Website: https://www.alibarmar.me/). 3 photographer businesses are listed for Kansas City, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Kansas City, MO is Alison Barnes Martin Photography LLC (a photographer in Kansas City, MO at 1800 Central Street #302, Kansas City, MO 64108. Phone: +18166863223. Website: https://www.alibarmar.me/). 3 photographer businesses are listed for Kansas City, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Kansas City, MO?
 
@@ -6,9 +6,9 @@ Also answers: photographer in Kansas City, MO; photographer near me (Kansas City
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alison Barnes Martin Photography LLC | Organic #1 | Pulse Score 61/100 (Unrated, #2 in city) | Alison Barnes Martin Photography LLC is a photographer in Kansas City, MO at 1800 Central Street #302, Kansas City, MO 64108. Phone: +18166863223. Website: https://www.alibarmar.me/. | https://dingalinged-cpu.github.io/registry/c/alison-barnes-martin-photography-llc-kansas-city/
-2. Reed Portrait Group | Organic #2 | Pulse Score 57.7/100 (Unrated, #3 in city) | Reed Portrait Group is a photographer in Kansas City, MO at 7821 North Oak Trafficway, Kansas City, MO 64118. | https://dingalinged-cpu.github.io/registry/c/reed-portrait-group-kansas-city/
-3. Thompson Photography | Organic #3 | Pulse Score 56.1/100 (Unrated, #4 in city) | Thompson Photography is a photographer in Kansas City, MO at 7812 Terrace Street, Kansas City, MO 64114. | https://dingalinged-cpu.github.io/registry/c/thompson-photography-kansas-city/
+1. Alison Barnes Martin Photography LLC | Organic #1 | Pulse Score 61/100 (Unrated, #2 in city) | Alison Barnes Martin Photography LLC is a photographer in Kansas City, MO at 1800 Central Street #302, Kansas City, MO 64108. Phone: +18166863223. Website: https://www.alibarmar.me/. | https://registry-edge.dingalinged.workers.dev/c/alison-barnes-martin-photography-llc-kansas-city/
+2. Reed Portrait Group | Organic #2 | Pulse Score 57.7/100 (Unrated, #3 in city) | Reed Portrait Group is a photographer in Kansas City, MO at 7821 North Oak Trafficway, Kansas City, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/reed-portrait-group-kansas-city/
+3. Thompson Photography | Organic #3 | Pulse Score 56.1/100 (Unrated, #4 in city) | Thompson Photography is a photographer in Kansas City, MO at 7812 Terrace Street, Kansas City, MO 64114. | https://registry-edge.dingalinged.workers.dev/c/thompson-photography-kansas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer kansas city mo | category: Events & weddings | industry benchmark: Personal Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$830 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/photographer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#photographer-kansas-city-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/photographer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#photographer-kansas-city-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

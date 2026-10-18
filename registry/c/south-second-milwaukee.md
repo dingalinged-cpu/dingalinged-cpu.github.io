@@ -13,12 +13,12 @@ South Second is an event venue in Milwaukee, WI at 838 South 2nd Street, Milwauk
 - Website: https://www.southsecondmke.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 62% of event venues in Milwaukee, #32 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 62% of event venues in Milwaukee, #32 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/south-second-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/south-second-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/south-second-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/south-second-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/663078634 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

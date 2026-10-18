@@ -2,7 +2,7 @@
  "title": "Keyword market data: Lee'S Summit, MO",
  "description": "Top Lee'S Summit, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Lee'S Summit, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 53,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage lee's summit mo",
     "slug": "massage-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-lees-summit-mo/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash lee's summit mo",
     "slug": "car-wash-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lees-summit-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist lee's summit mo",
     "slug": "dentist-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-lees-summit-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym lee's summit mo",
     "slug": "gym-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-lees-summit-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon lee's summit mo",
     "slug": "hair-salon-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-lees-summit-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon lee's summit mo",
     "slug": "nail-salon-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-lees-summit-mo/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -101,7 +101,7 @@
    {
     "keyword": "plumber lee's summit mo",
     "slug": "plumber-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-lees-summit-mo/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -116,7 +116,7 @@
    {
     "keyword": "barber shop lee's summit mo",
     "slug": "barber-shop-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-lees-summit-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -131,7 +131,7 @@
    {
     "keyword": "mechanic lee's summit mo",
     "slug": "mechanic-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-lees-summit-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -146,7 +146,7 @@
    {
     "keyword": "haircut lee's summit mo",
     "slug": "haircut-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lees-summit-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -161,7 +161,7 @@
    {
     "keyword": "auto repair lee's summit mo",
     "slug": "auto-repair-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-lees-summit-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -176,7 +176,7 @@
    {
     "keyword": "dog boarding lee's summit mo",
     "slug": "dog-boarding-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-lees-summit-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -191,7 +191,7 @@
    {
     "keyword": "financial advisor lee's summit mo",
     "slug": "financial-advisor-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-lees-summit-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -206,7 +206,7 @@
    {
     "keyword": "spa lee's summit mo",
     "slug": "spa-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-lees-summit-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -221,7 +221,7 @@
    {
     "keyword": "real estate agent lee's summit mo",
     "slug": "real-estate-agent-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lees-summit-mo/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -238,7 +238,7 @@
    {
     "keyword": "plumbing services lee's summit mo",
     "slug": "plumbing-services-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-lees-summit-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumber lee's summit mo",
     "slug": "plumber-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-lees-summit-mo/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofing contractor lee's summit mo",
     "slug": "roofing-contractor-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-lees-summit-mo/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 900,
@@ -283,7 +283,7 @@
    {
     "keyword": "roofer lee's summit mo",
     "slug": "roofer-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-lees-summit-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -298,7 +298,7 @@
    {
     "keyword": "attorney lee's summit mo",
     "slug": "attorney-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-lees-summit-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -313,7 +313,7 @@
    {
     "keyword": "lawyer lee's summit mo",
     "slug": "lawyer-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-lees-summit-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -328,7 +328,7 @@
    {
     "keyword": "flooring companies lee's summit mo",
     "slug": "flooring-companies-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-lees-summit-mo/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbers lee's summit mo",
     "slug": "plumbers-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-lees-summit-mo/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 24.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "event venues lee's summit mo",
     "slug": "event-venues-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-lees-summit-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -373,7 +373,7 @@
    {
     "keyword": "florist lee's summit mo",
     "slug": "florist-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-lees-summit-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -388,7 +388,7 @@
    {
     "keyword": "crossfit lee's summit mo",
     "slug": "crossfit-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/crossfit-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-lees-summit-mo/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -403,7 +403,7 @@
    {
     "keyword": "dance studio lee's summit mo",
     "slug": "dance-studio-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-lees-summit-mo/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -418,7 +418,7 @@
    {
     "keyword": "martial arts lee's summit mo",
     "slug": "martial-arts-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-lees-summit-mo/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2000,
@@ -433,7 +433,7 @@
    {
     "keyword": "daycare lee's summit mo",
     "slug": "daycare-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-lees-summit-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -448,7 +448,7 @@
    {
     "keyword": "dermatologist lee's summit mo",
     "slug": "dermatologist-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dermatologist-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dermatologist-lees-summit-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage lee's summit mo",
     "slug": "massage-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-lees-summit-mo/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33000,
@@ -480,7 +480,7 @@
    {
     "keyword": "plumber lee's summit mo",
     "slug": "plumber-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-lees-summit-mo/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist lee's summit mo",
     "slug": "dentist-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-lees-summit-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash lee's summit mo",
     "slug": "car-wash-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lees-summit-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym lee's summit mo",
     "slug": "gym-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-lees-summit-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic lee's summit mo",
     "slug": "mechanic-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-lees-summit-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut lee's summit mo",
     "slug": "haircut-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lees-summit-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -570,7 +570,7 @@
    {
     "keyword": "roofing contractor lee's summit mo",
     "slug": "roofing-contractor-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-lees-summit-mo/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 900,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair lee's summit mo",
     "slug": "auto-repair-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-lees-summit-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -600,7 +600,7 @@
    {
     "keyword": "spa lee's summit mo",
     "slug": "spa-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-lees-summit-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -615,7 +615,7 @@
    {
     "keyword": "dog boarding lee's summit mo",
     "slug": "dog-boarding-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-lees-summit-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -630,7 +630,7 @@
    {
     "keyword": "hair salon lee's summit mo",
     "slug": "hair-salon-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-lees-summit-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -645,7 +645,7 @@
    {
     "keyword": "financial advisor lee's summit mo",
     "slug": "financial-advisor-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-lees-summit-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -660,7 +660,7 @@
    {
     "keyword": "attorney lee's summit mo",
     "slug": "attorney-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-lees-summit-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -675,7 +675,7 @@
    {
     "keyword": "real estate agent lee's summit mo",
     "slug": "real-estate-agent-lees-summit-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-lees-summit-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-lees-summit-mo/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,

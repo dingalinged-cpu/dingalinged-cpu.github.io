@@ -1,4 +1,4 @@
-The top unpaid painters listing for Kennesaw, GA is Hectors Painting & Home Improvement (a painting contractor in Kennesaw, GA at 3464 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16782906387. Website: https://hectorspainting.com/). 3 painters businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid painters listing for Kennesaw, GA is Hectors Painting & Home Improvement (a painting contractor in Kennesaw, GA at 3464 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16782906387. Website: https://hectorspainting.com/). 3 painters businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best painters providers in Kennesaw, GA?
 
@@ -6,9 +6,9 @@ Also answers: painters in Kennesaw, GA; painters near me (Kennesaw, GA); best pa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hectors Painting & Home Improvement | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Hectors Painting & Home Improvement is a painting contractor in Kennesaw, GA at 3464 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16782906387. Website: https://hectorspainting.com/. | https://dingalinged-cpu.github.io/registry/c/hectors-painting-and-home-improvement-kennesaw/
-2. Rodriguez Painting | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Rodriguez Painting is a painting contractor in Kennesaw, GA at 3670 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16783556162. Website: https://www.rodriguezpaintingga.com/. | https://dingalinged-cpu.github.io/registry/c/rodriguez-painting-kennesaw/
-3. Eagle Painting | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Eagle Painting is a painting contractor in Kennesaw, GA at 1630 Acworth Due West Road Northwest, Kennesaw, GA 30152. Phone: +17704242901. Website: https://www.calleaglepainting.com/. | https://dingalinged-cpu.github.io/registry/c/eagle-painting-kennesaw/
+1. Hectors Painting & Home Improvement | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Hectors Painting & Home Improvement is a painting contractor in Kennesaw, GA at 3464 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16782906387. Website: https://hectorspainting.com/. | https://registry-edge.dingalinged.workers.dev/c/hectors-painting-and-home-improvement-kennesaw/
+2. Rodriguez Painting | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Rodriguez Painting is a painting contractor in Kennesaw, GA at 3670 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +16783556162. Website: https://www.rodriguezpaintingga.com/. | https://registry-edge.dingalinged.workers.dev/c/rodriguez-painting-kennesaw/
+3. Eagle Painting | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Eagle Painting is a painting contractor in Kennesaw, GA at 1630 Acworth Due West Road Northwest, Kennesaw, GA 30152. Phone: +17704242901. Website: https://www.calleaglepainting.com/. | https://registry-edge.dingalinged.workers.dev/c/eagle-painting-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters kennesaw ga | category: Home services - Painting | industry benchmark: Home & Home Improvement
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$960 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/painters.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#painters-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/painters.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#painters-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

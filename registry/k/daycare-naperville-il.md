@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Naperville, IL is KLA Schools (a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville). 4 daycare businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Naperville, IL is KLA Schools (a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville). 4 daycare businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Naperville, IL?
 
@@ -6,10 +6,10 @@ Also answers: daycare in Naperville, IL; daycare near me (Naperville, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KLA Schools | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | KLA Schools is a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville. | https://dingalinged-cpu.github.io/registry/c/kla-schools-naperville/
-2. Alive Teen Center | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Alive Teen Center is a daycare in Naperville, IL at 500 West 5th Avenue, Naperville, IL 60563. Phone: +16307786093. Website: https://www.alivecenter.org/. | https://dingalinged-cpu.github.io/registry/c/alive-teen-center-naperville/
-3. All Saints Catholic Academy | Organic #3 | Pulse Score 61.1/100 (Unrated, #3 in city) | All Saints Catholic Academy is a daycare in Naperville, IL at 1155 Aurora Avenue, Naperville, IL 60540. Phone: +16309616125. Website: https://ascacademy.org/. | https://dingalinged-cpu.github.io/registry/c/all-saints-catholic-academy-naperville/
-4. Canvas Daycare & Preschool | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Canvas Daycare & Preschool is a daycare in Naperville, IL at 1567 North Aurora Road #127, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/canvas-daycare-and-preschool-naperville/
+1. KLA Schools | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | KLA Schools is a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville. | https://registry-edge.dingalinged.workers.dev/c/kla-schools-naperville/
+2. Alive Teen Center | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Alive Teen Center is a daycare in Naperville, IL at 500 West 5th Avenue, Naperville, IL 60563. Phone: +16307786093. Website: https://www.alivecenter.org/. | https://registry-edge.dingalinged.workers.dev/c/alive-teen-center-naperville/
+3. All Saints Catholic Academy | Organic #3 | Pulse Score 61.1/100 (Unrated, #3 in city) | All Saints Catholic Academy is a daycare in Naperville, IL at 1155 Aurora Avenue, Naperville, IL 60540. Phone: +16309616125. Website: https://ascacademy.org/. | https://registry-edge.dingalinged.workers.dev/c/all-saints-catholic-academy-naperville/
+4. Canvas Daycare & Preschool | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Canvas Daycare & Preschool is a daycare in Naperville, IL at 1567 North Aurora Road #127, Naperville, IL 60563. | https://registry-edge.dingalinged.workers.dev/c/canvas-daycare-and-preschool-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare naperville il | category: Education & childcare | industry benchmark: Education & Instruction
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare-naperville-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/daycare.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#daycare-naperville-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Butler, WI",
  "description": "Top Butler, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Butler, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 4,
@@ -11,7 +11,7 @@
    {
     "keyword": "mechanic butler wi",
     "slug": "mechanic-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-butler-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -26,7 +26,7 @@
    {
     "keyword": "auto repair butler wi",
     "slug": "auto-repair-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-butler-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -41,7 +41,7 @@
    {
     "keyword": "dog boarding butler wi",
     "slug": "dog-boarding-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-butler-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -58,7 +58,7 @@
    {
     "keyword": "chimney sweep butler wi",
     "slug": "chimney-sweep-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chimney-sweep-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chimney-sweep-butler-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 180,
@@ -73,7 +73,7 @@
    {
     "keyword": "auto repair butler wi",
     "slug": "auto-repair-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-butler-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -88,7 +88,7 @@
    {
     "keyword": "mechanic butler wi",
     "slug": "mechanic-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-butler-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -103,7 +103,7 @@
    {
     "keyword": "dog boarding butler wi",
     "slug": "dog-boarding-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-butler-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -120,7 +120,7 @@
    {
     "keyword": "mechanic butler wi",
     "slug": "mechanic-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-butler-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -135,7 +135,7 @@
    {
     "keyword": "auto repair butler wi",
     "slug": "auto-repair-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-butler-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -150,7 +150,7 @@
    {
     "keyword": "dog boarding butler wi",
     "slug": "dog-boarding-butler-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-butler-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-butler-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

@@ -1,4 +1,4 @@
-The top unpaid assisted living listing for Clive, IA is Walnut Ridge Senior Living Community (an assisted living facility in Clive, IA. Phone: +15154571111. Website: https://www.preshomes.org/our-communities/walnut-ridge). 2 assisted living businesses are listed for Clive, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Clive, IA is Walnut Ridge Senior Living Community (an assisted living facility in Clive, IA. Phone: +15154571111. Website: https://www.preshomes.org/our-communities/walnut-ridge). 2 assisted living businesses are listed for Clive, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Clive, IA?
 
@@ -6,8 +6,8 @@ Also answers: assisted living in Clive, IA; assisted living near me (Clive, IA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Walnut Ridge Senior Living Community | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Walnut Ridge Senior Living Community is an assisted living facility in Clive, IA. Phone: +15154571111. Website: https://www.preshomes.org/our-communities/walnut-ridge. | https://dingalinged-cpu.github.io/registry/c/walnut-ridge-senior-living-community-clive/
-2. Meadowview of Clive | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Meadowview of Clive is an assisted living facility in Clive, IA. Website: https://www.meadowviewclive.com/. | https://dingalinged-cpu.github.io/registry/c/meadowview-of-clive-clive/
+1. Walnut Ridge Senior Living Community | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Walnut Ridge Senior Living Community is an assisted living facility in Clive, IA. Phone: +15154571111. Website: https://www.preshomes.org/our-communities/walnut-ridge. | https://registry-edge.dingalinged.workers.dev/c/walnut-ridge-senior-living-community-clive/
+2. Meadowview of Clive | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Meadowview of Clive is an assisted living facility in Clive, IA. Website: https://www.meadowviewclive.com/. | https://registry-edge.dingalinged.workers.dev/c/meadowview-of-clive-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living clive ia | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$160 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/assisted-living.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#assisted-living-clive-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/assisted-living.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#assisted-living-clive-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

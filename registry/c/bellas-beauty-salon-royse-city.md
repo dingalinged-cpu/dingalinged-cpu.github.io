@@ -13,12 +13,12 @@ Bella's Beauty Salon is a hair salon in Royse City, TX at 520 South Houston Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 13% of hair salons in Dallas–Fort Worth, #2 of 5 hair salons in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 13% of hair salons in Dallas–Fort Worth, #2 of 5 hair salons in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/bellas-beauty-salon-royse-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bellas-beauty-salon-royse-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bellas-beauty-salon-royse-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bellas-beauty-salon-royse-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/708641743 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

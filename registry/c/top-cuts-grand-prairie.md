@@ -13,12 +13,12 @@ Top Cuts is a hair salon in Grand Prairie, TX at 410 East Pioneer Parkway, Grand
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Dallas–Fort Worth, #1 of 4 hair salons in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Dallas–Fort Worth, #1 of 4 hair salons in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/top-cuts-grand-prairie/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/top-cuts-grand-prairie.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/top-cuts-grand-prairie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/top-cuts-grand-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13652450001 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

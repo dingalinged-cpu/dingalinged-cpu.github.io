@@ -13,12 +13,12 @@ Super Wash is a car wash in Ankeny, IA at 2310 West 1st Street, Ankeny, IA 50023
 - Website: https://www.superwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 2% of car washes in Des Moines, IA, #1 of 8 car washes in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 2% of car washes in Des Moines, IA, #1 of 8 car washes in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/super-wash-ankeny/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/super-wash-ankeny.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/super-wash-ankeny/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/super-wash-ankeny.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/35105770 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

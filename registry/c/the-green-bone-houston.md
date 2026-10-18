@@ -13,12 +13,12 @@ The Green Bone is a dog boarding facility in Houston, TX at 2901 Rusk Street, Ho
 - Website: https://www.thegreenbone.net/
 - Email: info@thegreenbone.net
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:30, Sa 10:00-17:30, Su "on appointment"
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 35% of dog boarding facilitys in Houston, #3 of 10 dog boarding facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 35% of dog boarding facilitys in Houston, #3 of 10 dog boarding facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-green-bone-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-green-bone-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-green-bone-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-green-bone-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/589070622 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

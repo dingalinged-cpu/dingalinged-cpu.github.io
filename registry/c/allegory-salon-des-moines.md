@@ -13,12 +13,12 @@ Allegory Salon is a hair salon in Des Moines, IA at 521 East 6th Street #101, De
 - Website: https://www.allegorysalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-17:00; Tu,Th 09:00-20:00; We 12:00-17:00; Fr 09:00-18:00
-- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Des Moines, IA, #3 of 34 hair salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Des Moines, IA, #3 of 34 hair salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/allegory-salon-des-moines/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/allegory-salon-des-moines.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allegory-salon-des-moines/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allegory-salon-des-moines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12650883356 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

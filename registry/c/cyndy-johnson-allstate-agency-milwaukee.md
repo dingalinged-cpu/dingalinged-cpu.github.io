@@ -13,12 +13,12 @@ Cyndy Johnson Allstate Agency is an insurance agent in Milwaukee, WI. Website: h
 - Website: https://agents.allstate.com/cyndy-johnson-milwaukee-wi.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 68% of insurance agents in Milwaukee, #19 of 23 insurance agents in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 68% of insurance agents in Milwaukee, #19 of 23 insurance agents in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cyndy-johnson-allstate-agency-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cyndy-johnson-allstate-agency-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cyndy-johnson-allstate-agency-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cyndy-johnson-allstate-agency-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12265992871 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

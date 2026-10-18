@@ -1,4 +1,4 @@
-The top unpaid florist listing for Kennesaw, GA is Faith Designs Florist (a florist in Kennesaw, GA at 2680 Cobb Parkway #D, Kennesaw, GA. Phone: +17704256570. Website: https://faithdesignsflorist.com/). 3 florist businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Kennesaw, GA is Faith Designs Florist (a florist in Kennesaw, GA at 2680 Cobb Parkway #D, Kennesaw, GA. Phone: +17704256570. Website: https://faithdesignsflorist.com/). 3 florist businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Kennesaw, GA?
 
@@ -6,9 +6,9 @@ Also answers: florist in Kennesaw, GA; florist near me (Kennesaw, GA); best flor
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Faith Designs Florist | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | Faith Designs Florist is a florist in Kennesaw, GA at 2680 Cobb Parkway #D, Kennesaw, GA. Phone: +17704256570. Website: https://faithdesignsflorist.com/. | https://dingalinged-cpu.github.io/registry/c/faith-designs-florist-kennesaw/
-2. Kennesaw Florist | Organic #2 | Pulse Score 61.3/100 (Good, #2 in city) | Kennesaw Florist is a florist in Kennesaw, GA at 2724 Summers Street Northwest, Kennesaw, GA. Phone: +17704221674. Website: https://www.kennesawflorist.com/. | https://dingalinged-cpu.github.io/registry/c/kennesaw-florist-kennesaw/
-3. A Petal Pusher Florist | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | A Petal Pusher Florist is a florist in Kennesaw, GA at 2213 Northbrook Ridge Northwest, Kennesaw, GA 30152. Phone: +17704320015. Website: https://apetalpusher.com/. | https://dingalinged-cpu.github.io/registry/c/a-petal-pusher-florist-kennesaw/
+1. Faith Designs Florist | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | Faith Designs Florist is a florist in Kennesaw, GA at 2680 Cobb Parkway #D, Kennesaw, GA. Phone: +17704256570. Website: https://faithdesignsflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/faith-designs-florist-kennesaw/
+2. Kennesaw Florist | Organic #2 | Pulse Score 61.3/100 (Good, #2 in city) | Kennesaw Florist is a florist in Kennesaw, GA at 2724 Summers Street Northwest, Kennesaw, GA. Phone: +17704221674. Website: https://www.kennesawflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/kennesaw-florist-kennesaw/
+3. A Petal Pusher Florist | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | A Petal Pusher Florist is a florist in Kennesaw, GA at 2213 Northbrook Ridge Northwest, Kennesaw, GA 30152. Phone: +17704320015. Website: https://apetalpusher.com/. | https://registry-edge.dingalinged.workers.dev/c/a-petal-pusher-florist-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist kennesaw ga | category: Events & weddings | industry benchmark: Personal Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/florist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#florist-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/florist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#florist-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

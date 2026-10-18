@@ -13,12 +13,12 @@ Tina's Nail Salon is a nail salon in Arlington Heights, IL at 1844 South Arlingt
 - Website: https://tinasnailsalon.biz/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30 - 20:00; Su 10:30-17:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of nail salons in Chicago, #1 of 6 nail salons in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of nail salons in Chicago, #1 of 6 nail salons in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tinas-nail-salon-arlington-heights/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tinas-nail-salon-arlington-heights.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tinas-nail-salon-arlington-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tinas-nail-salon-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6604422764 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

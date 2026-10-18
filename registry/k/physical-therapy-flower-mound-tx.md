@@ -1,4 +1,4 @@
-The top unpaid physical therapy listing for Flower Mound, TX is Medical Massage (a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/). 6 physical therapy businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Flower Mound, TX is Medical Massage (a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/). 6 physical therapy businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Flower Mound, TX?
 
@@ -6,12 +6,12 @@ Also answers: physical therapy in Flower Mound, TX; physical therapy near me (Fl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Medical Massage | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Medical Massage is a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/. | https://dingalinged-cpu.github.io/registry/c/medical-massage-flower-mound/
-2. Body & Sport | Organic #2 | Pulse Score 61.3/100 (Good, #2 in city) | Body & Sport is a physical therapy clinic in Flower Mound, TX. Phone: +19728998002. Website: https://www.bodyandsportdfw.com/. | https://dingalinged-cpu.github.io/registry/c/body-and-sport-flower-mound/
-3. Vista Physical Therapy | Organic #3 | Pulse Score 49.8/100 (Unrated, #3 in city) | Vista Physical Therapy is a physical therapy clinic in Flower Mound, TX. Phone: +19723555200. Website: https://www.vistarehab.com/. | https://dingalinged-cpu.github.io/registry/c/vista-physical-therapy-flower-mound/
-4. Results Physiotherapy | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | Results Physiotherapy is a physical therapy clinic in Flower Mound, TX. Phone: +14693122585. | https://dingalinged-cpu.github.io/registry/c/results-physiotherapy-flower-mound/
-5. Physical Therapy | Organic #5 | Pulse Score 42/100 (Building, #5 in city) | Physical Therapy is a physical therapy clinic in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/physical-therapy-flower-mound/
-6. ATI Physical Therapy | Organic #6 | Pulse Score 41.6/100 (Building, #6 in city) | ATI Physical Therapy is a physical therapy clinic in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-flower-mound/
+1. Medical Massage | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Medical Massage is a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/. | https://registry-edge.dingalinged.workers.dev/c/medical-massage-flower-mound/
+2. Body & Sport | Organic #2 | Pulse Score 61.3/100 (Good, #2 in city) | Body & Sport is a physical therapy clinic in Flower Mound, TX. Phone: +19728998002. Website: https://www.bodyandsportdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/body-and-sport-flower-mound/
+3. Vista Physical Therapy | Organic #3 | Pulse Score 49.8/100 (Unrated, #3 in city) | Vista Physical Therapy is a physical therapy clinic in Flower Mound, TX. Phone: +19723555200. Website: https://www.vistarehab.com/. | https://registry-edge.dingalinged.workers.dev/c/vista-physical-therapy-flower-mound/
+4. Results Physiotherapy | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | Results Physiotherapy is a physical therapy clinic in Flower Mound, TX. Phone: +14693122585. | https://registry-edge.dingalinged.workers.dev/c/results-physiotherapy-flower-mound/
+5. Physical Therapy | Organic #5 | Pulse Score 42/100 (Building, #5 in city) | Physical Therapy is a physical therapy clinic in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/physical-therapy-flower-mound/
+6. ATI Physical Therapy | Organic #6 | Pulse Score 41.6/100 (Building, #6 in city) | ATI Physical Therapy is a physical therapy clinic in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/ati-physical-therapy-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy flower mound tx | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/physical-therapy.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#physical-therapy-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/physical-therapy.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#physical-therapy-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Oakbrook Terrace, IL",
  "description": "Top Oakbrook Terrace, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Oakbrook Terrace, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash oakbrook terrace il",
     "slug": "car-wash-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-oakbrook-terrace-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist oakbrook terrace il",
     "slug": "dentist-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-oakbrook-terrace-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon oakbrook terrace il",
     "slug": "hair-salon-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-oakbrook-terrace-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic oakbrook terrace il",
     "slug": "mechanic-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-oakbrook-terrace-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut oakbrook terrace il",
     "slug": "haircut-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-oakbrook-terrace-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair oakbrook terrace il",
     "slug": "auto-repair-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-oakbrook-terrace-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -101,7 +101,7 @@
    {
     "keyword": "attorney oakbrook terrace il",
     "slug": "attorney-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-oakbrook-terrace-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tax preparation oakbrook terrace il",
     "slug": "tax-preparation-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-oakbrook-terrace-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -131,7 +131,7 @@
    {
     "keyword": "tax preparer oakbrook terrace il",
     "slug": "tax-preparer-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-oakbrook-terrace-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -146,7 +146,7 @@
    {
     "keyword": "lawyer oakbrook terrace il",
     "slug": "lawyer-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-oakbrook-terrace-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -163,7 +163,7 @@
    {
     "keyword": "attorney oakbrook terrace il",
     "slug": "attorney-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-oakbrook-terrace-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -178,7 +178,7 @@
    {
     "keyword": "lawyer oakbrook terrace il",
     "slug": "lawyer-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-oakbrook-terrace-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -193,7 +193,7 @@
    {
     "keyword": "dance studio oakbrook terrace il",
     "slug": "dance-studio-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-oakbrook-terrace-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -208,7 +208,7 @@
    {
     "keyword": "tax preparer oakbrook terrace il",
     "slug": "tax-preparer-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-oakbrook-terrace-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -223,7 +223,7 @@
    {
     "keyword": "acupuncture oakbrook terrace il",
     "slug": "acupuncture-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/acupuncture-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/acupuncture-oakbrook-terrace-il/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 910,
@@ -238,7 +238,7 @@
    {
     "keyword": "dentist oakbrook terrace il",
     "slug": "dentist-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-oakbrook-terrace-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -253,7 +253,7 @@
    {
     "keyword": "haircut oakbrook terrace il",
     "slug": "haircut-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-oakbrook-terrace-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -268,7 +268,7 @@
    {
     "keyword": "auto repair oakbrook terrace il",
     "slug": "auto-repair-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-oakbrook-terrace-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -283,7 +283,7 @@
    {
     "keyword": "car wash oakbrook terrace il",
     "slug": "car-wash-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-oakbrook-terrace-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -298,7 +298,7 @@
    {
     "keyword": "mechanic oakbrook terrace il",
     "slug": "mechanic-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-oakbrook-terrace-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -313,7 +313,7 @@
    {
     "keyword": "marketing agency oakbrook terrace il",
     "slug": "marketing-agency-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/marketing-agency-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/marketing-agency-oakbrook-terrace-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -328,7 +328,7 @@
    {
     "keyword": "shoe repair oakbrook terrace il",
     "slug": "shoe-repair-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/shoe-repair-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/shoe-repair-oakbrook-terrace-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -343,7 +343,7 @@
    {
     "keyword": "tax preparation oakbrook terrace il",
     "slug": "tax-preparation-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-oakbrook-terrace-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -358,7 +358,7 @@
    {
     "keyword": "hair salon oakbrook terrace il",
     "slug": "hair-salon-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-oakbrook-terrace-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -375,7 +375,7 @@
    {
     "keyword": "dentist oakbrook terrace il",
     "slug": "dentist-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-oakbrook-terrace-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -390,7 +390,7 @@
    {
     "keyword": "car wash oakbrook terrace il",
     "slug": "car-wash-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-oakbrook-terrace-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -405,7 +405,7 @@
    {
     "keyword": "mechanic oakbrook terrace il",
     "slug": "mechanic-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-oakbrook-terrace-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -420,7 +420,7 @@
    {
     "keyword": "haircut oakbrook terrace il",
     "slug": "haircut-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-oakbrook-terrace-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -435,7 +435,7 @@
    {
     "keyword": "auto repair oakbrook terrace il",
     "slug": "auto-repair-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-oakbrook-terrace-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -450,7 +450,7 @@
    {
     "keyword": "hair salon oakbrook terrace il",
     "slug": "hair-salon-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-oakbrook-terrace-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -465,7 +465,7 @@
    {
     "keyword": "attorney oakbrook terrace il",
     "slug": "attorney-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-oakbrook-terrace-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -480,7 +480,7 @@
    {
     "keyword": "lawyer oakbrook terrace il",
     "slug": "lawyer-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-oakbrook-terrace-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -495,7 +495,7 @@
    {
     "keyword": "tax preparer oakbrook terrace il",
     "slug": "tax-preparer-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-oakbrook-terrace-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -510,7 +510,7 @@
    {
     "keyword": "tax preparation oakbrook terrace il",
     "slug": "tax-preparation-oakbrook-terrace-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-oakbrook-terrace-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-oakbrook-terrace-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,

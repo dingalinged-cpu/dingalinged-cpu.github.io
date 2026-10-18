@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Fayetteville, GA is Tailored Smiles Family Dentistry (a dentist in Fayetteville, GA at 155 Carnegie Place #201, Fayetteville, GA 30214). 9 dentist businesses are listed for Fayetteville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Fayetteville, GA is Tailored Smiles Family Dentistry (a dentist in Fayetteville, GA at 155 Carnegie Place #201, Fayetteville, GA 30214). 9 dentist businesses are listed for Fayetteville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Fayetteville, GA?
 
@@ -6,15 +6,15 @@ Also answers: dentist in Fayetteville, GA; dentist near me (Fayetteville, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tailored Smiles Family Dentistry | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Tailored Smiles Family Dentistry is a dentist in Fayetteville, GA at 155 Carnegie Place #201, Fayetteville, GA 30214. | https://dingalinged-cpu.github.io/registry/c/tailored-smiles-family-dentistry-fayetteville/
-2. Dental One Associates | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Dental One Associates is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/dental-one-associates-fayetteville/
-3. Dreamworks Dental Care | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Dreamworks Dental Care is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/dreamworks-dental-care-fayetteville/
-4. Eaglin Dental Group | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Eaglin Dental Group is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/eaglin-dental-group-fayetteville/
-5. Fayette Family Dental | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Fayette Family Dental is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/fayette-family-dental-fayetteville/
-6. Fayette Orthodontics | Organic #6 | Pulse Score 54.4/100 (Unrated, #6 in city) | Fayette Orthodontics is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/fayette-orthodontics-fayetteville/
-7. Jeff Davis Dental & Orthodontics | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | Jeff Davis Dental & Orthodontics is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/jeff-davis-dental-and-orthodontics-fayetteville/
-8. South OMS | Organic #8 | Pulse Score 54.4/100 (Unrated, #8 in city) | South OMS is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/south-oms-fayetteville/
-9. Great Expressions Dental Center | Organic #9 | Pulse Score 41.7/100 (Unrated, #9 in city) | Great Expressions Dental Center is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/great-expressions-dental-center-fayetteville/
+1. Tailored Smiles Family Dentistry | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Tailored Smiles Family Dentistry is a dentist in Fayetteville, GA at 155 Carnegie Place #201, Fayetteville, GA 30214. | https://registry-edge.dingalinged.workers.dev/c/tailored-smiles-family-dentistry-fayetteville/
+2. Dental One Associates | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Dental One Associates is a dentist in Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/dental-one-associates-fayetteville/
+3. Dreamworks Dental Care | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Dreamworks Dental Care is a dentist in Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/dreamworks-dental-care-fayetteville/
+4. Eaglin Dental Group | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Eaglin Dental Group is a dentist in Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/eaglin-dental-group-fayetteville/
+5. Fayette Family Dental | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Fayette Family Dental is a dentist in Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/fayette-family-dental-fayetteville/
+6. Fayette Orthodontics | Organic #6 | Pulse Score 54.4/100 (Unrated, #6 in city) | Fayette Orthodontics is a dentist in Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/fayette-orthodontics-fayetteville/
+7. Jeff Davis Dental & Orthodontics | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | Jeff Davis Dental & Orthodontics is a dentist in Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/jeff-davis-dental-and-orthodontics-fayetteville/
+8. South OMS | Organic #8 | Pulse Score 54.4/100 (Unrated, #8 in city) | South OMS is a dentist in Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/south-oms-fayetteville/
+9. Great Expressions Dental Center | Organic #9 | Pulse Score 41.7/100 (Unrated, #9 in city) | Great Expressions Dental Center is a dentist in Fayetteville, GA. | https://registry-edge.dingalinged.workers.dev/c/great-expressions-dental-center-fayetteville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist fayetteville ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -28,6 +28,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$8,900 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-fayetteville-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-fayetteville-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ EY is a business consultant in Kansas City, MO at 1200 Main Street #2500, Kansas
 - Website: https://www.ey.com/en_us/locations/united-states
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Building — top 75% of business consultants in Kansas City, MO, #3 of 6 business consultants in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 47.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 75% of business consultants in Kansas City, MO, #3 of 6 business consultants in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 47.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ey-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ey-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ey-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ey-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9921235364 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

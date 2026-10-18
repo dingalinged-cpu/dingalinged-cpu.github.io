@@ -13,12 +13,12 @@ Innovative Dynamic Networks is an IT support company in Racine, WI at 610 6th St
 - Website: https://idn-wi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 27% of IT support companys in Milwaukee, #2 of 2 IT support companys in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 27% of IT support companys in Milwaukee, #2 of 2 IT support companys in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/innovative-dynamic-networks-racine/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/innovative-dynamic-networks-racine.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/innovative-dynamic-networks-racine/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/innovative-dynamic-networks-racine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/372284339 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

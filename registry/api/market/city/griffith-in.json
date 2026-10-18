@@ -2,7 +2,7 @@
  "title": "Keyword market data: Griffith, IN",
  "description": "Top Griffith, IN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Griffith, IN",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash griffith in",
     "slug": "car-wash-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-griffith-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon griffith in",
     "slug": "hair-salon-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-griffith-in/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic griffith in",
     "slug": "mechanic-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-griffith-in/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -56,7 +56,7 @@
    {
     "keyword": "tire shop griffith in",
     "slug": "tire-shop-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-griffith-in/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut griffith in",
     "slug": "haircut-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-griffith-in/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair griffith in",
     "slug": "auto-repair-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-griffith-in/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -101,7 +101,7 @@
    {
     "keyword": "insurance agency griffith in",
     "slug": "insurance-agency-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-griffith-in/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -116,7 +116,7 @@
    {
     "keyword": "tax preparation griffith in",
     "slug": "tax-preparation-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-griffith-in/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -131,7 +131,7 @@
    {
     "keyword": "tax preparer griffith in",
     "slug": "tax-preparer-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-griffith-in/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agents griffith in",
     "slug": "insurance-agents-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-griffith-in/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agent griffith in",
     "slug": "insurance-agent-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-griffith-in/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -178,7 +178,7 @@
    {
     "keyword": "event venues griffith in",
     "slug": "event-venues-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-griffith-in/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -193,7 +193,7 @@
    {
     "keyword": "business consultant griffith in",
     "slug": "business-consultant-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/business-consultant-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/business-consultant-griffith-in/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 500,
@@ -208,7 +208,7 @@
    {
     "keyword": "tax preparer griffith in",
     "slug": "tax-preparer-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-griffith-in/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -223,7 +223,7 @@
    {
     "keyword": "haircut griffith in",
     "slug": "haircut-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-griffith-in/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -238,7 +238,7 @@
    {
     "keyword": "auto repair griffith in",
     "slug": "auto-repair-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-griffith-in/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -253,7 +253,7 @@
    {
     "keyword": "car wash griffith in",
     "slug": "car-wash-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-griffith-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -268,7 +268,7 @@
    {
     "keyword": "mechanic griffith in",
     "slug": "mechanic-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-griffith-in/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -283,7 +283,7 @@
    {
     "keyword": "tire shop griffith in",
     "slug": "tire-shop-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-griffith-in/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -298,7 +298,7 @@
    {
     "keyword": "thrift store griffith in",
     "slug": "thrift-store-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-griffith-in/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -313,7 +313,7 @@
    {
     "keyword": "insurance agency griffith in",
     "slug": "insurance-agency-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-griffith-in/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -328,7 +328,7 @@
    {
     "keyword": "insurance agent griffith in",
     "slug": "insurance-agent-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-griffith-in/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -343,7 +343,7 @@
    {
     "keyword": "insurance agents griffith in",
     "slug": "insurance-agents-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-griffith-in/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -358,7 +358,7 @@
    {
     "keyword": "tax preparation griffith in",
     "slug": "tax-preparation-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-griffith-in/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -373,7 +373,7 @@
    {
     "keyword": "hair salon griffith in",
     "slug": "hair-salon-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-griffith-in/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -390,7 +390,7 @@
    {
     "keyword": "car wash griffith in",
     "slug": "car-wash-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-griffith-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -405,7 +405,7 @@
    {
     "keyword": "mechanic griffith in",
     "slug": "mechanic-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-griffith-in/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -420,7 +420,7 @@
    {
     "keyword": "tire shop griffith in",
     "slug": "tire-shop-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-griffith-in/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -435,7 +435,7 @@
    {
     "keyword": "haircut griffith in",
     "slug": "haircut-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-griffith-in/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -450,7 +450,7 @@
    {
     "keyword": "auto repair griffith in",
     "slug": "auto-repair-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-griffith-in/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -465,7 +465,7 @@
    {
     "keyword": "hair salon griffith in",
     "slug": "hair-salon-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-griffith-in/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -480,7 +480,7 @@
    {
     "keyword": "tax preparer griffith in",
     "slug": "tax-preparer-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-griffith-in/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -495,7 +495,7 @@
    {
     "keyword": "insurance agency griffith in",
     "slug": "insurance-agency-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-griffith-in/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -510,7 +510,7 @@
    {
     "keyword": "tax preparation griffith in",
     "slug": "tax-preparation-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-griffith-in/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -525,7 +525,7 @@
    {
     "keyword": "insurance agents griffith in",
     "slug": "insurance-agents-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-griffith-in/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -540,7 +540,7 @@
    {
     "keyword": "insurance agent griffith in",
     "slug": "insurance-agent-griffith-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-griffith-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-griffith-in/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

@@ -13,12 +13,12 @@ The Internet Car Lot is an used car dealer in Omaha, NE at 7150 P Circle, Omaha,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 78% of used car dealers in Omaha, NE, #12 of 15 used car dealers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 78% of used car dealers in Omaha, NE, #12 of 15 used car dealers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-internet-car-lot-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-internet-car-lot-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-internet-car-lot-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-internet-car-lot-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1253676847 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

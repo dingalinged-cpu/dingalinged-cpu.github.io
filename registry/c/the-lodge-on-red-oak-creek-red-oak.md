@@ -13,12 +13,12 @@ The Lodge On Red Oak Creek is an event venue in Red Oak, TX at 624 Bells Chapel 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 80% of event venues in Dallas–Fort Worth, #2 of 2 event venues in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 42.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 80% of event venues in Dallas–Fort Worth, #2 of 2 event venues in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 42.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-lodge-on-red-oak-creek-red-oak/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-lodge-on-red-oak-creek-red-oak.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-lodge-on-red-oak-creek-red-oak/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-lodge-on-red-oak-creek-red-oak.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/717809568 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

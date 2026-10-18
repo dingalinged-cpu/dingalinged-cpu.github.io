@@ -13,12 +13,12 @@ The Elite Real Estate Company is a real estate agency in Hillside, IL at 341 Lav
 - Website: https://www.eliterealestateil.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of real estate agencys in Chicago, #1 of 1 real estate agencys in Hillside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of real estate agencys in Chicago, #1 of 1 real estate agencys in Hillside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-elite-real-estate-company-hillside/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-elite-real-estate-company-hillside.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-elite-real-estate-company-hillside/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-elite-real-estate-company-hillside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5930858894 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

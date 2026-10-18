@@ -13,12 +13,12 @@ Complete Spine Solutions is a chiropractor in Tucker, GA at 2347 Brockett Rd, Tu
 - Website: https://www.completespinesolutions.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-13:30,14:30-18:30; Fr 08:00-13:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 31% of chiropractors in Atlanta, #1 of 1 chiropractors in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 31% of chiropractors in Atlanta, #1 of 1 chiropractors in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/complete-spine-solutions-tucker/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/complete-spine-solutions-tucker.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/complete-spine-solutions-tucker/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/complete-spine-solutions-tucker.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12838633143 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

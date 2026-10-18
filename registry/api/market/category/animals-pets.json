@@ -2,7 +2,7 @@
  "title": "Keyword market data: Animals & Pets",
  "description": "Top Animals & Pets keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Animals & Pets",
  "keywords": 13,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "vet",
     "slug": "vet",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -24,7 +24,7 @@
    {
     "keyword": "dog groomer",
     "slug": "dog-groomer",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -38,7 +38,7 @@
    {
     "keyword": "dog boarding",
     "slug": "dog-boarding",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -52,7 +52,7 @@
    {
     "keyword": "emergency vet",
     "slug": "emergency-vet",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-vet",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-vet",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -66,7 +66,7 @@
    {
     "keyword": "mobile dog grooming",
     "slug": "mobile-dog-grooming",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mobile-dog-grooming",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mobile-dog-grooming",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -80,7 +80,7 @@
    {
     "keyword": "pet cremation",
     "slug": "pet-cremation",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#pet-cremation",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#pet-cremation",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -94,7 +94,7 @@
    {
     "keyword": "exotic vet",
     "slug": "exotic-vet",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exotic-vet",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exotic-vet",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -108,7 +108,7 @@
    {
     "keyword": "cat vet",
     "slug": "cat-vet",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cat-vet",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cat-vet",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -122,7 +122,7 @@
    {
     "keyword": "spay and neuter clinic",
     "slug": "spay-and-neuter-clinic",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#spay-and-neuter-clinic",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#spay-and-neuter-clinic",
     "us_monthly_searches": 8100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -138,7 +138,7 @@
    {
     "keyword": "cat vet",
     "slug": "cat-vet",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cat-vet",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cat-vet",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -152,7 +152,7 @@
    {
     "keyword": "dog boarding",
     "slug": "dog-boarding",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -166,7 +166,7 @@
    {
     "keyword": "dog groomer",
     "slug": "dog-groomer",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -180,7 +180,7 @@
    {
     "keyword": "dog training",
     "slug": "dog-training",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dog-training",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dog-training",
     "us_monthly_searches": 350000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.06,
@@ -194,7 +194,7 @@
    {
     "keyword": "dog walker",
     "slug": "dog-walker",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dog-walker",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dog-walker",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.06,
@@ -208,7 +208,7 @@
    {
     "keyword": "doggy daycare",
     "slug": "doggy-daycare",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#doggy-daycare",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#doggy-daycare",
     "us_monthly_searches": 350000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.06,
@@ -222,7 +222,7 @@
    {
     "keyword": "emergency vet",
     "slug": "emergency-vet",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-vet",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-vet",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -236,7 +236,7 @@
    {
     "keyword": "exotic vet",
     "slug": "exotic-vet",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exotic-vet",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exotic-vet",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -250,7 +250,7 @@
    {
     "keyword": "mobile dog grooming",
     "slug": "mobile-dog-grooming",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mobile-dog-grooming",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mobile-dog-grooming",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -264,7 +264,7 @@
    {
     "keyword": "pet cremation",
     "slug": "pet-cremation",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#pet-cremation",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#pet-cremation",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -278,7 +278,7 @@
    {
     "keyword": "pet sitter",
     "slug": "pet-sitter",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#pet-sitter",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#pet-sitter",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.06,
@@ -292,7 +292,7 @@
    {
     "keyword": "spay and neuter clinic",
     "slug": "spay-and-neuter-clinic",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#spay-and-neuter-clinic",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#spay-and-neuter-clinic",
     "us_monthly_searches": 8100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -306,7 +306,7 @@
    {
     "keyword": "vet",
     "slug": "vet",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -322,7 +322,7 @@
    {
     "keyword": "vet",
     "slug": "vet",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -336,7 +336,7 @@
    {
     "keyword": "dog groomer",
     "slug": "dog-groomer",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -350,7 +350,7 @@
    {
     "keyword": "dog boarding",
     "slug": "dog-boarding",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -364,7 +364,7 @@
    {
     "keyword": "emergency vet",
     "slug": "emergency-vet",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-vet",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-vet",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -378,7 +378,7 @@
    {
     "keyword": "mobile dog grooming",
     "slug": "mobile-dog-grooming",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mobile-dog-grooming",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mobile-dog-grooming",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -392,7 +392,7 @@
    {
     "keyword": "pet cremation",
     "slug": "pet-cremation",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#pet-cremation",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#pet-cremation",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -406,7 +406,7 @@
    {
     "keyword": "exotic vet",
     "slug": "exotic-vet",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exotic-vet",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exotic-vet",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -420,7 +420,7 @@
    {
     "keyword": "cat vet",
     "slug": "cat-vet",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cat-vet",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cat-vet",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,
@@ -434,7 +434,7 @@
    {
     "keyword": "spay and neuter clinic",
     "slug": "spay-and-neuter-clinic",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#spay-and-neuter-clinic",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#spay-and-neuter-clinic",
     "us_monthly_searches": 8100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.06,

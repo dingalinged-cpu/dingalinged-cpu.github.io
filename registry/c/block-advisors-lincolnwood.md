@@ -13,12 +13,12 @@ Block Advisors is a tax preparation service in Lincolnwood, IL at 3934 West Devo
 - Website: https://www.blockadvisors.com/local-tax-offices/illinois/lincolnwood/3934-w-devon-ave/12818/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 45% of tax preparation services in Chicago, #1 of 1 tax preparation services in Lincolnwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 45% of tax preparation services in Chicago, #1 of 1 tax preparation services in Lincolnwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/block-advisors-lincolnwood/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/block-advisors-lincolnwood.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/block-advisors-lincolnwood/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/block-advisors-lincolnwood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9982852196 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

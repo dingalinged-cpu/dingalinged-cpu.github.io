@@ -13,12 +13,12 @@ Blue Hummingbird Woman Indigenous Gift Shop is a gift shop in Saint Paul, MN at 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Saturday	Closed Sunday	Closed Monday	10:30 AM–2 PM Tuesday	10:30 AM–2 PM Wednesday	10:30 AM–2 PM Thursday	10:30 AM–1 PM Friday	Closed
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 32% of gift shops in Minneapolis–St. Paul, #8 of 16 gift shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 51.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 32% of gift shops in Minneapolis–St. Paul, #8 of 16 gift shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 51.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/blue-hummingbird-woman-indigenous-gift-shop-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/blue-hummingbird-woman-indigenous-gift-shop-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blue-hummingbird-woman-indigenous-gift-shop-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blue-hummingbird-woman-indigenous-gift-shop-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13760239137 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

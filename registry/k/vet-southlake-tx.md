@@ -1,4 +1,4 @@
-The top unpaid vet listing for Southlake, TX is Kitten to Cat Hospital (a veterinarian in Southlake, TX at 711 East Southlake Blvd #Suite 100, Southlake, TX 76092. Phone: +18174882272. Website: https://www.kittentocathospital.com/). 4 vet businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Southlake, TX is Kitten to Cat Hospital (a veterinarian in Southlake, TX at 711 East Southlake Blvd #Suite 100, Southlake, TX 76092. Phone: +18174882272. Website: https://www.kittentocathospital.com/). 4 vet businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Southlake, TX?
 
@@ -6,10 +6,10 @@ Also answers: vet in Southlake, TX; vet near me (Southlake, TX); best vet Southl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kitten to Cat Hospital | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Kitten to Cat Hospital is a veterinarian in Southlake, TX at 711 East Southlake Blvd #Suite 100, Southlake, TX 76092. Phone: +18174882272. Website: https://www.kittentocathospital.com/. | https://dingalinged-cpu.github.io/registry/c/kitten-to-cat-hospital-southlake/
-2. Animal Healthcare Clinic | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Animal Healthcare Clinic is a veterinarian in Southlake, TX at 1615 East Southlake Boulevard, Southlake, TX 76092. Phone: +18174811382. Website: https://www.animalhealthcaresouthlake.com/. | https://dingalinged-cpu.github.io/registry/c/animal-healthcare-clinic-southlake/
-3. Petfolk Veterinary & Urgent Care - Southlake | Organic #3 | Pulse Score 61.4/100 (Unrated, #3 in city) | Petfolk Veterinary & Urgent Care - Southlake is a veterinarian in Southlake, TX at 2645 East Southlake Boulevard, Southlake, TX 76092. Phone: +16822536591. Website: https://petfolk.com/locations/dallas-tx/vet-clinics/southlake. | https://dingalinged-cpu.github.io/registry/c/petfolk-veterinary-and-urgent-care-southlake-southlake/
-4. PetVet360 | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | PetVet360 is a veterinarian in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/petvet360-southlake/
+1. Kitten to Cat Hospital | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Kitten to Cat Hospital is a veterinarian in Southlake, TX at 711 East Southlake Blvd #Suite 100, Southlake, TX 76092. Phone: +18174882272. Website: https://www.kittentocathospital.com/. | https://registry-edge.dingalinged.workers.dev/c/kitten-to-cat-hospital-southlake/
+2. Animal Healthcare Clinic | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Animal Healthcare Clinic is a veterinarian in Southlake, TX at 1615 East Southlake Boulevard, Southlake, TX 76092. Phone: +18174811382. Website: https://www.animalhealthcaresouthlake.com/. | https://registry-edge.dingalinged.workers.dev/c/animal-healthcare-clinic-southlake/
+3. Petfolk Veterinary & Urgent Care - Southlake | Organic #3 | Pulse Score 61.4/100 (Unrated, #3 in city) | Petfolk Veterinary & Urgent Care - Southlake is a veterinarian in Southlake, TX at 2645 East Southlake Boulevard, Southlake, TX 76092. Phone: +16822536591. Website: https://petfolk.com/locations/dallas-tx/vet-clinics/southlake. | https://registry-edge.dingalinged.workers.dev/c/petfolk-veterinary-and-urgent-care-southlake-southlake/
+4. PetVet360 | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | PetVet360 is a veterinarian in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/petvet360-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet southlake tx | category: Pets | industry benchmark: Animals & Pets
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-southlake-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-southlake-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

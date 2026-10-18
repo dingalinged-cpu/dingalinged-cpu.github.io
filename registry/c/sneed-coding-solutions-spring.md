@@ -13,12 +13,12 @@ Sneed Coding Solutions is an IT support company in Spring, TX at 22315 Gosling R
 - Website: https://sneedcoding.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 75% of IT support companys in Houston, #1 of 1 IT support companys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 46.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 75% of IT support companys in Houston, #1 of 1 IT support companys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sneed-coding-solutions-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sneed-coding-solutions-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sneed-coding-solutions-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sneed-coding-solutions-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/521352625 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

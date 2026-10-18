@@ -13,12 +13,12 @@ CP Preparatory School is a preschool in Mesquite, TX at 603 South Bryan - Belt L
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 26% of preschools in Dallas–Fort Worth, #2 of 6 preschools in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 26% of preschools in Dallas–Fort Worth, #2 of 6 preschools in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cp-preparatory-school-mesquite/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cp-preparatory-school-mesquite.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cp-preparatory-school-mesquite/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cp-preparatory-school-mesquite.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/667339931 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

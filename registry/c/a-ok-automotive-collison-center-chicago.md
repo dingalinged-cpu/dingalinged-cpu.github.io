@@ -13,12 +13,12 @@ A-OK Automotive Collison Center is an auto repair shop in Chicago, IL at 5805 So
 - Website: https://www.a-okautomotive.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in Chicago, #15 of 169 auto repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in Chicago, #15 of 169 auto repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/a-ok-automotive-collison-center-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-ok-automotive-collison-center-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-ok-automotive-collison-center-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-ok-automotive-collison-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8144849182 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

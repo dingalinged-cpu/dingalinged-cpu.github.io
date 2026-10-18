@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Fate, TX is Amy Foster Hair Salon (a hair salon in Fate, TX at 102 Fate Main Place, Fate, TX 75087. Phone: +19727222310). 4 haircut businesses are listed for Fate, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Fate, TX is Amy Foster Hair Salon (a hair salon in Fate, TX at 102 Fate Main Place, Fate, TX 75087. Phone: +19727222310). 4 haircut businesses are listed for Fate, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Fate, TX?
 
@@ -6,10 +6,10 @@ Also answers: haircut in Fate, TX; haircut near me (Fate, TX); best haircut Fate
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amy Foster Hair Salon | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Amy Foster Hair Salon is a hair salon in Fate, TX at 102 Fate Main Place, Fate, TX 75087. Phone: +19727222310. | https://dingalinged-cpu.github.io/registry/c/amy-foster-hair-salon-fate/
-2. Fate's Beauty Salon | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Fate's Beauty Salon is a hair salon in Fate, TX at 101 West Fate Main Place #E, Fate, TX 75087. | https://dingalinged-cpu.github.io/registry/c/fates-beauty-salon-fate/
-3. Hustle & Glow | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Hustle & Glow is a hair salon in Fate, TX at 111 Fate Main Place, Fate, TX 75087. | https://dingalinged-cpu.github.io/registry/c/hustle-and-glow-fate/
-4. Great Clips | Organic #4 | Pulse Score 48.9/100 (Building, #4 in city) | Great Clips is a hair salon in Fate, TX at 4970 East Interstate 30 #110, Fate, TX 75189. Phone: +14693385376. Website: https://salons.greatclips.com/us/tx/fate/4970-e-i-30. | https://dingalinged-cpu.github.io/registry/c/great-clips-fate/
+1. Amy Foster Hair Salon | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Amy Foster Hair Salon is a hair salon in Fate, TX at 102 Fate Main Place, Fate, TX 75087. Phone: +19727222310. | https://registry-edge.dingalinged.workers.dev/c/amy-foster-hair-salon-fate/
+2. Fate's Beauty Salon | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Fate's Beauty Salon is a hair salon in Fate, TX at 101 West Fate Main Place #E, Fate, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/fates-beauty-salon-fate/
+3. Hustle & Glow | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Hustle & Glow is a hair salon in Fate, TX at 111 Fate Main Place, Fate, TX 75087. | https://registry-edge.dingalinged.workers.dev/c/hustle-and-glow-fate/
+4. Great Clips | Organic #4 | Pulse Score 48.9/100 (Building, #4 in city) | Great Clips is a hair salon in Fate, TX at 4970 East Interstate 30 #110, Fate, TX 75189. Phone: +14693385376. Website: https://salons.greatclips.com/us/tx/fate/4970-e-i-30. | https://registry-edge.dingalinged.workers.dev/c/great-clips-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut fate tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-fate-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-fate-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

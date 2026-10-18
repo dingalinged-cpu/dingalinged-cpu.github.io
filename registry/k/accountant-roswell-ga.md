@@ -1,4 +1,4 @@
-The top unpaid accountant listing for Roswell, GA is Decker & Company, LLC (an accountant in Roswell, GA at 2435 Old Alabama Road, Roswell, GA 30076. Phone: +17709922290. Website: https://deckerllc.com/). 2 accountant businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Roswell, GA is Decker & Company, LLC (an accountant in Roswell, GA at 2435 Old Alabama Road, Roswell, GA 30076. Phone: +17709922290. Website: https://deckerllc.com/). 2 accountant businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Roswell, GA?
 
@@ -6,8 +6,8 @@ Also answers: accountant in Roswell, GA; accountant near me (Roswell, GA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Decker & Company, LLC | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Decker & Company, LLC is an accountant in Roswell, GA at 2435 Old Alabama Road, Roswell, GA 30076. Phone: +17709922290. Website: https://deckerllc.com/. | https://dingalinged-cpu.github.io/registry/c/decker-and-company-llc-roswell/
-2. A C Swicegood, P C | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | A C Swicegood, P C is an accountant in Roswell, GA at 11205 Alpharetta Highway, Roswell, GA 30076. Phone: +16783190018. | https://dingalinged-cpu.github.io/registry/c/a-c-swicegood-p-c-roswell/
+1. Decker & Company, LLC | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Decker & Company, LLC is an accountant in Roswell, GA at 2435 Old Alabama Road, Roswell, GA 30076. Phone: +17709922290. Website: https://deckerllc.com/. | https://registry-edge.dingalinged.workers.dev/c/decker-and-company-llc-roswell/
+2. A C Swicegood, P C | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | A C Swicegood, P C is an accountant in Roswell, GA at 11205 Alpharetta Highway, Roswell, GA 30076. Phone: +16783190018. | https://registry-edge.dingalinged.workers.dev/c/a-c-swicegood-p-c-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant roswell ga | category: professional_accounting | industry benchmark: Business Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$190 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/accountant.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#accountant-roswell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/accountant.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#accountant-roswell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

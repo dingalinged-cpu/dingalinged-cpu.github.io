@@ -13,12 +13,12 @@ Brookdale Champion Oaks is an assisted living facility in Houston, TX at 17705 R
 - Website: https://www.brookdale.com/en/communities/brookdale-champion-oaks.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 89% of assisted living facilitys in Houston, #28 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 89% of assisted living facilitys in Houston, #28 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/brookdale-champion-oaks-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brookdale-champion-oaks-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/brookdale-champion-oaks-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brookdale-champion-oaks-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5467900494 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

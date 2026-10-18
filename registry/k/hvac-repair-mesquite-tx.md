@@ -1,4 +1,4 @@
-The top unpaid hvac repair listing for Mesquite, TX is HM Tech Air Conditioning and Heating (a HVAC contractor in Mesquite, TX at Hugh Walker Drive, Mesquite, TX 75149. Phone: +19722898129. Website: https://hmtechacheating.com/). 3 hvac repair businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Mesquite, TX is HM Tech Air Conditioning and Heating (a HVAC contractor in Mesquite, TX at Hugh Walker Drive, Mesquite, TX 75149. Phone: +19722898129. Website: https://hmtechacheating.com/). 3 hvac repair businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Mesquite, TX?
 
@@ -6,9 +6,9 @@ Also answers: hvac repair in Mesquite, TX; hvac repair near me (Mesquite, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HM Tech Air Conditioning and Heating | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | HM Tech Air Conditioning and Heating is a HVAC contractor in Mesquite, TX at Hugh Walker Drive, Mesquite, TX 75149. Phone: +19722898129. Website: https://hmtechacheating.com/. | https://dingalinged-cpu.github.io/registry/c/hm-tech-air-conditioning-and-heating-mesquite/
-2. Versatile Refrigeration & Air LLC | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Versatile Refrigeration & Air LLC is a HVAC contractor in Mesquite, TX at E Hwy 80, Mesquite, TX 75149. Phone: +14698204275. Website: https://www.versatilerefrigerationllc.com/. | https://dingalinged-cpu.github.io/registry/c/versatile-refrigeration-and-air-llc-mesquite/
-3. Century HVAC Distributing | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Century HVAC Distributing is a HVAC contractor in Mesquite, TX at 2900 Live Oak Drive, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/century-hvac-distributing-mesquite/
+1. HM Tech Air Conditioning and Heating | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | HM Tech Air Conditioning and Heating is a HVAC contractor in Mesquite, TX at Hugh Walker Drive, Mesquite, TX 75149. Phone: +19722898129. Website: https://hmtechacheating.com/. | https://registry-edge.dingalinged.workers.dev/c/hm-tech-air-conditioning-and-heating-mesquite/
+2. Versatile Refrigeration & Air LLC | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Versatile Refrigeration & Air LLC is a HVAC contractor in Mesquite, TX at E Hwy 80, Mesquite, TX 75149. Phone: +14698204275. Website: https://www.versatilerefrigerationllc.com/. | https://registry-edge.dingalinged.workers.dev/c/versatile-refrigeration-and-air-llc-mesquite/
+3. Century HVAC Distributing | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Century HVAC Distributing is a HVAC contractor in Mesquite, TX at 2900 Live Oak Drive, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/century-hvac-distributing-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair mesquite tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/hvac-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-mesquite-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hvac-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-mesquite-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ American Family Insurance is an insurance agent in Falcon Heights, MN at 1545 La
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.8/100 — Building — top 83% of insurance agents in Minneapolis–St. Paul, #1 of 1 insurance agents in Falcon Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 43.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.8/100 — Building — top 83% of insurance agents in Minneapolis–St. Paul, #1 of 1 insurance agents in Falcon Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/american-family-insurance-falcon-heights/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/american-family-insurance-falcon-heights.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-falcon-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/american-family-insurance-falcon-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7294714121 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

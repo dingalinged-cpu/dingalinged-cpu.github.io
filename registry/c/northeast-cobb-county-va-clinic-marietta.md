@@ -13,12 +13,12 @@ Northeast Cobb County VA Clinic is a family medicine practice in Marietta, GA at
 - Website: https://www.va.gov/atlanta-health-care/locations/northeast-cobb-county-va-clinic/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 52/100 — Fair — top 67% of family medicine practices in Atlanta, #4 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.8, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52/100 — Fair — top 67% of family medicine practices in Atlanta, #4 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.8, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/northeast-cobb-county-va-clinic-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/northeast-cobb-county-va-clinic-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/northeast-cobb-county-va-clinic-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/northeast-cobb-county-va-clinic-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6484494625 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

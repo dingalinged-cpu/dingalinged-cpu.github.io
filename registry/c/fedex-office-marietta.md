@@ -13,12 +13,12 @@ FedEx Office is a printing service in Marietta, GA at 2349 Windy Hill Road South
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 42% of printing services in Atlanta, #6 of 7 printing services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 42% of printing services in Atlanta, #6 of 7 printing services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fedex-office-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fedex-office-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3807720509 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

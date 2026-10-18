@@ -2,7 +2,7 @@
  "title": "Keyword market data: Rosenberg, TX",
  "description": "Top Rosenberg, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Rosenberg, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist rosenberg tx",
     "slug": "dentist-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rosenberg-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym rosenberg tx",
     "slug": "gym-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-rosenberg-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon rosenberg tx",
     "slug": "hair-salon-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-rosenberg-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon rosenberg tx",
     "slug": "nail-salon-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-rosenberg-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic rosenberg tx",
     "slug": "mechanic-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rosenberg-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -86,7 +86,7 @@
    {
     "keyword": "tire shop rosenberg tx",
     "slug": "tire-shop-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rosenberg-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut rosenberg tx",
     "slug": "haircut-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rosenberg-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair rosenberg tx",
     "slug": "auto-repair-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rosenberg-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -131,7 +131,7 @@
    {
     "keyword": "chiropractor rosenberg tx",
     "slug": "chiropractor-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-rosenberg-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agency rosenberg tx",
     "slug": "insurance-agency-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rosenberg-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -161,7 +161,7 @@
    {
     "keyword": "tax preparation rosenberg tx",
     "slug": "tax-preparation-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-rosenberg-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparer rosenberg tx",
     "slug": "tax-preparer-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rosenberg-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -191,7 +191,7 @@
    {
     "keyword": "windshield replacement rosenberg tx",
     "slug": "windshield-replacement-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-rosenberg-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agents rosenberg tx",
     "slug": "insurance-agents-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-rosenberg-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agent rosenberg tx",
     "slug": "insurance-agent-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-rosenberg-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -238,7 +238,7 @@
    {
     "keyword": "storage units rosenberg tx",
     "slug": "storage-units-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-rosenberg-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -253,7 +253,7 @@
    {
     "keyword": "tax preparer rosenberg tx",
     "slug": "tax-preparer-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rosenberg-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -268,7 +268,7 @@
    {
     "keyword": "daycare rosenberg tx",
     "slug": "daycare-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-rosenberg-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -283,7 +283,7 @@
    {
     "keyword": "chiropractor rosenberg tx",
     "slug": "chiropractor-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-rosenberg-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -298,7 +298,7 @@
    {
     "keyword": "therapist rosenberg tx",
     "slug": "therapist-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-rosenberg-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -313,7 +313,7 @@
    {
     "keyword": "dentist rosenberg tx",
     "slug": "dentist-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rosenberg-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -328,7 +328,7 @@
    {
     "keyword": "haircut rosenberg tx",
     "slug": "haircut-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rosenberg-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -343,7 +343,7 @@
    {
     "keyword": "auto repair rosenberg tx",
     "slug": "auto-repair-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rosenberg-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -358,7 +358,7 @@
    {
     "keyword": "mechanic rosenberg tx",
     "slug": "mechanic-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rosenberg-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -373,7 +373,7 @@
    {
     "keyword": "tire shop rosenberg tx",
     "slug": "tire-shop-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rosenberg-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -388,7 +388,7 @@
    {
     "keyword": "windshield replacement rosenberg tx",
     "slug": "windshield-replacement-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-rosenberg-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -403,7 +403,7 @@
    {
     "keyword": "furniture store rosenberg tx",
     "slug": "furniture-store-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-rosenberg-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -418,7 +418,7 @@
    {
     "keyword": "gift shop rosenberg tx",
     "slug": "gift-shop-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-rosenberg-tx/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 420,
@@ -433,7 +433,7 @@
    {
     "keyword": "liquor store rosenberg tx",
     "slug": "liquor-store-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-rosenberg-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -448,7 +448,7 @@
    {
     "keyword": "pet store rosenberg tx",
     "slug": "pet-store-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-rosenberg-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist rosenberg tx",
     "slug": "dentist-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rosenberg-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -480,7 +480,7 @@
    {
     "keyword": "gym rosenberg tx",
     "slug": "gym-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-rosenberg-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic rosenberg tx",
     "slug": "mechanic-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rosenberg-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -510,7 +510,7 @@
    {
     "keyword": "tire shop rosenberg tx",
     "slug": "tire-shop-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rosenberg-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -525,7 +525,7 @@
    {
     "keyword": "haircut rosenberg tx",
     "slug": "haircut-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rosenberg-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -540,7 +540,7 @@
    {
     "keyword": "auto repair rosenberg tx",
     "slug": "auto-repair-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rosenberg-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -555,7 +555,7 @@
    {
     "keyword": "chiropractor rosenberg tx",
     "slug": "chiropractor-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-rosenberg-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -570,7 +570,7 @@
    {
     "keyword": "hair salon rosenberg tx",
     "slug": "hair-salon-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-rosenberg-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -585,7 +585,7 @@
    {
     "keyword": "nail salon rosenberg tx",
     "slug": "nail-salon-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-rosenberg-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -600,7 +600,7 @@
    {
     "keyword": "tax preparer rosenberg tx",
     "slug": "tax-preparer-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rosenberg-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agency rosenberg tx",
     "slug": "insurance-agency-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rosenberg-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -630,7 +630,7 @@
    {
     "keyword": "windshield replacement rosenberg tx",
     "slug": "windshield-replacement-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-rosenberg-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -645,7 +645,7 @@
    {
     "keyword": "tax preparation rosenberg tx",
     "slug": "tax-preparation-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-rosenberg-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agents rosenberg tx",
     "slug": "insurance-agents-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-rosenberg-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agent rosenberg tx",
     "slug": "insurance-agent-rosenberg-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-rosenberg-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-rosenberg-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,

@@ -1,4 +1,4 @@
-The top unpaid massage listing for Frisco, TX is LifeSpa (a massage studio in Frisco, TX at 4900 Throne Hall Dr, Frisco, TX). 8 massage businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Frisco, TX is LifeSpa (a massage studio in Frisco, TX at 4900 Throne Hall Dr, Frisco, TX). 8 massage businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Frisco, TX?
 
@@ -6,14 +6,14 @@ Also answers: massage in Frisco, TX; massage near me (Frisco, TX); best massage 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LifeSpa | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | LifeSpa is a massage studio in Frisco, TX at 4900 Throne Hall Dr, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/lifespa-frisco/
-2. Modern Thai Spa & Bodywork | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Modern Thai Spa & Bodywork is a massage studio in Frisco, TX at 9370 Warren Parkway #110, Frisco, TX. Phone: +14694566599. Website: https://modernthaispa.com/. | https://dingalinged-cpu.github.io/registry/c/modern-thai-spa-and-bodywork-frisco/
-3. Sukhveda Ayurvedic Wellness Center | Organic #3 | Pulse Score 61.7/100 (Unrated, #3 in city) | Sukhveda Ayurvedic Wellness Center is a massage studio in Frisco, TX at 7000 Parkwood Boulevard #c200, Frisco, TX 75034. Phone: +19724895508. | https://dingalinged-cpu.github.io/registry/c/sukhveda-ayurvedic-wellness-center-frisco/
-4. Medical Massage Rx II | Organic #4 | Pulse Score 60.9/100 (Unrated, #4 in city) | Medical Massage Rx II is a massage studio in Frisco, TX at 4235 Preston Road #300, Frisco, TX 75034. Phone: +19724604420. Website: https://www.medmassagerx.com/. | https://dingalinged-cpu.github.io/registry/c/medical-massage-rx-ii-frisco/
-5. Hand & Stone Massage & Facial Spa | Organic #5 | Pulse Score 58.9/100 (Unrated, #5 in city) | Hand & Stone Massage & Facial Spa is a massage studio in Frisco, TX at 15962 Eldorado Parkway #600, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-frisco/
-6. Be Well Massage & Reflexology | Organic #6 | Pulse Score 58.8/100 (Unrated, #6 in city) | Be Well Massage & Reflexology is a massage studio in Frisco, TX at 11477 Custer Road #106, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/be-well-massage-and-reflexology-frisco/
-7. A Plus Massage Wellness Center | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | A Plus Massage Wellness Center is a massage studio in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/a-plus-massage-wellness-center-frisco/
-8. The Now | Organic #8 | Pulse Score 45.8/100 (Building, #8 in city) | The Now is a massage studio in Frisco, TX at 9250 Dallas Parkway #120, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-now-frisco/
+1. LifeSpa | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | LifeSpa is a massage studio in Frisco, TX at 4900 Throne Hall Dr, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/lifespa-frisco/
+2. Modern Thai Spa & Bodywork | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Modern Thai Spa & Bodywork is a massage studio in Frisco, TX at 9370 Warren Parkway #110, Frisco, TX. Phone: +14694566599. Website: https://modernthaispa.com/. | https://registry-edge.dingalinged.workers.dev/c/modern-thai-spa-and-bodywork-frisco/
+3. Sukhveda Ayurvedic Wellness Center | Organic #3 | Pulse Score 61.7/100 (Unrated, #3 in city) | Sukhveda Ayurvedic Wellness Center is a massage studio in Frisco, TX at 7000 Parkwood Boulevard #c200, Frisco, TX 75034. Phone: +19724895508. | https://registry-edge.dingalinged.workers.dev/c/sukhveda-ayurvedic-wellness-center-frisco/
+4. Medical Massage Rx II | Organic #4 | Pulse Score 60.9/100 (Unrated, #4 in city) | Medical Massage Rx II is a massage studio in Frisco, TX at 4235 Preston Road #300, Frisco, TX 75034. Phone: +19724604420. Website: https://www.medmassagerx.com/. | https://registry-edge.dingalinged.workers.dev/c/medical-massage-rx-ii-frisco/
+5. Hand & Stone Massage & Facial Spa | Organic #5 | Pulse Score 58.9/100 (Unrated, #5 in city) | Hand & Stone Massage & Facial Spa is a massage studio in Frisco, TX at 15962 Eldorado Parkway #600, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-massage-and-facial-spa-frisco/
+6. Be Well Massage & Reflexology | Organic #6 | Pulse Score 58.8/100 (Unrated, #6 in city) | Be Well Massage & Reflexology is a massage studio in Frisco, TX at 11477 Custer Road #106, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/be-well-massage-and-reflexology-frisco/
+7. A Plus Massage Wellness Center | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | A Plus Massage Wellness Center is a massage studio in Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/a-plus-massage-wellness-center-frisco/
+8. The Now | Organic #8 | Pulse Score 45.8/100 (Building, #8 in city) | The Now is a massage studio in Frisco, TX at 9250 Dallas Parkway #120, Frisco, TX. | https://registry-edge.dingalinged.workers.dev/c/the-now-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage frisco tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$32,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/massage.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#massage-frisco-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/massage.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#massage-frisco-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

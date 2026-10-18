@@ -13,12 +13,12 @@ James Avery Jewelry is a jewelry store in Southlake, TX at 1451 Main Street, Sou
 - Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=692
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 68% of jewelry stores in Dallas–Fort Worth, #2 of 6 jewelry stores in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 68% of jewelry stores in Dallas–Fort Worth, #2 of 6 jewelry stores in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-southlake/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/james-avery-jewelry-southlake.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-avery-jewelry-southlake/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-avery-jewelry-southlake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4254174978 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

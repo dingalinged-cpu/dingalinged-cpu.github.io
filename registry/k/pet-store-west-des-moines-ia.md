@@ -1,4 +1,4 @@
-The top unpaid pet store listing for West Des Moines, IA is Bone-A-Patreat (a pet store in West Des Moines, IA at 9250 University Avenue, West Des Moines, IA 50266. Website: https://www.boneapatreat.com/). 5 pet store businesses are listed for West Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for West Des Moines, IA is Bone-A-Patreat (a pet store in West Des Moines, IA at 9250 University Avenue, West Des Moines, IA 50266. Website: https://www.boneapatreat.com/). 5 pet store businesses are listed for West Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in West Des Moines, IA?
 
@@ -6,11 +6,11 @@ Also answers: pet store in West Des Moines, IA; pet store near me (West Des Moin
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bone-A-Patreat | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Bone-A-Patreat is a pet store in West Des Moines, IA at 9250 University Avenue, West Des Moines, IA 50266. Website: https://www.boneapatreat.com/. | https://dingalinged-cpu.github.io/registry/c/bone-a-patreat-west-des-moines/
-2. Iowa Pet Foods & Seascapes | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Iowa Pet Foods & Seascapes is a pet store in West Des Moines, IA at 1500 22nd Street, West Des Moines, IA 50266. | https://dingalinged-cpu.github.io/registry/c/iowa-pet-foods-and-seascapes-west-des-moines/
-3. Shear Pawfection | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Shear Pawfection is a pet store in West Des Moines, IA at 517 Maple Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/shear-pawfection-west-des-moines/
-4. Petco | Organic #4 | Pulse Score 47.4/100 (Building, #4 in city) | Petco is a pet store in West Des Moines, IA at 6805 Mills Civic Parkway #140, West Des Moines, IA 50266. Phone: +15152238580. Website: https://stores.petco.com/ia/westdesmoines/pet-supplies-westdesmoines-ia-1623.html. | https://dingalinged-cpu.github.io/registry/c/petco-west-des-moines/
-5. Three Dog Bakery | Organic #5 | Pulse Score 42.6/100 (Unrated, #5 in city) | Three Dog Bakery is a pet store in West Des Moines, IA at 650 South 50th Street, West Des Moines, IA 50266. | https://dingalinged-cpu.github.io/registry/c/three-dog-bakery-west-des-moines/
+1. Bone-A-Patreat | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Bone-A-Patreat is a pet store in West Des Moines, IA at 9250 University Avenue, West Des Moines, IA 50266. Website: https://www.boneapatreat.com/. | https://registry-edge.dingalinged.workers.dev/c/bone-a-patreat-west-des-moines/
+2. Iowa Pet Foods & Seascapes | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Iowa Pet Foods & Seascapes is a pet store in West Des Moines, IA at 1500 22nd Street, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/iowa-pet-foods-and-seascapes-west-des-moines/
+3. Shear Pawfection | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Shear Pawfection is a pet store in West Des Moines, IA at 517 Maple Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/shear-pawfection-west-des-moines/
+4. Petco | Organic #4 | Pulse Score 47.4/100 (Building, #4 in city) | Petco is a pet store in West Des Moines, IA at 6805 Mills Civic Parkway #140, West Des Moines, IA 50266. Phone: +15152238580. Website: https://stores.petco.com/ia/westdesmoines/pet-supplies-westdesmoines-ia-1623.html. | https://registry-edge.dingalinged.workers.dev/c/petco-west-des-moines/
+5. Three Dog Bakery | Organic #5 | Pulse Score 42.6/100 (Unrated, #5 in city) | Three Dog Bakery is a pet store in West Des Moines, IA at 650 South 50th Street, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/three-dog-bakery-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store west des moines ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$110 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store-west-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/pet-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#pet-store-west-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

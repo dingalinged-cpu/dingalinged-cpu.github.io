@@ -2,7 +2,7 @@
  "title": "Keyword market data: Irving, TX",
  "description": "Top Irving, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Irving, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 65,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage irving tx",
     "slug": "massage-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-irving-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash irving tx",
     "slug": "car-wash-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-irving-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist irving tx",
     "slug": "dentist-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-irving-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym irving tx",
     "slug": "gym-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-irving-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "oil change irving tx",
     "slug": "oil-change-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-irving-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -86,7 +86,7 @@
    {
     "keyword": "hair salon irving tx",
     "slug": "hair-salon-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-irving-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -101,7 +101,7 @@
    {
     "keyword": "nail salon irving tx",
     "slug": "nail-salon-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-irving-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -116,7 +116,7 @@
    {
     "keyword": "barber shop irving tx",
     "slug": "barber-shop-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-irving-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "mechanic irving tx",
     "slug": "mechanic-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-irving-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -146,7 +146,7 @@
    {
     "keyword": "tire shop irving tx",
     "slug": "tire-shop-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-irving-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -161,7 +161,7 @@
    {
     "keyword": "vet irving tx",
     "slug": "vet-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-irving-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut irving tx",
     "slug": "haircut-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-irving-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair irving tx",
     "slug": "auto-repair-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-irving-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -206,7 +206,7 @@
    {
     "keyword": "chiropractor irving tx",
     "slug": "chiropractor-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-irving-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -221,7 +221,7 @@
    {
     "keyword": "financial advisor irving tx",
     "slug": "financial-advisor-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-irving-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "roofing contractor irving tx",
     "slug": "roofing-contractor-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-irving-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofer irving tx",
     "slug": "roofer-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-irving-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -268,7 +268,7 @@
    {
     "keyword": "attorney irving tx",
     "slug": "attorney-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-irving-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -283,7 +283,7 @@
    {
     "keyword": "lawyer irving tx",
     "slug": "lawyer-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-irving-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -298,7 +298,7 @@
    {
     "keyword": "landscaping irving tx",
     "slug": "landscaping-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-irving-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -313,7 +313,7 @@
    {
     "keyword": "locksmith irving tx",
     "slug": "locksmith-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-irving-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "storage units irving tx",
     "slug": "storage-units-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-irving-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -343,7 +343,7 @@
    {
     "keyword": "bakery irving tx",
     "slug": "bakery-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-irving-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -358,7 +358,7 @@
    {
     "keyword": "event venues irving tx",
     "slug": "event-venues-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-irving-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -373,7 +373,7 @@
    {
     "keyword": "photographer irving tx",
     "slug": "photographer-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-irving-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "martial arts irving tx",
     "slug": "martial-arts-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-irving-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -403,7 +403,7 @@
    {
     "keyword": "staffing agency irving tx",
     "slug": "staffing-agency-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-irving-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -418,7 +418,7 @@
    {
     "keyword": "tax preparer irving tx",
     "slug": "tax-preparer-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-irving-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -433,7 +433,7 @@
    {
     "keyword": "daycare irving tx",
     "slug": "daycare-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-irving-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -448,7 +448,7 @@
    {
     "keyword": "driving school irving tx",
     "slug": "driving-school-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-irving-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage irving tx",
     "slug": "massage-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-irving-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist irving tx",
     "slug": "dentist-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-irving-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash irving tx",
     "slug": "car-wash-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-irving-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "oil change irving tx",
     "slug": "oil-change-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-irving-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym irving tx",
     "slug": "gym-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-irving-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic irving tx",
     "slug": "mechanic-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-irving-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop irving tx",
     "slug": "tire-shop-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-irving-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet irving tx",
     "slug": "vet-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-irving-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -585,7 +585,7 @@
    {
     "keyword": "locksmith irving tx",
     "slug": "locksmith-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-irving-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -600,7 +600,7 @@
    {
     "keyword": "landscaping irving tx",
     "slug": "landscaping-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-irving-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -615,7 +615,7 @@
    {
     "keyword": "haircut irving tx",
     "slug": "haircut-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-irving-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -630,7 +630,7 @@
    {
     "keyword": "roofing contractor irving tx",
     "slug": "roofing-contractor-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-irving-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -645,7 +645,7 @@
    {
     "keyword": "auto repair irving tx",
     "slug": "auto-repair-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-irving-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -660,7 +660,7 @@
    {
     "keyword": "chiropractor irving tx",
     "slug": "chiropractor-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-irving-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -675,7 +675,7 @@
    {
     "keyword": "financial advisor irving tx",
     "slug": "financial-advisor-irving-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-irving-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-irving-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,

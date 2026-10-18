@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for Wheeling, IL is Touge Factory (an auto repair shop in Wheeling, IL). 5 mechanic businesses are listed for Wheeling, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Wheeling, IL is Touge Factory (an auto repair shop in Wheeling, IL). 5 mechanic businesses are listed for Wheeling, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Wheeling, IL?
 
@@ -6,11 +6,11 @@ Also answers: mechanic in Wheeling, IL; mechanic near me (Wheeling, IL); best me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Touge Factory | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Touge Factory is an auto repair shop in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/touge-factory-wheeling/
-2. Wheeling Auto Center | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Wheeling Auto Center is an auto repair shop in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/wheeling-auto-center-wheeling/
-3. MAACO | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | MAACO is an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/. | https://dingalinged-cpu.github.io/registry/c/maaco-wheeling/
-4. Midas | Organic #4 | Pulse Score 47.1/100 (Building, #4 in city) | Midas is an auto repair shop in Wheeling, IL at 1044 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.midas.com/store/il/wheeling/1044-s-milwaukee-ave-60090?shopnum=2170. | https://dingalinged-cpu.github.io/registry/c/midas-wheeling/
-5. Jiffy Lube | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Wheeling, IL at 10 East Dundee Road, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-wheeling/
+1. Touge Factory | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Touge Factory is an auto repair shop in Wheeling, IL. | https://registry-edge.dingalinged.workers.dev/c/touge-factory-wheeling/
+2. Wheeling Auto Center | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Wheeling Auto Center is an auto repair shop in Wheeling, IL. | https://registry-edge.dingalinged.workers.dev/c/wheeling-auto-center-wheeling/
+3. MAACO | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | MAACO is an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/. | https://registry-edge.dingalinged.workers.dev/c/maaco-wheeling/
+4. Midas | Organic #4 | Pulse Score 47.1/100 (Building, #4 in city) | Midas is an auto repair shop in Wheeling, IL at 1044 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.midas.com/store/il/wheeling/1044-s-milwaukee-ave-60090?shopnum=2170. | https://registry-edge.dingalinged.workers.dev/c/midas-wheeling/
+5. Jiffy Lube | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Wheeling, IL at 10 East Dundee Road, Wheeling, IL 60090. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-wheeling/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic wheeling il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$4,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mechanic.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-wheeling-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-wheeling-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

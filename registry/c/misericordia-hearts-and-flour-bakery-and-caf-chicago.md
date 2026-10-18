@@ -13,12 +13,12 @@ Misericordia Hearts & Flour Bakery and Café is a bakery in Chicago, IL at 6130 
 - Website: https://www.misericordia.com/restaurant-stores/hearts-flour-bakery-and-cafe/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-16:00; Sa 07:00-16:00; Su 07:00-14:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of bakerys in Chicago, #13 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of bakerys in Chicago, #13 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/misericordia-hearts-and-flour-bakery-and-caf-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/misericordia-hearts-and-flour-bakery-and-caf-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/misericordia-hearts-and-flour-bakery-and-caf-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/misericordia-hearts-and-flour-bakery-and-caf-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1300783957 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Magnolia, TX",
  "description": "Top Magnolia, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Magnolia, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 35,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage magnolia tx",
     "slug": "massage-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-magnolia-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash magnolia tx",
     "slug": "car-wash-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-magnolia-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist magnolia tx",
     "slug": "dentist-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-magnolia-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym magnolia tx",
     "slug": "gym-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-magnolia-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -71,7 +71,7 @@
    {
     "keyword": "oil change magnolia tx",
     "slug": "oil-change-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-magnolia-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -86,7 +86,7 @@
    {
     "keyword": "hair salon magnolia tx",
     "slug": "hair-salon-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-magnolia-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -101,7 +101,7 @@
    {
     "keyword": "nail salon magnolia tx",
     "slug": "nail-salon-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-magnolia-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic magnolia tx",
     "slug": "mechanic-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-magnolia-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop magnolia tx",
     "slug": "tire-shop-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-magnolia-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -146,7 +146,7 @@
    {
     "keyword": "haircut magnolia tx",
     "slug": "haircut-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-magnolia-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -161,7 +161,7 @@
    {
     "keyword": "auto repair magnolia tx",
     "slug": "auto-repair-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-magnolia-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -176,7 +176,7 @@
    {
     "keyword": "landscaping magnolia tx",
     "slug": "landscaping-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-magnolia-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -191,7 +191,7 @@
    {
     "keyword": "real estate agent magnolia tx",
     "slug": "real-estate-agent-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-magnolia-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agency magnolia tx",
     "slug": "insurance-agency-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-magnolia-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -221,7 +221,7 @@
    {
     "keyword": "realtor magnolia tx",
     "slug": "realtor-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-magnolia-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair magnolia tx",
     "slug": "hvac-repair-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-magnolia-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -253,7 +253,7 @@
    {
     "keyword": "landscaping magnolia tx",
     "slug": "landscaping-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-magnolia-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -268,7 +268,7 @@
    {
     "keyword": "heating and air magnolia tx",
     "slug": "heating-and-air-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-magnolia-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 83.0,
@@ -283,7 +283,7 @@
    {
     "keyword": "storage units magnolia tx",
     "slug": "storage-units-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-magnolia-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -298,7 +298,7 @@
    {
     "keyword": "florist magnolia tx",
     "slug": "florist-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-magnolia-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -313,7 +313,7 @@
    {
     "keyword": "photographer magnolia tx",
     "slug": "photographer-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-magnolia-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -328,7 +328,7 @@
    {
     "keyword": "accounting services magnolia tx",
     "slug": "accounting-services-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-magnolia-tx/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -343,7 +343,7 @@
    {
     "keyword": "accountant magnolia tx",
     "slug": "accountant-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-magnolia-tx/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -358,7 +358,7 @@
    {
     "keyword": "preschool magnolia tx",
     "slug": "preschool-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-magnolia-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -373,7 +373,7 @@
    {
     "keyword": "eye doctor magnolia tx",
     "slug": "eye-doctor-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-magnolia-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -388,7 +388,7 @@
    {
     "keyword": "family doctor magnolia tx",
     "slug": "family-doctor-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-magnolia-tx/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -403,7 +403,7 @@
    {
     "keyword": "primary care physician magnolia tx",
     "slug": "primary-care-physician-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-magnolia-tx/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -418,7 +418,7 @@
    {
     "keyword": "dentist magnolia tx",
     "slug": "dentist-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-magnolia-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -433,7 +433,7 @@
    {
     "keyword": "haircut magnolia tx",
     "slug": "haircut-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-magnolia-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -448,7 +448,7 @@
    {
     "keyword": "massage magnolia tx",
     "slug": "massage-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-magnolia-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage magnolia tx",
     "slug": "massage-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-magnolia-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist magnolia tx",
     "slug": "dentist-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-magnolia-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash magnolia tx",
     "slug": "car-wash-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-magnolia-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -510,7 +510,7 @@
    {
     "keyword": "oil change magnolia tx",
     "slug": "oil-change-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-magnolia-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym magnolia tx",
     "slug": "gym-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-magnolia-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic magnolia tx",
     "slug": "mechanic-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-magnolia-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop magnolia tx",
     "slug": "tire-shop-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-magnolia-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -570,7 +570,7 @@
    {
     "keyword": "landscaping magnolia tx",
     "slug": "landscaping-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-magnolia-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut magnolia tx",
     "slug": "haircut-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-magnolia-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair magnolia tx",
     "slug": "auto-repair-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-magnolia-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -615,7 +615,7 @@
    {
     "keyword": "hvac repair magnolia tx",
     "slug": "hvac-repair-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-magnolia-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -630,7 +630,7 @@
    {
     "keyword": "hair salon magnolia tx",
     "slug": "hair-salon-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-magnolia-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -645,7 +645,7 @@
    {
     "keyword": "real estate agent magnolia tx",
     "slug": "real-estate-agent-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-magnolia-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -660,7 +660,7 @@
    {
     "keyword": "nail salon magnolia tx",
     "slug": "nail-salon-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-magnolia-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -675,7 +675,7 @@
    {
     "keyword": "realtor magnolia tx",
     "slug": "realtor-magnolia-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-magnolia-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-magnolia-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,

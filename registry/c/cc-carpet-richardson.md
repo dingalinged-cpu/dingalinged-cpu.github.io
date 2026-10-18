@@ -13,12 +13,12 @@ CC Carpet is a flooring company in Richardson, TX at 305 South Central Expresswa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 42% of flooring companys in Dallas–Fort Worth, #2 of 2 flooring companys in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 42% of flooring companys in Dallas–Fort Worth, #2 of 2 flooring companys in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cc-carpet-richardson/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cc-carpet-richardson.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cc-carpet-richardson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cc-carpet-richardson.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/220354622 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

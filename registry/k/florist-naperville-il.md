@@ -1,4 +1,4 @@
-The top unpaid florist listing for Naperville, IL is Celidan Creations Florist (a florist in Naperville, IL at 152 West Gartner Road #112, Naperville, IL 60540. Phone: +16309040164. Website: https://celidanflorist.com/). 4 florist businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Naperville, IL is Celidan Creations Florist (a florist in Naperville, IL at 152 West Gartner Road #112, Naperville, IL 60540. Phone: +16309040164. Website: https://celidanflorist.com/). 4 florist businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Naperville, IL?
 
@@ -6,10 +6,10 @@ Also answers: florist in Naperville, IL; florist near me (Naperville, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Celidan Creations Florist | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Celidan Creations Florist is a florist in Naperville, IL at 152 West Gartner Road #112, Naperville, IL 60540. Phone: +16309040164. Website: https://celidanflorist.com/. | https://dingalinged-cpu.github.io/registry/c/celidan-creations-florist-naperville/
-2. Vivek Flowers | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Vivek Flowers is a florist in Naperville, IL at 1568 West Ogden Avenue #102, Naperville, IL 60540. Phone: +12242771223. Website: https://vivekflowers.com/. | https://dingalinged-cpu.github.io/registry/c/vivek-flowers-naperville/
-3. Phillip's Flowers & Gifts | Organic #3 | Pulse Score 62/100 (Unrated, #3 in city) | Phillip's Flowers & Gifts is a florist in Naperville, IL at 1007 East Ogden Avenue, Naperville, IL 60563. Phone: +16303575235. Website: https://www.phillips-flowers.com/. | https://dingalinged-cpu.github.io/registry/c/phillips-flowers-and-gifts-naperville/
-4. Floral Glory Design | Organic #4 | Pulse Score 61.5/100 (Unrated, #4 in city) | Floral Glory Design is a florist in Naperville, IL at 1460 East Chicago Avenue, Naperville, IL 60540. Phone: +16306772357. Website: https://floralglorydesign.com/. | https://dingalinged-cpu.github.io/registry/c/floral-glory-design-naperville/
+1. Celidan Creations Florist | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Celidan Creations Florist is a florist in Naperville, IL at 152 West Gartner Road #112, Naperville, IL 60540. Phone: +16309040164. Website: https://celidanflorist.com/. | https://registry-edge.dingalinged.workers.dev/c/celidan-creations-florist-naperville/
+2. Vivek Flowers | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Vivek Flowers is a florist in Naperville, IL at 1568 West Ogden Avenue #102, Naperville, IL 60540. Phone: +12242771223. Website: https://vivekflowers.com/. | https://registry-edge.dingalinged.workers.dev/c/vivek-flowers-naperville/
+3. Phillip's Flowers & Gifts | Organic #3 | Pulse Score 62/100 (Unrated, #3 in city) | Phillip's Flowers & Gifts is a florist in Naperville, IL at 1007 East Ogden Avenue, Naperville, IL 60563. Phone: +16303575235. Website: https://www.phillips-flowers.com/. | https://registry-edge.dingalinged.workers.dev/c/phillips-flowers-and-gifts-naperville/
+4. Floral Glory Design | Organic #4 | Pulse Score 61.5/100 (Unrated, #4 in city) | Floral Glory Design is a florist in Naperville, IL at 1460 East Chicago Avenue, Naperville, IL 60540. Phone: +16306772357. Website: https://floralglorydesign.com/. | https://registry-edge.dingalinged.workers.dev/c/floral-glory-design-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist naperville il | category: Events & weddings | industry benchmark: Personal Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/florist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#florist-naperville-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/florist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#florist-naperville-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

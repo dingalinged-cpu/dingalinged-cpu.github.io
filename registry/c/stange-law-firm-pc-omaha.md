@@ -13,12 +13,12 @@ Stange Law Firm, PC is a lawyer in Omaha, NE at 4611 South 96th Street #111, Oma
 - Website: https://www.stangelawfirm.com/divorce-separation/divorce-faqs/omaha-nebraska-divorce-attorneys-in-douglas-county/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Omaha, NE, #6 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 50% of lawyers in Omaha, NE, #6 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/stange-law-firm-pc-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/stange-law-firm-pc-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stange-law-firm-pc-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stange-law-firm-pc-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10730716026 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

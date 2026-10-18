@@ -1,4 +1,4 @@
-The top unpaid insurance agents listing for Westmont, IL is Pacific General Insurance Agency (an insurance agent in Westmont, IL at 210 Quail Ridge Drive, Westmont, IL 60559. Phone: +16305150090. Website: https://towtruckinsuranceusa.com/). 5 insurance agents businesses are listed for Westmont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Westmont, IL is Pacific General Insurance Agency (an insurance agent in Westmont, IL at 210 Quail Ridge Drive, Westmont, IL 60559. Phone: +16305150090. Website: https://towtruckinsuranceusa.com/). 5 insurance agents businesses are listed for Westmont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Westmont, IL?
 
@@ -6,11 +6,11 @@ Also answers: insurance agents in Westmont, IL; insurance agents near me (Westmo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pacific General Insurance Agency | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Pacific General Insurance Agency is an insurance agent in Westmont, IL at 210 Quail Ridge Drive, Westmont, IL 60559. Phone: +16305150090. Website: https://towtruckinsuranceusa.com/. | https://dingalinged-cpu.github.io/registry/c/pacific-general-insurance-agency-westmont/
-2. Safeway Insurance Group (Headquarters) | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Safeway Insurance Group (Headquarters) is an insurance agent in Westmont, IL at 790 Pasquinelli Drive, Westmont, IL 60559. Phone: +16308878300. Website: https://www.safewayinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/safeway-insurance-group-headquarters-westmont/
-3. Safeway Insurance | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Safeway Insurance is an insurance agent in Westmont, IL at 790 Pasquinelli Drive, Westmont, IL 60559. | https://dingalinged-cpu.github.io/registry/c/safeway-insurance-westmont/
-4. State Farm | Organic #4 | Pulse Score 43.7/100 (Building, #4 in city) | State Farm is an insurance agent in Westmont, IL at Fairview Avenue, Westmont, IL 60559. | https://dingalinged-cpu.github.io/registry/c/state-farm-westmont/
-5. Oxford Auto Insurance | Organic #5 | Pulse Score 42.4/100 (Unrated, #5 in city) | Oxford Auto Insurance is an insurance agent in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/oxford-auto-insurance-westmont/
+1. Pacific General Insurance Agency | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Pacific General Insurance Agency is an insurance agent in Westmont, IL at 210 Quail Ridge Drive, Westmont, IL 60559. Phone: +16305150090. Website: https://towtruckinsuranceusa.com/. | https://registry-edge.dingalinged.workers.dev/c/pacific-general-insurance-agency-westmont/
+2. Safeway Insurance Group (Headquarters) | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Safeway Insurance Group (Headquarters) is an insurance agent in Westmont, IL at 790 Pasquinelli Drive, Westmont, IL 60559. Phone: +16308878300. Website: https://www.safewayinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/safeway-insurance-group-headquarters-westmont/
+3. Safeway Insurance | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Safeway Insurance is an insurance agent in Westmont, IL at 790 Pasquinelli Drive, Westmont, IL 60559. | https://registry-edge.dingalinged.workers.dev/c/safeway-insurance-westmont/
+4. State Farm | Organic #4 | Pulse Score 43.7/100 (Building, #4 in city) | State Farm is an insurance agent in Westmont, IL at Fairview Avenue, Westmont, IL 60559. | https://registry-edge.dingalinged.workers.dev/c/state-farm-westmont/
+5. Oxford Auto Insurance | Organic #5 | Pulse Score 42.4/100 (Unrated, #5 in city) | Oxford Auto Insurance is an insurance agent in Westmont, IL. | https://registry-edge.dingalinged.workers.dev/c/oxford-auto-insurance-westmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents westmont il | category: insurance | industry benchmark: Finance & Insurance
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agents.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agents-westmont-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agents.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agents-westmont-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

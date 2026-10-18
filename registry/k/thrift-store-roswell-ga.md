@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for Roswell, GA is Southern Comforts (a thrift store in Roswell, GA). 7 thrift store businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Roswell, GA is Southern Comforts (a thrift store in Roswell, GA). 7 thrift store businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Roswell, GA?
 
@@ -6,13 +6,13 @@ Also answers: thrift store in Roswell, GA; thrift store near me (Roswell, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southern Comforts | Organic #1 | Pulse Score 59.1/100 (Fair, #1 in city) | Southern Comforts is a thrift store in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/southern-comforts-roswell/
-2. Prism Flea Market | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Prism Flea Market is a thrift store in Roswell, GA at 2500 Old Alabama Road #10, Roswell, GA 30076. Website: https://www.prismga.org/. | https://dingalinged-cpu.github.io/registry/c/prism-flea-market-roswell/
-3. Fostering Hope Bargain Resale | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Fostering Hope Bargain Resale is a thrift store in Roswell, GA. Website: https://www.fostercares.org/. | https://dingalinged-cpu.github.io/registry/c/fostering-hope-bargain-resale-roswell/
-4. Food Pantry | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Food Pantry is a thrift store in Roswell, GA at 11330 Woodstock Road, Roswell, GA 30075. | https://dingalinged-cpu.github.io/registry/c/food-pantry-roswell/
-5. Goodwill | Organic #5 | Pulse Score 48.5/100 (Building, #5 in city) | Goodwill is a thrift store in Roswell, GA at 10779 Alpharetta Hwy, Roswell, GA 30076. Phone: +17706491994. Website: https://goodwillng.org/gw-locations/roswell-store-donation-center-30076/. | https://dingalinged-cpu.github.io/registry/c/goodwill-roswell-n9456219002/
-6. Goodwill | Organic #6 | Pulse Score 45.8/100 (Building, #6 in city) | Goodwill is a thrift store in Roswell, GA at 2300 Holcomb Bridge Road #305, Roswell, GA 30076. Phone: +16787100198. | https://dingalinged-cpu.github.io/registry/c/goodwill-roswell/
-7. Goodwill | Organic #7 | Pulse Score 41.6/100 (Building, #7 in city) | Goodwill is a thrift store in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/goodwill-roswell-n7844446137/
+1. Southern Comforts | Organic #1 | Pulse Score 59.1/100 (Fair, #1 in city) | Southern Comforts is a thrift store in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/southern-comforts-roswell/
+2. Prism Flea Market | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Prism Flea Market is a thrift store in Roswell, GA at 2500 Old Alabama Road #10, Roswell, GA 30076. Website: https://www.prismga.org/. | https://registry-edge.dingalinged.workers.dev/c/prism-flea-market-roswell/
+3. Fostering Hope Bargain Resale | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Fostering Hope Bargain Resale is a thrift store in Roswell, GA. Website: https://www.fostercares.org/. | https://registry-edge.dingalinged.workers.dev/c/fostering-hope-bargain-resale-roswell/
+4. Food Pantry | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Food Pantry is a thrift store in Roswell, GA at 11330 Woodstock Road, Roswell, GA 30075. | https://registry-edge.dingalinged.workers.dev/c/food-pantry-roswell/
+5. Goodwill | Organic #5 | Pulse Score 48.5/100 (Building, #5 in city) | Goodwill is a thrift store in Roswell, GA at 10779 Alpharetta Hwy, Roswell, GA 30076. Phone: +17706491994. Website: https://goodwillng.org/gw-locations/roswell-store-donation-center-30076/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-roswell-n9456219002/
+6. Goodwill | Organic #6 | Pulse Score 45.8/100 (Building, #6 in city) | Goodwill is a thrift store in Roswell, GA at 2300 Holcomb Bridge Road #305, Roswell, GA 30076. Phone: +16787100198. | https://registry-edge.dingalinged.workers.dev/c/goodwill-roswell/
+7. Goodwill | Organic #7 | Pulse Score 41.6/100 (Building, #7 in city) | Goodwill is a thrift store in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/goodwill-roswell-n7844446137/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store roswell ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#thrift-store-roswell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/thrift-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#thrift-store-roswell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

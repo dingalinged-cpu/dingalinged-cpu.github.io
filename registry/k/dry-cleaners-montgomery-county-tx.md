@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for Montgomery County, TX is Tran Cleaners (a dry cleaner in Montgomery County, TX). 5 dry cleaners businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Montgomery County, TX is Tran Cleaners (a dry cleaner in Montgomery County, TX). 5 dry cleaners businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Montgomery County, TX?
 
@@ -6,11 +6,11 @@ Also answers: dry cleaners in Montgomery County, TX; dry cleaners near me (Montg
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tran Cleaners | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Tran Cleaners is a dry cleaner in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/tran-cleaners-montgomery-county/
-2. Caney Creek Cleaners | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Caney Creek Cleaners is a dry cleaner in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/caney-creek-cleaners-montgomery-county/
-3. Eco Cleaners | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Eco Cleaners is a dry cleaner in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/eco-cleaners-montgomery-county/
-4. Tide Cleaners | Organic #4 | Pulse Score 43.1/100 (Building, #4 in city) | Tide Cleaners is a dry cleaner in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-montgomery-county/
-5. Comet Cleaners | Organic #5 | Pulse Score 43.1/100 (Unrated, #5 in city) | Comet Cleaners is a dry cleaner in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/comet-cleaners-montgomery-county/
+1. Tran Cleaners | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Tran Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/tran-cleaners-montgomery-county/
+2. Caney Creek Cleaners | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Caney Creek Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/caney-creek-cleaners-montgomery-county/
+3. Eco Cleaners | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Eco Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/eco-cleaners-montgomery-county/
+4. Tide Cleaners | Organic #4 | Pulse Score 43.1/100 (Building, #4 in city) | Tide Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-montgomery-county/
+5. Comet Cleaners | Organic #5 | Pulse Score 43.1/100 (Unrated, #5 in city) | Comet Cleaners is a dry cleaner in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/comet-cleaners-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners montgomery county tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners-montgomery-county-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dry-cleaners.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dry-cleaners-montgomery-county-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

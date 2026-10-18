@@ -13,12 +13,12 @@ TW Events is an event venue in Tucker, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 99% of event venues in Atlanta, #2 of 2 event venues in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 38.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 99% of event venues in Atlanta, #2 of 2 event venues in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tw-events-tucker/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tw-events-tucker.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tw-events-tucker/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tw-events-tucker.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/972464715 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

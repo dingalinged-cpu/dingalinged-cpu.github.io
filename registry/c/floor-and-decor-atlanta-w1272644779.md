@@ -13,12 +13,12 @@ Floor & Decor is a flooring company in Atlanta, GA at 1690 Northeast Expressway,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 88% of flooring companys in Atlanta, #2 of 3 flooring companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 46.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 88% of flooring companys in Atlanta, #2 of 3 flooring companys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 46.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/floor-and-decor-atlanta-w1272644779/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/floor-and-decor-atlanta-w1272644779.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/floor-and-decor-atlanta-w1272644779/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/floor-and-decor-atlanta-w1272644779.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1272644779 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

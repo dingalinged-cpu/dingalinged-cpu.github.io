@@ -13,12 +13,12 @@ Jane Kelly Floral is a florist in Wauwatosa, WI at 6413 West North Avenue, Wauwa
 - Website: https://janekellyfloral.com/
 - Email: info@janekellyfloral.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 30% of florists in Milwaukee, #2 of 4 florists in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 30% of florists in Milwaukee, #2 of 4 florists in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/jane-kelly-floral-wauwatosa/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jane-kelly-floral-wauwatosa.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jane-kelly-floral-wauwatosa/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jane-kelly-floral-wauwatosa.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12617795272 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

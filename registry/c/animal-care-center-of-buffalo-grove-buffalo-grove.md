@@ -13,12 +13,12 @@ Animal Care Center of Buffalo Grove is a veterinarian in Buffalo Grove, IL at 60
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 52% of veterinarians in Chicago, #2 of 4 veterinarians in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 52% of veterinarians in Chicago, #2 of 4 veterinarians in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/animal-care-center-of-buffalo-grove-buffalo-grove/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/animal-care-center-of-buffalo-grove-buffalo-grove.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/animal-care-center-of-buffalo-grove-buffalo-grove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/animal-care-center-of-buffalo-grove-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/319018246 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

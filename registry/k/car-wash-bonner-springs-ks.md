@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Bonner Springs, KS is Porter's Buggy Bath (a car wash in Bonner Springs, KS). 2 car wash businesses are listed for Bonner Springs, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Bonner Springs, KS is Porter's Buggy Bath (a car wash in Bonner Springs, KS). 2 car wash businesses are listed for Bonner Springs, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Bonner Springs, KS?
 
@@ -6,8 +6,8 @@ Also answers: car wash in Bonner Springs, KS; car wash near me (Bonner Springs, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Porter's Buggy Bath | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Porter's Buggy Bath is a car wash in Bonner Springs, KS. | https://dingalinged-cpu.github.io/registry/c/porters-buggy-bath-bonner-springs/
-2. GO Car Wash | Organic #2 | Pulse Score 50.6/100 (Unrated, #2 in city) | GO Car Wash is a car wash in Bonner Springs, KS at 13015 Commercial Drive, Bonner Springs, KS 66012. Phone: +19132338266. Website: https://gocarwash.com/locations/bonner-springs. | https://dingalinged-cpu.github.io/registry/c/go-car-wash-bonner-springs/
+1. Porter's Buggy Bath | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Porter's Buggy Bath is a car wash in Bonner Springs, KS. | https://registry-edge.dingalinged.workers.dev/c/porters-buggy-bath-bonner-springs/
+2. GO Car Wash | Organic #2 | Pulse Score 50.6/100 (Unrated, #2 in city) | GO Car Wash is a car wash in Bonner Springs, KS at 13015 Commercial Drive, Bonner Springs, KS 66012. Phone: +19132338266. Website: https://gocarwash.com/locations/bonner-springs. | https://registry-edge.dingalinged.workers.dev/c/go-car-wash-bonner-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash bonner springs ks | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,900 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-bonner-springs-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-bonner-springs-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

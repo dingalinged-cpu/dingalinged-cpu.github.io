@@ -13,12 +13,12 @@ Center For A Balanced Life Inc is a massage studio in West Saint Paul, MN at 154
 - Website: https://centerforabalancedlifeincmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 16% of massage studios in Minneapolis–St. Paul, #1 of 1 massage studios in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 16% of massage studios in Minneapolis–St. Paul, #1 of 1 massage studios in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/center-for-a-balanced-life-inc-west-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/center-for-a-balanced-life-inc-west-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/center-for-a-balanced-life-inc-west-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/center-for-a-balanced-life-inc-west-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4568188157 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

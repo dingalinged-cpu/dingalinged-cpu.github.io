@@ -13,12 +13,12 @@ Central Bark Doggy Day Care is a dog boarding facility in Slinger, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 88% of dog boarding facilitys in Milwaukee, #1 of 1 dog boarding facilitys in Slinger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 40.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 88% of dog boarding facilitys in Milwaukee, #1 of 1 dog boarding facilitys in Slinger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 40.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/central-bark-doggy-day-care-slinger/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/central-bark-doggy-day-care-slinger.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/central-bark-doggy-day-care-slinger/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/central-bark-doggy-day-care-slinger.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/729117585 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

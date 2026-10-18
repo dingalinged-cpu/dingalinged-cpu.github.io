@@ -13,12 +13,12 @@ Club Car Wash is a car wash in McKinney, TX at 8870 Stacy Road, McKinney, TX 750
 - Website: https://clubcarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 73% of car washes in Dallas–Fort Worth, #12 of 16 car washes in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 73% of car washes in Dallas–Fort Worth, #12 of 16 car washes in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/club-car-wash-mckinney/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/club-car-wash-mckinney.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/club-car-wash-mckinney/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/club-car-wash-mckinney.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1451665307 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

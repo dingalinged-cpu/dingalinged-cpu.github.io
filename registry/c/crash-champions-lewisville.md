@@ -13,12 +13,12 @@ Crash Champions is an auto repair shop in Lewisville, TX at 2765 South Stemmons 
 - Website: https://crashchampions.com/locations/crash-champions-lewisville
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 65% of auto repair shops in Dallas–Fort Worth, #23 of 29 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 65% of auto repair shops in Dallas–Fort Worth, #23 of 29 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/crash-champions-lewisville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crash-champions-lewisville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crash-champions-lewisville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crash-champions-lewisville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/648603657 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

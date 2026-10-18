@@ -13,12 +13,12 @@ The Lock Up is a self-storage facility in Bloomington, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.6/100 — Building — top 97% of self-storage facilitys in Minneapolis–St. Paul, #3 of 3 self-storage facilitys in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 42.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.6/100 — Building — top 97% of self-storage facilitys in Minneapolis–St. Paul, #3 of 3 self-storage facilitys in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-lock-up-bloomington/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-lock-up-bloomington.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-lock-up-bloomington/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-lock-up-bloomington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/773366968 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

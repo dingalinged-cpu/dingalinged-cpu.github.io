@@ -13,12 +13,12 @@ Quality Furniture Rental is a furniture store in Little Canada, MN at 2900 Rice 
 - Website: https://qualityfurniturerental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 32% of furniture stores in Minneapolis–St. Paul, #1 of 5 furniture stores in Little Canada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 32% of furniture stores in Minneapolis–St. Paul, #1 of 5 furniture stores in Little Canada (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/quality-furniture-rental-little-canada/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/quality-furniture-rental-little-canada.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/quality-furniture-rental-little-canada/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/quality-furniture-rental-little-canada.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5881252149 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

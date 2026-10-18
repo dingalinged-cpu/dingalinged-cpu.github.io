@@ -13,12 +13,12 @@ BeLYFE Hair Studio is a hair salon in Addison, TX at 15502 Quorum Drive, Addison
 - Website: https://www.lifestylehairco.com/belyfehairstudio
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-18:00; Sa 07:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of hair salons in Dallas–Fort Worth, #3 of 23 hair salons in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of hair salons in Dallas–Fort Worth, #3 of 23 hair salons in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/belyfe-hair-studio-addison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/belyfe-hair-studio-addison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/belyfe-hair-studio-addison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/belyfe-hair-studio-addison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12601883609 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

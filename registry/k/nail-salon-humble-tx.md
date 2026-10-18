@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Humble, TX is MP Nails Spa (a nail salon in Humble, TX at 4801 Wilson Road #300, Humble, TX 77396). 3 nail salon businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Humble, TX is MP Nails Spa (a nail salon in Humble, TX at 4801 Wilson Road #300, Humble, TX 77396). 3 nail salon businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Humble, TX?
 
@@ -6,9 +6,9 @@ Also answers: nail salon in Humble, TX; nail salon near me (Humble, TX); best na
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MP Nails Spa | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | MP Nails Spa is a nail salon in Humble, TX at 4801 Wilson Road #300, Humble, TX 77396. | https://dingalinged-cpu.github.io/registry/c/mp-nails-spa-humble/
-2. Nail Boss | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Nail Boss is a nail salon in Humble, TX at 9910 FM 1960 Bypass Road West, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/nail-boss-humble/
-3. Humble Nails | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | Humble Nails is a nail salon in Humble, TX at 19759 Eastex Freeway, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/humble-nails-humble/
+1. MP Nails Spa | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | MP Nails Spa is a nail salon in Humble, TX at 4801 Wilson Road #300, Humble, TX 77396. | https://registry-edge.dingalinged.workers.dev/c/mp-nails-spa-humble/
+2. Nail Boss | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Nail Boss is a nail salon in Humble, TX at 9910 FM 1960 Bypass Road West, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/nail-boss-humble/
+3. Humble Nails | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | Humble Nails is a nail salon in Humble, TX at 19759 Eastex Freeway, Humble, TX. | https://registry-edge.dingalinged.workers.dev/c/humble-nails-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon humble tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-humble-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-humble-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

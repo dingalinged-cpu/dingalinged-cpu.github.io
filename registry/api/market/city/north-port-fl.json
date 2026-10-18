@@ -2,7 +2,7 @@
  "title": "Keyword market data: North Port, FL",
  "description": "Top North Port, FL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "North Port, FL",
  "geography": "North Port-Bradenton-Sarasota, FL metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage north port fl",
     "slug": "massage-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-north-port-fl",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care north port fl",
     "slug": "urgent-care-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-north-port-fl",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7600,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist north port fl",
     "slug": "dentist-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-north-port-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5100,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym north port fl",
     "slug": "gym-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-north-port-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5100,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash north port fl",
     "slug": "car-wash-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-north-port-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5100,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change north port fl",
     "slug": "oil-change-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-north-port-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5100,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon north port fl",
     "slug": "hair-salon-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-north-port-fl",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4200,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon north port fl",
     "slug": "nail-salon-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-north-port-fl",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes north port fl",
     "slug": "car-insurance-quotes-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-north-port-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber north port fl",
     "slug": "plumber-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-north-port-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments north port fl",
     "slug": "apartments-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-north-port-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance north port fl",
     "slug": "auto-insurance-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-north-port-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop north port fl",
     "slug": "barber-shop-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-north-port-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage north port fl",
     "slug": "lymphatic-drainage-massage-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-north-port-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic north port fl",
     "slug": "mechanic-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-north-port-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer north port fl",
     "slug": "personal-injury-lawyer-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-north-port-fl",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 560,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber north port fl",
     "slug": "emergency-plumber-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-north-port-fl",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 210,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair north port fl",
     "slug": "hvac-repair-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-north-port-fl",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 210,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair north port fl",
     "slug": "ac-repair-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-north-port-fl",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement north port fl",
     "slug": "roof-replacement-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-north-port-fl",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 92.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair north port fl",
     "slug": "roof-repair-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-north-port-fl",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 210,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast north port fl",
     "slug": "sell-my-house-fast-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-north-port-fl",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 27.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services north port fl",
     "slug": "plumbing-services-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-north-port-fl",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining north port fl",
     "slug": "deck-staining-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-north-port-fl",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 50.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters north port fl",
     "slug": "exterior-house-painters-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-north-port-fl",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters north port fl",
     "slug": "interior-painters-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-north-port-fl",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters north port fl",
     "slug": "painters-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-north-port-fl",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company north port fl",
     "slug": "moving-company-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-north-port-fl",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 560,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney north port fl",
     "slug": "criminal-defense-attorney-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-north-port-fl",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 250,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer north port fl",
     "slug": "dui-defense-lawyer-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-north-port-fl",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 10.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage north port fl",
     "slug": "massage-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-north-port-fl",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care north port fl",
     "slug": "urgent-care-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-north-port-fl",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7600,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer north port fl",
     "slug": "personal-injury-lawyer-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-north-port-fl",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 560,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber north port fl",
     "slug": "plumber-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-north-port-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist north port fl",
     "slug": "dentist-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-north-port-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5100,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash north port fl",
     "slug": "car-wash-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-north-port-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5100,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change north port fl",
     "slug": "oil-change-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-north-port-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5100,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair north port fl",
     "slug": "ac-repair-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-north-port-fl",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer north port fl",
     "slug": "car-accident-lawyer-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-north-port-fl",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage north port fl",
     "slug": "lymphatic-drainage-massage-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-north-port-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym north port fl",
     "slug": "gym-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-north-port-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5100,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician north port fl",
     "slug": "electrician-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-north-port-fl",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 680,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic north port fl",
     "slug": "mechanic-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-north-port-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes north port fl",
     "slug": "car-insurance-quotes-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-north-port-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments north port fl",
     "slug": "apartments-north-port-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-north-port-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-north-port-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,

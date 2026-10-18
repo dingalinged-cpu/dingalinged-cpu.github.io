@@ -13,12 +13,12 @@ Massage Envy is a massage studio in Naperville, IL at 1212 South Naper Boulevard
 - Website: https://locations.massageenvy.com/illinois/naperville/1212-s-naper-blvd.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 69% of massage studios in Chicago, #11 of 11 massage studios in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 69% of massage studios in Chicago, #11 of 11 massage studios in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 59.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/massage-envy-naperville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-naperville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/massage-envy-naperville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/massage-envy-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1441749336 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

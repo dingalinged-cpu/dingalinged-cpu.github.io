@@ -13,12 +13,12 @@ Glorious By Pramukham Jewelers - Gold and Diamond Store is a jewelry store in Ir
 - Website: https://gloriousjewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 11:00-18:00; Su 11:00-16:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 9% of jewelry stores in Dallas–Fort Worth, #1 of 6 jewelry stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 9% of jewelry stores in Dallas–Fort Worth, #1 of 6 jewelry stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/glorious-by-pramukham-jewelers-gold-and-diamond-store-irving/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/glorious-by-pramukham-jewelers-gold-and-diamond-store-irving.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/glorious-by-pramukham-jewelers-gold-and-diamond-store-irving/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/glorious-by-pramukham-jewelers-gold-and-diamond-store-irving.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13289171201 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

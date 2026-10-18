@@ -2,7 +2,7 @@
  "title": "Keyword market data: Greensboro, NC",
  "description": "Top Greensboro, NC service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Greensboro, NC",
  "geography": "Greensboro-High Point, NC metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage greensboro nc",
     "slug": "massage-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-greensboro-nc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care greensboro nc",
     "slug": "urgent-care-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-greensboro-nc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6500,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist greensboro nc",
     "slug": "dentist-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-greensboro-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym greensboro nc",
     "slug": "gym-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-greensboro-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash greensboro nc",
     "slug": "car-wash-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-greensboro-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change greensboro nc",
     "slug": "oil-change-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-greensboro-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon greensboro nc",
     "slug": "hair-salon-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-greensboro-nc",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon greensboro nc",
     "slug": "nail-salon-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-greensboro-nc",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes greensboro nc",
     "slug": "car-insurance-quotes-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-greensboro-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber greensboro nc",
     "slug": "plumber-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-greensboro-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments greensboro nc",
     "slug": "apartments-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-greensboro-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance greensboro nc",
     "slug": "auto-insurance-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-greensboro-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop greensboro nc",
     "slug": "barber-shop-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-greensboro-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage greensboro nc",
     "slug": "lymphatic-drainage-massage-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-greensboro-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic greensboro nc",
     "slug": "mechanic-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-greensboro-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer greensboro nc",
     "slug": "personal-injury-lawyer-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-greensboro-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 470,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber greensboro nc",
     "slug": "emergency-plumber-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-greensboro-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair greensboro nc",
     "slug": "hvac-repair-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-greensboro-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair greensboro nc",
     "slug": "ac-repair-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-greensboro-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 870,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement greensboro nc",
     "slug": "roof-replacement-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-greensboro-nc",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 78.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair greensboro nc",
     "slug": "roof-repair-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-greensboro-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast greensboro nc",
     "slug": "sell-my-house-fast-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-greensboro-nc",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services greensboro nc",
     "slug": "plumbing-services-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-greensboro-nc",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining greensboro nc",
     "slug": "deck-staining-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-greensboro-nc",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 43.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters greensboro nc",
     "slug": "exterior-house-painters-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-greensboro-nc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 29.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters greensboro nc",
     "slug": "interior-painters-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-greensboro-nc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 29.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters greensboro nc",
     "slug": "painters-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-greensboro-nc",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company greensboro nc",
     "slug": "moving-company-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-greensboro-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 470,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney greensboro nc",
     "slug": "criminal-defense-attorney-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-greensboro-nc",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 210,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer greensboro nc",
     "slug": "dui-defense-lawyer-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-greensboro-nc",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8.5,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage greensboro nc",
     "slug": "massage-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-greensboro-nc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care greensboro nc",
     "slug": "urgent-care-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-greensboro-nc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6500,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer greensboro nc",
     "slug": "personal-injury-lawyer-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-greensboro-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 470,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber greensboro nc",
     "slug": "plumber-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-greensboro-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist greensboro nc",
     "slug": "dentist-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-greensboro-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash greensboro nc",
     "slug": "car-wash-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-greensboro-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change greensboro nc",
     "slug": "oil-change-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-greensboro-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair greensboro nc",
     "slug": "ac-repair-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-greensboro-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 870,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer greensboro nc",
     "slug": "car-accident-lawyer-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-greensboro-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 870,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage greensboro nc",
     "slug": "lymphatic-drainage-massage-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-greensboro-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym greensboro nc",
     "slug": "gym-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-greensboro-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician greensboro nc",
     "slug": "electrician-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-greensboro-nc",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 580,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic greensboro nc",
     "slug": "mechanic-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-greensboro-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes greensboro nc",
     "slug": "car-insurance-quotes-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-greensboro-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement greensboro nc",
     "slug": "water-heater-replacement-greensboro-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-greensboro-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-greensboro-nc",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 580,

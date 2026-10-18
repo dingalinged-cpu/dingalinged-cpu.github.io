@@ -13,12 +13,12 @@ Public Storage is a self-storage facility in Milwaukee, WI at 6676 West Appleton
 - Website: https://www.publicstorage.com/self-storage-wi-milwaukee/1318.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa,Su 09:30-17:00
-- Pulse Score: 50.6/100 — Fair — top 68% of self-storage facilitys in Milwaukee, #11 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 67.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 68% of self-storage facilitys in Milwaukee, #11 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 67.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/229350909 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

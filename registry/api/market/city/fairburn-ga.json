@@ -2,7 +2,7 @@
  "title": "Keyword market data: Fairburn, GA",
  "description": "Top Fairburn, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Fairburn, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 3,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash fairburn ga",
     "slug": "car-wash-fairburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-fairburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fairburn-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -28,7 +28,7 @@
    {
     "keyword": "car wash fairburn ga",
     "slug": "car-wash-fairburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-fairburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fairburn-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -43,7 +43,7 @@
    {
     "keyword": "gift shop fairburn ga",
     "slug": "gift-shop-fairburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-fairburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-fairburn-ga/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 340,
@@ -58,7 +58,7 @@
    {
     "keyword": "used cars for sale fairburn ga",
     "slug": "used-cars-for-sale-fairburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-fairburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-fairburn-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -75,7 +75,7 @@
    {
     "keyword": "car wash fairburn ga",
     "slug": "car-wash-fairburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-fairburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fairburn-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,

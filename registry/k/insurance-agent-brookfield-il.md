@@ -1,4 +1,4 @@
-The top unpaid insurance agent listing for Brookfield, IL is Get Covered Insurance Agency (an insurance agent in Brookfield, IL at 9321 Ogden Avenue, Brookfield, IL 60513). 8 insurance agent businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Brookfield, IL is Get Covered Insurance Agency (an insurance agent in Brookfield, IL at 9321 Ogden Avenue, Brookfield, IL 60513). 8 insurance agent businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Brookfield, IL?
 
@@ -6,14 +6,14 @@ Also answers: insurance agent in Brookfield, IL; insurance agent near me (Brookf
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Get Covered Insurance Agency | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Get Covered Insurance Agency is an insurance agent in Brookfield, IL at 9321 Ogden Avenue, Brookfield, IL 60513. | https://dingalinged-cpu.github.io/registry/c/get-covered-insurance-agency-brookfield/
-2. Scheer's | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Scheer's is an insurance agent in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/scheers-brookfield/
-3. State Farm | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | State Farm is an insurance agent in Brookfield, IL at 3633 Hollywood Avenue, Brookfield, IL 60513. | https://dingalinged-cpu.github.io/registry/c/state-farm-brookfield-n10733645345/
-4. Allstate | Organic #4 | Pulse Score 41.5/100 (Building, #4 in city) | Allstate is an insurance agent in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/allstate-brookfield/
-5. Allstate | Organic #5 | Pulse Score 41.5/100 (Building, #5 in city) | Allstate is an insurance agent in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/allstate-brookfield-n9793717168/
-6. Farmers Insurance | Organic #6 | Pulse Score 41.5/100 (Building, #6 in city) | Farmers Insurance is an insurance agent in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-brookfield/
-7. State Farm | Organic #7 | Pulse Score 41.5/100 (Building, #7 in city) | State Farm is an insurance agent in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-brookfield/
-8. State Farm | Organic #8 | Pulse Score 41.5/100 (Building, #8 in city) | State Farm is an insurance agent in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-brookfield-n9793717314/
+1. Get Covered Insurance Agency | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Get Covered Insurance Agency is an insurance agent in Brookfield, IL at 9321 Ogden Avenue, Brookfield, IL 60513. | https://registry-edge.dingalinged.workers.dev/c/get-covered-insurance-agency-brookfield/
+2. Scheer's | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Scheer's is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/scheers-brookfield/
+3. State Farm | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | State Farm is an insurance agent in Brookfield, IL at 3633 Hollywood Avenue, Brookfield, IL 60513. | https://registry-edge.dingalinged.workers.dev/c/state-farm-brookfield-n10733645345/
+4. Allstate | Organic #4 | Pulse Score 41.5/100 (Building, #4 in city) | Allstate is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/allstate-brookfield/
+5. Allstate | Organic #5 | Pulse Score 41.5/100 (Building, #5 in city) | Allstate is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/allstate-brookfield-n9793717168/
+6. Farmers Insurance | Organic #6 | Pulse Score 41.5/100 (Building, #6 in city) | Farmers Insurance is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-brookfield/
+7. State Farm | Organic #7 | Pulse Score 41.5/100 (Building, #7 in city) | State Farm is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/state-farm-brookfield/
+8. State Farm | Organic #8 | Pulse Score 41.5/100 (Building, #8 in city) | State Farm is an insurance agent in Brookfield, IL. | https://registry-edge.dingalinged.workers.dev/c/state-farm-brookfield-n9793717314/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent brookfield il | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$310 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agent.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agent-brookfield-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agent-brookfield-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

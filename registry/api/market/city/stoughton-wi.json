@@ -2,7 +2,7 @@
  "title": "Keyword market data: Stoughton, WI",
  "description": "Top Stoughton, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Stoughton, WI",
  "geography": "Madison, WI metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash stoughton wi",
     "slug": "car-wash-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-stoughton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon stoughton wi",
     "slug": "hair-salon-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-stoughton-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -41,7 +41,7 @@
    {
     "keyword": "nail salon stoughton wi",
     "slug": "nail-salon-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-stoughton-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -56,7 +56,7 @@
    {
     "keyword": "barber shop stoughton wi",
     "slug": "barber-shop-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-stoughton-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic stoughton wi",
     "slug": "mechanic-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-stoughton-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut stoughton wi",
     "slug": "haircut-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-stoughton-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair stoughton wi",
     "slug": "auto-repair-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-stoughton-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -116,7 +116,7 @@
    {
     "keyword": "financial advisor stoughton wi",
     "slug": "financial-advisor-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-stoughton-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -131,7 +131,7 @@
    {
     "keyword": "real estate agent stoughton wi",
     "slug": "real-estate-agent-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-stoughton-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agency stoughton wi",
     "slug": "insurance-agency-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-stoughton-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -161,7 +161,7 @@
    {
     "keyword": "realtor stoughton wi",
     "slug": "realtor-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-stoughton-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agents stoughton wi",
     "slug": "insurance-agents-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-stoughton-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 100,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agent stoughton wi",
     "slug": "insurance-agent-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-stoughton-wi/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 84.0,
@@ -208,7 +208,7 @@
    {
     "keyword": "bakery stoughton wi",
     "slug": "bakery-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-stoughton-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -223,7 +223,7 @@
    {
     "keyword": "dance studio stoughton wi",
     "slug": "dance-studio-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-stoughton-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 83.0,
@@ -238,7 +238,7 @@
    {
     "keyword": "graphic designer stoughton wi",
     "slug": "graphic-designer-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/graphic-designer-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/graphic-designer-stoughton-wi/",
     "us_monthly_searches": 8100,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 17.0,
@@ -253,7 +253,7 @@
    {
     "keyword": "preschool stoughton wi",
     "slug": "preschool-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-stoughton-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -268,7 +268,7 @@
    {
     "keyword": "haircut stoughton wi",
     "slug": "haircut-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-stoughton-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -283,7 +283,7 @@
    {
     "keyword": "auto repair stoughton wi",
     "slug": "auto-repair-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-stoughton-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -298,7 +298,7 @@
    {
     "keyword": "car wash stoughton wi",
     "slug": "car-wash-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-stoughton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -313,7 +313,7 @@
    {
     "keyword": "mechanic stoughton wi",
     "slug": "mechanic-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-stoughton-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -328,7 +328,7 @@
    {
     "keyword": "bike shop stoughton wi",
     "slug": "bike-shop-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-stoughton-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -343,7 +343,7 @@
    {
     "keyword": "furniture store stoughton wi",
     "slug": "furniture-store-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-stoughton-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -358,7 +358,7 @@
    {
     "keyword": "gift shop stoughton wi",
     "slug": "gift-shop-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-stoughton-wi/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 37.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "jewelry store stoughton wi",
     "slug": "jewelry-store-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-stoughton-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -388,7 +388,7 @@
    {
     "keyword": "liquor store stoughton wi",
     "slug": "liquor-store-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-stoughton-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -403,7 +403,7 @@
    {
     "keyword": "thrift store stoughton wi",
     "slug": "thrift-store-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-stoughton-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -418,7 +418,7 @@
    {
     "keyword": "used cars for sale stoughton wi",
     "slug": "used-cars-for-sale-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-stoughton-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -435,7 +435,7 @@
    {
     "keyword": "car wash stoughton wi",
     "slug": "car-wash-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-stoughton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -450,7 +450,7 @@
    {
     "keyword": "mechanic stoughton wi",
     "slug": "mechanic-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-stoughton-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -465,7 +465,7 @@
    {
     "keyword": "haircut stoughton wi",
     "slug": "haircut-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-stoughton-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -480,7 +480,7 @@
    {
     "keyword": "auto repair stoughton wi",
     "slug": "auto-repair-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-stoughton-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -495,7 +495,7 @@
    {
     "keyword": "financial advisor stoughton wi",
     "slug": "financial-advisor-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-stoughton-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -510,7 +510,7 @@
    {
     "keyword": "hair salon stoughton wi",
     "slug": "hair-salon-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-stoughton-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -525,7 +525,7 @@
    {
     "keyword": "real estate agent stoughton wi",
     "slug": "real-estate-agent-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-stoughton-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -540,7 +540,7 @@
    {
     "keyword": "nail salon stoughton wi",
     "slug": "nail-salon-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-stoughton-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -555,7 +555,7 @@
    {
     "keyword": "barber shop stoughton wi",
     "slug": "barber-shop-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-stoughton-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -570,7 +570,7 @@
    {
     "keyword": "realtor stoughton wi",
     "slug": "realtor-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-stoughton-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -585,7 +585,7 @@
    {
     "keyword": "insurance agency stoughton wi",
     "slug": "insurance-agency-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-stoughton-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -600,7 +600,7 @@
    {
     "keyword": "insurance agents stoughton wi",
     "slug": "insurance-agents-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-stoughton-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 100,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agent stoughton wi",
     "slug": "insurance-agent-stoughton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-stoughton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-stoughton-wi/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 84.0,

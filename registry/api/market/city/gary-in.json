@@ -2,7 +2,7 @@
  "title": "Keyword market data: Gary, IN",
  "description": "Top Gary, IN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Gary, IN",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 38,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage gary in",
     "slug": "massage-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-gary-in/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash gary in",
     "slug": "car-wash-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-gary-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist gary in",
     "slug": "dentist-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-gary-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon gary in",
     "slug": "hair-salon-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-gary-in/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon gary in",
     "slug": "nail-salon-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-gary-in/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic gary in",
     "slug": "mechanic-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-gary-in/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop gary in",
     "slug": "tire-shop-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-gary-in/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut gary in",
     "slug": "haircut-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-gary-in/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair gary in",
     "slug": "auto-repair-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-gary-in/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -146,7 +146,7 @@
    {
     "keyword": "electrician gary in",
     "slug": "electrician-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-gary-in/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agency gary in",
     "slug": "insurance-agency-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-gary-in/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -176,7 +176,7 @@
    {
     "keyword": "attorney gary in",
     "slug": "attorney-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-gary-in/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -191,7 +191,7 @@
    {
     "keyword": "tax preparation gary in",
     "slug": "tax-preparation-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-gary-in/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -206,7 +206,7 @@
    {
     "keyword": "auto body shop gary in",
     "slug": "auto-body-shop-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-gary-in/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -221,7 +221,7 @@
    {
     "keyword": "tax preparer gary in",
     "slug": "tax-preparer-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-gary-in/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -238,7 +238,7 @@
    {
     "keyword": "electrician gary in",
     "slug": "electrician-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-gary-in/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney gary in",
     "slug": "attorney-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-gary-in/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer gary in",
     "slug": "lawyer-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-gary-in/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -283,7 +283,7 @@
    {
     "keyword": "window repair gary in",
     "slug": "window-repair-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-repair-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-gary-in/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -298,7 +298,7 @@
    {
     "keyword": "architect gary in",
     "slug": "architect-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-gary-in/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -313,7 +313,7 @@
    {
     "keyword": "storage units gary in",
     "slug": "storage-units-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-gary-in/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "bakery gary in",
     "slug": "bakery-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-gary-in/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "event venues gary in",
     "slug": "event-venues-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-gary-in/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -358,7 +358,7 @@
    {
     "keyword": "florist gary in",
     "slug": "florist-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-gary-in/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -373,7 +373,7 @@
    {
     "keyword": "dance studio gary in",
     "slug": "dance-studio-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-gary-in/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -388,7 +388,7 @@
    {
     "keyword": "tax preparer gary in",
     "slug": "tax-preparer-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-gary-in/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -403,7 +403,7 @@
    {
     "keyword": "daycare gary in",
     "slug": "daycare-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-gary-in/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -418,7 +418,7 @@
    {
     "keyword": "eye doctor gary in",
     "slug": "eye-doctor-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-gary-in/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -433,7 +433,7 @@
    {
     "keyword": "dentist gary in",
     "slug": "dentist-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-gary-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -448,7 +448,7 @@
    {
     "keyword": "haircut gary in",
     "slug": "haircut-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-gary-in/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage gary in",
     "slug": "massage-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-gary-in/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist gary in",
     "slug": "dentist-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-gary-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash gary in",
     "slug": "car-wash-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-gary-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "electrician gary in",
     "slug": "electrician-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-gary-in/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic gary in",
     "slug": "mechanic-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-gary-in/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop gary in",
     "slug": "tire-shop-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-gary-in/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut gary in",
     "slug": "haircut-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-gary-in/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair gary in",
     "slug": "auto-repair-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-gary-in/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon gary in",
     "slug": "hair-salon-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-gary-in/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -600,7 +600,7 @@
    {
     "keyword": "attorney gary in",
     "slug": "attorney-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-gary-in/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -615,7 +615,7 @@
    {
     "keyword": "nail salon gary in",
     "slug": "nail-salon-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-gary-in/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -630,7 +630,7 @@
    {
     "keyword": "lawyer gary in",
     "slug": "lawyer-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-gary-in/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -645,7 +645,7 @@
    {
     "keyword": "tax preparer gary in",
     "slug": "tax-preparer-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-gary-in/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agency gary in",
     "slug": "insurance-agency-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-gary-in/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -675,7 +675,7 @@
    {
     "keyword": "auto body shop gary in",
     "slug": "auto-body-shop-gary-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-gary-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-gary-in/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,

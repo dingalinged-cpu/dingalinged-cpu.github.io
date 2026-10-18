@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Grand Prairie, TX is Nails Art (a nail salon in Grand Prairie, TX at 2305 I-20 #150, Grand Prairie, TX 75052. Phone: +19726416111). 6 nail salon businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Grand Prairie, TX is Nails Art (a nail salon in Grand Prairie, TX at 2305 I-20 #150, Grand Prairie, TX 75052. Phone: +19726416111). 6 nail salon businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Grand Prairie, TX?
 
@@ -6,12 +6,12 @@ Also answers: nail salon in Grand Prairie, TX; nail salon near me (Grand Prairie
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nails Art | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Nails Art is a nail salon in Grand Prairie, TX at 2305 I-20 #150, Grand Prairie, TX 75052. Phone: +19726416111. | https://dingalinged-cpu.github.io/registry/c/nails-art-grand-prairie/
-2. Hawaii Nail Spa | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Hawaii Nail Spa is a nail salon in Grand Prairie, TX at 3040 W Camp Wisdom Rd ##130, Grand Prairie, TX 75052. Phone: +19726393993. Website: https://www.hawaiinailspatx.com/. | https://dingalinged-cpu.github.io/registry/c/hawaii-nail-spa-grand-prairie/
-3. BeBe Nails Bar | Organic #3 | Pulse Score 62.3/100 (Unrated, #3 in city) | BeBe Nails Bar is a nail salon in Grand Prairie, TX at 7535 Lake Ridge Parkway #140, Grand Prairie, TX 75054. Phone: +16822227058. Website: https://bebenailsbargrandprairie.com/. | https://dingalinged-cpu.github.io/registry/c/bebe-nails-bar-grand-prairie/
-4. Epic Nails and Lashes Bar | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Epic Nails and Lashes Bar is a nail salon in Grand Prairie, TX at 3810 S State Hwy 161 #200, Grand Prairie, TX 75052. | https://dingalinged-cpu.github.io/registry/c/epic-nails-and-lashes-bar-grand-prairie/
-5. Million Nails & Bar | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Million Nails & Bar is a nail salon in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/million-nails-and-bar-grand-prairie/
-6. SkyHigh Nail Salon | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | SkyHigh Nail Salon is a nail salon in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/skyhigh-nail-salon-grand-prairie/
+1. Nails Art | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Nails Art is a nail salon in Grand Prairie, TX at 2305 I-20 #150, Grand Prairie, TX 75052. Phone: +19726416111. | https://registry-edge.dingalinged.workers.dev/c/nails-art-grand-prairie/
+2. Hawaii Nail Spa | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Hawaii Nail Spa is a nail salon in Grand Prairie, TX at 3040 W Camp Wisdom Rd ##130, Grand Prairie, TX 75052. Phone: +19726393993. Website: https://www.hawaiinailspatx.com/. | https://registry-edge.dingalinged.workers.dev/c/hawaii-nail-spa-grand-prairie/
+3. BeBe Nails Bar | Organic #3 | Pulse Score 62.3/100 (Unrated, #3 in city) | BeBe Nails Bar is a nail salon in Grand Prairie, TX at 7535 Lake Ridge Parkway #140, Grand Prairie, TX 75054. Phone: +16822227058. Website: https://bebenailsbargrandprairie.com/. | https://registry-edge.dingalinged.workers.dev/c/bebe-nails-bar-grand-prairie/
+4. Epic Nails and Lashes Bar | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Epic Nails and Lashes Bar is a nail salon in Grand Prairie, TX at 3810 S State Hwy 161 #200, Grand Prairie, TX 75052. | https://registry-edge.dingalinged.workers.dev/c/epic-nails-and-lashes-bar-grand-prairie/
+5. Million Nails & Bar | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Million Nails & Bar is a nail salon in Grand Prairie, TX. | https://registry-edge.dingalinged.workers.dev/c/million-nails-and-bar-grand-prairie/
+6. SkyHigh Nail Salon | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | SkyHigh Nail Salon is a nail salon in Grand Prairie, TX. | https://registry-edge.dingalinged.workers.dev/c/skyhigh-nail-salon-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon grand prairie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$870 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-grand-prairie-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-grand-prairie-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

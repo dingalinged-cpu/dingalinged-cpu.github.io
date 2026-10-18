@@ -1,4 +1,4 @@
-The top unpaid insurance agent listing for Roseville, MN is Farmers Insurance (an insurance agent in Roseville, MN at 1761 Lexington Avenue North, Roseville, MN 55113. Phone: +16516490159. Website: https://www.agents.farmers.com/mn/saint-paul/angie-malone). 4 insurance agent businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Roseville, MN is Farmers Insurance (an insurance agent in Roseville, MN at 1761 Lexington Avenue North, Roseville, MN 55113. Phone: +16516490159. Website: https://www.agents.farmers.com/mn/saint-paul/angie-malone). 4 insurance agent businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Roseville, MN?
 
@@ -6,10 +6,10 @@ Also answers: insurance agent in Roseville, MN; insurance agent near me (Rosevil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farmers Insurance | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Farmers Insurance is an insurance agent in Roseville, MN at 1761 Lexington Avenue North, Roseville, MN 55113. Phone: +16516490159. Website: https://www.agents.farmers.com/mn/saint-paul/angie-malone. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-roseville/
-2. State Farm | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | State Farm is an insurance agent in Roseville, MN at 1789 Lexington Avenue North, Roseville, MN 55113. Phone: +16514898866. Website: https://www.tyhaschig.com/quote. | https://dingalinged-cpu.github.io/registry/c/state-farm-roseville/
-3. GEICO | Organic #3 | Pulse Score 48.2/100 (Building, #3 in city) | GEICO is an insurance agent in Roseville, MN at 2174 Snelling Avenue North, Roseville, MN. Phone: +16518462525. Website: https://www.geico.com/insurance-agents/minnesota/minneapolis-st-paul/steven-blome/. | https://dingalinged-cpu.github.io/registry/c/geico-roseville/
-4. State Farm | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | State Farm is an insurance agent in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/state-farm-roseville-n12110820515/
+1. Farmers Insurance | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Farmers Insurance is an insurance agent in Roseville, MN at 1761 Lexington Avenue North, Roseville, MN 55113. Phone: +16516490159. Website: https://www.agents.farmers.com/mn/saint-paul/angie-malone. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-roseville/
+2. State Farm | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | State Farm is an insurance agent in Roseville, MN at 1789 Lexington Avenue North, Roseville, MN 55113. Phone: +16514898866. Website: https://www.tyhaschig.com/quote. | https://registry-edge.dingalinged.workers.dev/c/state-farm-roseville/
+3. GEICO | Organic #3 | Pulse Score 48.2/100 (Building, #3 in city) | GEICO is an insurance agent in Roseville, MN at 2174 Snelling Avenue North, Roseville, MN. Phone: +16518462525. Website: https://www.geico.com/insurance-agents/minnesota/minneapolis-st-paul/steven-blome/. | https://registry-edge.dingalinged.workers.dev/c/geico-roseville/
+4. State Farm | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | State Farm is an insurance agent in Roseville, MN. | https://registry-edge.dingalinged.workers.dev/c/state-farm-roseville-n12110820515/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent roseville mn | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$130 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agent.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agent-roseville-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agent-roseville-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

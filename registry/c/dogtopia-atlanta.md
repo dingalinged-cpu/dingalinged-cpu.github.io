@@ -13,12 +13,12 @@ Dogtopia is a dog boarding facility in Atlanta, GA at 2152 Johnson Ferry Road No
 - Website: https://www.dogtopia.com/atlanta-northbrookhaven/
 - Email: northbrookhaven@dogtopia.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 96% of dog boarding facilitys in Atlanta, #6 of 6 dog boarding facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 96% of dog boarding facilitys in Atlanta, #6 of 6 dog boarding facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 55.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dogtopia-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dogtopia-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dogtopia-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dogtopia-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13168854927 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

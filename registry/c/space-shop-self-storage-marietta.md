@@ -13,12 +13,12 @@ Space Shop Self Storage is a self-storage facility in Marietta, GA at 2925 Gordy
 - Website: https://www.spaceshopselfstorage.com/locations/georgia/marietta/space-shop-self-storage-gordy-parkway/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-18:00; Su 10:00-17:00
-- Pulse Score: 51.9/100 — Fair — top 20% of self-storage facilitys in Atlanta, #7 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.6, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.9/100 — Fair — top 20% of self-storage facilitys in Atlanta, #7 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.6, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/space-shop-self-storage-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/space-shop-self-storage-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/space-shop-self-storage-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/space-shop-self-storage-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1317440033 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

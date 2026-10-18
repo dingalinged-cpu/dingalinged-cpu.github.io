@@ -2,18 +2,18 @@ Keyword market for Ralston, NE: 2 service keywords with search volume, CPC and s
 
 # Top keywords in Ralston, NE
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
 
 ## By monthly searches
-1. dentist ralston ne | searches/mo 5,400 (est) | CPC $4.70 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-ralston-ne/
-2. locksmith ralston ne | searches/mo 730 (est) | CPC $8.33 | value $6,100 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-ralston-ne/
+1. dentist ralston ne | searches/mo 5,400 (est) | CPC $4.70 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-ralston-ne/
+2. locksmith ralston ne | searches/mo 730 (est) | CPC $8.33 | value $6,100 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-ralston-ne/
 
 ## By CPC
-1. locksmith ralston ne | searches/mo 730 (est) | CPC $8.33 | value $6,100 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-ralston-ne/
-2. dentist ralston ne | searches/mo 5,400 (est) | CPC $4.70 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-ralston-ne/
+1. locksmith ralston ne | searches/mo 730 (est) | CPC $8.33 | value $6,100 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-ralston-ne/
+2. dentist ralston ne | searches/mo 5,400 (est) | CPC $4.70 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-ralston-ne/
 
 ## By value (searches x CPC)
-1. dentist ralston ne | searches/mo 5,400 (est) | CPC $4.70 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $100/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/dentist-ralston-ne/
-2. locksmith ralston ne | searches/mo 730 (est) | CPC $8.33 | value $6,100 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/locksmith-ralston-ne/
+1. dentist ralston ne | searches/mo 5,400 (est) | CPC $4.70 | value $25,000 | Google Ads equiv $1,400/mo | our featured min $100/mo | registry competitors 3 | https://registry-edge.dingalinged.workers.dev/k/dentist-ralston-ne/
+2. locksmith ralston ne | searches/mo 730 (est) | CPC $8.33 | value $6,100 | Google Ads equiv $390/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/locksmith-ralston-ne/
 
-All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

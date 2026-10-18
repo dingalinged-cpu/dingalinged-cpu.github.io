@@ -13,12 +13,12 @@ Fairview Wines & Spirits is a liquor store in Roseville, MN at 2579 Fairview Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 57% of liquor stores in Minneapolis–St. Paul, #2 of 4 liquor stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 45.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 57% of liquor stores in Minneapolis–St. Paul, #2 of 4 liquor stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 45.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fairview-wines-and-spirits-roseville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fairview-wines-and-spirits-roseville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fairview-wines-and-spirits-roseville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fairview-wines-and-spirits-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1615043682 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

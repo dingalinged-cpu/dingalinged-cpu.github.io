@@ -13,12 +13,12 @@ Wet Nose is a pet store in Oak Brook, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 39% of pet stores in Chicago, #1 of 1 pet stores in Oak Brook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 38.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 39% of pet stores in Chicago, #1 of 1 pet stores in Oak Brook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 38.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/wet-nose-oak-brook/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wet-nose-oak-brook.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wet-nose-oak-brook/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wet-nose-oak-brook.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6336532331 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

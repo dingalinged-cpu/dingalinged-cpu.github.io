@@ -13,12 +13,12 @@ Powerbikes.com is a bike shop in Saint Louis Park, MN at 5500 36th Street West, 
 - Website: https://powerbikes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 55% of bike shops in Minneapolis–St. Paul, #3 of 3 bike shops in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 55% of bike shops in Minneapolis–St. Paul, #3 of 3 bike shops in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/powerbikes-com-saint-louis-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/powerbikes-com-saint-louis-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/powerbikes-com-saint-louis-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/powerbikes-com-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1041798644 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

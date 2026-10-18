@@ -2,7 +2,7 @@
  "title": "Keyword market data: Raleigh, NC",
  "description": "Top Raleigh, NC service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Raleigh, NC",
  "geography": "Raleigh-Cary, NC metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage raleigh nc",
     "slug": "massage-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-raleigh-nc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care raleigh nc",
     "slug": "urgent-care-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-raleigh-nc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist raleigh nc",
     "slug": "dentist-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-raleigh-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym raleigh nc",
     "slug": "gym-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-raleigh-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash raleigh nc",
     "slug": "car-wash-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-raleigh-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change raleigh nc",
     "slug": "oil-change-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-raleigh-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon raleigh nc",
     "slug": "hair-salon-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-raleigh-nc",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon raleigh nc",
     "slug": "nail-salon-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-raleigh-nc",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes raleigh nc",
     "slug": "car-insurance-quotes-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-raleigh-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber raleigh nc",
     "slug": "plumber-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-raleigh-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments raleigh nc",
     "slug": "apartments-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-raleigh-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance raleigh nc",
     "slug": "auto-insurance-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-raleigh-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop raleigh nc",
     "slug": "barber-shop-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-raleigh-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage raleigh nc",
     "slug": "lymphatic-drainage-massage-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-raleigh-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic raleigh nc",
     "slug": "mechanic-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-raleigh-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer raleigh nc",
     "slug": "personal-injury-lawyer-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-raleigh-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber raleigh nc",
     "slug": "emergency-plumber-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-raleigh-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair raleigh nc",
     "slug": "hvac-repair-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-raleigh-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair raleigh nc",
     "slug": "ac-repair-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-raleigh-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement raleigh nc",
     "slug": "roof-replacement-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-raleigh-nc",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair raleigh nc",
     "slug": "roof-repair-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-raleigh-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast raleigh nc",
     "slug": "sell-my-house-fast-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-raleigh-nc",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 46.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services raleigh nc",
     "slug": "plumbing-services-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-raleigh-nc",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining raleigh nc",
     "slug": "deck-staining-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-raleigh-nc",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 85.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters raleigh nc",
     "slug": "exterior-house-painters-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-raleigh-nc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 56.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters raleigh nc",
     "slug": "interior-painters-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-raleigh-nc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 56.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters raleigh nc",
     "slug": "painters-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-raleigh-nc",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company raleigh nc",
     "slug": "moving-company-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-raleigh-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney raleigh nc",
     "slug": "criminal-defense-attorney-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-raleigh-nc",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer raleigh nc",
     "slug": "dui-defense-lawyer-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-raleigh-nc",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 17.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage raleigh nc",
     "slug": "massage-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-raleigh-nc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care raleigh nc",
     "slug": "urgent-care-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-raleigh-nc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer raleigh nc",
     "slug": "personal-injury-lawyer-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-raleigh-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber raleigh nc",
     "slug": "plumber-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-raleigh-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist raleigh nc",
     "slug": "dentist-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-raleigh-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash raleigh nc",
     "slug": "car-wash-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-raleigh-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change raleigh nc",
     "slug": "oil-change-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-raleigh-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair raleigh nc",
     "slug": "ac-repair-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-raleigh-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer raleigh nc",
     "slug": "car-accident-lawyer-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-raleigh-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym raleigh nc",
     "slug": "gym-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-raleigh-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage raleigh nc",
     "slug": "lymphatic-drainage-massage-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-raleigh-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -630,7 +630,7 @@
    {
     "keyword": "car insurance quotes raleigh nc",
     "slug": "car-insurance-quotes-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-raleigh-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -645,7 +645,7 @@
    {
     "keyword": "electrician raleigh nc",
     "slug": "electrician-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-raleigh-nc",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -660,7 +660,7 @@
    {
     "keyword": "mechanic raleigh nc",
     "slug": "mechanic-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-raleigh-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement raleigh nc",
     "slug": "water-heater-replacement-raleigh-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-raleigh-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-raleigh-nc",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

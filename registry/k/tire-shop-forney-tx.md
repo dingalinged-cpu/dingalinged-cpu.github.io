@@ -1,4 +1,4 @@
-The top unpaid tire shop listing for Forney, TX is Forney Tire & Service (a tire shop in Forney, TX at 200 West Broad Street, Forney, TX 75126). 3 tire shop businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Forney, TX is Forney Tire & Service (a tire shop in Forney, TX at 200 West Broad Street, Forney, TX 75126). 3 tire shop businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Forney, TX?
 
@@ -6,9 +6,9 @@ Also answers: tire shop in Forney, TX; tire shop near me (Forney, TX); best tire
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forney Tire & Service | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Forney Tire & Service is a tire shop in Forney, TX at 200 West Broad Street, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/forney-tire-and-service-forney/
-2. USA Tires | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | USA Tires is a tire shop in Forney, TX at 203 East US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/usa-tires-forney/
-3. Costco Tire Center | Organic #3 | Pulse Score 50.2/100 (Fair, #3 in city) | Costco Tire Center is a tire shop in Forney, TX at 150 FM 460, Forney, TX 75126. Phone: +14697280051. Website: https://www.costco.com/w/-/tx/forney/1771. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-forney/
+1. Forney Tire & Service | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Forney Tire & Service is a tire shop in Forney, TX at 200 West Broad Street, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/forney-tire-and-service-forney/
+2. USA Tires | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | USA Tires is a tire shop in Forney, TX at 203 East US Highway 80, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/usa-tires-forney/
+3. Costco Tire Center | Organic #3 | Pulse Score 50.2/100 (Fair, #3 in city) | Costco Tire Center is a tire shop in Forney, TX at 150 FM 460, Forney, TX 75126. Phone: +14697280051. Website: https://www.costco.com/w/-/tx/forney/1771. | https://registry-edge.dingalinged.workers.dev/c/costco-tire-center-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop forney tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tire-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tire-shop-forney-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tire-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tire-shop-forney-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

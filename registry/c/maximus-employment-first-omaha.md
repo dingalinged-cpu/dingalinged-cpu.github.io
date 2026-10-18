@@ -13,12 +13,12 @@ MAXIMUS Employment First is a staffing agency in Omaha, NE at 1941 South 42nd St
 - Website: https://maximus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 75% of staffing agencys in Omaha, NE, #3 of 4 staffing agencys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 75% of staffing agencys in Omaha, NE, #3 of 4 staffing agencys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/maximus-employment-first-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/maximus-employment-first-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/maximus-employment-first-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/maximus-employment-first-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7543028026 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

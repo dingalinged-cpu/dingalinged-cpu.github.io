@@ -13,12 +13,12 @@ ABRA Auto Body & Glass is an auto repair shop in Skokie, IL at 5050 West Dempste
 - Website: https://www.abraauto.com/abra-auto-location/auto-body-and-glass-repair-shop-skokie-il/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Chicago, #13 of 16 auto repair shops in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 67% of auto repair shops in Chicago, #13 of 16 auto repair shops in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/abra-auto-body-and-glass-skokie/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/abra-auto-body-and-glass-skokie.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/abra-auto-body-and-glass-skokie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/abra-auto-body-and-glass-skokie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/206476674 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

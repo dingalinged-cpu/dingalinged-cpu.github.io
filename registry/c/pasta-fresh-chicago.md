@@ -13,12 +13,12 @@ Pasta Fresh is a bakery in Chicago, IL at 3418 North Harlem Avenue, Chicago, IL 
 - Website: https://www.pastafreshco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 14% of bakerys in Chicago, #42 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 14% of bakerys in Chicago, #42 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 55.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/pasta-fresh-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pasta-fresh-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pasta-fresh-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pasta-fresh-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/163294136 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

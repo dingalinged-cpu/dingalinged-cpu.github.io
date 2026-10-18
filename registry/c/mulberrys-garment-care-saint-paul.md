@@ -13,12 +13,12 @@ Mulberrys Garment Care is a dry cleaner in Saint Paul, MN at 978 Grand Avenue, S
 - Website: https://www.mulberryscleaners.com/store/st-paul/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 13% of dry cleaners in Minneapolis–St. Paul, #2 of 8 dry cleaners in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 13% of dry cleaners in Minneapolis–St. Paul, #2 of 8 dry cleaners in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mulberrys-garment-care-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mulberrys-garment-care-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mulberrys-garment-care-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mulberrys-garment-care-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1313773946 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

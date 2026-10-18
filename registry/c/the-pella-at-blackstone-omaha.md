@@ -13,12 +13,12 @@ The Pella At Blackstone is an event venue in Omaha, NE at 303 South 41st Street,
 - Website: https://thepellaatblackstone.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 10% of event venues in Omaha, NE, #2 of 13 event venues in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 10% of event venues in Omaha, NE, #2 of 13 event venues in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-pella-at-blackstone-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-pella-at-blackstone-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-pella-at-blackstone-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-pella-at-blackstone-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/807012235 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Christian Brothers Automotive is an auto repair shop in Marietta, GA at 2739 Del
 - Website: https://www.cbac.com/east-cobb/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 51.2/100 — Fair — top 65% of auto repair shops in Atlanta, #55 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 65% of auto repair shops in Atlanta, #55 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 64.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/christian-brothers-automotive-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/christian-brothers-automotive-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/284051610 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

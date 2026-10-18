@@ -13,12 +13,12 @@ Big Apple Nail & Spa 1 is a nail salon in Woodstock, GA at 2068 Eagle Drive, Woo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 44% of nail salons in Atlanta, #7 of 12 nail salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 44% of nail salons in Atlanta, #7 of 12 nail salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/big-apple-nail-and-spa-1-woodstock/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/big-apple-nail-and-spa-1-woodstock.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/big-apple-nail-and-spa-1-woodstock/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/big-apple-nail-and-spa-1-woodstock.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8777944641 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Prairie Village, KS",
  "description": "Top Prairie Village, KS service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Prairie Village, KS",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 21,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist prairie village ks",
     "slug": "dentist-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-prairie-village-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym prairie village ks",
     "slug": "gym-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-prairie-village-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon prairie village ks",
     "slug": "hair-salon-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-prairie-village-ks/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon prairie village ks",
     "slug": "nail-salon-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-prairie-village-ks/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -71,7 +71,7 @@
    {
     "keyword": "dog groomer prairie village ks",
     "slug": "dog-groomer-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-prairie-village-ks/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut prairie village ks",
     "slug": "haircut-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-prairie-village-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -101,7 +101,7 @@
    {
     "keyword": "real estate agent prairie village ks",
     "slug": "real-estate-agent-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-prairie-village-ks/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -116,7 +116,7 @@
    {
     "keyword": "realtor prairie village ks",
     "slug": "realtor-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-prairie-village-ks/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -133,7 +133,7 @@
    {
     "keyword": "architect prairie village ks",
     "slug": "architect-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-prairie-village-ks/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -148,7 +148,7 @@
    {
     "keyword": "bakery prairie village ks",
     "slug": "bakery-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-prairie-village-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -163,7 +163,7 @@
    {
     "keyword": "dance studio prairie village ks",
     "slug": "dance-studio-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-prairie-village-ks/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -178,7 +178,7 @@
    {
     "keyword": "daycare prairie village ks",
     "slug": "daycare-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-prairie-village-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -193,7 +193,7 @@
    {
     "keyword": "assisted living prairie village ks",
     "slug": "assisted-living-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-prairie-village-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -208,7 +208,7 @@
    {
     "keyword": "eye doctor prairie village ks",
     "slug": "eye-doctor-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-prairie-village-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -223,7 +223,7 @@
    {
     "keyword": "physical therapy prairie village ks",
     "slug": "physical-therapy-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-prairie-village-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -238,7 +238,7 @@
    {
     "keyword": "dentist prairie village ks",
     "slug": "dentist-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-prairie-village-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -253,7 +253,7 @@
    {
     "keyword": "haircut prairie village ks",
     "slug": "haircut-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-prairie-village-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -268,7 +268,7 @@
    {
     "keyword": "waxing prairie village ks",
     "slug": "waxing-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/waxing-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/waxing-prairie-village-ks/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6200,
@@ -283,7 +283,7 @@
    {
     "keyword": "jewelry store prairie village ks",
     "slug": "jewelry-store-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-prairie-village-ks/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -298,7 +298,7 @@
    {
     "keyword": "liquor store prairie village ks",
     "slug": "liquor-store-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-prairie-village-ks/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -313,7 +313,7 @@
    {
     "keyword": "pet store prairie village ks",
     "slug": "pet-store-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-prairie-village-ks/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -328,7 +328,7 @@
    {
     "keyword": "dog groomer prairie village ks",
     "slug": "dog-groomer-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-prairie-village-ks/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -343,7 +343,7 @@
    {
     "keyword": "realtor prairie village ks",
     "slug": "realtor-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-prairie-village-ks/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -360,7 +360,7 @@
    {
     "keyword": "dentist prairie village ks",
     "slug": "dentist-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-prairie-village-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -375,7 +375,7 @@
    {
     "keyword": "gym prairie village ks",
     "slug": "gym-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-prairie-village-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -390,7 +390,7 @@
    {
     "keyword": "dog groomer prairie village ks",
     "slug": "dog-groomer-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-prairie-village-ks/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -405,7 +405,7 @@
    {
     "keyword": "haircut prairie village ks",
     "slug": "haircut-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-prairie-village-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -420,7 +420,7 @@
    {
     "keyword": "hair salon prairie village ks",
     "slug": "hair-salon-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-prairie-village-ks/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -435,7 +435,7 @@
    {
     "keyword": "real estate agent prairie village ks",
     "slug": "real-estate-agent-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-prairie-village-ks/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -450,7 +450,7 @@
    {
     "keyword": "nail salon prairie village ks",
     "slug": "nail-salon-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-prairie-village-ks/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -465,7 +465,7 @@
    {
     "keyword": "realtor prairie village ks",
     "slug": "realtor-prairie-village-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-prairie-village-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-prairie-village-ks/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,

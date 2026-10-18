@@ -1,4 +1,4 @@
-The top unpaid oil change listing for Sugar Land, TX is Firestone (an auto repair shop in Sugar Land, TX at 3815 State Highway 6 South, Sugar Land, TX 77478. Phone: +12812010725. Website: https://www.firestonecompleteautocare.com/texas/sugar-land/3815-hwy-6/). 2 oil change businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Sugar Land, TX is Firestone (an auto repair shop in Sugar Land, TX at 3815 State Highway 6 South, Sugar Land, TX 77478. Phone: +12812010725. Website: https://www.firestonecompleteautocare.com/texas/sugar-land/3815-hwy-6/). 2 oil change businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Sugar Land, TX?
 
@@ -6,8 +6,8 @@ Also answers: oil change in Sugar Land, TX; oil change near me (Sugar Land, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone | Organic #1 | Pulse Score 51/100 (Fair, #3 in city) | Firestone is an auto repair shop in Sugar Land, TX at 3815 State Highway 6 South, Sugar Land, TX 77478. Phone: +12812010725. Website: https://www.firestonecompleteautocare.com/texas/sugar-land/3815-hwy-6/. | https://dingalinged-cpu.github.io/registry/c/firestone-sugar-land/
-2. Take 5 Oil Change | Organic #2 | Pulse Score 49.1/100 (Building, #4 in city) | Take 5 Oil Change is an auto repair shop in Sugar Land, TX at 3651 State Highway 6 South, Sugar Land, TX 77478. Phone: +18503030431. Website: https://www.take5.com/locations/oil-change/texas/sugarland/30434/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sugar-land/
+1. Firestone | Organic #1 | Pulse Score 51/100 (Fair, #3 in city) | Firestone is an auto repair shop in Sugar Land, TX at 3815 State Highway 6 South, Sugar Land, TX 77478. Phone: +12812010725. Website: https://www.firestonecompleteautocare.com/texas/sugar-land/3815-hwy-6/. | https://registry-edge.dingalinged.workers.dev/c/firestone-sugar-land/
+2. Take 5 Oil Change | Organic #2 | Pulse Score 49.1/100 (Building, #4 in city) | Take 5 Oil Change is an auto repair shop in Sugar Land, TX at 3651 State Highway 6 South, Sugar Land, TX 77478. Phone: +18503030431. Website: https://www.take5.com/locations/oil-change/texas/sugarland/30434/. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change sugar land tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$10,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/oil-change.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-sugar-land-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/oil-change.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-sugar-land-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

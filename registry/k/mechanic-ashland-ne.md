@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for Ashland, NE is AGC Repair & Welding LLC (an auto repair shop in Ashland, NE at 580 Ashland Road, Ashland, NE 68003. Phone: +14025219519. Website: https://agcrepair.com/). 2 mechanic businesses are listed for Ashland, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Ashland, NE is AGC Repair & Welding LLC (an auto repair shop in Ashland, NE at 580 Ashland Road, Ashland, NE 68003. Phone: +14025219519. Website: https://agcrepair.com/). 2 mechanic businesses are listed for Ashland, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Ashland, NE?
 
@@ -6,8 +6,8 @@ Also answers: mechanic in Ashland, NE; mechanic near me (Ashland, NE); best mech
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AGC Repair & Welding LLC | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | AGC Repair & Welding LLC is an auto repair shop in Ashland, NE at 580 Ashland Road, Ashland, NE 68003. Phone: +14025219519. Website: https://agcrepair.com/. | https://dingalinged-cpu.github.io/registry/c/agc-repair-and-welding-llc-ashland/
-2. Ashland Auto Service & Repair | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Ashland Auto Service & Repair is an auto repair shop in Ashland, NE at 1309 Silver Street, Ashland, NE 68003. Phone: +14029446044. | https://dingalinged-cpu.github.io/registry/c/ashland-auto-service-and-repair-ashland/
+1. AGC Repair & Welding LLC | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | AGC Repair & Welding LLC is an auto repair shop in Ashland, NE at 580 Ashland Road, Ashland, NE 68003. Phone: +14025219519. Website: https://agcrepair.com/. | https://registry-edge.dingalinged.workers.dev/c/agc-repair-and-welding-llc-ashland/
+2. Ashland Auto Service & Repair | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Ashland Auto Service & Repair is an auto repair shop in Ashland, NE at 1309 Silver Street, Ashland, NE 68003. Phone: +14029446044. | https://registry-edge.dingalinged.workers.dev/c/ashland-auto-service-and-repair-ashland/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic ashland ne | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$480 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mechanic.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-ashland-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-ashland-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

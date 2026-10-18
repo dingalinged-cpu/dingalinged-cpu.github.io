@@ -13,12 +13,12 @@ Stay Cool Heating And Cooling is a HVAC contractor in Roswell, GA at 1235 Heming
 - Website: https://www.staycoolga.com/
 - Email: staycoolga@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 60% of HVAC contractors in Atlanta, #1 of 1 HVAC contractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 60% of HVAC contractors in Atlanta, #1 of 1 HVAC contractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/stay-cool-heating-and-cooling-roswell/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/stay-cool-heating-and-cooling-roswell.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stay-cool-heating-and-cooling-roswell/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stay-cool-heating-and-cooling-roswell.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5767356237 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

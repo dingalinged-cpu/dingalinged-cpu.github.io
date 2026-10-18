@@ -2,7 +2,7 @@
  "title": "Keyword market data: Riverside, MO",
  "description": "Top Riverside, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Riverside, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 7,
@@ -11,7 +11,7 @@
    {
     "keyword": "hair salon riverside mo",
     "slug": "hair-salon-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-riverside-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -26,7 +26,7 @@
    {
     "keyword": "vet riverside mo",
     "slug": "vet-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-riverside-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -41,7 +41,7 @@
    {
     "keyword": "haircut riverside mo",
     "slug": "haircut-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-riverside-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -58,7 +58,7 @@
    {
     "keyword": "bakery riverside mo",
     "slug": "bakery-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-riverside-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -73,7 +73,7 @@
    {
     "keyword": "dance studio riverside mo",
     "slug": "dance-studio-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-riverside-mo/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -88,7 +88,7 @@
    {
     "keyword": "preschool riverside mo",
     "slug": "preschool-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-riverside-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -103,7 +103,7 @@
    {
     "keyword": "haircut riverside mo",
     "slug": "haircut-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-riverside-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -118,7 +118,7 @@
    {
     "keyword": "tattoo shop riverside mo",
     "slug": "tattoo-shop-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tattoo-shop-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-riverside-mo/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6200,
@@ -133,7 +133,7 @@
    {
     "keyword": "vet riverside mo",
     "slug": "vet-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-riverside-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -148,7 +148,7 @@
    {
     "keyword": "hair salon riverside mo",
     "slug": "hair-salon-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-riverside-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -165,7 +165,7 @@
    {
     "keyword": "vet riverside mo",
     "slug": "vet-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-riverside-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -180,7 +180,7 @@
    {
     "keyword": "haircut riverside mo",
     "slug": "haircut-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-riverside-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -195,7 +195,7 @@
    {
     "keyword": "hair salon riverside mo",
     "slug": "hair-salon-riverside-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-riverside-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-riverside-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,

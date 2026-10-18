@@ -2,7 +2,7 @@
  "title": "Keyword market data: Pantego, TX",
  "description": "Top Pantego, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Pantego, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 11,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage pantego tx",
     "slug": "massage-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-pantego-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon pantego tx",
     "slug": "hair-salon-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-pantego-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic pantego tx",
     "slug": "mechanic-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pantego-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -56,7 +56,7 @@
    {
     "keyword": "haircut pantego tx",
     "slug": "haircut-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-pantego-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -71,7 +71,7 @@
    {
     "keyword": "auto repair pantego tx",
     "slug": "auto-repair-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pantego-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -86,7 +86,7 @@
    {
     "keyword": "real estate agent pantego tx",
     "slug": "real-estate-agent-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pantego-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -101,7 +101,7 @@
    {
     "keyword": "realtor pantego tx",
     "slug": "realtor-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-pantego-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -118,7 +118,7 @@
    {
     "keyword": "haircut pantego tx",
     "slug": "haircut-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-pantego-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -133,7 +133,7 @@
    {
     "keyword": "massage pantego tx",
     "slug": "massage-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-pantego-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -148,7 +148,7 @@
    {
     "keyword": "auto repair pantego tx",
     "slug": "auto-repair-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pantego-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -163,7 +163,7 @@
    {
     "keyword": "mechanic pantego tx",
     "slug": "mechanic-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pantego-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -178,7 +178,7 @@
    {
     "keyword": "thrift store pantego tx",
     "slug": "thrift-store-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-pantego-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -193,7 +193,7 @@
    {
     "keyword": "realtor pantego tx",
     "slug": "realtor-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-pantego-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -208,7 +208,7 @@
    {
     "keyword": "real estate agent pantego tx",
     "slug": "real-estate-agent-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pantego-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -223,7 +223,7 @@
    {
     "keyword": "marketing agency pantego tx",
     "slug": "marketing-agency-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/marketing-agency-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/marketing-agency-pantego-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -238,7 +238,7 @@
    {
     "keyword": "shoe repair pantego tx",
     "slug": "shoe-repair-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/shoe-repair-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/shoe-repair-pantego-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -253,7 +253,7 @@
    {
     "keyword": "tailor pantego tx",
     "slug": "tailor-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tailor-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tailor-pantego-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -268,7 +268,7 @@
    {
     "keyword": "hair salon pantego tx",
     "slug": "hair-salon-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-pantego-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -285,7 +285,7 @@
    {
     "keyword": "massage pantego tx",
     "slug": "massage-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-pantego-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -300,7 +300,7 @@
    {
     "keyword": "mechanic pantego tx",
     "slug": "mechanic-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pantego-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -315,7 +315,7 @@
    {
     "keyword": "haircut pantego tx",
     "slug": "haircut-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-pantego-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -330,7 +330,7 @@
    {
     "keyword": "auto repair pantego tx",
     "slug": "auto-repair-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pantego-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -345,7 +345,7 @@
    {
     "keyword": "hair salon pantego tx",
     "slug": "hair-salon-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-pantego-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -360,7 +360,7 @@
    {
     "keyword": "real estate agent pantego tx",
     "slug": "real-estate-agent-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-pantego-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -375,7 +375,7 @@
    {
     "keyword": "realtor pantego tx",
     "slug": "realtor-pantego-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-pantego-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-pantego-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,

@@ -13,12 +13,12 @@ General Office Products Company is a furniture store in Saint Louis Park, MN at 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 43% of furniture stores in Minneapolis–St. Paul, #7 of 8 furniture stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 43% of furniture stores in Minneapolis–St. Paul, #7 of 8 furniture stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 46.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/general-office-products-company-saint-louis-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/general-office-products-company-saint-louis-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/general-office-products-company-saint-louis-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/general-office-products-company-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/47199097 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

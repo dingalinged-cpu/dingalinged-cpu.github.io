@@ -13,12 +13,12 @@ Law Offices of George Andrews & Associates is a lawyer in Palos Hills, IL at 976
 - Website: https://lawofficesofgeorgeandrews.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Chicago, #1 of 1 lawyers in Palos Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Chicago, #1 of 1 lawyers in Palos Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/law-offices-of-george-andrews-and-associates-palos-hills/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-offices-of-george-andrews-and-associates-palos-hills.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/law-offices-of-george-andrews-and-associates-palos-hills/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/law-offices-of-george-andrews-and-associates-palos-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9843829032 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

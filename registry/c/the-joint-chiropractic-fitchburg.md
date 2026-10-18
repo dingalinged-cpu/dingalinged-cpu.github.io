@@ -13,12 +13,12 @@ The Joint Chiropractic is a chiropractor in Fitchburg, WI at 6317 McKee Road #40
 - Website: https://www.thejoint.com/wisconsin/fitchburg/madison-fitchburg-30003
 - Email: info@thejoint.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa-Su 10:00-16:00
-- Pulse Score: 49.6/100 — Building — top 85% of chiropractors in Madison, #3 of 3 chiropractors in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 85% of chiropractors in Madison, #3 of 3 chiropractors in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-fitchburg/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-fitchburg.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-fitchburg/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-joint-chiropractic-fitchburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4237990293 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

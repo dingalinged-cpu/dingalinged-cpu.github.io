@@ -2,7 +2,7 @@
  "title": "Keyword market data: Acworth, GA",
  "description": "Top Acworth, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Acworth, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 42,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage acworth ga",
     "slug": "massage-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-acworth-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash acworth ga",
     "slug": "car-wash-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-acworth-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist acworth ga",
     "slug": "dentist-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-acworth-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon acworth ga",
     "slug": "hair-salon-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-acworth-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon acworth ga",
     "slug": "nail-salon-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-acworth-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic acworth ga",
     "slug": "mechanic-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-acworth-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop acworth ga",
     "slug": "tire-shop-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-acworth-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "vet acworth ga",
     "slug": "vet-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-acworth-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "haircut acworth ga",
     "slug": "haircut-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-acworth-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -146,7 +146,7 @@
    {
     "keyword": "auto repair acworth ga",
     "slug": "auto-repair-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-acworth-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -161,7 +161,7 @@
    {
     "keyword": "chiropractor acworth ga",
     "slug": "chiropractor-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-acworth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -176,7 +176,7 @@
    {
     "keyword": "dog boarding acworth ga",
     "slug": "dog-boarding-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-acworth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -191,7 +191,7 @@
    {
     "keyword": "financial advisor acworth ga",
     "slug": "financial-advisor-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-acworth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -206,7 +206,7 @@
    {
     "keyword": "real estate agent acworth ga",
     "slug": "real-estate-agent-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-acworth-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -221,7 +221,7 @@
    {
     "keyword": "roofing contractor acworth ga",
     "slug": "roofing-contractor-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-acworth-ga/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair acworth ga",
     "slug": "hvac-repair-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-acworth-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofing contractor acworth ga",
     "slug": "roofing-contractor-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-acworth-ga/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofer acworth ga",
     "slug": "roofer-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-acworth-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -283,7 +283,7 @@
    {
     "keyword": "attorney acworth ga",
     "slug": "attorney-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-acworth-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -298,7 +298,7 @@
    {
     "keyword": "lawyer acworth ga",
     "slug": "lawyer-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-acworth-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -313,7 +313,7 @@
    {
     "keyword": "heating and air acworth ga",
     "slug": "heating-and-air-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-acworth-ga/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 68.0,
@@ -328,7 +328,7 @@
    {
     "keyword": "storage units acworth ga",
     "slug": "storage-units-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-acworth-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -343,7 +343,7 @@
    {
     "keyword": "event venues acworth ga",
     "slug": "event-venues-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-acworth-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -358,7 +358,7 @@
    {
     "keyword": "dance studio acworth ga",
     "slug": "dance-studio-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-acworth-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -373,7 +373,7 @@
    {
     "keyword": "martial arts acworth ga",
     "slug": "martial-arts-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-acworth-ga/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5700,
@@ -388,7 +388,7 @@
    {
     "keyword": "tax preparer acworth ga",
     "slug": "tax-preparer-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-acworth-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -403,7 +403,7 @@
    {
     "keyword": "preschool acworth ga",
     "slug": "preschool-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-acworth-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -418,7 +418,7 @@
    {
     "keyword": "chiropractor acworth ga",
     "slug": "chiropractor-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-acworth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -433,7 +433,7 @@
    {
     "keyword": "family doctor acworth ga",
     "slug": "family-doctor-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-acworth-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -448,7 +448,7 @@
    {
     "keyword": "orthopedic surgeon acworth ga",
     "slug": "orthopedic-surgeon-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/orthopedic-surgeon-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-acworth-ga/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 630,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage acworth ga",
     "slug": "massage-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-acworth-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist acworth ga",
     "slug": "dentist-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-acworth-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash acworth ga",
     "slug": "car-wash-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-acworth-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic acworth ga",
     "slug": "mechanic-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-acworth-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop acworth ga",
     "slug": "tire-shop-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-acworth-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet acworth ga",
     "slug": "vet-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-acworth-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut acworth ga",
     "slug": "haircut-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-acworth-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -570,7 +570,7 @@
    {
     "keyword": "roofing contractor acworth ga",
     "slug": "roofing-contractor-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-acworth-ga/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair acworth ga",
     "slug": "auto-repair-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-acworth-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -600,7 +600,7 @@
    {
     "keyword": "hvac repair acworth ga",
     "slug": "hvac-repair-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-acworth-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -615,7 +615,7 @@
    {
     "keyword": "chiropractor acworth ga",
     "slug": "chiropractor-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-acworth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -630,7 +630,7 @@
    {
     "keyword": "dog boarding acworth ga",
     "slug": "dog-boarding-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-acworth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -645,7 +645,7 @@
    {
     "keyword": "financial advisor acworth ga",
     "slug": "financial-advisor-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-acworth-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -660,7 +660,7 @@
    {
     "keyword": "hair salon acworth ga",
     "slug": "hair-salon-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-acworth-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -675,7 +675,7 @@
    {
     "keyword": "attorney acworth ga",
     "slug": "attorney-acworth-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-acworth-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-acworth-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

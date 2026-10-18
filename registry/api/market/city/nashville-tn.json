@@ -2,7 +2,7 @@
  "title": "Keyword market data: Nashville, TN",
  "description": "Top Nashville, TN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Nashville, TN",
  "geography": "Nashville-Davidson--Murfreesboro--Franklin, TN metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage nashville tn",
     "slug": "massage-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-nashville-tn",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 32000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care nashville tn",
     "slug": "urgent-care-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-nashville-tn",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist nashville tn",
     "slug": "dentist-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-nashville-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym nashville tn",
     "slug": "gym-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-nashville-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash nashville tn",
     "slug": "car-wash-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-nashville-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change nashville tn",
     "slug": "oil-change-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-nashville-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon nashville tn",
     "slug": "hair-salon-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-nashville-tn",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9600,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon nashville tn",
     "slug": "nail-salon-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-nashville-tn",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6400,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes nashville tn",
     "slug": "car-insurance-quotes-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-nashville-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber nashville tn",
     "slug": "plumber-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-nashville-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments nashville tn",
     "slug": "apartments-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-nashville-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance nashville tn",
     "slug": "auto-insurance-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-nashville-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop nashville tn",
     "slug": "barber-shop-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-nashville-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage nashville tn",
     "slug": "lymphatic-drainage-massage-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-nashville-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic nashville tn",
     "slug": "mechanic-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-nashville-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer nashville tn",
     "slug": "personal-injury-lawyer-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-nashville-tn",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber nashville tn",
     "slug": "emergency-plumber-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-nashville-tn",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 480,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair nashville tn",
     "slug": "hvac-repair-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-nashville-tn",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 480,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair nashville tn",
     "slug": "ac-repair-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-nashville-tn",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement nashville tn",
     "slug": "roof-replacement-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-nashville-tn",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 210,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair nashville tn",
     "slug": "roof-repair-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-nashville-tn",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 480,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast nashville tn",
     "slug": "sell-my-house-fast-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-nashville-tn",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 64.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services nashville tn",
     "slug": "plumbing-services-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-nashville-tn",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 320,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining nashville tn",
     "slug": "deck-staining-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-nashville-tn",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters nashville tn",
     "slug": "exterior-house-painters-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-nashville-tn",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 78.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters nashville tn",
     "slug": "interior-painters-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-nashville-tn",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 78.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters nashville tn",
     "slug": "painters-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-nashville-tn",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 390,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company nashville tn",
     "slug": "moving-company-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-nashville-tn",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney nashville tn",
     "slug": "criminal-defense-attorney-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-nashville-tn",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 580,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer nashville tn",
     "slug": "dui-defense-lawyer-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-nashville-tn",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 23.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage nashville tn",
     "slug": "massage-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-nashville-tn",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 32000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care nashville tn",
     "slug": "urgent-care-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-nashville-tn",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer nashville tn",
     "slug": "personal-injury-lawyer-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-nashville-tn",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber nashville tn",
     "slug": "plumber-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-nashville-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist nashville tn",
     "slug": "dentist-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-nashville-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash nashville tn",
     "slug": "car-wash-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-nashville-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change nashville tn",
     "slug": "oil-change-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-nashville-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair nashville tn",
     "slug": "ac-repair-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-nashville-tn",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer nashville tn",
     "slug": "car-accident-lawyer-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-nashville-tn",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym nashville tn",
     "slug": "gym-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-nashville-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage nashville tn",
     "slug": "lymphatic-drainage-massage-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-nashville-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician nashville tn",
     "slug": "electrician-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-nashville-tn",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic nashville tn",
     "slug": "mechanic-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-nashville-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4300,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes nashville tn",
     "slug": "car-insurance-quotes-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-nashville-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement nashville tn",
     "slug": "water-heater-replacement-nashville-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-nashville-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-nashville-tn",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,

@@ -1,4 +1,4 @@
-The top unpaid music lessons listing for Evanston, IL is Music Institute of Chicago (a music school in Evanston, IL at 1490 Chicago Avenue, Evanston, IL 60201. Phone: +18479051500. Website: https://www.musicinst.org/). 3 music lessons businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Evanston, IL is Music Institute of Chicago (a music school in Evanston, IL at 1490 Chicago Avenue, Evanston, IL 60201. Phone: +18479051500. Website: https://www.musicinst.org/). 3 music lessons businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Evanston, IL?
 
@@ -6,9 +6,9 @@ Also answers: music lessons in Evanston, IL; music lessons near me (Evanston, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Music Institute of Chicago | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Music Institute of Chicago is a music school in Evanston, IL at 1490 Chicago Avenue, Evanston, IL 60201. Phone: +18479051500. Website: https://www.musicinst.org/. | https://dingalinged-cpu.github.io/registry/c/music-institute-of-chicago-evanston/
-2. Patrick G. and Shirley W. Ryan Center for the Musical Arts | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Patrick G. and Shirley W. Ryan Center for the Musical Arts is a music school in Evanston, IL at 70 Arts Circle Drive, Evanston, IL 60208. | https://dingalinged-cpu.github.io/registry/c/patrick-g-and-shirley-w-ryan-center-for-the-musical-arts-evanston/
-3. School of Rock | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | School of Rock is a music school in Evanston, IL at 1311 Sherman Place, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-evanston/
+1. Music Institute of Chicago | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Music Institute of Chicago is a music school in Evanston, IL at 1490 Chicago Avenue, Evanston, IL 60201. Phone: +18479051500. Website: https://www.musicinst.org/. | https://registry-edge.dingalinged.workers.dev/c/music-institute-of-chicago-evanston/
+2. Patrick G. and Shirley W. Ryan Center for the Musical Arts | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Patrick G. and Shirley W. Ryan Center for the Musical Arts is a music school in Evanston, IL at 70 Arts Circle Drive, Evanston, IL 60208. | https://registry-edge.dingalinged.workers.dev/c/patrick-g-and-shirley-w-ryan-center-for-the-musical-arts-evanston/
+3. School of Rock | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | School of Rock is a music school in Evanston, IL at 1311 Sherman Place, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/school-of-rock-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons evanston il | category: Education & childcare | industry benchmark: Education & Instruction
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/music-lessons.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#music-lessons-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/music-lessons.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#music-lessons-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

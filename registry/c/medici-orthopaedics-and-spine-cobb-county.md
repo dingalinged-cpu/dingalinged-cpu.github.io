@@ -13,12 +13,12 @@ Medici Orthopaedics & Spine is an orthopedic surgeon in Cobb County, GA at 2911 
 - Website: https://www.mediciortho.com/locations/kennesaw
 - Email: info@mediciortho.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Good — top 59% of orthopedic surgeons in Atlanta, #3 of 3 orthopedic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Good — top 59% of orthopedic surgeons in Atlanta, #3 of 3 orthopedic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 49.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/medici-orthopaedics-and-spine-cobb-county/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/medici-orthopaedics-and-spine-cobb-county.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/medici-orthopaedics-and-spine-cobb-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/medici-orthopaedics-and-spine-cobb-county.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12766893741 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

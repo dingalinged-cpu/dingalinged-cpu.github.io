@@ -13,12 +13,12 @@ Rise High Learning Academy is a daycare in Fitchburg, WI at 6200 Nesbitt Road, F
 - Website: https://risehighla.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 13% of daycares in Madison, #2 of 8 daycares in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 13% of daycares in Madison, #2 of 8 daycares in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/rise-high-learning-academy-fitchburg/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rise-high-learning-academy-fitchburg.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rise-high-learning-academy-fitchburg/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rise-high-learning-academy-fitchburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12245481159 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

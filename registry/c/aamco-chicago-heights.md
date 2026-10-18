@@ -13,12 +13,12 @@ AAMCO is an auto repair shop in Chicago Heights, IL at 1333 Hilltop Avenue #CD, 
 - Website: https://www.aamco.com/Auto-Repair-Center/IL/Chicago-Heights/Hilltop-Ave
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 61% of auto repair shops in Chicago, #1 of 3 auto repair shops in Chicago Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 61% of auto repair shops in Chicago, #1 of 3 auto repair shops in Chicago Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 56.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/aamco-chicago-heights/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/aamco-chicago-heights.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aamco-chicago-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aamco-chicago-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11438413694 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

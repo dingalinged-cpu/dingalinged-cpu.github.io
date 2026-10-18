@@ -1,4 +1,4 @@
-The top unpaid insurance agent listing for South Holland, IL is The Insurance Exchange (an insurance agent in South Holland, IL at 15459 South Park Avenue, South Holland, IL 60473. Phone: +17085978731. Website: https://www.insxchg.com/). 3 insurance agent businesses are listed for South Holland, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for South Holland, IL is The Insurance Exchange (an insurance agent in South Holland, IL at 15459 South Park Avenue, South Holland, IL 60473. Phone: +17085978731. Website: https://www.insxchg.com/). 3 insurance agent businesses are listed for South Holland, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in South Holland, IL?
 
@@ -6,9 +6,9 @@ Also answers: insurance agent in South Holland, IL; insurance agent near me (Sou
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Insurance Exchange | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | The Insurance Exchange is an insurance agent in South Holland, IL at 15459 South Park Avenue, South Holland, IL 60473. Phone: +17085978731. Website: https://www.insxchg.com/. | https://dingalinged-cpu.github.io/registry/c/the-insurance-exchange-south-holland/
-2. Seniors Insurance Choices | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Seniors Insurance Choices is an insurance agent in South Holland, IL at 16940 Ingleside Avenue, South Holland, IL 60473. Phone: +17733431978. Website: https://seniorsinsurancechoices.com/. | https://dingalinged-cpu.github.io/registry/c/seniors-insurance-choices-south-holland/
-3. Acceptance Insurance | Organic #3 | Pulse Score 45.6/100 (Unrated, #3 in city) | Acceptance Insurance is an insurance agent in South Holland, IL at 958 East 162nd Street, South Holland, IL 60473. Website: https://www.acceptanceinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/acceptance-insurance-south-holland/
+1. The Insurance Exchange | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | The Insurance Exchange is an insurance agent in South Holland, IL at 15459 South Park Avenue, South Holland, IL 60473. Phone: +17085978731. Website: https://www.insxchg.com/. | https://registry-edge.dingalinged.workers.dev/c/the-insurance-exchange-south-holland/
+2. Seniors Insurance Choices | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Seniors Insurance Choices is an insurance agent in South Holland, IL at 16940 Ingleside Avenue, South Holland, IL 60473. Phone: +17733431978. Website: https://seniorsinsurancechoices.com/. | https://registry-edge.dingalinged.workers.dev/c/seniors-insurance-choices-south-holland/
+3. Acceptance Insurance | Organic #3 | Pulse Score 45.6/100 (Unrated, #3 in city) | Acceptance Insurance is an insurance agent in South Holland, IL at 958 East 162nd Street, South Holland, IL 60473. Website: https://www.acceptanceinsurance.com/. | https://registry-edge.dingalinged.workers.dev/c/acceptance-insurance-south-holland/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent south holland il | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$310 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agent.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agent-south-holland-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agent-south-holland-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

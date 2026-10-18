@@ -13,12 +13,12 @@ Schwanke-Kasten Jewelers is a jewelry store in Milwaukee, WI at 623 North Milwau
 - Website: https://www.schwanke-kasten.com/Milwaukee-Jewelry-Store-53202-s/1910.htm
 - Email: n/a
 - Opening hours (OSM syntax): We 11:00-16:00; Tu,Th 11:00-17:30; Fr 11:00-15:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 23% of jewelry stores in Milwaukee, #10 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 23% of jewelry stores in Milwaukee, #10 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/schwanke-kasten-jewelers-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/schwanke-kasten-jewelers-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/schwanke-kasten-jewelers-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/schwanke-kasten-jewelers-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/1050559925 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

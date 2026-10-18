@@ -13,12 +13,12 @@ Ram Carpet and Flooring Services is a flooring company in Grand Prairie, TX at 8
 - Website: https://ramflooring.us/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of flooring companys in Dallas–Fort Worth, #1 of 1 flooring companys in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of flooring companys in Dallas–Fort Worth, #1 of 1 flooring companys in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ram-carpet-and-flooring-services-grand-prairie/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ram-carpet-and-flooring-services-grand-prairie.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ram-carpet-and-flooring-services-grand-prairie/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ram-carpet-and-flooring-services-grand-prairie.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12759084725 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

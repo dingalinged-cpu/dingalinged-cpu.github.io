@@ -13,12 +13,12 @@ Arbee's Liquor is a liquor store in Caledonia, WI at 4606 Douglas Avenue, Caledo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 77% of liquor stores in Milwaukee, #1 of 2 liquor stores in Caledonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 42. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 77% of liquor stores in Milwaukee, #1 of 2 liquor stores in Caledonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/arbees-liquor-caledonia/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/arbees-liquor-caledonia.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/arbees-liquor-caledonia/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/arbees-liquor-caledonia.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/700440187 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

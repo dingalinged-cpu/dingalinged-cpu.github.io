@@ -13,12 +13,12 @@ Steve's Liquors is a liquor store in Madison, WI at 3618 University Avenue, Madi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of liquor stores in Madison, #4 of 25 liquor stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of liquor stores in Madison, #4 of 25 liquor stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/steves-liquors-madison-w119939381/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/steves-liquors-madison-w119939381.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/steves-liquors-madison-w119939381/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/steves-liquors-madison-w119939381.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/119939381 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

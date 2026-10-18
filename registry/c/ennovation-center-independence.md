@@ -13,12 +13,12 @@ Ennovation Center is a coworking space in Independence, MO at 201 North Forest A
 - Website: https://www.ennovationcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 46% of coworking spaces in Kansas City, MO, #1 of 1 coworking spaces in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 46% of coworking spaces in Kansas City, MO, #1 of 1 coworking spaces in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ennovation-center-independence/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ennovation-center-independence.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ennovation-center-independence/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ennovation-center-independence.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10286971431 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

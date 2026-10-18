@@ -1,4 +1,4 @@
-The top unpaid shoe repair listing for Chicago, IL is Fix Your Kicks (a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Chicago, IL 60660. Phone: +13128603440. Website: https://fixyourkickschi.com/). 7 shoe repair businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Chicago, IL is Fix Your Kicks (a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Chicago, IL 60660. Phone: +13128603440. Website: https://fixyourkickschi.com/). 7 shoe repair businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Chicago, IL?
 
@@ -6,13 +6,13 @@ Also answers: shoe repair in Chicago, IL; shoe repair near me (Chicago, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fix Your Kicks | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Fix Your Kicks is a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Chicago, IL 60660. Phone: +13128603440. Website: https://fixyourkickschi.com/. | https://dingalinged-cpu.github.io/registry/c/fix-your-kicks-chicago/
-2. Kanellos Shoe Repair | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Kanellos Shoe Repair is a shoe repair in Chicago, IL at 6325 North Central Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/kanellos-shoe-repair-chicago/
-3. Jessy's Shoe Repair | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Jessy's Shoe Repair is a shoe repair in Chicago, IL at 2107 North Western Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/jessys-shoe-repair-chicago/
-4. Your Shoe Repair | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Your Shoe Repair is a shoe repair in Chicago, IL at 2240 West North Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/your-shoe-repair-chicago/
-5. Shoe Hospital | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Shoe Hospital is a shoe repair in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/shoe-hospital-chicago/
-6. Shoe Hospital | Organic #6 | Pulse Score 55.9/100 (Unrated, #6 in city) | Shoe Hospital is a shoe repair in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/shoe-hospital-chicago-n6071648418/
-7. Clyborn Cobbler | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Clyborn Cobbler is a shoe repair in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/clyborn-cobbler-chicago/
+1. Fix Your Kicks | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Fix Your Kicks is a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Chicago, IL 60660. Phone: +13128603440. Website: https://fixyourkickschi.com/. | https://registry-edge.dingalinged.workers.dev/c/fix-your-kicks-chicago/
+2. Kanellos Shoe Repair | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Kanellos Shoe Repair is a shoe repair in Chicago, IL at 6325 North Central Avenue, Chicago, IL 60646. | https://registry-edge.dingalinged.workers.dev/c/kanellos-shoe-repair-chicago/
+3. Jessy's Shoe Repair | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Jessy's Shoe Repair is a shoe repair in Chicago, IL at 2107 North Western Avenue, Chicago, IL 60647. | https://registry-edge.dingalinged.workers.dev/c/jessys-shoe-repair-chicago/
+4. Your Shoe Repair | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Your Shoe Repair is a shoe repair in Chicago, IL at 2240 West North Avenue, Chicago, IL 60647. | https://registry-edge.dingalinged.workers.dev/c/your-shoe-repair-chicago/
+5. Shoe Hospital | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Shoe Hospital is a shoe repair in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/shoe-hospital-chicago/
+6. Shoe Hospital | Organic #6 | Pulse Score 55.9/100 (Unrated, #6 in city) | Shoe Hospital is a shoe repair in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/shoe-hospital-chicago-n6071648418/
+7. Clyborn Cobbler | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Clyborn Cobbler is a shoe repair in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/clyborn-cobbler-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair chicago il | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$310 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/shoe-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#shoe-repair-chicago-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/shoe-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#shoe-repair-chicago-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

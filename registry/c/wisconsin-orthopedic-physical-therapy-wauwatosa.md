@@ -13,12 +13,12 @@ Wisconsin Orthopedic Physical Therapy is a physical therapy clinic in Wauwatosa,
 - Website: https://www.wiscopt.com/
 - Email: info@wiscopt.com
 - Opening hours (OSM syntax): Mo,We,Th 06:30-19:00; Tu 06:30-18:45; Fr 06:30-11:00; Sa-Su off
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 19% of physical therapy clinics in Milwaukee, #2 of 5 physical therapy clinics in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 19% of physical therapy clinics in Milwaukee, #2 of 5 physical therapy clinics in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/wisconsin-orthopedic-physical-therapy-wauwatosa/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/wisconsin-orthopedic-physical-therapy-wauwatosa.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/wisconsin-orthopedic-physical-therapy-wauwatosa/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/wisconsin-orthopedic-physical-therapy-wauwatosa.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12626224895 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

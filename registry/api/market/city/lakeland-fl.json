@@ -2,7 +2,7 @@
  "title": "Keyword market data: Lakeland, FL",
  "description": "Top Lakeland, FL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Lakeland, FL",
  "geography": "Lakeland-Winter Haven, FL metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage lakeland fl",
     "slug": "massage-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-lakeland-fl",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care lakeland fl",
     "slug": "urgent-care-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-lakeland-fl",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist lakeland fl",
     "slug": "dentist-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-lakeland-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym lakeland fl",
     "slug": "gym-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-lakeland-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash lakeland fl",
     "slug": "car-wash-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-lakeland-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change lakeland fl",
     "slug": "oil-change-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-lakeland-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon lakeland fl",
     "slug": "hair-salon-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-lakeland-fl",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon lakeland fl",
     "slug": "nail-salon-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-lakeland-fl",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes lakeland fl",
     "slug": "car-insurance-quotes-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-lakeland-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber lakeland fl",
     "slug": "plumber-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-lakeland-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments lakeland fl",
     "slug": "apartments-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-lakeland-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance lakeland fl",
     "slug": "auto-insurance-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-lakeland-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop lakeland fl",
     "slug": "barber-shop-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-lakeland-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage lakeland fl",
     "slug": "lymphatic-drainage-massage-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-lakeland-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic lakeland fl",
     "slug": "mechanic-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-lakeland-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer lakeland fl",
     "slug": "personal-injury-lawyer-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-lakeland-fl",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber lakeland fl",
     "slug": "emergency-plumber-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-lakeland-fl",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair lakeland fl",
     "slug": "hvac-repair-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-lakeland-fl",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair lakeland fl",
     "slug": "ac-repair-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-lakeland-fl",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement lakeland fl",
     "slug": "roof-replacement-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-lakeland-fl",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 85.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair lakeland fl",
     "slug": "roof-repair-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-lakeland-fl",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast lakeland fl",
     "slug": "sell-my-house-fast-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-lakeland-fl",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services lakeland fl",
     "slug": "plumbing-services-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-lakeland-fl",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining lakeland fl",
     "slug": "deck-staining-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-lakeland-fl",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 46.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters lakeland fl",
     "slug": "exterior-house-painters-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-lakeland-fl",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 31.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters lakeland fl",
     "slug": "interior-painters-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-lakeland-fl",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 31.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters lakeland fl",
     "slug": "painters-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-lakeland-fl",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company lakeland fl",
     "slug": "moving-company-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-lakeland-fl",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney lakeland fl",
     "slug": "criminal-defense-attorney-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-lakeland-fl",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer lakeland fl",
     "slug": "dui-defense-lawyer-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-lakeland-fl",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 9.2,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage lakeland fl",
     "slug": "massage-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-lakeland-fl",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care lakeland fl",
     "slug": "urgent-care-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-lakeland-fl",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer lakeland fl",
     "slug": "personal-injury-lawyer-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-lakeland-fl",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber lakeland fl",
     "slug": "plumber-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-lakeland-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist lakeland fl",
     "slug": "dentist-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-lakeland-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash lakeland fl",
     "slug": "car-wash-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-lakeland-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change lakeland fl",
     "slug": "oil-change-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-lakeland-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair lakeland fl",
     "slug": "ac-repair-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-lakeland-fl",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer lakeland fl",
     "slug": "car-accident-lawyer-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-lakeland-fl",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage lakeland fl",
     "slug": "lymphatic-drainage-massage-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-lakeland-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym lakeland fl",
     "slug": "gym-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-lakeland-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician lakeland fl",
     "slug": "electrician-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-lakeland-fl",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic lakeland fl",
     "slug": "mechanic-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-lakeland-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes lakeland fl",
     "slug": "car-insurance-quotes-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-lakeland-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments lakeland fl",
     "slug": "apartments-lakeland-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-lakeland-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-lakeland-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,

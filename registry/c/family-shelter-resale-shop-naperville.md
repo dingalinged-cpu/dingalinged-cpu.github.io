@@ -13,12 +13,12 @@ Family Shelter Resale Shop is a thrift store in Naperville, IL at 1512 Naper Bou
 - Website: https://www.metrofamily.org/the-family-shelter-service-resale-shop-in-naperville-is-re-opening-as-of-monday-august-10/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We, Fr, Sa 10:00-12:00, 13:00-16:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 12% of thrift stores in Chicago, #1 of 2 thrift stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 12% of thrift stores in Chicago, #1 of 2 thrift stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/family-shelter-resale-shop-naperville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/family-shelter-resale-shop-naperville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/family-shelter-resale-shop-naperville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/family-shelter-resale-shop-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/993474292 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

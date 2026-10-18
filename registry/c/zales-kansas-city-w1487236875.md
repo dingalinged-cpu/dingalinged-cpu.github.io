@@ -13,12 +13,12 @@ Zales is a jewelry store in Kansas City, KS at 1803 Village West Parkway #M-115,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 78% of jewelry stores in Kansas City, MO, #18 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 78% of jewelry stores in Kansas City, MO, #18 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/zales-kansas-city-w1487236875/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/zales-kansas-city-w1487236875.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/zales-kansas-city-w1487236875/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/zales-kansas-city-w1487236875.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1487236875 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

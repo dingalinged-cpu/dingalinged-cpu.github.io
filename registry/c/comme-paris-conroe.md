@@ -13,12 +13,12 @@ Comme à Paris is a tailor in Conroe, TX at 2200 Plantation Drive #412, Conroe, 
 - Website: https://www.commeaparis2.com/
 - Email: u4hfashion@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00 "by appointment only"
-- Pulse Score: 64.8/100 — Good — top 4% of tailors in Houston, #1 of 1 tailors in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 4% of tailors in Houston, #1 of 1 tailors in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/comme-paris-conroe/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/comme-paris-conroe.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/comme-paris-conroe/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/comme-paris-conroe.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13799696501 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

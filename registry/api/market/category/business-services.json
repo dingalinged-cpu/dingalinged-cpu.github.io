@@ -2,7 +2,7 @@
  "title": "Keyword market data: Business Services",
  "description": "Top Business Services keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Business Services",
  "keywords": 152,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "screen recording software",
     "slug": "screen-recording-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#screen-recording-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#screen-recording-software",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -24,7 +24,7 @@
    {
     "keyword": "video editing software",
     "slug": "video-editing-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#video-editing-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#video-editing-software",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -38,7 +38,7 @@
    {
     "keyword": "cloud accounting software",
     "slug": "cloud-accounting-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cloud-accounting-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cloud-accounting-software",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -52,7 +52,7 @@
    {
     "keyword": "knowledge base software",
     "slug": "knowledge-base-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#knowledge-base-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#knowledge-base-software",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -66,7 +66,7 @@
    {
     "keyword": "tax preparation software",
     "slug": "tax-preparation-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#tax-preparation-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#tax-preparation-software",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -80,7 +80,7 @@
    {
     "keyword": "crm software",
     "slug": "crm-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#crm-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#crm-software",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -94,7 +94,7 @@
    {
     "keyword": "antivirus software",
     "slug": "antivirus-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#antivirus-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#antivirus-software",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -108,7 +108,7 @@
    {
     "keyword": "logo design",
     "slug": "logo-design",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#logo-design",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#logo-design",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -122,7 +122,7 @@
    {
     "keyword": "project management software",
     "slug": "project-management-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#project-management-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#project-management-software",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -136,7 +136,7 @@
    {
     "keyword": "cad software",
     "slug": "cad-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cad-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cad-software",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -150,7 +150,7 @@
    {
     "keyword": "ecommerce website builder",
     "slug": "ecommerce-website-builder",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ecommerce-website-builder",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ecommerce-website-builder",
     "us_monthly_searches": 78700,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -164,7 +164,7 @@
    {
     "keyword": "erp system",
     "slug": "erp-system",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#erp-system",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#erp-system",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -178,7 +178,7 @@
    {
     "keyword": "website builder",
     "slug": "website-builder",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#website-builder",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#website-builder",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -192,7 +192,7 @@
    {
     "keyword": "website design",
     "slug": "website-design",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#website-design",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#website-design",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -206,7 +206,7 @@
    {
     "keyword": "accounting software",
     "slug": "accounting-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#accounting-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#accounting-software",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -220,7 +220,7 @@
    {
     "keyword": "bookkeepers",
     "slug": "bookkeepers",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#bookkeepers",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#bookkeepers",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -234,7 +234,7 @@
    {
     "keyword": "tax preparer",
     "slug": "tax-preparer",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -248,7 +248,7 @@
    {
     "keyword": "web design",
     "slug": "web-design",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#web-design",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#web-design",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -262,7 +262,7 @@
    {
     "keyword": "web designer",
     "slug": "web-designer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#web-designer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#web-designer",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -276,7 +276,7 @@
    {
     "keyword": "content management software",
     "slug": "content-management-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#content-management-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#content-management-software",
     "us_monthly_searches": 47500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -292,7 +292,7 @@
    {
     "keyword": "best hr software for small business",
     "slug": "best-hr-software-for-small-business",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#best-hr-software-for-small-business",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#best-hr-software-for-small-business",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -306,7 +306,7 @@
    {
     "keyword": "call answering services",
     "slug": "call-answering-services",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#call-answering-services",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#call-answering-services",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -320,7 +320,7 @@
    {
     "keyword": "cloud aws",
     "slug": "cloud-aws",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cloud-aws",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cloud-aws",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -334,7 +334,7 @@
    {
     "keyword": "cloud security solutions",
     "slug": "cloud-security-solutions",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cloud-security-solutions",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cloud-security-solutions",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -348,7 +348,7 @@
    {
     "keyword": "corporate business travel agency",
     "slug": "corporate-business-travel-agency",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#corporate-business-travel-agency",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#corporate-business-travel-agency",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -362,7 +362,7 @@
    {
     "keyword": "cpa for small businesses",
     "slug": "cpa-for-small-businesses",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cpa-for-small-businesses",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cpa-for-small-businesses",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -376,7 +376,7 @@
    {
     "keyword": "cybersecurity solutions for small business",
     "slug": "cybersecurity-solutions-for-small-business",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cybersecurity-solutions-for-small-business",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cybersecurity-solutions-for-small-business",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -390,7 +390,7 @@
    {
     "keyword": "data room",
     "slug": "data-room",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#data-room",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#data-room",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -404,7 +404,7 @@
    {
     "keyword": "employee management software for small business",
     "slug": "employee-management-software-for-small-business",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#employee-management-software-for-small-business",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#employee-management-software-for-small-business",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -418,7 +418,7 @@
    {
     "keyword": "employer of record services",
     "slug": "employer-of-record-services",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#employer-of-record-services",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#employer-of-record-services",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -432,7 +432,7 @@
    {
     "keyword": "energy software development",
     "slug": "energy-software-development",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#energy-software-development",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#energy-software-development",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -446,7 +446,7 @@
    {
     "keyword": "erp software",
     "slug": "erp-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#erp-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#erp-software",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -460,7 +460,7 @@
    {
     "keyword": "financial auditing firms",
     "slug": "financial-auditing-firms",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#financial-auditing-firms",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#financial-auditing-firms",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -474,7 +474,7 @@
    {
     "keyword": "google ad marketing agency",
     "slug": "google-ad-marketing-agency",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#google-ad-marketing-agency",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#google-ad-marketing-agency",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -488,7 +488,7 @@
    {
     "keyword": "google advertising",
     "slug": "google-advertising",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#google-advertising",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#google-advertising",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -502,7 +502,7 @@
    {
     "keyword": "help desk software for small business",
     "slug": "help-desk-software-for-small-business",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#help-desk-software-for-small-business",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#help-desk-software-for-small-business",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -516,7 +516,7 @@
    {
     "keyword": "hire dedicated php developer",
     "slug": "hire-dedicated-php-developer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hire-dedicated-php-developer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hire-dedicated-php-developer",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -530,7 +530,7 @@
    {
     "keyword": "hr performance review software",
     "slug": "hr-performance-review-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hr-performance-review-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hr-performance-review-software",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -544,7 +544,7 @@
    {
     "keyword": "linkedin advertising",
     "slug": "linkedin-advertising",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#linkedin-advertising",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#linkedin-advertising",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -558,7 +558,7 @@
    {
     "keyword": "mainframe modernization services",
     "slug": "mainframe-modernization-services",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mainframe-modernization-services",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mainframe-modernization-services",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 5.87,
@@ -574,7 +574,7 @@
    {
     "keyword": "screen recording software",
     "slug": "screen-recording-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#screen-recording-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#screen-recording-software",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -588,7 +588,7 @@
    {
     "keyword": "video editing software",
     "slug": "video-editing-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#video-editing-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#video-editing-software",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -602,7 +602,7 @@
    {
     "keyword": "cloud accounting software",
     "slug": "cloud-accounting-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cloud-accounting-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cloud-accounting-software",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -616,7 +616,7 @@
    {
     "keyword": "knowledge base software",
     "slug": "knowledge-base-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#knowledge-base-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#knowledge-base-software",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -630,7 +630,7 @@
    {
     "keyword": "tax preparation software",
     "slug": "tax-preparation-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#tax-preparation-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#tax-preparation-software",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -644,7 +644,7 @@
    {
     "keyword": "crm software",
     "slug": "crm-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#crm-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#crm-software",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -658,7 +658,7 @@
    {
     "keyword": "antivirus software",
     "slug": "antivirus-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#antivirus-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#antivirus-software",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -672,7 +672,7 @@
    {
     "keyword": "logo design",
     "slug": "logo-design",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#logo-design",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#logo-design",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -686,7 +686,7 @@
    {
     "keyword": "project management software",
     "slug": "project-management-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#project-management-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#project-management-software",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -700,7 +700,7 @@
    {
     "keyword": "cad software",
     "slug": "cad-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cad-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cad-software",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -714,7 +714,7 @@
    {
     "keyword": "ecommerce website builder",
     "slug": "ecommerce-website-builder",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ecommerce-website-builder",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ecommerce-website-builder",
     "us_monthly_searches": 78700,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -728,7 +728,7 @@
    {
     "keyword": "erp system",
     "slug": "erp-system",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#erp-system",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#erp-system",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -742,7 +742,7 @@
    {
     "keyword": "website builder",
     "slug": "website-builder",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#website-builder",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#website-builder",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -756,7 +756,7 @@
    {
     "keyword": "website design",
     "slug": "website-design",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#website-design",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#website-design",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -770,7 +770,7 @@
    {
     "keyword": "accounting software",
     "slug": "accounting-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#accounting-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#accounting-software",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -784,7 +784,7 @@
    {
     "keyword": "bookkeepers",
     "slug": "bookkeepers",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#bookkeepers",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#bookkeepers",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -798,7 +798,7 @@
    {
     "keyword": "tax preparer",
     "slug": "tax-preparer",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -812,7 +812,7 @@
    {
     "keyword": "web design",
     "slug": "web-design",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#web-design",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#web-design",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -826,7 +826,7 @@
    {
     "keyword": "web designer",
     "slug": "web-designer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#web-designer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#web-designer",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,
@@ -840,7 +840,7 @@
    {
     "keyword": "content management software",
     "slug": "content-management-software",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#content-management-software",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#content-management-software",
     "us_monthly_searches": 47500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 5.87,

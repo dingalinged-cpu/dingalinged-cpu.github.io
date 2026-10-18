@@ -13,12 +13,12 @@ Prieto, DelCampo, Lopez & Marigliano LLC (PDLM Law) is a lawyer in Dunwoody, GA 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 72% of lawyers in Atlanta, #1 of 1 lawyers in Dunwoody (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 42.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 72% of lawyers in Atlanta, #1 of 1 lawyers in Dunwoody (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 42.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/prieto-delcampo-lopez-and-marigliano-llc-pdlm-law-dunwoody/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/prieto-delcampo-lopez-and-marigliano-llc-pdlm-law-dunwoody.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/prieto-delcampo-lopez-and-marigliano-llc-pdlm-law-dunwoody/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/prieto-delcampo-lopez-and-marigliano-llc-pdlm-law-dunwoody.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13730107203 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

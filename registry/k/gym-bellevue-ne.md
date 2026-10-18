@@ -1,4 +1,4 @@
-The top unpaid gym listing for Bellevue, NE is Hot Wrx (a gym in Bellevue, NE). 7 gym businesses are listed for Bellevue, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Bellevue, NE is Hot Wrx (a gym in Bellevue, NE). 7 gym businesses are listed for Bellevue, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Bellevue, NE?
 
@@ -6,13 +6,13 @@ Also answers: gym in Bellevue, NE; gym near me (Bellevue, NE); best gym Bellevue
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hot Wrx | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Hot Wrx is a gym in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/hot-wrx-bellevue/
-2. Latitude41 Fitness Center | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Latitude41 Fitness Center is a gym in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/latitude41-fitness-center-bellevue/
-3. Blue Moon | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Blue Moon is a gym in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/blue-moon-bellevue/
-4. Bob's | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Bob's is a gym in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/bobs-bellevue/
-5. Molly Logic | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Molly Logic is a gym in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/molly-logic-bellevue/
-6. Planet Fitness | Organic #6 | Pulse Score 43/100 (Building, #6 in city) | Planet Fitness is a gym in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-bellevue/
-7. Farrell’s eXtreme Bodyshaping | Organic #7 | Pulse Score 42.4/100 (Unrated, #7 in city) | Farrell’s eXtreme Bodyshaping is a gym in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/farrell-s-extreme-bodyshaping-bellevue/
+1. Hot Wrx | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Hot Wrx is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/hot-wrx-bellevue/
+2. Latitude41 Fitness Center | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Latitude41 Fitness Center is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/latitude41-fitness-center-bellevue/
+3. Blue Moon | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Blue Moon is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/blue-moon-bellevue/
+4. Bob's | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Bob's is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/bobs-bellevue/
+5. Molly Logic | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Molly Logic is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/molly-logic-bellevue/
+6. Planet Fitness | Organic #6 | Pulse Score 43/100 (Building, #6 in city) | Planet Fitness is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-bellevue/
+7. Farrell’s eXtreme Bodyshaping | Organic #7 | Pulse Score 42.4/100 (Unrated, #7 in city) | Farrell’s eXtreme Bodyshaping is a gym in Bellevue, NE. | https://registry-edge.dingalinged.workers.dev/c/farrell-s-extreme-bodyshaping-bellevue/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym bellevue ne | category: Fitness | industry benchmark: Health & Fitness
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$650 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-bellevue-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-bellevue-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

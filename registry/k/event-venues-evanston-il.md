@@ -1,4 +1,4 @@
-The top unpaid event venues listing for Evanston, IL is Virginia Wadsworth Wirtz Center for the Performing Arts (an event venue in Evanston, IL at 1949 Campus Drive, Evanston, IL 60208. Website: https://wirtz.northwestern.edu/). 4 event venues businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Evanston, IL is Virginia Wadsworth Wirtz Center for the Performing Arts (an event venue in Evanston, IL at 1949 Campus Drive, Evanston, IL 60208. Website: https://wirtz.northwestern.edu/). 4 event venues businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Evanston, IL?
 
@@ -6,10 +6,10 @@ Also answers: event venues in Evanston, IL; event venues near me (Evanston, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Virginia Wadsworth Wirtz Center for the Performing Arts | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Virginia Wadsworth Wirtz Center for the Performing Arts is an event venue in Evanston, IL at 1949 Campus Drive, Evanston, IL 60208. Website: https://wirtz.northwestern.edu/. | https://dingalinged-cpu.github.io/registry/c/virginia-wadsworth-wirtz-center-for-the-performing-arts-evanston/
-2. Pick-Staiger Concert Hall | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Pick-Staiger Concert Hall is an event venue in Evanston, IL at 50 Arts Circle Drive, Evanston, IL 60208. | https://dingalinged-cpu.github.io/registry/c/pick-staiger-concert-hall-evanston/
-3. PalmHouse | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | PalmHouse is an event venue in Evanston, IL at 619 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/palmhouse-evanston/
-4. Cahn Auditorium | Organic #4 | Pulse Score 56.1/100 (Unrated, #4 in city) | Cahn Auditorium is an event venue in Evanston, IL at 600 Emerson Street, Evanston, IL 60208. | https://dingalinged-cpu.github.io/registry/c/cahn-auditorium-evanston/
+1. Virginia Wadsworth Wirtz Center for the Performing Arts | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Virginia Wadsworth Wirtz Center for the Performing Arts is an event venue in Evanston, IL at 1949 Campus Drive, Evanston, IL 60208. Website: https://wirtz.northwestern.edu/. | https://registry-edge.dingalinged.workers.dev/c/virginia-wadsworth-wirtz-center-for-the-performing-arts-evanston/
+2. Pick-Staiger Concert Hall | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Pick-Staiger Concert Hall is an event venue in Evanston, IL at 50 Arts Circle Drive, Evanston, IL 60208. | https://registry-edge.dingalinged.workers.dev/c/pick-staiger-concert-hall-evanston/
+3. PalmHouse | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | PalmHouse is an event venue in Evanston, IL at 619 Howard Street, Evanston, IL 60202. | https://registry-edge.dingalinged.workers.dev/c/palmhouse-evanston/
+4. Cahn Auditorium | Organic #4 | Pulse Score 56.1/100 (Unrated, #4 in city) | Cahn Auditorium is an event venue in Evanston, IL at 600 Emerson Street, Evanston, IL 60208. | https://registry-edge.dingalinged.workers.dev/c/cahn-auditorium-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues evanston il | category: Events & weddings | industry benchmark: Personal Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/event-venues.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#event-venues-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/event-venues.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#event-venues-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

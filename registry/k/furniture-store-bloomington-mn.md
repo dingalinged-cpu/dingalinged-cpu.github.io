@@ -1,4 +1,4 @@
-The top unpaid furniture store listing for Bloomington, MN is Chicago Furniture (a furniture store in Bloomington, MN at 258 South Avenue, Bloomington, MN). 5 furniture store businesses are listed for Bloomington, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Bloomington, MN is Chicago Furniture (a furniture store in Bloomington, MN at 258 South Avenue, Bloomington, MN). 5 furniture store businesses are listed for Bloomington, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Bloomington, MN?
 
@@ -6,11 +6,11 @@ Also answers: furniture store in Bloomington, MN; furniture store near me (Bloom
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chicago Furniture | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Chicago Furniture is a furniture store in Bloomington, MN at 258 South Avenue, Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/chicago-furniture-bloomington/
-2. Schneiderman's Furniture | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Schneiderman's Furniture is a furniture store in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/schneidermans-furniture-bloomington/
-3. Slumberland Furniture | Organic #3 | Pulse Score 48.8/100 (Building, #3 in city) | Slumberland Furniture is a furniture store in Bloomington, MN at 7961 Southtown Center, Bloomington, MN 55431. Phone: +19528886204. Website: https://stores.slumberland.com/mn/bloomington/7961-southtown-center-01. | https://dingalinged-cpu.github.io/registry/c/slumberland-furniture-bloomington/
-4. IKEA | Organic #4 | Pulse Score 47.8/100 (Building, #4 in city) | IKEA is a furniture store in Bloomington, MN at 800 IKEA Way, Bloomington, MN 55425. Website: https://www.ikea.com/us/en/stores/minneapolis/. | https://dingalinged-cpu.github.io/registry/c/ikea-bloomington/
-5. LoveSac | Organic #5 | Pulse Score 46.3/100 (Building, #5 in city) | LoveSac is a furniture store in Bloomington, MN at 327 West Market, Bloomington, MN. Phone: +19528545105. | https://dingalinged-cpu.github.io/registry/c/lovesac-bloomington/
+1. Chicago Furniture | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Chicago Furniture is a furniture store in Bloomington, MN at 258 South Avenue, Bloomington, MN. | https://registry-edge.dingalinged.workers.dev/c/chicago-furniture-bloomington/
+2. Schneiderman's Furniture | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Schneiderman's Furniture is a furniture store in Bloomington, MN. | https://registry-edge.dingalinged.workers.dev/c/schneidermans-furniture-bloomington/
+3. Slumberland Furniture | Organic #3 | Pulse Score 48.8/100 (Building, #3 in city) | Slumberland Furniture is a furniture store in Bloomington, MN at 7961 Southtown Center, Bloomington, MN 55431. Phone: +19528886204. Website: https://stores.slumberland.com/mn/bloomington/7961-southtown-center-01. | https://registry-edge.dingalinged.workers.dev/c/slumberland-furniture-bloomington/
+4. IKEA | Organic #4 | Pulse Score 47.8/100 (Building, #4 in city) | IKEA is a furniture store in Bloomington, MN at 800 IKEA Way, Bloomington, MN 55425. Website: https://www.ikea.com/us/en/stores/minneapolis/. | https://registry-edge.dingalinged.workers.dev/c/ikea-bloomington/
+5. LoveSac | Organic #5 | Pulse Score 46.3/100 (Building, #5 in city) | LoveSac is a furniture store in Bloomington, MN at 327 West Market, Bloomington, MN. Phone: +19528545105. | https://registry-edge.dingalinged.workers.dev/c/lovesac-bloomington/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store bloomington mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$590 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/furniture-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#furniture-store-bloomington-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/furniture-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#furniture-store-bloomington-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

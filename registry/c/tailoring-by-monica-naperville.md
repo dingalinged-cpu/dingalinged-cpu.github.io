@@ -13,12 +13,12 @@ Tailoring by Monica is a tailor in Naperville, IL at 7 7th Avenue, Naperville, I
 - Website: https://tailoringbymonica.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa 08:30-16:00; Su off
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 8% of tailors in Chicago, #1 of 2 tailors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 8% of tailors in Chicago, #1 of 2 tailors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tailoring-by-monica-naperville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tailoring-by-monica-naperville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tailoring-by-monica-naperville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tailoring-by-monica-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/279621764 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

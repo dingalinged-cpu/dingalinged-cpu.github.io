@@ -13,12 +13,12 @@ Yongsa Martial Arts is a martial arts school in Smyrna, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 94% of martial arts schools in Atlanta, #2 of 2 martial arts schools in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 40.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 94% of martial arts schools in Atlanta, #2 of 2 martial arts schools in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/yongsa-martial-arts-smyrna/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/yongsa-martial-arts-smyrna.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/yongsa-martial-arts-smyrna/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/yongsa-martial-arts-smyrna.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12444175355 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

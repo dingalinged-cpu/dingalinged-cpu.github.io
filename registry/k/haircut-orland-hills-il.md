@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Orland Hills, IL is 5 Star Cuts (a hair salon in Orland Hills, IL). 7 haircut businesses are listed for Orland Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Orland Hills, IL is 5 Star Cuts (a hair salon in Orland Hills, IL). 7 haircut businesses are listed for Orland Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Orland Hills, IL?
 
@@ -6,13 +6,13 @@ Also answers: haircut in Orland Hills, IL; haircut near me (Orland Hills, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 5 Star Cuts | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | 5 Star Cuts is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/5-star-cuts-orland-hills/
-2. Bella Dōnna Salon | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Bella Dōnna Salon is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/bella-d-nna-salon-orland-hills/
-3. Five Star Cuts | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Five Star Cuts is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/five-star-cuts-orland-hills/
-4. Perfection Salon | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Perfection Salon is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/perfection-salon-orland-hills/
-5. Phil's Barber & Styling Station | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Phil's Barber & Styling Station is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/phils-barber-and-styling-station-orland-hills/
-6. Phoenix Salon Suites | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Phoenix Salon Suites is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/phoenix-salon-suites-orland-hills/
-7. Sport Clips | Organic #7 | Pulse Score 42.5/100 (Building, #7 in city) | Sport Clips is a hair salon in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-orland-hills/
+1. 5 Star Cuts | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | 5 Star Cuts is a hair salon in Orland Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/5-star-cuts-orland-hills/
+2. Bella Dōnna Salon | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Bella Dōnna Salon is a hair salon in Orland Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/bella-d-nna-salon-orland-hills/
+3. Five Star Cuts | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Five Star Cuts is a hair salon in Orland Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/five-star-cuts-orland-hills/
+4. Perfection Salon | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Perfection Salon is a hair salon in Orland Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/perfection-salon-orland-hills/
+5. Phil's Barber & Styling Station | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Phil's Barber & Styling Station is a hair salon in Orland Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/phils-barber-and-styling-station-orland-hills/
+6. Phoenix Salon Suites | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Phoenix Salon Suites is a hair salon in Orland Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/phoenix-salon-suites-orland-hills/
+7. Sport Clips | Organic #7 | Pulse Score 42.5/100 (Building, #7 in city) | Sport Clips is a hair salon in Orland Hills, IL. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-orland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut orland hills il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-orland-hills-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-orland-hills-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

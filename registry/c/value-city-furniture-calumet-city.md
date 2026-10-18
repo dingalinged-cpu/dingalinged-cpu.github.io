@@ -13,12 +13,12 @@ Value City Furniture is a furniture store in Calumet City, IL at 2100 River Oaks
 - Website: https://www.valuecityfurniture.com/store-locator/il/calumet-city/2100-159th-street
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Building — top 69% of furniture stores in Chicago, #3 of 3 furniture stores in Calumet City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 69% of furniture stores in Chicago, #3 of 3 furniture stores in Calumet City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/value-city-furniture-calumet-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/value-city-furniture-calumet-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/value-city-furniture-calumet-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/value-city-furniture-calumet-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7367036959 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

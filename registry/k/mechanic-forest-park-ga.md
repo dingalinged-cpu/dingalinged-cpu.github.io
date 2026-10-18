@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for Forest Park, GA is Certified Auto Repair (an auto repair shop in Forest Park, GA at 4210 Jonesboro Road, Forest Park, GA 30297). 17 mechanic businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Forest Park, GA is Certified Auto Repair (an auto repair shop in Forest Park, GA at 4210 Jonesboro Road, Forest Park, GA 30297). 17 mechanic businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Forest Park, GA?
 
@@ -6,23 +6,23 @@ Also answers: mechanic in Forest Park, GA; mechanic near me (Forest Park, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Certified Auto Repair | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Certified Auto Repair is an auto repair shop in Forest Park, GA at 4210 Jonesboro Road, Forest Park, GA 30297. | https://dingalinged-cpu.github.io/registry/c/certified-auto-repair-forest-park/
-2. Brothers Auto Repair | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Brothers Auto Repair is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/brothers-auto-repair-forest-park/
-3. C&N Truck Center | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | C&N Truck Center is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/c-and-n-truck-center-forest-park/
-4. Full Throttle Auto Repair | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Full Throttle Auto Repair is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/full-throttle-auto-repair-forest-park/
-5. Lee Auto | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Lee Auto is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/lee-auto-forest-park/
-6. McDonald's Collision Repair | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | McDonald's Collision Repair is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/mcdonalds-collision-repair-forest-park/
-7. PN Enterprise | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | PN Enterprise is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/pn-enterprise-forest-park/
-8. Precision Tune AutoCare | Organic #8 | Pulse Score 54.9/100 (Unrated, #8 in city) | Precision Tune AutoCare is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/precision-tune-autocare-forest-park/
-9. ProLan | Organic #9 | Pulse Score 54.9/100 (Unrated, #9 in city) | ProLan is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/prolan-forest-park/
-10. Total Car Care | Organic #10 | Pulse Score 54.9/100 (Unrated, #10 in city) | Total Car Care is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/total-car-care-forest-park/
-11. V-Tech | Organic #11 | Pulse Score 54.9/100 (Unrated, #11 in city) | V-Tech is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/v-tech-forest-park/
-12. MAACO | Organic #12 | Pulse Score 42.9/100 (Building, #12 in city) | MAACO is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/maaco-forest-park/
-13. Firestone | Organic #13 | Pulse Score 42.7/100 (Building, #13 in city) | Firestone is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/firestone-forest-park/
-14. Meineke | Organic #14 | Pulse Score 42.7/100 (Building, #14 in city) | Meineke is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/meineke-forest-park/
-15. Brakes Plus | Organic #15 | Pulse Score 42.4/100 (Building, #15 in city) | Brakes Plus is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-forest-park/
-16. Caliber Collision | Organic #16 | Pulse Score 42.4/100 (Building, #16 in city) | Caliber Collision is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-forest-park/
-17. Toyota Collision Center | Organic #17 | Pulse Score 42.4/100 (Building, #17 in city) | Toyota Collision Center is an auto repair shop in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/toyota-collision-center-forest-park/
+1. Certified Auto Repair | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Certified Auto Repair is an auto repair shop in Forest Park, GA at 4210 Jonesboro Road, Forest Park, GA 30297. | https://registry-edge.dingalinged.workers.dev/c/certified-auto-repair-forest-park/
+2. Brothers Auto Repair | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Brothers Auto Repair is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/brothers-auto-repair-forest-park/
+3. C&N Truck Center | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | C&N Truck Center is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/c-and-n-truck-center-forest-park/
+4. Full Throttle Auto Repair | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Full Throttle Auto Repair is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/full-throttle-auto-repair-forest-park/
+5. Lee Auto | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Lee Auto is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/lee-auto-forest-park/
+6. McDonald's Collision Repair | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | McDonald's Collision Repair is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/mcdonalds-collision-repair-forest-park/
+7. PN Enterprise | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | PN Enterprise is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/pn-enterprise-forest-park/
+8. Precision Tune AutoCare | Organic #8 | Pulse Score 54.9/100 (Unrated, #8 in city) | Precision Tune AutoCare is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/precision-tune-autocare-forest-park/
+9. ProLan | Organic #9 | Pulse Score 54.9/100 (Unrated, #9 in city) | ProLan is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/prolan-forest-park/
+10. Total Car Care | Organic #10 | Pulse Score 54.9/100 (Unrated, #10 in city) | Total Car Care is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/total-car-care-forest-park/
+11. V-Tech | Organic #11 | Pulse Score 54.9/100 (Unrated, #11 in city) | V-Tech is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/v-tech-forest-park/
+12. MAACO | Organic #12 | Pulse Score 42.9/100 (Building, #12 in city) | MAACO is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/maaco-forest-park/
+13. Firestone | Organic #13 | Pulse Score 42.7/100 (Building, #13 in city) | Firestone is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/firestone-forest-park/
+14. Meineke | Organic #14 | Pulse Score 42.7/100 (Building, #14 in city) | Meineke is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/meineke-forest-park/
+15. Brakes Plus | Organic #15 | Pulse Score 42.4/100 (Building, #15 in city) | Brakes Plus is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/brakes-plus-forest-park/
+16. Caliber Collision | Organic #16 | Pulse Score 42.4/100 (Building, #16 in city) | Caliber Collision is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-forest-park/
+17. Toyota Collision Center | Organic #17 | Pulse Score 42.4/100 (Building, #17 in city) | Toyota Collision Center is an auto repair shop in Forest Park, GA. | https://registry-edge.dingalinged.workers.dev/c/toyota-collision-center-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic forest park ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -35,6 +35,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mechanic.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-forest-park-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-forest-park-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

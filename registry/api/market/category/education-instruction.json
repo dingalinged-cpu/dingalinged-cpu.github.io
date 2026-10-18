@@ -2,7 +2,7 @@
  "title": "Keyword market data: Education & Instruction",
  "description": "Top Education & Instruction keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Education & Instruction",
  "keywords": 29,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "online courses",
     "slug": "online-courses",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-courses",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-courses",
     "us_monthly_searches": 110000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -24,7 +24,7 @@
    {
     "keyword": "trade schools",
     "slug": "trade-schools",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#trade-schools",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#trade-schools",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -38,7 +38,7 @@
    {
     "keyword": "coding bootcamp",
     "slug": "coding-bootcamp",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#coding-bootcamp",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#coding-bootcamp",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -52,7 +52,7 @@
    {
     "keyword": "nursing programs",
     "slug": "nursing-programs",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nursing-programs",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nursing-programs",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -66,7 +66,7 @@
    {
     "keyword": "certificate programs online",
     "slug": "certificate-programs-online",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#certificate-programs-online",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#certificate-programs-online",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -80,7 +80,7 @@
    {
     "keyword": "online degree programs",
     "slug": "online-degree-programs",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-degree-programs",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-degree-programs",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -94,7 +94,7 @@
    {
     "keyword": "mba programs online",
     "slug": "mba-programs-online",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mba-programs-online",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mba-programs-online",
     "us_monthly_searches": 1300,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -110,7 +110,7 @@
    {
     "keyword": "online college business degree",
     "slug": "online-college-business-degree",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-college-business-degree",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-college-business-degree",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -124,7 +124,7 @@
    {
     "keyword": "online degree criminal justice",
     "slug": "online-degree-criminal-justice",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-degree-criminal-justice",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-degree-criminal-justice",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -138,7 +138,7 @@
    {
     "keyword": "online masters degree in business administration",
     "slug": "online-masters-degree-in-business-administration",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-masters-degree-in-business-administration",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-masters-degree-in-business-administration",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -152,7 +152,7 @@
    {
     "keyword": "online masters degree programs in healthcare administration",
     "slug": "online-masters-degree-programs-in-healthcare-administration",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-masters-degree-programs-in-healthcare-administration",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-masters-degree-programs-in-healthcare-administration",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -166,7 +166,7 @@
    {
     "keyword": "online mba program",
     "slug": "online-mba-program",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-mba-program",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-mba-program",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -180,7 +180,7 @@
    {
     "keyword": "online psychology bachelor's degree",
     "slug": "online-psychology-bachelor-s-degree",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-psychology-bachelor-s-degree",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-psychology-bachelor-s-degree",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -194,7 +194,7 @@
    {
     "keyword": "babysitter",
     "slug": "babysitter",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#babysitter",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#babysitter",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -208,7 +208,7 @@
    {
     "keyword": "cdl training",
     "slug": "cdl-training",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cdl-training",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cdl-training",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -222,7 +222,7 @@
    {
     "keyword": "certificate programs online",
     "slug": "certificate-programs-online",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#certificate-programs-online",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#certificate-programs-online",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -236,7 +236,7 @@
    {
     "keyword": "coding bootcamp",
     "slug": "coding-bootcamp",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#coding-bootcamp",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#coding-bootcamp",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -250,7 +250,7 @@
    {
     "keyword": "corporate training",
     "slug": "corporate-training",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#corporate-training",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#corporate-training",
     "us_monthly_searches": 1600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -264,7 +264,7 @@
    {
     "keyword": "cpr certification",
     "slug": "cpr-certification",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cpr-certification",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cpr-certification",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -278,7 +278,7 @@
    {
     "keyword": "cpr classes",
     "slug": "cpr-classes",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#cpr-classes",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#cpr-classes",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -292,7 +292,7 @@
    {
     "keyword": "daycare",
     "slug": "daycare",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -306,7 +306,7 @@
    {
     "keyword": "driving school",
     "slug": "driving-school",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -320,7 +320,7 @@
    {
     "keyword": "math tutor",
     "slug": "math-tutor",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#math-tutor",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#math-tutor",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -334,7 +334,7 @@
    {
     "keyword": "mba programs online",
     "slug": "mba-programs-online",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mba-programs-online",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mba-programs-online",
     "us_monthly_searches": 1300,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -348,7 +348,7 @@
    {
     "keyword": "music lessons",
     "slug": "music-lessons",
-    "url": "https://dingalinged-cpu.github.io/registry/k/music-lessons/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/music-lessons/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.81,
@@ -362,7 +362,7 @@
    {
     "keyword": "nursing programs",
     "slug": "nursing-programs",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nursing-programs",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nursing-programs",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -376,7 +376,7 @@
    {
     "keyword": "online courses",
     "slug": "online-courses",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-courses",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-courses",
     "us_monthly_searches": 110000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -392,7 +392,7 @@
    {
     "keyword": "online courses",
     "slug": "online-courses",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-courses",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-courses",
     "us_monthly_searches": 110000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -406,7 +406,7 @@
    {
     "keyword": "trade schools",
     "slug": "trade-schools",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#trade-schools",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#trade-schools",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -420,7 +420,7 @@
    {
     "keyword": "coding bootcamp",
     "slug": "coding-bootcamp",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#coding-bootcamp",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#coding-bootcamp",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -434,7 +434,7 @@
    {
     "keyword": "nursing programs",
     "slug": "nursing-programs",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nursing-programs",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nursing-programs",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -448,7 +448,7 @@
    {
     "keyword": "certificate programs online",
     "slug": "certificate-programs-online",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#certificate-programs-online",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#certificate-programs-online",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -462,7 +462,7 @@
    {
     "keyword": "online degree programs",
     "slug": "online-degree-programs",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#online-degree-programs",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#online-degree-programs",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,
@@ -476,7 +476,7 @@
    {
     "keyword": "mba programs online",
     "slug": "mba-programs-online",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mba-programs-online",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mba-programs-online",
     "us_monthly_searches": 1300,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.81,

@@ -13,12 +13,12 @@ Coral Reef Pet Center is a pet store in Norridge, IL at 7723 West Lawrence Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 26% of pet stores in Chicago, #1 of 2 pet stores in Norridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 26% of pet stores in Chicago, #1 of 2 pet stores in Norridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/coral-reef-pet-center-norridge/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/coral-reef-pet-center-norridge.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/coral-reef-pet-center-norridge/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/coral-reef-pet-center-norridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6429013449 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

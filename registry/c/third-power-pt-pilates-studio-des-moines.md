@@ -13,12 +13,12 @@ Third Power PT Pilates Studio is a pilates studio in Des Moines, IA at 2822 Beav
 - Website: https://www.thirdpowerpt.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 67% of pilates studios in Des Moines, IA, #2 of 2 pilates studios in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 67% of pilates studios in Des Moines, IA, #2 of 2 pilates studios in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/third-power-pt-pilates-studio-des-moines/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/third-power-pt-pilates-studio-des-moines.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/third-power-pt-pilates-studio-des-moines/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/third-power-pt-pilates-studio-des-moines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/105679745 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

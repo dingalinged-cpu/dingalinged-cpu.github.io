@@ -13,12 +13,12 @@ Intown Pediatrics is a pediatrician in Atlanta, GA at 490 Bill Kennedy Way, Atla
 - Website: https://intownpediatrics.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; Fr 08:45-16:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 39% of pediatricians in Atlanta, #1 of 1 pediatricians in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 39% of pediatricians in Atlanta, #1 of 1 pediatricians in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 61. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/intown-pediatrics-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/intown-pediatrics-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/intown-pediatrics-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/intown-pediatrics-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9972417637 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

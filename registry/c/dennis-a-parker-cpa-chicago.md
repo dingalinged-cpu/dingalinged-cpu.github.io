@@ -13,12 +13,12 @@ Dennis A. Parker, CPA is an accountant in Chicago, IL at 5439 West Lawrence Aven
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 45% of accountants in Chicago, #7 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 46.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 45% of accountants in Chicago, #7 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dennis-a-parker-cpa-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dennis-a-parker-cpa-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dennis-a-parker-cpa-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dennis-a-parker-cpa-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162704424 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

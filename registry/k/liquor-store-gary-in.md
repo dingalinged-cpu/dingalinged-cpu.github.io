@@ -1,4 +1,4 @@
-The top unpaid liquor store listing for Gary, IN is Economy Discount Liquors #2 (a liquor store in Gary, IN. Phone: +12199778686). 12 liquor store businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Gary, IN is Economy Discount Liquors #2 (a liquor store in Gary, IN. Phone: +12199778686). 12 liquor store businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Gary, IN?
 
@@ -6,18 +6,18 @@ Also answers: liquor store in Gary, IN; liquor store near me (Gary, IN); best li
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Economy Discount Liquors #2 | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Economy Discount Liquors #2 is a liquor store in Gary, IN. Phone: +12199778686. | https://dingalinged-cpu.github.io/registry/c/economy-discount-liquors-2-gary/
-2. Royal Liquors | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Royal Liquors is a liquor store in Gary, IN at 3520 West 4th Avenue, Gary, IN 46406. Phone: +12199497503. | https://dingalinged-cpu.github.io/registry/c/royal-liquors-gary/
-3. Economy Package Liquors | Organic #3 | Pulse Score 60.9/100 (Unrated, #3 in city) | Economy Package Liquors is a liquor store in Gary, IN at 5150 Broadway, Gary, IN 46408. Phone: +12194271697. | https://dingalinged-cpu.github.io/registry/c/economy-package-liquors-gary-w1160299780/
-4. West 5th Avenue Liquors | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | West 5th Avenue Liquors is a liquor store in Gary, IN at 537 West 5th Avenue, Gary, IN 46402. | https://dingalinged-cpu.github.io/registry/c/west-5th-avenue-liquors-gary/
-5. Champ's Liquors | Organic #5 | Pulse Score 55.9/100 (Unrated, #5 in city) | Champ's Liquors is a liquor store in Gary, IN at Grant Street, Gary, IN. | https://dingalinged-cpu.github.io/registry/c/champs-liquors-gary/
-6. Economy Package Liquors | Organic #6 | Pulse Score 55.4/100 (Unrated, #6 in city) | Economy Package Liquors is a liquor store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/economy-package-liquors-gary/
-7. 41st Avenue Liquors | Organic #7 | Pulse Score 54.6/100 (Unrated, #7 in city) | 41st Avenue Liquors is a liquor store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/41st-avenue-liquors-gary/
-8. Discount Liquors | Organic #8 | Pulse Score 54.6/100 (Unrated, #8 in city) | Discount Liquors is a liquor store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/discount-liquors-gary/
-9. Economy Discount Liquors | Organic #9 | Pulse Score 54.6/100 (Unrated, #12 in city) | Economy Discount Liquors is a liquor store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/economy-discount-liquors-gary/
-10. Economy Discount Liquors #4 | Organic #10 | Pulse Score 54.6/100 (Unrated, #9 in city) | Economy Discount Liquors #4 is a liquor store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/economy-discount-liquors-4-gary/
-11. Economy Discount Liquors #5 | Organic #11 | Pulse Score 54.6/100 (Unrated, #10 in city) | Economy Discount Liquors #5 is a liquor store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/economy-discount-liquors-5-gary/
-12. Economy Discount Liquors #6 | Organic #12 | Pulse Score 54.6/100 (Unrated, #11 in city) | Economy Discount Liquors #6 is a liquor store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/economy-discount-liquors-6-gary/
+1. Economy Discount Liquors #2 | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Economy Discount Liquors #2 is a liquor store in Gary, IN. Phone: +12199778686. | https://registry-edge.dingalinged.workers.dev/c/economy-discount-liquors-2-gary/
+2. Royal Liquors | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Royal Liquors is a liquor store in Gary, IN at 3520 West 4th Avenue, Gary, IN 46406. Phone: +12199497503. | https://registry-edge.dingalinged.workers.dev/c/royal-liquors-gary/
+3. Economy Package Liquors | Organic #3 | Pulse Score 60.9/100 (Unrated, #3 in city) | Economy Package Liquors is a liquor store in Gary, IN at 5150 Broadway, Gary, IN 46408. Phone: +12194271697. | https://registry-edge.dingalinged.workers.dev/c/economy-package-liquors-gary-w1160299780/
+4. West 5th Avenue Liquors | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | West 5th Avenue Liquors is a liquor store in Gary, IN at 537 West 5th Avenue, Gary, IN 46402. | https://registry-edge.dingalinged.workers.dev/c/west-5th-avenue-liquors-gary/
+5. Champ's Liquors | Organic #5 | Pulse Score 55.9/100 (Unrated, #5 in city) | Champ's Liquors is a liquor store in Gary, IN at Grant Street, Gary, IN. | https://registry-edge.dingalinged.workers.dev/c/champs-liquors-gary/
+6. Economy Package Liquors | Organic #6 | Pulse Score 55.4/100 (Unrated, #6 in city) | Economy Package Liquors is a liquor store in Gary, IN. | https://registry-edge.dingalinged.workers.dev/c/economy-package-liquors-gary/
+7. 41st Avenue Liquors | Organic #7 | Pulse Score 54.6/100 (Unrated, #7 in city) | 41st Avenue Liquors is a liquor store in Gary, IN. | https://registry-edge.dingalinged.workers.dev/c/41st-avenue-liquors-gary/
+8. Discount Liquors | Organic #8 | Pulse Score 54.6/100 (Unrated, #8 in city) | Discount Liquors is a liquor store in Gary, IN. | https://registry-edge.dingalinged.workers.dev/c/discount-liquors-gary/
+9. Economy Discount Liquors | Organic #9 | Pulse Score 54.6/100 (Unrated, #12 in city) | Economy Discount Liquors is a liquor store in Gary, IN. | https://registry-edge.dingalinged.workers.dev/c/economy-discount-liquors-gary/
+10. Economy Discount Liquors #4 | Organic #10 | Pulse Score 54.6/100 (Unrated, #9 in city) | Economy Discount Liquors #4 is a liquor store in Gary, IN. | https://registry-edge.dingalinged.workers.dev/c/economy-discount-liquors-4-gary/
+11. Economy Discount Liquors #5 | Organic #11 | Pulse Score 54.6/100 (Unrated, #10 in city) | Economy Discount Liquors #5 is a liquor store in Gary, IN. | https://registry-edge.dingalinged.workers.dev/c/economy-discount-liquors-5-gary/
+12. Economy Discount Liquors #6 | Organic #12 | Pulse Score 54.6/100 (Unrated, #11 in city) | Economy Discount Liquors #6 is a liquor store in Gary, IN. | https://registry-edge.dingalinged.workers.dev/c/economy-discount-liquors-6-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store gary in | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -30,6 +30,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/liquor-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#liquor-store-gary-in | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/liquor-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#liquor-store-gary-in | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

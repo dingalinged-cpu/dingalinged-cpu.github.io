@@ -13,12 +13,12 @@ Screenbuilders of Ankeny is a window installer in Ankeny, IA at 1450 NE 69th Pl 
 - Website: https://screenbuildersankeny.com/
 - Email: cpscreenbuilders@gmail.com
 - Opening hours (OSM syntax): Sa-Su closed; Mo-Fr 08:00-16:00
-- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 34% of window installers in Des Moines, IA, #1 of 1 window installers in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 34% of window installers in Des Moines, IA, #1 of 1 window installers in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/screenbuilders-of-ankeny-ankeny/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/screenbuilders-of-ankeny-ankeny.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/screenbuilders-of-ankeny-ankeny/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/screenbuilders-of-ankeny-ankeny.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13378637149 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

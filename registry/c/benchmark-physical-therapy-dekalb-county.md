@@ -13,12 +13,12 @@ Benchmark Physical Therapy is a physical therapy clinic in DeKalb County, GA. Ph
 - Website: https://www.benchmarkpt.com/locations/decatur/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 72% of physical therapy clinics in Atlanta, #1 of 1 physical therapy clinics in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 72% of physical therapy clinics in Atlanta, #1 of 1 physical therapy clinics in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/benchmark-physical-therapy-dekalb-county/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/benchmark-physical-therapy-dekalb-county.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/benchmark-physical-therapy-dekalb-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/benchmark-physical-therapy-dekalb-county.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13237603623 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid furniture store listing for Douglasville, GA is Ben's Furniture (a furniture store in Douglasville, GA). 5 furniture store businesses are listed for Douglasville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Douglasville, GA is Ben's Furniture (a furniture store in Douglasville, GA). 5 furniture store businesses are listed for Douglasville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Douglasville, GA?
 
@@ -6,11 +6,11 @@ Also answers: furniture store in Douglasville, GA; furniture store near me (Doug
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ben's Furniture | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Ben's Furniture is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/bens-furniture-douglasville/
-2. Ashley HomeStore | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Ashley HomeStore is a furniture store in Douglasville, GA at 6875 Douglas Boulevard, Douglasville, GA 30135. Phone: +14707959500. Website: https://stores.ashleyfurniture.com/store/us/georgia/douglasville/9000339289/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-douglasville/
-3. Rooms To Go | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | Rooms To Go is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-douglasville/
-4. Aaron's | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Aaron's is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/aarons-douglasville/
-5. Rent-A-Center | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | Rent-A-Center is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-douglasville/
+1. Ben's Furniture | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Ben's Furniture is a furniture store in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/bens-furniture-douglasville/
+2. Ashley HomeStore | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Ashley HomeStore is a furniture store in Douglasville, GA at 6875 Douglas Boulevard, Douglasville, GA 30135. Phone: +14707959500. Website: https://stores.ashleyfurniture.com/store/us/georgia/douglasville/9000339289/. | https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-douglasville/
+3. Rooms To Go | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | Rooms To Go is a furniture store in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/rooms-to-go-douglasville/
+4. Aaron's | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Aaron's is a furniture store in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/aarons-douglasville/
+5. Rent-A-Center | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | Rent-A-Center is a furniture store in Douglasville, GA. | https://registry-edge.dingalinged.workers.dev/c/rent-a-center-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store douglasville ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/furniture-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#furniture-store-douglasville-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/furniture-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#furniture-store-douglasville-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ MGM Wine & Spirits is a liquor store in Minneapolis, MN at 3058 Excelsior Boulev
 - Website: https://mgmwineandspirits.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-22:00; Sa 08:00-22:00; Su 08:00-22:00; PH closed
-- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 88% of liquor stores in Minneapolis–St. Paul, #30 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 88% of liquor stores in Minneapolis–St. Paul, #30 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mgm-wine-and-spirits-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mgm-wine-and-spirits-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mgm-wine-and-spirits-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3230873865 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

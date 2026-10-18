@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for Buffalo Grove, IL is BP Auto Complete Repair (an auto repair shop in Buffalo Grove, IL). 3 mechanic businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Buffalo Grove, IL is BP Auto Complete Repair (an auto repair shop in Buffalo Grove, IL). 3 mechanic businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Buffalo Grove, IL?
 
@@ -6,9 +6,9 @@ Also answers: mechanic in Buffalo Grove, IL; mechanic near me (Buffalo Grove, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BP Auto Complete Repair | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | BP Auto Complete Repair is an auto repair shop in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/bp-auto-complete-repair-buffalo-grove/
-2. Woodman's Oil Change | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Woodman's Oil Change is an auto repair shop in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/woodmans-oil-change-buffalo-grove/
-3. Gerber Collision & Glass | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Gerber Collision & Glass is an auto repair shop in Buffalo Grove, IL at 20445 North Milwaukee Avenue, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-buffalo-grove/
+1. BP Auto Complete Repair | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | BP Auto Complete Repair is an auto repair shop in Buffalo Grove, IL. | https://registry-edge.dingalinged.workers.dev/c/bp-auto-complete-repair-buffalo-grove/
+2. Woodman's Oil Change | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Woodman's Oil Change is an auto repair shop in Buffalo Grove, IL. | https://registry-edge.dingalinged.workers.dev/c/woodmans-oil-change-buffalo-grove/
+3. Gerber Collision & Glass | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Gerber Collision & Glass is an auto repair shop in Buffalo Grove, IL at 20445 North Milwaukee Avenue, Buffalo Grove, IL 60089. | https://registry-edge.dingalinged.workers.dev/c/gerber-collision-and-glass-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic buffalo grove il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$4,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mechanic.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-buffalo-grove-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-buffalo-grove-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

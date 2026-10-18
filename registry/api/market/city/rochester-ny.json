@@ -2,7 +2,7 @@
  "title": "Keyword market data: Rochester, NY",
  "description": "Top Rochester, NY service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Rochester, NY",
  "geography": "Rochester, NY metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage rochester ny",
     "slug": "massage-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-rochester-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care rochester ny",
     "slug": "urgent-care-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-rochester-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist rochester ny",
     "slug": "dentist-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-rochester-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym rochester ny",
     "slug": "gym-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-rochester-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash rochester ny",
     "slug": "car-wash-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-rochester-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change rochester ny",
     "slug": "oil-change-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-rochester-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon rochester ny",
     "slug": "hair-salon-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-rochester-ny",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon rochester ny",
     "slug": "nail-salon-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-rochester-ny",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes rochester ny",
     "slug": "car-insurance-quotes-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-rochester-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber rochester ny",
     "slug": "plumber-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-rochester-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments rochester ny",
     "slug": "apartments-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-rochester-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance rochester ny",
     "slug": "auto-insurance-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-rochester-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop rochester ny",
     "slug": "barber-shop-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-rochester-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage rochester ny",
     "slug": "lymphatic-drainage-massage-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-rochester-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic rochester ny",
     "slug": "mechanic-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-rochester-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer rochester ny",
     "slug": "personal-injury-lawyer-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-rochester-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber rochester ny",
     "slug": "emergency-plumber-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-rochester-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair rochester ny",
     "slug": "hvac-repair-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-rochester-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair rochester ny",
     "slug": "ac-repair-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-rochester-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement rochester ny",
     "slug": "roof-replacement-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-rochester-ny",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 100,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair rochester ny",
     "slug": "roof-repair-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-rochester-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast rochester ny",
     "slug": "sell-my-house-fast-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-rochester-ny",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 31.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services rochester ny",
     "slug": "plumbing-services-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-rochester-ny",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining rochester ny",
     "slug": "deck-staining-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-rochester-ny",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 56.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters rochester ny",
     "slug": "exterior-house-painters-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-rochester-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters rochester ny",
     "slug": "interior-painters-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-rochester-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters rochester ny",
     "slug": "painters-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-rochester-ny",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company rochester ny",
     "slug": "moving-company-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-rochester-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney rochester ny",
     "slug": "criminal-defense-attorney-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-rochester-ny",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer rochester ny",
     "slug": "dui-defense-lawyer-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-rochester-ny",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 11.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage rochester ny",
     "slug": "massage-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-rochester-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care rochester ny",
     "slug": "urgent-care-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-rochester-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer rochester ny",
     "slug": "personal-injury-lawyer-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-rochester-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber rochester ny",
     "slug": "plumber-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-rochester-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist rochester ny",
     "slug": "dentist-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-rochester-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash rochester ny",
     "slug": "car-wash-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-rochester-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change rochester ny",
     "slug": "oil-change-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-rochester-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair rochester ny",
     "slug": "ac-repair-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-rochester-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer rochester ny",
     "slug": "car-accident-lawyer-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-rochester-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage rochester ny",
     "slug": "lymphatic-drainage-massage-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-rochester-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym rochester ny",
     "slug": "gym-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-rochester-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician rochester ny",
     "slug": "electrician-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-rochester-ny",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic rochester ny",
     "slug": "mechanic-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-rochester-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes rochester ny",
     "slug": "car-insurance-quotes-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-rochester-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments rochester ny",
     "slug": "apartments-rochester-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-rochester-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-rochester-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,

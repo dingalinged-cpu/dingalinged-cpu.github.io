@@ -13,12 +13,12 @@ Riverwalk Dentistry, SC is a dentist in Milwaukee, WI. Phone: +14142711770. Webs
 - Website: https://www.riverwalkdentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 32% of dentists in Milwaukee, #15 of 41 dentists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 32% of dentists in Milwaukee, #15 of 41 dentists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/riverwalk-dentistry-sc-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/riverwalk-dentistry-sc-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/riverwalk-dentistry-sc-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/riverwalk-dentistry-sc-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3327388274 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

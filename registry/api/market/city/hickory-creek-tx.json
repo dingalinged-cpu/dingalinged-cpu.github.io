@@ -2,7 +2,7 @@
  "title": "Keyword market data: Hickory Creek, TX",
  "description": "Top Hickory Creek, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hickory Creek, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash hickory creek tx",
     "slug": "car-wash-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hickory-creek-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist hickory creek tx",
     "slug": "dentist-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hickory-creek-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym hickory creek tx",
     "slug": "gym-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hickory-creek-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon hickory creek tx",
     "slug": "hair-salon-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hickory-creek-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon hickory creek tx",
     "slug": "nail-salon-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hickory-creek-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -86,7 +86,7 @@
    {
     "keyword": "vet hickory creek tx",
     "slug": "vet-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hickory-creek-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut hickory creek tx",
     "slug": "haircut-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hickory-creek-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -116,7 +116,7 @@
    {
     "keyword": "dog boarding hickory creek tx",
     "slug": "dog-boarding-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-hickory-creek-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency hickory creek tx",
     "slug": "insurance-agency-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hickory-creek-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -146,7 +146,7 @@
    {
     "keyword": "tax preparation hickory creek tx",
     "slug": "tax-preparation-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hickory-creek-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -161,7 +161,7 @@
    {
     "keyword": "tax preparer hickory creek tx",
     "slug": "tax-preparer-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hickory-creek-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agents hickory creek tx",
     "slug": "insurance-agents-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hickory-creek-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agent hickory creek tx",
     "slug": "insurance-agent-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hickory-creek-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -208,7 +208,7 @@
    {
     "keyword": "tax preparer hickory creek tx",
     "slug": "tax-preparer-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hickory-creek-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -223,7 +223,7 @@
    {
     "keyword": "daycare hickory creek tx",
     "slug": "daycare-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-hickory-creek-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -238,7 +238,7 @@
    {
     "keyword": "dentist hickory creek tx",
     "slug": "dentist-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hickory-creek-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -253,7 +253,7 @@
    {
     "keyword": "haircut hickory creek tx",
     "slug": "haircut-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hickory-creek-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -268,7 +268,7 @@
    {
     "keyword": "car wash hickory creek tx",
     "slug": "car-wash-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hickory-creek-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -283,7 +283,7 @@
    {
     "keyword": "dog boarding hickory creek tx",
     "slug": "dog-boarding-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-hickory-creek-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -298,7 +298,7 @@
    {
     "keyword": "vet hickory creek tx",
     "slug": "vet-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hickory-creek-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -313,7 +313,7 @@
    {
     "keyword": "insurance agency hickory creek tx",
     "slug": "insurance-agency-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hickory-creek-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -328,7 +328,7 @@
    {
     "keyword": "insurance agent hickory creek tx",
     "slug": "insurance-agent-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hickory-creek-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -343,7 +343,7 @@
    {
     "keyword": "insurance agents hickory creek tx",
     "slug": "insurance-agents-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hickory-creek-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -358,7 +358,7 @@
    {
     "keyword": "tax preparation hickory creek tx",
     "slug": "tax-preparation-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hickory-creek-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -373,7 +373,7 @@
    {
     "keyword": "gym hickory creek tx",
     "slug": "gym-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hickory-creek-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -388,7 +388,7 @@
    {
     "keyword": "nail salon hickory creek tx",
     "slug": "nail-salon-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hickory-creek-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -403,7 +403,7 @@
    {
     "keyword": "hair salon hickory creek tx",
     "slug": "hair-salon-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hickory-creek-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -420,7 +420,7 @@
    {
     "keyword": "dentist hickory creek tx",
     "slug": "dentist-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hickory-creek-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -435,7 +435,7 @@
    {
     "keyword": "car wash hickory creek tx",
     "slug": "car-wash-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hickory-creek-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -450,7 +450,7 @@
    {
     "keyword": "gym hickory creek tx",
     "slug": "gym-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hickory-creek-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -465,7 +465,7 @@
    {
     "keyword": "vet hickory creek tx",
     "slug": "vet-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hickory-creek-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -480,7 +480,7 @@
    {
     "keyword": "haircut hickory creek tx",
     "slug": "haircut-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hickory-creek-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -495,7 +495,7 @@
    {
     "keyword": "dog boarding hickory creek tx",
     "slug": "dog-boarding-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-hickory-creek-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -510,7 +510,7 @@
    {
     "keyword": "hair salon hickory creek tx",
     "slug": "hair-salon-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hickory-creek-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -525,7 +525,7 @@
    {
     "keyword": "nail salon hickory creek tx",
     "slug": "nail-salon-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hickory-creek-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tax preparer hickory creek tx",
     "slug": "tax-preparer-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hickory-creek-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -555,7 +555,7 @@
    {
     "keyword": "insurance agency hickory creek tx",
     "slug": "insurance-agency-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hickory-creek-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -570,7 +570,7 @@
    {
     "keyword": "tax preparation hickory creek tx",
     "slug": "tax-preparation-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hickory-creek-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -585,7 +585,7 @@
    {
     "keyword": "insurance agents hickory creek tx",
     "slug": "insurance-agents-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hickory-creek-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -600,7 +600,7 @@
    {
     "keyword": "insurance agent hickory creek tx",
     "slug": "insurance-agent-hickory-creek-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hickory-creek-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hickory-creek-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,

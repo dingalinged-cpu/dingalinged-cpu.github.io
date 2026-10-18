@@ -13,12 +13,12 @@ Adis Electric is an electrician in Plano, TX at 542 Haggard Street #506, Plano, 
 - Website: https://www.adiselectric.com/
 - Email: csr@adiselectric.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00, Sa 09:00-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 9% of electricians in Dallas–Fort Worth, #1 of 2 electricians in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 9% of electricians in Dallas–Fort Worth, #1 of 2 electricians in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/adis-electric-plano/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/adis-electric-plano.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/adis-electric-plano/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/adis-electric-plano.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13457527221 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Tom's Beverage Shop is a liquor store in Fremont, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 65% of liquor stores in Omaha, NE, #1 of 1 liquor stores in Fremont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 41.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 65% of liquor stores in Omaha, NE, #1 of 1 liquor stores in Fremont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/toms-beverage-shop-fremont/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/toms-beverage-shop-fremont.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/toms-beverage-shop-fremont/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/toms-beverage-shop-fremont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4953977482 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

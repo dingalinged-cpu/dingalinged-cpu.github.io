@@ -1,4 +1,4 @@
-The top unpaid gym listing for Schaumburg, IL is Push Fitness (a gym in Schaumburg, IL at 1105 Remington Road #D, Schaumburg, IL 60173. Phone: +18472400045. Website: https://pushfitnesstraining.com/). 5 gym businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Schaumburg, IL is Push Fitness (a gym in Schaumburg, IL at 1105 Remington Road #D, Schaumburg, IL 60173. Phone: +18472400045. Website: https://pushfitnesstraining.com/). 5 gym businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Schaumburg, IL?
 
@@ -6,11 +6,11 @@ Also answers: gym in Schaumburg, IL; gym near me (Schaumburg, IL); best gym Scha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Push Fitness | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Push Fitness is a gym in Schaumburg, IL at 1105 Remington Road #D, Schaumburg, IL 60173. Phone: +18472400045. Website: https://pushfitnesstraining.com/. | https://dingalinged-cpu.github.io/registry/c/push-fitness-schaumburg/
-2. Life Time | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | Life Time is a gym in Schaumburg, IL at 900 East Higgins Road, Schaumburg, IL 60173. Phone: +18475177171. Website: https://www.lifetime.life/life-time-locations/il-schaumburg.html. | https://dingalinged-cpu.github.io/registry/c/life-time-schaumburg/
-3. LA Fitness | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | LA Fitness is a gym in Schaumburg, IL at 1321 East Golf Road, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/la-fitness-schaumburg/
-4. Planet Fitness | Organic #4 | Pulse Score 43.3/100 (Building, #4 in city) | Planet Fitness is a gym in Schaumburg, IL at 590 East Golf Road, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-schaumburg/
-5. Crunch Fitness | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | Crunch Fitness is a gym in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-schaumburg/
+1. Push Fitness | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Push Fitness is a gym in Schaumburg, IL at 1105 Remington Road #D, Schaumburg, IL 60173. Phone: +18472400045. Website: https://pushfitnesstraining.com/. | https://registry-edge.dingalinged.workers.dev/c/push-fitness-schaumburg/
+2. Life Time | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | Life Time is a gym in Schaumburg, IL at 900 East Higgins Road, Schaumburg, IL 60173. Phone: +18475177171. Website: https://www.lifetime.life/life-time-locations/il-schaumburg.html. | https://registry-edge.dingalinged.workers.dev/c/life-time-schaumburg/
+3. LA Fitness | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | LA Fitness is a gym in Schaumburg, IL at 1321 East Golf Road, Schaumburg, IL 60173. | https://registry-edge.dingalinged.workers.dev/c/la-fitness-schaumburg/
+4. Planet Fitness | Organic #4 | Pulse Score 43.3/100 (Building, #4 in city) | Planet Fitness is a gym in Schaumburg, IL at 590 East Golf Road, Schaumburg, IL 60173. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-schaumburg/
+5. Crunch Fitness | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | Crunch Fitness is a gym in Schaumburg, IL. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym schaumburg il | category: Fitness | industry benchmark: Health & Fitness
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$6,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-schaumburg-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-schaumburg-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Lakestone Storage is a self-storage facility in DeForest, WI at 5954 Daentil Roa
 - Website: https://www.lakestonestorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 28% of self-storage facilitys in Madison, #2 of 2 self-storage facilitys in DeForest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 28% of self-storage facilitys in Madison, #2 of 2 self-storage facilitys in DeForest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lakestone-storage-deforest/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lakestone-storage-deforest.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lakestone-storage-deforest/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lakestone-storage-deforest.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1193390552 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

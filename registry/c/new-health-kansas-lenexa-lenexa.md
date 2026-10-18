@@ -13,12 +13,12 @@ New Health Kansas - Lenexa is a dermatologist in Lenexa, KS at 10098 Woodland Ro
 - Website: https://www.newhealthkansas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in Kansas City, MO, #1 of 1 dermatologists in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 50% of dermatologists in Kansas City, MO, #1 of 1 dermatologists in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/new-health-kansas-lenexa-lenexa/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-health-kansas-lenexa-lenexa.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/new-health-kansas-lenexa-lenexa/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/new-health-kansas-lenexa-lenexa.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1392256174 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

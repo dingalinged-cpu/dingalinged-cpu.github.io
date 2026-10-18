@@ -2,7 +2,7 @@
  "title": "Keyword market data: Des Plaines, IL",
  "description": "Top Des Plaines, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Des Plaines, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 43,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash des plaines il",
     "slug": "car-wash-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-des-plaines-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist des plaines il",
     "slug": "dentist-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-des-plaines-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym des plaines il",
     "slug": "gym-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-des-plaines-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon des plaines il",
     "slug": "hair-salon-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-des-plaines-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon des plaines il",
     "slug": "nail-salon-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-des-plaines-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -86,7 +86,7 @@
    {
     "keyword": "barber shop des plaines il",
     "slug": "barber-shop-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-des-plaines-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic des plaines il",
     "slug": "mechanic-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-des-plaines-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop des plaines il",
     "slug": "tire-shop-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-des-plaines-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet des plaines il",
     "slug": "vet-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-des-plaines-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer des plaines il",
     "slug": "dog-groomer-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-des-plaines-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut des plaines il",
     "slug": "haircut-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-des-plaines-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair des plaines il",
     "slug": "auto-repair-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-des-plaines-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor des plaines il",
     "slug": "chiropractor-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-des-plaines-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -206,7 +206,7 @@
    {
     "keyword": "locksmith des plaines il",
     "slug": "locksmith-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-des-plaines-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agency des plaines il",
     "slug": "insurance-agency-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-des-plaines-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney des plaines il",
     "slug": "attorney-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-des-plaines-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer des plaines il",
     "slug": "lawyer-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-des-plaines-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -268,7 +268,7 @@
    {
     "keyword": "flooring companies des plaines il",
     "slug": "flooring-companies-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-des-plaines-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -283,7 +283,7 @@
    {
     "keyword": "locksmith des plaines il",
     "slug": "locksmith-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-des-plaines-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -298,7 +298,7 @@
    {
     "keyword": "storage units des plaines il",
     "slug": "storage-units-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-des-plaines-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "bakery des plaines il",
     "slug": "bakery-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-des-plaines-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "event venues des plaines il",
     "slug": "event-venues-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-des-plaines-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "florist des plaines il",
     "slug": "florist-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-des-plaines-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -358,7 +358,7 @@
    {
     "keyword": "martial arts des plaines il",
     "slug": "martial-arts-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-des-plaines-il/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8300,
@@ -373,7 +373,7 @@
    {
     "keyword": "tax preparer des plaines il",
     "slug": "tax-preparer-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-des-plaines-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool des plaines il",
     "slug": "preschool-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-des-plaines-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -403,7 +403,7 @@
    {
     "keyword": "assisted living des plaines il",
     "slug": "assisted-living-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-des-plaines-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -418,7 +418,7 @@
    {
     "keyword": "chiropractor des plaines il",
     "slug": "chiropractor-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-des-plaines-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -433,7 +433,7 @@
    {
     "keyword": "eye doctor des plaines il",
     "slug": "eye-doctor-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-des-plaines-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -448,7 +448,7 @@
    {
     "keyword": "physical therapy des plaines il",
     "slug": "physical-therapy-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-des-plaines-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist des plaines il",
     "slug": "dentist-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-des-plaines-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash des plaines il",
     "slug": "car-wash-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-des-plaines-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym des plaines il",
     "slug": "gym-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-des-plaines-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic des plaines il",
     "slug": "mechanic-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-des-plaines-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop des plaines il",
     "slug": "tire-shop-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-des-plaines-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet des plaines il",
     "slug": "vet-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-des-plaines-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "locksmith des plaines il",
     "slug": "locksmith-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-des-plaines-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog groomer des plaines il",
     "slug": "dog-groomer-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-des-plaines-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut des plaines il",
     "slug": "haircut-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-des-plaines-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair des plaines il",
     "slug": "auto-repair-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-des-plaines-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -615,7 +615,7 @@
    {
     "keyword": "chiropractor des plaines il",
     "slug": "chiropractor-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-des-plaines-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -630,7 +630,7 @@
    {
     "keyword": "hair salon des plaines il",
     "slug": "hair-salon-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-des-plaines-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -645,7 +645,7 @@
    {
     "keyword": "attorney des plaines il",
     "slug": "attorney-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-des-plaines-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -660,7 +660,7 @@
    {
     "keyword": "nail salon des plaines il",
     "slug": "nail-salon-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-des-plaines-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -675,7 +675,7 @@
    {
     "keyword": "lawyer des plaines il",
     "slug": "lawyer-des-plaines-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-des-plaines-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-des-plaines-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

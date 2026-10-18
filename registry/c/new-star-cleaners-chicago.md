@@ -13,12 +13,12 @@ New Star Cleaners is a dry cleaner in Chicago, IL at 2513 North California Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 28% of dry cleaners in Chicago, #36 of 97 dry cleaners in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 28% of dry cleaners in Chicago, #36 of 97 dry cleaners in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/new-star-cleaners-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-star-cleaners-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/new-star-cleaners-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/new-star-cleaners-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12223629664 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

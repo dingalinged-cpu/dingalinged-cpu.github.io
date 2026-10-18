@@ -13,12 +13,12 @@ Brookfield Chiropractic is a chiropractor in Brookfield, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 62% of chiropractors in Milwaukee, #2 of 4 chiropractors in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 40.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 62% of chiropractors in Milwaukee, #2 of 4 chiropractors in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 40.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/brookfield-chiropractic-brookfield/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brookfield-chiropractic-brookfield.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/brookfield-chiropractic-brookfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brookfield-chiropractic-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9555486258 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

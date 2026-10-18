@@ -2,7 +2,7 @@
  "title": "Keyword market data: Chicago, IL",
  "description": "Top Chicago, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Chicago, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage chicago il",
     "slug": "massage-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-chicago-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care chicago il",
     "slug": "urgent-care-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-chicago-il/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 76000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist chicago il",
     "slug": "dentist-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-chicago-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym chicago il",
     "slug": "gym-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-chicago-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash chicago il",
     "slug": "car-wash-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-chicago-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change chicago il",
     "slug": "oil-change-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-chicago-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon chicago il",
     "slug": "hair-salon-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-chicago-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon chicago il",
     "slug": "nail-salon-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-chicago-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes chicago il",
     "slug": "car-insurance-quotes-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-chicago-il",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber chicago il",
     "slug": "plumber-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-chicago-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments chicago il",
     "slug": "apartments-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-chicago-il",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance chicago il",
     "slug": "auto-insurance-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-chicago-il",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop chicago il",
     "slug": "barber-shop-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-chicago-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage chicago il",
     "slug": "lymphatic-drainage-massage-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-chicago-il",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic chicago il",
     "slug": "mechanic-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer chicago il",
     "slug": "personal-injury-lawyer-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-chicago-il",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber chicago il",
     "slug": "emergency-plumber-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-chicago-il",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair chicago il",
     "slug": "hvac-repair-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-chicago-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair chicago il",
     "slug": "ac-repair-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-chicago-il",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement chicago il",
     "slug": "roof-replacement-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-chicago-il",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 910,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair chicago il",
     "slug": "roof-repair-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-chicago-il",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast chicago il",
     "slug": "sell-my-house-fast-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-chicago-il",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services chicago il",
     "slug": "plumbing-services-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-chicago-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining chicago il",
     "slug": "deck-staining-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-chicago-il",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters chicago il",
     "slug": "exterior-house-painters-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-chicago-il",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters chicago il",
     "slug": "interior-painters-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-chicago-il",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters chicago il",
     "slug": "painters-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/painters-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-chicago-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company chicago il",
     "slug": "moving-company-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-chicago-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney chicago il",
     "slug": "criminal-defense-attorney-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-chicago-il",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer chicago il",
     "slug": "dui-defense-lawyer-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-chicago-il",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage chicago il",
     "slug": "massage-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-chicago-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care chicago il",
     "slug": "urgent-care-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-chicago-il/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 76000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer chicago il",
     "slug": "personal-injury-lawyer-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-chicago-il",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber chicago il",
     "slug": "plumber-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-chicago-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist chicago il",
     "slug": "dentist-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-chicago-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash chicago il",
     "slug": "car-wash-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-chicago-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change chicago il",
     "slug": "oil-change-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-chicago-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair chicago il",
     "slug": "ac-repair-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-chicago-il",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer chicago il",
     "slug": "car-accident-lawyer-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-chicago-il",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage chicago il",
     "slug": "lymphatic-drainage-massage-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-chicago-il",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym chicago il",
     "slug": "gym-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-chicago-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician chicago il",
     "slug": "electrician-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-chicago-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic chicago il",
     "slug": "mechanic-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chicago-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes chicago il",
     "slug": "car-insurance-quotes-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-chicago-il",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments chicago il",
     "slug": "apartments-chicago-il",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-chicago-il",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-chicago-il",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,

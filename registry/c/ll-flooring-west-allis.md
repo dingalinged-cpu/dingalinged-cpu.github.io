@@ -13,12 +13,12 @@ LL Flooring is a flooring company in West Allis, WI at 6740 West Greenfield Aven
 - Website: https://www.llflooring.com/stores/wi/west-allis/6740-west-greenfield-ave
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su off
-- Pulse Score: 49.3/100 — Building — top 86% of flooring companys in Milwaukee, #1 of 1 flooring companys in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 86% of flooring companys in Milwaukee, #1 of 1 flooring companys in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ll-flooring-west-allis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ll-flooring-west-allis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ll-flooring-west-allis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ll-flooring-west-allis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9733515559 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

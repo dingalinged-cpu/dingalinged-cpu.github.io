@@ -2,7 +2,7 @@
  "title": "Keyword market data: Winston, NC",
  "description": "Top Winston, NC service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Winston, NC",
  "geography": "Winston-Salem, NC metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage winston nc",
     "slug": "massage-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-winston-nc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care winston nc",
     "slug": "urgent-care-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-winston-nc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist winston nc",
     "slug": "dentist-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-winston-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym winston nc",
     "slug": "gym-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-winston-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash winston nc",
     "slug": "car-wash-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-winston-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change winston nc",
     "slug": "oil-change-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-winston-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon winston nc",
     "slug": "hair-salon-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-winston-nc",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon winston nc",
     "slug": "nail-salon-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-winston-nc",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes winston nc",
     "slug": "car-insurance-quotes-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-winston-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber winston nc",
     "slug": "plumber-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-winston-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments winston nc",
     "slug": "apartments-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-winston-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance winston nc",
     "slug": "auto-insurance-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-winston-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop winston nc",
     "slug": "barber-shop-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-winston-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage winston nc",
     "slug": "lymphatic-drainage-massage-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-winston-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic winston nc",
     "slug": "mechanic-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-winston-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer winston nc",
     "slug": "personal-injury-lawyer-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-winston-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber winston nc",
     "slug": "emergency-plumber-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-winston-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair winston nc",
     "slug": "hvac-repair-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-winston-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair winston nc",
     "slug": "ac-repair-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-winston-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement winston nc",
     "slug": "roof-replacement-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-winston-nc",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 69.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair winston nc",
     "slug": "roof-repair-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-winston-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast winston nc",
     "slug": "sell-my-house-fast-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-winston-nc",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 21.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services winston nc",
     "slug": "plumbing-services-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-winston-nc",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 100,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining winston nc",
     "slug": "deck-staining-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-winston-nc",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 38.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters winston nc",
     "slug": "exterior-house-painters-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-winston-nc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters winston nc",
     "slug": "interior-painters-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-winston-nc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters winston nc",
     "slug": "painters-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-winston-nc",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company winston nc",
     "slug": "moving-company-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-winston-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney winston nc",
     "slug": "criminal-defense-attorney-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-winston-nc",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer winston nc",
     "slug": "dui-defense-lawyer-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-winston-nc",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7.5,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage winston nc",
     "slug": "massage-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-winston-nc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care winston nc",
     "slug": "urgent-care-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-winston-nc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer winston nc",
     "slug": "personal-injury-lawyer-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-winston-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber winston nc",
     "slug": "plumber-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-winston-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist winston nc",
     "slug": "dentist-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-winston-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash winston nc",
     "slug": "car-wash-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-winston-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change winston nc",
     "slug": "oil-change-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-winston-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair winston nc",
     "slug": "ac-repair-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-winston-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer winston nc",
     "slug": "car-accident-lawyer-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-winston-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage winston nc",
     "slug": "lymphatic-drainage-massage-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-winston-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym winston nc",
     "slug": "gym-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-winston-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician winston nc",
     "slug": "electrician-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-winston-nc",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic winston nc",
     "slug": "mechanic-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-winston-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes winston nc",
     "slug": "car-insurance-quotes-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-winston-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments winston nc",
     "slug": "apartments-winston-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-winston-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-winston-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,

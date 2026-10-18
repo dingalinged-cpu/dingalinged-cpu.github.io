@@ -2,7 +2,7 @@
  "title": "Keyword market data: Jonesboro, GA",
  "description": "Top Jonesboro, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Jonesboro, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 21,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash jonesboro ga",
     "slug": "car-wash-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-jonesboro-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon jonesboro ga",
     "slug": "hair-salon-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-jonesboro-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic jonesboro ga",
     "slug": "mechanic-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-jonesboro-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -56,7 +56,7 @@
    {
     "keyword": "tire shop jonesboro ga",
     "slug": "tire-shop-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-jonesboro-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut jonesboro ga",
     "slug": "haircut-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-jonesboro-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair jonesboro ga",
     "slug": "auto-repair-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-jonesboro-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -101,7 +101,7 @@
    {
     "keyword": "chiropractor jonesboro ga",
     "slug": "chiropractor-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-jonesboro-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agency jonesboro ga",
     "slug": "insurance-agency-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-jonesboro-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto body shop jonesboro ga",
     "slug": "auto-body-shop-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-jonesboro-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agents jonesboro ga",
     "slug": "insurance-agents-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-jonesboro-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agent jonesboro ga",
     "slug": "insurance-agent-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-jonesboro-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -176,7 +176,7 @@
    {
     "keyword": "accountant jonesboro ga",
     "slug": "accountant-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-jonesboro-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -191,7 +191,7 @@
    {
     "keyword": "accounting services jonesboro ga",
     "slug": "accounting-services-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-jonesboro-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -208,7 +208,7 @@
    {
     "keyword": "storage units jonesboro ga",
     "slug": "storage-units-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-jonesboro-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -223,7 +223,7 @@
    {
     "keyword": "accounting services jonesboro ga",
     "slug": "accounting-services-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-jonesboro-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -238,7 +238,7 @@
    {
     "keyword": "accountant jonesboro ga",
     "slug": "accountant-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-jonesboro-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -253,7 +253,7 @@
    {
     "keyword": "chiropractor jonesboro ga",
     "slug": "chiropractor-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-jonesboro-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -268,7 +268,7 @@
    {
     "keyword": "podiatrist jonesboro ga",
     "slug": "podiatrist-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/podiatrist-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/podiatrist-jonesboro-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -283,7 +283,7 @@
    {
     "keyword": "haircut jonesboro ga",
     "slug": "haircut-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-jonesboro-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -298,7 +298,7 @@
    {
     "keyword": "tanning salon jonesboro ga",
     "slug": "tanning-salon-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon-jonesboro-ga/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 570,
@@ -313,7 +313,7 @@
    {
     "keyword": "auto body shop jonesboro ga",
     "slug": "auto-body-shop-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-jonesboro-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -328,7 +328,7 @@
    {
     "keyword": "auto repair jonesboro ga",
     "slug": "auto-repair-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-jonesboro-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -343,7 +343,7 @@
    {
     "keyword": "car wash jonesboro ga",
     "slug": "car-wash-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-jonesboro-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -358,7 +358,7 @@
    {
     "keyword": "mechanic jonesboro ga",
     "slug": "mechanic-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-jonesboro-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -373,7 +373,7 @@
    {
     "keyword": "motorcycle repair jonesboro ga",
     "slug": "motorcycle-repair-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/motorcycle-repair-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/motorcycle-repair-jonesboro-ga/",
     "us_monthly_searches": 22000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 420,
@@ -388,7 +388,7 @@
    {
     "keyword": "tire shop jonesboro ga",
     "slug": "tire-shop-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-jonesboro-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -403,7 +403,7 @@
    {
     "keyword": "furniture store jonesboro ga",
     "slug": "furniture-store-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-jonesboro-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -418,7 +418,7 @@
    {
     "keyword": "liquor store jonesboro ga",
     "slug": "liquor-store-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-jonesboro-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -435,7 +435,7 @@
    {
     "keyword": "car wash jonesboro ga",
     "slug": "car-wash-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-jonesboro-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -450,7 +450,7 @@
    {
     "keyword": "mechanic jonesboro ga",
     "slug": "mechanic-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-jonesboro-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -465,7 +465,7 @@
    {
     "keyword": "tire shop jonesboro ga",
     "slug": "tire-shop-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-jonesboro-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -480,7 +480,7 @@
    {
     "keyword": "haircut jonesboro ga",
     "slug": "haircut-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-jonesboro-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -495,7 +495,7 @@
    {
     "keyword": "auto repair jonesboro ga",
     "slug": "auto-repair-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-jonesboro-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -510,7 +510,7 @@
    {
     "keyword": "chiropractor jonesboro ga",
     "slug": "chiropractor-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-jonesboro-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -525,7 +525,7 @@
    {
     "keyword": "hair salon jonesboro ga",
     "slug": "hair-salon-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-jonesboro-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -540,7 +540,7 @@
    {
     "keyword": "insurance agency jonesboro ga",
     "slug": "insurance-agency-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-jonesboro-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -555,7 +555,7 @@
    {
     "keyword": "auto body shop jonesboro ga",
     "slug": "auto-body-shop-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-jonesboro-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -570,7 +570,7 @@
    {
     "keyword": "accountant jonesboro ga",
     "slug": "accountant-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-jonesboro-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -585,7 +585,7 @@
    {
     "keyword": "insurance agents jonesboro ga",
     "slug": "insurance-agents-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-jonesboro-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -600,7 +600,7 @@
    {
     "keyword": "insurance agent jonesboro ga",
     "slug": "insurance-agent-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-jonesboro-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -615,7 +615,7 @@
    {
     "keyword": "accounting services jonesboro ga",
     "slug": "accounting-services-jonesboro-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-jonesboro-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-jonesboro-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,

@@ -13,12 +13,12 @@ Smile Zone is a dentist in Denton, TX at 2109 West University Drive, Denton, TX 
 - Website: https://www.northtexaspdo.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 24% of dentists in Dallas–Fort Worth, #9 of 29 dentists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 24% of dentists in Dallas–Fort Worth, #9 of 29 dentists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/smile-zone-denton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/smile-zone-denton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/smile-zone-denton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smile-zone-denton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/524236900 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

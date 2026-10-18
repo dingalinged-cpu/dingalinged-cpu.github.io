@@ -13,12 +13,12 @@ Osman Cleaners is a dry cleaner in Minneapolis, MN. Phone: +16123741462.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 18% of dry cleaners in Minneapolis–St. Paul, #4 of 13 dry cleaners in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 18% of dry cleaners in Minneapolis–St. Paul, #4 of 13 dry cleaners in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/osman-cleaners-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/osman-cleaners-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/osman-cleaners-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/osman-cleaners-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/88444151 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

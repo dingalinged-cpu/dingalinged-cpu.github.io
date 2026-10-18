@@ -2,7 +2,7 @@
  "title": "Keyword market data: Henry County, GA",
  "description": "Top Henry County, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Henry County, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 17,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash henry county ga",
     "slug": "car-wash-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-henry-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym henry county ga",
     "slug": "gym-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-henry-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon henry county ga",
     "slug": "hair-salon-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-henry-county-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic henry county ga",
     "slug": "mechanic-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-henry-county-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -71,7 +71,7 @@
    {
     "keyword": "tire shop henry county ga",
     "slug": "tire-shop-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-henry-county-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut henry county ga",
     "slug": "haircut-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-henry-county-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair henry county ga",
     "slug": "auto-repair-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-henry-county-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agency henry county ga",
     "slug": "insurance-agency-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-henry-county-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agents henry county ga",
     "slug": "insurance-agents-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-henry-county-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agent henry county ga",
     "slug": "insurance-agent-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-henry-county-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -161,7 +161,7 @@
    {
     "keyword": "flooring companies henry county ga",
     "slug": "flooring-companies-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-henry-county-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -178,7 +178,7 @@
    {
     "keyword": "flooring companies henry county ga",
     "slug": "flooring-companies-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-henry-county-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -193,7 +193,7 @@
    {
     "keyword": "storage units henry county ga",
     "slug": "storage-units-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-henry-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -208,7 +208,7 @@
    {
     "keyword": "haircut henry county ga",
     "slug": "haircut-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-henry-county-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -223,7 +223,7 @@
    {
     "keyword": "auto repair henry county ga",
     "slug": "auto-repair-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-henry-county-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -238,7 +238,7 @@
    {
     "keyword": "car wash henry county ga",
     "slug": "car-wash-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-henry-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -253,7 +253,7 @@
    {
     "keyword": "mechanic henry county ga",
     "slug": "mechanic-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-henry-county-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -268,7 +268,7 @@
    {
     "keyword": "tire shop henry county ga",
     "slug": "tire-shop-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-henry-county-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -283,7 +283,7 @@
    {
     "keyword": "bike shop henry county ga",
     "slug": "bike-shop-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-henry-county-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -298,7 +298,7 @@
    {
     "keyword": "furniture store henry county ga",
     "slug": "furniture-store-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-henry-county-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -313,7 +313,7 @@
    {
     "keyword": "computer repair henry county ga",
     "slug": "computer-repair-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/computer-repair-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/computer-repair-henry-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -328,7 +328,7 @@
    {
     "keyword": "insurance agency henry county ga",
     "slug": "insurance-agency-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-henry-county-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -343,7 +343,7 @@
    {
     "keyword": "insurance agent henry county ga",
     "slug": "insurance-agent-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-henry-county-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -358,7 +358,7 @@
    {
     "keyword": "insurance agents henry county ga",
     "slug": "insurance-agents-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-henry-county-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -373,7 +373,7 @@
    {
     "keyword": "phone repair henry county ga",
     "slug": "phone-repair-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/phone-repair-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/phone-repair-henry-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -388,7 +388,7 @@
    {
     "keyword": "printing services henry county ga",
     "slug": "printing-services-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-henry-county-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -405,7 +405,7 @@
    {
     "keyword": "car wash henry county ga",
     "slug": "car-wash-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-henry-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -420,7 +420,7 @@
    {
     "keyword": "gym henry county ga",
     "slug": "gym-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-henry-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -435,7 +435,7 @@
    {
     "keyword": "mechanic henry county ga",
     "slug": "mechanic-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-henry-county-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -450,7 +450,7 @@
    {
     "keyword": "tire shop henry county ga",
     "slug": "tire-shop-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-henry-county-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -465,7 +465,7 @@
    {
     "keyword": "haircut henry county ga",
     "slug": "haircut-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-henry-county-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -480,7 +480,7 @@
    {
     "keyword": "auto repair henry county ga",
     "slug": "auto-repair-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-henry-county-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -495,7 +495,7 @@
    {
     "keyword": "hair salon henry county ga",
     "slug": "hair-salon-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-henry-county-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -510,7 +510,7 @@
    {
     "keyword": "insurance agency henry county ga",
     "slug": "insurance-agency-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-henry-county-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -525,7 +525,7 @@
    {
     "keyword": "insurance agents henry county ga",
     "slug": "insurance-agents-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-henry-county-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -540,7 +540,7 @@
    {
     "keyword": "flooring companies henry county ga",
     "slug": "flooring-companies-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-henry-county-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -555,7 +555,7 @@
    {
     "keyword": "insurance agent henry county ga",
     "slug": "insurance-agent-henry-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-henry-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-henry-county-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,

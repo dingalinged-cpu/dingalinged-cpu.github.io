@@ -13,12 +13,12 @@ iShine Express Car Wash & Detail is a car wash in Missouri City, TX at 8331 Copp
 - Website: https://ishinecarwash.com/MissouriCity
 - Email: ishine8331@gmail.com
 - Opening hours (OSM syntax): 07:30-19:30; easter off; Nov Th[4] off; Dec 25 off
-- Pulse Score: 52.9/100 — Unrated (not enough evidence yet) — top 41% of car washes in Houston, #2 of 3 car washes in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.2, Trust 66.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.9/100 — Unrated (not enough evidence yet) — top 41% of car washes in Houston, #2 of 3 car washes in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.2, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ishine-express-car-wash-and-detail-missouri-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ishine-express-car-wash-and-detail-missouri-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ishine-express-car-wash-and-detail-missouri-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ishine-express-car-wash-and-detail-missouri-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12732030785 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

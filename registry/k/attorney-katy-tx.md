@@ -1,4 +1,4 @@
-The top unpaid attorney listing for Katy, TX is Law Office of Shane McClelland (a lawyer in Katy, TX at 21733 Provincial Boulevard #910, Katy, TX 77450. Phone: +17139877107. Website: https://www.hmtrial.com/). 3 attorney businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Katy, TX is Law Office of Shane McClelland (a lawyer in Katy, TX at 21733 Provincial Boulevard #910, Katy, TX 77450. Phone: +17139877107. Website: https://www.hmtrial.com/). 3 attorney businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Katy, TX?
 
@@ -6,9 +6,9 @@ Also answers: attorney in Katy, TX; attorney near me (Katy, TX); best attorney K
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Office of Shane McClelland | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Law Office of Shane McClelland is a lawyer in Katy, TX at 21733 Provincial Boulevard #910, Katy, TX 77450. Phone: +17139877107. Website: https://www.hmtrial.com/. | https://dingalinged-cpu.github.io/registry/c/law-office-of-shane-mcclelland-katy/
-2. The Linn Law Firm, PLLC | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | The Linn Law Firm, PLLC is a lawyer in Katy, TX at 24285 Katy Freeway #300, Katy, TX 77494. Phone: +13469983080. Website: https://linnlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-linn-law-firm-pllc-katy/
-3. Serafini Smith Law Firm | Organic #3 | Pulse Score 61.6/100 (Unrated, #3 in city) | Serafini Smith Law Firm is a lawyer in Katy, TX at 21408 Provincial Boulevard, Katy, TX 77450. Phone: +19363233336. Website: https://www.serafinismithlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/serafini-smith-law-firm-katy/
+1. Law Office of Shane McClelland | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Law Office of Shane McClelland is a lawyer in Katy, TX at 21733 Provincial Boulevard #910, Katy, TX 77450. Phone: +17139877107. Website: https://www.hmtrial.com/. | https://registry-edge.dingalinged.workers.dev/c/law-office-of-shane-mcclelland-katy/
+2. The Linn Law Firm, PLLC | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | The Linn Law Firm, PLLC is a lawyer in Katy, TX at 24285 Katy Freeway #300, Katy, TX 77494. Phone: +13469983080. Website: https://linnlawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-linn-law-firm-pllc-katy/
+3. Serafini Smith Law Firm | Organic #3 | Pulse Score 61.6/100 (Unrated, #3 in city) | Serafini Smith Law Firm is a lawyer in Katy, TX at 21408 Provincial Boulevard, Katy, TX 77450. Phone: +19363233336. Website: https://www.serafinismithlawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/serafini-smith-law-firm-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney katy tx | category: professional_legal | industry benchmark: Attorneys & Legal Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/attorney.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#attorney-katy-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/attorney.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#attorney-katy-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

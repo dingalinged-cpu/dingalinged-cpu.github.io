@@ -13,12 +13,12 @@ Law Firm of Lester Van Slyke, Jr is a lawyer in Richmond, TX at 500 Morton Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 73% of lawyers in Houston, #3 of 7 lawyers in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 43.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 73% of lawyers in Houston, #3 of 7 lawyers in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 43.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/law-firm-of-lester-van-slyke-jr-richmond/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-firm-of-lester-van-slyke-jr-richmond.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/law-firm-of-lester-van-slyke-jr-richmond/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/law-firm-of-lester-van-slyke-jr-richmond.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/608001734 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

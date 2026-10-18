@@ -13,12 +13,12 @@ Liz's Pet Shop is a pet store in Chicago, IL at 2403 West Chicago Avenue, Chicag
 - Website: https://www.lizspetshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-18:30; Su 11:00-16:30
-- Pulse Score: 59.1/100 — Fair — top 9% of pet stores in Chicago, #5 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Fair — top 9% of pet stores in Chicago, #5 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lizs-pet-shop-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lizs-pet-shop-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lizs-pet-shop-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lizs-pet-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9943957328 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Massage Heights is a massage studio in Houston, TX at 4580 Kingwood Drive #C, Ho
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Building — top 92% of massage studios in Houston, #51 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44/100 — Building — top 92% of massage studios in Houston, #51 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/massage-heights-houston-n4113059985/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/massage-heights-houston-n4113059985.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/massage-heights-houston-n4113059985/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/massage-heights-houston-n4113059985.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4113059985 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

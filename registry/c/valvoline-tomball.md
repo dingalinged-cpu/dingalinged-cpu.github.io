@@ -13,12 +13,12 @@ Valvoline is an auto repair shop in Tomball, TX at 1140 West Main Street, Tombal
 - Website: https://store.vioc.com/tx/tomball/oil-change-070086.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 68% of auto repair shops in Houston, #5 of 9 auto repair shops in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 68% of auto repair shops in Houston, #5 of 9 auto repair shops in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-tomball/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-tomball.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-tomball/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-tomball.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/521298471 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

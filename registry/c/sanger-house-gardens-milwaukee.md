@@ -13,12 +13,12 @@ Sanger House Gardens is an event venue in Milwaukee, WI at 1823 North Palmer Str
 - Website: https://www.sangerhousegardens.com/
 - Email: sangerhousegardens@att.net
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 10% of event venues in Milwaukee, #6 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 65.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 10% of event venues in Milwaukee, #6 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 65.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sanger-house-gardens-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sanger-house-gardens-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sanger-house-gardens-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sanger-house-gardens-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/648888194 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

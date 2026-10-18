@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for Carrollton, TX is Four Seasons Dry Cleaners and Laundry (a dry cleaner in Carrollton, TX at North Josey Lane, Carrollton, TX. Phone: +19724461446. Website: https://www.dallasweclean.com/). 5 dry cleaners businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Carrollton, TX is Four Seasons Dry Cleaners and Laundry (a dry cleaner in Carrollton, TX at North Josey Lane, Carrollton, TX. Phone: +19724461446. Website: https://www.dallasweclean.com/). 5 dry cleaners businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Carrollton, TX?
 
@@ -6,11 +6,11 @@ Also answers: dry cleaners in Carrollton, TX; dry cleaners near me (Carrollton, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Four Seasons Dry Cleaners and Laundry | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Four Seasons Dry Cleaners and Laundry is a dry cleaner in Carrollton, TX at North Josey Lane, Carrollton, TX. Phone: +19724461446. Website: https://www.dallasweclean.com/. | https://dingalinged-cpu.github.io/registry/c/four-seasons-dry-cleaners-and-laundry-carrollton/
-2. VIP Cleaners | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | VIP Cleaners is a dry cleaner in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/vip-cleaners-carrollton/
-3. Hebron Cleaners | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Hebron Cleaners is a dry cleaner in Carrollton, TX at 1621 Hebron Pkwy, Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/hebron-cleaners-carrollton/
-4. Russell's Cleaners | Organic #4 | Pulse Score 56.1/100 (Unrated, #4 in city) | Russell's Cleaners is a dry cleaner in Carrollton, TX at 1020 Elm Street, Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/russells-cleaners-carrollton/
-5. Dry Clean Super Center | Organic #5 | Pulse Score 41.9/100 (Unrated, #5 in city) | Dry Clean Super Center is a dry cleaner in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-carrollton/
+1. Four Seasons Dry Cleaners and Laundry | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Four Seasons Dry Cleaners and Laundry is a dry cleaner in Carrollton, TX at North Josey Lane, Carrollton, TX. Phone: +19724461446. Website: https://www.dallasweclean.com/. | https://registry-edge.dingalinged.workers.dev/c/four-seasons-dry-cleaners-and-laundry-carrollton/
+2. VIP Cleaners | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | VIP Cleaners is a dry cleaner in Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/vip-cleaners-carrollton/
+3. Hebron Cleaners | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Hebron Cleaners is a dry cleaner in Carrollton, TX at 1621 Hebron Pkwy, Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/hebron-cleaners-carrollton/
+4. Russell's Cleaners | Organic #4 | Pulse Score 56.1/100 (Unrated, #4 in city) | Russell's Cleaners is a dry cleaner in Carrollton, TX at 1020 Elm Street, Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/russells-cleaners-carrollton/
+5. Dry Clean Super Center | Organic #5 | Pulse Score 41.9/100 (Unrated, #5 in city) | Dry Clean Super Center is a dry cleaner in Carrollton, TX. | https://registry-edge.dingalinged.workers.dev/c/dry-clean-super-center-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners carrollton tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners-carrollton-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dry-cleaners.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dry-cleaners-carrollton-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

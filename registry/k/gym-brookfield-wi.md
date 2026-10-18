@@ -1,4 +1,4 @@
-The top unpaid gym listing for Brookfield, WI is Just Breakthrough Personal Fitness (a gym in Brookfield, WI). 10 gym businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Brookfield, WI is Just Breakthrough Personal Fitness (a gym in Brookfield, WI). 10 gym businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Brookfield, WI?
 
@@ -6,16 +6,16 @@ Also answers: gym in Brookfield, WI; gym near me (Brookfield, WI); best gym Broo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Just Breakthrough Personal Fitness | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Just Breakthrough Personal Fitness is a gym in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/just-breakthrough-personal-fitness-brookfield/
-2. Top Fitness | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Top Fitness is a gym in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/top-fitness-brookfield/
-3. USA Ninja Challenge | Organic #3 | Pulse Score 48.9/100 (Building, #3 in city) | USA Ninja Challenge is a gym in Brookfield, WI at 3225 Gateway Road #Suite 650, Brookfield, WI 53045. Phone: +12623954324. Website: https://ninjabrookfield.com/. | https://dingalinged-cpu.github.io/registry/c/usa-ninja-challenge-brookfield/
-4. Orangetheory Fitness | Organic #4 | Pulse Score 45.2/100 (Building, #4 in city) | Orangetheory Fitness is a gym in Brookfield, WI at 95 North Moorland Road #F10, Brookfield, WI 53005. Phone: +12624398402. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-brookfield/
-5. Life Time | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | Life Time is a gym in Brookfield, WI at 17585 Golf Parkway, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/life-time-brookfield/
-6. Anytime Fitness | Organic #6 | Pulse Score 43.8/100 (Building, #6 in city) | Anytime Fitness is a gym in Brookfield, WI at 12501 West Bluemound Road, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-brookfield/
-7. Planet Fitness | Organic #7 | Pulse Score 43.2/100 (Building, #7 in city) | Planet Fitness is a gym in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-brookfield/
-8. F45 Training | Organic #8 | Pulse Score 41.9/100 (Building, #8 in city) | F45 Training is a gym in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/f45-training-brookfield/
-9. Orange Shoe Personal Fitness | Organic #9 | Pulse Score 41.4/100 (Unrated, #9 in city) | Orange Shoe Personal Fitness is a gym in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/orange-shoe-personal-fitness-brookfield/
-10. Spenga | Organic #10 | Pulse Score 41.4/100 (Unrated, #10 in city) | Spenga is a gym in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/spenga-brookfield/
+1. Just Breakthrough Personal Fitness | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Just Breakthrough Personal Fitness is a gym in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/just-breakthrough-personal-fitness-brookfield/
+2. Top Fitness | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Top Fitness is a gym in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/top-fitness-brookfield/
+3. USA Ninja Challenge | Organic #3 | Pulse Score 48.9/100 (Building, #3 in city) | USA Ninja Challenge is a gym in Brookfield, WI at 3225 Gateway Road #Suite 650, Brookfield, WI 53045. Phone: +12623954324. Website: https://ninjabrookfield.com/. | https://registry-edge.dingalinged.workers.dev/c/usa-ninja-challenge-brookfield/
+4. Orangetheory Fitness | Organic #4 | Pulse Score 45.2/100 (Building, #4 in city) | Orangetheory Fitness is a gym in Brookfield, WI at 95 North Moorland Road #F10, Brookfield, WI 53005. Phone: +12624398402. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-brookfield/
+5. Life Time | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | Life Time is a gym in Brookfield, WI at 17585 Golf Parkway, Brookfield, WI 53045. | https://registry-edge.dingalinged.workers.dev/c/life-time-brookfield/
+6. Anytime Fitness | Organic #6 | Pulse Score 43.8/100 (Building, #6 in city) | Anytime Fitness is a gym in Brookfield, WI at 12501 West Bluemound Road, Brookfield, WI 53005. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-brookfield/
+7. Planet Fitness | Organic #7 | Pulse Score 43.2/100 (Building, #7 in city) | Planet Fitness is a gym in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-brookfield/
+8. F45 Training | Organic #8 | Pulse Score 41.9/100 (Building, #8 in city) | F45 Training is a gym in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/f45-training-brookfield/
+9. Orange Shoe Personal Fitness | Organic #9 | Pulse Score 41.4/100 (Unrated, #9 in city) | Orange Shoe Personal Fitness is a gym in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/orange-shoe-personal-fitness-brookfield/
+10. Spenga | Organic #10 | Pulse Score 41.4/100 (Unrated, #10 in city) | Spenga is a gym in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/spenga-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym brookfield wi | category: Fitness | industry benchmark: Health & Fitness
@@ -29,6 +29,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-brookfield-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-brookfield-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Mequon, WI",
  "description": "Top Mequon, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Mequon, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 27,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash mequon wi",
     "slug": "car-wash-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-mequon-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist mequon wi",
     "slug": "dentist-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-mequon-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym mequon wi",
     "slug": "gym-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-mequon-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic mequon wi",
     "slug": "mechanic-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-mequon-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet mequon wi",
     "slug": "vet-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-mequon-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair mequon wi",
     "slug": "auto-repair-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-mequon-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -101,7 +101,7 @@
    {
     "keyword": "spa mequon wi",
     "slug": "spa-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-mequon-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -116,7 +116,7 @@
    {
     "keyword": "attorney mequon wi",
     "slug": "attorney-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-mequon-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -131,7 +131,7 @@
    {
     "keyword": "lawyer mequon wi",
     "slug": "lawyer-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-mequon-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -146,7 +146,7 @@
    {
     "keyword": "accountant mequon wi",
     "slug": "accountant-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-mequon-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -161,7 +161,7 @@
    {
     "keyword": "accounting services mequon wi",
     "slug": "accounting-services-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-mequon-wi/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 56.0,
@@ -178,7 +178,7 @@
    {
     "keyword": "attorney mequon wi",
     "slug": "attorney-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-mequon-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -193,7 +193,7 @@
    {
     "keyword": "lawyer mequon wi",
     "slug": "lawyer-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-mequon-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -208,7 +208,7 @@
    {
     "keyword": "storage units mequon wi",
     "slug": "storage-units-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-mequon-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -223,7 +223,7 @@
    {
     "keyword": "bakery mequon wi",
     "slug": "bakery-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-mequon-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -238,7 +238,7 @@
    {
     "keyword": "dance studio mequon wi",
     "slug": "dance-studio-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-mequon-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 180,
@@ -253,7 +253,7 @@
    {
     "keyword": "accounting services mequon wi",
     "slug": "accounting-services-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-mequon-wi/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 56.0,
@@ -268,7 +268,7 @@
    {
     "keyword": "accountant mequon wi",
     "slug": "accountant-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-mequon-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -283,7 +283,7 @@
    {
     "keyword": "daycare mequon wi",
     "slug": "daycare-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-mequon-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -298,7 +298,7 @@
    {
     "keyword": "preschool mequon wi",
     "slug": "preschool-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-mequon-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -313,7 +313,7 @@
    {
     "keyword": "assisted living mequon wi",
     "slug": "assisted-living-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-mequon-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -328,7 +328,7 @@
    {
     "keyword": "audiologist mequon wi",
     "slug": "audiologist-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/audiologist-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/audiologist-mequon-wi/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 150,
@@ -343,7 +343,7 @@
    {
     "keyword": "dentist mequon wi",
     "slug": "dentist-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-mequon-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -358,7 +358,7 @@
    {
     "keyword": "spa mequon wi",
     "slug": "spa-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-mequon-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -373,7 +373,7 @@
    {
     "keyword": "tanning salon mequon wi",
     "slug": "tanning-salon-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon-mequon-wi/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 140,
@@ -388,7 +388,7 @@
    {
     "keyword": "auto repair mequon wi",
     "slug": "auto-repair-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-mequon-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -405,7 +405,7 @@
    {
     "keyword": "dentist mequon wi",
     "slug": "dentist-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-mequon-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -420,7 +420,7 @@
    {
     "keyword": "car wash mequon wi",
     "slug": "car-wash-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-mequon-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -435,7 +435,7 @@
    {
     "keyword": "gym mequon wi",
     "slug": "gym-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-mequon-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -450,7 +450,7 @@
    {
     "keyword": "mechanic mequon wi",
     "slug": "mechanic-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-mequon-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -465,7 +465,7 @@
    {
     "keyword": "vet mequon wi",
     "slug": "vet-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-mequon-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -480,7 +480,7 @@
    {
     "keyword": "auto repair mequon wi",
     "slug": "auto-repair-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-mequon-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -495,7 +495,7 @@
    {
     "keyword": "spa mequon wi",
     "slug": "spa-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-mequon-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -510,7 +510,7 @@
    {
     "keyword": "attorney mequon wi",
     "slug": "attorney-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-mequon-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -525,7 +525,7 @@
    {
     "keyword": "lawyer mequon wi",
     "slug": "lawyer-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-mequon-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -540,7 +540,7 @@
    {
     "keyword": "accountant mequon wi",
     "slug": "accountant-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-mequon-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -555,7 +555,7 @@
    {
     "keyword": "accounting services mequon wi",
     "slug": "accounting-services-mequon-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-mequon-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-mequon-wi/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 56.0,

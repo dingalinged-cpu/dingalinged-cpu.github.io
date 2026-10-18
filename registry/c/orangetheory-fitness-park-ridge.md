@@ -13,12 +13,12 @@ Orangetheory Fitness is a gym in Park Ridge, IL at 10 North Northwest Highway, P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 59% of gyms in Chicago, #2 of 4 gyms in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 59% of gyms in Chicago, #2 of 4 gyms in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-park-ridge/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/orangetheory-fitness-park-ridge.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-park-ridge/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/orangetheory-fitness-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7616224965 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid attorney listing for Decatur, GA is Williams & Associates (a lawyer in Decatur, GA at 220 Church Street, Decatur, GA 30030. Phone: +14043703783. Website: https://ritatuckerwilliamsattorneyatlaw.com/). 3 attorney businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Decatur, GA is Williams & Associates (a lawyer in Decatur, GA at 220 Church Street, Decatur, GA 30030. Phone: +14043703783. Website: https://ritatuckerwilliamsattorneyatlaw.com/). 3 attorney businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Decatur, GA?
 
@@ -6,9 +6,9 @@ Also answers: attorney in Decatur, GA; attorney near me (Decatur, GA); best atto
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Williams & Associates | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Williams & Associates is a lawyer in Decatur, GA at 220 Church Street, Decatur, GA 30030. Phone: +14043703783. Website: https://ritatuckerwilliamsattorneyatlaw.com/. | https://dingalinged-cpu.github.io/registry/c/williams-and-associates-decatur/
-2. Manji Law, P.C. | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Manji Law, P.C. is a lawyer in Decatur, GA at 315 West Ponce de Leon Avenue #Suite 400, Decatur, GA 30030. Phone: +16789022999. Website: https://www.manjilaw.com/. | https://dingalinged-cpu.github.io/registry/c/manji-law-p-c-decatur/
-3. Scholle Law | Organic #3 | Pulse Score 49.6/100 (Unrated, #3 in city) | Scholle Law is a lawyer in Decatur, GA at 160 Clairemont Avenue #200, Decatur, GA 30030. Phone: +16786078890. Website: https://www.schollelaw.com/locations/decatur. | https://dingalinged-cpu.github.io/registry/c/scholle-law-decatur/
+1. Williams & Associates | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Williams & Associates is a lawyer in Decatur, GA at 220 Church Street, Decatur, GA 30030. Phone: +14043703783. Website: https://ritatuckerwilliamsattorneyatlaw.com/. | https://registry-edge.dingalinged.workers.dev/c/williams-and-associates-decatur/
+2. Manji Law, P.C. | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Manji Law, P.C. is a lawyer in Decatur, GA at 315 West Ponce de Leon Avenue #Suite 400, Decatur, GA 30030. Phone: +16789022999. Website: https://www.manjilaw.com/. | https://registry-edge.dingalinged.workers.dev/c/manji-law-p-c-decatur/
+3. Scholle Law | Organic #3 | Pulse Score 49.6/100 (Unrated, #3 in city) | Scholle Law is a lawyer in Decatur, GA at 160 Clairemont Avenue #200, Decatur, GA 30030. Phone: +16786078890. Website: https://www.schollelaw.com/locations/decatur. | https://registry-edge.dingalinged.workers.dev/c/scholle-law-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney decatur ga | category: professional_legal | industry benchmark: Attorneys & Legal Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$820 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/attorney.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#attorney-decatur-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/attorney.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#attorney-decatur-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

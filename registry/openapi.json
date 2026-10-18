@@ -6,7 +6,7 @@
  },
  "servers": [
   {
-   "url": "https://dingalinged-cpu.github.io/registry/"
+   "url": "https://registry-edge.dingalinged.workers.dev/"
   }
  ],
  "paths": {

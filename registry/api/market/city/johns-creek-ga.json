@@ -2,7 +2,7 @@
  "title": "Keyword market data: Johns Creek, GA",
  "description": "Top Johns Creek, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Johns Creek, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 44,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage johns creek ga",
     "slug": "massage-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-johns-creek-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist johns creek ga",
     "slug": "dentist-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-johns-creek-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym johns creek ga",
     "slug": "gym-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-johns-creek-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon johns creek ga",
     "slug": "hair-salon-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-johns-creek-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon johns creek ga",
     "slug": "nail-salon-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-johns-creek-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "barber shop johns creek ga",
     "slug": "barber-shop-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-johns-creek-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic johns creek ga",
     "slug": "mechanic-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-johns-creek-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop johns creek ga",
     "slug": "tire-shop-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-johns-creek-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet johns creek ga",
     "slug": "vet-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-johns-creek-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer johns creek ga",
     "slug": "dog-groomer-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-johns-creek-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut johns creek ga",
     "slug": "haircut-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-johns-creek-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair johns creek ga",
     "slug": "auto-repair-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-johns-creek-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -191,7 +191,7 @@
    {
     "keyword": "pilates johns creek ga",
     "slug": "pilates-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-johns-creek-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -206,7 +206,7 @@
    {
     "keyword": "chiropractor johns creek ga",
     "slug": "chiropractor-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-johns-creek-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -221,7 +221,7 @@
    {
     "keyword": "financial advisor johns creek ga",
     "slug": "financial-advisor-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-johns-creek-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair johns creek ga",
     "slug": "hvac-repair-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-johns-creek-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "heating and air johns creek ga",
     "slug": "heating-and-air-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-johns-creek-ga/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 68.0,
@@ -268,7 +268,7 @@
    {
     "keyword": "bakery johns creek ga",
     "slug": "bakery-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-johns-creek-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -283,7 +283,7 @@
    {
     "keyword": "event venues johns creek ga",
     "slug": "event-venues-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-johns-creek-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -298,7 +298,7 @@
    {
     "keyword": "florist johns creek ga",
     "slug": "florist-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-johns-creek-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -313,7 +313,7 @@
    {
     "keyword": "dance studio johns creek ga",
     "slug": "dance-studio-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-johns-creek-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -328,7 +328,7 @@
    {
     "keyword": "martial arts johns creek ga",
     "slug": "martial-arts-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-johns-creek-ga/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5700,
@@ -343,7 +343,7 @@
    {
     "keyword": "pilates johns creek ga",
     "slug": "pilates-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-johns-creek-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -358,7 +358,7 @@
    {
     "keyword": "daycare johns creek ga",
     "slug": "daycare-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-johns-creek-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -373,7 +373,7 @@
    {
     "keyword": "music lessons johns creek ga",
     "slug": "music-lessons-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/music-lessons-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/music-lessons-johns-creek-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool johns creek ga",
     "slug": "preschool-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-johns-creek-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -403,7 +403,7 @@
    {
     "keyword": "chiropractor johns creek ga",
     "slug": "chiropractor-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-johns-creek-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -418,7 +418,7 @@
    {
     "keyword": "eye doctor johns creek ga",
     "slug": "eye-doctor-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-johns-creek-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -433,7 +433,7 @@
    {
     "keyword": "pediatrician johns creek ga",
     "slug": "pediatrician-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-johns-creek-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -448,7 +448,7 @@
    {
     "keyword": "dentist johns creek ga",
     "slug": "dentist-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-johns-creek-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage johns creek ga",
     "slug": "massage-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-johns-creek-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist johns creek ga",
     "slug": "dentist-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-johns-creek-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym johns creek ga",
     "slug": "gym-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-johns-creek-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic johns creek ga",
     "slug": "mechanic-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-johns-creek-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop johns creek ga",
     "slug": "tire-shop-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-johns-creek-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet johns creek ga",
     "slug": "vet-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-johns-creek-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -555,7 +555,7 @@
    {
     "keyword": "dog groomer johns creek ga",
     "slug": "dog-groomer-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-johns-creek-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -570,7 +570,7 @@
    {
     "keyword": "pilates johns creek ga",
     "slug": "pilates-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-johns-creek-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut johns creek ga",
     "slug": "haircut-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-johns-creek-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair johns creek ga",
     "slug": "auto-repair-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-johns-creek-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -615,7 +615,7 @@
    {
     "keyword": "hvac repair johns creek ga",
     "slug": "hvac-repair-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-johns-creek-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor johns creek ga",
     "slug": "chiropractor-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-johns-creek-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -645,7 +645,7 @@
    {
     "keyword": "financial advisor johns creek ga",
     "slug": "financial-advisor-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-johns-creek-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -660,7 +660,7 @@
    {
     "keyword": "hair salon johns creek ga",
     "slug": "hair-salon-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-johns-creek-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -675,7 +675,7 @@
    {
     "keyword": "real estate agent johns creek ga",
     "slug": "real-estate-agent-johns-creek-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-johns-creek-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-johns-creek-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,

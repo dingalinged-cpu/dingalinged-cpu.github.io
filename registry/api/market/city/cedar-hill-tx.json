@@ -2,7 +2,7 @@
  "title": "Keyword market data: Cedar Hill, TX",
  "description": "Top Cedar Hill, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Cedar Hill, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 52,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage cedar hill tx",
     "slug": "massage-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-cedar-hill-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care cedar hill tx",
     "slug": "urgent-care-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-cedar-hill-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 68000,
@@ -41,7 +41,7 @@
    {
     "keyword": "car wash cedar hill tx",
     "slug": "car-wash-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-cedar-hill-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "dentist cedar hill tx",
     "slug": "dentist-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-cedar-hill-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "gym cedar hill tx",
     "slug": "gym-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-cedar-hill-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change cedar hill tx",
     "slug": "oil-change-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-cedar-hill-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon cedar hill tx",
     "slug": "hair-salon-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-cedar-hill-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon cedar hill tx",
     "slug": "nail-salon-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-cedar-hill-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -131,7 +131,7 @@
    {
     "keyword": "barber shop cedar hill tx",
     "slug": "barber-shop-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-cedar-hill-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -146,7 +146,7 @@
    {
     "keyword": "mechanic cedar hill tx",
     "slug": "mechanic-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-cedar-hill-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -161,7 +161,7 @@
    {
     "keyword": "tire shop cedar hill tx",
     "slug": "tire-shop-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-cedar-hill-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -176,7 +176,7 @@
    {
     "keyword": "vet cedar hill tx",
     "slug": "vet-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-cedar-hill-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -191,7 +191,7 @@
    {
     "keyword": "haircut cedar hill tx",
     "slug": "haircut-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-cedar-hill-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -206,7 +206,7 @@
    {
     "keyword": "auto repair cedar hill tx",
     "slug": "auto-repair-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-cedar-hill-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -221,7 +221,7 @@
    {
     "keyword": "chiropractor cedar hill tx",
     "slug": "chiropractor-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-cedar-hill-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair cedar hill tx",
     "slug": "hvac-repair-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-cedar-hill-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -253,7 +253,7 @@
    {
     "keyword": "heating and air cedar hill tx",
     "slug": "heating-and-air-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-cedar-hill-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -268,7 +268,7 @@
    {
     "keyword": "locksmith cedar hill tx",
     "slug": "locksmith-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-cedar-hill-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "storage units cedar hill tx",
     "slug": "storage-units-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-cedar-hill-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -298,7 +298,7 @@
    {
     "keyword": "florist cedar hill tx",
     "slug": "florist-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-cedar-hill-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -313,7 +313,7 @@
    {
     "keyword": "photographer cedar hill tx",
     "slug": "photographer-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-cedar-hill-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -328,7 +328,7 @@
    {
     "keyword": "martial arts cedar hill tx",
     "slug": "martial-arts-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-cedar-hill-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -343,7 +343,7 @@
    {
     "keyword": "accounting services cedar hill tx",
     "slug": "accounting-services-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-cedar-hill-tx/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -358,7 +358,7 @@
    {
     "keyword": "tax preparer cedar hill tx",
     "slug": "tax-preparer-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-cedar-hill-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -373,7 +373,7 @@
    {
     "keyword": "accountant cedar hill tx",
     "slug": "accountant-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-cedar-hill-tx/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool cedar hill tx",
     "slug": "preschool-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-cedar-hill-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -403,7 +403,7 @@
    {
     "keyword": "chiropractor cedar hill tx",
     "slug": "chiropractor-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-cedar-hill-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -418,7 +418,7 @@
    {
     "keyword": "eye doctor cedar hill tx",
     "slug": "eye-doctor-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-cedar-hill-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -433,7 +433,7 @@
    {
     "keyword": "physical therapy cedar hill tx",
     "slug": "physical-therapy-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-cedar-hill-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -448,7 +448,7 @@
    {
     "keyword": "therapist cedar hill tx",
     "slug": "therapist-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-cedar-hill-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage cedar hill tx",
     "slug": "massage-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-cedar-hill-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care cedar hill tx",
     "slug": "urgent-care-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-cedar-hill-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 68000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist cedar hill tx",
     "slug": "dentist-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-cedar-hill-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash cedar hill tx",
     "slug": "car-wash-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-cedar-hill-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "oil change cedar hill tx",
     "slug": "oil-change-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-cedar-hill-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -540,7 +540,7 @@
    {
     "keyword": "gym cedar hill tx",
     "slug": "gym-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-cedar-hill-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -555,7 +555,7 @@
    {
     "keyword": "mechanic cedar hill tx",
     "slug": "mechanic-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-cedar-hill-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -570,7 +570,7 @@
    {
     "keyword": "tire shop cedar hill tx",
     "slug": "tire-shop-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-cedar-hill-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -585,7 +585,7 @@
    {
     "keyword": "vet cedar hill tx",
     "slug": "vet-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-cedar-hill-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -600,7 +600,7 @@
    {
     "keyword": "locksmith cedar hill tx",
     "slug": "locksmith-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-cedar-hill-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -615,7 +615,7 @@
    {
     "keyword": "haircut cedar hill tx",
     "slug": "haircut-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-cedar-hill-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -630,7 +630,7 @@
    {
     "keyword": "auto repair cedar hill tx",
     "slug": "auto-repair-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-cedar-hill-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -645,7 +645,7 @@
    {
     "keyword": "hvac repair cedar hill tx",
     "slug": "hvac-repair-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-cedar-hill-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -660,7 +660,7 @@
    {
     "keyword": "chiropractor cedar hill tx",
     "slug": "chiropractor-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-cedar-hill-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -675,7 +675,7 @@
    {
     "keyword": "financial advisor cedar hill tx",
     "slug": "financial-advisor-cedar-hill-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-cedar-hill-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-cedar-hill-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,

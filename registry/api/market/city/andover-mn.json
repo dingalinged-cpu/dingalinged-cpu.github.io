@@ -2,7 +2,7 @@
  "title": "Keyword market data: Andover, MN",
  "description": "Top Andover, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Andover, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 9,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash andover mn",
     "slug": "car-wash-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-andover-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym andover mn",
     "slug": "gym-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-andover-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic andover mn",
     "slug": "mechanic-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-andover-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -56,7 +56,7 @@
    {
     "keyword": "auto repair andover mn",
     "slug": "auto-repair-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-andover-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -73,7 +73,7 @@
    {
     "keyword": "bakery andover mn",
     "slug": "bakery-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-andover-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -88,7 +88,7 @@
    {
     "keyword": "daycare andover mn",
     "slug": "daycare-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-andover-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -103,7 +103,7 @@
    {
     "keyword": "auto repair andover mn",
     "slug": "auto-repair-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-andover-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -118,7 +118,7 @@
    {
     "keyword": "car wash andover mn",
     "slug": "car-wash-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-andover-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -133,7 +133,7 @@
    {
     "keyword": "mechanic andover mn",
     "slug": "mechanic-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-andover-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -148,7 +148,7 @@
    {
     "keyword": "gift shop andover mn",
     "slug": "gift-shop-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-andover-mn/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 200,
@@ -163,7 +163,7 @@
    {
     "keyword": "liquor store andover mn",
     "slug": "liquor-store-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-andover-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -178,7 +178,7 @@
    {
     "keyword": "funeral home andover mn",
     "slug": "funeral-home-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-andover-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -193,7 +193,7 @@
    {
     "keyword": "gym andover mn",
     "slug": "gym-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-andover-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -210,7 +210,7 @@
    {
     "keyword": "car wash andover mn",
     "slug": "car-wash-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-andover-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -225,7 +225,7 @@
    {
     "keyword": "gym andover mn",
     "slug": "gym-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-andover-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -240,7 +240,7 @@
    {
     "keyword": "mechanic andover mn",
     "slug": "mechanic-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-andover-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -255,7 +255,7 @@
    {
     "keyword": "auto repair andover mn",
     "slug": "auto-repair-andover-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-andover-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-andover-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,

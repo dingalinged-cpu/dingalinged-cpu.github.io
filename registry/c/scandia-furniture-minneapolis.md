@@ -13,12 +13,12 @@ Scandia Furniture is a furniture store in Minneapolis, MN at 1203 Washington Ave
 - Website: https://www.scandiavalue.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 41% of furniture stores in Minneapolis–St. Paul, #10 of 14 furniture stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 41% of furniture stores in Minneapolis–St. Paul, #10 of 14 furniture stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/scandia-furniture-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/scandia-furniture-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/scandia-furniture-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/scandia-furniture-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3429589747 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

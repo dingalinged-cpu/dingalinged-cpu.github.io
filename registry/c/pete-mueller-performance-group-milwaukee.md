@@ -13,12 +13,12 @@ Pete Mueller Performance Group is a gym in Milwaukee, WI at 550 West Juneau Aven
 - Website: https://petemuellergroup.com/
 - Email: pete@petemuellergroup.com
 - Opening hours (OSM syntax): Mo-Th 05:00-19:00; Fr 05:00-17:00; Sa 06:00-16:00
-- Pulse Score: 65.2/100 — Good — top 1% of gyms in Milwaukee, #1 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 67.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 1% of gyms in Milwaukee, #1 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 67.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/pete-mueller-performance-group-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pete-mueller-performance-group-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pete-mueller-performance-group-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pete-mueller-performance-group-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7115576043 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

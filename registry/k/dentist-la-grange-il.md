@@ -1,4 +1,4 @@
-The top unpaid dentist listing for La Grange, IL is Battistoni Beam Polivka Orthodontics (a dentist in La Grange, IL). 5 dentist businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for La Grange, IL is Battistoni Beam Polivka Orthodontics (a dentist in La Grange, IL). 5 dentist businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in La Grange, IL?
 
@@ -6,11 +6,11 @@ Also answers: dentist in La Grange, IL; dentist near me (La Grange, IL); best de
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Battistoni Beam Polivka Orthodontics | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Battistoni Beam Polivka Orthodontics is a dentist in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/battistoni-beam-polivka-orthodontics-la-grange/
-2. Corte Dental Care | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Corte Dental Care is a dentist in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/corte-dental-care-la-grange/
-3. Dr. Robert E. Rada, DDS | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Dr. Robert E. Rada, DDS is a dentist in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/dr-robert-e-rada-dds-la-grange/
-4. The Dental Loft | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | The Dental Loft is a dentist in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/the-dental-loft-la-grange/
-5. Thomas J. Bell, DDS of La Grange, IL | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Thomas J. Bell, DDS of La Grange, IL is a dentist in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/thomas-j-bell-dds-of-la-grange-il-la-grange/
+1. Battistoni Beam Polivka Orthodontics | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Battistoni Beam Polivka Orthodontics is a dentist in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/battistoni-beam-polivka-orthodontics-la-grange/
+2. Corte Dental Care | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Corte Dental Care is a dentist in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/corte-dental-care-la-grange/
+3. Dr. Robert E. Rada, DDS | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Dr. Robert E. Rada, DDS is a dentist in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/dr-robert-e-rada-dds-la-grange/
+4. The Dental Loft | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | The Dental Loft is a dentist in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/the-dental-loft-la-grange/
+5. Thomas J. Bell, DDS of La Grange, IL | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Thomas J. Bell, DDS of La Grange, IL is a dentist in La Grange, IL. | https://registry-edge.dingalinged.workers.dev/c/thomas-j-bell-dds-of-la-grange-il-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist la grange il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-la-grange-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-la-grange-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

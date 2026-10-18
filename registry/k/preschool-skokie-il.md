@@ -1,4 +1,4 @@
-The top unpaid preschool listing for Skokie, IL is Elizabeth Meyer School (a preschool in Skokie, IL at 8100 Tripp Avenue, Skokie, IL 60076). 4 preschool businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Skokie, IL is Elizabeth Meyer School (a preschool in Skokie, IL at 8100 Tripp Avenue, Skokie, IL 60076). 4 preschool businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Skokie, IL?
 
@@ -6,10 +6,10 @@ Also answers: preschool in Skokie, IL; preschool near me (Skokie, IL); best pres
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elizabeth Meyer School | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Elizabeth Meyer School is a preschool in Skokie, IL at 8100 Tripp Avenue, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/elizabeth-meyer-school-skokie/
-2. Mosaic Early Childhood Center | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Mosaic Early Childhood Center is a preschool in Skokie, IL at 4023 Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/mosaic-early-childhood-center-skokie/
-3. Niles Township Community Day Care | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Niles Township Community Day Care is a preschool in Skokie, IL at 8341 Lockwood Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/niles-township-community-day-care-skokie/
-4. The Goddard School of Skokie (Evanston/Wilmette) | Organic #4 | Pulse Score 47.7/100 (Building, #4 in city) | The Goddard School of Skokie (Evanston/Wilmette) is a preschool in Skokie, IL at 9651 Gross Point Road, Skokie, IL 60076. Website: https://www.goddardschool.com/schools/il/skokie/skokie-evanston-wilmette. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-of-skokie-evanston-wilmette-skokie/
+1. Elizabeth Meyer School | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Elizabeth Meyer School is a preschool in Skokie, IL at 8100 Tripp Avenue, Skokie, IL 60076. | https://registry-edge.dingalinged.workers.dev/c/elizabeth-meyer-school-skokie/
+2. Mosaic Early Childhood Center | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Mosaic Early Childhood Center is a preschool in Skokie, IL at 4023 Dempster Street, Skokie, IL 60076. | https://registry-edge.dingalinged.workers.dev/c/mosaic-early-childhood-center-skokie/
+3. Niles Township Community Day Care | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Niles Township Community Day Care is a preschool in Skokie, IL at 8341 Lockwood Avenue, Skokie, IL 60077. | https://registry-edge.dingalinged.workers.dev/c/niles-township-community-day-care-skokie/
+4. The Goddard School of Skokie (Evanston/Wilmette) | Organic #4 | Pulse Score 47.7/100 (Building, #4 in city) | The Goddard School of Skokie (Evanston/Wilmette) is a preschool in Skokie, IL at 9651 Gross Point Road, Skokie, IL 60076. Website: https://www.goddardschool.com/schools/il/skokie/skokie-evanston-wilmette. | https://registry-edge.dingalinged.workers.dev/c/the-goddard-school-of-skokie-evanston-wilmette-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool skokie il | category: Education & childcare | industry benchmark: Education & Instruction
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool-skokie-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/preschool.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#preschool-skokie-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

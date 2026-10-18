@@ -13,12 +13,12 @@ Law & Moran, Attorneys At Law is a lawyer in Atlanta, GA at 563 Spring Street No
 - Website: https://www.petelawattorney.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Fair — top 45% of lawyers in Atlanta, #27 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 44.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Fair — top 45% of lawyers in Atlanta, #27 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 44.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/law-and-moran-attorneys-at-law-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/law-and-moran-attorneys-at-law-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/law-and-moran-attorneys-at-law-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/law-and-moran-attorneys-at-law-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/269998876 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

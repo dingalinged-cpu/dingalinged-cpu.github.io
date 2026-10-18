@@ -2,7 +2,7 @@
  "title": "Keyword market data: Real Estate",
  "description": "Top Real Estate keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Real Estate",
  "keywords": 31,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "apartments",
     "slug": "apartments",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -24,7 +24,7 @@
    {
     "keyword": "houses for sale",
     "slug": "houses-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#houses-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#houses-for-sale",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -38,7 +38,7 @@
    {
     "keyword": "homes for sale",
     "slug": "homes-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#homes-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#homes-for-sale",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -52,7 +52,7 @@
    {
     "keyword": "land for sale",
     "slug": "land-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#land-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#land-for-sale",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -66,7 +66,7 @@
    {
     "keyword": "mortgage",
     "slug": "mortgage",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mortgage",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mortgage",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -80,7 +80,7 @@
    {
     "keyword": "refinance mortgage rates",
     "slug": "refinance-mortgage-rates",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#refinance-mortgage-rates",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#refinance-mortgage-rates",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -94,7 +94,7 @@
    {
     "keyword": "mobile homes for sale",
     "slug": "mobile-homes-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mobile-homes-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mobile-homes-for-sale",
     "us_monthly_searches": 110000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -108,7 +108,7 @@
    {
     "keyword": "commercial real estate",
     "slug": "commercial-real-estate",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#commercial-real-estate",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#commercial-real-estate",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -122,7 +122,7 @@
    {
     "keyword": "realtor",
     "slug": "realtor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.7,
@@ -136,7 +136,7 @@
    {
     "keyword": "new construction homes",
     "slug": "new-construction-homes",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#new-construction-homes",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#new-construction-homes",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -150,7 +150,7 @@
    {
     "keyword": "mls listings",
     "slug": "mls-listings",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mls-listings",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mls-listings",
     "us_monthly_searches": 40000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -164,7 +164,7 @@
    {
     "keyword": "for sale by owner",
     "slug": "for-sale-by-owner",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#for-sale-by-owner",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#for-sale-by-owner",
     "us_monthly_searches": 30000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -178,7 +178,7 @@
    {
     "keyword": "new homes",
     "slug": "new-homes",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#new-homes",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#new-homes",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -192,7 +192,7 @@
    {
     "keyword": "commercial property for sale",
     "slug": "commercial-property-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#commercial-property-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#commercial-property-for-sale",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -206,7 +206,7 @@
    {
     "keyword": "how much is my house worth",
     "slug": "how-much-is-my-house-worth",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#how-much-is-my-house-worth",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#how-much-is-my-house-worth",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -220,7 +220,7 @@
    {
     "keyword": "mortgage loan brokers",
     "slug": "mortgage-loan-brokers",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mortgage-loan-brokers",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mortgage-loan-brokers",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -234,7 +234,7 @@
    {
     "keyword": "best realtor",
     "slug": "best-realtor",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#best-realtor",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#best-realtor",
     "us_monthly_searches": 14800,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -248,7 +248,7 @@
    {
     "keyword": "mortgage companies",
     "slug": "mortgage-companies",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mortgage-companies",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mortgage-companies",
     "us_monthly_searches": 6600,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -262,7 +262,7 @@
    {
     "keyword": "real estate broker",
     "slug": "real-estate-broker",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#real-estate-broker",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#real-estate-broker",
     "us_monthly_searches": 5400,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -276,7 +276,7 @@
    {
     "keyword": "listing agent",
     "slug": "listing-agent",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#listing-agent",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#listing-agent",
     "us_monthly_searches": 1300,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -292,7 +292,7 @@
    {
     "keyword": "realtor",
     "slug": "realtor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.7,
@@ -306,7 +306,7 @@
    {
     "keyword": "buy my home for cash",
     "slug": "buy-my-home-for-cash",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#buy-my-home-for-cash",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#buy-my-home-for-cash",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 3.22,
@@ -320,7 +320,7 @@
    {
     "keyword": "get offer on house",
     "slug": "get-offer-on-house",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#get-offer-on-house",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#get-offer-on-house",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 3.22,
@@ -334,7 +334,7 @@
    {
     "keyword": "sell home to investors",
     "slug": "sell-home-to-investors",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-home-to-investors",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-home-to-investors",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 3.22,
@@ -348,7 +348,7 @@
    {
     "keyword": "sell house fast for cash",
     "slug": "sell-house-fast-for-cash",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-house-fast-for-cash",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-house-fast-for-cash",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 3.22,
@@ -362,7 +362,7 @@
    {
     "keyword": "we buy houses fast for cash",
     "slug": "we-buy-houses-fast-for-cash",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#we-buy-houses-fast-for-cash",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#we-buy-houses-fast-for-cash",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 3.22,
@@ -376,7 +376,7 @@
    {
     "keyword": "apartments",
     "slug": "apartments",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -390,7 +390,7 @@
    {
     "keyword": "best realtor",
     "slug": "best-realtor",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#best-realtor",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#best-realtor",
     "us_monthly_searches": 14800,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -404,7 +404,7 @@
    {
     "keyword": "commercial property for sale",
     "slug": "commercial-property-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#commercial-property-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#commercial-property-for-sale",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -418,7 +418,7 @@
    {
     "keyword": "commercial real estate",
     "slug": "commercial-real-estate",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#commercial-real-estate",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#commercial-real-estate",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -432,7 +432,7 @@
    {
     "keyword": "coworking space",
     "slug": "coworking-space",
-    "url": "https://dingalinged-cpu.github.io/registry/k/coworking-space/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/coworking-space/",
     "us_monthly_searches": 22000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 3.22,
@@ -446,7 +446,7 @@
    {
     "keyword": "for sale by owner",
     "slug": "for-sale-by-owner",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#for-sale-by-owner",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#for-sale-by-owner",
     "us_monthly_searches": 30000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -460,7 +460,7 @@
    {
     "keyword": "home appraisal",
     "slug": "home-appraisal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#home-appraisal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#home-appraisal",
     "us_monthly_searches": 22000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 3.22,
@@ -474,7 +474,7 @@
    {
     "keyword": "homes for sale",
     "slug": "homes-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#homes-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#homes-for-sale",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -488,7 +488,7 @@
    {
     "keyword": "houses for sale",
     "slug": "houses-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#houses-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#houses-for-sale",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -502,7 +502,7 @@
    {
     "keyword": "how much is my house worth",
     "slug": "how-much-is-my-house-worth",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#how-much-is-my-house-worth",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#how-much-is-my-house-worth",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -516,7 +516,7 @@
    {
     "keyword": "land for sale",
     "slug": "land-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#land-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#land-for-sale",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -530,7 +530,7 @@
    {
     "keyword": "listing agent",
     "slug": "listing-agent",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#listing-agent",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#listing-agent",
     "us_monthly_searches": 1300,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -544,7 +544,7 @@
    {
     "keyword": "mls listings",
     "slug": "mls-listings",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mls-listings",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mls-listings",
     "us_monthly_searches": 40000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -558,7 +558,7 @@
    {
     "keyword": "mobile homes for sale",
     "slug": "mobile-homes-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mobile-homes-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mobile-homes-for-sale",
     "us_monthly_searches": 110000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -574,7 +574,7 @@
    {
     "keyword": "apartments",
     "slug": "apartments",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -588,7 +588,7 @@
    {
     "keyword": "houses for sale",
     "slug": "houses-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#houses-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#houses-for-sale",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -602,7 +602,7 @@
    {
     "keyword": "homes for sale",
     "slug": "homes-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#homes-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#homes-for-sale",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -616,7 +616,7 @@
    {
     "keyword": "land for sale",
     "slug": "land-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#land-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#land-for-sale",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -630,7 +630,7 @@
    {
     "keyword": "mortgage",
     "slug": "mortgage",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mortgage",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mortgage",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -644,7 +644,7 @@
    {
     "keyword": "refinance mortgage rates",
     "slug": "refinance-mortgage-rates",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#refinance-mortgage-rates",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#refinance-mortgage-rates",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -658,7 +658,7 @@
    {
     "keyword": "mobile homes for sale",
     "slug": "mobile-homes-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mobile-homes-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mobile-homes-for-sale",
     "us_monthly_searches": 110000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -672,7 +672,7 @@
    {
     "keyword": "realtor",
     "slug": "realtor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.7,
@@ -686,7 +686,7 @@
    {
     "keyword": "commercial real estate",
     "slug": "commercial-real-estate",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#commercial-real-estate",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#commercial-real-estate",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -700,7 +700,7 @@
    {
     "keyword": "new construction homes",
     "slug": "new-construction-homes",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#new-construction-homes",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#new-construction-homes",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -714,7 +714,7 @@
    {
     "keyword": "mls listings",
     "slug": "mls-listings",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mls-listings",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mls-listings",
     "us_monthly_searches": 40000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -728,7 +728,7 @@
    {
     "keyword": "for sale by owner",
     "slug": "for-sale-by-owner",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#for-sale-by-owner",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#for-sale-by-owner",
     "us_monthly_searches": 30000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -742,7 +742,7 @@
    {
     "keyword": "new homes",
     "slug": "new-homes",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#new-homes",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#new-homes",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -756,7 +756,7 @@
    {
     "keyword": "commercial property for sale",
     "slug": "commercial-property-for-sale",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#commercial-property-for-sale",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#commercial-property-for-sale",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -770,7 +770,7 @@
    {
     "keyword": "how much is my house worth",
     "slug": "how-much-is-my-house-worth",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#how-much-is-my-house-worth",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#how-much-is-my-house-worth",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -784,7 +784,7 @@
    {
     "keyword": "mortgage loan brokers",
     "slug": "mortgage-loan-brokers",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mortgage-loan-brokers",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mortgage-loan-brokers",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -798,7 +798,7 @@
    {
     "keyword": "best realtor",
     "slug": "best-realtor",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#best-realtor",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#best-realtor",
     "us_monthly_searches": 14800,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -812,7 +812,7 @@
    {
     "keyword": "mortgage companies",
     "slug": "mortgage-companies",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mortgage-companies",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mortgage-companies",
     "us_monthly_searches": 6600,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -826,7 +826,7 @@
    {
     "keyword": "real estate broker",
     "slug": "real-estate-broker",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#real-estate-broker",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#real-estate-broker",
     "us_monthly_searches": 5400,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,
@@ -840,7 +840,7 @@
    {
     "keyword": "listing agent",
     "slug": "listing-agent",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#listing-agent",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#listing-agent",
     "us_monthly_searches": 1300,
     "us_volume_method": "cited",
     "cpc_basis_usd": 3.22,

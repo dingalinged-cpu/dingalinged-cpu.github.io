@@ -13,12 +13,12 @@ Cell Phone Repair is a phone repair shop in Denton, TX at 2219 South Loop 288 #S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 86% of phone repair shops in Dallas–Fort Worth, #3 of 3 phone repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 86% of phone repair shops in Dallas–Fort Worth, #3 of 3 phone repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-denton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cell-phone-repair-denton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cell-phone-repair-denton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cell-phone-repair-denton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9557300870 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

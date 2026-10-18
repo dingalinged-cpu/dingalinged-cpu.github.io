@@ -13,12 +13,12 @@ Dental World is a dentist in Marietta, GA at 1410 Terrell Mill Road Southeast, M
 - Website: https://dentalworldmarietta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-17:00; Th 09:00-18:00; Fr 09:00-14:00; Sa-Su off
-- Pulse Score: 64.1/100 — Good — top 4% of dentists in Atlanta, #4 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 4% of dentists in Atlanta, #4 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 63.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dental-world-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dental-world-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dental-world-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dental-world-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/283248634 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

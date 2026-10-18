@@ -13,12 +13,12 @@ The UPS Store #7555 is a printing service in Vernon Hills, IL at 288 Hawthorn Vi
 - Website: https://locations.theupsstore.com/il/vernon-hills/288-hawthorn-village-commons
 - Email: store7555@theupsstore.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Building — top 21% of printing services in Chicago, #1 of 3 printing services in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 21% of printing services in Chicago, #1 of 3 printing services in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-7555-vernon-hills/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-7555-vernon-hills.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ups-store-7555-vernon-hills/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ups-store-7555-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12520905150 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid insurance agency listing for Gladstone, MO is Clay McCulick Farmer's Insurance (an insurance agent in Gladstone, MO at 7506 North Oak Trafficway, Gladstone, MO 64118). 5 insurance agency businesses are listed for Gladstone, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Gladstone, MO is Clay McCulick Farmer's Insurance (an insurance agent in Gladstone, MO at 7506 North Oak Trafficway, Gladstone, MO 64118). 5 insurance agency businesses are listed for Gladstone, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Gladstone, MO?
 
@@ -6,11 +6,11 @@ Also answers: insurance agency in Gladstone, MO; insurance agency near me (Glads
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clay McCulick Farmer's Insurance | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Clay McCulick Farmer's Insurance is an insurance agent in Gladstone, MO at 7506 North Oak Trafficway, Gladstone, MO 64118. | https://dingalinged-cpu.github.io/registry/c/clay-mcculick-farmers-insurance-gladstone/
-2. American National Insurance | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | American National Insurance is an insurance agent in Gladstone, MO at 180 Northeast 72nd Street, Gladstone, MO 64118. | https://dingalinged-cpu.github.io/registry/c/american-national-insurance-gladstone/
-3. Transamerica | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Transamerica is an insurance agent in Gladstone, MO at 4770 North Belleview Avenue #107, Gladstone, MO 64116. | https://dingalinged-cpu.github.io/registry/c/transamerica-gladstone/
-4. Bryan Lopez State Farm | Organic #4 | Pulse Score 47.2/100 (Building, #4 in city) | Bryan Lopez State Farm is an insurance agent in Gladstone, MO at 7233 N Oak Trfy, Gladstone, MO 64118. Phone: +18166780749. | https://dingalinged-cpu.github.io/registry/c/bryan-lopez-state-farm-gladstone/
-5. State Farm | Organic #5 | Pulse Score 46.7/100 (Building, #5 in city) | State Farm is an insurance agent in Gladstone, MO at 6407 North Prospect Avenue, Gladstone, MO 64119. Website: https://www.maryannsurber.net/. | https://dingalinged-cpu.github.io/registry/c/state-farm-gladstone/
+1. Clay McCulick Farmer's Insurance | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Clay McCulick Farmer's Insurance is an insurance agent in Gladstone, MO at 7506 North Oak Trafficway, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/clay-mcculick-farmers-insurance-gladstone/
+2. American National Insurance | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | American National Insurance is an insurance agent in Gladstone, MO at 180 Northeast 72nd Street, Gladstone, MO 64118. | https://registry-edge.dingalinged.workers.dev/c/american-national-insurance-gladstone/
+3. Transamerica | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Transamerica is an insurance agent in Gladstone, MO at 4770 North Belleview Avenue #107, Gladstone, MO 64116. | https://registry-edge.dingalinged.workers.dev/c/transamerica-gladstone/
+4. Bryan Lopez State Farm | Organic #4 | Pulse Score 47.2/100 (Building, #4 in city) | Bryan Lopez State Farm is an insurance agent in Gladstone, MO at 7233 N Oak Trfy, Gladstone, MO 64118. Phone: +18166780749. | https://registry-edge.dingalinged.workers.dev/c/bryan-lopez-state-farm-gladstone/
+5. State Farm | Organic #5 | Pulse Score 46.7/100 (Building, #5 in city) | State Farm is an insurance agent in Gladstone, MO at 6407 North Prospect Avenue, Gladstone, MO 64119. Website: https://www.maryannsurber.net/. | https://registry-edge.dingalinged.workers.dev/c/state-farm-gladstone/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency gladstone mo | category: insurance | industry benchmark: Finance & Insurance
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$170 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agency-gladstone-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agency-gladstone-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

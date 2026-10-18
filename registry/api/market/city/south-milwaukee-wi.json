@@ -2,7 +2,7 @@
  "title": "Keyword market data: South Milwaukee, WI",
  "description": "Top South Milwaukee, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "South Milwaukee, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 27,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage south milwaukee wi",
     "slug": "massage-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-south-milwaukee-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash south milwaukee wi",
     "slug": "car-wash-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-south-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym south milwaukee wi",
     "slug": "gym-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-south-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon south milwaukee wi",
     "slug": "hair-salon-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-south-milwaukee-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon south milwaukee wi",
     "slug": "nail-salon-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-south-milwaukee-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic south milwaukee wi",
     "slug": "mechanic-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-south-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut south milwaukee wi",
     "slug": "haircut-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-south-milwaukee-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair south milwaukee wi",
     "slug": "auto-repair-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-south-milwaukee-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency south milwaukee wi",
     "slug": "insurance-agency-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-south-milwaukee-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -146,7 +146,7 @@
    {
     "keyword": "attorney south milwaukee wi",
     "slug": "attorney-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-south-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -161,7 +161,7 @@
    {
     "keyword": "tax preparation south milwaukee wi",
     "slug": "tax-preparation-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-south-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparer south milwaukee wi",
     "slug": "tax-preparer-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-south-milwaukee-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agents south milwaukee wi",
     "slug": "insurance-agents-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-south-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -206,7 +206,7 @@
    {
     "keyword": "lawyer south milwaukee wi",
     "slug": "lawyer-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-south-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agent south milwaukee wi",
     "slug": "insurance-agent-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-south-milwaukee-wi/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney south milwaukee wi",
     "slug": "attorney-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-south-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer south milwaukee wi",
     "slug": "lawyer-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-south-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -268,7 +268,7 @@
    {
     "keyword": "bakery south milwaukee wi",
     "slug": "bakery-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-south-milwaukee-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -283,7 +283,7 @@
    {
     "keyword": "event venues south milwaukee wi",
     "slug": "event-venues-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-south-milwaukee-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -298,7 +298,7 @@
    {
     "keyword": "florist south milwaukee wi",
     "slug": "florist-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-south-milwaukee-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -313,7 +313,7 @@
    {
     "keyword": "dance studio south milwaukee wi",
     "slug": "dance-studio-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-south-milwaukee-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 180,
@@ -328,7 +328,7 @@
    {
     "keyword": "martial arts south milwaukee wi",
     "slug": "martial-arts-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-south-milwaukee-wi/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1400,
@@ -343,7 +343,7 @@
    {
     "keyword": "tax preparer south milwaukee wi",
     "slug": "tax-preparer-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-south-milwaukee-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -358,7 +358,7 @@
    {
     "keyword": "daycare south milwaukee wi",
     "slug": "daycare-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-south-milwaukee-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -373,7 +373,7 @@
    {
     "keyword": "driving school south milwaukee wi",
     "slug": "driving-school-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-south-milwaukee-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 180,
@@ -388,7 +388,7 @@
    {
     "keyword": "family doctor south milwaukee wi",
     "slug": "family-doctor-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-south-milwaukee-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -403,7 +403,7 @@
    {
     "keyword": "ob gyn south milwaukee wi",
     "slug": "ob-gyn-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/ob-gyn-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/ob-gyn-south-milwaukee-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -418,7 +418,7 @@
    {
     "keyword": "podiatrist south milwaukee wi",
     "slug": "podiatrist-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/podiatrist-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/podiatrist-south-milwaukee-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -433,7 +433,7 @@
    {
     "keyword": "primary care physician south milwaukee wi",
     "slug": "primary-care-physician-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-south-milwaukee-wi/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -448,7 +448,7 @@
    {
     "keyword": "haircut south milwaukee wi",
     "slug": "haircut-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-south-milwaukee-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage south milwaukee wi",
     "slug": "massage-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-south-milwaukee-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash south milwaukee wi",
     "slug": "car-wash-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-south-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym south milwaukee wi",
     "slug": "gym-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-south-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic south milwaukee wi",
     "slug": "mechanic-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-south-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -525,7 +525,7 @@
    {
     "keyword": "haircut south milwaukee wi",
     "slug": "haircut-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-south-milwaukee-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -540,7 +540,7 @@
    {
     "keyword": "auto repair south milwaukee wi",
     "slug": "auto-repair-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-south-milwaukee-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -555,7 +555,7 @@
    {
     "keyword": "hair salon south milwaukee wi",
     "slug": "hair-salon-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-south-milwaukee-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -570,7 +570,7 @@
    {
     "keyword": "attorney south milwaukee wi",
     "slug": "attorney-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-south-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -585,7 +585,7 @@
    {
     "keyword": "nail salon south milwaukee wi",
     "slug": "nail-salon-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-south-milwaukee-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -600,7 +600,7 @@
    {
     "keyword": "lawyer south milwaukee wi",
     "slug": "lawyer-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-south-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -615,7 +615,7 @@
    {
     "keyword": "tax preparer south milwaukee wi",
     "slug": "tax-preparer-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-south-milwaukee-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agency south milwaukee wi",
     "slug": "insurance-agency-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-south-milwaukee-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -645,7 +645,7 @@
    {
     "keyword": "tax preparation south milwaukee wi",
     "slug": "tax-preparation-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-south-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agents south milwaukee wi",
     "slug": "insurance-agents-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-south-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -675,7 +675,7 @@
    {
     "keyword": "family doctor south milwaukee wi",
     "slug": "family-doctor-south-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-south-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-south-milwaukee-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Beauty & Personal Care",
  "description": "Top Beauty & Personal Care keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Beauty & Personal Care",
  "keywords": 24,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "massage",
     "slug": "massage",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -24,7 +24,7 @@
    {
     "keyword": "hair salon",
     "slug": "hair-salon",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 0.55,
@@ -38,7 +38,7 @@
    {
     "keyword": "nail salon",
     "slug": "nail-salon",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 0.61,
@@ -52,7 +52,7 @@
    {
     "keyword": "barber shop",
     "slug": "barber-shop",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 0.7,
@@ -66,7 +66,7 @@
    {
     "keyword": "lymphatic drainage massage",
     "slug": "lymphatic-drainage-massage",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -80,7 +80,7 @@
    {
     "keyword": "haircut",
     "slug": "haircut",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -94,7 +94,7 @@
    {
     "keyword": "spa",
     "slug": "spa",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -108,7 +108,7 @@
    {
     "keyword": "botox",
     "slug": "botox",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#botox",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#botox",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -122,7 +122,7 @@
    {
     "keyword": "facial",
     "slug": "facial",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -136,7 +136,7 @@
    {
     "keyword": "laser hair removal",
     "slug": "laser-hair-removal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#laser-hair-removal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#laser-hair-removal",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -150,7 +150,7 @@
    {
     "keyword": "lash extensions",
     "slug": "lash-extensions",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lash-extensions/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lash-extensions/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -164,7 +164,7 @@
    {
     "keyword": "med spa",
     "slug": "med-spa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#med-spa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#med-spa",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -178,7 +178,7 @@
    {
     "keyword": "hair extensions",
     "slug": "hair-extensions",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-extensions",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-extensions",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -192,7 +192,7 @@
    {
     "keyword": "hydrafacial",
     "slug": "hydrafacial",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hydrafacial",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hydrafacial",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -206,7 +206,7 @@
    {
     "keyword": "body contouring",
     "slug": "body-contouring",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#body-contouring",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#body-contouring",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -220,7 +220,7 @@
    {
     "keyword": "brow lamination",
     "slug": "brow-lamination",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#brow-lamination",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#brow-lamination",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -234,7 +234,7 @@
    {
     "keyword": "balayage",
     "slug": "balayage",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#balayage",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#balayage",
     "us_monthly_searches": 6600,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -250,7 +250,7 @@
    {
     "keyword": "balayage",
     "slug": "balayage",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#balayage",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#balayage",
     "us_monthly_searches": 6600,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -264,7 +264,7 @@
    {
     "keyword": "body contouring",
     "slug": "body-contouring",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#body-contouring",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#body-contouring",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -278,7 +278,7 @@
    {
     "keyword": "botox",
     "slug": "botox",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#botox",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#botox",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -292,7 +292,7 @@
    {
     "keyword": "brow lamination",
     "slug": "brow-lamination",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#brow-lamination",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#brow-lamination",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -306,7 +306,7 @@
    {
     "keyword": "facial",
     "slug": "facial",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -320,7 +320,7 @@
    {
     "keyword": "hair braiding",
     "slug": "hair-braiding",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-braiding",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-braiding",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.62,
@@ -334,7 +334,7 @@
    {
     "keyword": "hair extensions",
     "slug": "hair-extensions",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-extensions",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-extensions",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -348,7 +348,7 @@
    {
     "keyword": "haircut",
     "slug": "haircut",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -362,7 +362,7 @@
    {
     "keyword": "hydrafacial",
     "slug": "hydrafacial",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hydrafacial",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hydrafacial",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -376,7 +376,7 @@
    {
     "keyword": "laser hair removal",
     "slug": "laser-hair-removal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#laser-hair-removal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#laser-hair-removal",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -390,7 +390,7 @@
    {
     "keyword": "lash extensions",
     "slug": "lash-extensions",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lash-extensions/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lash-extensions/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -404,7 +404,7 @@
    {
     "keyword": "lip filler",
     "slug": "lip-filler",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lip-filler",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lip-filler",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.62,
@@ -418,7 +418,7 @@
    {
     "keyword": "lymphatic drainage massage",
     "slug": "lymphatic-drainage-massage",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -432,7 +432,7 @@
    {
     "keyword": "makeup artist",
     "slug": "makeup-artist",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#makeup-artist",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#makeup-artist",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.62,
@@ -446,7 +446,7 @@
    {
     "keyword": "massage",
     "slug": "massage",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -460,7 +460,7 @@
    {
     "keyword": "med spa",
     "slug": "med-spa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#med-spa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#med-spa",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -474,7 +474,7 @@
    {
     "keyword": "piercing",
     "slug": "piercing",
-    "url": "https://dingalinged-cpu.github.io/registry/k/piercing/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/piercing/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.62,
@@ -488,7 +488,7 @@
    {
     "keyword": "spa",
     "slug": "spa",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -502,7 +502,7 @@
    {
     "keyword": "tanning salon",
     "slug": "tanning-salon",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.62,
@@ -516,7 +516,7 @@
    {
     "keyword": "tattoo shop",
     "slug": "tattoo-shop",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tattoo-shop/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tattoo-shop/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.62,
@@ -532,7 +532,7 @@
    {
     "keyword": "massage",
     "slug": "massage",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -546,7 +546,7 @@
    {
     "keyword": "lymphatic drainage massage",
     "slug": "lymphatic-drainage-massage",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -560,7 +560,7 @@
    {
     "keyword": "haircut",
     "slug": "haircut",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -574,7 +574,7 @@
    {
     "keyword": "spa",
     "slug": "spa",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -588,7 +588,7 @@
    {
     "keyword": "hair salon",
     "slug": "hair-salon",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 0.55,
@@ -602,7 +602,7 @@
    {
     "keyword": "nail salon",
     "slug": "nail-salon",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 0.61,
@@ -616,7 +616,7 @@
    {
     "keyword": "barber shop",
     "slug": "barber-shop",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 0.7,
@@ -630,7 +630,7 @@
    {
     "keyword": "botox",
     "slug": "botox",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#botox",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#botox",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -644,7 +644,7 @@
    {
     "keyword": "facial",
     "slug": "facial",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -658,7 +658,7 @@
    {
     "keyword": "laser hair removal",
     "slug": "laser-hair-removal",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#laser-hair-removal",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#laser-hair-removal",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -672,7 +672,7 @@
    {
     "keyword": "lash extensions",
     "slug": "lash-extensions",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lash-extensions/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lash-extensions/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -686,7 +686,7 @@
    {
     "keyword": "med spa",
     "slug": "med-spa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#med-spa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#med-spa",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -700,7 +700,7 @@
    {
     "keyword": "hair extensions",
     "slug": "hair-extensions",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-extensions",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-extensions",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -714,7 +714,7 @@
    {
     "keyword": "hydrafacial",
     "slug": "hydrafacial",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hydrafacial",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hydrafacial",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -728,7 +728,7 @@
    {
     "keyword": "body contouring",
     "slug": "body-contouring",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#body-contouring",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#body-contouring",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -742,7 +742,7 @@
    {
     "keyword": "brow lamination",
     "slug": "brow-lamination",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#brow-lamination",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#brow-lamination",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,
@@ -756,7 +756,7 @@
    {
     "keyword": "balayage",
     "slug": "balayage",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#balayage",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#balayage",
     "us_monthly_searches": 6600,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.62,

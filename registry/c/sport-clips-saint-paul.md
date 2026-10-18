@@ -13,12 +13,12 @@ Sport Clips is a barber shop in Saint Paul, MN. Website: https://www.sportclips.
 - Website: https://www.sportclips.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 94% of barber shops in Minneapolis–St. Paul, #9 of 10 barber shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 46.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 94% of barber shops in Minneapolis–St. Paul, #9 of 10 barber shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 46.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sport-clips-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sport-clips-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sport-clips-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sport-clips-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3236951937 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

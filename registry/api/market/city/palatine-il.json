@@ -2,7 +2,7 @@
  "title": "Keyword market data: Palatine, IL",
  "description": "Top Palatine, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Palatine, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 32,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash palatine il",
     "slug": "car-wash-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-palatine-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist palatine il",
     "slug": "dentist-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-palatine-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym palatine il",
     "slug": "gym-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-palatine-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon palatine il",
     "slug": "hair-salon-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-palatine-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic palatine il",
     "slug": "mechanic-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-palatine-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "tire shop palatine il",
     "slug": "tire-shop-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-palatine-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet palatine il",
     "slug": "vet-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-palatine-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut palatine il",
     "slug": "haircut-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-palatine-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair palatine il",
     "slug": "auto-repair-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-palatine-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -146,7 +146,7 @@
    {
     "keyword": "pilates palatine il",
     "slug": "pilates-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-palatine-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -161,7 +161,7 @@
    {
     "keyword": "real estate agent palatine il",
     "slug": "real-estate-agent-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-palatine-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agency palatine il",
     "slug": "insurance-agency-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-palatine-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -191,7 +191,7 @@
    {
     "keyword": "realtor palatine il",
     "slug": "realtor-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-palatine-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -206,7 +206,7 @@
    {
     "keyword": "attorney palatine il",
     "slug": "attorney-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-palatine-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -221,7 +221,7 @@
    {
     "keyword": "auto body shop palatine il",
     "slug": "auto-body-shop-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-palatine-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney palatine il",
     "slug": "attorney-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-palatine-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer palatine il",
     "slug": "lawyer-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-palatine-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -268,7 +268,7 @@
    {
     "keyword": "window replacement palatine il",
     "slug": "window-replacement-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-replacement-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-palatine-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "storage units palatine il",
     "slug": "storage-units-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-palatine-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -298,7 +298,7 @@
    {
     "keyword": "bakery palatine il",
     "slug": "bakery-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-palatine-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "pilates palatine il",
     "slug": "pilates-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-palatine-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -328,7 +328,7 @@
    {
     "keyword": "physical therapy palatine il",
     "slug": "physical-therapy-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-palatine-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "therapist palatine il",
     "slug": "therapist-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-palatine-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -358,7 +358,7 @@
    {
     "keyword": "dentist palatine il",
     "slug": "dentist-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-palatine-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -373,7 +373,7 @@
    {
     "keyword": "haircut palatine il",
     "slug": "haircut-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-palatine-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -388,7 +388,7 @@
    {
     "keyword": "tanning salon palatine il",
     "slug": "tanning-salon-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon-palatine-il/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 830,
@@ -403,7 +403,7 @@
    {
     "keyword": "auto body shop palatine il",
     "slug": "auto-body-shop-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-palatine-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -418,7 +418,7 @@
    {
     "keyword": "auto repair palatine il",
     "slug": "auto-repair-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-palatine-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -433,7 +433,7 @@
    {
     "keyword": "car wash palatine il",
     "slug": "car-wash-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-palatine-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -448,7 +448,7 @@
    {
     "keyword": "mechanic palatine il",
     "slug": "mechanic-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-palatine-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist palatine il",
     "slug": "dentist-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-palatine-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash palatine il",
     "slug": "car-wash-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-palatine-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym palatine il",
     "slug": "gym-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-palatine-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic palatine il",
     "slug": "mechanic-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-palatine-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop palatine il",
     "slug": "tire-shop-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-palatine-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet palatine il",
     "slug": "vet-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-palatine-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "pilates palatine il",
     "slug": "pilates-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-palatine-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut palatine il",
     "slug": "haircut-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-palatine-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair palatine il",
     "slug": "auto-repair-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-palatine-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -600,7 +600,7 @@
    {
     "keyword": "hair salon palatine il",
     "slug": "hair-salon-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-palatine-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -615,7 +615,7 @@
    {
     "keyword": "attorney palatine il",
     "slug": "attorney-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-palatine-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -630,7 +630,7 @@
    {
     "keyword": "real estate agent palatine il",
     "slug": "real-estate-agent-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-palatine-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -645,7 +645,7 @@
    {
     "keyword": "lawyer palatine il",
     "slug": "lawyer-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-palatine-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -660,7 +660,7 @@
    {
     "keyword": "realtor palatine il",
     "slug": "realtor-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-palatine-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agency palatine il",
     "slug": "insurance-agency-palatine-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-palatine-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-palatine-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,

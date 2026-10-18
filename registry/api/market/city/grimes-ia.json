@@ -2,7 +2,7 @@
  "title": "Keyword market data: Grimes, IA",
  "description": "Top Grimes, IA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Grimes, IA",
  "geography": "Des Moines-West Des Moines, IA metro",
  "keywords": 36,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash grimes ia",
     "slug": "car-wash-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-grimes-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist grimes ia",
     "slug": "dentist-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-grimes-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym grimes ia",
     "slug": "gym-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-grimes-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon grimes ia",
     "slug": "hair-salon-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-grimes-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon grimes ia",
     "slug": "nail-salon-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-grimes-ia/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -86,7 +86,7 @@
    {
     "keyword": "plumber grimes ia",
     "slug": "plumber-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-grimes-ia/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic grimes ia",
     "slug": "mechanic-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-grimes-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut grimes ia",
     "slug": "haircut-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-grimes-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair grimes ia",
     "slug": "auto-repair-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-grimes-ia/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -146,7 +146,7 @@
    {
     "keyword": "chiropractor grimes ia",
     "slug": "chiropractor-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-grimes-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog boarding grimes ia",
     "slug": "dog-boarding-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-grimes-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agency grimes ia",
     "slug": "insurance-agency-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-grimes-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -191,7 +191,7 @@
    {
     "keyword": "hvac repair grimes ia",
     "slug": "hvac-repair-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-grimes-ia/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -206,7 +206,7 @@
    {
     "keyword": "yoga classes grimes ia",
     "slug": "yoga-classes-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-grimes-ia/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -221,7 +221,7 @@
    {
     "keyword": "windshield replacement grimes ia",
     "slug": "windshield-replacement-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-grimes-ia/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair grimes ia",
     "slug": "hvac-repair-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-grimes-ia/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumbing services grimes ia",
     "slug": "plumbing-services-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-grimes-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -268,7 +268,7 @@
    {
     "keyword": "plumber grimes ia",
     "slug": "plumber-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-grimes-ia/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -283,7 +283,7 @@
    {
     "keyword": "flooring companies grimes ia",
     "slug": "flooring-companies-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-grimes-ia/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "heating and air grimes ia",
     "slug": "heating-and-air-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-grimes-ia/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "plumbers grimes ia",
     "slug": "plumbers-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-grimes-ia/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8.0,
@@ -328,7 +328,7 @@
    {
     "keyword": "storage units grimes ia",
     "slug": "storage-units-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-grimes-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -343,7 +343,7 @@
    {
     "keyword": "photographer grimes ia",
     "slug": "photographer-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-grimes-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -358,7 +358,7 @@
    {
     "keyword": "dance studio grimes ia",
     "slug": "dance-studio-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-grimes-ia/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "general contractor grimes ia",
     "slug": "general-contractor-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/general-contractor-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-grimes-ia/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "daycare grimes ia",
     "slug": "daycare-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-grimes-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -403,7 +403,7 @@
    {
     "keyword": "preschool grimes ia",
     "slug": "preschool-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-grimes-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -418,7 +418,7 @@
    {
     "keyword": "assisted living grimes ia",
     "slug": "assisted-living-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-grimes-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -433,7 +433,7 @@
    {
     "keyword": "chiropractor grimes ia",
     "slug": "chiropractor-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-grimes-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -448,7 +448,7 @@
    {
     "keyword": "family doctor grimes ia",
     "slug": "family-doctor-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-grimes-ia/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 73.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "plumber grimes ia",
     "slug": "plumber-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-grimes-ia/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist grimes ia",
     "slug": "dentist-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-grimes-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash grimes ia",
     "slug": "car-wash-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-grimes-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym grimes ia",
     "slug": "gym-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-grimes-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic grimes ia",
     "slug": "mechanic-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-grimes-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -540,7 +540,7 @@
    {
     "keyword": "haircut grimes ia",
     "slug": "haircut-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-grimes-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -555,7 +555,7 @@
    {
     "keyword": "auto repair grimes ia",
     "slug": "auto-repair-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-grimes-ia/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -570,7 +570,7 @@
    {
     "keyword": "hvac repair grimes ia",
     "slug": "hvac-repair-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-grimes-ia/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -585,7 +585,7 @@
    {
     "keyword": "chiropractor grimes ia",
     "slug": "chiropractor-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-grimes-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -600,7 +600,7 @@
    {
     "keyword": "dog boarding grimes ia",
     "slug": "dog-boarding-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-grimes-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -615,7 +615,7 @@
    {
     "keyword": "hair salon grimes ia",
     "slug": "hair-salon-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-grimes-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -630,7 +630,7 @@
    {
     "keyword": "plumbing services grimes ia",
     "slug": "plumbing-services-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-grimes-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -645,7 +645,7 @@
    {
     "keyword": "nail salon grimes ia",
     "slug": "nail-salon-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-grimes-ia/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agency grimes ia",
     "slug": "insurance-agency-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-grimes-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -675,7 +675,7 @@
    {
     "keyword": "windshield replacement grimes ia",
     "slug": "windshield-replacement-grimes-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-grimes-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-grimes-ia/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,

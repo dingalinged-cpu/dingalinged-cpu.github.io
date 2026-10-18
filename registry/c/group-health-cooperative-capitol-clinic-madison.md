@@ -13,12 +13,12 @@ Group Health Cooperative Capitol Clinic is a pediatrician in Madison, WI at 675 
 - Website: https://www.ghcscw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; We,Fr 08:00-17:00 open "General Clinic" || Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00 open "Urgent Care" || Mo-Fr 07:30-21:00; Sa,Su 09:00-21:00 open "Lab" || Mo-Fr 08:00-19:00; Sa,Su 09:00-17:00 open "Pharmacy"
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Madison, #1 of 1 pediatricians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 100% of pediatricians in Madison, #1 of 1 pediatricians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/group-health-cooperative-capitol-clinic-madison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/group-health-cooperative-capitol-clinic-madison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/group-health-cooperative-capitol-clinic-madison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/group-health-cooperative-capitol-clinic-madison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/102234781 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ NT Chiropractic Clinic is a chiropractor in Denton, TX at 638 Londonderry Lane, 
 - Website: https://www.ntchiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 31% of chiropractors in Dallas–Fort Worth, #2 of 6 chiropractors in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 31% of chiropractors in Dallas–Fort Worth, #2 of 6 chiropractors in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/nt-chiropractic-clinic-denton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nt-chiropractic-clinic-denton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nt-chiropractic-clinic-denton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nt-chiropractic-clinic-denton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/670361636 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

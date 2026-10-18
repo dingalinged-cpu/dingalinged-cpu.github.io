@@ -2,7 +2,7 @@
  "title": "Keyword market data: Palmer, TX",
  "description": "Top Palmer, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Palmer, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 2,
@@ -11,7 +11,7 @@
    {
     "keyword": "mechanic palmer tx",
     "slug": "mechanic-palmer-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-palmer-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-palmer-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -26,7 +26,7 @@
    {
     "keyword": "auto repair palmer tx",
     "slug": "auto-repair-palmer-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-palmer-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-palmer-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -43,7 +43,7 @@
    {
     "keyword": "auto repair palmer tx",
     "slug": "auto-repair-palmer-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-palmer-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-palmer-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -58,7 +58,7 @@
    {
     "keyword": "mechanic palmer tx",
     "slug": "mechanic-palmer-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-palmer-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-palmer-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -75,7 +75,7 @@
    {
     "keyword": "mechanic palmer tx",
     "slug": "mechanic-palmer-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-palmer-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-palmer-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -90,7 +90,7 @@
    {
     "keyword": "auto repair palmer tx",
     "slug": "auto-repair-palmer-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-palmer-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-palmer-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,

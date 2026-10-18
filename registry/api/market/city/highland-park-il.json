@@ -2,7 +2,7 @@
  "title": "Keyword market data: Highland Park, IL",
  "description": "Top Highland Park, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Highland Park, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 34,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash highland park il",
     "slug": "car-wash-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-highland-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym highland park il",
     "slug": "gym-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-highland-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon highland park il",
     "slug": "hair-salon-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-highland-park-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon highland park il",
     "slug": "nail-salon-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-highland-park-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic highland park il",
     "slug": "mechanic-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-highland-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "vet highland park il",
     "slug": "vet-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-highland-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -101,7 +101,7 @@
    {
     "keyword": "dog groomer highland park il",
     "slug": "dog-groomer-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-highland-park-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut highland park il",
     "slug": "haircut-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-highland-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair highland park il",
     "slug": "auto-repair-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-highland-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -146,7 +146,7 @@
    {
     "keyword": "pilates highland park il",
     "slug": "pilates-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-highland-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -161,7 +161,7 @@
    {
     "keyword": "financial advisor highland park il",
     "slug": "financial-advisor-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-highland-park-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -176,7 +176,7 @@
    {
     "keyword": "real estate agent highland park il",
     "slug": "real-estate-agent-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-highland-park-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agency highland park il",
     "slug": "insurance-agency-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-highland-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -206,7 +206,7 @@
    {
     "keyword": "pediatrician highland park il",
     "slug": "pediatrician-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-highland-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -221,7 +221,7 @@
    {
     "keyword": "realtor highland park il",
     "slug": "realtor-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-highland-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -238,7 +238,7 @@
    {
     "keyword": "storage units highland park il",
     "slug": "storage-units-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-highland-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -253,7 +253,7 @@
    {
     "keyword": "event venues highland park il",
     "slug": "event-venues-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-highland-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -268,7 +268,7 @@
    {
     "keyword": "martial arts highland park il",
     "slug": "martial-arts-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-highland-park-il/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8300,
@@ -283,7 +283,7 @@
    {
     "keyword": "pilates highland park il",
     "slug": "pilates-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-highland-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -298,7 +298,7 @@
    {
     "keyword": "daycare highland park il",
     "slug": "daycare-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-highland-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "preschool highland park il",
     "slug": "preschool-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-highland-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "pediatrician highland park il",
     "slug": "pediatrician-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-highland-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -343,7 +343,7 @@
    {
     "keyword": "physical therapy highland park il",
     "slug": "physical-therapy-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-highland-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -358,7 +358,7 @@
    {
     "keyword": "haircut highland park il",
     "slug": "haircut-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-highland-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -373,7 +373,7 @@
    {
     "keyword": "auto body shop highland park il",
     "slug": "auto-body-shop-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-highland-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -388,7 +388,7 @@
    {
     "keyword": "auto repair highland park il",
     "slug": "auto-repair-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-highland-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -403,7 +403,7 @@
    {
     "keyword": "car wash highland park il",
     "slug": "car-wash-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-highland-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -418,7 +418,7 @@
    {
     "keyword": "mechanic highland park il",
     "slug": "mechanic-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-highland-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -433,7 +433,7 @@
    {
     "keyword": "windshield replacement highland park il",
     "slug": "windshield-replacement-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-highland-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -448,7 +448,7 @@
    {
     "keyword": "bike shop highland park il",
     "slug": "bike-shop-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-highland-park-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -465,7 +465,7 @@
    {
     "keyword": "car wash highland park il",
     "slug": "car-wash-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-highland-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "gym highland park il",
     "slug": "gym-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-highland-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic highland park il",
     "slug": "mechanic-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-highland-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -510,7 +510,7 @@
    {
     "keyword": "vet highland park il",
     "slug": "vet-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-highland-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -525,7 +525,7 @@
    {
     "keyword": "pilates highland park il",
     "slug": "pilates-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-highland-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -540,7 +540,7 @@
    {
     "keyword": "dog groomer highland park il",
     "slug": "dog-groomer-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-highland-park-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut highland park il",
     "slug": "haircut-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-highland-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair highland park il",
     "slug": "auto-repair-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-highland-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -585,7 +585,7 @@
    {
     "keyword": "financial advisor highland park il",
     "slug": "financial-advisor-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-highland-park-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -600,7 +600,7 @@
    {
     "keyword": "hair salon highland park il",
     "slug": "hair-salon-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-highland-park-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -615,7 +615,7 @@
    {
     "keyword": "real estate agent highland park il",
     "slug": "real-estate-agent-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-highland-park-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -630,7 +630,7 @@
    {
     "keyword": "nail salon highland park il",
     "slug": "nail-salon-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-highland-park-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -645,7 +645,7 @@
    {
     "keyword": "pediatrician highland park il",
     "slug": "pediatrician-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-highland-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -660,7 +660,7 @@
    {
     "keyword": "realtor highland park il",
     "slug": "realtor-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-highland-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agency highland park il",
     "slug": "insurance-agency-highland-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-highland-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-highland-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,

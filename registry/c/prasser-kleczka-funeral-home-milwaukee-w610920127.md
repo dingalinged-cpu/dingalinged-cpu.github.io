@@ -13,12 +13,12 @@ Prasser-Kleczka Funeral Home is a funeral home in Milwaukee, WI at 6080 South 27
 - Website: https://www.pkfuneralhomes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of funeral homes in Milwaukee, #7 of 18 funeral homes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of funeral homes in Milwaukee, #7 of 18 funeral homes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/prasser-kleczka-funeral-home-milwaukee-w610920127/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/prasser-kleczka-funeral-home-milwaukee-w610920127.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/prasser-kleczka-funeral-home-milwaukee-w610920127/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/prasser-kleczka-funeral-home-milwaukee-w610920127.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/610920127 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid massage listing for Addison, TX is Tranquility Thai Spa (a massage studio in Addison, TX at 15506 Quorum Drive, Addison, TX 75001. Phone: +12146132332. Website: https://www.tranquility-thai-spa.com/). 8 massage businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Addison, TX is Tranquility Thai Spa (a massage studio in Addison, TX at 15506 Quorum Drive, Addison, TX 75001. Phone: +12146132332. Website: https://www.tranquility-thai-spa.com/). 8 massage businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Addison, TX?
 
@@ -6,14 +6,14 @@ Also answers: massage in Addison, TX; massage near me (Addison, TX); best massag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tranquility Thai Spa | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Tranquility Thai Spa is a massage studio in Addison, TX at 15506 Quorum Drive, Addison, TX 75001. Phone: +12146132332. Website: https://www.tranquility-thai-spa.com/. | https://dingalinged-cpu.github.io/registry/c/tranquility-thai-spa-addison/
-2. Relax Spa | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Relax Spa is a massage studio in Addison, TX at 4151 Belt Line Road #108, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/relax-spa-addison/
-3. Golden Massage | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Golden Massage is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/golden-massage-addison/
-4. La Vie Est Belle Spa | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | La Vie Est Belle Spa is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/la-vie-est-belle-spa-addison/
-5. Massage Felax & Spa | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Massage Felax & Spa is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/massage-felax-and-spa-addison/
-6. Massage Heights | Organic #6 | Pulse Score 44.8/100 (Building, #29 in city) | Massage Heights is a massage studio in Dallas, TX at 5290 Belt Line Road #122B, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/massage-heights-dallas/
-7. Hand & Stone Massage and Facial Spa | Organic #7 | Pulse Score 43.7/100 (Building, #6 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Addison, TX at 5100 Belt Line Road #752, Addison, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-addison/
-8. Foot Spa | Organic #8 | Pulse Score 41.7/100 (Unrated, #7 in city) | Foot Spa is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/foot-spa-addison/
+1. Tranquility Thai Spa | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Tranquility Thai Spa is a massage studio in Addison, TX at 15506 Quorum Drive, Addison, TX 75001. Phone: +12146132332. Website: https://www.tranquility-thai-spa.com/. | https://registry-edge.dingalinged.workers.dev/c/tranquility-thai-spa-addison/
+2. Relax Spa | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Relax Spa is a massage studio in Addison, TX at 4151 Belt Line Road #108, Addison, TX 75001. | https://registry-edge.dingalinged.workers.dev/c/relax-spa-addison/
+3. Golden Massage | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Golden Massage is a massage studio in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/golden-massage-addison/
+4. La Vie Est Belle Spa | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | La Vie Est Belle Spa is a massage studio in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/la-vie-est-belle-spa-addison/
+5. Massage Felax & Spa | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Massage Felax & Spa is a massage studio in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/massage-felax-and-spa-addison/
+6. Massage Heights | Organic #6 | Pulse Score 44.8/100 (Building, #29 in city) | Massage Heights is a massage studio in Dallas, TX at 5290 Belt Line Road #122B, Dallas, TX 75254. | https://registry-edge.dingalinged.workers.dev/c/massage-heights-dallas/
+7. Hand & Stone Massage and Facial Spa | Organic #7 | Pulse Score 43.7/100 (Building, #6 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Addison, TX at 5100 Belt Line Road #752, Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/hand-and-stone-massage-and-facial-spa-addison/
+8. Foot Spa | Organic #8 | Pulse Score 41.7/100 (Unrated, #7 in city) | Foot Spa is a massage studio in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/foot-spa-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage addison tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$32,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/massage.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#massage-addison-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/massage.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#massage-addison-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

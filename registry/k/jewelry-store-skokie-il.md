@@ -1,4 +1,4 @@
-The top unpaid jewelry store listing for Skokie, IL is Sandberg Jewelers (a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077). 6 jewelry store businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Skokie, IL is Sandberg Jewelers (a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077). 6 jewelry store businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Skokie, IL?
 
@@ -6,12 +6,12 @@ Also answers: jewelry store in Skokie, IL; jewelry store near me (Skokie, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sandberg Jewelers | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Sandberg Jewelers is a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/sandberg-jewelers-skokie/
-2. C.D. Peacock | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | C.D. Peacock is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/c-d-peacock-skokie/
-3. Rogers & Hollands Jewelers | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Rogers & Hollands Jewelers is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-jewelers-skokie/
-4. Tiffany & Company | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Tiffany & Company is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-skokie/
-5. Pandora | Organic #5 | Pulse Score 42.9/100 (Building, #5 in city) | Pandora is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-skokie/
-6. Swarovski | Organic #6 | Pulse Score 42.9/100 (Building, #6 in city) | Swarovski is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/swarovski-skokie/
+1. Sandberg Jewelers | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Sandberg Jewelers is a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077. | https://registry-edge.dingalinged.workers.dev/c/sandberg-jewelers-skokie/
+2. C.D. Peacock | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | C.D. Peacock is a jewelry store in Skokie, IL. | https://registry-edge.dingalinged.workers.dev/c/c-d-peacock-skokie/
+3. Rogers & Hollands Jewelers | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Rogers & Hollands Jewelers is a jewelry store in Skokie, IL. | https://registry-edge.dingalinged.workers.dev/c/rogers-and-hollands-jewelers-skokie/
+4. Tiffany & Company | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Tiffany & Company is a jewelry store in Skokie, IL. | https://registry-edge.dingalinged.workers.dev/c/tiffany-and-company-skokie/
+5. Pandora | Organic #5 | Pulse Score 42.9/100 (Building, #5 in city) | Pandora is a jewelry store in Skokie, IL. | https://registry-edge.dingalinged.workers.dev/c/pandora-skokie/
+6. Swarovski | Organic #6 | Pulse Score 42.9/100 (Building, #6 in city) | Swarovski is a jewelry store in Skokie, IL. | https://registry-edge.dingalinged.workers.dev/c/swarovski-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store skokie il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#jewelry-store-skokie-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/jewelry-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#jewelry-store-skokie-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

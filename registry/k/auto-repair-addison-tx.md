@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Addison, TX is Mid Cities Auto Glass (an auto repair shop in Addison, TX at 自動15302 Midway Road, Addison, TX 75001. Phone: +19722208888. Website: https://midcitiesautoglass.com/). 8 auto repair businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Addison, TX is Mid Cities Auto Glass (an auto repair shop in Addison, TX at 自動15302 Midway Road, Addison, TX 75001. Phone: +19722208888. Website: https://midcitiesautoglass.com/). 8 auto repair businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Addison, TX?
 
@@ -6,14 +6,14 @@ Also answers: auto repair in Addison, TX; auto repair near me (Addison, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mid Cities Auto Glass | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Mid Cities Auto Glass is an auto repair shop in Addison, TX at 自動15302 Midway Road, Addison, TX 75001. Phone: +19722208888. Website: https://midcitiesautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/mid-cities-auto-glass-addison/
-2. Auto Hans | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Auto Hans is an auto repair shop in Addison, TX at 15840 Addison Road, Addison, TX 75001. Phone: +19727882043. Website: https://www.autohans.com/. | https://dingalinged-cpu.github.io/registry/c/auto-hans-addison/
-3. Addison Automotive Service | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Addison Automotive Service is an auto repair shop in Addison, TX at 14375 Inwood Road, Addison, TX 75001. Website: https://addisonautorepairdfw.com/. | https://dingalinged-cpu.github.io/registry/c/addison-automotive-service-addison/
-4. 21st Century Muscle Cars | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | 21st Century Muscle Cars is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/21st-century-muscle-cars-addison/
-5. Addison AutoPlex | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Addison AutoPlex is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/addison-autoplex-addison/
-6. Patriot Auto Repair | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Patriot Auto Repair is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/patriot-auto-repair-addison/
-7. T&K Automotive Specialists | Organic #7 | Pulse Score 54.2/100 (Unrated, #7 in city) | T&K Automotive Specialists is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/t-and-k-automotive-specialists-addison/
-8. Caliber Collision | Organic #8 | Pulse Score 42.2/100 (Building, #8 in city) | Caliber Collision is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-addison/
+1. Mid Cities Auto Glass | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Mid Cities Auto Glass is an auto repair shop in Addison, TX at 自動15302 Midway Road, Addison, TX 75001. Phone: +19722208888. Website: https://midcitiesautoglass.com/. | https://registry-edge.dingalinged.workers.dev/c/mid-cities-auto-glass-addison/
+2. Auto Hans | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Auto Hans is an auto repair shop in Addison, TX at 15840 Addison Road, Addison, TX 75001. Phone: +19727882043. Website: https://www.autohans.com/. | https://registry-edge.dingalinged.workers.dev/c/auto-hans-addison/
+3. Addison Automotive Service | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Addison Automotive Service is an auto repair shop in Addison, TX at 14375 Inwood Road, Addison, TX 75001. Website: https://addisonautorepairdfw.com/. | https://registry-edge.dingalinged.workers.dev/c/addison-automotive-service-addison/
+4. 21st Century Muscle Cars | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | 21st Century Muscle Cars is an auto repair shop in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/21st-century-muscle-cars-addison/
+5. Addison AutoPlex | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Addison AutoPlex is an auto repair shop in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/addison-autoplex-addison/
+6. Patriot Auto Repair | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Patriot Auto Repair is an auto repair shop in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/patriot-auto-repair-addison/
+7. T&K Automotive Specialists | Organic #7 | Pulse Score 54.2/100 (Unrated, #7 in city) | T&K Automotive Specialists is an auto repair shop in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/t-and-k-automotive-specialists-addison/
+8. Caliber Collision | Organic #8 | Pulse Score 42.2/100 (Building, #8 in city) | Caliber Collision is an auto repair shop in Addison, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-collision-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair addison tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-addison-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-addison-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

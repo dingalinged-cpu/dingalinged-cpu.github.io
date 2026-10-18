@@ -2,7 +2,7 @@
  "title": "Keyword market data: Itasca, IL",
  "description": "Top Itasca, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Itasca, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 13,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash itasca il",
     "slug": "car-wash-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-itasca-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "oil change itasca il",
     "slug": "oil-change-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-itasca-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic itasca il",
     "slug": "mechanic-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-itasca-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -56,7 +56,7 @@
    {
     "keyword": "tire shop itasca il",
     "slug": "tire-shop-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-itasca-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet itasca il",
     "slug": "vet-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-itasca-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair itasca il",
     "slug": "auto-repair-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-itasca-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -101,7 +101,7 @@
    {
     "keyword": "brake repair itasca il",
     "slug": "brake-repair-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/brake-repair-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/brake-repair-itasca-il/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -118,7 +118,7 @@
    {
     "keyword": "bakery itasca il",
     "slug": "bakery-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-itasca-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -133,7 +133,7 @@
    {
     "keyword": "preschool itasca il",
     "slug": "preschool-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-itasca-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -148,7 +148,7 @@
    {
     "keyword": "auto repair itasca il",
     "slug": "auto-repair-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-itasca-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -163,7 +163,7 @@
    {
     "keyword": "brake repair itasca il",
     "slug": "brake-repair-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/brake-repair-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/brake-repair-itasca-il/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -178,7 +178,7 @@
    {
     "keyword": "car wash itasca il",
     "slug": "car-wash-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-itasca-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -193,7 +193,7 @@
    {
     "keyword": "mechanic itasca il",
     "slug": "mechanic-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-itasca-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -208,7 +208,7 @@
    {
     "keyword": "oil change itasca il",
     "slug": "oil-change-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-itasca-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -223,7 +223,7 @@
    {
     "keyword": "tire shop itasca il",
     "slug": "tire-shop-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-itasca-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -238,7 +238,7 @@
    {
     "keyword": "liquor store itasca il",
     "slug": "liquor-store-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-itasca-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -253,7 +253,7 @@
    {
     "keyword": "vet itasca il",
     "slug": "vet-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-itasca-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -268,7 +268,7 @@
    {
     "keyword": "dry cleaners itasca il",
     "slug": "dry-cleaners-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-itasca-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "funeral home itasca il",
     "slug": "funeral-home-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-itasca-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -298,7 +298,7 @@
    {
     "keyword": "printing services itasca il",
     "slug": "printing-services-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-itasca-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -315,7 +315,7 @@
    {
     "keyword": "car wash itasca il",
     "slug": "car-wash-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-itasca-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -330,7 +330,7 @@
    {
     "keyword": "oil change itasca il",
     "slug": "oil-change-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-itasca-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -345,7 +345,7 @@
    {
     "keyword": "mechanic itasca il",
     "slug": "mechanic-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-itasca-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -360,7 +360,7 @@
    {
     "keyword": "tire shop itasca il",
     "slug": "tire-shop-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-itasca-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -375,7 +375,7 @@
    {
     "keyword": "vet itasca il",
     "slug": "vet-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-itasca-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -390,7 +390,7 @@
    {
     "keyword": "auto repair itasca il",
     "slug": "auto-repair-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-itasca-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -405,7 +405,7 @@
    {
     "keyword": "brake repair itasca il",
     "slug": "brake-repair-itasca-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/brake-repair-itasca-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/brake-repair-itasca-il/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,

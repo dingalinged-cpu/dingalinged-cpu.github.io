@@ -13,12 +13,12 @@ Aya Medical Spa is a skin care studio in Atlanta, GA at 145 15th Street Northeas
 - Website: https://ayaskin.com/locations/colony-square
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su off
-- Pulse Score: 57.4/100 — Fair — top 56% of skin care studios in Atlanta, #5 of 8 skin care studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 57.6, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Fair — top 56% of skin care studios in Atlanta, #5 of 8 skin care studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 57.6, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/aya-medical-spa-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/aya-medical-spa-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aya-medical-spa-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aya-medical-spa-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12924935623 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

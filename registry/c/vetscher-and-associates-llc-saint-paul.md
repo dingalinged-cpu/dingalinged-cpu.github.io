@@ -13,12 +13,12 @@ Vetscher & Associates, LLC is an accountant in Saint Paul, MN at 2550 University
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 59% of accountants in Minneapolis–St. Paul, #2 of 2 accountants in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 59% of accountants in Minneapolis–St. Paul, #2 of 2 accountants in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/vetscher-and-associates-llc-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/vetscher-and-associates-llc-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/vetscher-and-associates-llc-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/vetscher-and-associates-llc-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6275543771 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

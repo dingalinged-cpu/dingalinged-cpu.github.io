@@ -1,4 +1,4 @@
-The top unpaid vet listing for Inver Grove Heights, MN is Inver Grove Heights Animal Hospital (a veterinarian in Inver Grove Heights, MN at 7135 Cahill Avenue, Inver Grove Heights, MN 55076). 2 vet businesses are listed for Inver Grove Heights, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Inver Grove Heights, MN is Inver Grove Heights Animal Hospital (a veterinarian in Inver Grove Heights, MN at 7135 Cahill Avenue, Inver Grove Heights, MN 55076). 2 vet businesses are listed for Inver Grove Heights, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Inver Grove Heights, MN?
 
@@ -6,8 +6,8 @@ Also answers: vet in Inver Grove Heights, MN; vet near me (Inver Grove Heights, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Inver Grove Heights Animal Hospital | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Inver Grove Heights Animal Hospital is a veterinarian in Inver Grove Heights, MN at 7135 Cahill Avenue, Inver Grove Heights, MN 55076. | https://dingalinged-cpu.github.io/registry/c/inver-grove-heights-animal-hospital-inver-grove-heights/
-2. Southview Animal Hospital | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Southview Animal Hospital is a veterinarian in Inver Grove Heights, MN at 32 Mendota Road East, Inver Grove Heights, MN 55077. | https://dingalinged-cpu.github.io/registry/c/southview-animal-hospital-inver-grove-heights/
+1. Inver Grove Heights Animal Hospital | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Inver Grove Heights Animal Hospital is a veterinarian in Inver Grove Heights, MN at 7135 Cahill Avenue, Inver Grove Heights, MN 55076. | https://registry-edge.dingalinged.workers.dev/c/inver-grove-heights-animal-hospital-inver-grove-heights/
+2. Southview Animal Hospital | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Southview Animal Hospital is a veterinarian in Inver Grove Heights, MN at 32 Mendota Road East, Inver Grove Heights, MN 55077. | https://registry-edge.dingalinged.workers.dev/c/southview-animal-hospital-inver-grove-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet inver grove heights mn | category: Pets | industry benchmark: Animals & Pets
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-inver-grove-heights-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-inver-grove-heights-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

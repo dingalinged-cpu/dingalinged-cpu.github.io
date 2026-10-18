@@ -1,4 +1,4 @@
-The top unpaid preschool listing for Evanston, IL is Unity Preschool (a preschool in Evanston, IL at 926 Noyes Street, Evanston, IL 60201. Phone: +18478697170. Website: https://unitypreschoolevanston.com/). 5 preschool businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Evanston, IL is Unity Preschool (a preschool in Evanston, IL at 926 Noyes Street, Evanston, IL 60201. Phone: +18478697170. Website: https://unitypreschoolevanston.com/). 5 preschool businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Evanston, IL?
 
@@ -6,11 +6,11 @@ Also answers: preschool in Evanston, IL; preschool near me (Evanston, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Unity Preschool | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Unity Preschool is a preschool in Evanston, IL at 926 Noyes Street, Evanston, IL 60201. Phone: +18478697170. Website: https://unitypreschoolevanston.com/. | https://dingalinged-cpu.github.io/registry/c/unity-preschool-evanston/
-2. Toddler Town Day Care | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Toddler Town Day Care is a preschool in Evanston, IL at 1501 Howard Street, Evanston, IL 60202. Website: https://www.toddlertownchicago.com/. | https://dingalinged-cpu.github.io/registry/c/toddler-town-day-care-evanston/
-3. Barbereaux School | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Barbereaux School is a preschool in Evanston, IL at 3333 Culver Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/barbereaux-school-evanston/
-4. Bright Horizons | Organic #4 | Pulse Score 48.1/100 (Building, #4 in city) | Bright Horizons is a preschool in Evanston, IL at 1629 Sherman Avenue, Evanston, IL 60201. Phone: +18474919032. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-evanston/
-5. Guidepost Montessori | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Guidepost Montessori is a preschool in Evanston, IL at 1012 Davis Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-evanston/
+1. Unity Preschool | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Unity Preschool is a preschool in Evanston, IL at 926 Noyes Street, Evanston, IL 60201. Phone: +18478697170. Website: https://unitypreschoolevanston.com/. | https://registry-edge.dingalinged.workers.dev/c/unity-preschool-evanston/
+2. Toddler Town Day Care | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Toddler Town Day Care is a preschool in Evanston, IL at 1501 Howard Street, Evanston, IL 60202. Website: https://www.toddlertownchicago.com/. | https://registry-edge.dingalinged.workers.dev/c/toddler-town-day-care-evanston/
+3. Barbereaux School | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Barbereaux School is a preschool in Evanston, IL at 3333 Culver Street, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/barbereaux-school-evanston/
+4. Bright Horizons | Organic #4 | Pulse Score 48.1/100 (Building, #4 in city) | Bright Horizons is a preschool in Evanston, IL at 1629 Sherman Avenue, Evanston, IL 60201. Phone: +18474919032. | https://registry-edge.dingalinged.workers.dev/c/bright-horizons-evanston/
+5. Guidepost Montessori | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Guidepost Montessori is a preschool in Evanston, IL at 1012 Davis Street, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/guidepost-montessori-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool evanston il | category: Education & childcare | industry benchmark: Education & Instruction
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/preschool.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#preschool-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/preschool.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#preschool-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

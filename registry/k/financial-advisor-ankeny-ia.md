@@ -1,4 +1,4 @@
-The top unpaid financial advisor listing for Ankeny, IA is Northwestern Mutual (a financial advisor in Ankeny, IA at 1810 Southwest Plaza Shops Lane #Suite G, Ankeny, IA 50023. Phone: +15152463090. Website: https://www.bensonwealthmanagement.nm.com/). 2 financial advisor businesses are listed for Ankeny, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Ankeny, IA is Northwestern Mutual (a financial advisor in Ankeny, IA at 1810 Southwest Plaza Shops Lane #Suite G, Ankeny, IA 50023. Phone: +15152463090. Website: https://www.bensonwealthmanagement.nm.com/). 2 financial advisor businesses are listed for Ankeny, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Ankeny, IA?
 
@@ -6,8 +6,8 @@ Also answers: financial advisor in Ankeny, IA; financial advisor near me (Ankeny
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northwestern Mutual | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Northwestern Mutual is a financial advisor in Ankeny, IA at 1810 Southwest Plaza Shops Lane #Suite G, Ankeny, IA 50023. Phone: +15152463090. Website: https://www.bensonwealthmanagement.nm.com/. | https://dingalinged-cpu.github.io/registry/c/northwestern-mutual-ankeny/
-2. Edward Jones | Organic #2 | Pulse Score 52.2/100 (Fair, #2 in city) | Edward Jones is a financial advisor in Ankeny, IA at 1610 Southwest Main Street #Ste. 206, Ankeny, IA 50023. Phone: +15154462193. Website: https://www.edwardjones.com/us-en/financial-advisor/brandt-hockman. | https://dingalinged-cpu.github.io/registry/c/edward-jones-ankeny/
+1. Northwestern Mutual | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Northwestern Mutual is a financial advisor in Ankeny, IA at 1810 Southwest Plaza Shops Lane #Suite G, Ankeny, IA 50023. Phone: +15152463090. Website: https://www.bensonwealthmanagement.nm.com/. | https://registry-edge.dingalinged.workers.dev/c/northwestern-mutual-ankeny/
+2. Edward Jones | Organic #2 | Pulse Score 52.2/100 (Fair, #2 in city) | Edward Jones is a financial advisor in Ankeny, IA at 1610 Southwest Main Street #Ste. 206, Ankeny, IA 50023. Phone: +15154462193. Website: https://www.edwardjones.com/us-en/financial-advisor/brandt-hockman. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor ankeny ia | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$160 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/financial-advisor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#financial-advisor-ankeny-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/financial-advisor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#financial-advisor-ankeny-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

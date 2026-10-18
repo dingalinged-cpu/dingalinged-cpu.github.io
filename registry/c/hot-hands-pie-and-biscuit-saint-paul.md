@@ -13,12 +13,12 @@ Hot Hands Pie & Biscuit is a bakery in Saint Paul, MN at 272 Snelling Avenue Sou
 - Website: https://www.hothandspie.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 08:00-15:00; Su 09:00-14:00
-- Pulse Score: 63.3/100 — Good — top 4% of bakerys in Minneapolis–St. Paul, #1 of 19 bakerys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 4% of bakerys in Minneapolis–St. Paul, #1 of 19 bakerys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hot-hands-pie-and-biscuit-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hot-hands-pie-and-biscuit-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hot-hands-pie-and-biscuit-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hot-hands-pie-and-biscuit-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7011585366 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

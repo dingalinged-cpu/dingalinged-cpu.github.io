@@ -2,7 +2,7 @@
  "title": "Keyword market data: Denton County, TX",
  "description": "Top Denton County, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Denton County, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 13,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist denton county tx",
     "slug": "dentist-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-denton-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym denton county tx",
     "slug": "gym-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-denton-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic denton county tx",
     "slug": "mechanic-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-denton-county-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -56,7 +56,7 @@
    {
     "keyword": "vet denton county tx",
     "slug": "vet-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-denton-county-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -71,7 +71,7 @@
    {
     "keyword": "auto repair denton county tx",
     "slug": "auto-repair-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-denton-county-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -86,7 +86,7 @@
    {
     "keyword": "tax preparation denton county tx",
     "slug": "tax-preparation-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-denton-county-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -101,7 +101,7 @@
    {
     "keyword": "tax preparer denton county tx",
     "slug": "tax-preparer-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-denton-county-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -118,7 +118,7 @@
    {
     "keyword": "storage units denton county tx",
     "slug": "storage-units-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-denton-county-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -133,7 +133,7 @@
    {
     "keyword": "martial arts denton county tx",
     "slug": "martial-arts-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-denton-county-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -148,7 +148,7 @@
    {
     "keyword": "tax preparer denton county tx",
     "slug": "tax-preparer-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-denton-county-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -163,7 +163,7 @@
    {
     "keyword": "daycare denton county tx",
     "slug": "daycare-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-denton-county-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -178,7 +178,7 @@
    {
     "keyword": "dentist denton county tx",
     "slug": "dentist-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-denton-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -193,7 +193,7 @@
    {
     "keyword": "auto repair denton county tx",
     "slug": "auto-repair-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-denton-county-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -208,7 +208,7 @@
    {
     "keyword": "mechanic denton county tx",
     "slug": "mechanic-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-denton-county-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -223,7 +223,7 @@
    {
     "keyword": "liquor store denton county tx",
     "slug": "liquor-store-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-denton-county-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -238,7 +238,7 @@
    {
     "keyword": "vet denton county tx",
     "slug": "vet-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-denton-county-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -253,7 +253,7 @@
    {
     "keyword": "property management company denton county tx",
     "slug": "property-management-company-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/property-management-company-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/property-management-company-denton-county-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -268,7 +268,7 @@
    {
     "keyword": "tax preparation denton county tx",
     "slug": "tax-preparation-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-denton-county-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -283,7 +283,7 @@
    {
     "keyword": "property management companies denton county tx",
     "slug": "property-management-companies-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/property-management-companies-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/property-management-companies-denton-county-tx/",
     "us_monthly_searches": 22000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 550,
@@ -298,7 +298,7 @@
    {
     "keyword": "gym denton county tx",
     "slug": "gym-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-denton-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -315,7 +315,7 @@
    {
     "keyword": "dentist denton county tx",
     "slug": "dentist-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-denton-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -330,7 +330,7 @@
    {
     "keyword": "gym denton county tx",
     "slug": "gym-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-denton-county-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -345,7 +345,7 @@
    {
     "keyword": "mechanic denton county tx",
     "slug": "mechanic-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-denton-county-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -360,7 +360,7 @@
    {
     "keyword": "vet denton county tx",
     "slug": "vet-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-denton-county-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -375,7 +375,7 @@
    {
     "keyword": "auto repair denton county tx",
     "slug": "auto-repair-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-denton-county-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -390,7 +390,7 @@
    {
     "keyword": "tax preparer denton county tx",
     "slug": "tax-preparer-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-denton-county-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -405,7 +405,7 @@
    {
     "keyword": "tax preparation denton county tx",
     "slug": "tax-preparation-denton-county-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-denton-county-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-denton-county-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,

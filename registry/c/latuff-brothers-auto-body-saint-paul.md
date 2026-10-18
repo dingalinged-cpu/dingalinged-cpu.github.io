@@ -13,12 +13,12 @@ Latuff Brothers Auto Body is an auto repair shop in Saint Paul, MN at 880 Univer
 - Website: https://www.latuffbrothers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Minneapolis–St. Paul, #11 of 64 auto repair shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Minneapolis–St. Paul, #11 of 64 auto repair shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/latuff-brothers-auto-body-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/latuff-brothers-auto-body-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/latuff-brothers-auto-body-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/latuff-brothers-auto-body-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/152767316 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

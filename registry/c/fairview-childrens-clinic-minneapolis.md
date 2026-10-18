@@ -13,12 +13,12 @@ Fairview Children's Clinic is a pediatrician in Minneapolis, MN at 2535 Southeas
 - Website: https://www.fairview.org/Locations/Fairview-Clinics-University-Childrens
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of pediatricians in Minneapolis–St. Paul, #1 of 1 pediatricians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 17% of pediatricians in Minneapolis–St. Paul, #1 of 1 pediatricians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fairview-childrens-clinic-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fairview-childrens-clinic-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fairview-childrens-clinic-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fairview-childrens-clinic-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4279240354 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

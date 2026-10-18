@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Decatur, GA is Bundles By T (a hair salon in Decatur, GA at 2962 Ember Drive #1009, Decatur, GA 30034). 10 haircut businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Decatur, GA is Bundles By T (a hair salon in Decatur, GA at 2962 Ember Drive #1009, Decatur, GA 30034). 10 haircut businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Decatur, GA?
 
@@ -6,16 +6,16 @@ Also answers: haircut in Decatur, GA; haircut near me (Decatur, GA); best haircu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bundles By T | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Bundles By T is a hair salon in Decatur, GA at 2962 Ember Drive #1009, Decatur, GA 30034. | https://dingalinged-cpu.github.io/registry/c/bundles-by-t-decatur/
-2. Salon Red Kids | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Salon Red Kids is a hair salon in Decatur, GA at 123 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/. | https://dingalinged-cpu.github.io/registry/c/salon-red-kids-decatur/
-3. Salon Red | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Salon Red is a hair salon in Decatur, GA at 119 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/. | https://dingalinged-cpu.github.io/registry/c/salon-red-decatur/
-4. Forbici | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Forbici is a hair salon in Decatur, GA at 227, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/forbici-decatur/
-5. Rutabaga | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Rutabaga is a hair salon in Decatur, GA at 121, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/rutabaga-decatur/
-6. Terra Mater Salon | Organic #6 | Pulse Score 56.4/100 (Unrated, #6 in city) | Terra Mater Salon is a hair salon in Decatur, GA at 358, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/terra-mater-salon-decatur/
-7. The Cottage | Organic #7 | Pulse Score 56.4/100 (Unrated, #7 in city) | The Cottage is a hair salon in Decatur, GA at 914, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/the-cottage-decatur/
-8. Grow Salon | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Grow Salon is a hair salon in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/grow-salon-decatur/
-9. Miss Lisa's Cuts for Kids | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Miss Lisa's Cuts for Kids is a hair salon in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/miss-lisas-cuts-for-kids-decatur/
-10. Great Clips | Organic #10 | Pulse Score 44.4/100 (Building, #10 in city) | Great Clips is a hair salon in Decatur, GA. Website: https://www.greatclips.com/. | https://dingalinged-cpu.github.io/registry/c/great-clips-decatur/
+1. Bundles By T | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Bundles By T is a hair salon in Decatur, GA at 2962 Ember Drive #1009, Decatur, GA 30034. | https://registry-edge.dingalinged.workers.dev/c/bundles-by-t-decatur/
+2. Salon Red Kids | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Salon Red Kids is a hair salon in Decatur, GA at 123 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/. | https://registry-edge.dingalinged.workers.dev/c/salon-red-kids-decatur/
+3. Salon Red | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Salon Red is a hair salon in Decatur, GA at 119 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/. | https://registry-edge.dingalinged.workers.dev/c/salon-red-decatur/
+4. Forbici | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Forbici is a hair salon in Decatur, GA at 227, Decatur, GA. | https://registry-edge.dingalinged.workers.dev/c/forbici-decatur/
+5. Rutabaga | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Rutabaga is a hair salon in Decatur, GA at 121, Decatur, GA. | https://registry-edge.dingalinged.workers.dev/c/rutabaga-decatur/
+6. Terra Mater Salon | Organic #6 | Pulse Score 56.4/100 (Unrated, #6 in city) | Terra Mater Salon is a hair salon in Decatur, GA at 358, Decatur, GA. | https://registry-edge.dingalinged.workers.dev/c/terra-mater-salon-decatur/
+7. The Cottage | Organic #7 | Pulse Score 56.4/100 (Unrated, #7 in city) | The Cottage is a hair salon in Decatur, GA at 914, Decatur, GA. | https://registry-edge.dingalinged.workers.dev/c/the-cottage-decatur/
+8. Grow Salon | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Grow Salon is a hair salon in Decatur, GA. | https://registry-edge.dingalinged.workers.dev/c/grow-salon-decatur/
+9. Miss Lisa's Cuts for Kids | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Miss Lisa's Cuts for Kids is a hair salon in Decatur, GA. | https://registry-edge.dingalinged.workers.dev/c/miss-lisas-cuts-for-kids-decatur/
+10. Great Clips | Organic #10 | Pulse Score 44.4/100 (Building, #10 in city) | Great Clips is a hair salon in Decatur, GA. Website: https://www.greatclips.com/. | https://registry-edge.dingalinged.workers.dev/c/great-clips-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut decatur ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -28,6 +28,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-decatur-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-decatur-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

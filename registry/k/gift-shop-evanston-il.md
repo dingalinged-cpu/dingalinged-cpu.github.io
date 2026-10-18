@@ -1,4 +1,4 @@
-The top unpaid gift shop listing for Evanston, IL is niceLena & Friends (a gift shop in Evanston, IL at 1235 Chicago Avenue, Evanston, IL 60202. Phone: +18472713707. Website: https://www.nicelena.com/). 4 gift shop businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Evanston, IL is niceLena & Friends (a gift shop in Evanston, IL at 1235 Chicago Avenue, Evanston, IL 60202. Phone: +18472713707. Website: https://www.nicelena.com/). 4 gift shop businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Evanston, IL?
 
@@ -6,10 +6,10 @@ Also answers: gift shop in Evanston, IL; gift shop near me (Evanston, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. niceLena & Friends | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | niceLena & Friends is a gift shop in Evanston, IL at 1235 Chicago Avenue, Evanston, IL 60202. Phone: +18472713707. Website: https://www.nicelena.com/. | https://dingalinged-cpu.github.io/registry/c/nicelena-and-friends-evanston/
-2. Stumble & Relish | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Stumble & Relish is a gift shop in Evanston, IL at 1312 Chicago Avenue, Evanston, IL 60201. Website: https://stumbleandrelish.com/. | https://dingalinged-cpu.github.io/registry/c/stumble-and-relish-evanston/
-3. Shaker Traditions | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Shaker Traditions is a gift shop in Evanston, IL at 613 Dempster Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/shaker-traditions-evanston/
-4. Edible Arrangements | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | Edible Arrangements is a gift shop in Evanston, IL at 1630 Maple Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-evanston/
+1. niceLena & Friends | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | niceLena & Friends is a gift shop in Evanston, IL at 1235 Chicago Avenue, Evanston, IL 60202. Phone: +18472713707. Website: https://www.nicelena.com/. | https://registry-edge.dingalinged.workers.dev/c/nicelena-and-friends-evanston/
+2. Stumble & Relish | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Stumble & Relish is a gift shop in Evanston, IL at 1312 Chicago Avenue, Evanston, IL 60201. Website: https://stumbleandrelish.com/. | https://registry-edge.dingalinged.workers.dev/c/stumble-and-relish-evanston/
+3. Shaker Traditions | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Shaker Traditions is a gift shop in Evanston, IL at 613 Dempster Street, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/shaker-traditions-evanston/
+4. Edible Arrangements | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | Edible Arrangements is a gift shop in Evanston, IL at 1630 Maple Avenue, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop evanston il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$180 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gift-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gift-shop-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gift-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gift-shop-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

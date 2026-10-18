@@ -13,12 +13,12 @@ TCC | SE Cardio Room is a gym in Arlington, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 64% of gyms in Dallas–Fort Worth, #6 of 11 gyms in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 40.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 64% of gyms in Dallas–Fort Worth, #6 of 11 gyms in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tcc-se-cardio-room-arlington/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tcc-se-cardio-room-arlington.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tcc-se-cardio-room-arlington/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tcc-se-cardio-room-arlington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13239060348 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

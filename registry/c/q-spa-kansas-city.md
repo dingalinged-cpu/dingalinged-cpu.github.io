@@ -13,12 +13,12 @@ Q Spa is a massage studio in Kansas City, MO at 1207 West 103rd Street, Kansas C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 26% of massage studios in Kansas City, MO, #2 of 13 massage studios in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 26% of massage studios in Kansas City, MO, #2 of 13 massage studios in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/q-spa-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/q-spa-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/q-spa-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/q-spa-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1210091667 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

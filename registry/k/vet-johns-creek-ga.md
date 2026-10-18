@@ -1,4 +1,4 @@
-The top unpaid vet listing for Johns Creek, GA is Windward Animal Hospital (a veterinarian in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17705697298. Website: https://windwardanimalhospital.com/). 3 vet businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Johns Creek, GA is Windward Animal Hospital (a veterinarian in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17705697298. Website: https://windwardanimalhospital.com/). 3 vet businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Johns Creek, GA?
 
@@ -6,9 +6,9 @@ Also answers: vet in Johns Creek, GA; vet near me (Johns Creek, GA); best vet Jo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Windward Animal Hospital | Organic #1 | Pulse Score 61.5/100 (Unrated, #2 in city) | Windward Animal Hospital is a veterinarian in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17705697298. Website: https://windwardanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/windward-animal-hospital-alpharetta/
-2. Mill Creek Animal Hospital | Organic #2 | Pulse Score 61/100 (Unrated, #5 in city) | Mill Creek Animal Hospital is a veterinarian in Alpharetta, GA at 10100 Jones Bridge Road, Alpharetta, GA 30022. Phone: +17707400330. Website: https://www.millcreekvet.net/. | https://dingalinged-cpu.github.io/registry/c/mill-creek-animal-hospital-alpharetta/
-3. Animal Hospital of Nesbit Ferry Crossing | Organic #3 | Pulse Score 54.7/100 (Unrated, #1 in city) | Animal Hospital of Nesbit Ferry Crossing is a veterinarian in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-nesbit-ferry-crossing-johns-creek/
+1. Windward Animal Hospital | Organic #1 | Pulse Score 61.5/100 (Unrated, #2 in city) | Windward Animal Hospital is a veterinarian in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17705697298. Website: https://windwardanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/windward-animal-hospital-alpharetta/
+2. Mill Creek Animal Hospital | Organic #2 | Pulse Score 61/100 (Unrated, #5 in city) | Mill Creek Animal Hospital is a veterinarian in Alpharetta, GA at 10100 Jones Bridge Road, Alpharetta, GA 30022. Phone: +17707400330. Website: https://www.millcreekvet.net/. | https://registry-edge.dingalinged.workers.dev/c/mill-creek-animal-hospital-alpharetta/
+3. Animal Hospital of Nesbit Ferry Crossing | Organic #3 | Pulse Score 54.7/100 (Unrated, #1 in city) | Animal Hospital of Nesbit Ferry Crossing is a veterinarian in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/animal-hospital-of-nesbit-ferry-crossing-johns-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet johns creek ga | category: Pets | industry benchmark: Animals & Pets
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-johns-creek-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-johns-creek-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

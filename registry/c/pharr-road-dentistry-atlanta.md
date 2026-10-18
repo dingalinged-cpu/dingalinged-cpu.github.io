@@ -13,12 +13,12 @@ Pharr Road Dentistry is a dentist in Atlanta, GA at 550 Pharr Rd NE, UNIT 315, A
 - Website: https://www.pharrroaddentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 34% of dentists in Atlanta, #15 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 34% of dentists in Atlanta, #15 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/pharr-road-dentistry-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pharr-road-dentistry-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pharr-road-dentistry-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pharr-road-dentistry-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12558278389 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

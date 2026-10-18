@@ -13,12 +13,12 @@ The Barrel House Barber Lounge is a hair salon in Kansas City, MO at 516 Grand B
 - Website: https://www.vagaro.com/thebarrelhousebarberlouge
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 8% of hair salons in Kansas City, MO, #7 of 114 hair salons in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 8% of hair salons in Kansas City, MO, #7 of 114 hair salons in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-barrel-house-barber-lounge-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-barrel-house-barber-lounge-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-barrel-house-barber-lounge-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-barrel-house-barber-lounge-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/538351520 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

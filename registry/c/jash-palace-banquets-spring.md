@@ -13,12 +13,12 @@ Jash Palace Banquets is an event venue in Spring, TX at 6135 FM 2920 #Suite 100,
 - Website: https://jashpalacebanquets.com/
 - Email: info@jashpalacebanquets.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 16% of event venues in Houston, #2 of 5 event venues in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 16% of event venues in Houston, #2 of 5 event venues in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/jash-palace-banquets-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jash-palace-banquets-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jash-palace-banquets-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jash-palace-banquets-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11036293224 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

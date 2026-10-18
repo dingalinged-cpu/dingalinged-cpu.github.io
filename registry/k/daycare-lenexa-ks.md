@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Lenexa, KS is Kiddi Kollege (a daycare in Lenexa, KS at 9950 Chestnut Street, Lenexa, KS 66220. Phone: +19132547609. Website: https://kiddikollege.com/location/falcon-ridge/). 3 daycare businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Lenexa, KS is Kiddi Kollege (a daycare in Lenexa, KS at 9950 Chestnut Street, Lenexa, KS 66220. Phone: +19132547609. Website: https://kiddikollege.com/location/falcon-ridge/). 3 daycare businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Lenexa, KS?
 
@@ -6,9 +6,9 @@ Also answers: daycare in Lenexa, KS; daycare near me (Lenexa, KS); best daycare 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kiddi Kollege | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Kiddi Kollege is a daycare in Lenexa, KS at 9950 Chestnut Street, Lenexa, KS 66220. Phone: +19132547609. Website: https://kiddikollege.com/location/falcon-ridge/. | https://dingalinged-cpu.github.io/registry/c/kiddi-kollege-lenexa/
-2. The Whole Child Development Center | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | The Whole Child Development Center is a daycare in Lenexa, KS at 9740 Rosehill Road, Lenexa, KS 66215. Website: https://www.wholechilddevelopmentcenter.com/. | https://dingalinged-cpu.github.io/registry/c/the-whole-child-development-center-lenexa/
-3. Country Kids Day Care of Lenexa | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Country Kids Day Care of Lenexa is a daycare in Lenexa, KS at 8745 Bourgade Avenue, Lenexa, KS 66219. | https://dingalinged-cpu.github.io/registry/c/country-kids-day-care-of-lenexa-lenexa/
+1. Kiddi Kollege | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Kiddi Kollege is a daycare in Lenexa, KS at 9950 Chestnut Street, Lenexa, KS 66220. Phone: +19132547609. Website: https://kiddikollege.com/location/falcon-ridge/. | https://registry-edge.dingalinged.workers.dev/c/kiddi-kollege-lenexa/
+2. The Whole Child Development Center | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | The Whole Child Development Center is a daycare in Lenexa, KS at 9740 Rosehill Road, Lenexa, KS 66215. Website: https://www.wholechilddevelopmentcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/the-whole-child-development-center-lenexa/
+3. Country Kids Day Care of Lenexa | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Country Kids Day Care of Lenexa is a daycare in Lenexa, KS at 8745 Bourgade Avenue, Lenexa, KS 66219. | https://registry-edge.dingalinged.workers.dev/c/country-kids-day-care-of-lenexa-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare lenexa ks | category: Education & childcare | industry benchmark: Education & Instruction
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$410 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare-lenexa-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/daycare.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#daycare-lenexa-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

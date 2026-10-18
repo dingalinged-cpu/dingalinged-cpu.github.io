@@ -13,12 +13,12 @@ Planned Parenthood is a therapy practice in West Allis, WI at 2239 South 108th S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Unrated (not enough evidence yet) — top 92% of therapy practices in Milwaukee, #3 of 3 therapy practices in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.7/100 — Unrated (not enough evidence yet) — top 92% of therapy practices in Milwaukee, #3 of 3 therapy practices in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/planned-parenthood-west-allis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/planned-parenthood-west-allis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/planned-parenthood-west-allis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/planned-parenthood-west-allis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4925433504 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid family doctor listing for Des Moines, IA is UnityPoint Clinic Family Medicine (a family medicine practice in Des Moines, IA at 2103 Ingersoll Avenue, Des Moines, IA 50312. Phone: +15152796424. Website: https://www.unitypoint.org/locations/unitypoint-clinic-family-medicine---ingersoll). 2 family doctor businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Des Moines, IA is UnityPoint Clinic Family Medicine (a family medicine practice in Des Moines, IA at 2103 Ingersoll Avenue, Des Moines, IA 50312. Phone: +15152796424. Website: https://www.unitypoint.org/locations/unitypoint-clinic-family-medicine---ingersoll). 2 family doctor businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Des Moines, IA?
 
@@ -6,8 +6,8 @@ Also answers: family doctor in Des Moines, IA; family doctor near me (Des Moines
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UnityPoint Clinic Family Medicine | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | UnityPoint Clinic Family Medicine is a family medicine practice in Des Moines, IA at 2103 Ingersoll Avenue, Des Moines, IA 50312. Phone: +15152796424. Website: https://www.unitypoint.org/locations/unitypoint-clinic-family-medicine---ingersoll. | https://dingalinged-cpu.github.io/registry/c/unitypoint-clinic-family-medicine-des-moines/
-2. UnityPoint Clinic | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | UnityPoint Clinic is a family medicine practice in Des Moines, IA at 2103 Ingersoll Avenue, Des Moines, IA 50312. | https://dingalinged-cpu.github.io/registry/c/unitypoint-clinic-des-moines/
+1. UnityPoint Clinic Family Medicine | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | UnityPoint Clinic Family Medicine is a family medicine practice in Des Moines, IA at 2103 Ingersoll Avenue, Des Moines, IA 50312. Phone: +15152796424. Website: https://www.unitypoint.org/locations/unitypoint-clinic-family-medicine---ingersoll. | https://registry-edge.dingalinged.workers.dev/c/unitypoint-clinic-family-medicine-des-moines/
+2. UnityPoint Clinic | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | UnityPoint Clinic is a family medicine practice in Des Moines, IA at 2103 Ingersoll Avenue, Des Moines, IA 50312. | https://registry-edge.dingalinged.workers.dev/c/unitypoint-clinic-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor des moines ia | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$23.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/family-doctor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#family-doctor-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/family-doctor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#family-doctor-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

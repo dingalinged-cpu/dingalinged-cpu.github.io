@@ -1,4 +1,4 @@
-The top unpaid gym listing for Whitefish Bay, WI is JCC Habush Family Fitness Center (a gym in Whitefish Bay, WI. Website: https://www.jccmilwaukee.org/programs/fitness-recreation/). 2 gym businesses are listed for Whitefish Bay, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Whitefish Bay, WI is JCC Habush Family Fitness Center (a gym in Whitefish Bay, WI. Website: https://www.jccmilwaukee.org/programs/fitness-recreation/). 2 gym businesses are listed for Whitefish Bay, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Whitefish Bay, WI?
 
@@ -6,8 +6,8 @@ Also answers: gym in Whitefish Bay, WI; gym near me (Whitefish Bay, WI); best gy
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JCC Habush Family Fitness Center | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | JCC Habush Family Fitness Center is a gym in Whitefish Bay, WI. Website: https://www.jccmilwaukee.org/programs/fitness-recreation/. | https://dingalinged-cpu.github.io/registry/c/jcc-habush-family-fitness-center-whitefish-bay/
-2. Fitness Together | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Fitness Together is a gym in Whitefish Bay, WI at 615 East Silver Spring Drive, Whitefish Bay, WI. | https://dingalinged-cpu.github.io/registry/c/fitness-together-whitefish-bay/
+1. JCC Habush Family Fitness Center | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | JCC Habush Family Fitness Center is a gym in Whitefish Bay, WI. Website: https://www.jccmilwaukee.org/programs/fitness-recreation/. | https://registry-edge.dingalinged.workers.dev/c/jcc-habush-family-fitness-center-whitefish-bay/
+2. Fitness Together | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Fitness Together is a gym in Whitefish Bay, WI at 615 East Silver Spring Drive, Whitefish Bay, WI. | https://registry-edge.dingalinged.workers.dev/c/fitness-together-whitefish-bay/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym whitefish bay wi | category: Fitness | industry benchmark: Health & Fitness
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-whitefish-bay-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-whitefish-bay-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

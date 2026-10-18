@@ -2,7 +2,7 @@
  "title": "Keyword market data: Kaufman, TX",
  "description": "Top Kaufman, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Kaufman, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 16,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash kaufman tx",
     "slug": "car-wash-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-kaufman-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym kaufman tx",
     "slug": "gym-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-kaufman-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon kaufman tx",
     "slug": "hair-salon-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-kaufman-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon kaufman tx",
     "slug": "nail-salon-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-kaufman-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut kaufman tx",
     "slug": "haircut-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-kaufman-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -86,7 +86,7 @@
    {
     "keyword": "financial advisor kaufman tx",
     "slug": "financial-advisor-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-kaufman-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -101,7 +101,7 @@
    {
     "keyword": "insurance agency kaufman tx",
     "slug": "insurance-agency-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-kaufman-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agents kaufman tx",
     "slug": "insurance-agents-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-kaufman-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agent kaufman tx",
     "slug": "insurance-agent-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-kaufman-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -148,7 +148,7 @@
    {
     "keyword": "bakery kaufman tx",
     "slug": "bakery-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-kaufman-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -163,7 +163,7 @@
    {
     "keyword": "haircut kaufman tx",
     "slug": "haircut-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-kaufman-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -178,7 +178,7 @@
    {
     "keyword": "car wash kaufman tx",
     "slug": "car-wash-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-kaufman-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -193,7 +193,7 @@
    {
     "keyword": "gift shop kaufman tx",
     "slug": "gift-shop-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-kaufman-tx/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 450,
@@ -208,7 +208,7 @@
    {
     "keyword": "liquor store kaufman tx",
     "slug": "liquor-store-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-kaufman-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -223,7 +223,7 @@
    {
     "keyword": "thrift store kaufman tx",
     "slug": "thrift-store-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-kaufman-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -238,7 +238,7 @@
    {
     "keyword": "used cars for sale kaufman tx",
     "slug": "used-cars-for-sale-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-kaufman-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -253,7 +253,7 @@
    {
     "keyword": "dry cleaners kaufman tx",
     "slug": "dry-cleaners-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-kaufman-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -268,7 +268,7 @@
    {
     "keyword": "financial advisor kaufman tx",
     "slug": "financial-advisor-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-kaufman-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "funeral home kaufman tx",
     "slug": "funeral-home-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-kaufman-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -298,7 +298,7 @@
    {
     "keyword": "insurance agency kaufman tx",
     "slug": "insurance-agency-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-kaufman-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -313,7 +313,7 @@
    {
     "keyword": "insurance agent kaufman tx",
     "slug": "insurance-agent-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-kaufman-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -328,7 +328,7 @@
    {
     "keyword": "insurance agents kaufman tx",
     "slug": "insurance-agents-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-kaufman-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -343,7 +343,7 @@
    {
     "keyword": "gym kaufman tx",
     "slug": "gym-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-kaufman-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -358,7 +358,7 @@
    {
     "keyword": "nail salon kaufman tx",
     "slug": "nail-salon-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-kaufman-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -375,7 +375,7 @@
    {
     "keyword": "car wash kaufman tx",
     "slug": "car-wash-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-kaufman-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -390,7 +390,7 @@
    {
     "keyword": "gym kaufman tx",
     "slug": "gym-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-kaufman-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -405,7 +405,7 @@
    {
     "keyword": "haircut kaufman tx",
     "slug": "haircut-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-kaufman-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -420,7 +420,7 @@
    {
     "keyword": "financial advisor kaufman tx",
     "slug": "financial-advisor-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-kaufman-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -435,7 +435,7 @@
    {
     "keyword": "hair salon kaufman tx",
     "slug": "hair-salon-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-kaufman-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -450,7 +450,7 @@
    {
     "keyword": "nail salon kaufman tx",
     "slug": "nail-salon-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-kaufman-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -465,7 +465,7 @@
    {
     "keyword": "insurance agency kaufman tx",
     "slug": "insurance-agency-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-kaufman-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -480,7 +480,7 @@
    {
     "keyword": "insurance agents kaufman tx",
     "slug": "insurance-agents-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-kaufman-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -495,7 +495,7 @@
    {
     "keyword": "insurance agent kaufman tx",
     "slug": "insurance-agent-kaufman-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-kaufman-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-kaufman-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,

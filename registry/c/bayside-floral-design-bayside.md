@@ -13,12 +13,12 @@ Bayside Floral Design is a florist in Bayside, WI at 333 West Brown Deer Road #L
 - Website: https://baysidegardencenter.com/floral-home/
 - Email: info@BaysideGardenCenter.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-16:00
-- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 10% of florists in Milwaukee, #1 of 1 florists in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 10% of florists in Milwaukee, #1 of 1 florists in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/bayside-floral-design-bayside/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bayside-floral-design-bayside.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bayside-floral-design-bayside/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bayside-floral-design-bayside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8618265300 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

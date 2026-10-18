@@ -1,4 +1,4 @@
-The top unpaid plumber listing for Marietta, GA is Plumbers 4 Real LLC (a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/). 3 plumber businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Marietta, GA is Plumbers 4 Real LLC (a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/). 3 plumber businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Marietta, GA?
 
@@ -6,9 +6,9 @@ Also answers: plumber in Marietta, GA; plumber near me (Marietta, GA); best plum
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Plumbers 4 Real LLC | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Plumbers 4 Real LLC is a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/. | https://dingalinged-cpu.github.io/registry/c/plumbers-4-real-llc-marietta/
-2. Pro Plumbing Services | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Pro Plumbing Services is a plumber in Marietta, GA at 4901 Olde Towne Pkwy Suite 100, Marietta, GA 30068. Phone: +16782344900. Website: https://proplumbingga.com/. | https://dingalinged-cpu.github.io/registry/c/pro-plumbing-services-marietta/
-3. Dixie Plumbing Specialties | Organic #3 | Pulse Score 59.2/100 (Fair, #3 in city) | Dixie Plumbing Specialties is a plumber in Marietta, GA at 1810 Lower Roswell Road Southeast, Marietta, GA. Phone: +17709738017. Website: https://dixieplumbingspecialties.com/. | https://dingalinged-cpu.github.io/registry/c/dixie-plumbing-specialties-marietta/
+1. Plumbers 4 Real LLC | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Plumbers 4 Real LLC is a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/. | https://registry-edge.dingalinged.workers.dev/c/plumbers-4-real-llc-marietta/
+2. Pro Plumbing Services | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Pro Plumbing Services is a plumber in Marietta, GA at 4901 Olde Towne Pkwy Suite 100, Marietta, GA 30068. Phone: +16782344900. Website: https://proplumbingga.com/. | https://registry-edge.dingalinged.workers.dev/c/pro-plumbing-services-marietta/
+3. Dixie Plumbing Specialties | Organic #3 | Pulse Score 59.2/100 (Fair, #3 in city) | Dixie Plumbing Specialties is a plumber in Marietta, GA at 1810 Lower Roswell Road Southeast, Marietta, GA. Phone: +17709738017. Website: https://dixieplumbingspecialties.com/. | https://registry-edge.dingalinged.workers.dev/c/dixie-plumbing-specialties-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber marietta ga | category: Home services - Plumbing | industry benchmark: Home & Home Improvement
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$12,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/plumber.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#plumber-marietta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/plumber.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-marietta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Richmond, VA",
  "description": "Top Richmond, VA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Richmond, VA",
  "geography": "Richmond, VA metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage richmond va",
     "slug": "massage-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-richmond-va",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care richmond va",
     "slug": "urgent-care-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-richmond-va",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist richmond va",
     "slug": "dentist-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-richmond-va",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7400,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym richmond va",
     "slug": "gym-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-richmond-va",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7400,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash richmond va",
     "slug": "car-wash-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-richmond-va",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7400,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change richmond va",
     "slug": "oil-change-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-richmond-va",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7400,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon richmond va",
     "slug": "hair-salon-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-richmond-va",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon richmond va",
     "slug": "nail-salon-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-richmond-va",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes richmond va",
     "slug": "car-insurance-quotes-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-richmond-va",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber richmond va",
     "slug": "plumber-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-richmond-va",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments richmond va",
     "slug": "apartments-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-richmond-va",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance richmond va",
     "slug": "auto-insurance-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-richmond-va",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop richmond va",
     "slug": "barber-shop-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-richmond-va",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage richmond va",
     "slug": "lymphatic-drainage-massage-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-richmond-va",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic richmond va",
     "slug": "mechanic-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-richmond-va",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer richmond va",
     "slug": "personal-injury-lawyer-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-richmond-va",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber richmond va",
     "slug": "emergency-plumber-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-richmond-va",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair richmond va",
     "slug": "hvac-repair-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-richmond-va",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair richmond va",
     "slug": "ac-repair-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-richmond-va",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement richmond va",
     "slug": "roof-replacement-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-richmond-va",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair richmond va",
     "slug": "roof-repair-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-richmond-va",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast richmond va",
     "slug": "sell-my-house-fast-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-richmond-va",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services richmond va",
     "slug": "plumbing-services-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-richmond-va",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining richmond va",
     "slug": "deck-staining-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-richmond-va",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 74.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters richmond va",
     "slug": "exterior-house-painters-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-richmond-va",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 49.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters richmond va",
     "slug": "interior-painters-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-richmond-va",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 49.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters richmond va",
     "slug": "painters-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-richmond-va",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 250,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company richmond va",
     "slug": "moving-company-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-richmond-va",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney richmond va",
     "slug": "criminal-defense-attorney-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-richmond-va",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer richmond va",
     "slug": "dui-defense-lawyer-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-richmond-va",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 15.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage richmond va",
     "slug": "massage-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-richmond-va",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care richmond va",
     "slug": "urgent-care-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-richmond-va",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer richmond va",
     "slug": "personal-injury-lawyer-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-richmond-va",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber richmond va",
     "slug": "plumber-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-richmond-va",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist richmond va",
     "slug": "dentist-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-richmond-va",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7400,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash richmond va",
     "slug": "car-wash-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-richmond-va",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7400,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change richmond va",
     "slug": "oil-change-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-richmond-va",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7400,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair richmond va",
     "slug": "ac-repair-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-richmond-va",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer richmond va",
     "slug": "car-accident-lawyer-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-richmond-va",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -600,7 +600,7 @@
    {
     "keyword": "electrician richmond va",
     "slug": "electrician-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-richmond-va",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym richmond va",
     "slug": "gym-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-richmond-va",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7400,
@@ -630,7 +630,7 @@
    {
     "keyword": "lymphatic drainage massage richmond va",
     "slug": "lymphatic-drainage-massage-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-richmond-va",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic richmond va",
     "slug": "mechanic-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-richmond-va",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes richmond va",
     "slug": "car-insurance-quotes-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-richmond-va",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments richmond va",
     "slug": "apartments-richmond-va",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-richmond-va",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-richmond-va",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,

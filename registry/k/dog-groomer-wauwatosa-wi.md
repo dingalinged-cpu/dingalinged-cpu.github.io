@@ -1,4 +1,4 @@
-The top unpaid dog groomer listing for Wauwatosa, WI is Beauty & The Barks (a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/). 3 dog groomer businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Wauwatosa, WI is Beauty & The Barks (a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/). 3 dog groomer businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Wauwatosa, WI?
 
@@ -6,9 +6,9 @@ Also answers: dog groomer in Wauwatosa, WI; dog groomer near me (Wauwatosa, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beauty & The Barks | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Beauty & The Barks is a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/. | https://dingalinged-cpu.github.io/registry/c/beauty-and-the-barks-wauwatosa/
-2. Fancy Pants Pet Salon | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Fancy Pants Pet Salon is a dog groomer in Wauwatosa, WI at 6421 West North Avenue, Wauwatosa, WI 53213. Phone: +14149053647. Website: https://www.fancypantspetsalon.com/. | https://dingalinged-cpu.github.io/registry/c/fancy-pants-pet-salon-wauwatosa/
-3. Pampered Paws Ltd. | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | Pampered Paws Ltd. is a dog groomer in Wauwatosa, WI at 1826 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14144764323. Website: https://www.pamperedpawsltd.com/. | https://dingalinged-cpu.github.io/registry/c/pampered-paws-ltd-wauwatosa/
+1. Beauty & The Barks | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Beauty & The Barks is a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/. | https://registry-edge.dingalinged.workers.dev/c/beauty-and-the-barks-wauwatosa/
+2. Fancy Pants Pet Salon | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Fancy Pants Pet Salon is a dog groomer in Wauwatosa, WI at 6421 West North Avenue, Wauwatosa, WI 53213. Phone: +14149053647. Website: https://www.fancypantspetsalon.com/. | https://registry-edge.dingalinged.workers.dev/c/fancy-pants-pet-salon-wauwatosa/
+3. Pampered Paws Ltd. | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | Pampered Paws Ltd. is a dog groomer in Wauwatosa, WI at 1826 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14144764323. Website: https://www.pamperedpawsltd.com/. | https://registry-edge.dingalinged.workers.dev/c/pampered-paws-ltd-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer wauwatosa wi | category: Pets | industry benchmark: Animals & Pets
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$560 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dog-groomer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dog-groomer-wauwatosa-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dog-groomer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dog-groomer-wauwatosa-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

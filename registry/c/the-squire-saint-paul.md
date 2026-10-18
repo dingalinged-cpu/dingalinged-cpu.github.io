@@ -13,12 +13,12 @@ The Squire is a barber shop in Saint Paul, MN at 1575 Grand Avenue, Saint Paul, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-17:30; Sa 09:00-14:00
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 52% of barber shops in Minneapolis–St. Paul, #6 of 10 barber shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 52% of barber shops in Minneapolis–St. Paul, #6 of 10 barber shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-squire-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-squire-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-squire-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-squire-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/937197695 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

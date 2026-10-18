@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for Sun Prairie, WI is Ben's Auto Service (an auto repair shop in Sun Prairie, WI). 9 mechanic businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Sun Prairie, WI is Ben's Auto Service (an auto repair shop in Sun Prairie, WI). 9 mechanic businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Sun Prairie, WI?
 
@@ -6,15 +6,15 @@ Also answers: mechanic in Sun Prairie, WI; mechanic near me (Sun Prairie, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ben's Auto Service | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Ben's Auto Service is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/bens-auto-service-sun-prairie/
-2. M-D Motors | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | M-D Motors is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/m-d-motors-sun-prairie/
-3. Syverson Automotive | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Syverson Automotive is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/syverson-automotive-sun-prairie/
-4. Jiffy Lube | Organic #4 | Pulse Score 48.7/100 (Building, #4 in city) | Jiffy Lube is an auto repair shop in Sun Prairie, WI at 610 Spring Street, Sun Prairie, WI. Phone: +16084532119. Website: https://www.jiffylube.com/locations/wi/sun-prairie/4132. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-sun-prairie/
-5. Meineke | Organic #5 | Pulse Score 45.6/100 (Building, #5 in city) | Meineke is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/meineke-sun-prairie/
-6. Valvoline | Organic #6 | Pulse Score 44.9/100 (Building, #6 in city) | Valvoline is an auto repair shop in Sun Prairie, WI at 2325 Spice Lane, Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/valvoline-sun-prairie/
-7. Take 5 Oil Change | Organic #7 | Pulse Score 43.1/100 (Building, #7 in city) | Take 5 Oil Change is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sun-prairie/
-8. Christian Brothers Automotive | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Christian Brothers Automotive is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-sun-prairie/
-9. Midas | Organic #9 | Pulse Score 42.7/100 (Building, #9 in city) | Midas is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/midas-sun-prairie/
+1. Ben's Auto Service | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Ben's Auto Service is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/bens-auto-service-sun-prairie/
+2. M-D Motors | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | M-D Motors is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/m-d-motors-sun-prairie/
+3. Syverson Automotive | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Syverson Automotive is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/syverson-automotive-sun-prairie/
+4. Jiffy Lube | Organic #4 | Pulse Score 48.7/100 (Building, #4 in city) | Jiffy Lube is an auto repair shop in Sun Prairie, WI at 610 Spring Street, Sun Prairie, WI. Phone: +16084532119. Website: https://www.jiffylube.com/locations/wi/sun-prairie/4132. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-sun-prairie/
+5. Meineke | Organic #5 | Pulse Score 45.6/100 (Building, #5 in city) | Meineke is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/meineke-sun-prairie/
+6. Valvoline | Organic #6 | Pulse Score 44.9/100 (Building, #6 in city) | Valvoline is an auto repair shop in Sun Prairie, WI at 2325 Spice Lane, Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/valvoline-sun-prairie/
+7. Take 5 Oil Change | Organic #7 | Pulse Score 43.1/100 (Building, #7 in city) | Take 5 Oil Change is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-sun-prairie/
+8. Christian Brothers Automotive | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Christian Brothers Automotive is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/christian-brothers-automotive-sun-prairie/
+9. Midas | Organic #9 | Pulse Score 42.7/100 (Building, #9 in city) | Midas is an auto repair shop in Sun Prairie, WI. | https://registry-edge.dingalinged.workers.dev/c/midas-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic sun prairie wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -27,6 +27,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$340 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mechanic.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-sun-prairie-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-sun-prairie-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

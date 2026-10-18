@@ -2,7 +2,7 @@
  "title": "Keyword market data: Lilburn, GA",
  "description": "Top Lilburn, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Lilburn, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 41,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash lilburn ga",
     "slug": "car-wash-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lilburn-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist lilburn ga",
     "slug": "dentist-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-lilburn-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym lilburn ga",
     "slug": "gym-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-lilburn-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon lilburn ga",
     "slug": "hair-salon-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-lilburn-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "plumber lilburn ga",
     "slug": "plumber-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-lilburn-ga/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic lilburn ga",
     "slug": "mechanic-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-lilburn-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop lilburn ga",
     "slug": "tire-shop-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-lilburn-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut lilburn ga",
     "slug": "haircut-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lilburn-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair lilburn ga",
     "slug": "auto-repair-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-lilburn-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog boarding lilburn ga",
     "slug": "dog-boarding-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-lilburn-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -161,7 +161,7 @@
    {
     "keyword": "locksmith lilburn ga",
     "slug": "locksmith-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-lilburn-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -176,7 +176,7 @@
    {
     "keyword": "car inspection lilburn ga",
     "slug": "car-inspection-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-inspection-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-inspection-lilburn-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agency lilburn ga",
     "slug": "insurance-agency-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-lilburn-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -206,7 +206,7 @@
    {
     "keyword": "attorney lilburn ga",
     "slug": "attorney-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-lilburn-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -221,7 +221,7 @@
    {
     "keyword": "tax preparation lilburn ga",
     "slug": "tax-preparation-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-lilburn-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -238,7 +238,7 @@
    {
     "keyword": "plumbing services lilburn ga",
     "slug": "plumbing-services-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-lilburn-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumber lilburn ga",
     "slug": "plumber-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-lilburn-ga/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -268,7 +268,7 @@
    {
     "keyword": "attorney lilburn ga",
     "slug": "attorney-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-lilburn-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -283,7 +283,7 @@
    {
     "keyword": "lawyer lilburn ga",
     "slug": "lawyer-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-lilburn-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -298,7 +298,7 @@
    {
     "keyword": "window repair lilburn ga",
     "slug": "window-repair-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-repair-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-lilburn-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -313,7 +313,7 @@
    {
     "keyword": "concrete contractor lilburn ga",
     "slug": "concrete-contractor-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/concrete-contractor-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-lilburn-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -328,7 +328,7 @@
    {
     "keyword": "flooring companies lilburn ga",
     "slug": "flooring-companies-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-lilburn-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -343,7 +343,7 @@
    {
     "keyword": "locksmith lilburn ga",
     "slug": "locksmith-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-lilburn-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -358,7 +358,7 @@
    {
     "keyword": "plumbers lilburn ga",
     "slug": "plumbers-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-lilburn-ga/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 68.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "storage units lilburn ga",
     "slug": "storage-units-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-lilburn-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -388,7 +388,7 @@
    {
     "keyword": "accounting services lilburn ga",
     "slug": "accounting-services-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-lilburn-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -403,7 +403,7 @@
    {
     "keyword": "staffing agency lilburn ga",
     "slug": "staffing-agency-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-lilburn-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -418,7 +418,7 @@
    {
     "keyword": "tax preparer lilburn ga",
     "slug": "tax-preparer-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-lilburn-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -433,7 +433,7 @@
    {
     "keyword": "general contractor lilburn ga",
     "slug": "general-contractor-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/general-contractor-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-lilburn-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -448,7 +448,7 @@
    {
     "keyword": "accountant lilburn ga",
     "slug": "accountant-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-lilburn-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -465,7 +465,7 @@
    {
     "keyword": "plumber lilburn ga",
     "slug": "plumber-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-lilburn-ga/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist lilburn ga",
     "slug": "dentist-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-lilburn-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash lilburn ga",
     "slug": "car-wash-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lilburn-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym lilburn ga",
     "slug": "gym-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-lilburn-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic lilburn ga",
     "slug": "mechanic-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-lilburn-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop lilburn ga",
     "slug": "tire-shop-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-lilburn-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -555,7 +555,7 @@
    {
     "keyword": "locksmith lilburn ga",
     "slug": "locksmith-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-lilburn-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut lilburn ga",
     "slug": "haircut-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lilburn-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair lilburn ga",
     "slug": "auto-repair-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-lilburn-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -600,7 +600,7 @@
    {
     "keyword": "dog boarding lilburn ga",
     "slug": "dog-boarding-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-lilburn-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -615,7 +615,7 @@
    {
     "keyword": "hair salon lilburn ga",
     "slug": "hair-salon-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-lilburn-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -630,7 +630,7 @@
    {
     "keyword": "attorney lilburn ga",
     "slug": "attorney-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-lilburn-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -645,7 +645,7 @@
    {
     "keyword": "plumbing services lilburn ga",
     "slug": "plumbing-services-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-lilburn-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -660,7 +660,7 @@
    {
     "keyword": "lawyer lilburn ga",
     "slug": "lawyer-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-lilburn-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -675,7 +675,7 @@
    {
     "keyword": "car inspection lilburn ga",
     "slug": "car-inspection-lilburn-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-inspection-lilburn-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-inspection-lilburn-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,

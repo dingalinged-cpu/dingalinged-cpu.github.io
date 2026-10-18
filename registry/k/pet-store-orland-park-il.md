@@ -1,4 +1,4 @@
-The top unpaid pet store listing for Orland Park, IL is Chicago Reptile House (a pet store in Orland Park, IL at 14410 John Humphrey Drive, Orland Park, IL 60462. Phone: +17083499055. Website: https://chicagoreptile.net/). 4 pet store businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Orland Park, IL is Chicago Reptile House (a pet store in Orland Park, IL at 14410 John Humphrey Drive, Orland Park, IL 60462. Phone: +17083499055. Website: https://chicagoreptile.net/). 4 pet store businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Orland Park, IL?
 
@@ -6,10 +6,10 @@ Also answers: pet store in Orland Park, IL; pet store near me (Orland Park, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chicago Reptile House | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Chicago Reptile House is a pet store in Orland Park, IL at 14410 John Humphrey Drive, Orland Park, IL 60462. Phone: +17083499055. Website: https://chicagoreptile.net/. | https://dingalinged-cpu.github.io/registry/c/chicago-reptile-house-orland-park/
-2. Petco | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Petco is a pet store in Orland Park, IL at 15790 South La Grange Road, Orland Park, IL 60462. Phone: +17083647490. Website: https://stores.petco.com/il/orlandpark/pet-supplies-orlandpark-il-1915.html. | https://dingalinged-cpu.github.io/registry/c/petco-orland-park/
-3. Pet Supplies Plus | Organic #3 | Pulse Score 41.1/100 (Building, #3 in city) | Pet Supplies Plus is a pet store in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-orland-park/
-4. Kriser's Natural Pet | Organic #4 | Pulse Score 41/100 (Unrated, #4 in city) | Kriser's Natural Pet is a pet store in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-orland-park/
+1. Chicago Reptile House | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Chicago Reptile House is a pet store in Orland Park, IL at 14410 John Humphrey Drive, Orland Park, IL 60462. Phone: +17083499055. Website: https://chicagoreptile.net/. | https://registry-edge.dingalinged.workers.dev/c/chicago-reptile-house-orland-park/
+2. Petco | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Petco is a pet store in Orland Park, IL at 15790 South La Grange Road, Orland Park, IL 60462. Phone: +17083647490. Website: https://stores.petco.com/il/orlandpark/pet-supplies-orlandpark-il-1915.html. | https://registry-edge.dingalinged.workers.dev/c/petco-orland-park/
+3. Pet Supplies Plus | Organic #3 | Pulse Score 41.1/100 (Building, #3 in city) | Pet Supplies Plus is a pet store in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/pet-supplies-plus-orland-park/
+4. Kriser's Natural Pet | Organic #4 | Pulse Score 41/100 (Unrated, #4 in city) | Kriser's Natural Pet is a pet store in Orland Park, IL. | https://registry-edge.dingalinged.workers.dev/c/krisers-natural-pet-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store orland park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store-orland-park-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/pet-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#pet-store-orland-park-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

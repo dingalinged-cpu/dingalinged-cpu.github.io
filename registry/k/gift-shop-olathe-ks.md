@@ -1,4 +1,4 @@
-The top unpaid gift shop listing for Olathe, KS is Fabulous Fern (a gift shop in Olathe, KS at 905 South Chestnut Street, Olathe, KS 66061. Phone: +19137827733. Website: https://www.fabfern.com/). 3 gift shop businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Olathe, KS is Fabulous Fern (a gift shop in Olathe, KS at 905 South Chestnut Street, Olathe, KS 66061. Phone: +19137827733. Website: https://www.fabfern.com/). 3 gift shop businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Olathe, KS?
 
@@ -6,9 +6,9 @@ Also answers: gift shop in Olathe, KS; gift shop near me (Olathe, KS); best gift
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fabulous Fern | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Fabulous Fern is a gift shop in Olathe, KS at 905 South Chestnut Street, Olathe, KS 66061. Phone: +19137827733. Website: https://www.fabfern.com/. | https://dingalinged-cpu.github.io/registry/c/fabulous-fern-olathe/
-2. Hallmark | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Hallmark is a gift shop in Olathe, KS at 15230 W 119th St, Olathe, KS 66062. | https://dingalinged-cpu.github.io/registry/c/hallmark-olathe-w214538492/
-3. Hallmark | Organic #3 | Pulse Score 42.8/100 (Building, #3 in city) | Hallmark is a gift shop in Olathe, KS. | https://dingalinged-cpu.github.io/registry/c/hallmark-olathe/
+1. Fabulous Fern | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Fabulous Fern is a gift shop in Olathe, KS at 905 South Chestnut Street, Olathe, KS 66061. Phone: +19137827733. Website: https://www.fabfern.com/. | https://registry-edge.dingalinged.workers.dev/c/fabulous-fern-olathe/
+2. Hallmark | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Hallmark is a gift shop in Olathe, KS at 15230 W 119th St, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/hallmark-olathe-w214538492/
+3. Hallmark | Organic #3 | Pulse Score 42.8/100 (Building, #3 in city) | Hallmark is a gift shop in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/hallmark-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop olathe ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$44.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gift-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gift-shop-olathe-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gift-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gift-shop-olathe-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

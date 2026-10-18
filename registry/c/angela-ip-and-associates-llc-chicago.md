@@ -13,12 +13,12 @@ Angela Ip and Associates, LLC is an accountant in Chicago, IL at 219 West Cermak
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 40% of accountants in Chicago, #5 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 40% of accountants in Chicago, #5 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 52.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/angela-ip-and-associates-llc-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/angela-ip-and-associates-llc-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/angela-ip-and-associates-llc-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/angela-ip-and-associates-llc-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6994375116 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

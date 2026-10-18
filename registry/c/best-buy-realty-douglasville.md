@@ -13,12 +13,12 @@ Best Buy Realty is a real estate agency in Douglasville, GA at 12551 Veterans Me
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 60% of real estate agencys in Atlanta, #1 of 2 real estate agencys in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 45.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 60% of real estate agencys in Atlanta, #1 of 2 real estate agencys in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 45.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/best-buy-realty-douglasville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/best-buy-realty-douglasville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/best-buy-realty-douglasville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/best-buy-realty-douglasville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5904577564 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Massage FE is a massage studio in Kansas City, MO at 9738 Wornall Road, Kansas C
 - Website: https://www.massagefe.com/
 - Email: massagefemo@gmail.com
 - Opening hours (OSM syntax): Mo-Su 06:00-22:00
-- Pulse Score: 65.1/100 — Good — top 4% of massage studios in Kansas City, MO, #1 of 13 massage studios in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 4% of massage studios in Kansas City, MO, #1 of 13 massage studios in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 66.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/massage-fe-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/massage-fe-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/massage-fe-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/massage-fe-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1006908946 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

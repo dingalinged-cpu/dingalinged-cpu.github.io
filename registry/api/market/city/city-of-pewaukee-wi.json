@@ -2,7 +2,7 @@
  "title": "Keyword market data: City Of Pewaukee, WI",
  "description": "Top City Of Pewaukee, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "City Of Pewaukee, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 4,
@@ -11,7 +11,7 @@
    {
     "keyword": "vet city of pewaukee wi",
     "slug": "vet-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-city-of-pewaukee-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -26,7 +26,7 @@
    {
     "keyword": "attorney city of pewaukee wi",
     "slug": "attorney-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-city-of-pewaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -41,7 +41,7 @@
    {
     "keyword": "lawyer city of pewaukee wi",
     "slug": "lawyer-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-city-of-pewaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -58,7 +58,7 @@
    {
     "keyword": "attorney city of pewaukee wi",
     "slug": "attorney-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-city-of-pewaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -73,7 +73,7 @@
    {
     "keyword": "lawyer city of pewaukee wi",
     "slug": "lawyer-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-city-of-pewaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -88,7 +88,7 @@
    {
     "keyword": "bike shop city of pewaukee wi",
     "slug": "bike-shop-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-city-of-pewaukee-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -103,7 +103,7 @@
    {
     "keyword": "vet city of pewaukee wi",
     "slug": "vet-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-city-of-pewaukee-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -120,7 +120,7 @@
    {
     "keyword": "vet city of pewaukee wi",
     "slug": "vet-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-city-of-pewaukee-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -135,7 +135,7 @@
    {
     "keyword": "attorney city of pewaukee wi",
     "slug": "attorney-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-city-of-pewaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -150,7 +150,7 @@
    {
     "keyword": "lawyer city of pewaukee wi",
     "slug": "lawyer-city-of-pewaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-city-of-pewaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-city-of-pewaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,

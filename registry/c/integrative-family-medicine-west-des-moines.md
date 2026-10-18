@@ -13,12 +13,12 @@ Integrative Family Medicine is a family medicine practice in West Des Moines, IA
 - Website: https://www.integrativemediowa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 17% of family medicine practices in Des Moines, IA, #1 of 1 family medicine practices in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 17% of family medicine practices in Des Moines, IA, #1 of 1 family medicine practices in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/integrative-family-medicine-west-des-moines/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/integrative-family-medicine-west-des-moines.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/integrative-family-medicine-west-des-moines/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/integrative-family-medicine-west-des-moines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13389060772 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

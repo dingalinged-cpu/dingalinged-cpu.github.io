@@ -13,12 +13,12 @@ Happy Car Wash is a car wash in Caledonia, WI at 4534 Douglas Avenue, Caledonia,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 28% of car washes in Milwaukee, #1 of 2 car washes in Caledonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 44. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 28% of car washes in Milwaukee, #1 of 2 car washes in Caledonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 44. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/happy-car-wash-caledonia/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/happy-car-wash-caledonia.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/happy-car-wash-caledonia/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/happy-car-wash-caledonia.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/700440203 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

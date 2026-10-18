@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for Johns Creek, GA is Classic Cleaners (a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005). 5 dry cleaners businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Johns Creek, GA is Classic Cleaners (a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005). 5 dry cleaners businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Johns Creek, GA?
 
@@ -6,11 +6,11 @@ Also answers: dry cleaners in Johns Creek, GA; dry cleaners near me (Johns Creek
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Classic Cleaners | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Classic Cleaners is a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. | https://dingalinged-cpu.github.io/registry/c/classic-cleaners-alpharetta/
-2. Perfect Cleaners | Organic #2 | Pulse Score 55.6/100 (Unrated, #1 in city) | Perfect Cleaners is a dry cleaner in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/perfect-cleaners-johns-creek/
-3. K&B Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #2 in city) | K&B Cleaners is a dry cleaner in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/k-and-b-cleaners-johns-creek/
-4. Tide Cleaners | Organic #4 | Pulse Score 42.5/100 (Building, #3 in city) | Tide Cleaners is a dry cleaner in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-johns-creek/
-5. Pride Cleaners | Organic #5 | Pulse Score 42/100 (Unrated, #4 in city) | Pride Cleaners is a dry cleaner in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/pride-cleaners-johns-creek/
+1. Classic Cleaners | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Classic Cleaners is a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. | https://registry-edge.dingalinged.workers.dev/c/classic-cleaners-alpharetta/
+2. Perfect Cleaners | Organic #2 | Pulse Score 55.6/100 (Unrated, #1 in city) | Perfect Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/perfect-cleaners-johns-creek/
+3. K&B Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #2 in city) | K&B Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/k-and-b-cleaners-johns-creek/
+4. Tide Cleaners | Organic #4 | Pulse Score 42.5/100 (Building, #3 in city) | Tide Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/tide-cleaners-johns-creek/
+5. Pride Cleaners | Organic #5 | Pulse Score 42/100 (Unrated, #4 in city) | Pride Cleaners is a dry cleaner in Johns Creek, GA. | https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-johns-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners johns creek ga | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners-johns-creek-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dry-cleaners.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dry-cleaners-johns-creek-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

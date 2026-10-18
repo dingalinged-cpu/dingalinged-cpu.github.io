@@ -2,7 +2,7 @@
  "title": "Keyword market data: Waukee, IA",
  "description": "Top Waukee, IA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Waukee, IA",
  "geography": "Des Moines-West Des Moines, IA metro",
  "keywords": 25,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash waukee ia",
     "slug": "car-wash-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-waukee-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist waukee ia",
     "slug": "dentist-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waukee-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym waukee ia",
     "slug": "gym-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-waukee-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon waukee ia",
     "slug": "hair-salon-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-waukee-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon waukee ia",
     "slug": "nail-salon-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-waukee-ia/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic waukee ia",
     "slug": "mechanic-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-waukee-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut waukee ia",
     "slug": "haircut-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-waukee-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair waukee ia",
     "slug": "auto-repair-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-waukee-ia/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -131,7 +131,7 @@
    {
     "keyword": "chiropractor waukee ia",
     "slug": "chiropractor-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-waukee-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog boarding waukee ia",
     "slug": "dog-boarding-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-waukee-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agency waukee ia",
     "slug": "insurance-agency-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-waukee-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agents waukee ia",
     "slug": "insurance-agents-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-waukee-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agent waukee ia",
     "slug": "insurance-agent-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-waukee-ia/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 90.0,
@@ -206,7 +206,7 @@
    {
     "keyword": "accountant waukee ia",
     "slug": "accountant-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-waukee-ia/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 73.0,
@@ -221,7 +221,7 @@
    {
     "keyword": "accounting services waukee ia",
     "slug": "accounting-services-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-waukee-ia/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 27.0,
@@ -238,7 +238,7 @@
    {
     "keyword": "event venues waukee ia",
     "slug": "event-venues-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-waukee-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -253,7 +253,7 @@
    {
     "keyword": "dance studio waukee ia",
     "slug": "dance-studio-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-waukee-ia/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -268,7 +268,7 @@
    {
     "keyword": "accounting services waukee ia",
     "slug": "accounting-services-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-waukee-ia/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 27.0,
@@ -283,7 +283,7 @@
    {
     "keyword": "business consultant waukee ia",
     "slug": "business-consultant-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/business-consultant-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/business-consultant-waukee-ia/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 40.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "accountant waukee ia",
     "slug": "accountant-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-waukee-ia/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 73.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "preschool waukee ia",
     "slug": "preschool-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-waukee-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -328,7 +328,7 @@
    {
     "keyword": "chiropractor waukee ia",
     "slug": "chiropractor-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-waukee-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -343,7 +343,7 @@
    {
     "keyword": "physical therapy waukee ia",
     "slug": "physical-therapy-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-waukee-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -358,7 +358,7 @@
    {
     "keyword": "dentist waukee ia",
     "slug": "dentist-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waukee-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -373,7 +373,7 @@
    {
     "keyword": "haircut waukee ia",
     "slug": "haircut-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-waukee-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -388,7 +388,7 @@
    {
     "keyword": "auto repair waukee ia",
     "slug": "auto-repair-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-waukee-ia/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -403,7 +403,7 @@
    {
     "keyword": "car wash waukee ia",
     "slug": "car-wash-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-waukee-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -418,7 +418,7 @@
    {
     "keyword": "mechanic waukee ia",
     "slug": "mechanic-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-waukee-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -433,7 +433,7 @@
    {
     "keyword": "thrift store waukee ia",
     "slug": "thrift-store-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-waukee-ia/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 310,
@@ -448,7 +448,7 @@
    {
     "keyword": "dog boarding waukee ia",
     "slug": "dog-boarding-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-waukee-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist waukee ia",
     "slug": "dentist-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waukee-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash waukee ia",
     "slug": "car-wash-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-waukee-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym waukee ia",
     "slug": "gym-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-waukee-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic waukee ia",
     "slug": "mechanic-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-waukee-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -525,7 +525,7 @@
    {
     "keyword": "haircut waukee ia",
     "slug": "haircut-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-waukee-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -540,7 +540,7 @@
    {
     "keyword": "auto repair waukee ia",
     "slug": "auto-repair-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-waukee-ia/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -555,7 +555,7 @@
    {
     "keyword": "chiropractor waukee ia",
     "slug": "chiropractor-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-waukee-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog boarding waukee ia",
     "slug": "dog-boarding-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-waukee-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon waukee ia",
     "slug": "hair-salon-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-waukee-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -600,7 +600,7 @@
    {
     "keyword": "nail salon waukee ia",
     "slug": "nail-salon-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-waukee-ia/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agency waukee ia",
     "slug": "insurance-agency-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-waukee-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -630,7 +630,7 @@
    {
     "keyword": "accountant waukee ia",
     "slug": "accountant-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-waukee-ia/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 73.0,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agents waukee ia",
     "slug": "insurance-agents-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-waukee-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agent waukee ia",
     "slug": "insurance-agent-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-waukee-ia/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 90.0,
@@ -675,7 +675,7 @@
    {
     "keyword": "accounting services waukee ia",
     "slug": "accounting-services-waukee-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-waukee-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-waukee-ia/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 27.0,

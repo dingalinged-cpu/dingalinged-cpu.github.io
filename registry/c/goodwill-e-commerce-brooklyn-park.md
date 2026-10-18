@@ -13,12 +13,12 @@ Goodwill E-Commerce is a thrift store in Brooklyn Park, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 87% of thrift stores in Minneapolis–St. Paul, #2 of 2 thrift stores in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 41. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 87% of thrift stores in Minneapolis–St. Paul, #2 of 2 thrift stores in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-e-commerce-brooklyn-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-e-commerce-brooklyn-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-e-commerce-brooklyn-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-e-commerce-brooklyn-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12421660378 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

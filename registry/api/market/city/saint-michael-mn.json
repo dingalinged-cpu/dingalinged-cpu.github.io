@@ -2,7 +2,7 @@
  "title": "Keyword market data: Saint Michael, MN",
  "description": "Top Saint Michael, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Saint Michael, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 12,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash saint michael mn",
     "slug": "car-wash-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-saint-michael-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist saint michael mn",
     "slug": "dentist-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-saint-michael-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon saint michael mn",
     "slug": "hair-salon-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-saint-michael-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic saint michael mn",
     "slug": "mechanic-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-michael-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut saint michael mn",
     "slug": "haircut-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-saint-michael-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair saint michael mn",
     "slug": "auto-repair-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-saint-michael-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -101,7 +101,7 @@
    {
     "keyword": "insurance agency saint michael mn",
     "slug": "insurance-agency-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-saint-michael-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agents saint michael mn",
     "slug": "insurance-agents-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-saint-michael-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agent saint michael mn",
     "slug": "insurance-agent-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-saint-michael-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -148,7 +148,7 @@
    {
     "keyword": "storage units saint michael mn",
     "slug": "storage-units-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-saint-michael-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -163,7 +163,7 @@
    {
     "keyword": "daycare saint michael mn",
     "slug": "daycare-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-saint-michael-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -178,7 +178,7 @@
    {
     "keyword": "dentist saint michael mn",
     "slug": "dentist-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-saint-michael-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -193,7 +193,7 @@
    {
     "keyword": "haircut saint michael mn",
     "slug": "haircut-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-saint-michael-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -208,7 +208,7 @@
    {
     "keyword": "auto repair saint michael mn",
     "slug": "auto-repair-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-saint-michael-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -223,7 +223,7 @@
    {
     "keyword": "car wash saint michael mn",
     "slug": "car-wash-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-saint-michael-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -238,7 +238,7 @@
    {
     "keyword": "mechanic saint michael mn",
     "slug": "mechanic-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-michael-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -253,7 +253,7 @@
    {
     "keyword": "jewelry store saint michael mn",
     "slug": "jewelry-store-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-saint-michael-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -268,7 +268,7 @@
    {
     "keyword": "insurance agency saint michael mn",
     "slug": "insurance-agency-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-saint-michael-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -283,7 +283,7 @@
    {
     "keyword": "insurance agent saint michael mn",
     "slug": "insurance-agent-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-saint-michael-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -298,7 +298,7 @@
    {
     "keyword": "insurance agents saint michael mn",
     "slug": "insurance-agents-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-saint-michael-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -313,7 +313,7 @@
    {
     "keyword": "hair salon saint michael mn",
     "slug": "hair-salon-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-saint-michael-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -330,7 +330,7 @@
    {
     "keyword": "dentist saint michael mn",
     "slug": "dentist-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-saint-michael-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -345,7 +345,7 @@
    {
     "keyword": "car wash saint michael mn",
     "slug": "car-wash-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-saint-michael-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -360,7 +360,7 @@
    {
     "keyword": "mechanic saint michael mn",
     "slug": "mechanic-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-saint-michael-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -375,7 +375,7 @@
    {
     "keyword": "haircut saint michael mn",
     "slug": "haircut-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-saint-michael-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -390,7 +390,7 @@
    {
     "keyword": "auto repair saint michael mn",
     "slug": "auto-repair-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-saint-michael-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -405,7 +405,7 @@
    {
     "keyword": "hair salon saint michael mn",
     "slug": "hair-salon-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-saint-michael-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -420,7 +420,7 @@
    {
     "keyword": "insurance agency saint michael mn",
     "slug": "insurance-agency-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-saint-michael-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -435,7 +435,7 @@
    {
     "keyword": "insurance agents saint michael mn",
     "slug": "insurance-agents-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-saint-michael-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -450,7 +450,7 @@
    {
     "keyword": "insurance agent saint michael mn",
     "slug": "insurance-agent-saint-michael-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-saint-michael-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-saint-michael-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,

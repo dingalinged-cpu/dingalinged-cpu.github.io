@@ -13,12 +13,12 @@ Yellow Fly Tattoo Co. is a tattoo shop in Kansas City, MO at 7211 Northwest 83rd
 - Website: n/a
 - Email: brittgtattoos@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.6/100 — Good — top 7% of tattoo shops in Kansas City, MO, #2 of 24 tattoo shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 7% of tattoo shops in Kansas City, MO, #2 of 24 tattoo shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 61.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/yellow-fly-tattoo-co-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/yellow-fly-tattoo-co-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/yellow-fly-tattoo-co-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/yellow-fly-tattoo-co-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13335987473 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

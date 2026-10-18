@@ -2,7 +2,7 @@
  "title": "Keyword market data: Long Grove, IL",
  "description": "Top Long Grove, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Long Grove, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 8,
@@ -11,7 +11,7 @@
    {
     "keyword": "hair salon long grove il",
     "slug": "hair-salon-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-long-grove-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -26,7 +26,7 @@
    {
     "keyword": "haircut long grove il",
     "slug": "haircut-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-long-grove-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -41,7 +41,7 @@
    {
     "keyword": "insurance agency long grove il",
     "slug": "insurance-agency-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-long-grove-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -56,7 +56,7 @@
    {
     "keyword": "insurance agents long grove il",
     "slug": "insurance-agents-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-long-grove-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -71,7 +71,7 @@
    {
     "keyword": "insurance agent long grove il",
     "slug": "insurance-agent-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-long-grove-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -88,7 +88,7 @@
    {
     "keyword": "bakery long grove il",
     "slug": "bakery-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-long-grove-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -103,7 +103,7 @@
    {
     "keyword": "dance studio long grove il",
     "slug": "dance-studio-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-long-grove-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -118,7 +118,7 @@
    {
     "keyword": "haircut long grove il",
     "slug": "haircut-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-long-grove-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -133,7 +133,7 @@
    {
     "keyword": "gift shop long grove il",
     "slug": "gift-shop-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-long-grove-il/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 500,
@@ -148,7 +148,7 @@
    {
     "keyword": "insurance agency long grove il",
     "slug": "insurance-agency-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-long-grove-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -163,7 +163,7 @@
    {
     "keyword": "insurance agent long grove il",
     "slug": "insurance-agent-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-long-grove-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -178,7 +178,7 @@
    {
     "keyword": "insurance agents long grove il",
     "slug": "insurance-agents-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-long-grove-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -193,7 +193,7 @@
    {
     "keyword": "hair salon long grove il",
     "slug": "hair-salon-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-long-grove-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -210,7 +210,7 @@
    {
     "keyword": "haircut long grove il",
     "slug": "haircut-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-long-grove-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -225,7 +225,7 @@
    {
     "keyword": "hair salon long grove il",
     "slug": "hair-salon-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-long-grove-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -240,7 +240,7 @@
    {
     "keyword": "insurance agency long grove il",
     "slug": "insurance-agency-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-long-grove-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -255,7 +255,7 @@
    {
     "keyword": "insurance agents long grove il",
     "slug": "insurance-agents-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-long-grove-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -270,7 +270,7 @@
    {
     "keyword": "insurance agent long grove il",
     "slug": "insurance-agent-long-grove-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-long-grove-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-long-grove-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

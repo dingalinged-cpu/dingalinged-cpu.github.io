@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Grapevine, TX is Wash Your Stuff (a car wash in Grapevine, TX at 2201 Ira E Woods Avenue, Grapevine, TX 76051. Phone: +18173808460). 5 car wash businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Grapevine, TX is Wash Your Stuff (a car wash in Grapevine, TX at 2201 Ira E Woods Avenue, Grapevine, TX 76051. Phone: +18173808460). 5 car wash businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Grapevine, TX?
 
@@ -6,11 +6,11 @@ Also answers: car wash in Grapevine, TX; car wash near me (Grapevine, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wash Your Stuff | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Wash Your Stuff is a car wash in Grapevine, TX at 2201 Ira E Woods Avenue, Grapevine, TX 76051. Phone: +18173808460. | https://dingalinged-cpu.github.io/registry/c/wash-your-stuff-grapevine/
-2. Sam’s Club Car Wash | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Sam’s Club Car Wash is a car wash in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/sam-s-club-car-wash-grapevine/
-3. Speedway Express Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Speedway Express Car Wash is a car wash in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/speedway-express-car-wash-grapevine/
-4. Wash Masters | Organic #4 | Pulse Score 46.3/100 (Unrated, #4 in city) | Wash Masters is a car wash in Grapevine, TX at 1001 East Northwest Highway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/wash-masters-grapevine/
-5. Caliber Car Wash | Organic #5 | Pulse Score 44.6/100 (Building, #5 in city) | Caliber Car Wash is a car wash in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-car-wash-grapevine/
+1. Wash Your Stuff | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Wash Your Stuff is a car wash in Grapevine, TX at 2201 Ira E Woods Avenue, Grapevine, TX 76051. Phone: +18173808460. | https://registry-edge.dingalinged.workers.dev/c/wash-your-stuff-grapevine/
+2. Sam’s Club Car Wash | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Sam’s Club Car Wash is a car wash in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/sam-s-club-car-wash-grapevine/
+3. Speedway Express Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Speedway Express Car Wash is a car wash in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/speedway-express-car-wash-grapevine/
+4. Wash Masters | Organic #4 | Pulse Score 46.3/100 (Unrated, #4 in city) | Wash Masters is a car wash in Grapevine, TX at 1001 East Northwest Highway, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/wash-masters-grapevine/
+5. Caliber Car Wash | Organic #5 | Pulse Score 44.6/100 (Building, #5 in city) | Caliber Car Wash is a car wash in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/caliber-car-wash-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash grapevine tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$11,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-grapevine-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-grapevine-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

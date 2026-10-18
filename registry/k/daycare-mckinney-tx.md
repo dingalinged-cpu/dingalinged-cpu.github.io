@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Mckinney, TX is Children's Lighthouse of McKinney (a daycare in McKinney, TX at 7900 Stacy Road, McKinney, TX 75070. Website: https://childrenslighthouse.com/mckinney). 4 daycare businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Mckinney, TX is Children's Lighthouse of McKinney (a daycare in McKinney, TX at 7900 Stacy Road, McKinney, TX 75070. Website: https://childrenslighthouse.com/mckinney). 4 daycare businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Mckinney, TX?
 
@@ -6,10 +6,10 @@ Also answers: daycare in Mckinney, TX; daycare near me (Mckinney, TX); best dayc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Children's Lighthouse of McKinney | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Children's Lighthouse of McKinney is a daycare in McKinney, TX at 7900 Stacy Road, McKinney, TX 75070. Website: https://childrenslighthouse.com/mckinney. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-of-mckinney-mckinney/
-2. The Academy at Craigs Ranch | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | The Academy at Craigs Ranch is a daycare in McKinney, TX at 6101 Stacy Road, McKinney, TX 75070. Website: https://academyatcraigranch.org/. | https://dingalinged-cpu.github.io/registry/c/the-academy-at-craigs-ranch-mckinney/
-3. Big Blue Marble Academy | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Big Blue Marble Academy is a daycare in McKinney, TX at 6363 Eldorado Parkway, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/big-blue-marble-academy-mckinney/
-4. Creme de la Creme | Organic #4 | Pulse Score 46.9/100 (Building, #4 in city) | Creme de la Creme is a daycare in McKinney, TX at 5151 South Custer Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/creme-de-la-creme-mckinney/
+1. Children's Lighthouse of McKinney | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Children's Lighthouse of McKinney is a daycare in McKinney, TX at 7900 Stacy Road, McKinney, TX 75070. Website: https://childrenslighthouse.com/mckinney. | https://registry-edge.dingalinged.workers.dev/c/childrens-lighthouse-of-mckinney-mckinney/
+2. The Academy at Craigs Ranch | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | The Academy at Craigs Ranch is a daycare in McKinney, TX at 6101 Stacy Road, McKinney, TX 75070. Website: https://academyatcraigranch.org/. | https://registry-edge.dingalinged.workers.dev/c/the-academy-at-craigs-ranch-mckinney/
+3. Big Blue Marble Academy | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Big Blue Marble Academy is a daycare in McKinney, TX at 6363 Eldorado Parkway, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/big-blue-marble-academy-mckinney/
+4. Creme de la Creme | Organic #4 | Pulse Score 46.9/100 (Building, #4 in city) | Creme de la Creme is a daycare in McKinney, TX at 5151 South Custer Road, McKinney, TX. | https://registry-edge.dingalinged.workers.dev/c/creme-de-la-creme-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare mckinney tx | category: Education & childcare | industry benchmark: Education & Instruction
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare-mckinney-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/daycare.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#daycare-mckinney-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

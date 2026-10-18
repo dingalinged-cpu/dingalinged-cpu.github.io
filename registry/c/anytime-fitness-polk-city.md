@@ -13,12 +13,12 @@ Anytime Fitness is a gym in Polk City, IA at 407 West Bridge Point Road, Polk Ci
 - Website: https://www.anytimefitness.com/gyms/5114/polk-city-ia-50226/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Building — top 77% of gyms in Des Moines, IA, #2 of 2 gyms in Polk City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 77% of gyms in Des Moines, IA, #2 of 2 gyms in Polk City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-polk-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-polk-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-polk-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anytime-fitness-polk-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12243887311 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

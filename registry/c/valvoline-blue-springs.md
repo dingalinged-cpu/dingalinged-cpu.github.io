@@ -13,12 +13,12 @@ Valvoline is an auto repair shop in Blue Springs, MO. Website: https://store.vio
 - Website: https://store.vioc.com/mo/bluesprings/oil-change-050110.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 83% of auto repair shops in Kansas City, MO, #10 of 14 auto repair shops in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 83% of auto repair shops in Kansas City, MO, #10 of 14 auto repair shops in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-blue-springs/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-blue-springs.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-blue-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-blue-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/383475016 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Swiss OB-GYN is an OB-GYN practice in Dallas, TX at 4224 Swiss Avenue, Dallas, T
 - Website: https://www.swissobgyn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 80% of OB-GYN practices in Dallas–Fort Worth, #2 of 3 OB-GYN practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 44.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 80% of OB-GYN practices in Dallas–Fort Worth, #2 of 3 OB-GYN practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 44.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/swiss-ob-gyn-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/swiss-ob-gyn-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/swiss-ob-gyn-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/swiss-ob-gyn-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/463994096 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

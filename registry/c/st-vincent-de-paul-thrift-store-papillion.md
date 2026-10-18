@@ -13,12 +13,12 @@ St Vincent de Paul Thrift Store is a thrift store in Papillion, NE at 807 Tara P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 30% of thrift stores in Omaha, NE, #2 of 4 thrift stores in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 51.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 30% of thrift stores in Omaha, NE, #2 of 4 thrift stores in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/st-vincent-de-paul-thrift-store-papillion/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-vincent-de-paul-thrift-store-papillion.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/st-vincent-de-paul-thrift-store-papillion/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/st-vincent-de-paul-thrift-store-papillion.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11491186076 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

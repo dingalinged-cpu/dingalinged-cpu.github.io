@@ -13,12 +13,12 @@ Dr. Calvin George, DC is a chiropractor in Addison, IL at 190 N Swift Rd Ste S, 
 - Website: https://drgeorge-chiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 9:00AM to 5:00PM,Saturday: 8:30AM to 12:00PM
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 26% of chiropractors in Chicago, #1 of 1 chiropractors in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 26% of chiropractors in Chicago, #1 of 1 chiropractors in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dr-calvin-george-dc-addison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dr-calvin-george-dc-addison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dr-calvin-george-dc-addison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dr-calvin-george-dc-addison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4314516775 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

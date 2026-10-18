@@ -2,7 +2,7 @@
  "title": "Keyword market data: Greenville, SC",
  "description": "Top Greenville, SC service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Greenville, SC",
  "geography": "Greenville-Anderson-Greer, SC metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage greenville sc",
     "slug": "massage-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-greenville-sc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care greenville sc",
     "slug": "urgent-care-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-greenville-sc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8100,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist greenville sc",
     "slug": "dentist-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-greenville-sc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym greenville sc",
     "slug": "gym-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-greenville-sc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash greenville sc",
     "slug": "car-wash-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-greenville-sc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change greenville sc",
     "slug": "oil-change-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-greenville-sc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon greenville sc",
     "slug": "hair-salon-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-greenville-sc",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon greenville sc",
     "slug": "nail-salon-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-greenville-sc",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes greenville sc",
     "slug": "car-insurance-quotes-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-greenville-sc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber greenville sc",
     "slug": "plumber-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-greenville-sc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments greenville sc",
     "slug": "apartments-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-greenville-sc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance greenville sc",
     "slug": "auto-insurance-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-greenville-sc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop greenville sc",
     "slug": "barber-shop-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-greenville-sc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage greenville sc",
     "slug": "lymphatic-drainage-massage-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-greenville-sc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic greenville sc",
     "slug": "mechanic-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-greenville-sc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer greenville sc",
     "slug": "personal-injury-lawyer-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-greenville-sc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber greenville sc",
     "slug": "emergency-plumber-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-greenville-sc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair greenville sc",
     "slug": "hvac-repair-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-greenville-sc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair greenville sc",
     "slug": "ac-repair-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-greenville-sc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement greenville sc",
     "slug": "roof-replacement-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-greenville-sc",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 98.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair greenville sc",
     "slug": "roof-repair-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-greenville-sc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast greenville sc",
     "slug": "sell-my-house-fast-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-greenville-sc",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 29.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services greenville sc",
     "slug": "plumbing-services-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-greenville-sc",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining greenville sc",
     "slug": "deck-staining-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-greenville-sc",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 54.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters greenville sc",
     "slug": "exterior-house-painters-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-greenville-sc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 36.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters greenville sc",
     "slug": "interior-painters-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-greenville-sc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 36.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters greenville sc",
     "slug": "painters-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-greenville-sc",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 180,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company greenville sc",
     "slug": "moving-company-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-greenville-sc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney greenville sc",
     "slug": "criminal-defense-attorney-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-greenville-sc",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer greenville sc",
     "slug": "dui-defense-lawyer-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-greenville-sc",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 11.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage greenville sc",
     "slug": "massage-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-greenville-sc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care greenville sc",
     "slug": "urgent-care-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-greenville-sc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8100,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer greenville sc",
     "slug": "personal-injury-lawyer-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-greenville-sc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber greenville sc",
     "slug": "plumber-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-greenville-sc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist greenville sc",
     "slug": "dentist-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-greenville-sc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash greenville sc",
     "slug": "car-wash-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-greenville-sc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change greenville sc",
     "slug": "oil-change-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-greenville-sc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair greenville sc",
     "slug": "ac-repair-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-greenville-sc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer greenville sc",
     "slug": "car-accident-lawyer-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-greenville-sc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage greenville sc",
     "slug": "lymphatic-drainage-massage-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-greenville-sc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym greenville sc",
     "slug": "gym-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-greenville-sc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician greenville sc",
     "slug": "electrician-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-greenville-sc",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic greenville sc",
     "slug": "mechanic-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-greenville-sc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes greenville sc",
     "slug": "car-insurance-quotes-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-greenville-sc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement greenville sc",
     "slug": "water-heater-replacement-greenville-sc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-greenville-sc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-greenville-sc",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,

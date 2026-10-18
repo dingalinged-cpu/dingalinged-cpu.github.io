@@ -13,12 +13,12 @@ PAL Realty, Inc. is a real estate agency in Houston, TX at 24080 Highway 59 Nort
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 88% of real estate agencys in Houston, #21 of 25 real estate agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 88% of real estate agencys in Houston, #21 of 25 real estate agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/pal-realty-inc-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pal-realty-inc-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pal-realty-inc-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pal-realty-inc-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7633149822 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

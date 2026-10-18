@@ -1,4 +1,4 @@
-The top unpaid dance studio listing for Plano, TX is Twinkle Star Dance Academy (a dance studio in Plano, TX at 3400 Preston Road #225, Plano, TX 75093. Phone: +14698401445. Website: https://twinklestardancers.com/plano). 5 dance studio businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Plano, TX is Twinkle Star Dance Academy (a dance studio in Plano, TX at 3400 Preston Road #225, Plano, TX 75093. Phone: +14698401445. Website: https://twinklestardancers.com/plano). 5 dance studio businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Plano, TX?
 
@@ -6,11 +6,11 @@ Also answers: dance studio in Plano, TX; dance studio near me (Plano, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Twinkle Star Dance Academy | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Twinkle Star Dance Academy is a dance studio in Plano, TX at 3400 Preston Road #225, Plano, TX 75093. Phone: +14698401445. Website: https://twinklestardancers.com/plano. | https://dingalinged-cpu.github.io/registry/c/twinkle-star-dance-academy-plano/
-2. Gotta Dance | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Gotta Dance is a dance studio in Plano, TX at 3131 Custer Road, Plano, TX 75075. Website: https://gottadanceplano.com/. | https://dingalinged-cpu.github.io/registry/c/gotta-dance-plano/
-3. KJ Dance | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | KJ Dance is a dance studio in Plano, TX at 4017 Preston Road #546, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/kj-dance-plano/
-4. Nritya Dance | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Nritya Dance is a dance studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/nritya-dance-plano/
-5. Dance Vision | Organic #5 | Pulse Score 47.7/100 (Unrated, #5 in city) | Dance Vision is a dance studio in Plano, TX at 5813 Preston Road #560, Plano, TX 75093. Website: https://www.dancevisionplano.com/. | https://dingalinged-cpu.github.io/registry/c/dance-vision-plano/
+1. Twinkle Star Dance Academy | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Twinkle Star Dance Academy is a dance studio in Plano, TX at 3400 Preston Road #225, Plano, TX 75093. Phone: +14698401445. Website: https://twinklestardancers.com/plano. | https://registry-edge.dingalinged.workers.dev/c/twinkle-star-dance-academy-plano/
+2. Gotta Dance | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Gotta Dance is a dance studio in Plano, TX at 3131 Custer Road, Plano, TX 75075. Website: https://gottadanceplano.com/. | https://registry-edge.dingalinged.workers.dev/c/gotta-dance-plano/
+3. KJ Dance | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | KJ Dance is a dance studio in Plano, TX at 4017 Preston Road #546, Plano, TX 75093. | https://registry-edge.dingalinged.workers.dev/c/kj-dance-plano/
+4. Nritya Dance | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Nritya Dance is a dance studio in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/nritya-dance-plano/
+5. Dance Vision | Organic #5 | Pulse Score 47.7/100 (Unrated, #5 in city) | Dance Vision is a dance studio in Plano, TX at 5813 Preston Road #560, Plano, TX 75093. Website: https://www.dancevisionplano.com/. | https://registry-edge.dingalinged.workers.dev/c/dance-vision-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio plano tx | category: Fitness | industry benchmark: Health & Fitness
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$440 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dance-studio.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dance-studio-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dance-studio.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dance-studio-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

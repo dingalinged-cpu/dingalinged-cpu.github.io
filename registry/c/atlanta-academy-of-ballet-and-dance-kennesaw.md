@@ -13,12 +13,12 @@ Atlanta Academy of Ballet and Dance is a dance studio in Kennesaw, GA at 2255 Mc
 - Website: https://www.aabdstudios.com/
 - Email: aabdoffice@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Good — top 37% of dance studios in Atlanta, #2 of 2 dance studios in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 37% of dance studios in Atlanta, #2 of 2 dance studios in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 53.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/atlanta-academy-of-ballet-and-dance-kennesaw/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/atlanta-academy-of-ballet-and-dance-kennesaw.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/atlanta-academy-of-ballet-and-dance-kennesaw/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/atlanta-academy-of-ballet-and-dance-kennesaw.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12209934489 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid brake repair listing for Kennesaw, GA is Pep Boys Auto Service & Tire Shop (an auto repair shop in Kennesaw, GA at 4290 Bells Ferry Road Northwest #102, Kennesaw, GA 30144. Phone: +17705920811. Website: https://www.pepboys.com/stores/ga/kennesaw/4290-bells-ferry-road-nw?storecode=1656). 2 brake repair businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid brake repair listing for Kennesaw, GA is Pep Boys Auto Service & Tire Shop (an auto repair shop in Kennesaw, GA at 4290 Bells Ferry Road Northwest #102, Kennesaw, GA 30144. Phone: +17705920811. Website: https://www.pepboys.com/stores/ga/kennesaw/4290-bells-ferry-road-nw?storecode=1656). 2 brake repair businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best brake repair providers in Kennesaw, GA?
 
@@ -6,8 +6,8 @@ Also answers: brake repair in Kennesaw, GA; brake repair near me (Kennesaw, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pep Boys Auto Service & Tire Shop | Organic #1 | Pulse Score 64.3/100 (Good, #2 in city) | Pep Boys Auto Service & Tire Shop is an auto repair shop in Kennesaw, GA at 4290 Bells Ferry Road Northwest #102, Kennesaw, GA 30144. Phone: +17705920811. Website: https://www.pepboys.com/stores/ga/kennesaw/4290-bells-ferry-road-nw?storecode=1656. | https://dingalinged-cpu.github.io/registry/c/pep-boys-auto-service-and-tire-shop-kennesaw/
-2. Chloes Auto Repair and Tire Kennesaw | Organic #2 | Pulse Score 62.4/100 (Good, #5 in city) | Chloes Auto Repair and Tire Kennesaw is an auto repair shop in Kennesaw, GA at 6422 Stilesboro Road, Kennesaw, GA 30152. Phone: +17704288233. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-and-tire-kennesaw-kennesaw/
+1. Pep Boys Auto Service & Tire Shop | Organic #1 | Pulse Score 64.3/100 (Good, #2 in city) | Pep Boys Auto Service & Tire Shop is an auto repair shop in Kennesaw, GA at 4290 Bells Ferry Road Northwest #102, Kennesaw, GA 30144. Phone: +17705920811. Website: https://www.pepboys.com/stores/ga/kennesaw/4290-bells-ferry-road-nw?storecode=1656. | https://registry-edge.dingalinged.workers.dev/c/pep-boys-auto-service-and-tire-shop-kennesaw/
+2. Chloes Auto Repair and Tire Kennesaw | Organic #2 | Pulse Score 62.4/100 (Good, #5 in city) | Chloes Auto Repair and Tire Kennesaw is an auto repair shop in Kennesaw, GA at 6422 Stilesboro Road, Kennesaw, GA 30152. Phone: +17704288233. | https://registry-edge.dingalinged.workers.dev/c/chloes-auto-repair-and-tire-kennesaw-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair kennesaw ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$630 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/brake-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#brake-repair-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/brake-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#brake-repair-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

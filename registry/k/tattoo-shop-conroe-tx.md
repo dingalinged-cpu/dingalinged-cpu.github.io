@@ -1,4 +1,4 @@
-The top unpaid tattoo shop listing for Conroe, TX is La Raza Tatoo Studio (a tattoo shop in Conroe, TX at 2017 North Frazier Street #A3, Conroe, TX 77301). 2 tattoo shop businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Conroe, TX is La Raza Tatoo Studio (a tattoo shop in Conroe, TX at 2017 North Frazier Street #A3, Conroe, TX 77301). 2 tattoo shop businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Conroe, TX?
 
@@ -6,8 +6,8 @@ Also answers: tattoo shop in Conroe, TX; tattoo shop near me (Conroe, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Raza Tatoo Studio | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | La Raza Tatoo Studio is a tattoo shop in Conroe, TX at 2017 North Frazier Street #A3, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/la-raza-tatoo-studio-conroe/
-2. Twisted Angels Art Studio Tattoos | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Twisted Angels Art Studio Tattoos is a tattoo shop in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/twisted-angels-art-studio-tattoos-conroe/
+1. La Raza Tatoo Studio | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | La Raza Tatoo Studio is a tattoo shop in Conroe, TX at 2017 North Frazier Street #A3, Conroe, TX 77301. | https://registry-edge.dingalinged.workers.dev/c/la-raza-tatoo-studio-conroe/
+2. Twisted Angels Art Studio Tattoos | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Twisted Angels Art Studio Tattoos is a tattoo shop in Conroe, TX. | https://registry-edge.dingalinged.workers.dev/c/twisted-angels-art-studio-tattoos-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop conroe tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$5,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tattoo-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tattoo-shop-conroe-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tattoo-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tattoo-shop-conroe-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

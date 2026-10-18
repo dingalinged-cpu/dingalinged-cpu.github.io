@@ -13,12 +13,12 @@ Country Glass & Mirror is a window repair service in Mesquite, TX at 1250 US Hig
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 80% of window repair services in Dallas–Fort Worth, #1 of 1 window repair services in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 44.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 80% of window repair services in Dallas–Fort Worth, #1 of 1 window repair services in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/country-glass-and-mirror-mesquite/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/country-glass-and-mirror-mesquite.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/country-glass-and-mirror-mesquite/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/country-glass-and-mirror-mesquite.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/640696033 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

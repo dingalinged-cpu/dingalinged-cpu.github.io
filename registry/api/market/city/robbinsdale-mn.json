@@ -2,7 +2,7 @@
  "title": "Keyword market data: Robbinsdale, MN",
  "description": "Top Robbinsdale, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Robbinsdale, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist robbinsdale mn",
     "slug": "dentist-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-robbinsdale-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym robbinsdale mn",
     "slug": "gym-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-robbinsdale-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon robbinsdale mn",
     "slug": "hair-salon-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-robbinsdale-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic robbinsdale mn",
     "slug": "mechanic-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-robbinsdale-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -71,7 +71,7 @@
    {
     "keyword": "dog groomer robbinsdale mn",
     "slug": "dog-groomer-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-robbinsdale-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut robbinsdale mn",
     "slug": "haircut-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-robbinsdale-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair robbinsdale mn",
     "slug": "auto-repair-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-robbinsdale-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -116,7 +116,7 @@
    {
     "keyword": "chiropractor robbinsdale mn",
     "slug": "chiropractor-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-robbinsdale-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -131,7 +131,7 @@
    {
     "keyword": "real estate agent robbinsdale mn",
     "slug": "real-estate-agent-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-robbinsdale-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -146,7 +146,7 @@
    {
     "keyword": "realtor robbinsdale mn",
     "slug": "realtor-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-robbinsdale-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -161,7 +161,7 @@
    {
     "keyword": "tax preparation robbinsdale mn",
     "slug": "tax-preparation-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-robbinsdale-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparer robbinsdale mn",
     "slug": "tax-preparer-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-robbinsdale-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -193,7 +193,7 @@
    {
     "keyword": "architect robbinsdale mn",
     "slug": "architect-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-robbinsdale-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -208,7 +208,7 @@
    {
     "keyword": "bakery robbinsdale mn",
     "slug": "bakery-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-robbinsdale-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -223,7 +223,7 @@
    {
     "keyword": "dance studio robbinsdale mn",
     "slug": "dance-studio-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-robbinsdale-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -238,7 +238,7 @@
    {
     "keyword": "tax preparer robbinsdale mn",
     "slug": "tax-preparer-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-robbinsdale-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -253,7 +253,7 @@
    {
     "keyword": "assisted living robbinsdale mn",
     "slug": "assisted-living-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-robbinsdale-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -268,7 +268,7 @@
    {
     "keyword": "chiropractor robbinsdale mn",
     "slug": "chiropractor-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-robbinsdale-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -283,7 +283,7 @@
    {
     "keyword": "dentist robbinsdale mn",
     "slug": "dentist-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-robbinsdale-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -298,7 +298,7 @@
    {
     "keyword": "haircut robbinsdale mn",
     "slug": "haircut-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-robbinsdale-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -313,7 +313,7 @@
    {
     "keyword": "auto repair robbinsdale mn",
     "slug": "auto-repair-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-robbinsdale-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -328,7 +328,7 @@
    {
     "keyword": "mechanic robbinsdale mn",
     "slug": "mechanic-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-robbinsdale-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -343,7 +343,7 @@
    {
     "keyword": "furniture store robbinsdale mn",
     "slug": "furniture-store-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-robbinsdale-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -358,7 +358,7 @@
    {
     "keyword": "gift shop robbinsdale mn",
     "slug": "gift-shop-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-robbinsdale-mn/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 200,
@@ -373,7 +373,7 @@
    {
     "keyword": "liquor store robbinsdale mn",
     "slug": "liquor-store-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-robbinsdale-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -388,7 +388,7 @@
    {
     "keyword": "used cars for sale robbinsdale mn",
     "slug": "used-cars-for-sale-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-robbinsdale-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -403,7 +403,7 @@
    {
     "keyword": "dog groomer robbinsdale mn",
     "slug": "dog-groomer-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-robbinsdale-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -420,7 +420,7 @@
    {
     "keyword": "dentist robbinsdale mn",
     "slug": "dentist-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-robbinsdale-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -435,7 +435,7 @@
    {
     "keyword": "gym robbinsdale mn",
     "slug": "gym-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-robbinsdale-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -450,7 +450,7 @@
    {
     "keyword": "mechanic robbinsdale mn",
     "slug": "mechanic-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-robbinsdale-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -465,7 +465,7 @@
    {
     "keyword": "dog groomer robbinsdale mn",
     "slug": "dog-groomer-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-robbinsdale-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -480,7 +480,7 @@
    {
     "keyword": "haircut robbinsdale mn",
     "slug": "haircut-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-robbinsdale-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -495,7 +495,7 @@
    {
     "keyword": "auto repair robbinsdale mn",
     "slug": "auto-repair-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-robbinsdale-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -510,7 +510,7 @@
    {
     "keyword": "chiropractor robbinsdale mn",
     "slug": "chiropractor-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-robbinsdale-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -525,7 +525,7 @@
    {
     "keyword": "hair salon robbinsdale mn",
     "slug": "hair-salon-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-robbinsdale-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -540,7 +540,7 @@
    {
     "keyword": "real estate agent robbinsdale mn",
     "slug": "real-estate-agent-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-robbinsdale-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -555,7 +555,7 @@
    {
     "keyword": "tax preparer robbinsdale mn",
     "slug": "tax-preparer-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-robbinsdale-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -570,7 +570,7 @@
    {
     "keyword": "realtor robbinsdale mn",
     "slug": "realtor-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-robbinsdale-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -585,7 +585,7 @@
    {
     "keyword": "tax preparation robbinsdale mn",
     "slug": "tax-preparation-robbinsdale-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-robbinsdale-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-robbinsdale-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,

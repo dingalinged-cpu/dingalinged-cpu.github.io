@@ -13,12 +13,12 @@ Clean 'n' Press is a dry cleaner in Maple Grove, MN at 13704 Grove Drive North, 
 - Website: https://www.cleannpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00;Sa 09:00-17:00
-- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 57% of dry cleaners in Minneapolis–St. Paul, #2 of 4 dry cleaners in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.1, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Unrated (not enough evidence yet) — top 57% of dry cleaners in Minneapolis–St. Paul, #2 of 4 dry cleaners in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.1, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/clean-n-press-maple-grove/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/clean-n-press-maple-grove.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/clean-n-press-maple-grove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/clean-n-press-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5777444269 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

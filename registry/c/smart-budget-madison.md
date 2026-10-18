@@ -13,12 +13,12 @@ Smart Budget is an used car dealer in Madison, WI at 6509 Odana Road, Madison, W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 46% of used car dealers in Madison, #5 of 14 used car dealers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 48.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 46% of used car dealers in Madison, #5 of 14 used car dealers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/smart-budget-madison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/smart-budget-madison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/smart-budget-madison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/smart-budget-madison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/105822527 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

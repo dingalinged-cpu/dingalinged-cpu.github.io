@@ -2,7 +2,7 @@
  "title": "Keyword market data: Las Vegas, NV",
  "description": "Top Las Vegas, NV service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Las Vegas, NV",
  "geography": "Las Vegas-Henderson-North Las Vegas, NV metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage las vegas nv",
     "slug": "massage-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-las-vegas-nv",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care las vegas nv",
     "slug": "urgent-care-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-las-vegas-nv",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist las vegas nv",
     "slug": "dentist-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-las-vegas-nv",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym las vegas nv",
     "slug": "gym-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-las-vegas-nv",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash las vegas nv",
     "slug": "car-wash-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-las-vegas-nv",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change las vegas nv",
     "slug": "oil-change-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-las-vegas-nv",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon las vegas nv",
     "slug": "hair-salon-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-las-vegas-nv",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon las vegas nv",
     "slug": "nail-salon-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-las-vegas-nv",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes las vegas nv",
     "slug": "car-insurance-quotes-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-las-vegas-nv",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber las vegas nv",
     "slug": "plumber-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-las-vegas-nv",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments las vegas nv",
     "slug": "apartments-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-las-vegas-nv",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance las vegas nv",
     "slug": "auto-insurance-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-las-vegas-nv",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop las vegas nv",
     "slug": "barber-shop-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-las-vegas-nv",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage las vegas nv",
     "slug": "lymphatic-drainage-massage-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-las-vegas-nv",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic las vegas nv",
     "slug": "mechanic-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-las-vegas-nv",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer las vegas nv",
     "slug": "personal-injury-lawyer-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-las-vegas-nv",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber las vegas nv",
     "slug": "emergency-plumber-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-las-vegas-nv",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 520,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair las vegas nv",
     "slug": "hvac-repair-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-las-vegas-nv",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 520,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair las vegas nv",
     "slug": "ac-repair-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-las-vegas-nv",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement las vegas nv",
     "slug": "roof-replacement-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-las-vegas-nv",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair las vegas nv",
     "slug": "roof-repair-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-las-vegas-nv",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 520,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast las vegas nv",
     "slug": "sell-my-house-fast-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-las-vegas-nv",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 70.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services las vegas nv",
     "slug": "plumbing-services-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-las-vegas-nv",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining las vegas nv",
     "slug": "deck-staining-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-las-vegas-nv",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters las vegas nv",
     "slug": "exterior-house-painters-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-las-vegas-nv",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 85.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters las vegas nv",
     "slug": "interior-painters-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-las-vegas-nv",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 85.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters las vegas nv",
     "slug": "painters-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-las-vegas-nv",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 430,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company las vegas nv",
     "slug": "moving-company-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-las-vegas-nv",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney las vegas nv",
     "slug": "criminal-defense-attorney-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-las-vegas-nv",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 640,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer las vegas nv",
     "slug": "dui-defense-lawyer-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-las-vegas-nv",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 25.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage las vegas nv",
     "slug": "massage-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-las-vegas-nv",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care las vegas nv",
     "slug": "urgent-care-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-las-vegas-nv",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer las vegas nv",
     "slug": "personal-injury-lawyer-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-las-vegas-nv",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber las vegas nv",
     "slug": "plumber-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-las-vegas-nv",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist las vegas nv",
     "slug": "dentist-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-las-vegas-nv",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash las vegas nv",
     "slug": "car-wash-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-las-vegas-nv",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change las vegas nv",
     "slug": "oil-change-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-las-vegas-nv",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair las vegas nv",
     "slug": "ac-repair-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-las-vegas-nv",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer las vegas nv",
     "slug": "car-accident-lawyer-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-las-vegas-nv",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym las vegas nv",
     "slug": "gym-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-las-vegas-nv",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage las vegas nv",
     "slug": "lymphatic-drainage-massage-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-las-vegas-nv",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician las vegas nv",
     "slug": "electrician-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-las-vegas-nv",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -645,7 +645,7 @@
    {
     "keyword": "car insurance quotes las vegas nv",
     "slug": "car-insurance-quotes-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-las-vegas-nv",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -660,7 +660,7 @@
    {
     "keyword": "mechanic las vegas nv",
     "slug": "mechanic-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-las-vegas-nv",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments las vegas nv",
     "slug": "apartments-las-vegas-nv",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-las-vegas-nv",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-las-vegas-nv",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,

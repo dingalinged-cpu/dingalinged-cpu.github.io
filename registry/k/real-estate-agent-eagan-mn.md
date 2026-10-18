@@ -1,4 +1,4 @@
-The top unpaid real estate agent listing for Eagan, MN is Eagan Realty (a real estate agency in Eagan, MN at 3410 Federal Drive, Eagan, MN). 5 real estate agent businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Eagan, MN is Eagan Realty (a real estate agency in Eagan, MN at 3410 Federal Drive, Eagan, MN). 5 real estate agent businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Eagan, MN?
 
@@ -6,11 +6,11 @@ Also answers: real estate agent in Eagan, MN; real estate agent near me (Eagan, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eagan Realty | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Eagan Realty is a real estate agency in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/eagan-realty-eagan/
-2. Alden Pond Townhome Apartments | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Alden Pond Townhome Apartments is a real estate agency in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/alden-pond-townhome-apartments-eagan/
-3. Edina Realty | Organic #3 | Pulse Score 50/100 (Fair, #3 in city) | Edina Realty is a real estate agency in Eagan, MN at 1519 Central Parkway #100, Eagan, MN 55121. Phone: +16516880000. Website: https://www.edinarealty.com/office/eagan. | https://dingalinged-cpu.github.io/registry/c/edina-realty-eagan/
-4. Coldwell Banker | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | Coldwell Banker is a real estate agency in Eagan, MN at 1875 Plaza Drive, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/coldwell-banker-eagan/
-5. RE/MAX | Organic #5 | Pulse Score 41.9/100 (Building, #5 in city) | RE/MAX is a real estate agency in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/re-max-eagan/
+1. Eagan Realty | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Eagan Realty is a real estate agency in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/eagan-realty-eagan/
+2. Alden Pond Townhome Apartments | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Alden Pond Townhome Apartments is a real estate agency in Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/alden-pond-townhome-apartments-eagan/
+3. Edina Realty | Organic #3 | Pulse Score 50/100 (Fair, #3 in city) | Edina Realty is a real estate agency in Eagan, MN at 1519 Central Parkway #100, Eagan, MN 55121. Phone: +16516880000. Website: https://www.edinarealty.com/office/eagan. | https://registry-edge.dingalinged.workers.dev/c/edina-realty-eagan/
+4. Coldwell Banker | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | Coldwell Banker is a real estate agency in Eagan, MN at 1875 Plaza Drive, Eagan, MN 55122. | https://registry-edge.dingalinged.workers.dev/c/coldwell-banker-eagan/
+5. RE/MAX | Organic #5 | Pulse Score 41.9/100 (Building, #5 in city) | RE/MAX is a real estate agency in Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/re-max-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent eagan mn | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$660 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/real-estate-agent.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#real-estate-agent-eagan-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/real-estate-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#real-estate-agent-eagan-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

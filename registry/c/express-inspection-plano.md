@@ -13,12 +13,12 @@ Express Inspection is a vehicle inspection station in Plano, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 100% of vehicle inspection stations in Dallas–Fort Worth, #1 of 1 vehicle inspection stations in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 40.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 100% of vehicle inspection stations in Dallas–Fort Worth, #1 of 1 vehicle inspection stations in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 40.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/express-inspection-plano/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/express-inspection-plano.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/express-inspection-plano/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/express-inspection-plano.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12527568058 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

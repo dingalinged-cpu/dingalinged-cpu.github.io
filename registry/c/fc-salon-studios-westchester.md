@@ -13,12 +13,12 @@ FC Salon Studios is a hair salon in Westchester, IL at 1919 South Mannheim Road,
 - Website: https://www.instagram.com/fcsalonstudios/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Chicago, #3 of 6 hair salons in Westchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Chicago, #3 of 6 hair salons in Westchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fc-salon-studios-westchester/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fc-salon-studios-westchester.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fc-salon-studios-westchester/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fc-salon-studios-westchester.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12515022455 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

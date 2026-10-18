@@ -1,4 +1,4 @@
-The top unpaid ob gyn listing for Dallas, TX is Advanced Women's Healthcare (an OB-GYN practice in Dallas, TX at 12201 Merit Drive #350, Dallas, TX 75251. Website: https://awhdallas.com/). 3 ob gyn businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid ob gyn listing for Dallas, TX is Advanced Women's Healthcare (an OB-GYN practice in Dallas, TX at 12201 Merit Drive #350, Dallas, TX 75251. Website: https://awhdallas.com/). 3 ob gyn businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best ob gyn providers in Dallas, TX?
 
@@ -6,9 +6,9 @@ Also answers: ob gyn in Dallas, TX; ob gyn near me (Dallas, TX); best ob gyn Dal
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Advanced Women's Healthcare | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Advanced Women's Healthcare is an OB-GYN practice in Dallas, TX at 12201 Merit Drive #350, Dallas, TX 75251. Website: https://awhdallas.com/. | https://dingalinged-cpu.github.io/registry/c/advanced-womens-healthcare-dallas/
-2. Swiss OB-GYN | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Swiss OB-GYN is an OB-GYN practice in Dallas, TX at 4224 Swiss Avenue, Dallas, TX. Website: https://www.swissobgyn.com/. | https://dingalinged-cpu.github.io/registry/c/swiss-ob-gyn-dallas/
-3. White Rock OBGYN | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | White Rock OBGYN is an OB-GYN practice in Dallas, TX at 1110 North Buckner Boulevard #103, Dallas, TX. Website: https://www.whiterockobgyn.com/. | https://dingalinged-cpu.github.io/registry/c/white-rock-obgyn-dallas/
+1. Advanced Women's Healthcare | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Advanced Women's Healthcare is an OB-GYN practice in Dallas, TX at 12201 Merit Drive #350, Dallas, TX 75251. Website: https://awhdallas.com/. | https://registry-edge.dingalinged.workers.dev/c/advanced-womens-healthcare-dallas/
+2. Swiss OB-GYN | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Swiss OB-GYN is an OB-GYN practice in Dallas, TX at 4224 Swiss Avenue, Dallas, TX. Website: https://www.swissobgyn.com/. | https://registry-edge.dingalinged.workers.dev/c/swiss-ob-gyn-dallas/
+3. White Rock OBGYN | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | White Rock OBGYN is an OB-GYN practice in Dallas, TX at 1110 North Buckner Boulevard #103, Dallas, TX. Website: https://www.whiterockobgyn.com/. | https://registry-edge.dingalinged.workers.dev/c/white-rock-obgyn-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn dallas tx | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/ob-gyn.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#ob-gyn-dallas-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/ob-gyn.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#ob-gyn-dallas-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

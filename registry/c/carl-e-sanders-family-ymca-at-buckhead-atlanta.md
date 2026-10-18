@@ -13,12 +13,12 @@ Carl E. Sanders Family YMCA at Buckhead is a gym in Atlanta, GA at 1160 Moores M
 - Website: https://ymcaatlanta.org/locations/carl-e-sanders-family-ymca-buckhead
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-22:00; Fr 05:00-20:00; Sa-Su 07:00-18:00
-- Pulse Score: 62.7/100 — Good — top 7% of gyms in Atlanta, #3 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 7% of gyms in Atlanta, #3 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/carl-e-sanders-family-ymca-at-buckhead-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/carl-e-sanders-family-ymca-at-buckhead-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/carl-e-sanders-family-ymca-at-buckhead-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carl-e-sanders-family-ymca-at-buckhead-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/267775778 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

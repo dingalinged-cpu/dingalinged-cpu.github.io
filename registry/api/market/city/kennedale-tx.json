@@ -2,7 +2,7 @@
  "title": "Keyword market data: Kennedale, TX",
  "description": "Top Kennedale, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Kennedale, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 5,
@@ -11,7 +11,7 @@
    {
     "keyword": "real estate agent kennedale tx",
     "slug": "real-estate-agent-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-kennedale-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car inspection kennedale tx",
     "slug": "car-inspection-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-inspection-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-inspection-kennedale-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -41,7 +41,7 @@
    {
     "keyword": "realtor kennedale tx",
     "slug": "realtor-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-kennedale-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -58,7 +58,7 @@
    {
     "keyword": "car inspection kennedale tx",
     "slug": "car-inspection-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-inspection-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-inspection-kennedale-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -73,7 +73,7 @@
    {
     "keyword": "liquor store kennedale tx",
     "slug": "liquor-store-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-kennedale-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -88,7 +88,7 @@
    {
     "keyword": "thrift store kennedale tx",
     "slug": "thrift-store-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-kennedale-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -103,7 +103,7 @@
    {
     "keyword": "realtor kennedale tx",
     "slug": "realtor-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-kennedale-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -118,7 +118,7 @@
    {
     "keyword": "real estate agent kennedale tx",
     "slug": "real-estate-agent-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-kennedale-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -135,7 +135,7 @@
    {
     "keyword": "real estate agent kennedale tx",
     "slug": "real-estate-agent-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-kennedale-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -150,7 +150,7 @@
    {
     "keyword": "car inspection kennedale tx",
     "slug": "car-inspection-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-inspection-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-inspection-kennedale-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -165,7 +165,7 @@
    {
     "keyword": "realtor kennedale tx",
     "slug": "realtor-kennedale-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-kennedale-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-kennedale-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,

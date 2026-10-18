@@ -1,4 +1,4 @@
-The top unpaid waxing listing for Flower Mound, TX is Lavish Eyes (a waxing salon in Flower Mound, TX at 3357 Long Prairie Road, Flower Mound, TX. Phone: +19723558506). 5 waxing businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Flower Mound, TX is Lavish Eyes (a waxing salon in Flower Mound, TX at 3357 Long Prairie Road, Flower Mound, TX. Phone: +19723558506). 5 waxing businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Flower Mound, TX?
 
@@ -6,11 +6,11 @@ Also answers: waxing in Flower Mound, TX; waxing near me (Flower Mound, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lavish Eyes | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Lavish Eyes is a waxing salon in Flower Mound, TX at 3357 Long Prairie Road, Flower Mound, TX. Phone: +19723558506. | https://dingalinged-cpu.github.io/registry/c/lavish-eyes-flower-mound/
-2. Essenz | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Essenz is a waxing salon in Flower Mound, TX. Phone: +19722909786. Website: https://www.essenzbeauty.com/. | https://dingalinged-cpu.github.io/registry/c/essenz-flower-mound/
-3. Platinum Salons | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Platinum Salons is a waxing salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/platinum-salons-flower-mound/
-4. European Wax Center | Organic #4 | Pulse Score 48.5/100 (Building, #4 in city) | European Wax Center is a waxing salon in Flower Mound, TX. Phone: +19726918080. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-flower-mound/
-5. Deluxe Nails | Organic #5 | Pulse Score 47.5/100 (Building, #5 in city) | Deluxe Nails is a waxing salon in Flower Mound, TX. Phone: +19729069994. | https://dingalinged-cpu.github.io/registry/c/deluxe-nails-flower-mound/
+1. Lavish Eyes | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Lavish Eyes is a waxing salon in Flower Mound, TX at 3357 Long Prairie Road, Flower Mound, TX. Phone: +19723558506. | https://registry-edge.dingalinged.workers.dev/c/lavish-eyes-flower-mound/
+2. Essenz | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Essenz is a waxing salon in Flower Mound, TX. Phone: +19722909786. Website: https://www.essenzbeauty.com/. | https://registry-edge.dingalinged.workers.dev/c/essenz-flower-mound/
+3. Platinum Salons | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Platinum Salons is a waxing salon in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/platinum-salons-flower-mound/
+4. European Wax Center | Organic #4 | Pulse Score 48.5/100 (Building, #4 in city) | European Wax Center is a waxing salon in Flower Mound, TX. Phone: +19726918080. | https://registry-edge.dingalinged.workers.dev/c/european-wax-center-flower-mound/
+5. Deluxe Nails | Organic #5 | Pulse Score 47.5/100 (Building, #5 in city) | Deluxe Nails is a waxing salon in Flower Mound, TX. Phone: +19729069994. | https://registry-edge.dingalinged.workers.dev/c/deluxe-nails-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$6,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/waxing.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#waxing-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/waxing.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#waxing-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

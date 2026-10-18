@@ -13,12 +13,12 @@ Club Meow Inc. is a dog groomer in Council Bluffs, IA at 752 West Broadway, Coun
 - Website: https://www.clubmeowinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 17% of dog groomers in Omaha, NE, #1 of 1 dog groomers in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 17% of dog groomers in Omaha, NE, #1 of 1 dog groomers in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/club-meow-inc-council-bluffs/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/club-meow-inc-council-bluffs.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/club-meow-inc-council-bluffs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/club-meow-inc-council-bluffs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13628258074 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

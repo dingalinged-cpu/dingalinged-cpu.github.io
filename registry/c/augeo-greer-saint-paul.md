@@ -13,12 +13,12 @@ Augeo+Greer is a marketing agency in Saint Paul, MN at 2561 Territorial Road, Sa
 - Website: https://www.augeogreer.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 41% of marketing agencys in Minneapolis–St. Paul, #3 of 6 marketing agencys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 41% of marketing agencys in Minneapolis–St. Paul, #3 of 6 marketing agencys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/augeo-greer-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/augeo-greer-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/augeo-greer-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/augeo-greer-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6277568967 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

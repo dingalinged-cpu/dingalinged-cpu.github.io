@@ -1,4 +1,4 @@
-The top unpaid insurance agency listing for Union Grove, WI is Capital Insurance Agency (an insurance agent in Union Grove, WI). 5 insurance agency businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Union Grove, WI is Capital Insurance Agency (an insurance agent in Union Grove, WI). 5 insurance agency businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Union Grove, WI?
 
@@ -6,11 +6,11 @@ Also answers: insurance agency in Union Grove, WI; insurance agency near me (Uni
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Capital Insurance Agency | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Capital Insurance Agency is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/capital-insurance-agency-union-grove/
-2. Grove Insurance Agency Inc | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Grove Insurance Agency Inc is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/grove-insurance-agency-inc-union-grove/
-3. Rural Mutual Insurance | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Rural Mutual Insurance is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/rural-mutual-insurance-union-grove/
-4. Yorkville & Mt Pleasant Mutual Insurance Agency | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Yorkville & Mt Pleasant Mutual Insurance Agency is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/yorkville-and-mt-pleasant-mutual-insurance-agency-union-grove/
-5. American Family Insurance | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | American Family Insurance is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-union-grove/
+1. Capital Insurance Agency | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Capital Insurance Agency is an insurance agent in Union Grove, WI. | https://registry-edge.dingalinged.workers.dev/c/capital-insurance-agency-union-grove/
+2. Grove Insurance Agency Inc | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Grove Insurance Agency Inc is an insurance agent in Union Grove, WI. | https://registry-edge.dingalinged.workers.dev/c/grove-insurance-agency-inc-union-grove/
+3. Rural Mutual Insurance | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Rural Mutual Insurance is an insurance agent in Union Grove, WI. | https://registry-edge.dingalinged.workers.dev/c/rural-mutual-insurance-union-grove/
+4. Yorkville & Mt Pleasant Mutual Insurance Agency | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Yorkville & Mt Pleasant Mutual Insurance Agency is an insurance agent in Union Grove, WI. | https://registry-edge.dingalinged.workers.dev/c/yorkville-and-mt-pleasant-mutual-insurance-agency-union-grove/
+5. American Family Insurance | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | American Family Insurance is an insurance agent in Union Grove, WI. | https://registry-edge.dingalinged.workers.dev/c/american-family-insurance-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency union grove wi | category: insurance | industry benchmark: Finance & Insurance
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$120 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agency-union-grove-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agency-union-grove-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

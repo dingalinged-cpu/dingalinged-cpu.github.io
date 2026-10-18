@@ -13,12 +13,12 @@ Mann Eye Institute is an eye care practice in Cleveland, TX at 429 West Southlin
 - Website: https://www.manneye.com/locations-directions/cleveland-location/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 30% of eye care practices in Houston, #1 of 1 eye care practices in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 30% of eye care practices in Houston, #1 of 1 eye care practices in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mann-eye-institute-cleveland/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mann-eye-institute-cleveland.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mann-eye-institute-cleveland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mann-eye-institute-cleveland.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6164611452 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

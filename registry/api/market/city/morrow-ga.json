@@ -2,7 +2,7 @@
  "title": "Keyword market data: Morrow, GA",
  "description": "Top Morrow, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Morrow, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "gym morrow ga",
     "slug": "gym-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-morrow-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon morrow ga",
     "slug": "hair-salon-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-morrow-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -41,7 +41,7 @@
    {
     "keyword": "nail salon morrow ga",
     "slug": "nail-salon-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-morrow-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic morrow ga",
     "slug": "mechanic-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-morrow-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut morrow ga",
     "slug": "haircut-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-morrow-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair morrow ga",
     "slug": "auto-repair-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-morrow-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -101,7 +101,7 @@
    {
     "keyword": "chiropractor morrow ga",
     "slug": "chiropractor-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-morrow-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -116,7 +116,7 @@
    {
     "keyword": "financial advisor morrow ga",
     "slug": "financial-advisor-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-morrow-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency morrow ga",
     "slug": "insurance-agency-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-morrow-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -146,7 +146,7 @@
    {
     "keyword": "tax preparation morrow ga",
     "slug": "tax-preparation-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-morrow-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "auto body shop morrow ga",
     "slug": "auto-body-shop-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-morrow-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparer morrow ga",
     "slug": "tax-preparer-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-morrow-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agents morrow ga",
     "slug": "insurance-agents-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-morrow-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agent morrow ga",
     "slug": "insurance-agent-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-morrow-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -223,7 +223,7 @@
    {
     "keyword": "storage units morrow ga",
     "slug": "storage-units-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-morrow-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -238,7 +238,7 @@
    {
     "keyword": "florist morrow ga",
     "slug": "florist-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-morrow-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -253,7 +253,7 @@
    {
     "keyword": "tax preparer morrow ga",
     "slug": "tax-preparer-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-morrow-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -268,7 +268,7 @@
    {
     "keyword": "chiropractor morrow ga",
     "slug": "chiropractor-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-morrow-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -283,7 +283,7 @@
    {
     "keyword": "eye doctor morrow ga",
     "slug": "eye-doctor-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-morrow-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -298,7 +298,7 @@
    {
     "keyword": "physical therapy morrow ga",
     "slug": "physical-therapy-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-morrow-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -313,7 +313,7 @@
    {
     "keyword": "haircut morrow ga",
     "slug": "haircut-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-morrow-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -328,7 +328,7 @@
    {
     "keyword": "auto body shop morrow ga",
     "slug": "auto-body-shop-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-morrow-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -343,7 +343,7 @@
    {
     "keyword": "auto repair morrow ga",
     "slug": "auto-repair-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-morrow-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -358,7 +358,7 @@
    {
     "keyword": "mechanic morrow ga",
     "slug": "mechanic-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-morrow-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -373,7 +373,7 @@
    {
     "keyword": "furniture store morrow ga",
     "slug": "furniture-store-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-morrow-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -388,7 +388,7 @@
    {
     "keyword": "jewelry store morrow ga",
     "slug": "jewelry-store-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-morrow-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -403,7 +403,7 @@
    {
     "keyword": "mattress store morrow ga",
     "slug": "mattress-store-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store-morrow-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -418,7 +418,7 @@
    {
     "keyword": "pet store morrow ga",
     "slug": "pet-store-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-morrow-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -433,7 +433,7 @@
    {
     "keyword": "used cars for sale morrow ga",
     "slug": "used-cars-for-sale-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-morrow-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -450,7 +450,7 @@
    {
     "keyword": "gym morrow ga",
     "slug": "gym-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-morrow-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -465,7 +465,7 @@
    {
     "keyword": "mechanic morrow ga",
     "slug": "mechanic-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-morrow-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -480,7 +480,7 @@
    {
     "keyword": "haircut morrow ga",
     "slug": "haircut-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-morrow-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -495,7 +495,7 @@
    {
     "keyword": "auto repair morrow ga",
     "slug": "auto-repair-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-morrow-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -510,7 +510,7 @@
    {
     "keyword": "chiropractor morrow ga",
     "slug": "chiropractor-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-morrow-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -525,7 +525,7 @@
    {
     "keyword": "financial advisor morrow ga",
     "slug": "financial-advisor-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-morrow-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -540,7 +540,7 @@
    {
     "keyword": "hair salon morrow ga",
     "slug": "hair-salon-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-morrow-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -555,7 +555,7 @@
    {
     "keyword": "nail salon morrow ga",
     "slug": "nail-salon-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-morrow-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -570,7 +570,7 @@
    {
     "keyword": "tax preparer morrow ga",
     "slug": "tax-preparer-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-morrow-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -585,7 +585,7 @@
    {
     "keyword": "insurance agency morrow ga",
     "slug": "insurance-agency-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-morrow-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto body shop morrow ga",
     "slug": "auto-body-shop-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-morrow-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -615,7 +615,7 @@
    {
     "keyword": "tax preparation morrow ga",
     "slug": "tax-preparation-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-morrow-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agents morrow ga",
     "slug": "insurance-agents-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-morrow-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agent morrow ga",
     "slug": "insurance-agent-morrow-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-morrow-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-morrow-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,

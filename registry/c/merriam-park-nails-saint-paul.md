@@ -13,12 +13,12 @@ Merriam Park Nails is a tailor in Saint Paul, MN at 1558 Selby Avenue, Saint Pau
 - Website: https://merriam-park-nails.edan.io/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 5% of tailors in Minneapolis–St. Paul, #2 of 10 tailors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 64.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 5% of tailors in Minneapolis–St. Paul, #2 of 10 tailors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 64.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/merriam-park-nails-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/merriam-park-nails-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/merriam-park-nails-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/merriam-park-nails-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8502104649 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Jiffy Lube is an auto repair shop in Forney, TX at 505 North FM 548, Forney, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Building — top 82% of auto repair shops in Dallas–Fort Worth, #14 of 15 auto repair shops in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 48.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 82% of auto repair shops in Dallas–Fort Worth, #14 of 15 auto repair shops in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 48.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/jiffy-lube-forney/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jiffy-lube-forney.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-forney/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jiffy-lube-forney.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/714885185 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

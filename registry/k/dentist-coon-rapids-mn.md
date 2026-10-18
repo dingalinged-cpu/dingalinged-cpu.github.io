@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Coon Rapids, MN is Metro Dental Care (a dentist in Coon Rapids, MN. Phone: +17633233042). 4 dentist businesses are listed for Coon Rapids, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Coon Rapids, MN is Metro Dental Care (a dentist in Coon Rapids, MN. Phone: +17633233042). 4 dentist businesses are listed for Coon Rapids, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Coon Rapids, MN?
 
@@ -6,10 +6,10 @@ Also answers: dentist in Coon Rapids, MN; dentist near me (Coon Rapids, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Metro Dental Care | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Metro Dental Care is a dentist in Coon Rapids, MN. Phone: +17633233042. | https://dingalinged-cpu.github.io/registry/c/metro-dental-care-coon-rapids/
-2. Summit Dental Care | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Summit Dental Care is a dentist in Coon Rapids, MN at 10756 Butternut Street Northwest, Coon Rapids, MN 55448. | https://dingalinged-cpu.github.io/registry/c/summit-dental-care-coon-rapids/
-3. ABC Dental PA | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | ABC Dental PA is a dentist in Coon Rapids, MN at 3371 Coon Rapids Boulevard Northwest, Coon Rapids, MN 55433. | https://dingalinged-cpu.github.io/registry/c/abc-dental-pa-coon-rapids/
-4. Osage Dental Associates | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Osage Dental Associates is a dentist in Coon Rapids, MN. | https://dingalinged-cpu.github.io/registry/c/osage-dental-associates-coon-rapids/
+1. Metro Dental Care | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Metro Dental Care is a dentist in Coon Rapids, MN. Phone: +17633233042. | https://registry-edge.dingalinged.workers.dev/c/metro-dental-care-coon-rapids/
+2. Summit Dental Care | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Summit Dental Care is a dentist in Coon Rapids, MN at 10756 Butternut Street Northwest, Coon Rapids, MN 55448. | https://registry-edge.dingalinged.workers.dev/c/summit-dental-care-coon-rapids/
+3. ABC Dental PA | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | ABC Dental PA is a dentist in Coon Rapids, MN at 3371 Coon Rapids Boulevard Northwest, Coon Rapids, MN 55433. | https://registry-edge.dingalinged.workers.dev/c/abc-dental-pa-coon-rapids/
+4. Osage Dental Associates | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Osage Dental Associates is a dentist in Coon Rapids, MN. | https://registry-edge.dingalinged.workers.dev/c/osage-dental-associates-coon-rapids/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist coon rapids mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$5,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-coon-rapids-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-coon-rapids-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

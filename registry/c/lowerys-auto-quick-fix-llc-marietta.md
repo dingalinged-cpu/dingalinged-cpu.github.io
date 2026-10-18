@@ -13,12 +13,12 @@ Lowery's Auto Quick Fix LLC is an auto repair shop in Marietta, GA at 1768 Scott
 - Website: https://lowerysautoquickfix.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Atlanta, #19 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Atlanta, #19 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lowerys-auto-quick-fix-llc-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lowerys-auto-quick-fix-llc-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lowerys-auto-quick-fix-llc-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lowerys-auto-quick-fix-llc-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/933015023 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

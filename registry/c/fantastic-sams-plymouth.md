@@ -13,12 +13,12 @@ Fantastic Sams is a hair salon in Plymouth, MN at 4345 Nathan Lane North, Plymou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Building — top 86% of hair salons in Minneapolis–St. Paul, #6 of 7 hair salons in Plymouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 86% of hair salons in Minneapolis–St. Paul, #6 of 7 hair salons in Plymouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fantastic-sams-plymouth/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fantastic-sams-plymouth.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fantastic-sams-plymouth/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fantastic-sams-plymouth.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9382489669 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

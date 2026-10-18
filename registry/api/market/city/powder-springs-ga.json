@@ -2,7 +2,7 @@
  "title": "Keyword market data: Powder Springs, GA",
  "description": "Top Powder Springs, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Powder Springs, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist powder springs ga",
     "slug": "dentist-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-powder-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym powder springs ga",
     "slug": "gym-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-powder-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon powder springs ga",
     "slug": "hair-salon-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-powder-springs-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -56,7 +56,7 @@
    {
     "keyword": "tire shop powder springs ga",
     "slug": "tire-shop-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-powder-springs-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -71,7 +71,7 @@
    {
     "keyword": "dog groomer powder springs ga",
     "slug": "dog-groomer-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-powder-springs-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut powder springs ga",
     "slug": "haircut-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-powder-springs-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tax preparation powder springs ga",
     "slug": "tax-preparation-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-powder-springs-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -116,7 +116,7 @@
    {
     "keyword": "tax preparer powder springs ga",
     "slug": "tax-preparer-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-powder-springs-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -133,7 +133,7 @@
    {
     "keyword": "storage units powder springs ga",
     "slug": "storage-units-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-powder-springs-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -148,7 +148,7 @@
    {
     "keyword": "event venues powder springs ga",
     "slug": "event-venues-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-powder-springs-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -163,7 +163,7 @@
    {
     "keyword": "tax preparer powder springs ga",
     "slug": "tax-preparer-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-powder-springs-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -178,7 +178,7 @@
    {
     "keyword": "preschool powder springs ga",
     "slug": "preschool-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-powder-springs-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -193,7 +193,7 @@
    {
     "keyword": "therapist powder springs ga",
     "slug": "therapist-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-powder-springs-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -208,7 +208,7 @@
    {
     "keyword": "dentist powder springs ga",
     "slug": "dentist-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-powder-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -223,7 +223,7 @@
    {
     "keyword": "haircut powder springs ga",
     "slug": "haircut-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-powder-springs-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -238,7 +238,7 @@
    {
     "keyword": "tire shop powder springs ga",
     "slug": "tire-shop-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-powder-springs-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -253,7 +253,7 @@
    {
     "keyword": "bike shop powder springs ga",
     "slug": "bike-shop-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-powder-springs-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -268,7 +268,7 @@
    {
     "keyword": "liquor store powder springs ga",
     "slug": "liquor-store-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-powder-springs-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -283,7 +283,7 @@
    {
     "keyword": "dog groomer powder springs ga",
     "slug": "dog-groomer-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-powder-springs-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -298,7 +298,7 @@
    {
     "keyword": "tax preparation powder springs ga",
     "slug": "tax-preparation-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-powder-springs-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -313,7 +313,7 @@
    {
     "keyword": "gym powder springs ga",
     "slug": "gym-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-powder-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -328,7 +328,7 @@
    {
     "keyword": "hair salon powder springs ga",
     "slug": "hair-salon-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-powder-springs-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -345,7 +345,7 @@
    {
     "keyword": "dentist powder springs ga",
     "slug": "dentist-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-powder-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -360,7 +360,7 @@
    {
     "keyword": "gym powder springs ga",
     "slug": "gym-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-powder-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -375,7 +375,7 @@
    {
     "keyword": "tire shop powder springs ga",
     "slug": "tire-shop-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-powder-springs-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -390,7 +390,7 @@
    {
     "keyword": "dog groomer powder springs ga",
     "slug": "dog-groomer-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-powder-springs-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -405,7 +405,7 @@
    {
     "keyword": "haircut powder springs ga",
     "slug": "haircut-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-powder-springs-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -420,7 +420,7 @@
    {
     "keyword": "hair salon powder springs ga",
     "slug": "hair-salon-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-powder-springs-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -435,7 +435,7 @@
    {
     "keyword": "tax preparer powder springs ga",
     "slug": "tax-preparer-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-powder-springs-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -450,7 +450,7 @@
    {
     "keyword": "tax preparation powder springs ga",
     "slug": "tax-preparation-powder-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-powder-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-powder-springs-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

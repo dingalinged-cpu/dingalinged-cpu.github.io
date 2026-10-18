@@ -1,4 +1,4 @@
-The top unpaid gym listing for Forney, TX is Crossfit South Forney (a gym in Forney, TX at 12019 Lewis Circle, Forney, TX 75126). 4 gym businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Forney, TX is Crossfit South Forney (a gym in Forney, TX at 12019 Lewis Circle, Forney, TX 75126). 4 gym businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Forney, TX?
 
@@ -6,10 +6,10 @@ Also answers: gym in Forney, TX; gym near me (Forney, TX); best gym Forney, TX; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crossfit South Forney | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Crossfit South Forney is a gym in Forney, TX at 12019 Lewis Circle, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/crossfit-south-forney-forney/
-2. Tracy's Training | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Tracy's Training is a gym in Forney, TX at 10478 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/tracys-training-forney/
-3. Anytime Fitness | Organic #3 | Pulse Score 49.7/100 (Building, #3 in city) | Anytime Fitness is a gym in Forney, TX at 1012 East US Highway 80 #C, Forney, TX 75126. Phone: +19725521038. Website: https://www.anytimefitness.com/gyms/1271/forney-tx-75126/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-forney/
-4. Snap Fitness | Organic #4 | Pulse Score 46.3/100 (Building, #4 in city) | Snap Fitness is a gym in Forney, TX at 1104 Ranch Road #111, Forney, TX 75126. Website: https://www.snapfitness.com/us/gyms/forney-tx-1102-ranch-rd. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-forney/
+1. Crossfit South Forney | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Crossfit South Forney is a gym in Forney, TX at 12019 Lewis Circle, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/crossfit-south-forney-forney/
+2. Tracy's Training | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Tracy's Training is a gym in Forney, TX at 10478 West US Highway 80, Forney, TX 75126. | https://registry-edge.dingalinged.workers.dev/c/tracys-training-forney/
+3. Anytime Fitness | Organic #3 | Pulse Score 49.7/100 (Building, #3 in city) | Anytime Fitness is a gym in Forney, TX at 1012 East US Highway 80 #C, Forney, TX 75126. Phone: +19725521038. Website: https://www.anytimefitness.com/gyms/1271/forney-tx-75126/. | https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-forney/
+4. Snap Fitness | Organic #4 | Pulse Score 46.3/100 (Building, #4 in city) | Snap Fitness is a gym in Forney, TX at 1104 Ranch Road #111, Forney, TX 75126. Website: https://www.snapfitness.com/us/gyms/forney-tx-1102-ranch-rd. | https://registry-edge.dingalinged.workers.dev/c/snap-fitness-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym forney tx | category: Fitness | industry benchmark: Health & Fitness
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$5,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-forney-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-forney-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

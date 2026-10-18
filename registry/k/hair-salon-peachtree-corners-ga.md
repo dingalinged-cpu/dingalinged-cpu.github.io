@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Peachtree Corners, GA is Omega By Gigi Hair Braiding (a hair salon in Peachtree Corners, GA at 3466 Holcomb Bridge Road #O, Peachtree Corners, GA. Phone: +16783000225). 4 hair salon businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Peachtree Corners, GA is Omega By Gigi Hair Braiding (a hair salon in Peachtree Corners, GA at 3466 Holcomb Bridge Road #O, Peachtree Corners, GA. Phone: +16783000225). 4 hair salon businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Peachtree Corners, GA?
 
@@ -6,10 +6,10 @@ Also answers: hair salon in Peachtree Corners, GA; hair salon near me (Peachtree
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Omega By Gigi Hair Braiding | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | Omega By Gigi Hair Braiding is a hair salon in Peachtree Corners, GA at 3466 Holcomb Bridge Road #O, Peachtree Corners, GA. Phone: +16783000225. | https://dingalinged-cpu.github.io/registry/c/omega-by-gigi-hair-braiding-peachtree-corners/
-2. Suite Artistry Salon | Organic #2 | Pulse Score 59.5/100 (Fair, #2 in city) | Suite Artistry Salon is a hair salon in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/suite-artistry-salon-peachtree-corners/
-3. Great Clips | Organic #3 | Pulse Score 43.9/100 (Building, #3 in city) | Great Clips is a hair salon in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-peachtree-corners/
-4. Snip-its | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Snip-its is a hair salon in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/snip-its-peachtree-corners/
+1. Omega By Gigi Hair Braiding | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | Omega By Gigi Hair Braiding is a hair salon in Peachtree Corners, GA at 3466 Holcomb Bridge Road #O, Peachtree Corners, GA. Phone: +16783000225. | https://registry-edge.dingalinged.workers.dev/c/omega-by-gigi-hair-braiding-peachtree-corners/
+2. Suite Artistry Salon | Organic #2 | Pulse Score 59.5/100 (Fair, #2 in city) | Suite Artistry Salon is a hair salon in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/suite-artistry-salon-peachtree-corners/
+3. Great Clips | Organic #3 | Pulse Score 43.9/100 (Building, #3 in city) | Great Clips is a hair salon in Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/great-clips-peachtree-corners/
+4. Snip-its | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Snip-its is a hair salon in Peachtree Corners, GA. | https://registry-edge.dingalinged.workers.dev/c/snip-its-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon peachtree corners ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$880 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/hair-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-peachtree-corners-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-peachtree-corners-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

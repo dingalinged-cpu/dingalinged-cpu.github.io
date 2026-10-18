@@ -2,7 +2,7 @@
  "title": "Keyword market data: Rockwall, TX",
  "description": "Top Rockwall, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Rockwall, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 79,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage rockwall tx",
     "slug": "massage-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-rockwall-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash rockwall tx",
     "slug": "car-wash-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-rockwall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist rockwall tx",
     "slug": "dentist-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rockwall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym rockwall tx",
     "slug": "gym-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-rockwall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon rockwall tx",
     "slug": "hair-salon-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-rockwall-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon rockwall tx",
     "slug": "nail-salon-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-rockwall-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "barber shop rockwall tx",
     "slug": "barber-shop-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-rockwall-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic rockwall tx",
     "slug": "mechanic-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rockwall-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop rockwall tx",
     "slug": "tire-shop-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rockwall-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet rockwall tx",
     "slug": "vet-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-rockwall-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog groomer rockwall tx",
     "slug": "dog-groomer-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-rockwall-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut rockwall tx",
     "slug": "haircut-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rockwall-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair rockwall tx",
     "slug": "auto-repair-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rockwall-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -206,7 +206,7 @@
    {
     "keyword": "pilates rockwall tx",
     "slug": "pilates-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-rockwall-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -221,7 +221,7 @@
    {
     "keyword": "chiropractor rockwall tx",
     "slug": "chiropractor-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-rockwall-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair rockwall tx",
     "slug": "hvac-repair-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-rockwall-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -253,7 +253,7 @@
    {
     "keyword": "painters rockwall tx",
     "slug": "painters-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/painters-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-rockwall-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofing contractor rockwall tx",
     "slug": "roofing-contractor-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-rockwall-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -283,7 +283,7 @@
    {
     "keyword": "roofer rockwall tx",
     "slug": "roofer-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-rockwall-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -298,7 +298,7 @@
    {
     "keyword": "attorney rockwall tx",
     "slug": "attorney-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-rockwall-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -313,7 +313,7 @@
    {
     "keyword": "lawyer rockwall tx",
     "slug": "lawyer-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-rockwall-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -328,7 +328,7 @@
    {
     "keyword": "flooring companies rockwall tx",
     "slug": "flooring-companies-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-rockwall-tx/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -343,7 +343,7 @@
    {
     "keyword": "heating and air rockwall tx",
     "slug": "heating-and-air-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-rockwall-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "storage units rockwall tx",
     "slug": "storage-units-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-rockwall-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -373,7 +373,7 @@
    {
     "keyword": "bakery rockwall tx",
     "slug": "bakery-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-rockwall-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "event venues rockwall tx",
     "slug": "event-venues-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-rockwall-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -403,7 +403,7 @@
    {
     "keyword": "florist rockwall tx",
     "slug": "florist-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-rockwall-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -418,7 +418,7 @@
    {
     "keyword": "photographer rockwall tx",
     "slug": "photographer-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-rockwall-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -433,7 +433,7 @@
    {
     "keyword": "dance studio rockwall tx",
     "slug": "dance-studio-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-rockwall-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -448,7 +448,7 @@
    {
     "keyword": "martial arts rockwall tx",
     "slug": "martial-arts-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-rockwall-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage rockwall tx",
     "slug": "massage-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-rockwall-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist rockwall tx",
     "slug": "dentist-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rockwall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash rockwall tx",
     "slug": "car-wash-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-rockwall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym rockwall tx",
     "slug": "gym-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-rockwall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic rockwall tx",
     "slug": "mechanic-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rockwall-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop rockwall tx",
     "slug": "tire-shop-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rockwall-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet rockwall tx",
     "slug": "vet-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-rockwall-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "pilates rockwall tx",
     "slug": "pilates-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-rockwall-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -585,7 +585,7 @@
    {
     "keyword": "dog groomer rockwall tx",
     "slug": "dog-groomer-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-rockwall-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut rockwall tx",
     "slug": "haircut-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rockwall-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -615,7 +615,7 @@
    {
     "keyword": "roofing contractor rockwall tx",
     "slug": "roofing-contractor-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-rockwall-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -630,7 +630,7 @@
    {
     "keyword": "auto repair rockwall tx",
     "slug": "auto-repair-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rockwall-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -645,7 +645,7 @@
    {
     "keyword": "hvac repair rockwall tx",
     "slug": "hvac-repair-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-rockwall-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -660,7 +660,7 @@
    {
     "keyword": "chiropractor rockwall tx",
     "slug": "chiropractor-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-rockwall-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -675,7 +675,7 @@
    {
     "keyword": "spa rockwall tx",
     "slug": "spa-rockwall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-rockwall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-rockwall-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,

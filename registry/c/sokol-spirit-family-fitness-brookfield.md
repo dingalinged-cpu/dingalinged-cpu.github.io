@@ -13,12 +13,12 @@ Sokol Spirit Family Fitness is a gym in Brookfield, IL at 3909 Prairie Avenue, B
 - Website: https://www.sokolspirit.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 18% of gyms in Chicago, #1 of 3 gyms in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 18% of gyms in Chicago, #1 of 3 gyms in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 53.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sokol-spirit-family-fitness-brookfield/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sokol-spirit-family-fitness-brookfield.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sokol-spirit-family-fitness-brookfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sokol-spirit-family-fitness-brookfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/779995031 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

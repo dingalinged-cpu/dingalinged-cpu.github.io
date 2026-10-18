@@ -13,12 +13,12 @@ Azalea Acupuncture+Aesthetics is an acupuncture clinic in Edina, MN at 4388 Fran
 - Website: https://www.azaleampls.com/
 - Email: hello@azaleampls.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 31% of acupuncture clinics in Minneapolis–St. Paul, #1 of 1 acupuncture clinics in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 31% of acupuncture clinics in Minneapolis–St. Paul, #1 of 1 acupuncture clinics in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 49.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/azalea-acupuncture-aesthetics-edina/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/azalea-acupuncture-aesthetics-edina.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/azalea-acupuncture-aesthetics-edina/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/azalea-acupuncture-aesthetics-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12134674647 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Public Storage is a self-storage facility in Naperville, IL at 1556 West Ogden A
 - Website: https://www.publicstorage.com/self-storage-il-naperville/1009
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa, Su 09:30-17:00
-- Pulse Score: 52.1/100 — Fair — top 7% of self-storage facilitys in Chicago, #1 of 5 self-storage facilitys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 72.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.1/100 — Fair — top 7% of self-storage facilitys in Chicago, #1 of 5 self-storage facilitys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 72.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-naperville-n9030260841/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-naperville-n9030260841.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-naperville-n9030260841/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-naperville-n9030260841.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9030260841 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

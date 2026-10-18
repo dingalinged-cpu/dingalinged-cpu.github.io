@@ -2,7 +2,7 @@
  "title": "Keyword market data: New Brighton, MN",
  "description": "Top New Brighton, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "New Brighton, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 32,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash new brighton mn",
     "slug": "car-wash-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-new-brighton-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist new brighton mn",
     "slug": "dentist-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-new-brighton-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym new brighton mn",
     "slug": "gym-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-new-brighton-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon new brighton mn",
     "slug": "hair-salon-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-new-brighton-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon new brighton mn",
     "slug": "nail-salon-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-new-brighton-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -86,7 +86,7 @@
    {
     "keyword": "plumber new brighton mn",
     "slug": "plumber-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-new-brighton-mn/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -101,7 +101,7 @@
    {
     "keyword": "barber shop new brighton mn",
     "slug": "barber-shop-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-new-brighton-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic new brighton mn",
     "slug": "mechanic-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-new-brighton-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet new brighton mn",
     "slug": "vet-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-new-brighton-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer new brighton mn",
     "slug": "dog-groomer-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-new-brighton-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut new brighton mn",
     "slug": "haircut-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-new-brighton-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair new brighton mn",
     "slug": "auto-repair-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-new-brighton-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -191,7 +191,7 @@
    {
     "keyword": "financial advisor new brighton mn",
     "slug": "financial-advisor-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-new-brighton-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -206,7 +206,7 @@
    {
     "keyword": "roofing contractor new brighton mn",
     "slug": "roofing-contractor-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-new-brighton-mn/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agency new brighton mn",
     "slug": "insurance-agency-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-new-brighton-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -238,7 +238,7 @@
    {
     "keyword": "plumbing services new brighton mn",
     "slug": "plumbing-services-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-new-brighton-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumber new brighton mn",
     "slug": "plumber-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-new-brighton-mn/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofing contractor new brighton mn",
     "slug": "roofing-contractor-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-new-brighton-mn/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -283,7 +283,7 @@
    {
     "keyword": "roofer new brighton mn",
     "slug": "roofer-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-new-brighton-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -298,7 +298,7 @@
    {
     "keyword": "attorney new brighton mn",
     "slug": "attorney-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-new-brighton-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -313,7 +313,7 @@
    {
     "keyword": "lawyer new brighton mn",
     "slug": "lawyer-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-new-brighton-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -328,7 +328,7 @@
    {
     "keyword": "concrete contractor new brighton mn",
     "slug": "concrete-contractor-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/concrete-contractor-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-new-brighton-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbers new brighton mn",
     "slug": "plumbers-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-new-brighton-mn/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 40.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "bakery new brighton mn",
     "slug": "bakery-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-new-brighton-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -373,7 +373,7 @@
    {
     "keyword": "martial arts new brighton mn",
     "slug": "martial-arts-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-new-brighton-mn/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3300,
@@ -388,7 +388,7 @@
    {
     "keyword": "tax preparer new brighton mn",
     "slug": "tax-preparer-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-new-brighton-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -403,7 +403,7 @@
    {
     "keyword": "general contractor new brighton mn",
     "slug": "general-contractor-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/general-contractor-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-new-brighton-mn/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -418,7 +418,7 @@
    {
     "keyword": "dentist new brighton mn",
     "slug": "dentist-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-new-brighton-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -433,7 +433,7 @@
    {
     "keyword": "haircut new brighton mn",
     "slug": "haircut-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-new-brighton-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -448,7 +448,7 @@
    {
     "keyword": "auto repair new brighton mn",
     "slug": "auto-repair-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-new-brighton-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -465,7 +465,7 @@
    {
     "keyword": "plumber new brighton mn",
     "slug": "plumber-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-new-brighton-mn/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist new brighton mn",
     "slug": "dentist-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-new-brighton-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash new brighton mn",
     "slug": "car-wash-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-new-brighton-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym new brighton mn",
     "slug": "gym-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-new-brighton-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic new brighton mn",
     "slug": "mechanic-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-new-brighton-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet new brighton mn",
     "slug": "vet-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-new-brighton-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -555,7 +555,7 @@
    {
     "keyword": "dog groomer new brighton mn",
     "slug": "dog-groomer-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-new-brighton-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut new brighton mn",
     "slug": "haircut-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-new-brighton-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -585,7 +585,7 @@
    {
     "keyword": "roofing contractor new brighton mn",
     "slug": "roofing-contractor-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-new-brighton-mn/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair new brighton mn",
     "slug": "auto-repair-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-new-brighton-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -615,7 +615,7 @@
    {
     "keyword": "hair salon new brighton mn",
     "slug": "hair-salon-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-new-brighton-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -630,7 +630,7 @@
    {
     "keyword": "financial advisor new brighton mn",
     "slug": "financial-advisor-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-new-brighton-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -645,7 +645,7 @@
    {
     "keyword": "attorney new brighton mn",
     "slug": "attorney-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-new-brighton-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -660,7 +660,7 @@
    {
     "keyword": "plumbing services new brighton mn",
     "slug": "plumbing-services-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-new-brighton-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -675,7 +675,7 @@
    {
     "keyword": "nail salon new brighton mn",
     "slug": "nail-salon-new-brighton-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-new-brighton-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-new-brighton-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,

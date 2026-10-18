@@ -13,12 +13,12 @@ Public Storage is a self-storage facility in Berwyn, IL at 2801 South Harlem Ave
 - Website: https://www.publicstorage.com/self-storage-il-berwyn/1737.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.3/100 — Building — top 14% of self-storage facilitys in Chicago, #1 of 2 self-storage facilitys in Berwyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 66.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 14% of self-storage facilitys in Chicago, #1 of 2 self-storage facilitys in Berwyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-berwyn/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-berwyn.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-berwyn/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-berwyn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/624650729 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

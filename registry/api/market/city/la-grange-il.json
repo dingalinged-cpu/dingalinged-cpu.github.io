@@ -2,7 +2,7 @@
  "title": "Keyword market data: La Grange, IL",
  "description": "Top La Grange, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "La Grange, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 53,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage la grange il",
     "slug": "massage-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-la-grange-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash la grange il",
     "slug": "car-wash-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-la-grange-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist la grange il",
     "slug": "dentist-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-la-grange-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym la grange il",
     "slug": "gym-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-la-grange-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon la grange il",
     "slug": "hair-salon-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-la-grange-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon la grange il",
     "slug": "nail-salon-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-la-grange-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic la grange il",
     "slug": "mechanic-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-la-grange-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop la grange il",
     "slug": "tire-shop-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-la-grange-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet la grange il",
     "slug": "vet-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-la-grange-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer la grange il",
     "slug": "dog-groomer-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-la-grange-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut la grange il",
     "slug": "haircut-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-la-grange-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair la grange il",
     "slug": "auto-repair-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-la-grange-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -191,7 +191,7 @@
    {
     "keyword": "pilates la grange il",
     "slug": "pilates-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-la-grange-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -206,7 +206,7 @@
    {
     "keyword": "chiropractor la grange il",
     "slug": "chiropractor-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-la-grange-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -221,7 +221,7 @@
    {
     "keyword": "financial advisor la grange il",
     "slug": "financial-advisor-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-la-grange-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney la grange il",
     "slug": "attorney-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-la-grange-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer la grange il",
     "slug": "lawyer-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-la-grange-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -268,7 +268,7 @@
    {
     "keyword": "window replacement la grange il",
     "slug": "window-replacement-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-replacement-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-la-grange-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "flooring companies la grange il",
     "slug": "flooring-companies-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-la-grange-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -298,7 +298,7 @@
    {
     "keyword": "interior designer la grange il",
     "slug": "interior-designer-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/interior-designer-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/interior-designer-la-grange-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -313,7 +313,7 @@
    {
     "keyword": "locksmith la grange il",
     "slug": "locksmith-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-la-grange-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -328,7 +328,7 @@
    {
     "keyword": "bakery la grange il",
     "slug": "bakery-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-la-grange-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "event venues la grange il",
     "slug": "event-venues-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-la-grange-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -358,7 +358,7 @@
    {
     "keyword": "florist la grange il",
     "slug": "florist-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-la-grange-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -373,7 +373,7 @@
    {
     "keyword": "photographer la grange il",
     "slug": "photographer-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-la-grange-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -388,7 +388,7 @@
    {
     "keyword": "dance studio la grange il",
     "slug": "dance-studio-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-la-grange-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -403,7 +403,7 @@
    {
     "keyword": "pilates la grange il",
     "slug": "pilates-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-la-grange-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -418,7 +418,7 @@
    {
     "keyword": "graphic designer la grange il",
     "slug": "graphic-designer-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/graphic-designer-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/graphic-designer-la-grange-il/",
     "us_monthly_searches": 8100,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 220,
@@ -433,7 +433,7 @@
    {
     "keyword": "tax preparer la grange il",
     "slug": "tax-preparer-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-la-grange-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -448,7 +448,7 @@
    {
     "keyword": "driving school la grange il",
     "slug": "driving-school-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-la-grange-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage la grange il",
     "slug": "massage-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-la-grange-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist la grange il",
     "slug": "dentist-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-la-grange-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash la grange il",
     "slug": "car-wash-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-la-grange-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym la grange il",
     "slug": "gym-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-la-grange-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic la grange il",
     "slug": "mechanic-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-la-grange-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop la grange il",
     "slug": "tire-shop-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-la-grange-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet la grange il",
     "slug": "vet-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-la-grange-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -570,7 +570,7 @@
    {
     "keyword": "locksmith la grange il",
     "slug": "locksmith-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-la-grange-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -585,7 +585,7 @@
    {
     "keyword": "pilates la grange il",
     "slug": "pilates-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-la-grange-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -600,7 +600,7 @@
    {
     "keyword": "dog groomer la grange il",
     "slug": "dog-groomer-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-la-grange-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -615,7 +615,7 @@
    {
     "keyword": "haircut la grange il",
     "slug": "haircut-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-la-grange-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -630,7 +630,7 @@
    {
     "keyword": "auto repair la grange il",
     "slug": "auto-repair-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-la-grange-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -645,7 +645,7 @@
    {
     "keyword": "chiropractor la grange il",
     "slug": "chiropractor-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-la-grange-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -660,7 +660,7 @@
    {
     "keyword": "financial advisor la grange il",
     "slug": "financial-advisor-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-la-grange-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -675,7 +675,7 @@
    {
     "keyword": "hair salon la grange il",
     "slug": "hair-salon-la-grange-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-la-grange-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-la-grange-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,

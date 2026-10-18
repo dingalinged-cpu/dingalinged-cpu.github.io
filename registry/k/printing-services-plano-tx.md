@@ -1,4 +1,4 @@
-The top unpaid printing services listing for Plano, TX is FedEx Office (a printing service in Plano, TX at 5000 West Park Boulevard #102, Plano, TX. Phone: +19729640801. Website: https://local.fedex.com/en-us/tx/plano/office-3114). 6 printing services businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Plano, TX is FedEx Office (a printing service in Plano, TX at 5000 West Park Boulevard #102, Plano, TX. Phone: +19729640801. Website: https://local.fedex.com/en-us/tx/plano/office-3114). 6 printing services businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Plano, TX?
 
@@ -6,12 +6,12 @@ Also answers: printing services in Plano, TX; printing services near me (Plano, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FedEx Office | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | FedEx Office is a printing service in Plano, TX at 5000 West Park Boulevard #102, Plano, TX. Phone: +19729640801. Website: https://local.fedex.com/en-us/tx/plano/office-3114. | https://dingalinged-cpu.github.io/registry/c/fedex-office-plano/
-2. The UPS Store | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | The UPS Store is a printing service in Plano, TX at 3308 Preston Road #350, Plano, TX 75093. Website: https://www.ups.com/. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-plano-n13712519702/
-3. The UPS Store | Organic #3 | Pulse Score 46.1/100 (Building, #3 in city) | The UPS Store is a printing service in Plano, TX at 3100 Independence Parkway #311, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-plano-n13792405238/
-4. FedEx Office | Organic #4 | Pulse Score 45.9/100 (Building, #4 in city) | FedEx Office is a printing service in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-plano-w291924008/
-5. FedEx Office | Organic #5 | Pulse Score 45.5/100 (Building, #5 in city) | FedEx Office is a printing service in Plano, TX at 4152 West Spring Creek Parkway #100, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-plano-n13757574504/
-6. The UPS Store | Organic #6 | Pulse Score 44.5/100 (Building, #6 in city) | The UPS Store is a printing service in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-plano/
+1. FedEx Office | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | FedEx Office is a printing service in Plano, TX at 5000 West Park Boulevard #102, Plano, TX. Phone: +19729640801. Website: https://local.fedex.com/en-us/tx/plano/office-3114. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-plano/
+2. The UPS Store | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | The UPS Store is a printing service in Plano, TX at 3308 Preston Road #350, Plano, TX 75093. Website: https://www.ups.com/. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-plano-n13712519702/
+3. The UPS Store | Organic #3 | Pulse Score 46.1/100 (Building, #3 in city) | The UPS Store is a printing service in Plano, TX at 3100 Independence Parkway #311, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-plano-n13792405238/
+4. FedEx Office | Organic #4 | Pulse Score 45.9/100 (Building, #4 in city) | FedEx Office is a printing service in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-plano-w291924008/
+5. FedEx Office | Organic #5 | Pulse Score 45.5/100 (Building, #5 in city) | FedEx Office is a printing service in Plano, TX at 4152 West Spring Creek Parkway #100, Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-plano-n13757574504/
+6. The UPS Store | Organic #6 | Pulse Score 44.5/100 (Building, #6 in city) | The UPS Store is a printing service in Plano, TX. | https://registry-edge.dingalinged.workers.dev/c/the-ups-store-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services plano tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$280 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/printing-services.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#printing-services-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/printing-services.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#printing-services-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

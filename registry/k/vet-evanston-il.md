@@ -1,4 +1,4 @@
-The top unpaid vet listing for Evanston, IL is Fox Animal Hospital (a veterinarian in Evanston, IL at 2107 Crawford Avenue, Evanston, IL 60201. Website: https://foxanimalhospital.com/). 4 vet businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Evanston, IL is Fox Animal Hospital (a veterinarian in Evanston, IL at 2107 Crawford Avenue, Evanston, IL 60201. Website: https://foxanimalhospital.com/). 4 vet businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Evanston, IL?
 
@@ -6,10 +6,10 @@ Also answers: vet in Evanston, IL; vet near me (Evanston, IL); best vet Evanston
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fox Animal Hospital | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Fox Animal Hospital is a veterinarian in Evanston, IL at 2107 Crawford Avenue, Evanston, IL 60201. Website: https://foxanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/fox-animal-hospital-evanston/
-2. Howard Street Animal Hospital | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Howard Street Animal Hospital is a veterinarian in Evanston, IL at 715 Howard Street, Evanston, IL 60202. Website: https://howard-hospital.edan.io/. | https://dingalinged-cpu.github.io/registry/c/howard-street-animal-hospital-evanston/
-3. Bramer Animal Hospital | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Bramer Animal Hospital is a veterinarian in Evanston, IL at 1021 Davis Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/bramer-animal-hospital-evanston/
-4. Evanston Animal Hospital | Organic #4 | Pulse Score 56.1/100 (Unrated, #4 in city) | Evanston Animal Hospital is a veterinarian in Evanston, IL at 516 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/evanston-animal-hospital-evanston/
+1. Fox Animal Hospital | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Fox Animal Hospital is a veterinarian in Evanston, IL at 2107 Crawford Avenue, Evanston, IL 60201. Website: https://foxanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/fox-animal-hospital-evanston/
+2. Howard Street Animal Hospital | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Howard Street Animal Hospital is a veterinarian in Evanston, IL at 715 Howard Street, Evanston, IL 60202. Website: https://howard-hospital.edan.io/. | https://registry-edge.dingalinged.workers.dev/c/howard-street-animal-hospital-evanston/
+3. Bramer Animal Hospital | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Bramer Animal Hospital is a veterinarian in Evanston, IL at 1021 Davis Street, Evanston, IL 60201. | https://registry-edge.dingalinged.workers.dev/c/bramer-animal-hospital-evanston/
+4. Evanston Animal Hospital | Organic #4 | Pulse Score 56.1/100 (Unrated, #4 in city) | Evanston Animal Hospital is a veterinarian in Evanston, IL at 516 Dempster Street, Evanston, IL 60202. | https://registry-edge.dingalinged.workers.dev/c/evanston-animal-hospital-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet evanston il | category: Pets | industry benchmark: Animals & Pets
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$4,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-evanston-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

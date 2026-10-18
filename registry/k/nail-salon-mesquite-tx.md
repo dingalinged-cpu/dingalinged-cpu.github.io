@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Mesquite, TX is Bellini Nail Bar (a nail salon in Mesquite, TX at 1815 Range Drive #200, Mesquite, TX 75149). 7 nail salon businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Mesquite, TX is Bellini Nail Bar (a nail salon in Mesquite, TX at 1815 Range Drive #200, Mesquite, TX 75149). 7 nail salon businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Mesquite, TX?
 
@@ -6,13 +6,13 @@ Also answers: nail salon in Mesquite, TX; nail salon near me (Mesquite, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bellini Nail Bar | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Bellini Nail Bar is a nail salon in Mesquite, TX at 1815 Range Drive #200, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/bellini-nail-bar-mesquite/
-2. Nice's Nails | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Nice's Nails is a nail salon in Mesquite, TX at 1830 Range Drive #110, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/nices-nails-mesquite/
-3. Red Salon | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Red Salon is a nail salon in Mesquite, TX at 1300 North Town East Boulevard #105, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/red-salon-mesquite/
-4. Rivera's Salon | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Rivera's Salon is a nail salon in Mesquite, TX at 1426 North Galloway Avenue, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/riveras-salon-mesquite/
-5. Rosey Nails 2 | Organic #5 | Pulse Score 57.2/100 (Unrated, #5 in city) | Rosey Nails 2 is a nail salon in Mesquite, TX at 500 North Galloway Avenue #54, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/rosey-nails-2-mesquite/
-6. Swank Salon | Organic #6 | Pulse Score 57.2/100 (Unrated, #6 in city) | Swank Salon is a nail salon in Mesquite, TX at 202 South Carmack Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/swank-salon-mesquite/
-7. Zuri Nails & Spa | Organic #7 | Pulse Score 57.2/100 (Unrated, #7 in city) | Zuri Nails & Spa is a nail salon in Mesquite, TX at 1433 South Belt Line Road #120, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/zuri-nails-and-spa-mesquite/
+1. Bellini Nail Bar | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Bellini Nail Bar is a nail salon in Mesquite, TX at 1815 Range Drive #200, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/bellini-nail-bar-mesquite/
+2. Nice's Nails | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Nice's Nails is a nail salon in Mesquite, TX at 1830 Range Drive #110, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/nices-nails-mesquite/
+3. Red Salon | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Red Salon is a nail salon in Mesquite, TX at 1300 North Town East Boulevard #105, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/red-salon-mesquite/
+4. Rivera's Salon | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Rivera's Salon is a nail salon in Mesquite, TX at 1426 North Galloway Avenue, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/riveras-salon-mesquite/
+5. Rosey Nails 2 | Organic #5 | Pulse Score 57.2/100 (Unrated, #5 in city) | Rosey Nails 2 is a nail salon in Mesquite, TX at 500 North Galloway Avenue #54, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/rosey-nails-2-mesquite/
+6. Swank Salon | Organic #6 | Pulse Score 57.2/100 (Unrated, #6 in city) | Swank Salon is a nail salon in Mesquite, TX at 202 South Carmack Street, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/swank-salon-mesquite/
+7. Zuri Nails & Spa | Organic #7 | Pulse Score 57.2/100 (Unrated, #7 in city) | Zuri Nails & Spa is a nail salon in Mesquite, TX at 1433 South Belt Line Road #120, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/zuri-nails-and-spa-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon mesquite tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$870 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-mesquite-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-mesquite-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

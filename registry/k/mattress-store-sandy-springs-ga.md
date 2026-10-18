@@ -1,4 +1,4 @@
-The top unpaid mattress store listing for Sandy Springs, GA is Mattress Firm (a mattress store in Atlanta, GA at 1155 Mount Vernon Highway #490, Atlanta, GA 30338. Phone: +17703995115. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007002/). 2 mattress store businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Sandy Springs, GA is Mattress Firm (a mattress store in Atlanta, GA at 1155 Mount Vernon Highway #490, Atlanta, GA 30338. Phone: +17703995115. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007002/). 2 mattress store businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Sandy Springs, GA?
 
@@ -6,8 +6,8 @@ Also answers: mattress store in Sandy Springs, GA; mattress store near me (Sandy
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 45.5/100 (Building, #5 in city) | Mattress Firm is a mattress store in Atlanta, GA at 1155 Mount Vernon Highway #490, Atlanta, GA 30338. Phone: +17703995115. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007002/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-atlanta-n12079155842/
-2. Mattress Firm | Organic #2 | Pulse Score 45.5/100 (Building, #1 in city) | Mattress Firm is a mattress store in Sandy Springs, GA at 6015 Roswell Road, Sandy Springs, GA 30328. Phone: +14042568089. Website: https://www.mattressfirm.com/en-us/stores/ga/sandy-springs/007064/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-sandy-springs/
+1. Mattress Firm | Organic #1 | Pulse Score 45.5/100 (Building, #5 in city) | Mattress Firm is a mattress store in Atlanta, GA at 1155 Mount Vernon Highway #490, Atlanta, GA 30338. Phone: +17703995115. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007002/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-atlanta-n12079155842/
+2. Mattress Firm | Organic #2 | Pulse Score 45.5/100 (Building, #1 in city) | Mattress Firm is a mattress store in Sandy Springs, GA at 6015 Roswell Road, Sandy Springs, GA 30328. Phone: +14042568089. Website: https://www.mattressfirm.com/en-us/stores/ga/sandy-springs/007064/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-sandy-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store sandy springs ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mattress-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mattress-store-sandy-springs-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mattress-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mattress-store-sandy-springs-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

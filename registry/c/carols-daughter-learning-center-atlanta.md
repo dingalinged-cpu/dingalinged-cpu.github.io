@@ -13,12 +13,12 @@ Carol's Daughter Learning Center is a daycare in Atlanta, GA at 222 Pryor Street
 - Website: https://www.majesticacademy2.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-20:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 26% of daycares in Atlanta, #3 of 7 daycares in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 26% of daycares in Atlanta, #3 of 7 daycares in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/carols-daughter-learning-center-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/carols-daughter-learning-center-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/carols-daughter-learning-center-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carols-daughter-learning-center-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/270497420 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

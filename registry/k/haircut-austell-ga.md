@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Austell, GA is Adell's Natural Hair Salon (a hair salon in Austell, GA at Veterans Memorial Highway Southwest, Austell, GA 30168). 5 haircut businesses are listed for Austell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Austell, GA is Adell's Natural Hair Salon (a hair salon in Austell, GA at Veterans Memorial Highway Southwest, Austell, GA 30168). 5 haircut businesses are listed for Austell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Austell, GA?
 
@@ -6,11 +6,11 @@ Also answers: haircut in Austell, GA; haircut near me (Austell, GA); best haircu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adell's Natural Hair Salon | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Adell's Natural Hair Salon is a hair salon in Austell, GA at Veterans Memorial Highway Southwest, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/adells-natural-hair-salon-austell/
-2. Elite Kutz & Stylist | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Elite Kutz & Stylist is a hair salon in Austell, GA at 10146 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/elite-kutz-and-stylist-austell/
-3. Signature Cuts | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Signature Cuts is a hair salon in Austell, GA at 10147 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/signature-cuts-austell/
-4. Weaves Etc | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Weaves Etc is a hair salon in Austell, GA at 10151 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/weaves-etc-austell/
-5. Gents & Lads Barber Shop Parlor | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Gents & Lads Barber Shop Parlor is a hair salon in Austell, GA. | https://dingalinged-cpu.github.io/registry/c/gents-and-lads-barber-shop-parlor-austell/
+1. Adell's Natural Hair Salon | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Adell's Natural Hair Salon is a hair salon in Austell, GA at Veterans Memorial Highway Southwest, Austell, GA 30168. | https://registry-edge.dingalinged.workers.dev/c/adells-natural-hair-salon-austell/
+2. Elite Kutz & Stylist | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Elite Kutz & Stylist is a hair salon in Austell, GA at 10146 Veterans Memorial Highway, Austell, GA 30168. | https://registry-edge.dingalinged.workers.dev/c/elite-kutz-and-stylist-austell/
+3. Signature Cuts | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Signature Cuts is a hair salon in Austell, GA at 10147 Veterans Memorial Highway, Austell, GA 30168. | https://registry-edge.dingalinged.workers.dev/c/signature-cuts-austell/
+4. Weaves Etc | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Weaves Etc is a hair salon in Austell, GA at 10151 Veterans Memorial Highway, Austell, GA 30168. | https://registry-edge.dingalinged.workers.dev/c/weaves-etc-austell/
+5. Gents & Lads Barber Shop Parlor | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Gents & Lads Barber Shop Parlor is a hair salon in Austell, GA. | https://registry-edge.dingalinged.workers.dev/c/gents-and-lads-barber-shop-parlor-austell/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut austell ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-austell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-austell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

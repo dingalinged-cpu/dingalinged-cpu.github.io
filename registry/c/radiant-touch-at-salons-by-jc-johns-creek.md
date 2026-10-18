@@ -13,12 +13,12 @@ Radiant Touch at Salons by JC is a skin care studio in Johns Creek, GA at 10955 
 - Website: https://salonsbyjc.com/salons/radiant-touch-beauty-studio
 - Email: radianttouchbeautystudio@gmail.com
 - Opening hours (OSM syntax): Mo 17:30-20:00; Tu-We 08:00-20:00; Th-Fr 08:00-10:00
-- Pulse Score: 65.4/100 — Good — top 3% of skin care studios in Atlanta, #1 of 1 skin care studios in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 72.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.4/100 — Good — top 3% of skin care studios in Atlanta, #1 of 1 skin care studios in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 72.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/radiant-touch-at-salons-by-jc-johns-creek/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/radiant-touch-at-salons-by-jc-johns-creek.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/radiant-touch-at-salons-by-jc-johns-creek/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/radiant-touch-at-salons-by-jc-johns-creek.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13912383941 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

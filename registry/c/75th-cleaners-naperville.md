@@ -13,12 +13,12 @@
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of dry cleaners in Chicago, #4 of 7 dry cleaners in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of dry cleaners in Chicago, #4 of 7 dry cleaners in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/75th-cleaners-naperville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/75th-cleaners-naperville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/75th-cleaners-naperville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/75th-cleaners-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1339742452 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

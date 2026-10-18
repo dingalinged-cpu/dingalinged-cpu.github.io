@@ -13,12 +13,12 @@ KidSnips Deerfield is a hair salon in Deerfield, IL at 675 Deerfield Road, Deerf
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 32% of hair salons in Chicago, #1 of 1 hair salons in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 32% of hair salons in Chicago, #1 of 1 hair salons in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/kidsnips-deerfield-deerfield/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kidsnips-deerfield-deerfield.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kidsnips-deerfield-deerfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kidsnips-deerfield-deerfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6054002439 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

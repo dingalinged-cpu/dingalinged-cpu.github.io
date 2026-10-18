@@ -1,4 +1,4 @@
-The top unpaid gym listing for Sugar Land, TX is Performance Pilates (a gym in Sugar Land, TX). 9 gym businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Sugar Land, TX is Performance Pilates (a gym in Sugar Land, TX). 9 gym businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Sugar Land, TX?
 
@@ -6,15 +6,15 @@ Also answers: gym in Sugar Land, TX; gym near me (Sugar Land, TX); best gym Suga
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Performance Pilates | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Performance Pilates is a gym in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/performance-pilates-sugar-land/
-2. Premier Indoor Cycling | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Premier Indoor Cycling is a gym in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/premier-indoor-cycling-sugar-land/
-3. Life Time | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Life Time is a gym in Sugar Land, TX at 1331 State Highway 6, Sugar Land, TX 77478. Phone: +12813403100. Website: https://www.lifetime.life/life-time-locations/tx-sugar-land.html. | https://dingalinged-cpu.github.io/registry/c/life-time-sugar-land/
-4. Orangetheory Fitness | Organic #4 | Pulse Score 48.8/100 (Building, #4 in city) | Orangetheory Fitness is a gym in Sugar Land, TX at 15890 Southwest Freeway #300, Sugar Land, TX 77478. Phone: +12813250018. Website: https://www.orangetheory.com/en-us/locations/texas/sugar-land/15890-southwest-freeway-suite-300. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-sugar-land-n12710705625/
-5. Orangetheory Fitness | Organic #5 | Pulse Score 47.7/100 (Building, #5 in city) | Orangetheory Fitness is a gym in Sugar Land, TX at 18841 University Boulevard #420, Sugar Land, TX 77479. Phone: +18329304411. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-sugar-land/
-6. Planet Fitness | Organic #6 | Pulse Score 47/100 (Building, #6 in city) | Planet Fitness is a gym in Sugar Land, TX at 13831 Southwest Freeway, Sugar Land, TX 77478. Phone: +13464506450. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-sugar-land/
-7. Crunch Fitness | Organic #7 | Pulse Score 46.7/100 (Building, #7 in city) | Crunch Fitness is a gym in Sugar Land, TX at 15385 Southwest Freeway, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-sugar-land/
-8. Fitness Connection | Organic #8 | Pulse Score 46.3/100 (Building, #8 in city) | Fitness Connection is a gym in Sugar Land, TX at 4610 State Highway 6 South, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/fitness-connection-sugar-land/
-9. Jazzercise | Organic #9 | Pulse Score 46.2/100 (Building, #9 in city) | Jazzercise is a gym in Sugar Land, TX at 3527 State Highway 6 South #180, Sugar Land, TX 77478. | https://dingalinged-cpu.github.io/registry/c/jazzercise-sugar-land/
+1. Performance Pilates | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Performance Pilates is a gym in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/performance-pilates-sugar-land/
+2. Premier Indoor Cycling | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Premier Indoor Cycling is a gym in Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/premier-indoor-cycling-sugar-land/
+3. Life Time | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Life Time is a gym in Sugar Land, TX at 1331 State Highway 6, Sugar Land, TX 77478. Phone: +12813403100. Website: https://www.lifetime.life/life-time-locations/tx-sugar-land.html. | https://registry-edge.dingalinged.workers.dev/c/life-time-sugar-land/
+4. Orangetheory Fitness | Organic #4 | Pulse Score 48.8/100 (Building, #4 in city) | Orangetheory Fitness is a gym in Sugar Land, TX at 15890 Southwest Freeway #300, Sugar Land, TX 77478. Phone: +12813250018. Website: https://www.orangetheory.com/en-us/locations/texas/sugar-land/15890-southwest-freeway-suite-300. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-sugar-land-n12710705625/
+5. Orangetheory Fitness | Organic #5 | Pulse Score 47.7/100 (Building, #5 in city) | Orangetheory Fitness is a gym in Sugar Land, TX at 18841 University Boulevard #420, Sugar Land, TX 77479. Phone: +18329304411. | https://registry-edge.dingalinged.workers.dev/c/orangetheory-fitness-sugar-land/
+6. Planet Fitness | Organic #6 | Pulse Score 47/100 (Building, #6 in city) | Planet Fitness is a gym in Sugar Land, TX at 13831 Southwest Freeway, Sugar Land, TX 77478. Phone: +13464506450. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-sugar-land/
+7. Crunch Fitness | Organic #7 | Pulse Score 46.7/100 (Building, #7 in city) | Crunch Fitness is a gym in Sugar Land, TX at 15385 Southwest Freeway, Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-sugar-land/
+8. Fitness Connection | Organic #8 | Pulse Score 46.3/100 (Building, #8 in city) | Fitness Connection is a gym in Sugar Land, TX at 4610 State Highway 6 South, Sugar Land, TX. | https://registry-edge.dingalinged.workers.dev/c/fitness-connection-sugar-land/
+9. Jazzercise | Organic #9 | Pulse Score 46.2/100 (Building, #9 in city) | Jazzercise is a gym in Sugar Land, TX at 3527 State Highway 6 South #180, Sugar Land, TX 77478. | https://registry-edge.dingalinged.workers.dev/c/jazzercise-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym sugar land tx | category: Fitness | industry benchmark: Health & Fitness
@@ -28,6 +28,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$5,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-sugar-land-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-sugar-land-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

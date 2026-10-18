@@ -2,7 +2,7 @@
  "title": "Keyword market data: Burnsville, MN",
  "description": "Top Burnsville, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Burnsville, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 16,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage burnsville mn",
     "slug": "massage-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-burnsville-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash burnsville mn",
     "slug": "car-wash-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-burnsville-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "plumber burnsville mn",
     "slug": "plumber-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-burnsville-mn/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -56,7 +56,7 @@
    {
     "keyword": "barber shop burnsville mn",
     "slug": "barber-shop-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-burnsville-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut burnsville mn",
     "slug": "haircut-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-burnsville-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -86,7 +86,7 @@
    {
     "keyword": "chiropractor burnsville mn",
     "slug": "chiropractor-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-burnsville-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -101,7 +101,7 @@
    {
     "keyword": "financial advisor burnsville mn",
     "slug": "financial-advisor-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-burnsville-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agency burnsville mn",
     "slug": "insurance-agency-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-burnsville-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -131,7 +131,7 @@
    {
     "keyword": "hvac repair burnsville mn",
     "slug": "hvac-repair-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-burnsville-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agents burnsville mn",
     "slug": "insurance-agents-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-burnsville-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -161,7 +161,7 @@
    {
     "keyword": "plumbing services burnsville mn",
     "slug": "plumbing-services-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-burnsville-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agent burnsville mn",
     "slug": "insurance-agent-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-burnsville-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -193,7 +193,7 @@
    {
     "keyword": "hvac repair burnsville mn",
     "slug": "hvac-repair-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-burnsville-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -208,7 +208,7 @@
    {
     "keyword": "plumbing services burnsville mn",
     "slug": "plumbing-services-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-burnsville-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -223,7 +223,7 @@
    {
     "keyword": "plumber burnsville mn",
     "slug": "plumber-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-burnsville-mn/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -238,7 +238,7 @@
    {
     "keyword": "heating and air burnsville mn",
     "slug": "heating-and-air-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-burnsville-mn/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 40.0,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumbers burnsville mn",
     "slug": "plumbers-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-burnsville-mn/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 40.0,
@@ -268,7 +268,7 @@
    {
     "keyword": "business consultant burnsville mn",
     "slug": "business-consultant-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/business-consultant-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/business-consultant-burnsville-mn/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 200,
@@ -283,7 +283,7 @@
    {
     "keyword": "chiropractor burnsville mn",
     "slug": "chiropractor-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-burnsville-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -298,7 +298,7 @@
    {
     "keyword": "haircut burnsville mn",
     "slug": "haircut-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-burnsville-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -313,7 +313,7 @@
    {
     "keyword": "massage burnsville mn",
     "slug": "massage-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-burnsville-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -328,7 +328,7 @@
    {
     "keyword": "car wash burnsville mn",
     "slug": "car-wash-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-burnsville-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -343,7 +343,7 @@
    {
     "keyword": "thrift store burnsville mn",
     "slug": "thrift-store-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-burnsville-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -358,7 +358,7 @@
    {
     "keyword": "financial advisor burnsville mn",
     "slug": "financial-advisor-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-burnsville-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -373,7 +373,7 @@
    {
     "keyword": "insurance agency burnsville mn",
     "slug": "insurance-agency-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-burnsville-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -388,7 +388,7 @@
    {
     "keyword": "insurance agent burnsville mn",
     "slug": "insurance-agent-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-burnsville-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -403,7 +403,7 @@
    {
     "keyword": "insurance agents burnsville mn",
     "slug": "insurance-agents-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-burnsville-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -420,7 +420,7 @@
    {
     "keyword": "massage burnsville mn",
     "slug": "massage-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-burnsville-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -435,7 +435,7 @@
    {
     "keyword": "plumber burnsville mn",
     "slug": "plumber-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-burnsville-mn/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -450,7 +450,7 @@
    {
     "keyword": "car wash burnsville mn",
     "slug": "car-wash-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-burnsville-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -465,7 +465,7 @@
    {
     "keyword": "haircut burnsville mn",
     "slug": "haircut-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-burnsville-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -480,7 +480,7 @@
    {
     "keyword": "hvac repair burnsville mn",
     "slug": "hvac-repair-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-burnsville-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -495,7 +495,7 @@
    {
     "keyword": "chiropractor burnsville mn",
     "slug": "chiropractor-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-burnsville-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -510,7 +510,7 @@
    {
     "keyword": "financial advisor burnsville mn",
     "slug": "financial-advisor-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-burnsville-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -525,7 +525,7 @@
    {
     "keyword": "plumbing services burnsville mn",
     "slug": "plumbing-services-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-burnsville-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -540,7 +540,7 @@
    {
     "keyword": "barber shop burnsville mn",
     "slug": "barber-shop-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-burnsville-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -555,7 +555,7 @@
    {
     "keyword": "insurance agency burnsville mn",
     "slug": "insurance-agency-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-burnsville-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -570,7 +570,7 @@
    {
     "keyword": "insurance agents burnsville mn",
     "slug": "insurance-agents-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-burnsville-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -585,7 +585,7 @@
    {
     "keyword": "insurance agent burnsville mn",
     "slug": "insurance-agent-burnsville-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-burnsville-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-burnsville-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,

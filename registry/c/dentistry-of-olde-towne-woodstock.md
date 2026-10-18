@@ -13,12 +13,12 @@ Dentistry Of Olde Towne is a dentist in Woodstock, GA at 113 Towne Lake Parkway 
 - Website: https://dentistryoldetowne.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Good — top 33% of dentists in Atlanta, #5 of 6 dentists in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Good — top 33% of dentists in Atlanta, #5 of 6 dentists in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dentistry-of-olde-towne-woodstock/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dentistry-of-olde-towne-woodstock.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dentistry-of-olde-towne-woodstock/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dentistry-of-olde-towne-woodstock.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/14055150120 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

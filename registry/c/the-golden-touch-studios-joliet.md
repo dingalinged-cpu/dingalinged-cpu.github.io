@@ -13,12 +13,12 @@ The Golden Touch Studios is a hair salon in Joliet, IL at 151 Springfield Avenue
 - Website: https://thegoldentouchstudiosil.com/
 - Email: eribond9@icloud.com
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00, Fr-Sa 09:00-19:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Chicago, #1 of 3 hair salons in Joliet (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Chicago, #1 of 3 hair salons in Joliet (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-golden-touch-studios-joliet/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-golden-touch-studios-joliet.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-golden-touch-studios-joliet/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-golden-touch-studios-joliet.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13694035916 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

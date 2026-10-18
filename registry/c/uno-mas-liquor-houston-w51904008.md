@@ -13,12 +13,12 @@ Uno Mas Liquor is a liquor store in Houston, TX at 8667 Main Street, Houston, TX
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 82% of liquor stores in Houston, #76 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 82% of liquor stores in Houston, #76 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/uno-mas-liquor-houston-w51904008/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/uno-mas-liquor-houston-w51904008.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/uno-mas-liquor-houston-w51904008/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/uno-mas-liquor-houston-w51904008.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/51904008 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

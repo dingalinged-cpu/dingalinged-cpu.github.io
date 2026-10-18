@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Irving, TX is Mi-T-Fine Car Wash (a car wash in Irving, TX at 3311 North Belt Line Road, Irving, TX 75062). 3 car wash businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Irving, TX is Mi-T-Fine Car Wash (a car wash in Irving, TX at 3311 North Belt Line Road, Irving, TX 75062). 3 car wash businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Irving, TX?
 
@@ -6,9 +6,9 @@ Also answers: car wash in Irving, TX; car wash near me (Irving, TX); best car wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mi-T-Fine Car Wash | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Mi-T-Fine Car Wash is a car wash in Irving, TX at 3311 North Belt Line Road, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/mi-t-fine-car-wash-irving/
-2. Joan's Self Services Car Wash and Mr Wizard's Auto Wash | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Joan's Self Services Car Wash and Mr Wizard's Auto Wash is a car wash in Irving, TX at 2111 North O'Connor Road, Irving, TX 75062. Phone: +12145969729. | https://dingalinged-cpu.github.io/registry/c/joans-self-services-car-wash-and-mr-wizards-auto-wash-irving/
-3. WhiteWater Express Car Wash | Organic #3 | Pulse Score 46.4/100 (Unrated, #3 in city) | WhiteWater Express Car Wash is a car wash in Irving, TX at 8440 North Belt Line Road, Irving, TX 75063. | https://dingalinged-cpu.github.io/registry/c/whitewater-express-car-wash-irving/
+1. Mi-T-Fine Car Wash | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Mi-T-Fine Car Wash is a car wash in Irving, TX at 3311 North Belt Line Road, Irving, TX 75062. | https://registry-edge.dingalinged.workers.dev/c/mi-t-fine-car-wash-irving/
+2. Joan's Self Services Car Wash and Mr Wizard's Auto Wash | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Joan's Self Services Car Wash and Mr Wizard's Auto Wash is a car wash in Irving, TX at 2111 North O'Connor Road, Irving, TX 75062. Phone: +12145969729. | https://registry-edge.dingalinged.workers.dev/c/joans-self-services-car-wash-and-mr-wizards-auto-wash-irving/
+3. WhiteWater Express Car Wash | Organic #3 | Pulse Score 46.4/100 (Unrated, #3 in city) | WhiteWater Express Car Wash is a car wash in Irving, TX at 8440 North Belt Line Road, Irving, TX 75063. | https://registry-edge.dingalinged.workers.dev/c/whitewater-express-car-wash-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash irving tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$11,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-irving-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-irving-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

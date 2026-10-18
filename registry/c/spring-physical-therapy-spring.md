@@ -13,12 +13,12 @@ Spring Physical Therapy is a physical therapy clinic in Spring, TX at 19510 Kuyk
 - Website: https://www.springphysicaltherapytx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 07:45-12:00,14:00-18:00; Tu 07:45-12:00,14:00-17:00; Th 07:45-12:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 18% of physical therapy clinics in Houston, #1 of 3 physical therapy clinics in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 18% of physical therapy clinics in Houston, #1 of 3 physical therapy clinics in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/spring-physical-therapy-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/spring-physical-therapy-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/spring-physical-therapy-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spring-physical-therapy-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12722710705 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for Des Plaines, IL is Master Craft Cleaners (a dry cleaner in Des Plaines, IL at 1175 South Elmhurst Road, Des Plaines, IL 60016). 5 dry cleaners businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Des Plaines, IL is Master Craft Cleaners (a dry cleaner in Des Plaines, IL at 1175 South Elmhurst Road, Des Plaines, IL 60016). 5 dry cleaners businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Des Plaines, IL?
 
@@ -6,11 +6,11 @@ Also answers: dry cleaners in Des Plaines, IL; dry cleaners near me (Des Plaines
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Master Craft Cleaners | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Master Craft Cleaners is a dry cleaner in Des Plaines, IL at 1175 South Elmhurst Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/master-craft-cleaners-des-plaines/
-2. Teresa Tailor & Cleaners | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Teresa Tailor & Cleaners is a dry cleaner in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/teresa-tailor-and-cleaners-des-plaines/
-3. The Cleanery Cleaners | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | The Cleanery Cleaners is a dry cleaner in Des Plaines, IL at 1526 Lee Street, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/the-cleanery-cleaners-des-plaines/
-4. Downtown Cleaners | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Downtown Cleaners is a dry cleaner in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/downtown-cleaners-des-plaines/
-5. CD One Price Cleaners | Organic #5 | Pulse Score 45.4/100 (Building, #5 in city) | CD One Price Cleaners is a dry cleaner in Des Plaines, IL at 1387 Lee Street #100, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-des-plaines/
+1. Master Craft Cleaners | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Master Craft Cleaners is a dry cleaner in Des Plaines, IL at 1175 South Elmhurst Road, Des Plaines, IL 60016. | https://registry-edge.dingalinged.workers.dev/c/master-craft-cleaners-des-plaines/
+2. Teresa Tailor & Cleaners | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Teresa Tailor & Cleaners is a dry cleaner in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://registry-edge.dingalinged.workers.dev/c/teresa-tailor-and-cleaners-des-plaines/
+3. The Cleanery Cleaners | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | The Cleanery Cleaners is a dry cleaner in Des Plaines, IL at 1526 Lee Street, Des Plaines, IL 60018. | https://registry-edge.dingalinged.workers.dev/c/the-cleanery-cleaners-des-plaines/
+4. Downtown Cleaners | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Downtown Cleaners is a dry cleaner in Des Plaines, IL. | https://registry-edge.dingalinged.workers.dev/c/downtown-cleaners-des-plaines/
+5. CD One Price Cleaners | Organic #5 | Pulse Score 45.4/100 (Building, #5 in city) | CD One Price Cleaners is a dry cleaner in Des Plaines, IL at 1387 Lee Street #100, Des Plaines, IL 60018. | https://registry-edge.dingalinged.workers.dev/c/cd-one-price-cleaners-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners des plaines il | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners-des-plaines-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dry-cleaners.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dry-cleaners-des-plaines-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

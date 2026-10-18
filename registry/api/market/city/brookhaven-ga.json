@@ -2,7 +2,7 @@
  "title": "Keyword market data: Brookhaven, GA",
  "description": "Top Brookhaven, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Brookhaven, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 31,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash brookhaven ga",
     "slug": "car-wash-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-brookhaven-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist brookhaven ga",
     "slug": "dentist-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-brookhaven-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym brookhaven ga",
     "slug": "gym-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-brookhaven-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon brookhaven ga",
     "slug": "hair-salon-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-brookhaven-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon brookhaven ga",
     "slug": "nail-salon-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-brookhaven-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic brookhaven ga",
     "slug": "mechanic-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-brookhaven-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet brookhaven ga",
     "slug": "vet-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-brookhaven-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut brookhaven ga",
     "slug": "haircut-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-brookhaven-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair brookhaven ga",
     "slug": "auto-repair-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-brookhaven-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog boarding brookhaven ga",
     "slug": "dog-boarding-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-brookhaven-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agency brookhaven ga",
     "slug": "insurance-agency-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brookhaven-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -176,7 +176,7 @@
    {
     "keyword": "attorney brookhaven ga",
     "slug": "attorney-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-brookhaven-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -191,7 +191,7 @@
    {
     "keyword": "yoga classes brookhaven ga",
     "slug": "yoga-classes-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-brookhaven-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agents brookhaven ga",
     "slug": "insurance-agents-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-brookhaven-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -221,7 +221,7 @@
    {
     "keyword": "lawyer brookhaven ga",
     "slug": "lawyer-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-brookhaven-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney brookhaven ga",
     "slug": "attorney-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-brookhaven-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer brookhaven ga",
     "slug": "lawyer-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-brookhaven-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -268,7 +268,7 @@
    {
     "keyword": "architect brookhaven ga",
     "slug": "architect-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-brookhaven-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -283,7 +283,7 @@
    {
     "keyword": "flooring companies brookhaven ga",
     "slug": "flooring-companies-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-brookhaven-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -298,7 +298,7 @@
    {
     "keyword": "storage units brookhaven ga",
     "slug": "storage-units-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-brookhaven-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -313,7 +313,7 @@
    {
     "keyword": "martial arts brookhaven ga",
     "slug": "martial-arts-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-brookhaven-ga/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5700,
@@ -328,7 +328,7 @@
    {
     "keyword": "assisted living brookhaven ga",
     "slug": "assisted-living-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-brookhaven-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -343,7 +343,7 @@
    {
     "keyword": "physical therapy brookhaven ga",
     "slug": "physical-therapy-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-brookhaven-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -358,7 +358,7 @@
    {
     "keyword": "dentist brookhaven ga",
     "slug": "dentist-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-brookhaven-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -373,7 +373,7 @@
    {
     "keyword": "haircut brookhaven ga",
     "slug": "haircut-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-brookhaven-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -388,7 +388,7 @@
    {
     "keyword": "auto repair brookhaven ga",
     "slug": "auto-repair-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-brookhaven-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -403,7 +403,7 @@
    {
     "keyword": "car wash brookhaven ga",
     "slug": "car-wash-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-brookhaven-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -418,7 +418,7 @@
    {
     "keyword": "mechanic brookhaven ga",
     "slug": "mechanic-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-brookhaven-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -433,7 +433,7 @@
    {
     "keyword": "bike shop brookhaven ga",
     "slug": "bike-shop-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-brookhaven-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -448,7 +448,7 @@
    {
     "keyword": "jewelry store brookhaven ga",
     "slug": "jewelry-store-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-brookhaven-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist brookhaven ga",
     "slug": "dentist-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-brookhaven-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash brookhaven ga",
     "slug": "car-wash-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-brookhaven-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym brookhaven ga",
     "slug": "gym-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-brookhaven-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic brookhaven ga",
     "slug": "mechanic-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-brookhaven-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -525,7 +525,7 @@
    {
     "keyword": "vet brookhaven ga",
     "slug": "vet-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-brookhaven-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -540,7 +540,7 @@
    {
     "keyword": "haircut brookhaven ga",
     "slug": "haircut-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-brookhaven-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -555,7 +555,7 @@
    {
     "keyword": "auto repair brookhaven ga",
     "slug": "auto-repair-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-brookhaven-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog boarding brookhaven ga",
     "slug": "dog-boarding-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-brookhaven-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon brookhaven ga",
     "slug": "hair-salon-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-brookhaven-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -600,7 +600,7 @@
    {
     "keyword": "attorney brookhaven ga",
     "slug": "attorney-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-brookhaven-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -615,7 +615,7 @@
    {
     "keyword": "nail salon brookhaven ga",
     "slug": "nail-salon-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-brookhaven-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -630,7 +630,7 @@
    {
     "keyword": "lawyer brookhaven ga",
     "slug": "lawyer-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-brookhaven-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agency brookhaven ga",
     "slug": "insurance-agency-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-brookhaven-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agents brookhaven ga",
     "slug": "insurance-agents-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-brookhaven-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -675,7 +675,7 @@
    {
     "keyword": "flooring companies brookhaven ga",
     "slug": "flooring-companies-brookhaven-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-brookhaven-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-brookhaven-ga/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,

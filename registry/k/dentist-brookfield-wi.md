@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Brookfield, WI is Red Rose Dentistry (a dentist in Brookfield, WI at 12780 West North Avenue #Suite A, Brookfield, WI 53005. Phone: +12628601500. Website: https://redrosedentistry.com/). 6 dentist businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Brookfield, WI is Red Rose Dentistry (a dentist in Brookfield, WI at 12780 West North Avenue #Suite A, Brookfield, WI 53005. Phone: +12628601500. Website: https://redrosedentistry.com/). 6 dentist businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Brookfield, WI?
 
@@ -6,12 +6,12 @@ Also answers: dentist in Brookfield, WI; dentist near me (Brookfield, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Red Rose Dentistry | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Red Rose Dentistry is a dentist in Brookfield, WI at 12780 West North Avenue #Suite A, Brookfield, WI 53005. Phone: +12628601500. Website: https://redrosedentistry.com/. | https://dingalinged-cpu.github.io/registry/c/red-rose-dentistry-brookfield/
-2. Matthews Dental Group | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Matthews Dental Group is a dentist in Brookfield, WI at 13620 Capitol Drive, Brookfield, WI 53005. Phone: +12627815667. Website: https://dentistbrookfield.com/. | https://dingalinged-cpu.github.io/registry/c/matthews-dental-group-brookfield/
-3. Small World Children's Dentistry | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Small World Children's Dentistry is a dentist in Brookfield, WI at 14430 West Greenfield Avenue, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/small-world-childrens-dentistry-brookfield/
-4. Dental Workds | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Dental Workds is a dentist in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/dental-workds-brookfield/
-5. The Fun Kid's Dentist | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | The Fun Kid's Dentist is a dentist in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/the-fun-kids-dentist-brookfield/
-6. Aspen Dental | Organic #6 | Pulse Score 44.3/100 (Building, #6 in city) | Aspen Dental is a dentist in Brookfield, WI at 12455 West Capitol Drive #E, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-brookfield/
+1. Red Rose Dentistry | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Red Rose Dentistry is a dentist in Brookfield, WI at 12780 West North Avenue #Suite A, Brookfield, WI 53005. Phone: +12628601500. Website: https://redrosedentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/red-rose-dentistry-brookfield/
+2. Matthews Dental Group | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Matthews Dental Group is a dentist in Brookfield, WI at 13620 Capitol Drive, Brookfield, WI 53005. Phone: +12627815667. Website: https://dentistbrookfield.com/. | https://registry-edge.dingalinged.workers.dev/c/matthews-dental-group-brookfield/
+3. Small World Children's Dentistry | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Small World Children's Dentistry is a dentist in Brookfield, WI at 14430 West Greenfield Avenue, Brookfield, WI 53005. | https://registry-edge.dingalinged.workers.dev/c/small-world-childrens-dentistry-brookfield/
+4. Dental Workds | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Dental Workds is a dentist in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/dental-workds-brookfield/
+5. The Fun Kid's Dentist | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | The Fun Kid's Dentist is a dentist in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/the-fun-kids-dentist-brookfield/
+6. Aspen Dental | Organic #6 | Pulse Score 44.3/100 (Building, #6 in city) | Aspen Dental is a dentist in Brookfield, WI at 12455 West Capitol Drive #E, Brookfield, WI 53005. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist brookfield wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-brookfield-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-brookfield-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

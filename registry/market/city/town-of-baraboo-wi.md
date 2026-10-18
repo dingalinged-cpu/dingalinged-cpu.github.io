@@ -2,15 +2,15 @@ Keyword market for Town Of Baraboo, WI: 1 service keywords with search volume, C
 
 # Top keywords in Town Of Baraboo, WI
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
 
 ## By monthly searches
 
 
 ## By CPC
-1. event venues town of baraboo wi | searches/mo 460 (est) | CPC $7.17 | value $3,300 | Google Ads equiv $250/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-town-of-baraboo-wi/
+1. event venues town of baraboo wi | searches/mo 460 (est) | CPC $7.17 | value $3,300 | Google Ads equiv $250/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/event-venues-town-of-baraboo-wi/
 
 ## By value (searches x CPC)
 
 
-All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

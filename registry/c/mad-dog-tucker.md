@@ -13,12 +13,12 @@ mad dog is an auto repair shop in Tucker, GA at 1608 Camelot Circle, Tucker, GA 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 35% of auto repair shops in Atlanta, #1 of 11 auto repair shops in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 50.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 35% of auto repair shops in Atlanta, #1 of 11 auto repair shops in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mad-dog-tucker/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mad-dog-tucker.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mad-dog-tucker/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mad-dog-tucker.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/611393994 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

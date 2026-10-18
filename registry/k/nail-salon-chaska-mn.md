@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Chaska, MN is Turbo Nails Spa (a nail salon in Chaska, MN at 816 Yellow Brick Road, Chaska, MN 55318. Phone: +19523680988). 2 nail salon businesses are listed for Chaska, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Chaska, MN is Turbo Nails Spa (a nail salon in Chaska, MN at 816 Yellow Brick Road, Chaska, MN 55318. Phone: +19523680988). 2 nail salon businesses are listed for Chaska, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Chaska, MN?
 
@@ -6,8 +6,8 @@ Also answers: nail salon in Chaska, MN; nail salon near me (Chaska, MN); best na
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Turbo Nails Spa | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Turbo Nails Spa is a nail salon in Chaska, MN at 816 Yellow Brick Road, Chaska, MN 55318. Phone: +19523680988. | https://dingalinged-cpu.github.io/registry/c/turbo-nails-spa-chaska/
-2. CA Nails | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | CA Nails is a nail salon in Chaska, MN at 140 Pioneer Trail, Chaska, MN 55318. Website: https://canailschaska.us/. | https://dingalinged-cpu.github.io/registry/c/ca-nails-chaska/
+1. Turbo Nails Spa | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Turbo Nails Spa is a nail salon in Chaska, MN at 816 Yellow Brick Road, Chaska, MN 55318. Phone: +19523680988. | https://registry-edge.dingalinged.workers.dev/c/turbo-nails-spa-chaska/
+2. CA Nails | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | CA Nails is a nail salon in Chaska, MN at 140 Pioneer Trail, Chaska, MN 55318. Website: https://canailschaska.us/. | https://registry-edge.dingalinged.workers.dev/c/ca-nails-chaska/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon chaska mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$380 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-chaska-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-chaska-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Spec's is a liquor store in Sachse, TX at 4205 President George Bush Highway, Sa
 - Website: https://specsonline.com/liquor-stores/dallas/sachse-gwb/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su off; Dec 25 off; Jan 01 off; Nov Th[4] off; PH "https://specsonline.com/liquor-stores/dallas/sachse-gwb/"
-- Pulse Score: 50.4/100 — Fair — top 76% of liquor stores in Dallas–Fort Worth, #2 of 3 liquor stores in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 76% of liquor stores in Dallas–Fort Worth, #2 of 3 liquor stores in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 66.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/specs-sachse-w1454240784/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/specs-sachse-w1454240784.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/specs-sachse-w1454240784/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/specs-sachse-w1454240784.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1454240784 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

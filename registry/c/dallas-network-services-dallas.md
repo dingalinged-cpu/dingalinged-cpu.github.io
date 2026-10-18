@@ -13,12 +13,12 @@ Dallas Network Services is an IT support company in Dallas, TX at 5641 SMU Boule
 - Website: https://www.dallasnetworkservices.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 18% of IT support companys in Dallas–Fort Worth, #4 of 12 IT support companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 18% of IT support companys in Dallas–Fort Worth, #4 of 12 IT support companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 57.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dallas-network-services-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dallas-network-services-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dallas-network-services-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dallas-network-services-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5668893853 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

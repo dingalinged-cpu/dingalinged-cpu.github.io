@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Marietta, GA is Kids University, Marietta (a daycare in Marietta, GA at 20 Fairground St NE, Marietta, GA 30060. Phone: +16782175229. Website: https://kidsu.care/locations/marietta/). 2 daycare businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Marietta, GA is Kids University, Marietta (a daycare in Marietta, GA at 20 Fairground St NE, Marietta, GA 30060. Phone: +16782175229. Website: https://kidsu.care/locations/marietta/). 2 daycare businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Marietta, GA?
 
@@ -6,8 +6,8 @@ Also answers: daycare in Marietta, GA; daycare near me (Marietta, GA); best dayc
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kids University, Marietta | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Kids University, Marietta is a daycare in Marietta, GA at 20 Fairground St NE, Marietta, GA 30060. Phone: +16782175229. Website: https://kidsu.care/locations/marietta/. | https://dingalinged-cpu.github.io/registry/c/kids-university-marietta-marietta/
-2. Shining Stars Daycare | Organic #2 | Pulse Score 63.1/100 (Good, #2 in city) | Shining Stars Daycare is a daycare in Marietta, GA at 100 Powers Ferry Road Southeast, Marietta, GA. Phone: +17709777840. Website: https://www.ssdaycare2.com/. | https://dingalinged-cpu.github.io/registry/c/shining-stars-daycare-marietta/
+1. Kids University, Marietta | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Kids University, Marietta is a daycare in Marietta, GA at 20 Fairground St NE, Marietta, GA 30060. Phone: +16782175229. Website: https://kidsu.care/locations/marietta/. | https://registry-edge.dingalinged.workers.dev/c/kids-university-marietta-marietta/
+2. Shining Stars Daycare | Organic #2 | Pulse Score 63.1/100 (Good, #2 in city) | Shining Stars Daycare is a daycare in Marietta, GA at 100 Powers Ferry Road Southeast, Marietta, GA. Phone: +17709777840. Website: https://www.ssdaycare2.com/. | https://registry-edge.dingalinged.workers.dev/c/shining-stars-daycare-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare marietta ga | category: Education & childcare | industry benchmark: Education & Instruction
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare-marietta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/daycare.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#daycare-marietta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

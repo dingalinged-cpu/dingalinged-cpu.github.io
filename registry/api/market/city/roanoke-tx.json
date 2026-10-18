@@ -2,7 +2,7 @@
  "title": "Keyword market data: Roanoke, TX",
  "description": "Top Roanoke, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Roanoke, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 42,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage roanoke tx",
     "slug": "massage-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-roanoke-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash roanoke tx",
     "slug": "car-wash-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-roanoke-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist roanoke tx",
     "slug": "dentist-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-roanoke-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym roanoke tx",
     "slug": "gym-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-roanoke-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "oil change roanoke tx",
     "slug": "oil-change-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-roanoke-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -86,7 +86,7 @@
    {
     "keyword": "hair salon roanoke tx",
     "slug": "hair-salon-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-roanoke-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -101,7 +101,7 @@
    {
     "keyword": "nail salon roanoke tx",
     "slug": "nail-salon-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-roanoke-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -116,7 +116,7 @@
    {
     "keyword": "barber shop roanoke tx",
     "slug": "barber-shop-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-roanoke-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "mechanic roanoke tx",
     "slug": "mechanic-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-roanoke-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -146,7 +146,7 @@
    {
     "keyword": "tire shop roanoke tx",
     "slug": "tire-shop-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-roanoke-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -161,7 +161,7 @@
    {
     "keyword": "vet roanoke tx",
     "slug": "vet-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-roanoke-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut roanoke tx",
     "slug": "haircut-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-roanoke-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair roanoke tx",
     "slug": "auto-repair-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-roanoke-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -206,7 +206,7 @@
    {
     "keyword": "chiropractor roanoke tx",
     "slug": "chiropractor-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-roanoke-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -221,7 +221,7 @@
    {
     "keyword": "dog boarding roanoke tx",
     "slug": "dog-boarding-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-roanoke-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "architect roanoke tx",
     "slug": "architect-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-roanoke-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -253,7 +253,7 @@
    {
     "keyword": "storage units roanoke tx",
     "slug": "storage-units-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-roanoke-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -268,7 +268,7 @@
    {
     "keyword": "bakery roanoke tx",
     "slug": "bakery-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-roanoke-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -283,7 +283,7 @@
    {
     "keyword": "dance studio roanoke tx",
     "slug": "dance-studio-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-roanoke-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -298,7 +298,7 @@
    {
     "keyword": "martial arts roanoke tx",
     "slug": "martial-arts-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-roanoke-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -313,7 +313,7 @@
    {
     "keyword": "tax preparer roanoke tx",
     "slug": "tax-preparer-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-roanoke-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -328,7 +328,7 @@
    {
     "keyword": "driving school roanoke tx",
     "slug": "driving-school-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-roanoke-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -343,7 +343,7 @@
    {
     "keyword": "audiologist roanoke tx",
     "slug": "audiologist-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/audiologist-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/audiologist-roanoke-tx/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 820,
@@ -358,7 +358,7 @@
    {
     "keyword": "chiropractor roanoke tx",
     "slug": "chiropractor-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-roanoke-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -373,7 +373,7 @@
    {
     "keyword": "eye doctor roanoke tx",
     "slug": "eye-doctor-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-roanoke-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "dentist roanoke tx",
     "slug": "dentist-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-roanoke-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -403,7 +403,7 @@
    {
     "keyword": "haircut roanoke tx",
     "slug": "haircut-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-roanoke-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -418,7 +418,7 @@
    {
     "keyword": "massage roanoke tx",
     "slug": "massage-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-roanoke-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -433,7 +433,7 @@
    {
     "keyword": "auto body shop roanoke tx",
     "slug": "auto-body-shop-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-roanoke-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -448,7 +448,7 @@
    {
     "keyword": "auto repair roanoke tx",
     "slug": "auto-repair-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-roanoke-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage roanoke tx",
     "slug": "massage-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-roanoke-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist roanoke tx",
     "slug": "dentist-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-roanoke-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash roanoke tx",
     "slug": "car-wash-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-roanoke-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "oil change roanoke tx",
     "slug": "oil-change-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-roanoke-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym roanoke tx",
     "slug": "gym-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-roanoke-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic roanoke tx",
     "slug": "mechanic-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-roanoke-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop roanoke tx",
     "slug": "tire-shop-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-roanoke-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet roanoke tx",
     "slug": "vet-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-roanoke-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut roanoke tx",
     "slug": "haircut-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-roanoke-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair roanoke tx",
     "slug": "auto-repair-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-roanoke-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -615,7 +615,7 @@
    {
     "keyword": "chiropractor roanoke tx",
     "slug": "chiropractor-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-roanoke-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -630,7 +630,7 @@
    {
     "keyword": "dog boarding roanoke tx",
     "slug": "dog-boarding-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-roanoke-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -645,7 +645,7 @@
    {
     "keyword": "hair salon roanoke tx",
     "slug": "hair-salon-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-roanoke-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -660,7 +660,7 @@
    {
     "keyword": "real estate agent roanoke tx",
     "slug": "real-estate-agent-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-roanoke-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -675,7 +675,7 @@
    {
     "keyword": "nail salon roanoke tx",
     "slug": "nail-salon-roanoke-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-roanoke-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-roanoke-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,

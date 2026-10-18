@@ -13,12 +13,12 @@ Above and Beyond Auto Sales is an used car dealer in Milwaukee, WI at 5211 West 
 - Website: https://www.aboveandbeyond-auto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 41% of used car dealers in Milwaukee, #13 of 28 used car dealers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 41% of used car dealers in Milwaukee, #13 of 28 used car dealers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/above-and-beyond-auto-sales-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/above-and-beyond-auto-sales-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/above-and-beyond-auto-sales-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/above-and-beyond-auto-sales-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12015667762 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

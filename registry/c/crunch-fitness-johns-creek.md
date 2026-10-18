@@ -13,12 +13,12 @@ Crunch Fitness is a gym in Johns Creek, GA at 6000 Medlock Bridge Parkway, Johns
 - Website: https://www.crunch.com/locations/johns-creek
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-23:00; Fr 05:00-22:00; Sa-Su 11:00-23:00
-- Pulse Score: 50.4/100 — Fair — top 52% of gyms in Atlanta, #3 of 9 gyms in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 52% of gyms in Atlanta, #3 of 9 gyms in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/crunch-fitness-johns-creek/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crunch-fitness-johns-creek.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-johns-creek/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crunch-fitness-johns-creek.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13915207443 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

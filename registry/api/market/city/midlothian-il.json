@@ -2,7 +2,7 @@
  "title": "Keyword market data: Midlothian, IL",
  "description": "Top Midlothian, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Midlothian, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 15,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash midlothian il",
     "slug": "car-wash-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-midlothian-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "oil change midlothian il",
     "slug": "oil-change-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-midlothian-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "nail salon midlothian il",
     "slug": "nail-salon-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-midlothian-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic midlothian il",
     "slug": "mechanic-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-midlothian-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -71,7 +71,7 @@
    {
     "keyword": "tire shop midlothian il",
     "slug": "tire-shop-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-midlothian-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair midlothian il",
     "slug": "auto-repair-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-midlothian-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -101,7 +101,7 @@
    {
     "keyword": "insurance agency midlothian il",
     "slug": "insurance-agency-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-midlothian-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -116,7 +116,7 @@
    {
     "keyword": "tax preparation midlothian il",
     "slug": "tax-preparation-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-midlothian-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -131,7 +131,7 @@
    {
     "keyword": "tax preparer midlothian il",
     "slug": "tax-preparer-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-midlothian-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agents midlothian il",
     "slug": "insurance-agents-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-midlothian-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agent midlothian il",
     "slug": "insurance-agent-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-midlothian-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -178,7 +178,7 @@
    {
     "keyword": "storage units midlothian il",
     "slug": "storage-units-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-midlothian-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -193,7 +193,7 @@
    {
     "keyword": "tax preparer midlothian il",
     "slug": "tax-preparer-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-midlothian-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -208,7 +208,7 @@
    {
     "keyword": "preschool midlothian il",
     "slug": "preschool-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-midlothian-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -223,7 +223,7 @@
    {
     "keyword": "waxing midlothian il",
     "slug": "waxing-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/waxing-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/waxing-midlothian-il/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 26000,
@@ -238,7 +238,7 @@
    {
     "keyword": "auto repair midlothian il",
     "slug": "auto-repair-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-midlothian-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -253,7 +253,7 @@
    {
     "keyword": "car wash midlothian il",
     "slug": "car-wash-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-midlothian-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -268,7 +268,7 @@
    {
     "keyword": "mechanic midlothian il",
     "slug": "mechanic-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-midlothian-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -283,7 +283,7 @@
    {
     "keyword": "oil change midlothian il",
     "slug": "oil-change-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-midlothian-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -298,7 +298,7 @@
    {
     "keyword": "tire shop midlothian il",
     "slug": "tire-shop-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-midlothian-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -313,7 +313,7 @@
    {
     "keyword": "used cars for sale midlothian il",
     "slug": "used-cars-for-sale-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-midlothian-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -328,7 +328,7 @@
    {
     "keyword": "insurance agency midlothian il",
     "slug": "insurance-agency-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-midlothian-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -343,7 +343,7 @@
    {
     "keyword": "insurance agent midlothian il",
     "slug": "insurance-agent-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-midlothian-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -358,7 +358,7 @@
    {
     "keyword": "insurance agents midlothian il",
     "slug": "insurance-agents-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-midlothian-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -373,7 +373,7 @@
    {
     "keyword": "tax preparation midlothian il",
     "slug": "tax-preparation-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-midlothian-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -388,7 +388,7 @@
    {
     "keyword": "nail salon midlothian il",
     "slug": "nail-salon-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-midlothian-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -405,7 +405,7 @@
    {
     "keyword": "car wash midlothian il",
     "slug": "car-wash-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-midlothian-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -420,7 +420,7 @@
    {
     "keyword": "oil change midlothian il",
     "slug": "oil-change-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-midlothian-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -435,7 +435,7 @@
    {
     "keyword": "mechanic midlothian il",
     "slug": "mechanic-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-midlothian-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -450,7 +450,7 @@
    {
     "keyword": "tire shop midlothian il",
     "slug": "tire-shop-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-midlothian-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -465,7 +465,7 @@
    {
     "keyword": "auto repair midlothian il",
     "slug": "auto-repair-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-midlothian-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -480,7 +480,7 @@
    {
     "keyword": "nail salon midlothian il",
     "slug": "nail-salon-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-midlothian-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -495,7 +495,7 @@
    {
     "keyword": "tax preparer midlothian il",
     "slug": "tax-preparer-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-midlothian-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -510,7 +510,7 @@
    {
     "keyword": "insurance agency midlothian il",
     "slug": "insurance-agency-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-midlothian-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -525,7 +525,7 @@
    {
     "keyword": "tax preparation midlothian il",
     "slug": "tax-preparation-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-midlothian-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -540,7 +540,7 @@
    {
     "keyword": "insurance agents midlothian il",
     "slug": "insurance-agents-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-midlothian-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -555,7 +555,7 @@
    {
     "keyword": "insurance agent midlothian il",
     "slug": "insurance-agent-midlothian-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-midlothian-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-midlothian-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

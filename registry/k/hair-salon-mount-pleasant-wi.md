@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Mount Pleasant, WI is NEW IMAGE BARBER SHOP (a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406). 5 hair salon businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Mount Pleasant, WI is NEW IMAGE BARBER SHOP (a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406). 5 hair salon businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Mount Pleasant, WI?
 
@@ -6,11 +6,11 @@ Also answers: hair salon in Mount Pleasant, WI; hair salon near me (Mount Pleasa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NEW IMAGE BARBER SHOP | Organic #1 | Pulse Score 56.3/100 (Unrated, #2 in city) | NEW IMAGE BARBER SHOP is a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/new-image-barber-shop-racine/
-2. The Barbershop | Organic #2 | Pulse Score 46.9/100 (Unrated, #1 in city) | The Barbershop is a hair salon in Mount Pleasant, WI at 7115 Durand Avenue, Mount Pleasant, WI 53177. Website: https://thebarbershops.com/racine/. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-mount-pleasant/
-3. Cost Cutters | Organic #3 | Pulse Score 43.2/100 (Building, #2 in city) | Cost Cutters is a hair salon in Mount Pleasant, WI at 5500 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant-w362345235/
-4. Cost Cutters | Organic #4 | Pulse Score 42.8/100 (Building, #3 in city) | Cost Cutters is a hair salon in Mount Pleasant, WI at 6104 Regency West Drive, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant/
-5. Supercuts | Organic #5 | Pulse Score 42.8/100 (Building, #4 in city) | Supercuts is a hair salon in Mount Pleasant, WI at 5360 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-mount-pleasant/
+1. NEW IMAGE BARBER SHOP | Organic #1 | Pulse Score 56.3/100 (Unrated, #2 in city) | NEW IMAGE BARBER SHOP is a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406. | https://registry-edge.dingalinged.workers.dev/c/new-image-barber-shop-racine/
+2. The Barbershop | Organic #2 | Pulse Score 46.9/100 (Unrated, #1 in city) | The Barbershop is a hair salon in Mount Pleasant, WI at 7115 Durand Avenue, Mount Pleasant, WI 53177. Website: https://thebarbershops.com/racine/. | https://registry-edge.dingalinged.workers.dev/c/the-barbershop-mount-pleasant/
+3. Cost Cutters | Organic #3 | Pulse Score 43.2/100 (Building, #2 in city) | Cost Cutters is a hair salon in Mount Pleasant, WI at 5500 Washington Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/cost-cutters-mount-pleasant-w362345235/
+4. Cost Cutters | Organic #4 | Pulse Score 42.8/100 (Building, #3 in city) | Cost Cutters is a hair salon in Mount Pleasant, WI at 6104 Regency West Drive, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/cost-cutters-mount-pleasant/
+5. Supercuts | Organic #5 | Pulse Score 42.8/100 (Building, #4 in city) | Supercuts is a hair salon in Mount Pleasant, WI at 5360 Washington Avenue, Mount Pleasant, WI. | https://registry-edge.dingalinged.workers.dev/c/supercuts-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon mount pleasant wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$220 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/hair-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-mount-pleasant-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-mount-pleasant-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

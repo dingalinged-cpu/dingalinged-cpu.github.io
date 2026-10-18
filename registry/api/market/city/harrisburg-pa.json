@@ -2,7 +2,7 @@
  "title": "Keyword market data: Harrisburg, PA",
  "description": "Top Harrisburg, PA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Harrisburg, PA",
  "geography": "Harrisburg-Carlisle, PA metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage harrisburg pa",
     "slug": "massage-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-harrisburg-pa",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care harrisburg pa",
     "slug": "urgent-care-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-harrisburg-pa",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist harrisburg pa",
     "slug": "dentist-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-harrisburg-pa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym harrisburg pa",
     "slug": "gym-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-harrisburg-pa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash harrisburg pa",
     "slug": "car-wash-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-harrisburg-pa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change harrisburg pa",
     "slug": "oil-change-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-harrisburg-pa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon harrisburg pa",
     "slug": "hair-salon-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-harrisburg-pa",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon harrisburg pa",
     "slug": "nail-salon-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-harrisburg-pa",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes harrisburg pa",
     "slug": "car-insurance-quotes-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-harrisburg-pa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber harrisburg pa",
     "slug": "plumber-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-harrisburg-pa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments harrisburg pa",
     "slug": "apartments-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-harrisburg-pa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance harrisburg pa",
     "slug": "auto-insurance-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-harrisburg-pa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop harrisburg pa",
     "slug": "barber-shop-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-harrisburg-pa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage harrisburg pa",
     "slug": "lymphatic-drainage-massage-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-harrisburg-pa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic harrisburg pa",
     "slug": "mechanic-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-harrisburg-pa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer harrisburg pa",
     "slug": "personal-injury-lawyer-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-harrisburg-pa",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 360,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber harrisburg pa",
     "slug": "emergency-plumber-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-harrisburg-pa",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair harrisburg pa",
     "slug": "hvac-repair-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-harrisburg-pa",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair harrisburg pa",
     "slug": "ac-repair-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-harrisburg-pa",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 660,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement harrisburg pa",
     "slug": "roof-replacement-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-harrisburg-pa",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 60.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair harrisburg pa",
     "slug": "roof-repair-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-harrisburg-pa",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast harrisburg pa",
     "slug": "sell-my-house-fast-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-harrisburg-pa",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services harrisburg pa",
     "slug": "plumbing-services-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-harrisburg-pa",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 89.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining harrisburg pa",
     "slug": "deck-staining-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-harrisburg-pa",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters harrisburg pa",
     "slug": "exterior-house-painters-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-harrisburg-pa",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 22.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters harrisburg pa",
     "slug": "interior-painters-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-harrisburg-pa",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 22.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters harrisburg pa",
     "slug": "painters-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-harrisburg-pa",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company harrisburg pa",
     "slug": "moving-company-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-harrisburg-pa",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 360,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney harrisburg pa",
     "slug": "criminal-defense-attorney-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-harrisburg-pa",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer harrisburg pa",
     "slug": "dui-defense-lawyer-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-harrisburg-pa",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6.5,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage harrisburg pa",
     "slug": "massage-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-harrisburg-pa",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care harrisburg pa",
     "slug": "urgent-care-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-harrisburg-pa",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer harrisburg pa",
     "slug": "personal-injury-lawyer-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-harrisburg-pa",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 360,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber harrisburg pa",
     "slug": "plumber-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-harrisburg-pa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist harrisburg pa",
     "slug": "dentist-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-harrisburg-pa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash harrisburg pa",
     "slug": "car-wash-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-harrisburg-pa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change harrisburg pa",
     "slug": "oil-change-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-harrisburg-pa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair harrisburg pa",
     "slug": "ac-repair-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-harrisburg-pa",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 660,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer harrisburg pa",
     "slug": "car-accident-lawyer-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-harrisburg-pa",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 660,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym harrisburg pa",
     "slug": "gym-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-harrisburg-pa",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage harrisburg pa",
     "slug": "lymphatic-drainage-massage-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-harrisburg-pa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician harrisburg pa",
     "slug": "electrician-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-harrisburg-pa",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 440,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic harrisburg pa",
     "slug": "mechanic-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-harrisburg-pa",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes harrisburg pa",
     "slug": "car-insurance-quotes-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-harrisburg-pa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments harrisburg pa",
     "slug": "apartments-harrisburg-pa",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-harrisburg-pa",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-harrisburg-pa",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,

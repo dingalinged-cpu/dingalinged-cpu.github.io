@@ -13,12 +13,12 @@ BC Cleaners is a dry cleaner in Evanston, IL at 1623 Chicago Avenue, Evanston, I
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 30% of dry cleaners in Chicago, #5 of 10 dry cleaners in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 30% of dry cleaners in Chicago, #5 of 10 dry cleaners in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/bc-cleaners-evanston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bc-cleaners-evanston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bc-cleaners-evanston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bc-cleaners-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2210256089 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

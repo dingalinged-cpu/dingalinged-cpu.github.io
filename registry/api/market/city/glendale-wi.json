@@ -2,7 +2,7 @@
  "title": "Keyword market data: Glendale, WI",
  "description": "Top Glendale, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Glendale, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 23,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash glendale wi",
     "slug": "car-wash-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-glendale-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist glendale wi",
     "slug": "dentist-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-glendale-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym glendale wi",
     "slug": "gym-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-glendale-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon glendale wi",
     "slug": "nail-salon-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-glendale-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic glendale wi",
     "slug": "mechanic-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-glendale-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -86,7 +86,7 @@
    {
     "keyword": "tire shop glendale wi",
     "slug": "tire-shop-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-glendale-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet glendale wi",
     "slug": "vet-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-glendale-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair glendale wi",
     "slug": "auto-repair-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-glendale-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -131,7 +131,7 @@
    {
     "keyword": "roofing contractor glendale wi",
     "slug": "roofing-contractor-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-glendale-wi/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -146,7 +146,7 @@
    {
     "keyword": "attorney glendale wi",
     "slug": "attorney-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-glendale-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -161,7 +161,7 @@
    {
     "keyword": "facial glendale wi",
     "slug": "facial-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-glendale-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -176,7 +176,7 @@
    {
     "keyword": "lawyer glendale wi",
     "slug": "lawyer-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-glendale-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -191,7 +191,7 @@
    {
     "keyword": "roofer glendale wi",
     "slug": "roofer-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-glendale-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -208,7 +208,7 @@
    {
     "keyword": "roofing contractor glendale wi",
     "slug": "roofing-contractor-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-glendale-wi/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -223,7 +223,7 @@
    {
     "keyword": "roofer glendale wi",
     "slug": "roofer-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-glendale-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney glendale wi",
     "slug": "attorney-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-glendale-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer glendale wi",
     "slug": "lawyer-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-glendale-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -268,7 +268,7 @@
    {
     "keyword": "bakery glendale wi",
     "slug": "bakery-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-glendale-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -283,7 +283,7 @@
    {
     "keyword": "acupuncture glendale wi",
     "slug": "acupuncture-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/acupuncture-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/acupuncture-glendale-wi/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 150,
@@ -298,7 +298,7 @@
    {
     "keyword": "assisted living glendale wi",
     "slug": "assisted-living-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-glendale-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -313,7 +313,7 @@
    {
     "keyword": "dentist glendale wi",
     "slug": "dentist-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-glendale-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -328,7 +328,7 @@
    {
     "keyword": "facial glendale wi",
     "slug": "facial-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-glendale-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -343,7 +343,7 @@
    {
     "keyword": "auto repair glendale wi",
     "slug": "auto-repair-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-glendale-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -358,7 +358,7 @@
    {
     "keyword": "car wash glendale wi",
     "slug": "car-wash-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-glendale-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -373,7 +373,7 @@
    {
     "keyword": "mechanic glendale wi",
     "slug": "mechanic-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-glendale-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -388,7 +388,7 @@
    {
     "keyword": "tire shop glendale wi",
     "slug": "tire-shop-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-glendale-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -403,7 +403,7 @@
    {
     "keyword": "jewelry store glendale wi",
     "slug": "jewelry-store-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-glendale-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -418,7 +418,7 @@
    {
     "keyword": "liquor store glendale wi",
     "slug": "liquor-store-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-glendale-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -435,7 +435,7 @@
    {
     "keyword": "dentist glendale wi",
     "slug": "dentist-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-glendale-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -450,7 +450,7 @@
    {
     "keyword": "car wash glendale wi",
     "slug": "car-wash-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-glendale-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -465,7 +465,7 @@
    {
     "keyword": "gym glendale wi",
     "slug": "gym-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-glendale-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -480,7 +480,7 @@
    {
     "keyword": "mechanic glendale wi",
     "slug": "mechanic-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-glendale-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -495,7 +495,7 @@
    {
     "keyword": "tire shop glendale wi",
     "slug": "tire-shop-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-glendale-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -510,7 +510,7 @@
    {
     "keyword": "vet glendale wi",
     "slug": "vet-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-glendale-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -525,7 +525,7 @@
    {
     "keyword": "roofing contractor glendale wi",
     "slug": "roofing-contractor-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-glendale-wi/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -540,7 +540,7 @@
    {
     "keyword": "auto repair glendale wi",
     "slug": "auto-repair-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-glendale-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -555,7 +555,7 @@
    {
     "keyword": "attorney glendale wi",
     "slug": "attorney-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-glendale-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -570,7 +570,7 @@
    {
     "keyword": "nail salon glendale wi",
     "slug": "nail-salon-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-glendale-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -585,7 +585,7 @@
    {
     "keyword": "roofer glendale wi",
     "slug": "roofer-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-glendale-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -600,7 +600,7 @@
    {
     "keyword": "lawyer glendale wi",
     "slug": "lawyer-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-glendale-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -615,7 +615,7 @@
    {
     "keyword": "facial glendale wi",
     "slug": "facial-glendale-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-glendale-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-glendale-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,

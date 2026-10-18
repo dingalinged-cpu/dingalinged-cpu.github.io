@@ -13,12 +13,12 @@ Swarovski is a jewelry store in Houston, TX at 303 Memorial City #702, Houston, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 58% of jewelry stores in Houston, #52 of 76 jewelry stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 58% of jewelry stores in Houston, #52 of 76 jewelry stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/swarovski-houston-n12217006357/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/swarovski-houston-n12217006357.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/swarovski-houston-n12217006357/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/swarovski-houston-n12217006357.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12217006357 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

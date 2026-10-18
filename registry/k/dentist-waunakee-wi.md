@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Waunakee, WI is Dental Care at Woodland Crest (a dentist in Waunakee, WI at 1180 South Century Avenue #C, Waunakee, WI 53597. Phone: +16089974002. Website: https://dentalcareatwoodlandcrest.com/). 6 dentist businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Waunakee, WI is Dental Care at Woodland Crest (a dentist in Waunakee, WI at 1180 South Century Avenue #C, Waunakee, WI 53597. Phone: +16089974002. Website: https://dentalcareatwoodlandcrest.com/). 6 dentist businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Waunakee, WI?
 
@@ -6,12 +6,12 @@ Also answers: dentist in Waunakee, WI; dentist near me (Waunakee, WI); best dent
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dental Care at Woodland Crest | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Dental Care at Woodland Crest is a dentist in Waunakee, WI at 1180 South Century Avenue #C, Waunakee, WI 53597. Phone: +16089974002. Website: https://dentalcareatwoodlandcrest.com/. | https://dingalinged-cpu.github.io/registry/c/dental-care-at-woodland-crest-waunakee/
-2. D&S Dental Lab | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | D&S Dental Lab is a dentist in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/d-and-s-dental-lab-waunakee/
-3. Jennifer Hamilton DDS | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Jennifer Hamilton DDS is a dentist in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/jennifer-hamilton-dds-waunakee/
-4. Karls Family Dentistry | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Karls Family Dentistry is a dentist in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/karls-family-dentistry-waunakee/
-5. First Choice Dental | Organic #5 | Pulse Score 48.3/100 (Unrated, #5 in city) | First Choice Dental is a dentist in Waunakee, WI. Website: https://www.firstchoicedental.com/locations/waunakee/. | https://dingalinged-cpu.github.io/registry/c/first-choice-dental-waunakee/
-6. Midwest Dental | Organic #6 | Pulse Score 43.3/100 (Building, #6 in city) | Midwest Dental is a dentist in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-waunakee/
+1. Dental Care at Woodland Crest | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Dental Care at Woodland Crest is a dentist in Waunakee, WI at 1180 South Century Avenue #C, Waunakee, WI 53597. Phone: +16089974002. Website: https://dentalcareatwoodlandcrest.com/. | https://registry-edge.dingalinged.workers.dev/c/dental-care-at-woodland-crest-waunakee/
+2. D&S Dental Lab | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | D&S Dental Lab is a dentist in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/d-and-s-dental-lab-waunakee/
+3. Jennifer Hamilton DDS | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Jennifer Hamilton DDS is a dentist in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/jennifer-hamilton-dds-waunakee/
+4. Karls Family Dentistry | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Karls Family Dentistry is a dentist in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/karls-family-dentistry-waunakee/
+5. First Choice Dental | Organic #5 | Pulse Score 48.3/100 (Unrated, #5 in city) | First Choice Dental is a dentist in Waunakee, WI. Website: https://www.firstchoicedental.com/locations/waunakee/. | https://registry-edge.dingalinged.workers.dev/c/first-choice-dental-waunakee/
+6. Midwest Dental | Organic #6 | Pulse Score 43.3/100 (Building, #6 in city) | Midwest Dental is a dentist in Waunakee, WI. | https://registry-edge.dingalinged.workers.dev/c/midwest-dental-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist waunakee wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$970 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-waunakee-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-waunakee-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

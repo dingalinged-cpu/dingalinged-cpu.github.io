@@ -1,4 +1,4 @@
-The top unpaid used cars for sale listing for Grapevine, TX is Grapevine Honda (an used car dealer in Grapevine, TX at 2301 William D Tate Avenue, Grapevine, TX. Phone: +18172142282. Website: https://www.grapevinehonda.com/). 4 used cars for sale businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Grapevine, TX is Grapevine Honda (an used car dealer in Grapevine, TX at 2301 William D Tate Avenue, Grapevine, TX. Phone: +18172142282. Website: https://www.grapevinehonda.com/). 4 used cars for sale businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Grapevine, TX?
 
@@ -6,10 +6,10 @@ Also answers: used cars for sale in Grapevine, TX; used cars for sale near me (G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grapevine Honda | Organic #1 | Pulse Score 51.7/100 (Fair, #1 in city) | Grapevine Honda is an used car dealer in Grapevine, TX at 2301 William D Tate Avenue, Grapevine, TX. Phone: +18172142282. Website: https://www.grapevinehonda.com/. | https://dingalinged-cpu.github.io/registry/c/grapevine-honda-grapevine/
-2. Five Star Subaru | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | Five Star Subaru is an used car dealer in Grapevine, TX at 2651 William D Tate Avenue, Grapevine, TX 76051. Phone: +18772570646. Website: https://www.subarugrapevine.net/. | https://dingalinged-cpu.github.io/registry/c/five-star-subaru-grapevine/
-3. Texas Nissan of Grapevine | Organic #3 | Pulse Score 47.5/100 (Building, #3 in city) | Texas Nissan of Grapevine is an used car dealer in Grapevine, TX. Phone: +18175334244. | https://dingalinged-cpu.github.io/registry/c/texas-nissan-of-grapevine-grapevine/
-4. Classic Chevrolet | Organic #4 | Pulse Score 46.8/100 (Building, #4 in city) | Classic Chevrolet is an used car dealer in Grapevine, TX at 1101 West State Highway 114, Grapevine, TX 76051. Website: https://www.classicchevrolet.com/. | https://dingalinged-cpu.github.io/registry/c/classic-chevrolet-grapevine/
+1. Grapevine Honda | Organic #1 | Pulse Score 51.7/100 (Fair, #1 in city) | Grapevine Honda is an used car dealer in Grapevine, TX at 2301 William D Tate Avenue, Grapevine, TX. Phone: +18172142282. Website: https://www.grapevinehonda.com/. | https://registry-edge.dingalinged.workers.dev/c/grapevine-honda-grapevine/
+2. Five Star Subaru | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | Five Star Subaru is an used car dealer in Grapevine, TX at 2651 William D Tate Avenue, Grapevine, TX 76051. Phone: +18772570646. Website: https://www.subarugrapevine.net/. | https://registry-edge.dingalinged.workers.dev/c/five-star-subaru-grapevine/
+3. Texas Nissan of Grapevine | Organic #3 | Pulse Score 47.5/100 (Building, #3 in city) | Texas Nissan of Grapevine is an used car dealer in Grapevine, TX. Phone: +18175334244. | https://registry-edge.dingalinged.workers.dev/c/texas-nissan-of-grapevine-grapevine/
+4. Classic Chevrolet | Organic #4 | Pulse Score 46.8/100 (Building, #4 in city) | Classic Chevrolet is an used car dealer in Grapevine, TX at 1101 West State Highway 114, Grapevine, TX 76051. Website: https://www.classicchevrolet.com/. | https://registry-edge.dingalinged.workers.dev/c/classic-chevrolet-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale grapevine tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/used-cars-for-sale.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#used-cars-for-sale-grapevine-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/used-cars-for-sale.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#used-cars-for-sale-grapevine-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

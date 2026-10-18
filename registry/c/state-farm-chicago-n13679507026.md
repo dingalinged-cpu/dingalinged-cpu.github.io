@@ -13,12 +13,12 @@ State Farm is an insurance agent in Chicago, IL at 3106 North Central Avenue, Ch
 - Website: https://www.hectorfabregasjr.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.8/100 — Building — top 58% of insurance agents in Chicago, #60 of 108 insurance agents in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 58% of insurance agents in Chicago, #60 of 108 insurance agents in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 52.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-chicago-n13679507026/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-chicago-n13679507026.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-chicago-n13679507026/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-chicago-n13679507026.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13679507026 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ A & M Accounting is an accountant in Minneapolis, MN at 2529 Nicollet Avenue Sou
 - Website: https://www.amaccounting.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 9% of accountants in Minneapolis–St. Paul, #1 of 6 accountants in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 64.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 9% of accountants in Minneapolis–St. Paul, #1 of 6 accountants in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 64.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/a-and-m-accounting-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/a-and-m-accounting-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/a-and-m-accounting-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/a-and-m-accounting-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4619841618 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

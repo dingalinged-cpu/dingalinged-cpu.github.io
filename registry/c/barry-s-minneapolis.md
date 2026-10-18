@@ -13,12 +13,12 @@ Barry’s is a gym in Minneapolis, MN at 701 North Washington Avenue, Minneapoli
 - Website: https://www.barrys.com/studio/minneapolis
 - Email: minneapolis@barrys.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-19:00; Su 08:00-14:00; Sa 07:00-13:00
-- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 44% of gyms in Minneapolis–St. Paul, #28 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.4/100 — Unrated (not enough evidence yet) — top 44% of gyms in Minneapolis–St. Paul, #28 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/barry-s-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/barry-s-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/barry-s-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/barry-s-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13724495101 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Acworth, GA is Biologic Dentistry (a dentist in Acworth, GA at 1781 Brookstone Walk Northwest #110, Acworth, GA 30101. Phone: +17704269994. Website: https://www.biologicdentistry.com/contact-us.html). 5 dentist businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Acworth, GA is Biologic Dentistry (a dentist in Acworth, GA at 1781 Brookstone Walk Northwest #110, Acworth, GA 30101. Phone: +17704269994. Website: https://www.biologicdentistry.com/contact-us.html). 5 dentist businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Acworth, GA?
 
@@ -6,11 +6,11 @@ Also answers: dentist in Acworth, GA; dentist near me (Acworth, GA); best dentis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Biologic Dentistry | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Biologic Dentistry is a dentist in Acworth, GA at 1781 Brookstone Walk Northwest #110, Acworth, GA 30101. Phone: +17704269994. Website: https://www.biologicdentistry.com/contact-us.html. | https://dingalinged-cpu.github.io/registry/c/biologic-dentistry-acworth/
-2. Glee Dential | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Glee Dential is a dentist in Acworth, GA at 3485 Acworth Due West Road #160, Acworth, GA 30101. Phone: +16789613370. Website: https://glee-dental.com/. | https://dingalinged-cpu.github.io/registry/c/glee-dential-acworth/
-3. Hildreth Dental | Organic #3 | Pulse Score 60.2/100 (Unrated, #3 in city) | Hildreth Dental is a dentist in Acworth, GA at 4900 Ivey Road #1424, Acworth, GA 30101. Website: https://hildrethdental.com/. | https://dingalinged-cpu.github.io/registry/c/hildreth-dental-acworth/
-4. Mountain View Dental | Organic #4 | Pulse Score 59.1/100 (Unrated, #4 in city) | Mountain View Dental is a dentist in Acworth, GA at 2320 Baker Road, Acworth, GA 30101. Phone: +17704298989. Website: https://dentistacworth.com/. | https://dingalinged-cpu.github.io/registry/c/mountain-view-dental-acworth/
-5. braces braces | Organic #5 | Pulse Score 55/100 (Unrated, #5 in city) | braces braces is a dentist in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/braces-braces-acworth/
+1. Biologic Dentistry | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Biologic Dentistry is a dentist in Acworth, GA at 1781 Brookstone Walk Northwest #110, Acworth, GA 30101. Phone: +17704269994. Website: https://www.biologicdentistry.com/contact-us.html. | https://registry-edge.dingalinged.workers.dev/c/biologic-dentistry-acworth/
+2. Glee Dential | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Glee Dential is a dentist in Acworth, GA at 3485 Acworth Due West Road #160, Acworth, GA 30101. Phone: +16789613370. Website: https://glee-dental.com/. | https://registry-edge.dingalinged.workers.dev/c/glee-dential-acworth/
+3. Hildreth Dental | Organic #3 | Pulse Score 60.2/100 (Unrated, #3 in city) | Hildreth Dental is a dentist in Acworth, GA at 4900 Ivey Road #1424, Acworth, GA 30101. Website: https://hildrethdental.com/. | https://registry-edge.dingalinged.workers.dev/c/hildreth-dental-acworth/
+4. Mountain View Dental | Organic #4 | Pulse Score 59.1/100 (Unrated, #4 in city) | Mountain View Dental is a dentist in Acworth, GA at 2320 Baker Road, Acworth, GA 30101. Phone: +17704298989. Website: https://dentistacworth.com/. | https://registry-edge.dingalinged.workers.dev/c/mountain-view-dental-acworth/
+5. braces braces | Organic #5 | Pulse Score 55/100 (Unrated, #5 in city) | braces braces is a dentist in Acworth, GA. | https://registry-edge.dingalinged.workers.dev/c/braces-braces-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist acworth ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$8,900 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-acworth-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-acworth-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

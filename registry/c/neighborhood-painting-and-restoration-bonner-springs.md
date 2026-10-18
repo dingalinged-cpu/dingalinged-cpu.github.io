@@ -13,12 +13,12 @@ Neighborhood Painting & Restoration is a painting contractor in Bonner Springs, 
 - Website: https://kcneighborhoodpainting.com/
 - Email: office@kcneighborhoodpainting.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00; Sa,Su off
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 50% of painting contractors in Kansas City, MO, #1 of 1 painting contractors in Bonner Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 50% of painting contractors in Kansas City, MO, #1 of 1 painting contractors in Bonner Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/neighborhood-painting-and-restoration-bonner-springs/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/neighborhood-painting-and-restoration-bonner-springs.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/neighborhood-painting-and-restoration-bonner-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/neighborhood-painting-and-restoration-bonner-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12276859451 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

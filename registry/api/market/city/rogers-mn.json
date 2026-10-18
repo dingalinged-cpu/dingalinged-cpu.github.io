@@ -2,7 +2,7 @@
  "title": "Keyword market data: Rogers, MN",
  "description": "Top Rogers, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Rogers, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 40,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash rogers mn",
     "slug": "car-wash-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-rogers-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist rogers mn",
     "slug": "dentist-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rogers-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym rogers mn",
     "slug": "gym-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-rogers-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon rogers mn",
     "slug": "hair-salon-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-rogers-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon rogers mn",
     "slug": "nail-salon-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-rogers-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic rogers mn",
     "slug": "mechanic-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rogers-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop rogers mn",
     "slug": "tire-shop-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rogers-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut rogers mn",
     "slug": "haircut-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rogers-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair rogers mn",
     "slug": "auto-repair-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rogers-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -146,7 +146,7 @@
    {
     "keyword": "chiropractor rogers mn",
     "slug": "chiropractor-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-rogers-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agency rogers mn",
     "slug": "insurance-agency-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rogers-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparation rogers mn",
     "slug": "tax-preparation-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-rogers-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -191,7 +191,7 @@
    {
     "keyword": "tax preparer rogers mn",
     "slug": "tax-preparer-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rogers-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agents rogers mn",
     "slug": "insurance-agents-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-rogers-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agent rogers mn",
     "slug": "insurance-agent-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-rogers-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -238,7 +238,7 @@
    {
     "keyword": "window replacement rogers mn",
     "slug": "window-replacement-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-replacement-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-rogers-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -253,7 +253,7 @@
    {
     "keyword": "flooring companies rogers mn",
     "slug": "flooring-companies-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-rogers-mn/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -268,7 +268,7 @@
    {
     "keyword": "storage units rogers mn",
     "slug": "storage-units-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-rogers-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -283,7 +283,7 @@
    {
     "keyword": "event venues rogers mn",
     "slug": "event-venues-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-rogers-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -298,7 +298,7 @@
    {
     "keyword": "photographer rogers mn",
     "slug": "photographer-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-rogers-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -313,7 +313,7 @@
    {
     "keyword": "dance studio rogers mn",
     "slug": "dance-studio-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-rogers-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -328,7 +328,7 @@
    {
     "keyword": "martial arts rogers mn",
     "slug": "martial-arts-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-rogers-mn/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3300,
@@ -343,7 +343,7 @@
    {
     "keyword": "graphic designer rogers mn",
     "slug": "graphic-designer-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/graphic-designer-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/graphic-designer-rogers-mn/",
     "us_monthly_searches": 8100,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 90.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "tax preparer rogers mn",
     "slug": "tax-preparer-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rogers-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -373,7 +373,7 @@
    {
     "keyword": "daycare rogers mn",
     "slug": "daycare-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-rogers-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool rogers mn",
     "slug": "preschool-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-rogers-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -403,7 +403,7 @@
    {
     "keyword": "assisted living rogers mn",
     "slug": "assisted-living-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-rogers-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -418,7 +418,7 @@
    {
     "keyword": "chiropractor rogers mn",
     "slug": "chiropractor-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-rogers-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -433,7 +433,7 @@
    {
     "keyword": "dermatologist rogers mn",
     "slug": "dermatologist-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dermatologist-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dermatologist-rogers-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -448,7 +448,7 @@
    {
     "keyword": "family doctor rogers mn",
     "slug": "family-doctor-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-rogers-mn/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist rogers mn",
     "slug": "dentist-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-rogers-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash rogers mn",
     "slug": "car-wash-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-rogers-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym rogers mn",
     "slug": "gym-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-rogers-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic rogers mn",
     "slug": "mechanic-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-rogers-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop rogers mn",
     "slug": "tire-shop-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-rogers-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -540,7 +540,7 @@
    {
     "keyword": "haircut rogers mn",
     "slug": "haircut-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-rogers-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -555,7 +555,7 @@
    {
     "keyword": "auto repair rogers mn",
     "slug": "auto-repair-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-rogers-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -570,7 +570,7 @@
    {
     "keyword": "chiropractor rogers mn",
     "slug": "chiropractor-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-rogers-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon rogers mn",
     "slug": "hair-salon-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-rogers-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -600,7 +600,7 @@
    {
     "keyword": "nail salon rogers mn",
     "slug": "nail-salon-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-rogers-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -615,7 +615,7 @@
    {
     "keyword": "tax preparer rogers mn",
     "slug": "tax-preparer-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-rogers-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agency rogers mn",
     "slug": "insurance-agency-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-rogers-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -645,7 +645,7 @@
    {
     "keyword": "tax preparation rogers mn",
     "slug": "tax-preparation-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-rogers-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agents rogers mn",
     "slug": "insurance-agents-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-rogers-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -675,7 +675,7 @@
    {
     "keyword": "family doctor rogers mn",
     "slug": "family-doctor-rogers-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-rogers-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-rogers-mn/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,

@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Blue Springs, MO is Casa Bella Salon (a hair salon in Blue Springs, MO at 3100 MO Hwy 7 #C, Blue Springs, MO 64014. Phone: +18162289938. Website: https://casabellasalon.net/). 6 haircut businesses are listed for Blue Springs, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Blue Springs, MO is Casa Bella Salon (a hair salon in Blue Springs, MO at 3100 MO Hwy 7 #C, Blue Springs, MO 64014. Phone: +18162289938. Website: https://casabellasalon.net/). 6 haircut businesses are listed for Blue Springs, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Blue Springs, MO?
 
@@ -6,12 +6,12 @@ Also answers: haircut in Blue Springs, MO; haircut near me (Blue Springs, MO); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Casa Bella Salon | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Casa Bella Salon is a hair salon in Blue Springs, MO at 3100 MO Hwy 7 #C, Blue Springs, MO 64014. Phone: +18162289938. Website: https://casabellasalon.net/. | https://dingalinged-cpu.github.io/registry/c/casa-bella-salon-blue-springs/
-2. Kristen McGhee - Stylist | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Kristen McGhee - Stylist is a hair salon in Blue Springs, MO at 806 Southwest 10th Street, Blue Springs, MO 64015. Phone: +18162846159. | https://dingalinged-cpu.github.io/registry/c/kristen-mcghee-stylist-blue-springs/
-3. Dean's Barber Shop | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Dean's Barber Shop is a hair salon in Blue Springs, MO. | https://dingalinged-cpu.github.io/registry/c/deans-barber-shop-blue-springs/
-4. Locker Room | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Locker Room is a hair salon in Blue Springs, MO. | https://dingalinged-cpu.github.io/registry/c/locker-room-blue-springs/
-5. Supercuts | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | Supercuts is a hair salon in Blue Springs, MO. | https://dingalinged-cpu.github.io/registry/c/supercuts-blue-springs/
-6. Sport Clips | Organic #6 | Pulse Score 43.1/100 (Building, #6 in city) | Sport Clips is a hair salon in Blue Springs, MO. | https://dingalinged-cpu.github.io/registry/c/sport-clips-blue-springs/
+1. Casa Bella Salon | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Casa Bella Salon is a hair salon in Blue Springs, MO at 3100 MO Hwy 7 #C, Blue Springs, MO 64014. Phone: +18162289938. Website: https://casabellasalon.net/. | https://registry-edge.dingalinged.workers.dev/c/casa-bella-salon-blue-springs/
+2. Kristen McGhee - Stylist | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Kristen McGhee - Stylist is a hair salon in Blue Springs, MO at 806 Southwest 10th Street, Blue Springs, MO 64015. Phone: +18162846159. | https://registry-edge.dingalinged.workers.dev/c/kristen-mcghee-stylist-blue-springs/
+3. Dean's Barber Shop | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Dean's Barber Shop is a hair salon in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/deans-barber-shop-blue-springs/
+4. Locker Room | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Locker Room is a hair salon in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/locker-room-blue-springs/
+5. Supercuts | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | Supercuts is a hair salon in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/supercuts-blue-springs/
+6. Sport Clips | Organic #6 | Pulse Score 43.1/100 (Building, #6 in city) | Sport Clips is a hair salon in Blue Springs, MO. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-blue-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut blue springs mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$630 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-blue-springs-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-blue-springs-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

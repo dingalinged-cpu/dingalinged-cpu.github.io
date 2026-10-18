@@ -1,4 +1,4 @@
-The top unpaid vet listing for Sandy Springs, GA is Powers Ferry Animal Hospital (a veterinarian in Atlanta, GA at 5565 New Northside Drive Northwest, Atlanta, GA 30339. Phone: +17709551291. Website: https://www.powersferryanimalhospital.com/). 3 vet businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Sandy Springs, GA is Powers Ferry Animal Hospital (a veterinarian in Atlanta, GA at 5565 New Northside Drive Northwest, Atlanta, GA 30339. Phone: +17709551291. Website: https://www.powersferryanimalhospital.com/). 3 vet businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Sandy Springs, GA?
 
@@ -6,9 +6,9 @@ Also answers: vet in Sandy Springs, GA; vet near me (Sandy Springs, GA); best ve
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Powers Ferry Animal Hospital | Organic #1 | Pulse Score 61.1/100 (Unrated, #5 in city) | Powers Ferry Animal Hospital is a veterinarian in Atlanta, GA at 5565 New Northside Drive Northwest, Atlanta, GA 30339. Phone: +17709551291. Website: https://www.powersferryanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/powers-ferry-animal-hospital-atlanta/
-2. Animal Emergency Center of Sandy Springs | Organic #2 | Pulse Score 58.1/100 (Unrated, #1 in city) | Animal Emergency Center of Sandy Springs is a veterinarian in Sandy Springs, GA at 228 Sandy Springs Place Northeast, Sandy Springs, GA 30328. Phone: +14042527881. Website: https://www.aecsandysprings.com/. | https://dingalinged-cpu.github.io/registry/c/animal-emergency-center-of-sandy-springs-sandy-springs/
-3. BluePearl | Organic #3 | Pulse Score 48/100 (Building, #17 in city) | BluePearl is a veterinarian in Atlanta, GA at 455 Abernathy Road Northeast, Atlanta, GA 30328. Phone: +14044590903. Website: https://bluepearlvet.com/georgia/overview/sandysprings/. | https://dingalinged-cpu.github.io/registry/c/bluepearl-atlanta/
+1. Powers Ferry Animal Hospital | Organic #1 | Pulse Score 61.1/100 (Unrated, #5 in city) | Powers Ferry Animal Hospital is a veterinarian in Atlanta, GA at 5565 New Northside Drive Northwest, Atlanta, GA 30339. Phone: +17709551291. Website: https://www.powersferryanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/powers-ferry-animal-hospital-atlanta/
+2. Animal Emergency Center of Sandy Springs | Organic #2 | Pulse Score 58.1/100 (Unrated, #1 in city) | Animal Emergency Center of Sandy Springs is a veterinarian in Sandy Springs, GA at 228 Sandy Springs Place Northeast, Sandy Springs, GA 30328. Phone: +14042527881. Website: https://www.aecsandysprings.com/. | https://registry-edge.dingalinged.workers.dev/c/animal-emergency-center-of-sandy-springs-sandy-springs/
+3. BluePearl | Organic #3 | Pulse Score 48/100 (Building, #17 in city) | BluePearl is a veterinarian in Atlanta, GA at 455 Abernathy Road Northeast, Atlanta, GA 30328. Phone: +14044590903. Website: https://bluepearlvet.com/georgia/overview/sandysprings/. | https://registry-edge.dingalinged.workers.dev/c/bluepearl-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet sandy springs ga | category: Pets | industry benchmark: Animals & Pets
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-sandy-springs-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-sandy-springs-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

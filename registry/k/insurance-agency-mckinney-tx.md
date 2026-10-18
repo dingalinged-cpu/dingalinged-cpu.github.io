@@ -1,4 +1,4 @@
-The top unpaid insurance agency listing for Mckinney, TX is Fidelity National Title (an insurance agent in McKinney, TX at 3100 Ridge Road #100, McKinney, TX 75070. Phone: +14694081460. Website: https://texas.fntic.com/Offices/Dallas). 2 insurance agency businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Mckinney, TX is Fidelity National Title (an insurance agent in McKinney, TX at 3100 Ridge Road #100, McKinney, TX 75070. Phone: +14694081460. Website: https://texas.fntic.com/Offices/Dallas). 2 insurance agency businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Mckinney, TX?
 
@@ -6,8 +6,8 @@ Also answers: insurance agency in Mckinney, TX; insurance agency near me (Mckinn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fidelity National Title | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Fidelity National Title is an insurance agent in McKinney, TX at 3100 Ridge Road #100, McKinney, TX 75070. Phone: +14694081460. Website: https://texas.fntic.com/Offices/Dallas. | https://dingalinged-cpu.github.io/registry/c/fidelity-national-title-mckinney/
-2. Global Green Insurance Agency | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Global Green Insurance Agency is an insurance agent in McKinney, TX at 307 South McDonald Street #102, McKinney, TX 75069. Phone: +19725480325. Website: https://globalgreeninsuranceagency.net/. | https://dingalinged-cpu.github.io/registry/c/global-green-insurance-agency-mckinney/
+1. Fidelity National Title | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Fidelity National Title is an insurance agent in McKinney, TX at 3100 Ridge Road #100, McKinney, TX 75070. Phone: +14694081460. Website: https://texas.fntic.com/Offices/Dallas. | https://registry-edge.dingalinged.workers.dev/c/fidelity-national-title-mckinney/
+2. Global Green Insurance Agency | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Global Green Insurance Agency is an insurance agent in McKinney, TX at 307 South McDonald Street #102, McKinney, TX 75069. Phone: +19725480325. Website: https://globalgreeninsuranceagency.net/. | https://registry-edge.dingalinged.workers.dev/c/global-green-insurance-agency-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency mckinney tx | category: insurance | industry benchmark: Finance & Insurance
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$620 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agency-mckinney-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agency-mckinney-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ uBreakiFix is a phone repair shop in Chicago, IL at 106 West Chicago Avenue, Chi
 - Website: https://www.asurion.com/repairs/tech/locations/rivernorth/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00
-- Pulse Score: 48.9/100 — Building — top 32% of phone repair shops in Chicago, #3 of 6 phone repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 32% of phone repair shops in Chicago, #3 of 6 phone repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ubreakifix-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ubreakifix-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ubreakifix-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ubreakifix-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12117588147 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

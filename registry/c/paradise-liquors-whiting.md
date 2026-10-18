@@ -13,12 +13,12 @@ Paradise Liquors is a liquor store in Whiting, IN at 1506 119th Street, Whiting,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Chicago, #2 of 2 liquor stores in Whiting (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of liquor stores in Chicago, #2 of 2 liquor stores in Whiting (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/paradise-liquors-whiting/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/paradise-liquors-whiting.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/paradise-liquors-whiting/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/paradise-liquors-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232487824 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

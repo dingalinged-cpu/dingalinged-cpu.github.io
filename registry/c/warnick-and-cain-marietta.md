@@ -13,12 +13,12 @@ Warnick & Cain is a financial advisor in Marietta, GA at 255 Village Parkway Nor
 - Website: https://wcplanning.com/
 - Email: info@wcplanning.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 64.3/100 — Good — top 4% of financial advisors in Atlanta, #1 of 1 financial advisors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 65.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 4% of financial advisors in Atlanta, #1 of 1 financial advisors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 65.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/warnick-and-cain-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/warnick-and-cain-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/warnick-and-cain-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/warnick-and-cain-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13393652203 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

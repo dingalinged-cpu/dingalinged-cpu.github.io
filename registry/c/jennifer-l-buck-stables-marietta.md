@@ -13,12 +13,12 @@ Jennifer L. Buck Stables is a dog boarding facility in Marietta, GA at 1323 Blac
 - Website: https://www.mariettariding.com/
 - Email: JenniferLBuckStables@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Good — top 4% of dog boarding facilitys in Atlanta, #1 of 5 dog boarding facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 4% of dog boarding facilitys in Atlanta, #1 of 5 dog boarding facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/jennifer-l-buck-stables-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jennifer-l-buck-stables-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jennifer-l-buck-stables-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jennifer-l-buck-stables-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/386888528 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

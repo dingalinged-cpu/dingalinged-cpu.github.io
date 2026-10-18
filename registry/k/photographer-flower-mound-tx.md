@@ -1,4 +1,4 @@
-The top unpaid photographer listing for Flower Mound, TX is LaLa Photography DFW (a photographer in Flower Mound, TX at 840 Parker Square Road, Flower Mound, TX 75028. Phone: +14693648200. Website: https://www.lalaphotographydfw.com/). 2 photographer businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Flower Mound, TX is LaLa Photography DFW (a photographer in Flower Mound, TX at 840 Parker Square Road, Flower Mound, TX 75028. Phone: +14693648200. Website: https://www.lalaphotographydfw.com/). 2 photographer businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Flower Mound, TX?
 
@@ -6,8 +6,8 @@ Also answers: photographer in Flower Mound, TX; photographer near me (Flower Mou
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LaLa Photography DFW | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | LaLa Photography DFW is a photographer in Flower Mound, TX at 840 Parker Square Road, Flower Mound, TX 75028. Phone: +14693648200. Website: https://www.lalaphotographydfw.com/. | https://dingalinged-cpu.github.io/registry/c/lala-photography-dfw-flower-mound/
-2. Prestige Photography | Organic #2 | Pulse Score 58.9/100 (Fair, #2 in city) | Prestige Photography is a photographer in Flower Mound, TX at 2250 Morriss Road #201, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/prestige-photography-flower-mound/
+1. LaLa Photography DFW | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | LaLa Photography DFW is a photographer in Flower Mound, TX at 840 Parker Square Road, Flower Mound, TX 75028. Phone: +14693648200. Website: https://www.lalaphotographydfw.com/. | https://registry-edge.dingalinged.workers.dev/c/lala-photography-dfw-flower-mound/
+2. Prestige Photography | Organic #2 | Pulse Score 58.9/100 (Fair, #2 in city) | Prestige Photography is a photographer in Flower Mound, TX at 2250 Morriss Road #201, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/prestige-photography-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer flower mound tx | category: Events & weddings | industry benchmark: Personal Services
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/photographer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#photographer-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/photographer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#photographer-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Sandy Springs, GA",
  "description": "Top Sandy Springs, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Sandy Springs, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 39,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage sandy springs ga",
     "slug": "massage-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-sandy-springs-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash sandy springs ga",
     "slug": "car-wash-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-sandy-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist sandy springs ga",
     "slug": "dentist-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-sandy-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym sandy springs ga",
     "slug": "gym-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-sandy-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon sandy springs ga",
     "slug": "hair-salon-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-sandy-springs-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon sandy springs ga",
     "slug": "nail-salon-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-sandy-springs-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic sandy springs ga",
     "slug": "mechanic-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-sandy-springs-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop sandy springs ga",
     "slug": "tire-shop-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-sandy-springs-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet sandy springs ga",
     "slug": "vet-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-sandy-springs-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer sandy springs ga",
     "slug": "dog-groomer-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-sandy-springs-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut sandy springs ga",
     "slug": "haircut-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-sandy-springs-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair sandy springs ga",
     "slug": "auto-repair-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-sandy-springs-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor sandy springs ga",
     "slug": "chiropractor-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-sandy-springs-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -206,7 +206,7 @@
    {
     "keyword": "financial advisor sandy springs ga",
     "slug": "financial-advisor-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-sandy-springs-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -221,7 +221,7 @@
    {
     "keyword": "spa sandy springs ga",
     "slug": "spa-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-sandy-springs-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney sandy springs ga",
     "slug": "attorney-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-sandy-springs-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer sandy springs ga",
     "slug": "lawyer-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-sandy-springs-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -268,7 +268,7 @@
    {
     "keyword": "storage units sandy springs ga",
     "slug": "storage-units-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-sandy-springs-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -283,7 +283,7 @@
    {
     "keyword": "bakery sandy springs ga",
     "slug": "bakery-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-sandy-springs-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -298,7 +298,7 @@
    {
     "keyword": "dance studio sandy springs ga",
     "slug": "dance-studio-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-sandy-springs-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -313,7 +313,7 @@
    {
     "keyword": "business consultant sandy springs ga",
     "slug": "business-consultant-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/business-consultant-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/business-consultant-sandy-springs-ga/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 340,
@@ -328,7 +328,7 @@
    {
     "keyword": "daycare sandy springs ga",
     "slug": "daycare-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-sandy-springs-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -343,7 +343,7 @@
    {
     "keyword": "assisted living sandy springs ga",
     "slug": "assisted-living-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-sandy-springs-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -358,7 +358,7 @@
    {
     "keyword": "chiropractor sandy springs ga",
     "slug": "chiropractor-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-sandy-springs-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -373,7 +373,7 @@
    {
     "keyword": "eye doctor sandy springs ga",
     "slug": "eye-doctor-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-sandy-springs-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -388,7 +388,7 @@
    {
     "keyword": "pediatrician sandy springs ga",
     "slug": "pediatrician-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-sandy-springs-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -403,7 +403,7 @@
    {
     "keyword": "plastic surgeon sandy springs ga",
     "slug": "plastic-surgeon-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-sandy-springs-ga/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 630,
@@ -418,7 +418,7 @@
    {
     "keyword": "dentist sandy springs ga",
     "slug": "dentist-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-sandy-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -433,7 +433,7 @@
    {
     "keyword": "haircut sandy springs ga",
     "slug": "haircut-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-sandy-springs-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -448,7 +448,7 @@
    {
     "keyword": "massage sandy springs ga",
     "slug": "massage-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-sandy-springs-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage sandy springs ga",
     "slug": "massage-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-sandy-springs-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist sandy springs ga",
     "slug": "dentist-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-sandy-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash sandy springs ga",
     "slug": "car-wash-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-sandy-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym sandy springs ga",
     "slug": "gym-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-sandy-springs-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic sandy springs ga",
     "slug": "mechanic-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-sandy-springs-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop sandy springs ga",
     "slug": "tire-shop-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-sandy-springs-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet sandy springs ga",
     "slug": "vet-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-sandy-springs-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog groomer sandy springs ga",
     "slug": "dog-groomer-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-sandy-springs-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut sandy springs ga",
     "slug": "haircut-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-sandy-springs-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair sandy springs ga",
     "slug": "auto-repair-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-sandy-springs-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -615,7 +615,7 @@
    {
     "keyword": "chiropractor sandy springs ga",
     "slug": "chiropractor-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-sandy-springs-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -630,7 +630,7 @@
    {
     "keyword": "spa sandy springs ga",
     "slug": "spa-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-sandy-springs-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -645,7 +645,7 @@
    {
     "keyword": "financial advisor sandy springs ga",
     "slug": "financial-advisor-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-sandy-springs-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -660,7 +660,7 @@
    {
     "keyword": "hair salon sandy springs ga",
     "slug": "hair-salon-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-sandy-springs-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -675,7 +675,7 @@
    {
     "keyword": "attorney sandy springs ga",
     "slug": "attorney-sandy-springs-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-sandy-springs-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-sandy-springs-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

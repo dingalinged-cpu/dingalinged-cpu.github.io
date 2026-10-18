@@ -2,7 +2,7 @@
  "title": "Keyword market data: Birmingham, AL",
  "description": "Top Birmingham, AL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Birmingham, AL",
  "geography": "Birmingham, AL metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage birmingham al",
     "slug": "massage-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-birmingham-al",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care birmingham al",
     "slug": "urgent-care-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-birmingham-al",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9600,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist birmingham al",
     "slug": "dentist-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-birmingham-al",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6400,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym birmingham al",
     "slug": "gym-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-birmingham-al",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6400,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash birmingham al",
     "slug": "car-wash-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-birmingham-al",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6400,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change birmingham al",
     "slug": "oil-change-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-birmingham-al",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6400,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon birmingham al",
     "slug": "hair-salon-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-birmingham-al",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon birmingham al",
     "slug": "nail-salon-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-birmingham-al",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3500,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes birmingham al",
     "slug": "car-insurance-quotes-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-birmingham-al",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2900,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber birmingham al",
     "slug": "plumber-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-birmingham-al",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2900,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments birmingham al",
     "slug": "apartments-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-birmingham-al",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2900,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance birmingham al",
     "slug": "auto-insurance-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-birmingham-al",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop birmingham al",
     "slug": "barber-shop-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-birmingham-al",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage birmingham al",
     "slug": "lymphatic-drainage-massage-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-birmingham-al",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic birmingham al",
     "slug": "mechanic-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-birmingham-al",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer birmingham al",
     "slug": "personal-injury-lawyer-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-birmingham-al",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 700,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber birmingham al",
     "slug": "emergency-plumber-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-birmingham-al",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 260,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair birmingham al",
     "slug": "hvac-repair-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-birmingham-al",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 260,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair birmingham al",
     "slug": "ac-repair-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-birmingham-al",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement birmingham al",
     "slug": "roof-replacement-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-birmingham-al",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair birmingham al",
     "slug": "roof-repair-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-birmingham-al",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 260,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast birmingham al",
     "slug": "sell-my-house-fast-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-birmingham-al",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services birmingham al",
     "slug": "plumbing-services-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-birmingham-al",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining birmingham al",
     "slug": "deck-staining-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-birmingham-al",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 63.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters birmingham al",
     "slug": "exterior-house-painters-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-birmingham-al",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters birmingham al",
     "slug": "interior-painters-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-birmingham-al",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters birmingham al",
     "slug": "painters-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-birmingham-al",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 210,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company birmingham al",
     "slug": "moving-company-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-birmingham-al",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 700,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney birmingham al",
     "slug": "criminal-defense-attorney-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-birmingham-al",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 320,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer birmingham al",
     "slug": "dui-defense-lawyer-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-birmingham-al",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 13.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage birmingham al",
     "slug": "massage-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-birmingham-al",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care birmingham al",
     "slug": "urgent-care-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-birmingham-al",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9600,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer birmingham al",
     "slug": "personal-injury-lawyer-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-birmingham-al",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 700,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber birmingham al",
     "slug": "plumber-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-birmingham-al",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2900,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist birmingham al",
     "slug": "dentist-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-birmingham-al",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6400,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash birmingham al",
     "slug": "car-wash-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-birmingham-al",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6400,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change birmingham al",
     "slug": "oil-change-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-birmingham-al",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6400,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair birmingham al",
     "slug": "ac-repair-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-birmingham-al",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer birmingham al",
     "slug": "car-accident-lawyer-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-birmingham-al",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym birmingham al",
     "slug": "gym-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-birmingham-al",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6400,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage birmingham al",
     "slug": "lymphatic-drainage-massage-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-birmingham-al",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician birmingham al",
     "slug": "electrician-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-birmingham-al",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 860,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic birmingham al",
     "slug": "mechanic-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-birmingham-al",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes birmingham al",
     "slug": "car-insurance-quotes-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-birmingham-al",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2900,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments birmingham al",
     "slug": "apartments-birmingham-al",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-birmingham-al",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-birmingham-al",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2900,

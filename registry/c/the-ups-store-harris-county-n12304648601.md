@@ -13,12 +13,12 @@ The UPS Store is a printing service in Harris County, TX at 15634 Wallisville Ro
 - Website: https://locations.theupsstore.com/tx/houston/15634-wallisville-rd
 - Email: store6204@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 10:00-15:00
-- Pulse Score: 50.8/100 — Fair — top 30% of printing services in Houston, #4 of 7 printing services in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 30% of printing services in Houston, #4 of 7 printing services in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-harris-county-n12304648601/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-harris-county-n12304648601.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ups-store-harris-county-n12304648601/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ups-store-harris-county-n12304648601.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12304648601 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

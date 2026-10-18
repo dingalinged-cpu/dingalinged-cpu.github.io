@@ -1,4 +1,4 @@
-The top unpaid massage listing for West Des Moines, IA is Bodywork Solutions (a massage studio in West Des Moines, IA at 1905 E P True Parkway, West Des Moines, IA 50265). 3 massage businesses are listed for West Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for West Des Moines, IA is Bodywork Solutions (a massage studio in West Des Moines, IA at 1905 E P True Parkway, West Des Moines, IA 50265). 3 massage businesses are listed for West Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in West Des Moines, IA?
 
@@ -6,9 +6,9 @@ Also answers: massage in West Des Moines, IA; massage near me (West Des Moines, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bodywork Solutions | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Bodywork Solutions is a massage studio in West Des Moines, IA at 1905 E P True Parkway, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/bodywork-solutions-west-des-moines/
-2. Valley Junction Massage | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Valley Junction Massage is a massage studio in West Des Moines, IA at 425 5th Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/valley-junction-massage-west-des-moines/
-3. Massage Heights | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | Massage Heights is a massage studio in West Des Moines, IA at 640 South 50th Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/massage-heights-west-des-moines/
+1. Bodywork Solutions | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Bodywork Solutions is a massage studio in West Des Moines, IA at 1905 E P True Parkway, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/bodywork-solutions-west-des-moines/
+2. Valley Junction Massage | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Valley Junction Massage is a massage studio in West Des Moines, IA at 425 5th Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/valley-junction-massage-west-des-moines/
+3. Massage Heights | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | Massage Heights is a massage studio in West Des Moines, IA at 640 South 50th Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/massage-heights-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage west des moines ia | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,900 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/massage.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#massage-west-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/massage.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#massage-west-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

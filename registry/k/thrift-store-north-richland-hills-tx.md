@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for North Richland Hills, TX is Second Glance (a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909). 2 thrift store businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for North Richland Hills, TX is Second Glance (a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909). 2 thrift store businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in North Richland Hills, TX?
 
@@ -6,8 +6,8 @@ Also answers: thrift store in North Richland Hills, TX; thrift store near me (No
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Second Glance | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Second Glance is a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909. | https://dingalinged-cpu.github.io/registry/c/second-glance-north-richland-hills/
-2. Leukemia Texas Donation Center | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Leukemia Texas Donation Center is a thrift store in North Richland Hills, TX at 6702 Davis Boulevard, North Richland Hills, TX 76182. Website: https://leukemiatexas.org/haltom-thrift/. | https://dingalinged-cpu.github.io/registry/c/leukemia-texas-donation-center-north-richland-hills/
+1. Second Glance | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Second Glance is a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909. | https://registry-edge.dingalinged.workers.dev/c/second-glance-north-richland-hills/
+2. Leukemia Texas Donation Center | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Leukemia Texas Donation Center is a thrift store in North Richland Hills, TX at 6702 Davis Boulevard, North Richland Hills, TX 76182. Website: https://leukemiatexas.org/haltom-thrift/. | https://registry-edge.dingalinged.workers.dev/c/leukemia-texas-donation-center-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store north richland hills tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#thrift-store-north-richland-hills-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/thrift-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#thrift-store-north-richland-hills-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

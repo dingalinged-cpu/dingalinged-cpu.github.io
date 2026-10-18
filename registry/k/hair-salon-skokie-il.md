@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Skokie, IL is Betty's and Nick's Family Hair (a hair salon in Skokie, IL at 4110 Oakton Street, Skokie, IL 60076). 6 hair salon businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Skokie, IL is Betty's and Nick's Family Hair (a hair salon in Skokie, IL at 4110 Oakton Street, Skokie, IL 60076). 6 hair salon businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Skokie, IL?
 
@@ -6,12 +6,12 @@ Also answers: hair salon in Skokie, IL; hair salon near me (Skokie, IL); best ha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Betty's and Nick's Family Hair | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Betty's and Nick's Family Hair is a hair salon in Skokie, IL at 4110 Oakton Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/bettys-and-nicks-family-hair-skokie/
-2. Cutter's Cove | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Cutter's Cove is a hair salon in Skokie, IL at 4037 Oakton Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/cutters-cove-skokie/
-3. Gina Salon | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Gina Salon is a hair salon in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/gina-salon-skokie/
-4. Studio 49 Salon | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Studio 49 Salon is a hair salon in Skokie, IL at 4903 Oakton Street, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/studio-49-salon-skokie/
-5. Hair Cuttery | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Hair Cuttery is a hair salon in Skokie, IL at 5451 West Touhy Avenue #20, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-skokie/
-6. Sport Clips | Organic #6 | Pulse Score 45.1/100 (Building, #6 in city) | Sport Clips is a hair salon in Skokie, IL at 9442 Skokie Boulevard, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/sport-clips-skokie/
+1. Betty's and Nick's Family Hair | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Betty's and Nick's Family Hair is a hair salon in Skokie, IL at 4110 Oakton Street, Skokie, IL 60076. | https://registry-edge.dingalinged.workers.dev/c/bettys-and-nicks-family-hair-skokie/
+2. Cutter's Cove | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Cutter's Cove is a hair salon in Skokie, IL at 4037 Oakton Street, Skokie, IL 60076. | https://registry-edge.dingalinged.workers.dev/c/cutters-cove-skokie/
+3. Gina Salon | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Gina Salon is a hair salon in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://registry-edge.dingalinged.workers.dev/c/gina-salon-skokie/
+4. Studio 49 Salon | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Studio 49 Salon is a hair salon in Skokie, IL at 4903 Oakton Street, Skokie, IL 60077. | https://registry-edge.dingalinged.workers.dev/c/studio-49-salon-skokie/
+5. Hair Cuttery | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Hair Cuttery is a hair salon in Skokie, IL at 5451 West Touhy Avenue #20, Skokie, IL 60077. | https://registry-edge.dingalinged.workers.dev/c/hair-cuttery-skokie/
+6. Sport Clips | Organic #6 | Pulse Score 45.1/100 (Building, #6 in city) | Sport Clips is a hair salon in Skokie, IL at 9442 Skokie Boulevard, Skokie, IL 60077. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon skokie il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/hair-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-skokie-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-skokie-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

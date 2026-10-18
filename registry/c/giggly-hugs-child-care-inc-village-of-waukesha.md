@@ -13,12 +13,12 @@ Giggly Hugs Child Care Inc is a daycare in Village of Waukesha, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 92% of daycares in Milwaukee, #1 of 1 daycares in Village of Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 38.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 92% of daycares in Milwaukee, #1 of 1 daycares in Village of Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 38.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/giggly-hugs-child-care-inc-village-of-waukesha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/giggly-hugs-child-care-inc-village-of-waukesha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/giggly-hugs-child-care-inc-village-of-waukesha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/giggly-hugs-child-care-inc-village-of-waukesha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8429935258 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

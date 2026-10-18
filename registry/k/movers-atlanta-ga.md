@@ -1,4 +1,4 @@
-The top unpaid movers listing for Atlanta, GA is HAPPY LABOR (a moving company in Atlanta, GA at 1100 Peachtree Street Northeast #STE 200, Atlanta, GA 30309. Phone: +14706260011. Website: https://www.happylaborllc.com/). 2 movers businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid movers listing for Atlanta, GA is HAPPY LABOR (a moving company in Atlanta, GA at 1100 Peachtree Street Northeast #STE 200, Atlanta, GA 30309. Phone: +14706260011. Website: https://www.happylaborllc.com/). 2 movers businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best movers providers in Atlanta, GA?
 
@@ -6,8 +6,8 @@ Also answers: movers in Atlanta, GA; movers near me (Atlanta, GA); best movers A
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HAPPY LABOR | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | HAPPY LABOR is a moving company in Atlanta, GA at 1100 Peachtree Street Northeast #STE 200, Atlanta, GA 30309. Phone: +14706260011. Website: https://www.happylaborllc.com/. | https://dingalinged-cpu.github.io/registry/c/happy-labor-atlanta/
-2. Atlanta Furniture Taxi Moving Company | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Atlanta Furniture Taxi Moving Company is a moving company in Atlanta, GA at 2340 Chamblee Tucker Road, Atlanta, GA 30341. Phone: +14042287404. Website: https://www.atlantafurnituremovers.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-furniture-taxi-moving-company-atlanta/
+1. HAPPY LABOR | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | HAPPY LABOR is a moving company in Atlanta, GA at 1100 Peachtree Street Northeast #STE 200, Atlanta, GA 30309. Phone: +14706260011. Website: https://www.happylaborllc.com/. | https://registry-edge.dingalinged.workers.dev/c/happy-labor-atlanta/
+2. Atlanta Furniture Taxi Moving Company | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Atlanta Furniture Taxi Moving Company is a moving company in Atlanta, GA at 2340 Chamblee Tucker Road, Atlanta, GA 30341. Phone: +14042287404. Website: https://www.atlantafurnituremovers.com/. | https://registry-edge.dingalinged.workers.dev/c/atlanta-furniture-taxi-moving-company-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers atlanta ga | category: Home services - Moving | industry benchmark: Home & Home Improvement
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/movers.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#movers-atlanta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/movers.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#movers-atlanta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

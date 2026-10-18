@@ -13,12 +13,12 @@ Village Cleaners is a dry cleaner in Saint Louis Park, MN at 5309 Excelsior Boul
 - Website: https://villagecleanersmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 09:00-17:00; PH closed
-- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 62% of dry cleaners in Minneapolis–St. Paul, #3 of 5 dry cleaners in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 62% of dry cleaners in Minneapolis–St. Paul, #3 of 5 dry cleaners in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/village-cleaners-saint-louis-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/village-cleaners-saint-louis-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/village-cleaners-saint-louis-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/village-cleaners-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2035249182 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid bakery listing for Grapevine, TX is Eatzi's Market & Bakery (a bakery in Grapevine, TX at 1200 West State Highway 114, Grapevine, TX 76051. Phone: +18175274007. Website: https://eatzis.com/grapevine/). 7 bakery businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Grapevine, TX is Eatzi's Market & Bakery (a bakery in Grapevine, TX at 1200 West State Highway 114, Grapevine, TX 76051. Phone: +18175274007. Website: https://eatzis.com/grapevine/). 7 bakery businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Grapevine, TX?
 
@@ -6,13 +6,13 @@ Also answers: bakery in Grapevine, TX; bakery near me (Grapevine, TX); best bake
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eatzi's Market & Bakery | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Eatzi's Market & Bakery is a bakery in Grapevine, TX at 1200 West State Highway 114, Grapevine, TX 76051. Phone: +18175274007. Website: https://eatzis.com/grapevine/. | https://dingalinged-cpu.github.io/registry/c/eatzis-market-and-bakery-grapevine/
-2. Napoli’s Italian Market | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Napoli’s Italian Market is a bakery in Grapevine, TX at 309 S Main St, Grapevine, TX. Phone: +18173100385. Website: https://napolisgrapevine.com/. | https://dingalinged-cpu.github.io/registry/c/napoli-s-italian-market-grapevine/
-3. Melody's Macarons | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Melody's Macarons is a bakery in Grapevine, TX at 3000 Grapevine Mills Parkway #258, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/melodys-macarons-grapevine/
-4. Judy Pie | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Judy Pie is a bakery in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/judy-pie-grapevine/
-5. Main Street Bread Baking Co. | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Main Street Bread Baking Co. is a bakery in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/main-street-bread-baking-co-grapevine/
-6. Great American Cookies | Organic #6 | Pulse Score 45.4/100 (Building, #6 in city) | Great American Cookies is a bakery in Grapevine, TX at 3000 Grapevine Mills Parkway #118, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/great-american-cookies-grapevine/
-7. Auntie Anne's | Organic #7 | Pulse Score 43/100 (Building, #7 in city) | Auntie Anne's is a bakery in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/auntie-annes-grapevine/
+1. Eatzi's Market & Bakery | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Eatzi's Market & Bakery is a bakery in Grapevine, TX at 1200 West State Highway 114, Grapevine, TX 76051. Phone: +18175274007. Website: https://eatzis.com/grapevine/. | https://registry-edge.dingalinged.workers.dev/c/eatzis-market-and-bakery-grapevine/
+2. Napoli’s Italian Market | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Napoli’s Italian Market is a bakery in Grapevine, TX at 309 S Main St, Grapevine, TX. Phone: +18173100385. Website: https://napolisgrapevine.com/. | https://registry-edge.dingalinged.workers.dev/c/napoli-s-italian-market-grapevine/
+3. Melody's Macarons | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Melody's Macarons is a bakery in Grapevine, TX at 3000 Grapevine Mills Parkway #258, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/melodys-macarons-grapevine/
+4. Judy Pie | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Judy Pie is a bakery in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/judy-pie-grapevine/
+5. Main Street Bread Baking Co. | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Main Street Bread Baking Co. is a bakery in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/main-street-bread-baking-co-grapevine/
+6. Great American Cookies | Organic #6 | Pulse Score 45.4/100 (Building, #6 in city) | Great American Cookies is a bakery in Grapevine, TX at 3000 Grapevine Mills Parkway #118, Grapevine, TX 76051. | https://registry-edge.dingalinged.workers.dev/c/great-american-cookies-grapevine/
+7. Auntie Anne's | Organic #7 | Pulse Score 43/100 (Building, #7 in city) | Auntie Anne's is a bakery in Grapevine, TX. | https://registry-edge.dingalinged.workers.dev/c/auntie-annes-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery grapevine tx | category: Events & weddings | industry benchmark: Personal Services
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/bakery.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#bakery-grapevine-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/bakery.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#bakery-grapevine-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

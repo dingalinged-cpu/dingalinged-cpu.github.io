@@ -2,7 +2,7 @@
  "title": "Keyword market data: Clive, IA",
  "description": "Top Clive, IA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Clive, IA",
  "geography": "Des Moines-West Des Moines, IA metro",
  "keywords": 39,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash clive ia",
     "slug": "car-wash-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-clive-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist clive ia",
     "slug": "dentist-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-clive-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym clive ia",
     "slug": "gym-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-clive-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon clive ia",
     "slug": "hair-salon-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-clive-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon clive ia",
     "slug": "nail-salon-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-clive-ia/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -86,7 +86,7 @@
    {
     "keyword": "plumber clive ia",
     "slug": "plumber-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-clive-ia/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic clive ia",
     "slug": "mechanic-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-clive-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop clive ia",
     "slug": "tire-shop-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-clive-ia/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet clive ia",
     "slug": "vet-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-clive-ia/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -146,7 +146,7 @@
    {
     "keyword": "haircut clive ia",
     "slug": "haircut-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-clive-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -161,7 +161,7 @@
    {
     "keyword": "auto repair clive ia",
     "slug": "auto-repair-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-clive-ia/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -176,7 +176,7 @@
    {
     "keyword": "chiropractor clive ia",
     "slug": "chiropractor-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-clive-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -191,7 +191,7 @@
    {
     "keyword": "financial advisor clive ia",
     "slug": "financial-advisor-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-clive-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agency clive ia",
     "slug": "insurance-agency-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-clive-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -221,7 +221,7 @@
    {
     "keyword": "auto body shop clive ia",
     "slug": "auto-body-shop-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-clive-ia/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -238,7 +238,7 @@
    {
     "keyword": "plumbing services clive ia",
     "slug": "plumbing-services-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-clive-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumber clive ia",
     "slug": "plumber-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-clive-ia/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -268,7 +268,7 @@
    {
     "keyword": "plumbers clive ia",
     "slug": "plumbers-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-clive-ia/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8.0,
@@ -283,7 +283,7 @@
    {
     "keyword": "bakery clive ia",
     "slug": "bakery-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-clive-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -298,7 +298,7 @@
    {
     "keyword": "martial arts clive ia",
     "slug": "martial-arts-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-clive-ia/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 670,
@@ -313,7 +313,7 @@
    {
     "keyword": "staffing agency clive ia",
     "slug": "staffing-agency-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-clive-ia/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 310,
@@ -328,7 +328,7 @@
    {
     "keyword": "driving school clive ia",
     "slug": "driving-school-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-clive-ia/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "music lessons clive ia",
     "slug": "music-lessons-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/music-lessons-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/music-lessons-clive-ia/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "preschool clive ia",
     "slug": "preschool-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-clive-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -373,7 +373,7 @@
    {
     "keyword": "acupuncture clive ia",
     "slug": "acupuncture-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/acupuncture-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/acupuncture-clive-ia/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 73.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "assisted living clive ia",
     "slug": "assisted-living-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-clive-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -403,7 +403,7 @@
    {
     "keyword": "chiropractor clive ia",
     "slug": "chiropractor-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-clive-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -418,7 +418,7 @@
    {
     "keyword": "eye doctor clive ia",
     "slug": "eye-doctor-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-clive-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -433,7 +433,7 @@
    {
     "keyword": "dentist clive ia",
     "slug": "dentist-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-clive-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -448,7 +448,7 @@
    {
     "keyword": "haircut clive ia",
     "slug": "haircut-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-clive-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -465,7 +465,7 @@
    {
     "keyword": "plumber clive ia",
     "slug": "plumber-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-clive-ia/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist clive ia",
     "slug": "dentist-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-clive-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash clive ia",
     "slug": "car-wash-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-clive-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym clive ia",
     "slug": "gym-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-clive-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic clive ia",
     "slug": "mechanic-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-clive-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop clive ia",
     "slug": "tire-shop-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-clive-ia/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet clive ia",
     "slug": "vet-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-clive-ia/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut clive ia",
     "slug": "haircut-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-clive-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair clive ia",
     "slug": "auto-repair-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-clive-ia/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -600,7 +600,7 @@
    {
     "keyword": "chiropractor clive ia",
     "slug": "chiropractor-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-clive-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -615,7 +615,7 @@
    {
     "keyword": "financial advisor clive ia",
     "slug": "financial-advisor-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-clive-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -630,7 +630,7 @@
    {
     "keyword": "hair salon clive ia",
     "slug": "hair-salon-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-clive-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -645,7 +645,7 @@
    {
     "keyword": "plumbing services clive ia",
     "slug": "plumbing-services-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-clive-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -660,7 +660,7 @@
    {
     "keyword": "nail salon clive ia",
     "slug": "nail-salon-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-clive-ia/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agency clive ia",
     "slug": "insurance-agency-clive-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-clive-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-clive-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,

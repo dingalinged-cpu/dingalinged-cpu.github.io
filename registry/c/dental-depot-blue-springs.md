@@ -13,12 +13,12 @@ Dental Depot is a dentist in Blue Springs, MO at 1500 MO-7, Blue Springs, MO 640
 - Website: https://dentaldepotkcmo.com/locations/blue-springs/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-14:00
-- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 92% of dentists in Kansas City, MO, #8 of 8 dentists in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 92% of dentists in Kansas City, MO, #8 of 8 dentists in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 59.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dental-depot-blue-springs/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dental-depot-blue-springs.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dental-depot-blue-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dental-depot-blue-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12203609969 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

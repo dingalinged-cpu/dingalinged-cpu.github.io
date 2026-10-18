@@ -2,7 +2,7 @@
  "title": "Keyword market data: Independence, MO",
  "description": "Top Independence, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Independence, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 50,
@@ -11,7 +11,7 @@
    {
     "keyword": "urgent care independence mo",
     "slug": "urgent-care-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-independence-mo/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash independence mo",
     "slug": "car-wash-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-independence-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist independence mo",
     "slug": "dentist-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-independence-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym independence mo",
     "slug": "gym-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-independence-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon independence mo",
     "slug": "hair-salon-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-independence-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon independence mo",
     "slug": "nail-salon-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-independence-mo/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic independence mo",
     "slug": "mechanic-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-independence-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop independence mo",
     "slug": "tire-shop-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-independence-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet independence mo",
     "slug": "vet-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-independence-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer independence mo",
     "slug": "dog-groomer-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-independence-mo/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut independence mo",
     "slug": "haircut-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-independence-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair independence mo",
     "slug": "auto-repair-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-independence-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor independence mo",
     "slug": "chiropractor-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-independence-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -206,7 +206,7 @@
    {
     "keyword": "electrician independence mo",
     "slug": "electrician-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-independence-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -221,7 +221,7 @@
    {
     "keyword": "financial advisor independence mo",
     "slug": "financial-advisor-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-independence-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -238,7 +238,7 @@
    {
     "keyword": "electrician independence mo",
     "slug": "electrician-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-independence-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney independence mo",
     "slug": "attorney-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-independence-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer independence mo",
     "slug": "lawyer-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-independence-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -283,7 +283,7 @@
    {
     "keyword": "window repair independence mo",
     "slug": "window-repair-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-repair-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-independence-mo/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -298,7 +298,7 @@
    {
     "keyword": "storage units independence mo",
     "slug": "storage-units-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-independence-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -313,7 +313,7 @@
    {
     "keyword": "bakery independence mo",
     "slug": "bakery-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-independence-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -328,7 +328,7 @@
    {
     "keyword": "event venues independence mo",
     "slug": "event-venues-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-independence-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -343,7 +343,7 @@
    {
     "keyword": "florist independence mo",
     "slug": "florist-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-independence-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -358,7 +358,7 @@
    {
     "keyword": "business consultant independence mo",
     "slug": "business-consultant-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/business-consultant-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/business-consultant-independence-mo/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 120,
@@ -373,7 +373,7 @@
    {
     "keyword": "staffing agency independence mo",
     "slug": "staffing-agency-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-independence-mo/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -388,7 +388,7 @@
    {
     "keyword": "tax preparer independence mo",
     "slug": "tax-preparer-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-independence-mo/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 400,
@@ -403,7 +403,7 @@
    {
     "keyword": "daycare independence mo",
     "slug": "daycare-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-independence-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -418,7 +418,7 @@
    {
     "keyword": "music lessons independence mo",
     "slug": "music-lessons-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/music-lessons-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/music-lessons-independence-mo/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -433,7 +433,7 @@
    {
     "keyword": "preschool independence mo",
     "slug": "preschool-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-independence-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -448,7 +448,7 @@
    {
     "keyword": "chiropractor independence mo",
     "slug": "chiropractor-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-independence-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -465,7 +465,7 @@
    {
     "keyword": "urgent care independence mo",
     "slug": "urgent-care-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-independence-mo/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist independence mo",
     "slug": "dentist-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-independence-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash independence mo",
     "slug": "car-wash-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-independence-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym independence mo",
     "slug": "gym-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-independence-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic independence mo",
     "slug": "mechanic-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-independence-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -540,7 +540,7 @@
    {
     "keyword": "electrician independence mo",
     "slug": "electrician-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-independence-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop independence mo",
     "slug": "tire-shop-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-independence-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet independence mo",
     "slug": "vet-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-independence-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -585,7 +585,7 @@
    {
     "keyword": "dog groomer independence mo",
     "slug": "dog-groomer-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-independence-mo/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut independence mo",
     "slug": "haircut-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-independence-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair independence mo",
     "slug": "auto-repair-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-independence-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor independence mo",
     "slug": "chiropractor-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-independence-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -645,7 +645,7 @@
    {
     "keyword": "hair salon independence mo",
     "slug": "hair-salon-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-independence-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -660,7 +660,7 @@
    {
     "keyword": "financial advisor independence mo",
     "slug": "financial-advisor-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-independence-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -675,7 +675,7 @@
    {
     "keyword": "attorney independence mo",
     "slug": "attorney-independence-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-independence-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-independence-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,

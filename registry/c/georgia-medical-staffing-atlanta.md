@@ -13,12 +13,12 @@ Georgia Medical Staffing is a staffing agency in Atlanta, GA at 648 Cleburne Ter
 - Website: https://www.1stoprecruiting.com/georgia-medical-staffing-agency
 - Email: info@1stoprecruiting.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa,Su off
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 11% of staffing agencys in Atlanta, #1 of 1 staffing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 11% of staffing agencys in Atlanta, #1 of 1 staffing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/georgia-medical-staffing-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/georgia-medical-staffing-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/georgia-medical-staffing-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/georgia-medical-staffing-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12098012197 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

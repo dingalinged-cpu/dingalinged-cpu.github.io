@@ -13,12 +13,12 @@ Blo Blow Dry Bar is a hair salon in Vernon Hills, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Chicago, #6 of 6 hair salons in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 41. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.9/100 — Unrated (not enough evidence yet) — top 100% of hair salons in Chicago, #6 of 6 hair salons in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 41. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/blo-blow-dry-bar-vernon-hills/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/blo-blow-dry-bar-vernon-hills.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blo-blow-dry-bar-vernon-hills/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blo-blow-dry-bar-vernon-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/687473898 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

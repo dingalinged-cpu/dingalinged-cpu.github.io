@@ -2,7 +2,7 @@
  "title": "Keyword market data: Port Washington, WI",
  "description": "Top Port Washington, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Port Washington, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 2,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist port washington wi",
     "slug": "dentist-port-washington-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-port-washington-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-port-washington-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -26,7 +26,7 @@
    {
     "keyword": "vet port washington wi",
     "slug": "vet-port-washington-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-port-washington-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-port-washington-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -43,7 +43,7 @@
    {
     "keyword": "dentist port washington wi",
     "slug": "dentist-port-washington-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-port-washington-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-port-washington-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -58,7 +58,7 @@
    {
     "keyword": "vet port washington wi",
     "slug": "vet-port-washington-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-port-washington-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-port-washington-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -75,7 +75,7 @@
    {
     "keyword": "dentist port washington wi",
     "slug": "dentist-port-washington-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-port-washington-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-port-washington-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -90,7 +90,7 @@
    {
     "keyword": "vet port washington wi",
     "slug": "vet-port-washington-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-port-washington-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-port-washington-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,

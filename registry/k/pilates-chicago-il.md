@@ -1,4 +1,4 @@
-The top unpaid pilates listing for Chicago, IL is ONYX (a pilates studio in Chicago, IL at 102 West Chicago Avenue, Chicago, IL 60654. Website: https://www.myonyxfit.com/river-north). 8 pilates businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for Chicago, IL is ONYX (a pilates studio in Chicago, IL at 102 West Chicago Avenue, Chicago, IL 60654. Website: https://www.myonyxfit.com/river-north). 8 pilates businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in Chicago, IL?
 
@@ -6,14 +6,14 @@ Also answers: pilates in Chicago, IL; pilates near me (Chicago, IL); best pilate
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ONYX | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | ONYX is a pilates studio in Chicago, IL at 102 West Chicago Avenue, Chicago, IL 60654. Website: https://www.myonyxfit.com/river-north. | https://dingalinged-cpu.github.io/registry/c/onyx-chicago/
-2. Studio 8 Pilates | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Studio 8 Pilates is a pilates studio in Chicago, IL at 3656 North Lincoln Avenue, Chicago, IL 60613. Phone: +17738571592. Website: https://studio8chicago.com/. | https://dingalinged-cpu.github.io/registry/c/studio-8-pilates-chicago/
-3. LRO Fitness | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | LRO Fitness is a pilates studio in Chicago, IL at 560 West Washington Boulevard #110, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lro-fitness-chicago/
-4. BodyRok | Organic #4 | Pulse Score 46.5/100 (Building, #4 in city) | BodyRok is a pilates studio in Chicago, IL at 185 North Halsted Street, Chicago, IL. Website: https://bodyrok.com/studio/west_loop/. | https://dingalinged-cpu.github.io/registry/c/bodyrok-chicago/
-5. Club Pilates | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Club Pilates is a pilates studio in Chicago, IL at 907 West Madison Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago-n12479624266/
-6. Club Pilates | Organic #6 | Pulse Score 43.2/100 (Building, #6 in city) | Club Pilates is a pilates studio in Chicago, IL at 2047 North Clybourn Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago-n11819718927/
-7. Bodybar Pilates | Organic #7 | Pulse Score 42.4/100 (Unrated, #7 in city) | Bodybar Pilates is a pilates studio in Chicago, IL. Website: https://bodybarpilates.com/studios/wickerpark. | https://dingalinged-cpu.github.io/registry/c/bodybar-pilates-chicago/
-8. Club Pilates | Organic #8 | Pulse Score 41.5/100 (Building, #8 in city) | Club Pilates is a pilates studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago/
+1. ONYX | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | ONYX is a pilates studio in Chicago, IL at 102 West Chicago Avenue, Chicago, IL 60654. Website: https://www.myonyxfit.com/river-north. | https://registry-edge.dingalinged.workers.dev/c/onyx-chicago/
+2. Studio 8 Pilates | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Studio 8 Pilates is a pilates studio in Chicago, IL at 3656 North Lincoln Avenue, Chicago, IL 60613. Phone: +17738571592. Website: https://studio8chicago.com/. | https://registry-edge.dingalinged.workers.dev/c/studio-8-pilates-chicago/
+3. LRO Fitness | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | LRO Fitness is a pilates studio in Chicago, IL at 560 West Washington Boulevard #110, Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/lro-fitness-chicago/
+4. BodyRok | Organic #4 | Pulse Score 46.5/100 (Building, #4 in city) | BodyRok is a pilates studio in Chicago, IL at 185 North Halsted Street, Chicago, IL. Website: https://bodyrok.com/studio/west_loop/. | https://registry-edge.dingalinged.workers.dev/c/bodyrok-chicago/
+5. Club Pilates | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Club Pilates is a pilates studio in Chicago, IL at 907 West Madison Street, Chicago, IL 60607. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-chicago-n12479624266/
+6. Club Pilates | Organic #6 | Pulse Score 43.2/100 (Building, #6 in city) | Club Pilates is a pilates studio in Chicago, IL at 2047 North Clybourn Avenue, Chicago, IL 60614. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-chicago-n11819718927/
+7. Bodybar Pilates | Organic #7 | Pulse Score 42.4/100 (Unrated, #7 in city) | Bodybar Pilates is a pilates studio in Chicago, IL. Website: https://bodybarpilates.com/studios/wickerpark. | https://registry-edge.dingalinged.workers.dev/c/bodybar-pilates-chicago/
+8. Club Pilates | Organic #8 | Pulse Score 41.5/100 (Building, #8 in city) | Club Pilates is a pilates studio in Chicago, IL. | https://registry-edge.dingalinged.workers.dev/c/club-pilates-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates chicago il | category: Fitness | industry benchmark: Health & Fitness
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pilates.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pilates-chicago-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/pilates.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#pilates-chicago-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

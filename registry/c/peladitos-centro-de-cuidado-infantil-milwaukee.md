@@ -13,12 +13,12 @@ Peladitos Centro De Cuidado Infantil is a daycare in Milwaukee, WI at 2220 West 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 53% of daycares in Milwaukee, #42 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 45.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 53% of daycares in Milwaukee, #42 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/peladitos-centro-de-cuidado-infantil-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/peladitos-centro-de-cuidado-infantil-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/peladitos-centro-de-cuidado-infantil-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/peladitos-centro-de-cuidado-infantil-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11917353948 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

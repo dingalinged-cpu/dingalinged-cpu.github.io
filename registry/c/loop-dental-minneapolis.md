@@ -13,12 +13,12 @@ Loop Dental is a dentist in Minneapolis, MN at 207 5th Avenue North, Minneapolis
 - Website: https://www.loopdentalmn.com/
 - Email: info@LoopDentalMN.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63/100 — Good — top 7% of dentists in Minneapolis–St. Paul, #9 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 65. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 7% of dentists in Minneapolis–St. Paul, #9 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 65. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/loop-dental-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/loop-dental-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/loop-dental-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/loop-dental-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12754418101 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

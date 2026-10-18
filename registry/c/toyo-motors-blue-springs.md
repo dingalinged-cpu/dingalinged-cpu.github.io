@@ -13,12 +13,12 @@ Toyo Motors is an used car dealer in Blue Springs, MO at 1708 Southwest 40 Highw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 44% of used car dealers in Kansas City, MO, #2 of 5 used car dealers in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 44% of used car dealers in Kansas City, MO, #2 of 5 used car dealers in Blue Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/toyo-motors-blue-springs/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/toyo-motors-blue-springs.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/toyo-motors-blue-springs/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/toyo-motors-blue-springs.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/205701649 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

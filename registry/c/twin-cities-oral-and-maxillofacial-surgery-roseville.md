@@ -13,12 +13,12 @@ Twin Cities Oral & Maxillofacial Surgery is a dentist in Roseville, MN at 1790 L
 - Website: https://www.tcoralsurgery.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 24% of dentists in Minneapolis–St. Paul, #2 of 3 dentists in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 24% of dentists in Minneapolis–St. Paul, #2 of 3 dentists in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/twin-cities-oral-and-maxillofacial-surgery-roseville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/twin-cities-oral-and-maxillofacial-surgery-roseville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-cities-oral-and-maxillofacial-surgery-roseville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-cities-oral-and-maxillofacial-surgery-roseville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7147743959 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

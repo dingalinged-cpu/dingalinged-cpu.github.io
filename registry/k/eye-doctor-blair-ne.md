@@ -1,4 +1,4 @@
-The top unpaid eye doctor listing for Blair, NE is Vision Care Clinic Blair (an eye care practice in Blair, NE at 1526 Washington Street, Blair, NE 68008. Phone: +14024262119. Website: https://visionsource-blair.com/). 2 eye doctor businesses are listed for Blair, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Blair, NE is Vision Care Clinic Blair (an eye care practice in Blair, NE at 1526 Washington Street, Blair, NE 68008. Phone: +14024262119. Website: https://visionsource-blair.com/). 2 eye doctor businesses are listed for Blair, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Blair, NE?
 
@@ -6,8 +6,8 @@ Also answers: eye doctor in Blair, NE; eye doctor near me (Blair, NE); best eye 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vision Care Clinic Blair | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Vision Care Clinic Blair is an eye care practice in Blair, NE at 1526 Washington Street, Blair, NE 68008. Phone: +14024262119. Website: https://visionsource-blair.com/. | https://dingalinged-cpu.github.io/registry/c/vision-care-clinic-blair-blair/
-2. Blair Eye Associates | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Blair Eye Associates is an eye care practice in Blair, NE at 257 South 19th Street, Blair, NE 68008. Phone: +14024264601. Website: https://blaireyeassociates.com/. | https://dingalinged-cpu.github.io/registry/c/blair-eye-associates-blair/
+1. Vision Care Clinic Blair | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Vision Care Clinic Blair is an eye care practice in Blair, NE at 1526 Washington Street, Blair, NE 68008. Phone: +14024262119. Website: https://visionsource-blair.com/. | https://registry-edge.dingalinged.workers.dev/c/vision-care-clinic-blair-blair/
+2. Blair Eye Associates | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Blair Eye Associates is an eye care practice in Blair, NE at 257 South 19th Street, Blair, NE 68008. Phone: +14024264601. Website: https://blaireyeassociates.com/. | https://registry-edge.dingalinged.workers.dev/c/blair-eye-associates-blair/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor blair ne | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$210 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/eye-doctor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#eye-doctor-blair-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/eye-doctor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#eye-doctor-blair-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

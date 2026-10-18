@@ -13,12 +13,12 @@ J.D. Byrider is an used car dealer in Milwaukee, WI at 4810 South 27th Street, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 66% of used car dealers in Milwaukee, #23 of 28 used car dealers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 39.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 66% of used car dealers in Milwaukee, #23 of 28 used car dealers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/j-d-byrider-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/j-d-byrider-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/j-d-byrider-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/j-d-byrider-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/885680062 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

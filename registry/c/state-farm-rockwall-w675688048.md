@@ -13,12 +13,12 @@ State Farm is an insurance agent in Rockwall, TX at 1213 North Goliad Street, Ro
 - Website: https://www.johnelsey.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 48.8/100 — Building — top 49% of insurance agents in Dallas–Fort Worth, #6 of 14 insurance agents in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 49% of insurance agents in Dallas–Fort Worth, #6 of 14 insurance agents in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-rockwall-w675688048/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-rockwall-w675688048.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-rockwall-w675688048/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-rockwall-w675688048.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/675688048 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid therapist listing for Conroe, TX is Taylor Counseling Group (a therapy practice in Conroe, TX at 8150 N Central Expressway #Suite 1625, Conroe, TX 75206. Phone: +12145300021. Website: https://taylorcounselinggroup.com/). 2 therapist businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Conroe, TX is Taylor Counseling Group (a therapy practice in Conroe, TX at 8150 N Central Expressway #Suite 1625, Conroe, TX 75206. Phone: +12145300021. Website: https://taylorcounselinggroup.com/). 2 therapist businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Conroe, TX?
 
@@ -6,8 +6,8 @@ Also answers: therapist in Conroe, TX; therapist near me (Conroe, TX); best ther
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Taylor Counseling Group | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Taylor Counseling Group is a therapy practice in Conroe, TX at 8150 N Central Expressway #Suite 1625, Conroe, TX 75206. Phone: +12145300021. Website: https://taylorcounselinggroup.com/. | https://dingalinged-cpu.github.io/registry/c/taylor-counseling-group-conroe/
-2. Action Behavior Centers - ABA Therapy for Autism | Organic #2 | Pulse Score 49.1/100 (Building, #2 in city) | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Conroe, TX at 3251 Interstate 45 North #115, Conroe, TX 77304. Phone: +12814018599. Website: https://www.actionbehavior.com/location/texas/conroe-anderson-crossing. | https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-conroe/
+1. Taylor Counseling Group | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Taylor Counseling Group is a therapy practice in Conroe, TX at 8150 N Central Expressway #Suite 1625, Conroe, TX 75206. Phone: +12145300021. Website: https://taylorcounselinggroup.com/. | https://registry-edge.dingalinged.workers.dev/c/taylor-counseling-group-conroe/
+2. Action Behavior Centers - ABA Therapy for Autism | Organic #2 | Pulse Score 49.1/100 (Building, #2 in city) | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Conroe, TX at 3251 Interstate 45 North #115, Conroe, TX 77304. Phone: +12814018599. Website: https://www.actionbehavior.com/location/texas/conroe-anderson-crossing. | https://registry-edge.dingalinged.workers.dev/c/action-behavior-centers-aba-therapy-for-autism-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist conroe tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/therapist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#therapist-conroe-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/therapist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#therapist-conroe-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Underground Self Defense is a martial arts school in Madison, WI at 532 State St
 - Website: https://undergroundselfdefense.coop/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 16:30-19:30; We,Th 16:30-20:30; Sa 10:00-14:30
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 25% of martial arts schools in Madison, #3 of 8 martial arts schools in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 25% of martial arts schools in Madison, #3 of 8 martial arts schools in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/underground-self-defense-madison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/underground-self-defense-madison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/underground-self-defense-madison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/underground-self-defense-madison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10580410916 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

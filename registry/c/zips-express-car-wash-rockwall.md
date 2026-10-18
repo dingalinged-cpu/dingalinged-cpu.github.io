@@ -13,12 +13,12 @@ Zips Express Car Wash is a car wash in Rockwall, TX at 2360 South Goliad Street,
 - Website: https://www.zipscarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-20:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of car washes in Dallas–Fort Worth, #1 of 4 car washes in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of car washes in Dallas–Fort Worth, #1 of 4 car washes in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/zips-express-car-wash-rockwall/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/zips-express-car-wash-rockwall.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/zips-express-car-wash-rockwall/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/zips-express-car-wash-rockwall.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1052707303 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

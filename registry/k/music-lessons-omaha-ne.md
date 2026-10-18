@@ -1,4 +1,4 @@
-The top unpaid music lessons listing for Omaha, NE is Adkins Guitar & Music Lessons (a music school in Omaha, NE at 6969 Grover Street, Omaha, NE 68106. Phone: +14024294172. Website: https://omahaguitarandmusiclessons.com/). 4 music lessons businesses are listed for Omaha, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Omaha, NE is Adkins Guitar & Music Lessons (a music school in Omaha, NE at 6969 Grover Street, Omaha, NE 68106. Phone: +14024294172. Website: https://omahaguitarandmusiclessons.com/). 4 music lessons businesses are listed for Omaha, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Omaha, NE?
 
@@ -6,10 +6,10 @@ Also answers: music lessons in Omaha, NE; music lessons near me (Omaha, NE); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adkins Guitar & Music Lessons | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Adkins Guitar & Music Lessons is a music school in Omaha, NE at 6969 Grover Street, Omaha, NE 68106. Phone: +14024294172. Website: https://omahaguitarandmusiclessons.com/. | https://dingalinged-cpu.github.io/registry/c/adkins-guitar-and-music-lessons-omaha/
-2. Omaha Conservatory of Music | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Omaha Conservatory of Music is a music school in Omaha, NE at 7023 Cass Street, Omaha, NE 68132. Phone: +14029324978. Website: https://omahacm.org/. | https://dingalinged-cpu.github.io/registry/c/omaha-conservatory-of-music-omaha/
-3. Sing Omaha Studios | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Sing Omaha Studios is a music school in Omaha, NE at 8438 Park Drive, Omaha, NE 68127. | https://dingalinged-cpu.github.io/registry/c/sing-omaha-studios-omaha/
-4. Crash Bang Boom Omaha | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Crash Bang Boom Omaha is a music school in Omaha, NE. Website: https://crashbangboomomaha.com/. | https://dingalinged-cpu.github.io/registry/c/crash-bang-boom-omaha-omaha/
+1. Adkins Guitar & Music Lessons | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Adkins Guitar & Music Lessons is a music school in Omaha, NE at 6969 Grover Street, Omaha, NE 68106. Phone: +14024294172. Website: https://omahaguitarandmusiclessons.com/. | https://registry-edge.dingalinged.workers.dev/c/adkins-guitar-and-music-lessons-omaha/
+2. Omaha Conservatory of Music | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Omaha Conservatory of Music is a music school in Omaha, NE at 7023 Cass Street, Omaha, NE 68132. Phone: +14029324978. Website: https://omahacm.org/. | https://registry-edge.dingalinged.workers.dev/c/omaha-conservatory-of-music-omaha/
+3. Sing Omaha Studios | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Sing Omaha Studios is a music school in Omaha, NE at 8438 Park Drive, Omaha, NE 68127. | https://registry-edge.dingalinged.workers.dev/c/sing-omaha-studios-omaha/
+4. Crash Bang Boom Omaha | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Crash Bang Boom Omaha is a music school in Omaha, NE. Website: https://crashbangboomomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/crash-bang-boom-omaha-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons omaha ne | category: Education & childcare | industry benchmark: Education & Instruction
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$33.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/music-lessons.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#music-lessons-omaha-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/music-lessons.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#music-lessons-omaha-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

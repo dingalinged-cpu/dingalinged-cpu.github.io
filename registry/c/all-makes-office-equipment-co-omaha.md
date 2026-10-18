@@ -13,12 +13,12 @@ All Makes Office Equipment Co is a furniture store in Omaha, NE at 2558 Farnam S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 58% of furniture stores in Omaha, NE, #4 of 10 furniture stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 58% of furniture stores in Omaha, NE, #4 of 10 furniture stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 44.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/all-makes-office-equipment-co-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/all-makes-office-equipment-co-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/all-makes-office-equipment-co-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/all-makes-office-equipment-co-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4215961098 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

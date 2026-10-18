@@ -13,12 +13,12 @@ Priority Care Pediatrics North Oak is a pediatrician in Kansas City, MO at 9405 
 - Website: https://pcpeds.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 50% of pediatricians in Kansas City, MO, #3 of 5 pediatricians in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 50% of pediatricians in Kansas City, MO, #3 of 5 pediatricians in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 50.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/priority-care-pediatrics-north-oak-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/priority-care-pediatrics-north-oak-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/priority-care-pediatrics-north-oak-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/priority-care-pediatrics-north-oak-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/195149855 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

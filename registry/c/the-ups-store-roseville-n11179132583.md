@@ -13,12 +13,12 @@ The UPS Store is a printing service in Roseville, MN at 2355 Perimeter Drive, Ro
 - Website: https://locations.theupsstore.com/mn/roseville/2355-fairview-ave
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 09:00-17:00; Su 12:00-17:00
-- Pulse Score: 49.3/100 — Building — top 36% of printing services in Minneapolis–St. Paul, #1 of 3 printing services in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 36% of printing services in Minneapolis–St. Paul, #1 of 3 printing services in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-ups-store-roseville-n11179132583/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-ups-store-roseville-n11179132583.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-ups-store-roseville-n11179132583/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-ups-store-roseville-n11179132583.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11179132583 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Wheaton, IL is Danada Dental (a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 60187. Phone: +16306657474. Website: https://www.danadadental.com/). 6 dentist businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Wheaton, IL is Danada Dental (a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 60187. Phone: +16306657474. Website: https://www.danadadental.com/). 6 dentist businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Wheaton, IL?
 
@@ -6,12 +6,12 @@ Also answers: dentist in Wheaton, IL; dentist near me (Wheaton, IL); best dentis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Danada Dental | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Danada Dental is a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 60187. Phone: +16306657474. Website: https://www.danadadental.com/. | https://dingalinged-cpu.github.io/registry/c/danada-dental-wheaton/
-2. Restoration Dental Group | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Restoration Dental Group is a dentist in Wheaton, IL at 1501 East Roosevelt Road, Wheaton, IL 60187. Phone: +16305809880. Website: https://www.restorationdentalgroup.com/. | https://dingalinged-cpu.github.io/registry/c/restoration-dental-group-wheaton/
-3. Wheaton Dental Clinic | Organic #3 | Pulse Score 60.3/100 (Unrated, #3 in city) | Wheaton Dental Clinic is a dentist in Wheaton, IL at 202 West Willow Avenue ##103, Wheaton, IL 60187. Phone: +16306824743. Website: https://wheatondentalclinic.net/. | https://dingalinged-cpu.github.io/registry/c/wheaton-dental-clinic-wheaton/
-4. West Willow Family Dental of Wheaton | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | West Willow Family Dental of Wheaton is a dentist in Wheaton, IL at 300 South West Street, Wheaton, IL 60187. | https://dingalinged-cpu.github.io/registry/c/west-willow-family-dental-of-wheaton-wheaton/
-5. Dental Care of Wheaton | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Dental Care of Wheaton is a dentist in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/dental-care-of-wheaton-wheaton/
-6. Shining Smiles | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Shining Smiles is a dentist in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/shining-smiles-wheaton/
+1. Danada Dental | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Danada Dental is a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 60187. Phone: +16306657474. Website: https://www.danadadental.com/. | https://registry-edge.dingalinged.workers.dev/c/danada-dental-wheaton/
+2. Restoration Dental Group | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Restoration Dental Group is a dentist in Wheaton, IL at 1501 East Roosevelt Road, Wheaton, IL 60187. Phone: +16305809880. Website: https://www.restorationdentalgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/restoration-dental-group-wheaton/
+3. Wheaton Dental Clinic | Organic #3 | Pulse Score 60.3/100 (Unrated, #3 in city) | Wheaton Dental Clinic is a dentist in Wheaton, IL at 202 West Willow Avenue ##103, Wheaton, IL 60187. Phone: +16306824743. Website: https://wheatondentalclinic.net/. | https://registry-edge.dingalinged.workers.dev/c/wheaton-dental-clinic-wheaton/
+4. West Willow Family Dental of Wheaton | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | West Willow Family Dental of Wheaton is a dentist in Wheaton, IL at 300 South West Street, Wheaton, IL 60187. | https://registry-edge.dingalinged.workers.dev/c/west-willow-family-dental-of-wheaton-wheaton/
+5. Dental Care of Wheaton | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Dental Care of Wheaton is a dentist in Wheaton, IL. | https://registry-edge.dingalinged.workers.dev/c/dental-care-of-wheaton-wheaton/
+6. Shining Smiles | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Shining Smiles is a dentist in Wheaton, IL. | https://registry-edge.dingalinged.workers.dev/c/shining-smiles-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist wheaton il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-wheaton-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-wheaton-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

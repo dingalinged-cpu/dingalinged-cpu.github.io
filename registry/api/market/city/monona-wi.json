@@ -2,7 +2,7 @@
  "title": "Keyword market data: Monona, WI",
  "description": "Top Monona, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Monona, WI",
  "geography": "Madison, WI metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash monona wi",
     "slug": "car-wash-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-monona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist monona wi",
     "slug": "dentist-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-monona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym monona wi",
     "slug": "gym-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-monona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon monona wi",
     "slug": "hair-salon-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-monona-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic monona wi",
     "slug": "mechanic-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-monona-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -86,7 +86,7 @@
    {
     "keyword": "tire shop monona wi",
     "slug": "tire-shop-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-monona-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet monona wi",
     "slug": "vet-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-monona-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut monona wi",
     "slug": "haircut-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-monona-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair monona wi",
     "slug": "auto-repair-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-monona-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -146,7 +146,7 @@
    {
     "keyword": "accountant monona wi",
     "slug": "accountant-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-monona-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 69.0,
@@ -161,7 +161,7 @@
    {
     "keyword": "flooring companies monona wi",
     "slug": "flooring-companies-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-monona-wi/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 38.0,
@@ -176,7 +176,7 @@
    {
     "keyword": "accounting services monona wi",
     "slug": "accounting-services-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-monona-wi/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25.0,
@@ -193,7 +193,7 @@
    {
     "keyword": "architect monona wi",
     "slug": "architect-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-monona-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 83.0,
@@ -208,7 +208,7 @@
    {
     "keyword": "flooring companies monona wi",
     "slug": "flooring-companies-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-monona-wi/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 38.0,
@@ -223,7 +223,7 @@
    {
     "keyword": "florist monona wi",
     "slug": "florist-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-monona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -238,7 +238,7 @@
    {
     "keyword": "accounting services monona wi",
     "slug": "accounting-services-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-monona-wi/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25.0,
@@ -253,7 +253,7 @@
    {
     "keyword": "accountant monona wi",
     "slug": "accountant-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-monona-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 69.0,
@@ -268,7 +268,7 @@
    {
     "keyword": "preschool monona wi",
     "slug": "preschool-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-monona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -283,7 +283,7 @@
    {
     "keyword": "assisted living monona wi",
     "slug": "assisted-living-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-monona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -298,7 +298,7 @@
    {
     "keyword": "therapist monona wi",
     "slug": "therapist-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-monona-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -313,7 +313,7 @@
    {
     "keyword": "dentist monona wi",
     "slug": "dentist-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-monona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -328,7 +328,7 @@
    {
     "keyword": "haircut monona wi",
     "slug": "haircut-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-monona-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -343,7 +343,7 @@
    {
     "keyword": "auto repair monona wi",
     "slug": "auto-repair-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-monona-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -358,7 +358,7 @@
    {
     "keyword": "car wash monona wi",
     "slug": "car-wash-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-monona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -373,7 +373,7 @@
    {
     "keyword": "mechanic monona wi",
     "slug": "mechanic-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-monona-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -388,7 +388,7 @@
    {
     "keyword": "tire shop monona wi",
     "slug": "tire-shop-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-monona-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -403,7 +403,7 @@
    {
     "keyword": "gift shop monona wi",
     "slug": "gift-shop-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-monona-wi/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 37.0,
@@ -420,7 +420,7 @@
    {
     "keyword": "dentist monona wi",
     "slug": "dentist-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-monona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -435,7 +435,7 @@
    {
     "keyword": "car wash monona wi",
     "slug": "car-wash-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-monona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -450,7 +450,7 @@
    {
     "keyword": "gym monona wi",
     "slug": "gym-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-monona-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -465,7 +465,7 @@
    {
     "keyword": "mechanic monona wi",
     "slug": "mechanic-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-monona-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -480,7 +480,7 @@
    {
     "keyword": "tire shop monona wi",
     "slug": "tire-shop-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-monona-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -495,7 +495,7 @@
    {
     "keyword": "vet monona wi",
     "slug": "vet-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-monona-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -510,7 +510,7 @@
    {
     "keyword": "haircut monona wi",
     "slug": "haircut-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-monona-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -525,7 +525,7 @@
    {
     "keyword": "auto repair monona wi",
     "slug": "auto-repair-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-monona-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -540,7 +540,7 @@
    {
     "keyword": "hair salon monona wi",
     "slug": "hair-salon-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-monona-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -555,7 +555,7 @@
    {
     "keyword": "accountant monona wi",
     "slug": "accountant-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-monona-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 69.0,
@@ -570,7 +570,7 @@
    {
     "keyword": "flooring companies monona wi",
     "slug": "flooring-companies-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-monona-wi/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 38.0,
@@ -585,7 +585,7 @@
    {
     "keyword": "accounting services monona wi",
     "slug": "accounting-services-monona-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-monona-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-monona-wi/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25.0,

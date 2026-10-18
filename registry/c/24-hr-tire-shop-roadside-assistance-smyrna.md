@@ -13,12 +13,12 @@
 - Website: https://www.24hoursroadassistance.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 11% of auto repair shops in Atlanta, #1 of 13 auto repair shops in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 11% of auto repair shops in Atlanta, #1 of 13 auto repair shops in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 62.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/24-hr-tire-shop-roadside-assistance-smyrna/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/24-hr-tire-shop-roadside-assistance-smyrna.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/24-hr-tire-shop-roadside-assistance-smyrna/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/24-hr-tire-shop-roadside-assistance-smyrna.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/264237834 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

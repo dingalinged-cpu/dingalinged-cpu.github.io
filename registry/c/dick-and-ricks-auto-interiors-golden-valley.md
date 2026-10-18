@@ -13,12 +13,12 @@ Dick and Rick's Auto Interiors is an auto repair shop in Golden Valley, MN at 60
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 29% of auto repair shops in Minneapolis–St. Paul, #7 of 13 auto repair shops in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 29% of auto repair shops in Minneapolis–St. Paul, #7 of 13 auto repair shops in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/dick-and-ricks-auto-interiors-golden-valley/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/dick-and-ricks-auto-interiors-golden-valley.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/dick-and-ricks-auto-interiors-golden-valley/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/dick-and-ricks-auto-interiors-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4525048998 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

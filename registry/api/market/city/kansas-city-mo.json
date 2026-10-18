@@ -2,7 +2,7 @@
  "title": "Keyword market data: Kansas City, MO",
  "description": "Top Kansas City, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Kansas City, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage kansas city mo",
     "slug": "massage-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-kansas-city-mo/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care kansas city mo",
     "slug": "urgent-care-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-kansas-city-mo/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist kansas city mo",
     "slug": "dentist-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-kansas-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym kansas city mo",
     "slug": "gym-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-kansas-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash kansas city mo",
     "slug": "car-wash-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-kansas-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change kansas city mo",
     "slug": "oil-change-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-kansas-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon kansas city mo",
     "slug": "hair-salon-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-kansas-city-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon kansas city mo",
     "slug": "nail-salon-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-kansas-city-mo/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes kansas city mo",
     "slug": "car-insurance-quotes-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-kansas-city-mo",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber kansas city mo",
     "slug": "plumber-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-kansas-city-mo/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments kansas city mo",
     "slug": "apartments-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-kansas-city-mo",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance kansas city mo",
     "slug": "auto-insurance-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-kansas-city-mo",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop kansas city mo",
     "slug": "barber-shop-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-kansas-city-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage kansas city mo",
     "slug": "lymphatic-drainage-massage-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-kansas-city-mo",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic kansas city mo",
     "slug": "mechanic-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-kansas-city-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer kansas city mo",
     "slug": "personal-injury-lawyer-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-kansas-city-mo",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber kansas city mo",
     "slug": "emergency-plumber-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-kansas-city-mo",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair kansas city mo",
     "slug": "hvac-repair-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-kansas-city-mo",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair kansas city mo",
     "slug": "ac-repair-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-kansas-city-mo",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement kansas city mo",
     "slug": "roof-replacement-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-kansas-city-mo",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair kansas city mo",
     "slug": "roof-repair-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-kansas-city-mo",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast kansas city mo",
     "slug": "sell-my-house-fast-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-kansas-city-mo",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 66.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services kansas city mo",
     "slug": "plumbing-services-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-kansas-city-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining kansas city mo",
     "slug": "deck-staining-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-kansas-city-mo",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters kansas city mo",
     "slug": "exterior-house-painters-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-kansas-city-mo",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 80.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters kansas city mo",
     "slug": "interior-painters-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-kansas-city-mo",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 80.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters kansas city mo",
     "slug": "painters-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-kansas-city-mo",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 400,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company kansas city mo",
     "slug": "moving-company-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/moving-company-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/moving-company-kansas-city-mo/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney kansas city mo",
     "slug": "criminal-defense-attorney-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-kansas-city-mo",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer kansas city mo",
     "slug": "dui-defense-lawyer-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-kansas-city-mo",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 24.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage kansas city mo",
     "slug": "massage-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-kansas-city-mo/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care kansas city mo",
     "slug": "urgent-care-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-kansas-city-mo/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer kansas city mo",
     "slug": "personal-injury-lawyer-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-kansas-city-mo",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber kansas city mo",
     "slug": "plumber-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-kansas-city-mo/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist kansas city mo",
     "slug": "dentist-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-kansas-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash kansas city mo",
     "slug": "car-wash-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-kansas-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change kansas city mo",
     "slug": "oil-change-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-kansas-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair kansas city mo",
     "slug": "ac-repair-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-kansas-city-mo",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer kansas city mo",
     "slug": "car-accident-lawyer-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-kansas-city-mo",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage kansas city mo",
     "slug": "lymphatic-drainage-massage-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-kansas-city-mo",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym kansas city mo",
     "slug": "gym-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-kansas-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -630,7 +630,7 @@
    {
     "keyword": "mechanic kansas city mo",
     "slug": "mechanic-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-kansas-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-kansas-city-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -645,7 +645,7 @@
    {
     "keyword": "car insurance quotes kansas city mo",
     "slug": "car-insurance-quotes-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-kansas-city-mo",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -660,7 +660,7 @@
    {
     "keyword": "electrician kansas city mo",
     "slug": "electrician-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-kansas-city-mo",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments kansas city mo",
     "slug": "apartments-kansas-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-kansas-city-mo",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-kansas-city-mo",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,

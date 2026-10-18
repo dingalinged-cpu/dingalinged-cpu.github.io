@@ -2,7 +2,7 @@
  "title": "Keyword market data: Waukesha, WI",
  "description": "Top Waukesha, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Waukesha, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 42,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage waukesha wi",
     "slug": "massage-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-waukesha-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash waukesha wi",
     "slug": "car-wash-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-waukesha-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist waukesha wi",
     "slug": "dentist-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waukesha-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym waukesha wi",
     "slug": "gym-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-waukesha-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon waukesha wi",
     "slug": "hair-salon-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-waukesha-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic waukesha wi",
     "slug": "mechanic-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-waukesha-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop waukesha wi",
     "slug": "tire-shop-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-waukesha-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -116,7 +116,7 @@
    {
     "keyword": "vet waukesha wi",
     "slug": "vet-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-waukesha-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -131,7 +131,7 @@
    {
     "keyword": "haircut waukesha wi",
     "slug": "haircut-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-waukesha-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -146,7 +146,7 @@
    {
     "keyword": "auto repair waukesha wi",
     "slug": "auto-repair-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-waukesha-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "chiropractor waukesha wi",
     "slug": "chiropractor-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -176,7 +176,7 @@
    {
     "keyword": "electrician waukesha wi",
     "slug": "electrician-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -191,7 +191,7 @@
    {
     "keyword": "financial advisor waukesha wi",
     "slug": "financial-advisor-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -206,7 +206,7 @@
    {
     "keyword": "spa waukesha wi",
     "slug": "spa-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agency waukesha wi",
     "slug": "insurance-agency-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-waukesha-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -238,7 +238,7 @@
    {
     "keyword": "electrician waukesha wi",
     "slug": "electrician-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney waukesha wi",
     "slug": "attorney-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-waukesha-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer waukesha wi",
     "slug": "lawyer-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-waukesha-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -283,7 +283,7 @@
    {
     "keyword": "flooring companies waukesha wi",
     "slug": "flooring-companies-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-waukesha-wi/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 83.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "florist waukesha wi",
     "slug": "florist-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-waukesha-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -313,7 +313,7 @@
    {
     "keyword": "accounting services waukesha wi",
     "slug": "accounting-services-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-waukesha-wi/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 56.0,
@@ -328,7 +328,7 @@
    {
     "keyword": "business consultant waukesha wi",
     "slug": "business-consultant-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/business-consultant-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/business-consultant-waukesha-wi/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 83.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "general contractor waukesha wi",
     "slug": "general-contractor-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/general-contractor-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-waukesha-wi/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 83.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "accountant waukesha wi",
     "slug": "accountant-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-waukesha-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -373,7 +373,7 @@
    {
     "keyword": "daycare waukesha wi",
     "slug": "daycare-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-waukesha-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool waukesha wi",
     "slug": "preschool-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-waukesha-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -403,7 +403,7 @@
    {
     "keyword": "chiropractor waukesha wi",
     "slug": "chiropractor-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -418,7 +418,7 @@
    {
     "keyword": "physical therapy waukesha wi",
     "slug": "physical-therapy-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-waukesha-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -433,7 +433,7 @@
    {
     "keyword": "therapist waukesha wi",
     "slug": "therapist-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-waukesha-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -448,7 +448,7 @@
    {
     "keyword": "dentist waukesha wi",
     "slug": "dentist-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waukesha-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage waukesha wi",
     "slug": "massage-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-waukesha-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist waukesha wi",
     "slug": "dentist-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-waukesha-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash waukesha wi",
     "slug": "car-wash-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-waukesha-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym waukesha wi",
     "slug": "gym-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-waukesha-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -525,7 +525,7 @@
    {
     "keyword": "electrician waukesha wi",
     "slug": "electrician-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic waukesha wi",
     "slug": "mechanic-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-waukesha-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop waukesha wi",
     "slug": "tire-shop-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-waukesha-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet waukesha wi",
     "slug": "vet-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-waukesha-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut waukesha wi",
     "slug": "haircut-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-waukesha-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair waukesha wi",
     "slug": "auto-repair-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-waukesha-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -615,7 +615,7 @@
    {
     "keyword": "chiropractor waukesha wi",
     "slug": "chiropractor-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -630,7 +630,7 @@
    {
     "keyword": "spa waukesha wi",
     "slug": "spa-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -645,7 +645,7 @@
    {
     "keyword": "hair salon waukesha wi",
     "slug": "hair-salon-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-waukesha-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -660,7 +660,7 @@
    {
     "keyword": "financial advisor waukesha wi",
     "slug": "financial-advisor-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-waukesha-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -675,7 +675,7 @@
    {
     "keyword": "attorney waukesha wi",
     "slug": "attorney-waukesha-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-waukesha-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-waukesha-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,

@@ -1,4 +1,4 @@
-The top unpaid accountant listing for Lewisville, TX is CPA John H. Evans (an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502). 5 accountant businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Lewisville, TX is CPA John H. Evans (an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502). 5 accountant businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Lewisville, TX?
 
@@ -6,11 +6,11 @@ Also answers: accountant in Lewisville, TX; accountant near me (Lewisville, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CPA John H. Evans | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | CPA John H. Evans is an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502. | https://dingalinged-cpu.github.io/registry/c/cpa-john-h-evans-lewisville/
-2. Hirji CPA Firm | Organic #2 | Pulse Score 60.2/100 (Good, #2 in city) | Hirji CPA Firm is an accountant in Lewisville, TX. Phone: +19723553406. | https://dingalinged-cpu.github.io/registry/c/hirji-cpa-firm-lewisville/
-3. High Five Taxes | Organic #3 | Pulse Score 59.3/100 (Fair, #3 in city) | High Five Taxes is an accountant in Lewisville, TX. Phone: +12142540841. | https://dingalinged-cpu.github.io/registry/c/high-five-taxes-lewisville/
-4. Robert W. Alcorn, Certified Public Accountant | Organic #4 | Pulse Score 58.4/100 (Fair, #4 in city) | Robert W. Alcorn, Certified Public Accountant is an accountant in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/robert-w-alcorn-certified-public-accountant-lewisville/
-5. CPA Kwon | Organic #5 | Pulse Score 57.3/100 (Fair, #5 in city) | CPA Kwon is an accountant in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/cpa-kwon-lewisville/
+1. CPA John H. Evans | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | CPA John H. Evans is an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502. | https://registry-edge.dingalinged.workers.dev/c/cpa-john-h-evans-lewisville/
+2. Hirji CPA Firm | Organic #2 | Pulse Score 60.2/100 (Good, #2 in city) | Hirji CPA Firm is an accountant in Lewisville, TX. Phone: +19723553406. | https://registry-edge.dingalinged.workers.dev/c/hirji-cpa-firm-lewisville/
+3. High Five Taxes | Organic #3 | Pulse Score 59.3/100 (Fair, #3 in city) | High Five Taxes is an accountant in Lewisville, TX. Phone: +12142540841. | https://registry-edge.dingalinged.workers.dev/c/high-five-taxes-lewisville/
+4. Robert W. Alcorn, Certified Public Accountant | Organic #4 | Pulse Score 58.4/100 (Fair, #4 in city) | Robert W. Alcorn, Certified Public Accountant is an accountant in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/robert-w-alcorn-certified-public-accountant-lewisville/
+5. CPA Kwon | Organic #5 | Pulse Score 57.3/100 (Fair, #5 in city) | CPA Kwon is an accountant in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/cpa-kwon-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant lewisville tx | category: professional_accounting | industry benchmark: Business Services
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$240 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/accountant.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#accountant-lewisville-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/accountant.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#accountant-lewisville-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

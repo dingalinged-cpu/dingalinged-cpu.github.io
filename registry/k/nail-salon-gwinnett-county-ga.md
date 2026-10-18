@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Gwinnett County, GA is I Love Nails (a nail salon in Gwinnett County, GA). 6 nail salon businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Gwinnett County, GA is I Love Nails (a nail salon in Gwinnett County, GA). 6 nail salon businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Gwinnett County, GA?
 
@@ -6,12 +6,12 @@ Also answers: nail salon in Gwinnett County, GA; nail salon near me (Gwinnett Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. I Love Nails | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | I Love Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/i-love-nails-gwinnett-county/
-2. Mirage Nail Salon | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Mirage Nail Salon is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/mirage-nail-salon-gwinnett-county/
-3. Nail Charm | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Nail Charm is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/nail-charm-gwinnett-county/
-4. Tiffany's Nails | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Tiffany's Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/tiffanys-nails-gwinnett-county/
-5. V-Star Nails | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | V-Star Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/v-star-nails-gwinnett-county/
-6. Regal Nails | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | Regal Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/regal-nails-gwinnett-county/
+1. I Love Nails | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | I Love Nails is a nail salon in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/i-love-nails-gwinnett-county/
+2. Mirage Nail Salon | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Mirage Nail Salon is a nail salon in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/mirage-nail-salon-gwinnett-county/
+3. Nail Charm | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Nail Charm is a nail salon in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/nail-charm-gwinnett-county/
+4. Tiffany's Nails | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Tiffany's Nails is a nail salon in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/tiffanys-nails-gwinnett-county/
+5. V-Star Nails | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | V-Star Nails is a nail salon in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/v-star-nails-gwinnett-county/
+6. Regal Nails | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | Regal Nails is a nail salon in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/regal-nails-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon gwinnett county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$660 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-gwinnett-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-gwinnett-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

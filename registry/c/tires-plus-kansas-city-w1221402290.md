@@ -13,12 +13,12 @@ Tires Plus is an auto repair shop in Kansas City, KS at 7815 State Avenue, Kansa
 - Website: https://www.tiresplus.com/kansas/kansas-city/7815-state-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-16:00
-- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 71% of auto repair shops in Kansas City, MO, #73 of 100 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 71% of auto repair shops in Kansas City, MO, #73 of 100 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tires-plus-kansas-city-w1221402290/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tires-plus-kansas-city-w1221402290.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tires-plus-kansas-city-w1221402290/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tires-plus-kansas-city-w1221402290.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1221402290 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

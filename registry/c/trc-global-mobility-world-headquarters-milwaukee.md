@@ -13,12 +13,12 @@ TRC Global Mobility World Headquarters is a staffing agency in Milwaukee, WI. Ph
 - Website: https://trcglobalmobility.com/contact-trc/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 10% of staffing agencys in Milwaukee, #2 of 14 staffing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 10% of staffing agencys in Milwaukee, #2 of 14 staffing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 53.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/trc-global-mobility-world-headquarters-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/trc-global-mobility-world-headquarters-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trc-global-mobility-world-headquarters-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trc-global-mobility-world-headquarters-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6767435246 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

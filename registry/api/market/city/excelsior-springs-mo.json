@@ -2,7 +2,7 @@
  "title": "Keyword market data: Excelsior Springs, MO",
  "description": "Top Excelsior Springs, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Excelsior Springs, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 15,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash excelsior springs mo",
     "slug": "car-wash-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-excelsior-springs-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist excelsior springs mo",
     "slug": "dentist-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-excelsior-springs-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon excelsior springs mo",
     "slug": "hair-salon-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-excelsior-springs-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic excelsior springs mo",
     "slug": "mechanic-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-excelsior-springs-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -71,7 +71,7 @@
    {
     "keyword": "tire shop excelsior springs mo",
     "slug": "tire-shop-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-excelsior-springs-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -86,7 +86,7 @@
    {
     "keyword": "dog groomer excelsior springs mo",
     "slug": "dog-groomer-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-excelsior-springs-mo/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut excelsior springs mo",
     "slug": "haircut-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-excelsior-springs-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair excelsior springs mo",
     "slug": "auto-repair-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-excelsior-springs-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -133,7 +133,7 @@
    {
     "keyword": "storage units excelsior springs mo",
     "slug": "storage-units-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-excelsior-springs-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -148,7 +148,7 @@
    {
     "keyword": "bakery excelsior springs mo",
     "slug": "bakery-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-excelsior-springs-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -163,7 +163,7 @@
    {
     "keyword": "event venues excelsior springs mo",
     "slug": "event-venues-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-excelsior-springs-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -178,7 +178,7 @@
    {
     "keyword": "dance studio excelsior springs mo",
     "slug": "dance-studio-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-excelsior-springs-mo/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -193,7 +193,7 @@
    {
     "keyword": "martial arts excelsior springs mo",
     "slug": "martial-arts-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-excelsior-springs-mo/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2000,
@@ -208,7 +208,7 @@
    {
     "keyword": "driving school excelsior springs mo",
     "slug": "driving-school-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-excelsior-springs-mo/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -223,7 +223,7 @@
    {
     "keyword": "dentist excelsior springs mo",
     "slug": "dentist-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-excelsior-springs-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -238,7 +238,7 @@
    {
     "keyword": "haircut excelsior springs mo",
     "slug": "haircut-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-excelsior-springs-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -253,7 +253,7 @@
    {
     "keyword": "auto repair excelsior springs mo",
     "slug": "auto-repair-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-excelsior-springs-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -268,7 +268,7 @@
    {
     "keyword": "car wash excelsior springs mo",
     "slug": "car-wash-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-excelsior-springs-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -283,7 +283,7 @@
    {
     "keyword": "mechanic excelsior springs mo",
     "slug": "mechanic-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-excelsior-springs-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -298,7 +298,7 @@
    {
     "keyword": "tire shop excelsior springs mo",
     "slug": "tire-shop-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-excelsior-springs-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -313,7 +313,7 @@
    {
     "keyword": "thrift store excelsior springs mo",
     "slug": "thrift-store-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-excelsior-springs-mo/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -328,7 +328,7 @@
    {
     "keyword": "dog groomer excelsior springs mo",
     "slug": "dog-groomer-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-excelsior-springs-mo/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -343,7 +343,7 @@
    {
     "keyword": "hair salon excelsior springs mo",
     "slug": "hair-salon-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-excelsior-springs-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -360,7 +360,7 @@
    {
     "keyword": "dentist excelsior springs mo",
     "slug": "dentist-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-excelsior-springs-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -375,7 +375,7 @@
    {
     "keyword": "car wash excelsior springs mo",
     "slug": "car-wash-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-excelsior-springs-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -390,7 +390,7 @@
    {
     "keyword": "mechanic excelsior springs mo",
     "slug": "mechanic-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-excelsior-springs-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -405,7 +405,7 @@
    {
     "keyword": "tire shop excelsior springs mo",
     "slug": "tire-shop-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-excelsior-springs-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -420,7 +420,7 @@
    {
     "keyword": "dog groomer excelsior springs mo",
     "slug": "dog-groomer-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-excelsior-springs-mo/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -435,7 +435,7 @@
    {
     "keyword": "haircut excelsior springs mo",
     "slug": "haircut-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-excelsior-springs-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -450,7 +450,7 @@
    {
     "keyword": "auto repair excelsior springs mo",
     "slug": "auto-repair-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-excelsior-springs-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -465,7 +465,7 @@
    {
     "keyword": "hair salon excelsior springs mo",
     "slug": "hair-salon-excelsior-springs-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-excelsior-springs-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-excelsior-springs-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,

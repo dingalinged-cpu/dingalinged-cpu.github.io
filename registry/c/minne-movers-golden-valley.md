@@ -13,12 +13,12 @@ Minne Movers is a moving company in Golden Valley, MN at 9303 Plymouth Avenue No
 - Website: https://www.minnemovers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of moving companys in Minneapolis–St. Paul, #1 of 1 moving companys in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 49. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of moving companys in Minneapolis–St. Paul, #1 of 1 moving companys in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 49. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/minne-movers-golden-valley/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/minne-movers-golden-valley.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/minne-movers-golden-valley/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/minne-movers-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12751755438 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Fayetteville, GA",
  "description": "Top Fayetteville, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Fayetteville, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 18,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash fayetteville ga",
     "slug": "car-wash-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fayetteville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist fayetteville ga",
     "slug": "dentist-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fayetteville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym fayetteville ga",
     "slug": "gym-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-fayetteville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon fayetteville ga",
     "slug": "hair-salon-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-fayetteville-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "barber shop fayetteville ga",
     "slug": "barber-shop-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-fayetteville-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic fayetteville ga",
     "slug": "mechanic-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-fayetteville-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop fayetteville ga",
     "slug": "tire-shop-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-fayetteville-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut fayetteville ga",
     "slug": "haircut-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fayetteville-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair fayetteville ga",
     "slug": "auto-repair-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-fayetteville-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -146,7 +146,7 @@
    {
     "keyword": "pediatrician fayetteville ga",
     "slug": "pediatrician-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-fayetteville-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -161,7 +161,7 @@
    {
     "keyword": "attorney fayetteville ga",
     "slug": "attorney-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-fayetteville-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -176,7 +176,7 @@
    {
     "keyword": "lawyer fayetteville ga",
     "slug": "lawyer-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-fayetteville-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -193,7 +193,7 @@
    {
     "keyword": "attorney fayetteville ga",
     "slug": "attorney-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-fayetteville-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -208,7 +208,7 @@
    {
     "keyword": "lawyer fayetteville ga",
     "slug": "lawyer-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-fayetteville-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -223,7 +223,7 @@
    {
     "keyword": "storage units fayetteville ga",
     "slug": "storage-units-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-fayetteville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -238,7 +238,7 @@
    {
     "keyword": "martial arts fayetteville ga",
     "slug": "martial-arts-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-fayetteville-ga/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5700,
@@ -253,7 +253,7 @@
    {
     "keyword": "assisted living fayetteville ga",
     "slug": "assisted-living-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-fayetteville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -268,7 +268,7 @@
    {
     "keyword": "pediatrician fayetteville ga",
     "slug": "pediatrician-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-fayetteville-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -283,7 +283,7 @@
    {
     "keyword": "plastic surgeon fayetteville ga",
     "slug": "plastic-surgeon-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-fayetteville-ga/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 630,
@@ -298,7 +298,7 @@
    {
     "keyword": "dentist fayetteville ga",
     "slug": "dentist-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fayetteville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -313,7 +313,7 @@
    {
     "keyword": "haircut fayetteville ga",
     "slug": "haircut-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fayetteville-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -328,7 +328,7 @@
    {
     "keyword": "auto repair fayetteville ga",
     "slug": "auto-repair-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-fayetteville-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -343,7 +343,7 @@
    {
     "keyword": "car wash fayetteville ga",
     "slug": "car-wash-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fayetteville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -358,7 +358,7 @@
    {
     "keyword": "mechanic fayetteville ga",
     "slug": "mechanic-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-fayetteville-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -373,7 +373,7 @@
    {
     "keyword": "tire shop fayetteville ga",
     "slug": "tire-shop-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-fayetteville-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -388,7 +388,7 @@
    {
     "keyword": "funeral home fayetteville ga",
     "slug": "funeral-home-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-fayetteville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -403,7 +403,7 @@
    {
     "keyword": "printing services fayetteville ga",
     "slug": "printing-services-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-fayetteville-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -420,7 +420,7 @@
    {
     "keyword": "dentist fayetteville ga",
     "slug": "dentist-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fayetteville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -435,7 +435,7 @@
    {
     "keyword": "car wash fayetteville ga",
     "slug": "car-wash-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fayetteville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -450,7 +450,7 @@
    {
     "keyword": "gym fayetteville ga",
     "slug": "gym-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-fayetteville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -465,7 +465,7 @@
    {
     "keyword": "mechanic fayetteville ga",
     "slug": "mechanic-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-fayetteville-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -480,7 +480,7 @@
    {
     "keyword": "tire shop fayetteville ga",
     "slug": "tire-shop-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-fayetteville-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -495,7 +495,7 @@
    {
     "keyword": "haircut fayetteville ga",
     "slug": "haircut-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fayetteville-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -510,7 +510,7 @@
    {
     "keyword": "auto repair fayetteville ga",
     "slug": "auto-repair-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-fayetteville-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -525,7 +525,7 @@
    {
     "keyword": "hair salon fayetteville ga",
     "slug": "hair-salon-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-fayetteville-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -540,7 +540,7 @@
    {
     "keyword": "attorney fayetteville ga",
     "slug": "attorney-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-fayetteville-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -555,7 +555,7 @@
    {
     "keyword": "lawyer fayetteville ga",
     "slug": "lawyer-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-fayetteville-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -570,7 +570,7 @@
    {
     "keyword": "barber shop fayetteville ga",
     "slug": "barber-shop-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-fayetteville-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -585,7 +585,7 @@
    {
     "keyword": "pediatrician fayetteville ga",
     "slug": "pediatrician-fayetteville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-fayetteville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-fayetteville-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,

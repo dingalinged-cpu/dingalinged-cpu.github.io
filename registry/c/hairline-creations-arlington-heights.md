@@ -13,12 +13,12 @@ Hairline Creations is a hair salon in Arlington Heights, IL at 656 East Golf Roa
 - Website: https://www.hairlinecreations.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 10:00-20:00; We 10:00-18:00; Fr 09:00-16:00; Sa 08:30-16:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 12% of hair salons in Chicago, #5 of 13 hair salons in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 12% of hair salons in Chicago, #5 of 13 hair salons in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hairline-creations-arlington-heights/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hairline-creations-arlington-heights.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hairline-creations-arlington-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hairline-creations-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12164291557 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

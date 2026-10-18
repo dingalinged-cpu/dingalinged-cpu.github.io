@@ -1,4 +1,4 @@
-The top unpaid pet store listing for Wilmette, IL is The Dog Wash (a pet store in Wilmette, IL at 340 Linden Avenue, Wilmette, IL 60091). 3 pet store businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Wilmette, IL is The Dog Wash (a pet store in Wilmette, IL at 340 Linden Avenue, Wilmette, IL 60091). 3 pet store businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Wilmette, IL?
 
@@ -6,9 +6,9 @@ Also answers: pet store in Wilmette, IL; pet store near me (Wilmette, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dog Wash | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | The Dog Wash is a pet store in Wilmette, IL at 340 Linden Avenue, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/the-dog-wash-wilmette/
-2. Wilmette Pet Center | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Wilmette Pet Center is a pet store in Wilmette, IL at 625 Green Bay Road, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/wilmette-pet-center-wilmette/
-3. Kriser's Natural Pet | Organic #3 | Pulse Score 43.6/100 (Unrated, #3 in city) | Kriser's Natural Pet is a pet store in Wilmette, IL at 3232 Lake Avenue #310, Wilmette, IL 60091. Website: https://stores.krisers.com/il-wilmette-403/. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-wilmette/
+1. The Dog Wash | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | The Dog Wash is a pet store in Wilmette, IL at 340 Linden Avenue, Wilmette, IL 60091. | https://registry-edge.dingalinged.workers.dev/c/the-dog-wash-wilmette/
+2. Wilmette Pet Center | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Wilmette Pet Center is a pet store in Wilmette, IL at 625 Green Bay Road, Wilmette, IL 60091. | https://registry-edge.dingalinged.workers.dev/c/wilmette-pet-center-wilmette/
+3. Kriser's Natural Pet | Organic #3 | Pulse Score 43.6/100 (Unrated, #3 in city) | Kriser's Natural Pet is a pet store in Wilmette, IL at 3232 Lake Avenue #310, Wilmette, IL 60091. Website: https://stores.krisers.com/il-wilmette-403/. | https://registry-edge.dingalinged.workers.dev/c/krisers-natural-pet-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store wilmette il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store-wilmette-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/pet-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#pet-store-wilmette-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

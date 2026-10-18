@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Hurst, TX is Artistic Profiles (a hair salon in Hurst, TX at 736 West Pipeline Road, Hurst, TX 76053. Phone: +18177853959). 5 hair salon businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Hurst, TX is Artistic Profiles (a hair salon in Hurst, TX at 736 West Pipeline Road, Hurst, TX 76053. Phone: +18177853959). 5 hair salon businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Hurst, TX?
 
@@ -6,11 +6,11 @@ Also answers: hair salon in Hurst, TX; hair salon near me (Hurst, TX); best hair
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Artistic Profiles | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Artistic Profiles is a hair salon in Hurst, TX at 736 West Pipeline Road, Hurst, TX 76053. Phone: +18177853959. | https://dingalinged-cpu.github.io/registry/c/artistic-profiles-hurst/
-2. AABR Hair Salon | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | AABR Hair Salon is a hair salon in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/aabr-hair-salon-hurst/
-3. Love is in The Hair | Organic #3 | Pulse Score 50.4/100 (Fair, #3 in city) | Love is in The Hair is a hair salon in Hurst, TX at 725 Arcadia Street #36, Hurst, TX 76053. Phone: +18172034422. Website: https://www.loveisinthehairtx.com/. | https://dingalinged-cpu.github.io/registry/c/love-is-in-the-hair-hurst/
-4. Knockouts | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | Knockouts is a hair salon in Hurst, TX at 520 Grapevine Highway, Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/knockouts-hurst/
-5. Great Clips | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Great Clips is a hair salon in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-hurst/
+1. Artistic Profiles | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Artistic Profiles is a hair salon in Hurst, TX at 736 West Pipeline Road, Hurst, TX 76053. Phone: +18177853959. | https://registry-edge.dingalinged.workers.dev/c/artistic-profiles-hurst/
+2. AABR Hair Salon | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | AABR Hair Salon is a hair salon in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/aabr-hair-salon-hurst/
+3. Love is in The Hair | Organic #3 | Pulse Score 50.4/100 (Fair, #3 in city) | Love is in The Hair is a hair salon in Hurst, TX at 725 Arcadia Street #36, Hurst, TX 76053. Phone: +18172034422. Website: https://www.loveisinthehairtx.com/. | https://registry-edge.dingalinged.workers.dev/c/love-is-in-the-hair-hurst/
+4. Knockouts | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | Knockouts is a hair salon in Hurst, TX at 520 Grapevine Highway, Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/knockouts-hurst/
+5. Great Clips | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Great Clips is a hair salon in Hurst, TX. | https://registry-edge.dingalinged.workers.dev/c/great-clips-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon hurst tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/hair-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-hurst-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-hurst-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ North Roswell Veterinary Clinic is a veterinarian in Roswell, GA at 11490 Alphar
 - Website: https://northroswellvetclinic.com/
 - Email: northroswellveterinaryclinic@gmail.com
 - Opening hours (OSM syntax): Mo 07:30-18:30; Tu,We,Fr 07:30-18:00; Th,Sa 07:00-18:00; Su closed
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of veterinarians in Atlanta, #2 of 4 veterinarians in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of veterinarians in Atlanta, #2 of 4 veterinarians in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 62.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/north-roswell-veterinary-clinic-roswell/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/north-roswell-veterinary-clinic-roswell.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/north-roswell-veterinary-clinic-roswell/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/north-roswell-veterinary-clinic-roswell.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9757426791 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

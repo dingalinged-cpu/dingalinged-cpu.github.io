@@ -13,12 +13,12 @@ Top Tech Mechanical Services is a HVAC contractor in Kennesaw, GA at 2535 South 
 - Website: https://toptechmech.com/
 - Email: service@toptechmech.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61/100 — Good — top 36% of HVAC contractors in Atlanta, #1 of 2 HVAC contractors in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 52.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Good — top 36% of HVAC contractors in Atlanta, #1 of 2 HVAC contractors in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/top-tech-mechanical-services-kennesaw/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/top-tech-mechanical-services-kennesaw.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/top-tech-mechanical-services-kennesaw/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/top-tech-mechanical-services-kennesaw.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12133141678 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

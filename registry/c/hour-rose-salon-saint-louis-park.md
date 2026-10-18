@@ -13,12 +13,12 @@ Hour Rose Salon is a hair salon in Saint Louis Park, MN at 6600 West Lake Street
 - Website: https://www.hourrosesalon.com/
 - Email: info@hourrosesalon.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-17:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Minneapolis–St. Paul, #2 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Minneapolis–St. Paul, #2 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hour-rose-salon-saint-louis-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hour-rose-salon-saint-louis-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hour-rose-salon-saint-louis-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hour-rose-salon-saint-louis-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/509546050 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

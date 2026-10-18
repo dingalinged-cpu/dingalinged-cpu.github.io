@@ -13,12 +13,12 @@ Lara Auto Service 2 is an auto repair shop in Chicago, IL at 4817 South Knox Ave
 - Website: https://laraautoservice2.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64.8/100 — Good — top 1% of auto repair shops in Chicago, #2 of 169 auto repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 66.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 1% of auto repair shops in Chicago, #2 of 169 auto repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lara-auto-service-2-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lara-auto-service-2-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lara-auto-service-2-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lara-auto-service-2-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6588181256 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

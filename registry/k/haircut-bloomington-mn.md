@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Bloomington, MN is Gifted Barbershop (a barber shop in Bloomington, MN at 7700 West Old Shakopee Road #210, Bloomington, MN 55438. Phone: +19525824817. Website: https://www.giftedbarbershop.com/). 9 haircut businesses are listed for Bloomington, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Bloomington, MN is Gifted Barbershop (a barber shop in Bloomington, MN at 7700 West Old Shakopee Road #210, Bloomington, MN 55438. Phone: +19525824817. Website: https://www.giftedbarbershop.com/). 9 haircut businesses are listed for Bloomington, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Bloomington, MN?
 
@@ -6,15 +6,15 @@ Also answers: haircut in Bloomington, MN; haircut near me (Bloomington, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gifted Barbershop | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Gifted Barbershop is a barber shop in Bloomington, MN at 7700 West Old Shakopee Road #210, Bloomington, MN 55438. Phone: +19525824817. Website: https://www.giftedbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/gifted-barbershop-bloomington/
-2. GNC | Organic #2 | Pulse Score 60.4/100 (Unrated, #1 in city) | GNC is a hair salon in Bloomington, MN at 372 North Garden, Bloomington, MN. Phone: +19526812871. | https://dingalinged-cpu.github.io/registry/c/gnc-bloomington/
-3. Barbers & Stylists | Organic #3 | Pulse Score 59.8/100 (Unrated, #2 in city) | Barbers & Stylists is a barber shop in Bloomington, MN at 10580 France Avenue South, Bloomington, MN 55431. Phone: +19528844351. | https://dingalinged-cpu.github.io/registry/c/barbers-and-stylists-bloomington/
-4. B. Roes | Organic #4 | Pulse Score 54.5/100 (Unrated, #3 in city) | B. Roes is a barber shop in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/b-roes-bloomington/
-5. Sagitario | Organic #5 | Pulse Score 54.5/100 (Unrated, #2 in city) | Sagitario is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/sagitario-bloomington/
-6. Salon Oriana | Organic #6 | Pulse Score 54.5/100 (Unrated, #3 in city) | Salon Oriana is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/salon-oriana-bloomington/
-7. Sport Clips | Organic #7 | Pulse Score 43/100 (Building, #4 in city) | Sport Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bloomington/
-8. Great Clips | Organic #8 | Pulse Score 42.3/100 (Building, #5 in city) | Great Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-bloomington/
-9. Great Clips | Organic #9 | Pulse Score 42.3/100 (Building, #6 in city) | Great Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-bloomington-n6412456034/
+1. Gifted Barbershop | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Gifted Barbershop is a barber shop in Bloomington, MN at 7700 West Old Shakopee Road #210, Bloomington, MN 55438. Phone: +19525824817. Website: https://www.giftedbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/gifted-barbershop-bloomington/
+2. GNC | Organic #2 | Pulse Score 60.4/100 (Unrated, #1 in city) | GNC is a hair salon in Bloomington, MN at 372 North Garden, Bloomington, MN. Phone: +19526812871. | https://registry-edge.dingalinged.workers.dev/c/gnc-bloomington/
+3. Barbers & Stylists | Organic #3 | Pulse Score 59.8/100 (Unrated, #2 in city) | Barbers & Stylists is a barber shop in Bloomington, MN at 10580 France Avenue South, Bloomington, MN 55431. Phone: +19528844351. | https://registry-edge.dingalinged.workers.dev/c/barbers-and-stylists-bloomington/
+4. B. Roes | Organic #4 | Pulse Score 54.5/100 (Unrated, #3 in city) | B. Roes is a barber shop in Bloomington, MN. | https://registry-edge.dingalinged.workers.dev/c/b-roes-bloomington/
+5. Sagitario | Organic #5 | Pulse Score 54.5/100 (Unrated, #2 in city) | Sagitario is a hair salon in Bloomington, MN. | https://registry-edge.dingalinged.workers.dev/c/sagitario-bloomington/
+6. Salon Oriana | Organic #6 | Pulse Score 54.5/100 (Unrated, #3 in city) | Salon Oriana is a hair salon in Bloomington, MN. | https://registry-edge.dingalinged.workers.dev/c/salon-oriana-bloomington/
+7. Sport Clips | Organic #7 | Pulse Score 43/100 (Building, #4 in city) | Sport Clips is a hair salon in Bloomington, MN. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-bloomington/
+8. Great Clips | Organic #8 | Pulse Score 42.3/100 (Building, #5 in city) | Great Clips is a hair salon in Bloomington, MN. | https://registry-edge.dingalinged.workers.dev/c/great-clips-bloomington/
+9. Great Clips | Organic #9 | Pulse Score 42.3/100 (Building, #6 in city) | Great Clips is a hair salon in Bloomington, MN. | https://registry-edge.dingalinged.workers.dev/c/great-clips-bloomington-n6412456034/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut bloomington mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -27,6 +27,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-bloomington-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-bloomington-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

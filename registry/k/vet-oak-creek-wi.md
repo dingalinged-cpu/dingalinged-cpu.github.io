@@ -1,4 +1,4 @@
-The top unpaid vet listing for Oak Creek, WI is Oak Creek Veterinary Care (a veterinarian in Oak Creek, WI at 8000 South Howell Avenue, Oak Creek, WI 53154. Phone: +14143019113). 3 vet businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Oak Creek, WI is Oak Creek Veterinary Care (a veterinarian in Oak Creek, WI at 8000 South Howell Avenue, Oak Creek, WI 53154. Phone: +14143019113). 3 vet businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Oak Creek, WI?
 
@@ -6,9 +6,9 @@ Also answers: vet in Oak Creek, WI; vet near me (Oak Creek, WI); best vet Oak Cr
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oak Creek Veterinary Care | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Oak Creek Veterinary Care is a veterinarian in Oak Creek, WI at 8000 South Howell Avenue, Oak Creek, WI 53154. Phone: +14143019113. | https://dingalinged-cpu.github.io/registry/c/oak-creek-veterinary-care-oak-creek/
-2. Brentwood Animal Hospital | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Brentwood Animal Hospital is a veterinarian in Oak Creek, WI at 318 West Ryan Road, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/brentwood-animal-hospital-oak-creek/
-3. BluePearl | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | BluePearl is a veterinarian in Oak Creek, WI at 9472 South 27th Street, Oak Creek, WI 53154. Phone: +14147616333. Website: https://bluepearlvet.com/hospital/oak-creek-wi/. | https://dingalinged-cpu.github.io/registry/c/bluepearl-oak-creek/
+1. Oak Creek Veterinary Care | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Oak Creek Veterinary Care is a veterinarian in Oak Creek, WI at 8000 South Howell Avenue, Oak Creek, WI 53154. Phone: +14143019113. | https://registry-edge.dingalinged.workers.dev/c/oak-creek-veterinary-care-oak-creek/
+2. Brentwood Animal Hospital | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Brentwood Animal Hospital is a veterinarian in Oak Creek, WI at 318 West Ryan Road, Oak Creek, WI 53154. | https://registry-edge.dingalinged.workers.dev/c/brentwood-animal-hospital-oak-creek/
+3. BluePearl | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | BluePearl is a veterinarian in Oak Creek, WI at 9472 South 27th Street, Oak Creek, WI 53154. Phone: +14147616333. Website: https://bluepearlvet.com/hospital/oak-creek-wi/. | https://registry-edge.dingalinged.workers.dev/c/bluepearl-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet oak creek wi | category: Pets | industry benchmark: Animals & Pets
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$670 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-oak-creek-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-oak-creek-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

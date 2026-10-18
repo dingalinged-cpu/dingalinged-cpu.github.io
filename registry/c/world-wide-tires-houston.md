@@ -13,12 +13,12 @@ World Wide Tires is a tire shop in Houston, TX at 3351 Rauch Street, Houston, TX
 - Website: https://www.rushenterprises.com/world-wide-tires
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 51.3/100 — Unrated (not enough evidence yet) — top 40% of tire shops in Houston, #30 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.9, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.3/100 — Unrated (not enough evidence yet) — top 40% of tire shops in Houston, #30 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.9, Trust 61.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/world-wide-tires-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/world-wide-tires-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/world-wide-tires-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/world-wide-tires-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/14022768150 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

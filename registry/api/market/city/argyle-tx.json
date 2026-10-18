@@ -2,7 +2,7 @@
  "title": "Keyword market data: Argyle, TX",
  "description": "Top Argyle, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Argyle, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 8,
@@ -11,7 +11,7 @@
    {
     "keyword": "gym argyle tx",
     "slug": "gym-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-argyle-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "vet argyle tx",
     "slug": "vet-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-argyle-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -41,7 +41,7 @@
    {
     "keyword": "real estate agent argyle tx",
     "slug": "real-estate-agent-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-argyle-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -56,7 +56,7 @@
    {
     "keyword": "realtor argyle tx",
     "slug": "realtor-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-argyle-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -73,7 +73,7 @@
    {
     "keyword": "bakery argyle tx",
     "slug": "bakery-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-argyle-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -88,7 +88,7 @@
    {
     "keyword": "assisted living argyle tx",
     "slug": "assisted-living-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-argyle-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -103,7 +103,7 @@
    {
     "keyword": "drug rehab argyle tx",
     "slug": "drug-rehab-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/drug-rehab-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/drug-rehab-argyle-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -118,7 +118,7 @@
    {
     "keyword": "therapist argyle tx",
     "slug": "therapist-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-argyle-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -133,7 +133,7 @@
    {
     "keyword": "vet argyle tx",
     "slug": "vet-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-argyle-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -148,7 +148,7 @@
    {
     "keyword": "realtor argyle tx",
     "slug": "realtor-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-argyle-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -163,7 +163,7 @@
    {
     "keyword": "real estate agent argyle tx",
     "slug": "real-estate-agent-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-argyle-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -178,7 +178,7 @@
    {
     "keyword": "gym argyle tx",
     "slug": "gym-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-argyle-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -195,7 +195,7 @@
    {
     "keyword": "gym argyle tx",
     "slug": "gym-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-argyle-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -210,7 +210,7 @@
    {
     "keyword": "vet argyle tx",
     "slug": "vet-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-argyle-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -225,7 +225,7 @@
    {
     "keyword": "real estate agent argyle tx",
     "slug": "real-estate-agent-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-argyle-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -240,7 +240,7 @@
    {
     "keyword": "realtor argyle tx",
     "slug": "realtor-argyle-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-argyle-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-argyle-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,

@@ -13,12 +13,12 @@ Massage Envy is a massage studio in Chicago, IL at 1136 South Delano Court #E201
 - Website: https://locations.massageenvy.com/illinois/chicago/1136-s--delano-ct-west.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 76% of massage studios in Chicago, #20 of 26 massage studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 76% of massage studios in Chicago, #20 of 26 massage studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 54.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/massage-envy-chicago-n12681960565/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/massage-envy-chicago-n12681960565.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/massage-envy-chicago-n12681960565/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/massage-envy-chicago-n12681960565.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12681960565 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ State Farm Chuck Freeman Agency is an insurance agent in West Des Moines, IA at 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44/100 — Building — top 87% of insurance agents in Des Moines, IA, #7 of 8 insurance agents in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44/100 — Building — top 87% of insurance agents in Des Moines, IA, #7 of 8 insurance agents in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/state-farm-chuck-freeman-agency-west-des-moines/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/state-farm-chuck-freeman-agency-west-des-moines.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/state-farm-chuck-freeman-agency-west-des-moines/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/state-farm-chuck-freeman-agency-west-des-moines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2838840790 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

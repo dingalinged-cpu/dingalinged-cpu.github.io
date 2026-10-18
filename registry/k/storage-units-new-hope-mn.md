@@ -1,4 +1,4 @@
-The top unpaid storage units listing for New Hope, MN is Extra Space Storage (a self-storage facility in New Hope, MN at 3216 Winnetka Avenue North, New Hope, MN 55427. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps). 3 storage units businesses are listed for New Hope, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for New Hope, MN is Extra Space Storage (a self-storage facility in New Hope, MN at 3216 Winnetka Avenue North, New Hope, MN 55427. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps). 3 storage units businesses are listed for New Hope, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in New Hope, MN?
 
@@ -6,9 +6,9 @@ Also answers: storage units in New Hope, MN; storage units near me (New Hope, MN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in New Hope, MN at 3216 Winnetka Avenue North, New Hope, MN 55427. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-new-hope/
-2. Public Storage | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Public Storage is a self-storage facility in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/public-storage-new-hope/
-3. Public Storage | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Public Storage is a self-storage facility in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/public-storage-new-hope-w763213354/
+1. Extra Space Storage | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in New Hope, MN at 3216 Winnetka Avenue North, New Hope, MN 55427. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-new-hope/
+2. Public Storage | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Public Storage is a self-storage facility in New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/public-storage-new-hope/
+3. Public Storage | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Public Storage is a self-storage facility in New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/public-storage-new-hope-w763213354/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units new hope mn | category: Home services - Moving | industry benchmark: Home & Home Improvement
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/storage-units.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#storage-units-new-hope-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/storage-units.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#storage-units-new-hope-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

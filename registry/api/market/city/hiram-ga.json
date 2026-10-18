@@ -2,7 +2,7 @@
  "title": "Keyword market data: Hiram, GA",
  "description": "Top Hiram, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hiram, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist hiram ga",
     "slug": "dentist-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hiram-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym hiram ga",
     "slug": "gym-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hiram-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon hiram ga",
     "slug": "hair-salon-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hiram-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon hiram ga",
     "slug": "nail-salon-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hiram-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic hiram ga",
     "slug": "mechanic-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hiram-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -86,7 +86,7 @@
    {
     "keyword": "tire shop hiram ga",
     "slug": "tire-shop-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-hiram-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet hiram ga",
     "slug": "vet-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hiram-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut hiram ga",
     "slug": "haircut-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hiram-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair hiram ga",
     "slug": "auto-repair-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hiram-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -146,7 +146,7 @@
    {
     "keyword": "roofing contractor hiram ga",
     "slug": "roofing-contractor-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-hiram-ga/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -161,7 +161,7 @@
    {
     "keyword": "tax preparation hiram ga",
     "slug": "tax-preparation-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hiram-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparer hiram ga",
     "slug": "tax-preparer-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hiram-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -191,7 +191,7 @@
    {
     "keyword": "roofer hiram ga",
     "slug": "roofer-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-hiram-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -206,7 +206,7 @@
    {
     "keyword": "accountant hiram ga",
     "slug": "accountant-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-hiram-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -221,7 +221,7 @@
    {
     "keyword": "accounting services hiram ga",
     "slug": "accounting-services-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-hiram-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -238,7 +238,7 @@
    {
     "keyword": "roofing contractor hiram ga",
     "slug": "roofing-contractor-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-hiram-ga/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofer hiram ga",
     "slug": "roofer-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-hiram-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -268,7 +268,7 @@
    {
     "keyword": "storage units hiram ga",
     "slug": "storage-units-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-hiram-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -283,7 +283,7 @@
    {
     "keyword": "accounting services hiram ga",
     "slug": "accounting-services-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-hiram-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -298,7 +298,7 @@
    {
     "keyword": "staffing agency hiram ga",
     "slug": "staffing-agency-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-hiram-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -313,7 +313,7 @@
    {
     "keyword": "tax preparer hiram ga",
     "slug": "tax-preparer-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hiram-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -328,7 +328,7 @@
    {
     "keyword": "accountant hiram ga",
     "slug": "accountant-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-hiram-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -343,7 +343,7 @@
    {
     "keyword": "daycare hiram ga",
     "slug": "daycare-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-hiram-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -358,7 +358,7 @@
    {
     "keyword": "dentist hiram ga",
     "slug": "dentist-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hiram-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -373,7 +373,7 @@
    {
     "keyword": "haircut hiram ga",
     "slug": "haircut-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hiram-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -388,7 +388,7 @@
    {
     "keyword": "auto repair hiram ga",
     "slug": "auto-repair-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hiram-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -403,7 +403,7 @@
    {
     "keyword": "mechanic hiram ga",
     "slug": "mechanic-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hiram-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -418,7 +418,7 @@
    {
     "keyword": "tire shop hiram ga",
     "slug": "tire-shop-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-hiram-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -433,7 +433,7 @@
    {
     "keyword": "bike shop hiram ga",
     "slug": "bike-shop-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-hiram-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -448,7 +448,7 @@
    {
     "keyword": "jewelry store hiram ga",
     "slug": "jewelry-store-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-hiram-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist hiram ga",
     "slug": "dentist-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hiram-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -480,7 +480,7 @@
    {
     "keyword": "gym hiram ga",
     "slug": "gym-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hiram-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic hiram ga",
     "slug": "mechanic-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hiram-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -510,7 +510,7 @@
    {
     "keyword": "tire shop hiram ga",
     "slug": "tire-shop-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-hiram-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -525,7 +525,7 @@
    {
     "keyword": "vet hiram ga",
     "slug": "vet-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hiram-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -540,7 +540,7 @@
    {
     "keyword": "haircut hiram ga",
     "slug": "haircut-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hiram-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -555,7 +555,7 @@
    {
     "keyword": "roofing contractor hiram ga",
     "slug": "roofing-contractor-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-hiram-ga/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair hiram ga",
     "slug": "auto-repair-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hiram-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon hiram ga",
     "slug": "hair-salon-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hiram-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -600,7 +600,7 @@
    {
     "keyword": "nail salon hiram ga",
     "slug": "nail-salon-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hiram-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -615,7 +615,7 @@
    {
     "keyword": "roofer hiram ga",
     "slug": "roofer-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-hiram-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -630,7 +630,7 @@
    {
     "keyword": "tax preparer hiram ga",
     "slug": "tax-preparer-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hiram-ga/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -645,7 +645,7 @@
    {
     "keyword": "tax preparation hiram ga",
     "slug": "tax-preparation-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hiram-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -660,7 +660,7 @@
    {
     "keyword": "accountant hiram ga",
     "slug": "accountant-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-hiram-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -675,7 +675,7 @@
    {
     "keyword": "accounting services hiram ga",
     "slug": "accounting-services-hiram-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-hiram-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-hiram-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,

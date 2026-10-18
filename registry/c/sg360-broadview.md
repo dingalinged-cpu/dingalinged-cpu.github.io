@@ -13,12 +13,12 @@ SG360° is a painting contractor in Broadview, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of painting contractors in Chicago, #1 of 1 painting contractors in Broadview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 39.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of painting contractors in Chicago, #1 of 1 painting contractors in Broadview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 39.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sg360-broadview/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sg360-broadview.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sg360-broadview/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sg360-broadview.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13194842197 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

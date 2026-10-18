@@ -13,12 +13,12 @@ C J Printing is a printing service in Countryside, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 9% of printing services in Chicago, #1 of 2 printing services in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 57.9, Trust 40. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 9% of printing services in Chicago, #1 of 2 printing services in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 57.9, Trust 40. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/c-j-printing-countryside/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/c-j-printing-countryside.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/c-j-printing-countryside/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/c-j-printing-countryside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10172624468 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

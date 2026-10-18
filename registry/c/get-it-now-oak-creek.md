@@ -13,12 +13,12 @@ Get It Now! is a furniture store in Oak Creek, WI at 8601 South Howell Avenue, O
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 93% of furniture stores in Milwaukee, #4 of 4 furniture stores in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 93% of furniture stores in Milwaukee, #4 of 4 furniture stores in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/get-it-now-oak-creek/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/get-it-now-oak-creek.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/get-it-now-oak-creek/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/get-it-now-oak-creek.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1177651261 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

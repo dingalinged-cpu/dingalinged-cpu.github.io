@@ -2,7 +2,7 @@
  "title": "Keyword market data: Monee, IL",
  "description": "Top Monee, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Monee, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 4,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash monee il",
     "slug": "car-wash-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-monee-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "plumber monee il",
     "slug": "plumber-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-monee-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -41,7 +41,7 @@
    {
     "keyword": "plumbing services monee il",
     "slug": "plumbing-services-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-monee-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -58,7 +58,7 @@
    {
     "keyword": "plumbing services monee il",
     "slug": "plumbing-services-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-monee-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -73,7 +73,7 @@
    {
     "keyword": "plumber monee il",
     "slug": "plumber-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-monee-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -88,7 +88,7 @@
    {
     "keyword": "plumbers monee il",
     "slug": "plumbers-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-monee-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -103,7 +103,7 @@
    {
     "keyword": "car wash monee il",
     "slug": "car-wash-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-monee-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -120,7 +120,7 @@
    {
     "keyword": "plumber monee il",
     "slug": "plumber-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-monee-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -135,7 +135,7 @@
    {
     "keyword": "car wash monee il",
     "slug": "car-wash-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-monee-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -150,7 +150,7 @@
    {
     "keyword": "plumbing services monee il",
     "slug": "plumbing-services-monee-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-monee-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-monee-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

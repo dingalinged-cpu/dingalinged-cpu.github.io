@@ -13,12 +13,12 @@ Trails of White Rock/Reserve at White Rock is a property management company in D
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 91% of property management companys in Dallas–Fort Worth, #34 of 36 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 39.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 91% of property management companys in Dallas–Fort Worth, #34 of 36 property management companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/trails-of-white-rock-reserve-at-white-rock-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/trails-of-white-rock-reserve-at-white-rock-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trails-of-white-rock-reserve-at-white-rock-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trails-of-white-rock-reserve-at-white-rock-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/466464586 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

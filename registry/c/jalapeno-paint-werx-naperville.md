@@ -13,12 +13,12 @@ Jalapeno Paint Werx is a painting contractor in Naperville, IL at 304 East Ogden
 - Website: https://www.jalapenopaintwerx.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 50% of painting contractors in Chicago, #2 of 2 painting contractors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 49.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 50% of painting contractors in Chicago, #2 of 2 painting contractors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/jalapeno-paint-werx-naperville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/jalapeno-paint-werx-naperville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/jalapeno-paint-werx-naperville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/jalapeno-paint-werx-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/984774133 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

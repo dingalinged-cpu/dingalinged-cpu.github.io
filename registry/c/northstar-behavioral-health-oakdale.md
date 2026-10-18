@@ -13,12 +13,12 @@ Northstar Behavioral Health is a therapy practice in Oakdale, MN at 5713 Geneva 
 - Website: https://www.northstarbehavioralhealthmn.com/womens-residential-geneva
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 16% of therapy practices in Minneapolis–St. Paul, #1 of 1 therapy practices in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 16% of therapy practices in Minneapolis–St. Paul, #1 of 1 therapy practices in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/northstar-behavioral-health-oakdale/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/northstar-behavioral-health-oakdale.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/northstar-behavioral-health-oakdale/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/northstar-behavioral-health-oakdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6636466384 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Transmission Shop & Auto Repair is an auto repair shop in Golden Valley, MN at 6
 - Website: https://www.transmissionshopinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 24% of auto repair shops in Minneapolis–St. Paul, #6 of 13 auto repair shops in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 24% of auto repair shops in Minneapolis–St. Paul, #6 of 13 auto repair shops in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/transmission-shop-and-auto-repair-golden-valley/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/transmission-shop-and-auto-repair-golden-valley.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/transmission-shop-and-auto-repair-golden-valley/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/transmission-shop-and-auto-repair-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1200088066 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

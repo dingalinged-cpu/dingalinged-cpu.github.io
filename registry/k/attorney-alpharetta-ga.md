@@ -1,4 +1,4 @@
-The top unpaid attorney listing for Alpharetta, GA is Spaulding Injury Law (a lawyer in Alpharetta, GA at 44 Milton Avenue ##132, Alpharetta, GA 30009. Phone: +14703751131. Website: https://www.spauldinginjurylaw.com/alpharetta/). 4 attorney businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Alpharetta, GA is Spaulding Injury Law (a lawyer in Alpharetta, GA at 44 Milton Avenue ##132, Alpharetta, GA 30009. Phone: +14703751131. Website: https://www.spauldinginjurylaw.com/alpharetta/). 4 attorney businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Alpharetta, GA?
 
@@ -6,10 +6,10 @@ Also answers: attorney in Alpharetta, GA; attorney near me (Alpharetta, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spaulding Injury Law | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Spaulding Injury Law is a lawyer in Alpharetta, GA at 44 Milton Avenue ##132, Alpharetta, GA 30009. Phone: +14703751131. Website: https://www.spauldinginjurylaw.com/alpharetta/. | https://dingalinged-cpu.github.io/registry/c/spaulding-injury-law-alpharetta/
-2. G. Kennedy McLeod, Jr. - Attorney At Law | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | G. Kennedy McLeod, Jr. - Attorney At Law is a lawyer in Alpharetta, GA at 11175 Cicero Dr, #100, Alpharetta, GA 30022. Phone: +16786466787. Website: https://mcleodgalaw.com/. | https://dingalinged-cpu.github.io/registry/c/g-kennedy-mcleod-jr-attorney-at-law-alpharetta/
-3. The Millard Law Firm | Organic #3 | Pulse Score 59.8/100 (Unrated, #3 in city) | The Millard Law Firm is a lawyer in Alpharetta, GA at 318 Maxwell Road #Suite 600, Alpharetta, GA 30009. Phone: +16783199500. Website: https://themillardlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-millard-law-firm-alpharetta/
-4. Atlanta Divorce Law Group | Organic #4 | Pulse Score 53.7/100 (Unrated, #4 in city) | Atlanta Divorce Law Group is a lawyer in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-divorce-law-group-alpharetta/
+1. Spaulding Injury Law | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Spaulding Injury Law is a lawyer in Alpharetta, GA at 44 Milton Avenue ##132, Alpharetta, GA 30009. Phone: +14703751131. Website: https://www.spauldinginjurylaw.com/alpharetta/. | https://registry-edge.dingalinged.workers.dev/c/spaulding-injury-law-alpharetta/
+2. G. Kennedy McLeod, Jr. - Attorney At Law | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | G. Kennedy McLeod, Jr. - Attorney At Law is a lawyer in Alpharetta, GA at 11175 Cicero Dr, #100, Alpharetta, GA 30022. Phone: +16786466787. Website: https://mcleodgalaw.com/. | https://registry-edge.dingalinged.workers.dev/c/g-kennedy-mcleod-jr-attorney-at-law-alpharetta/
+3. The Millard Law Firm | Organic #3 | Pulse Score 59.8/100 (Unrated, #3 in city) | The Millard Law Firm is a lawyer in Alpharetta, GA at 318 Maxwell Road #Suite 600, Alpharetta, GA 30009. Phone: +16783199500. Website: https://themillardlawfirm.com/. | https://registry-edge.dingalinged.workers.dev/c/the-millard-law-firm-alpharetta/
+4. Atlanta Divorce Law Group | Organic #4 | Pulse Score 53.7/100 (Unrated, #4 in city) | Atlanta Divorce Law Group is a lawyer in Alpharetta, GA. | https://registry-edge.dingalinged.workers.dev/c/atlanta-divorce-law-group-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney alpharetta ga | category: professional_legal | industry benchmark: Attorneys & Legal Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$820 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/attorney.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#attorney-alpharetta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/attorney.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#attorney-alpharetta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

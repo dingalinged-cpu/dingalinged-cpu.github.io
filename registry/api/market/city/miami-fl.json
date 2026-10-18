@@ -2,7 +2,7 @@
  "title": "Keyword market data: Miami, FL",
  "description": "Top Miami, FL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Miami, FL",
  "geography": "Miami-Fort Lauderdale-West Palm Beach, FL metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage miami fl",
     "slug": "massage-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-miami-fl",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 93000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care miami fl",
     "slug": "urgent-care-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-miami-fl",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist miami fl",
     "slug": "dentist-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-miami-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym miami fl",
     "slug": "gym-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-miami-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash miami fl",
     "slug": "car-wash-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-miami-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change miami fl",
     "slug": "oil-change-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-miami-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon miami fl",
     "slug": "hair-salon-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-miami-fl",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon miami fl",
     "slug": "nail-salon-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-miami-fl",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes miami fl",
     "slug": "car-insurance-quotes-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-miami-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber miami fl",
     "slug": "plumber-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-miami-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments miami fl",
     "slug": "apartments-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-miami-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance miami fl",
     "slug": "auto-insurance-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-miami-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop miami fl",
     "slug": "barber-shop-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-miami-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage miami fl",
     "slug": "lymphatic-drainage-massage-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-miami-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic miami fl",
     "slug": "mechanic-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-miami-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer miami fl",
     "slug": "personal-injury-lawyer-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-miami-fl",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber miami fl",
     "slug": "emergency-plumber-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-miami-fl",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair miami fl",
     "slug": "hvac-repair-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-miami-fl",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair miami fl",
     "slug": "ac-repair-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-miami-fl",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement miami fl",
     "slug": "roof-replacement-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-miami-fl",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair miami fl",
     "slug": "roof-repair-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-miami-fl",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast miami fl",
     "slug": "sell-my-house-fast-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-miami-fl",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services miami fl",
     "slug": "plumbing-services-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-miami-fl",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining miami fl",
     "slug": "deck-staining-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-miami-fl",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters miami fl",
     "slug": "exterior-house-painters-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-miami-fl",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters miami fl",
     "slug": "interior-painters-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-miami-fl",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters miami fl",
     "slug": "painters-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-miami-fl",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company miami fl",
     "slug": "moving-company-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-miami-fl",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney miami fl",
     "slug": "criminal-defense-attorney-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-miami-fl",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer miami fl",
     "slug": "dui-defense-lawyer-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-miami-fl",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 67.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage miami fl",
     "slug": "massage-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-miami-fl",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 93000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care miami fl",
     "slug": "urgent-care-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-miami-fl",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer miami fl",
     "slug": "personal-injury-lawyer-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-miami-fl",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber miami fl",
     "slug": "plumber-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-miami-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist miami fl",
     "slug": "dentist-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-miami-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash miami fl",
     "slug": "car-wash-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-miami-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change miami fl",
     "slug": "oil-change-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-miami-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair miami fl",
     "slug": "ac-repair-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-miami-fl",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer miami fl",
     "slug": "car-accident-lawyer-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-miami-fl",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage miami fl",
     "slug": "lymphatic-drainage-massage-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-miami-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym miami fl",
     "slug": "gym-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-miami-fl",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 34000,
@@ -630,7 +630,7 @@
    {
     "keyword": "mechanic miami fl",
     "slug": "mechanic-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-miami-fl",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -645,7 +645,7 @@
    {
     "keyword": "electrician miami fl",
     "slug": "electrician-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-miami-fl",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes miami fl",
     "slug": "car-insurance-quotes-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-miami-fl",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement miami fl",
     "slug": "water-heater-replacement-miami-fl",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-miami-fl",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-miami-fl",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,

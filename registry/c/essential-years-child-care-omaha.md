@@ -13,12 +13,12 @@ Essential Years Child Care is a daycare in Omaha, NE at 5972 North 30th Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 8% of daycares in Omaha, NE, #2 of 14 daycares in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 8% of daycares in Omaha, NE, #2 of 14 daycares in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/essential-years-child-care-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/essential-years-child-care-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/essential-years-child-care-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/essential-years-child-care-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1286165583 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

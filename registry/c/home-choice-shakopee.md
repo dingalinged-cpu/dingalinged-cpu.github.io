@@ -13,12 +13,12 @@ Home Choice is a furniture store in Shakopee, MN at 1136 Vierling Drive East, Sh
 - Website: https://www.homechoicestores.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 75% of furniture stores in Minneapolis–St. Paul, #1 of 1 furniture stores in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 75% of furniture stores in Minneapolis–St. Paul, #1 of 1 furniture stores in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/home-choice-shakopee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/home-choice-shakopee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/home-choice-shakopee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/home-choice-shakopee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8936006733 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

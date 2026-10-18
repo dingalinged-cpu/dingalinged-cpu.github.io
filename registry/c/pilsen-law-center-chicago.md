@@ -13,12 +13,12 @@ Pilsen Law Center is a lawyer in Chicago, IL at 1545 West 18th Street, Chicago, 
 - Website: https://pilsenlawcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 62% of lawyers in Chicago, #47 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 45.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 62% of lawyers in Chicago, #47 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/pilsen-law-center-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pilsen-law-center-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pilsen-law-center-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pilsen-law-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13255821240 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

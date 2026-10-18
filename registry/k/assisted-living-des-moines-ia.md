@@ -1,4 +1,4 @@
-The top unpaid assisted living listing for Des Moines, IA is Edencrest at Beaverdale (an assisted living facility in Des Moines, IA at 3410 Beaver Avenue, Des Moines, IA 50310. Phone: +15157775105. Website: https://edencrestliving.com/beaverdale/). 5 assisted living businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Des Moines, IA is Edencrest at Beaverdale (an assisted living facility in Des Moines, IA at 3410 Beaver Avenue, Des Moines, IA 50310. Phone: +15157775105. Website: https://edencrestliving.com/beaverdale/). 5 assisted living businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Des Moines, IA?
 
@@ -6,11 +6,11 @@ Also answers: assisted living in Des Moines, IA; assisted living near me (Des Mo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edencrest at Beaverdale | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Edencrest at Beaverdale is an assisted living facility in Des Moines, IA at 3410 Beaver Avenue, Des Moines, IA 50310. Phone: +15157775105. Website: https://edencrestliving.com/beaverdale/. | https://dingalinged-cpu.github.io/registry/c/edencrest-at-beaverdale-des-moines/
-2. 3801 Grand | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | 3801 Grand is an assisted living facility in Des Moines, IA at 3801 Grand Avenue, Des Moines, IA 50312. Phone: +15152553499. Website: https://www.3801grand.com/. | https://dingalinged-cpu.github.io/registry/c/3801-grand-des-moines/
-3. The Rose of Des Moines | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | The Rose of Des Moines is an assisted living facility in Des Moines, IA. Website: https://evergreenredc.com/roseofdesmoines.php. | https://dingalinged-cpu.github.io/registry/c/the-rose-of-des-moines-des-moines/
-4. Corinthian Gardens | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Corinthian Gardens is an assisted living facility in Des Moines, IA. | https://dingalinged-cpu.github.io/registry/c/corinthian-gardens-des-moines/
-5. Walden Point | Organic #5 | Pulse Score 55.5/100 (Unrated, #5 in city) | Walden Point is an assisted living facility in Des Moines, IA. | https://dingalinged-cpu.github.io/registry/c/walden-point-des-moines/
+1. Edencrest at Beaverdale | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Edencrest at Beaverdale is an assisted living facility in Des Moines, IA at 3410 Beaver Avenue, Des Moines, IA 50310. Phone: +15157775105. Website: https://edencrestliving.com/beaverdale/. | https://registry-edge.dingalinged.workers.dev/c/edencrest-at-beaverdale-des-moines/
+2. 3801 Grand | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | 3801 Grand is an assisted living facility in Des Moines, IA at 3801 Grand Avenue, Des Moines, IA 50312. Phone: +15152553499. Website: https://www.3801grand.com/. | https://registry-edge.dingalinged.workers.dev/c/3801-grand-des-moines/
+3. The Rose of Des Moines | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | The Rose of Des Moines is an assisted living facility in Des Moines, IA. Website: https://evergreenredc.com/roseofdesmoines.php. | https://registry-edge.dingalinged.workers.dev/c/the-rose-of-des-moines-des-moines/
+4. Corinthian Gardens | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Corinthian Gardens is an assisted living facility in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/corinthian-gardens-des-moines/
+5. Walden Point | Organic #5 | Pulse Score 55.5/100 (Unrated, #5 in city) | Walden Point is an assisted living facility in Des Moines, IA. | https://registry-edge.dingalinged.workers.dev/c/walden-point-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living des moines ia | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$160 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/assisted-living.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#assisted-living-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/assisted-living.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#assisted-living-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid flooring companies listing for Grimes, IA is Bertini Marble and Tile (a flooring company in Grimes, IA). 2 flooring companies businesses are listed for Grimes, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Grimes, IA is Bertini Marble and Tile (a flooring company in Grimes, IA). 2 flooring companies businesses are listed for Grimes, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Grimes, IA?
 
@@ -6,8 +6,8 @@ Also answers: flooring companies in Grimes, IA; flooring companies near me (Grim
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bertini Marble and Tile | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Bertini Marble and Tile is a flooring company in Grimes, IA. | https://dingalinged-cpu.github.io/registry/c/bertini-marble-and-tile-grimes/
-2. Urban Flooring and Design | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Urban Flooring and Design is a flooring company in Grimes, IA. | https://dingalinged-cpu.github.io/registry/c/urban-flooring-and-design-grimes/
+1. Bertini Marble and Tile | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Bertini Marble and Tile is a flooring company in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/bertini-marble-and-tile-grimes/
+2. Urban Flooring and Design | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Urban Flooring and Design is a flooring company in Grimes, IA. | https://registry-edge.dingalinged.workers.dev/c/urban-flooring-and-design-grimes/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies grimes ia | category: Home services - Flooring | industry benchmark: Home & Home Improvement
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$21.00 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/flooring-companies.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#flooring-companies-grimes-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/flooring-companies.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#flooring-companies-grimes-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

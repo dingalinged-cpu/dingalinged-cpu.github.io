@@ -2,16 +2,16 @@ Keyword market for Maxwell, IA: 2 service keywords with search volume, CPC and s
 
 # Top keywords in Maxwell, IA
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
 
 ## By monthly searches
-1. chiropractor maxwell ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-maxwell-ia/
+1. chiropractor maxwell ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-maxwell-ia/
 
 ## By CPC
-1. chiropractor maxwell ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-maxwell-ia/
-2. funeral home maxwell ia | searches/mo 490 (est) | CPC $3.39 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/funeral-home-maxwell-ia/
+1. chiropractor maxwell ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-maxwell-ia/
+2. funeral home maxwell ia | searches/mo 490 (est) | CPC $3.39 | value $1,700 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/funeral-home-maxwell-ia/
 
 ## By value (searches x CPC)
-1. chiropractor maxwell ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/chiropractor-maxwell-ia/
+1. chiropractor maxwell ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/chiropractor-maxwell-ia/
 
-All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

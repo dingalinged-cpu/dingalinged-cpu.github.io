@@ -13,12 +13,12 @@ Twisted Tattoo is a tattoo shop in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 98% of tattoo shops in Chicago, #25 of 25 tattoo shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 38.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 98% of tattoo shops in Chicago, #25 of 25 tattoo shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 38.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/twisted-tattoo-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/twisted-tattoo-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twisted-tattoo-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twisted-tattoo-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11926746723 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

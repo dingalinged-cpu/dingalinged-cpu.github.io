@@ -2,7 +2,7 @@
  "title": "Keyword market data: Garland, TX",
  "description": "Top Garland, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Garland, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 55,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage garland tx",
     "slug": "massage-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-garland-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash garland tx",
     "slug": "car-wash-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-garland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist garland tx",
     "slug": "dentist-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-garland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym garland tx",
     "slug": "gym-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-garland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon garland tx",
     "slug": "hair-salon-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-garland-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon garland tx",
     "slug": "nail-salon-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-garland-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "plumber garland tx",
     "slug": "plumber-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-garland-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -116,7 +116,7 @@
    {
     "keyword": "barber shop garland tx",
     "slug": "barber-shop-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-garland-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "mechanic garland tx",
     "slug": "mechanic-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-garland-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -146,7 +146,7 @@
    {
     "keyword": "tire shop garland tx",
     "slug": "tire-shop-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-garland-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -161,7 +161,7 @@
    {
     "keyword": "vet garland tx",
     "slug": "vet-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-garland-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut garland tx",
     "slug": "haircut-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-garland-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair garland tx",
     "slug": "auto-repair-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-garland-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -206,7 +206,7 @@
    {
     "keyword": "chiropractor garland tx",
     "slug": "chiropractor-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-garland-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -221,7 +221,7 @@
    {
     "keyword": "pest control garland tx",
     "slug": "pest-control-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pest-control-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-garland-tx/",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -238,7 +238,7 @@
    {
     "keyword": "plumbing services garland tx",
     "slug": "plumbing-services-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-garland-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumber garland tx",
     "slug": "plumber-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-garland-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -268,7 +268,7 @@
    {
     "keyword": "attorney garland tx",
     "slug": "attorney-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-garland-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -283,7 +283,7 @@
    {
     "keyword": "lawyer garland tx",
     "slug": "lawyer-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-garland-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -298,7 +298,7 @@
    {
     "keyword": "exterminator garland tx",
     "slug": "exterminator-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/exterminator-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-garland-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -313,7 +313,7 @@
    {
     "keyword": "flooring companies garland tx",
     "slug": "flooring-companies-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-garland-tx/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -328,7 +328,7 @@
    {
     "keyword": "pest control garland tx",
     "slug": "pest-control-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pest-control-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-garland-tx/",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbers garland tx",
     "slug": "plumbers-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-garland-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "storage units garland tx",
     "slug": "storage-units-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-garland-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -373,7 +373,7 @@
    {
     "keyword": "event venues garland tx",
     "slug": "event-venues-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-garland-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "florist garland tx",
     "slug": "florist-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-garland-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -403,7 +403,7 @@
    {
     "keyword": "photographer garland tx",
     "slug": "photographer-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-garland-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -418,7 +418,7 @@
    {
     "keyword": "dance studio garland tx",
     "slug": "dance-studio-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-garland-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -433,7 +433,7 @@
    {
     "keyword": "martial arts garland tx",
     "slug": "martial-arts-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-garland-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -448,7 +448,7 @@
    {
     "keyword": "tax preparer garland tx",
     "slug": "tax-preparer-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-garland-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage garland tx",
     "slug": "massage-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-garland-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "plumber garland tx",
     "slug": "plumber-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-garland-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist garland tx",
     "slug": "dentist-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-garland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash garland tx",
     "slug": "car-wash-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-garland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym garland tx",
     "slug": "gym-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-garland-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic garland tx",
     "slug": "mechanic-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-garland-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop garland tx",
     "slug": "tire-shop-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-garland-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet garland tx",
     "slug": "vet-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-garland-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut garland tx",
     "slug": "haircut-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-garland-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -600,7 +600,7 @@
    {
     "keyword": "pest control garland tx",
     "slug": "pest-control-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pest-control-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pest-control-garland-tx/",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair garland tx",
     "slug": "auto-repair-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-garland-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor garland tx",
     "slug": "chiropractor-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-garland-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -645,7 +645,7 @@
    {
     "keyword": "exterminator garland tx",
     "slug": "exterminator-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/exterminator-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/exterminator-garland-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -660,7 +660,7 @@
    {
     "keyword": "hair salon garland tx",
     "slug": "hair-salon-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-garland-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -675,7 +675,7 @@
    {
     "keyword": "attorney garland tx",
     "slug": "attorney-garland-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-garland-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-garland-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,

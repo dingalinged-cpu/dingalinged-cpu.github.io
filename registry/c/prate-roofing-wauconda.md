@@ -13,12 +13,12 @@ Prate Roofing is a roofer in Wauconda, IL at 368 West Liberty Street #F, Waucond
 - Website: https://prateroofing.com/
 - Email: info@prateroofing.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 27% of roofers in Chicago, #2 of 2 roofers in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 27% of roofers in Chicago, #2 of 2 roofers in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 53.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/prate-roofing-wauconda/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/prate-roofing-wauconda.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/prate-roofing-wauconda/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/prate-roofing-wauconda.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9846698374 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Serenity Massage is a massage studio in Saint Paul, MN at 400 Selby Avenue #Suit
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Fair — top 20% of massage studios in Minneapolis–St. Paul, #1 of 6 massage studios in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Fair — top 20% of massage studios in Minneapolis–St. Paul, #1 of 6 massage studios in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 48.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/serenity-massage-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/serenity-massage-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/serenity-massage-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/serenity-massage-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12818226867 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

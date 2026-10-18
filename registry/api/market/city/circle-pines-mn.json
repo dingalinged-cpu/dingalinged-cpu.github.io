@@ -2,7 +2,7 @@
  "title": "Keyword market data: Circle Pines, MN",
  "description": "Top Circle Pines, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Circle Pines, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 5,
@@ -11,7 +11,7 @@
    {
     "keyword": "insurance agency circle pines mn",
     "slug": "insurance-agency-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-circle-pines-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -26,7 +26,7 @@
    {
     "keyword": "insurance agents circle pines mn",
     "slug": "insurance-agents-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-circle-pines-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -41,7 +41,7 @@
    {
     "keyword": "insurance agent circle pines mn",
     "slug": "insurance-agent-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-circle-pines-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -56,7 +56,7 @@
    {
     "keyword": "general contractor circle pines mn",
     "slug": "general-contractor-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/general-contractor-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-circle-pines-mn/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -73,7 +73,7 @@
    {
     "keyword": "dance studio circle pines mn",
     "slug": "dance-studio-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-circle-pines-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -88,7 +88,7 @@
    {
     "keyword": "general contractor circle pines mn",
     "slug": "general-contractor-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/general-contractor-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-circle-pines-mn/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -103,7 +103,7 @@
    {
     "keyword": "insurance agency circle pines mn",
     "slug": "insurance-agency-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-circle-pines-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -118,7 +118,7 @@
    {
     "keyword": "insurance agent circle pines mn",
     "slug": "insurance-agent-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-circle-pines-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -133,7 +133,7 @@
    {
     "keyword": "insurance agents circle pines mn",
     "slug": "insurance-agents-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-circle-pines-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -150,7 +150,7 @@
    {
     "keyword": "insurance agency circle pines mn",
     "slug": "insurance-agency-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-circle-pines-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -165,7 +165,7 @@
    {
     "keyword": "insurance agents circle pines mn",
     "slug": "insurance-agents-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-circle-pines-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -180,7 +180,7 @@
    {
     "keyword": "insurance agent circle pines mn",
     "slug": "insurance-agent-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-circle-pines-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -195,7 +195,7 @@
    {
     "keyword": "general contractor circle pines mn",
     "slug": "general-contractor-circle-pines-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/general-contractor-circle-pines-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/general-contractor-circle-pines-mn/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,

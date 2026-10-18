@@ -13,12 +13,12 @@ Pure Barre is a gym in Cobb County, GA at Paces Ferry Road Southeast #476, Cobb 
 - Website: https://purebarre.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 71% of gyms in Atlanta, #32 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 71% of gyms in Atlanta, #32 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/pure-barre-cobb-county/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pure-barre-cobb-county.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pure-barre-cobb-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pure-barre-cobb-county.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6446563206 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

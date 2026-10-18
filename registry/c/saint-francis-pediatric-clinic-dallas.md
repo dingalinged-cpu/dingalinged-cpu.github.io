@@ -13,12 +13,12 @@ Saint Francis Pediatric Clinic is a pediatrician in Dallas, TX at 3302 North Buc
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 68% of pediatricians in Dallas–Fort Worth, #5 of 5 pediatricians in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 68% of pediatricians in Dallas–Fort Worth, #5 of 5 pediatricians in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/saint-francis-pediatric-clinic-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/saint-francis-pediatric-clinic-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/saint-francis-pediatric-clinic-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/saint-francis-pediatric-clinic-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13793614185 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

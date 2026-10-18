@@ -13,12 +13,12 @@ Fuller's Carwash is a car wash in Oak Lawn, IL at 4750 103rd Street, Oak Lawn, I
 - Website: https://www.fullerscarwash.com/location/oak-lawn/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 40% of car washes in Chicago, #2 of 5 car washes in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 40% of car washes in Chicago, #2 of 5 car washes in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fullers-carwash-oak-lawn/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fullers-carwash-oak-lawn.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fullers-carwash-oak-lawn/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fullers-carwash-oak-lawn.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1168151890 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

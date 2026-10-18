@@ -2,7 +2,7 @@
  "title": "Keyword market data: Edina, MN",
  "description": "Top Edina, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Edina, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 50,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage edina mn",
     "slug": "massage-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-edina-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash edina mn",
     "slug": "car-wash-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-edina-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist edina mn",
     "slug": "dentist-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-edina-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym edina mn",
     "slug": "gym-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-edina-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon edina mn",
     "slug": "hair-salon-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-edina-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon edina mn",
     "slug": "nail-salon-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-edina-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -101,7 +101,7 @@
    {
     "keyword": "barber shop edina mn",
     "slug": "barber-shop-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-edina-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic edina mn",
     "slug": "mechanic-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-edina-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop edina mn",
     "slug": "tire-shop-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-edina-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet edina mn",
     "slug": "vet-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-edina-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog groomer edina mn",
     "slug": "dog-groomer-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-edina-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut edina mn",
     "slug": "haircut-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-edina-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair edina mn",
     "slug": "auto-repair-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-edina-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -206,7 +206,7 @@
    {
     "keyword": "pilates edina mn",
     "slug": "pilates-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-edina-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -221,7 +221,7 @@
    {
     "keyword": "chiropractor edina mn",
     "slug": "chiropractor-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-edina-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -238,7 +238,7 @@
    {
     "keyword": "storage units edina mn",
     "slug": "storage-units-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-edina-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -253,7 +253,7 @@
    {
     "keyword": "bakery edina mn",
     "slug": "bakery-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-edina-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -268,7 +268,7 @@
    {
     "keyword": "florist edina mn",
     "slug": "florist-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-edina-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -283,7 +283,7 @@
    {
     "keyword": "photographer edina mn",
     "slug": "photographer-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-edina-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -298,7 +298,7 @@
    {
     "keyword": "dance studio edina mn",
     "slug": "dance-studio-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-edina-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -313,7 +313,7 @@
    {
     "keyword": "martial arts edina mn",
     "slug": "martial-arts-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-edina-mn/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3300,
@@ -328,7 +328,7 @@
    {
     "keyword": "pilates edina mn",
     "slug": "pilates-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-edina-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -343,7 +343,7 @@
    {
     "keyword": "accounting services edina mn",
     "slug": "accounting-services-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-edina-mn/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -358,7 +358,7 @@
    {
     "keyword": "staffing agency edina mn",
     "slug": "staffing-agency-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-edina-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -373,7 +373,7 @@
    {
     "keyword": "accountant edina mn",
     "slug": "accountant-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-edina-mn/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -388,7 +388,7 @@
    {
     "keyword": "daycare edina mn",
     "slug": "daycare-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-edina-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -403,7 +403,7 @@
    {
     "keyword": "driving school edina mn",
     "slug": "driving-school-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-edina-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -418,7 +418,7 @@
    {
     "keyword": "acupuncture edina mn",
     "slug": "acupuncture-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/acupuncture-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/acupuncture-edina-mn/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 370,
@@ -433,7 +433,7 @@
    {
     "keyword": "allergist edina mn",
     "slug": "allergist-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/allergist-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/allergist-edina-mn/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 370,
@@ -448,7 +448,7 @@
    {
     "keyword": "assisted living edina mn",
     "slug": "assisted-living-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-edina-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage edina mn",
     "slug": "massage-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-edina-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist edina mn",
     "slug": "dentist-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-edina-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash edina mn",
     "slug": "car-wash-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-edina-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym edina mn",
     "slug": "gym-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-edina-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic edina mn",
     "slug": "mechanic-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-edina-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop edina mn",
     "slug": "tire-shop-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-edina-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet edina mn",
     "slug": "vet-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-edina-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog groomer edina mn",
     "slug": "dog-groomer-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-edina-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -585,7 +585,7 @@
    {
     "keyword": "pilates edina mn",
     "slug": "pilates-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-edina-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut edina mn",
     "slug": "haircut-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-edina-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair edina mn",
     "slug": "auto-repair-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-edina-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor edina mn",
     "slug": "chiropractor-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-edina-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -645,7 +645,7 @@
    {
     "keyword": "hair salon edina mn",
     "slug": "hair-salon-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-edina-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -660,7 +660,7 @@
    {
     "keyword": "financial advisor edina mn",
     "slug": "financial-advisor-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-edina-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -675,7 +675,7 @@
    {
     "keyword": "real estate agent edina mn",
     "slug": "real-estate-agent-edina-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-edina-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-edina-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,

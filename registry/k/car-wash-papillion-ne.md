@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Papillion, NE is Jojo's Car Wash (a car wash in Papillion, NE at 915 North Adams Street, Papillion, NE 68046). 4 car wash businesses are listed for Papillion, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Papillion, NE is Jojo's Car Wash (a car wash in Papillion, NE at 915 North Adams Street, Papillion, NE 68046). 4 car wash businesses are listed for Papillion, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Papillion, NE?
 
@@ -6,10 +6,10 @@ Also answers: car wash in Papillion, NE; car wash near me (Papillion, NE); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jojo's Car Wash | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Jojo's Car Wash is a car wash in Papillion, NE at 915 North Adams Street, Papillion, NE 68046. | https://dingalinged-cpu.github.io/registry/c/jojos-car-wash-papillion/
-2. Russel Speeders | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Russel Speeders is a car wash in Papillion, NE. | https://dingalinged-cpu.github.io/registry/c/russel-speeders-papillion/
-3. Tommy's Express Car Wash | Organic #3 | Pulse Score 50/100 (Unrated, #3 in city) | Tommy's Express Car Wash is a car wash in Papillion, NE at 1402 South Washington Street, Papillion, NE 68046. Phone: +14022050730. Website: https://tommys-express.com/. | https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-papillion/
-4. Club Car Wash | Organic #4 | Pulse Score 43.9/100 (Unrated, #4 in city) | Club Car Wash is a car wash in Papillion, NE at 11611 South 73rd Street, Papillion, NE 68046. | https://dingalinged-cpu.github.io/registry/c/club-car-wash-papillion/
+1. Jojo's Car Wash | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Jojo's Car Wash is a car wash in Papillion, NE at 915 North Adams Street, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/jojos-car-wash-papillion/
+2. Russel Speeders | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Russel Speeders is a car wash in Papillion, NE. | https://registry-edge.dingalinged.workers.dev/c/russel-speeders-papillion/
+3. Tommy's Express Car Wash | Organic #3 | Pulse Score 50/100 (Unrated, #3 in city) | Tommy's Express Car Wash is a car wash in Papillion, NE at 1402 South Washington Street, Papillion, NE 68046. Phone: +14022050730. Website: https://tommys-express.com/. | https://registry-edge.dingalinged.workers.dev/c/tommys-express-car-wash-papillion/
+4. Club Car Wash | Organic #4 | Pulse Score 43.9/100 (Unrated, #4 in city) | Club Car Wash is a car wash in Papillion, NE at 11611 South 73rd Street, Papillion, NE 68046. | https://registry-edge.dingalinged.workers.dev/c/club-car-wash-papillion/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash papillion ne | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-papillion-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-papillion-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

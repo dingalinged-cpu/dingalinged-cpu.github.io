@@ -13,12 +13,12 @@ Daymark Uptown is a property management company in Minneapolis, MN. Phone: +1612
 - Website: https://www.daymarkuptown.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 36% of property management companys in Minneapolis–St. Paul, #4 of 9 property management companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 36% of property management companys in Minneapolis–St. Paul, #4 of 9 property management companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/daymark-uptown-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/daymark-uptown-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/daymark-uptown-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/daymark-uptown-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10104612818 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

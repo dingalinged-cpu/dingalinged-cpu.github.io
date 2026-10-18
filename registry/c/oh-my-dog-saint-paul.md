@@ -13,12 +13,12 @@ Oh My Dog is a dog boarding facility in Saint Paul, MN at 880 Vandalia Street, S
 - Website: https://ohmydogmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-09:30,12:00-13:00,15:30-18:30; Sa-Su 08:00-10:00,16:30-19:00
-- Pulse Score: 62.9/100 — Good — top 5% of dog boarding facilitys in Minneapolis–St. Paul, #1 of 6 dog boarding facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 5% of dog boarding facilitys in Minneapolis–St. Paul, #1 of 6 dog boarding facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/oh-my-dog-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/oh-my-dog-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/oh-my-dog-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/oh-my-dog-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6119601561 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

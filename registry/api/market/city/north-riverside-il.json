@@ -2,7 +2,7 @@
  "title": "Keyword market data: North Riverside, IL",
  "description": "Top North Riverside, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "North Riverside, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist north riverside il",
     "slug": "dentist-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-north-riverside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym north riverside il",
     "slug": "gym-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-north-riverside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon north riverside il",
     "slug": "hair-salon-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-riverside-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon north riverside il",
     "slug": "nail-salon-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-north-riverside-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic north riverside il",
     "slug": "mechanic-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-north-riverside-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut north riverside il",
     "slug": "haircut-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-north-riverside-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair north riverside il",
     "slug": "auto-repair-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-riverside-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -116,7 +116,7 @@
    {
     "keyword": "locksmith north riverside il",
     "slug": "locksmith-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-north-riverside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency north riverside il",
     "slug": "insurance-agency-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-north-riverside-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -146,7 +146,7 @@
    {
     "keyword": "pediatrician north riverside il",
     "slug": "pediatrician-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-north-riverside-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -161,7 +161,7 @@
    {
     "keyword": "attorney north riverside il",
     "slug": "attorney-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-north-riverside-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agents north riverside il",
     "slug": "insurance-agents-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-north-riverside-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -191,7 +191,7 @@
    {
     "keyword": "lawyer north riverside il",
     "slug": "lawyer-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-north-riverside-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agent north riverside il",
     "slug": "insurance-agent-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-north-riverside-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -223,7 +223,7 @@
    {
     "keyword": "attorney north riverside il",
     "slug": "attorney-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-north-riverside-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -238,7 +238,7 @@
    {
     "keyword": "lawyer north riverside il",
     "slug": "lawyer-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-north-riverside-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "locksmith north riverside il",
     "slug": "locksmith-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-north-riverside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -268,7 +268,7 @@
    {
     "keyword": "staffing agency north riverside il",
     "slug": "staffing-agency-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-north-riverside-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -283,7 +283,7 @@
    {
     "keyword": "pediatrician north riverside il",
     "slug": "pediatrician-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-north-riverside-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -298,7 +298,7 @@
    {
     "keyword": "physical therapy north riverside il",
     "slug": "physical-therapy-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-north-riverside-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "dentist north riverside il",
     "slug": "dentist-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-north-riverside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -328,7 +328,7 @@
    {
     "keyword": "haircut north riverside il",
     "slug": "haircut-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-north-riverside-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -343,7 +343,7 @@
    {
     "keyword": "auto repair north riverside il",
     "slug": "auto-repair-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-riverside-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -358,7 +358,7 @@
    {
     "keyword": "mechanic north riverside il",
     "slug": "mechanic-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-north-riverside-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -373,7 +373,7 @@
    {
     "keyword": "gift shop north riverside il",
     "slug": "gift-shop-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-north-riverside-il/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 500,
@@ -388,7 +388,7 @@
    {
     "keyword": "jewelry store north riverside il",
     "slug": "jewelry-store-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-north-riverside-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -403,7 +403,7 @@
    {
     "keyword": "liquor store north riverside il",
     "slug": "liquor-store-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-north-riverside-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -418,7 +418,7 @@
    {
     "keyword": "pet store north riverside il",
     "slug": "pet-store-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-north-riverside-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -433,7 +433,7 @@
    {
     "keyword": "thrift store north riverside il",
     "slug": "thrift-store-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-north-riverside-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -450,7 +450,7 @@
    {
     "keyword": "dentist north riverside il",
     "slug": "dentist-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-north-riverside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -465,7 +465,7 @@
    {
     "keyword": "gym north riverside il",
     "slug": "gym-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-north-riverside-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "mechanic north riverside il",
     "slug": "mechanic-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-north-riverside-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -495,7 +495,7 @@
    {
     "keyword": "locksmith north riverside il",
     "slug": "locksmith-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-north-riverside-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -510,7 +510,7 @@
    {
     "keyword": "haircut north riverside il",
     "slug": "haircut-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-north-riverside-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -525,7 +525,7 @@
    {
     "keyword": "auto repair north riverside il",
     "slug": "auto-repair-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-riverside-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -540,7 +540,7 @@
    {
     "keyword": "hair salon north riverside il",
     "slug": "hair-salon-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-riverside-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -555,7 +555,7 @@
    {
     "keyword": "attorney north riverside il",
     "slug": "attorney-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-north-riverside-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -570,7 +570,7 @@
    {
     "keyword": "nail salon north riverside il",
     "slug": "nail-salon-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-north-riverside-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -585,7 +585,7 @@
    {
     "keyword": "lawyer north riverside il",
     "slug": "lawyer-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-north-riverside-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -600,7 +600,7 @@
    {
     "keyword": "pediatrician north riverside il",
     "slug": "pediatrician-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-north-riverside-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agency north riverside il",
     "slug": "insurance-agency-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-north-riverside-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agents north riverside il",
     "slug": "insurance-agents-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-north-riverside-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agent north riverside il",
     "slug": "insurance-agent-north-riverside-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-north-riverside-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-north-riverside-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Arden Hills, MN",
  "description": "Top Arden Hills, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Arden Hills, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 12,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash arden hills mn",
     "slug": "car-wash-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-arden-hills-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym arden hills mn",
     "slug": "gym-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-arden-hills-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic arden hills mn",
     "slug": "mechanic-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-arden-hills-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -56,7 +56,7 @@
    {
     "keyword": "vet arden hills mn",
     "slug": "vet-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-arden-hills-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -71,7 +71,7 @@
    {
     "keyword": "auto repair arden hills mn",
     "slug": "auto-repair-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-arden-hills-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -86,7 +86,7 @@
    {
     "keyword": "pilates arden hills mn",
     "slug": "pilates-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-arden-hills-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -103,7 +103,7 @@
    {
     "keyword": "event venues arden hills mn",
     "slug": "event-venues-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-arden-hills-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -118,7 +118,7 @@
    {
     "keyword": "pilates arden hills mn",
     "slug": "pilates-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-arden-hills-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -133,7 +133,7 @@
    {
     "keyword": "daycare arden hills mn",
     "slug": "daycare-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-arden-hills-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -148,7 +148,7 @@
    {
     "keyword": "auto repair arden hills mn",
     "slug": "auto-repair-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-arden-hills-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -163,7 +163,7 @@
    {
     "keyword": "car wash arden hills mn",
     "slug": "car-wash-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-arden-hills-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -178,7 +178,7 @@
    {
     "keyword": "mechanic arden hills mn",
     "slug": "mechanic-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-arden-hills-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -193,7 +193,7 @@
    {
     "keyword": "bike shop arden hills mn",
     "slug": "bike-shop-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-arden-hills-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -208,7 +208,7 @@
    {
     "keyword": "liquor store arden hills mn",
     "slug": "liquor-store-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-arden-hills-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -223,7 +223,7 @@
    {
     "keyword": "pet store arden hills mn",
     "slug": "pet-store-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-arden-hills-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -238,7 +238,7 @@
    {
     "keyword": "vet arden hills mn",
     "slug": "vet-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-arden-hills-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -253,7 +253,7 @@
    {
     "keyword": "tailor arden hills mn",
     "slug": "tailor-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tailor-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tailor-arden-hills-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -268,7 +268,7 @@
    {
     "keyword": "gym arden hills mn",
     "slug": "gym-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-arden-hills-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -285,7 +285,7 @@
    {
     "keyword": "car wash arden hills mn",
     "slug": "car-wash-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-arden-hills-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -300,7 +300,7 @@
    {
     "keyword": "gym arden hills mn",
     "slug": "gym-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-arden-hills-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -315,7 +315,7 @@
    {
     "keyword": "mechanic arden hills mn",
     "slug": "mechanic-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-arden-hills-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -330,7 +330,7 @@
    {
     "keyword": "vet arden hills mn",
     "slug": "vet-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-arden-hills-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -345,7 +345,7 @@
    {
     "keyword": "pilates arden hills mn",
     "slug": "pilates-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates-arden-hills-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -360,7 +360,7 @@
    {
     "keyword": "auto repair arden hills mn",
     "slug": "auto-repair-arden-hills-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-arden-hills-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-arden-hills-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Glen Ellyn, IL",
  "description": "Top Glen Ellyn, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Glen Ellyn, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash glen ellyn il",
     "slug": "car-wash-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-glen-ellyn-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist glen ellyn il",
     "slug": "dentist-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-glen-ellyn-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym glen ellyn il",
     "slug": "gym-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-glen-ellyn-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic glen ellyn il",
     "slug": "mechanic-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-glen-ellyn-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet glen ellyn il",
     "slug": "vet-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-glen-ellyn-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair glen ellyn il",
     "slug": "auto-repair-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-glen-ellyn-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -101,7 +101,7 @@
    {
     "keyword": "financial advisor glen ellyn il",
     "slug": "financial-advisor-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-glen-ellyn-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -116,7 +116,7 @@
    {
     "keyword": "painters glen ellyn il",
     "slug": "painters-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/painters-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-glen-ellyn-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -133,7 +133,7 @@
    {
     "keyword": "painters glen ellyn il",
     "slug": "painters-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/painters-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-glen-ellyn-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -148,7 +148,7 @@
    {
     "keyword": "bakery glen ellyn il",
     "slug": "bakery-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-glen-ellyn-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -163,7 +163,7 @@
    {
     "keyword": "dance studio glen ellyn il",
     "slug": "dance-studio-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-glen-ellyn-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -178,7 +178,7 @@
    {
     "keyword": "assisted living glen ellyn il",
     "slug": "assisted-living-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-glen-ellyn-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -193,7 +193,7 @@
    {
     "keyword": "dentist glen ellyn il",
     "slug": "dentist-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-glen-ellyn-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -208,7 +208,7 @@
    {
     "keyword": "auto repair glen ellyn il",
     "slug": "auto-repair-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-glen-ellyn-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -223,7 +223,7 @@
    {
     "keyword": "car wash glen ellyn il",
     "slug": "car-wash-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-glen-ellyn-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -238,7 +238,7 @@
    {
     "keyword": "mechanic glen ellyn il",
     "slug": "mechanic-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-glen-ellyn-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -253,7 +253,7 @@
    {
     "keyword": "liquor store glen ellyn il",
     "slug": "liquor-store-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-glen-ellyn-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -268,7 +268,7 @@
    {
     "keyword": "pet store glen ellyn il",
     "slug": "pet-store-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-glen-ellyn-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -283,7 +283,7 @@
    {
     "keyword": "used cars for sale glen ellyn il",
     "slug": "used-cars-for-sale-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-glen-ellyn-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -298,7 +298,7 @@
    {
     "keyword": "vet glen ellyn il",
     "slug": "vet-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-glen-ellyn-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -313,7 +313,7 @@
    {
     "keyword": "financial advisor glen ellyn il",
     "slug": "financial-advisor-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-glen-ellyn-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -328,7 +328,7 @@
    {
     "keyword": "gym glen ellyn il",
     "slug": "gym-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-glen-ellyn-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -345,7 +345,7 @@
    {
     "keyword": "dentist glen ellyn il",
     "slug": "dentist-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-glen-ellyn-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -360,7 +360,7 @@
    {
     "keyword": "car wash glen ellyn il",
     "slug": "car-wash-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-glen-ellyn-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -375,7 +375,7 @@
    {
     "keyword": "gym glen ellyn il",
     "slug": "gym-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-glen-ellyn-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -390,7 +390,7 @@
    {
     "keyword": "mechanic glen ellyn il",
     "slug": "mechanic-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-glen-ellyn-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -405,7 +405,7 @@
    {
     "keyword": "vet glen ellyn il",
     "slug": "vet-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-glen-ellyn-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -420,7 +420,7 @@
    {
     "keyword": "auto repair glen ellyn il",
     "slug": "auto-repair-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-glen-ellyn-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -435,7 +435,7 @@
    {
     "keyword": "financial advisor glen ellyn il",
     "slug": "financial-advisor-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-glen-ellyn-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -450,7 +450,7 @@
    {
     "keyword": "painters glen ellyn il",
     "slug": "painters-glen-ellyn-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/painters-glen-ellyn-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-glen-ellyn-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,

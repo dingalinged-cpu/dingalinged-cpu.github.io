@@ -13,12 +13,12 @@ YMCA Child Care is a daycare in Mequon, WI. Website: https://www.ymcamke.org/loc
 - Website: https://www.ymcamke.org/locations/sonlight-ymca-early-childhood-education-center/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 99% of daycares in Milwaukee, #3 of 3 daycares in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 41.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 99% of daycares in Milwaukee, #3 of 3 daycares in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 41.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ymca-child-care-mequon/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ymca-child-care-mequon.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ymca-child-care-mequon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ymca-child-care-mequon.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11214324729 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

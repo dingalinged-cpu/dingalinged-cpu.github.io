@@ -2,7 +2,7 @@
  "title": "Keyword market data: Liberty, MO",
  "description": "Top Liberty, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Liberty, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 39,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash liberty mo",
     "slug": "car-wash-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-liberty-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist liberty mo",
     "slug": "dentist-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-liberty-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym liberty mo",
     "slug": "gym-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-liberty-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon liberty mo",
     "slug": "hair-salon-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-liberty-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic liberty mo",
     "slug": "mechanic-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-liberty-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -86,7 +86,7 @@
    {
     "keyword": "tire shop liberty mo",
     "slug": "tire-shop-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-liberty-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet liberty mo",
     "slug": "vet-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-liberty-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut liberty mo",
     "slug": "haircut-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-liberty-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair liberty mo",
     "slug": "auto-repair-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-liberty-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -146,7 +146,7 @@
    {
     "keyword": "financial advisor liberty mo",
     "slug": "financial-advisor-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-liberty-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -161,7 +161,7 @@
    {
     "keyword": "real estate agent liberty mo",
     "slug": "real-estate-agent-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-liberty-mo/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agency liberty mo",
     "slug": "insurance-agency-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-liberty-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -191,7 +191,7 @@
    {
     "keyword": "realtor liberty mo",
     "slug": "realtor-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-liberty-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -206,7 +206,7 @@
    {
     "keyword": "attorney liberty mo",
     "slug": "attorney-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-liberty-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -221,7 +221,7 @@
    {
     "keyword": "facial liberty mo",
     "slug": "facial-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-liberty-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney liberty mo",
     "slug": "attorney-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-liberty-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer liberty mo",
     "slug": "lawyer-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-liberty-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -268,7 +268,7 @@
    {
     "keyword": "flooring companies liberty mo",
     "slug": "flooring-companies-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-liberty-mo/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -283,7 +283,7 @@
    {
     "keyword": "storage units liberty mo",
     "slug": "storage-units-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-liberty-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -298,7 +298,7 @@
    {
     "keyword": "event venues liberty mo",
     "slug": "event-venues-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-liberty-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -313,7 +313,7 @@
    {
     "keyword": "florist liberty mo",
     "slug": "florist-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-liberty-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -328,7 +328,7 @@
    {
     "keyword": "photographer liberty mo",
     "slug": "photographer-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-liberty-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -343,7 +343,7 @@
    {
     "keyword": "martial arts liberty mo",
     "slug": "martial-arts-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-liberty-mo/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2000,
@@ -358,7 +358,7 @@
    {
     "keyword": "tax preparer liberty mo",
     "slug": "tax-preparer-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-liberty-mo/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 400,
@@ -373,7 +373,7 @@
    {
     "keyword": "daycare liberty mo",
     "slug": "daycare-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-liberty-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -388,7 +388,7 @@
    {
     "keyword": "assisted living liberty mo",
     "slug": "assisted-living-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-liberty-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -403,7 +403,7 @@
    {
     "keyword": "dentist liberty mo",
     "slug": "dentist-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-liberty-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -418,7 +418,7 @@
    {
     "keyword": "facial liberty mo",
     "slug": "facial-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-liberty-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -433,7 +433,7 @@
    {
     "keyword": "haircut liberty mo",
     "slug": "haircut-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-liberty-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -448,7 +448,7 @@
    {
     "keyword": "auto repair liberty mo",
     "slug": "auto-repair-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-liberty-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist liberty mo",
     "slug": "dentist-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-liberty-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash liberty mo",
     "slug": "car-wash-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-liberty-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym liberty mo",
     "slug": "gym-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-liberty-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic liberty mo",
     "slug": "mechanic-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-liberty-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop liberty mo",
     "slug": "tire-shop-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-liberty-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet liberty mo",
     "slug": "vet-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-liberty-mo/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut liberty mo",
     "slug": "haircut-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-liberty-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair liberty mo",
     "slug": "auto-repair-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-liberty-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon liberty mo",
     "slug": "hair-salon-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-liberty-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -600,7 +600,7 @@
    {
     "keyword": "financial advisor liberty mo",
     "slug": "financial-advisor-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-liberty-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -615,7 +615,7 @@
    {
     "keyword": "attorney liberty mo",
     "slug": "attorney-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-liberty-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -630,7 +630,7 @@
    {
     "keyword": "real estate agent liberty mo",
     "slug": "real-estate-agent-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-liberty-mo/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -645,7 +645,7 @@
    {
     "keyword": "lawyer liberty mo",
     "slug": "lawyer-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-liberty-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -660,7 +660,7 @@
    {
     "keyword": "facial liberty mo",
     "slug": "facial-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-liberty-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -675,7 +675,7 @@
    {
     "keyword": "tax preparer liberty mo",
     "slug": "tax-preparer-liberty-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-liberty-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-liberty-mo/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 400,

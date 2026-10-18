@@ -2,7 +2,7 @@
  "title": "Keyword market data: West Saint Paul, MN",
  "description": "Top West Saint Paul, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "West Saint Paul, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 38,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage west saint paul mn",
     "slug": "massage-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-west-saint-paul-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash west saint paul mn",
     "slug": "car-wash-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-west-saint-paul-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist west saint paul mn",
     "slug": "dentist-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-west-saint-paul-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym west saint paul mn",
     "slug": "gym-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-west-saint-paul-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon west saint paul mn",
     "slug": "hair-salon-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-west-saint-paul-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon west saint paul mn",
     "slug": "nail-salon-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-west-saint-paul-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -101,7 +101,7 @@
    {
     "keyword": "barber shop west saint paul mn",
     "slug": "barber-shop-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-west-saint-paul-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic west saint paul mn",
     "slug": "mechanic-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-west-saint-paul-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop west saint paul mn",
     "slug": "tire-shop-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-west-saint-paul-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet west saint paul mn",
     "slug": "vet-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-west-saint-paul-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog groomer west saint paul mn",
     "slug": "dog-groomer-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-west-saint-paul-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut west saint paul mn",
     "slug": "haircut-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-west-saint-paul-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair west saint paul mn",
     "slug": "auto-repair-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-west-saint-paul-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -206,7 +206,7 @@
    {
     "keyword": "real estate agent west saint paul mn",
     "slug": "real-estate-agent-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-west-saint-paul-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agency west saint paul mn",
     "slug": "insurance-agency-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-west-saint-paul-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney west saint paul mn",
     "slug": "attorney-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-west-saint-paul-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer west saint paul mn",
     "slug": "lawyer-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-west-saint-paul-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -268,7 +268,7 @@
    {
     "keyword": "bakery west saint paul mn",
     "slug": "bakery-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-west-saint-paul-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -283,7 +283,7 @@
    {
     "keyword": "staffing agency west saint paul mn",
     "slug": "staffing-agency-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-west-saint-paul-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -298,7 +298,7 @@
    {
     "keyword": "tax preparer west saint paul mn",
     "slug": "tax-preparer-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-saint-paul-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -313,7 +313,7 @@
    {
     "keyword": "daycare west saint paul mn",
     "slug": "daycare-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-west-saint-paul-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -328,7 +328,7 @@
    {
     "keyword": "preschool west saint paul mn",
     "slug": "preschool-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-west-saint-paul-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -343,7 +343,7 @@
    {
     "keyword": "family doctor west saint paul mn",
     "slug": "family-doctor-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-west-saint-paul-mn/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -358,7 +358,7 @@
    {
     "keyword": "primary care physician west saint paul mn",
     "slug": "primary-care-physician-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-west-saint-paul-mn/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -373,7 +373,7 @@
    {
     "keyword": "dentist west saint paul mn",
     "slug": "dentist-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-west-saint-paul-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -388,7 +388,7 @@
    {
     "keyword": "haircut west saint paul mn",
     "slug": "haircut-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-west-saint-paul-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -403,7 +403,7 @@
    {
     "keyword": "massage west saint paul mn",
     "slug": "massage-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-west-saint-paul-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -418,7 +418,7 @@
    {
     "keyword": "auto body shop west saint paul mn",
     "slug": "auto-body-shop-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-west-saint-paul-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -433,7 +433,7 @@
    {
     "keyword": "auto repair west saint paul mn",
     "slug": "auto-repair-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-west-saint-paul-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -448,7 +448,7 @@
    {
     "keyword": "car wash west saint paul mn",
     "slug": "car-wash-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-west-saint-paul-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage west saint paul mn",
     "slug": "massage-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-west-saint-paul-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist west saint paul mn",
     "slug": "dentist-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-west-saint-paul-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash west saint paul mn",
     "slug": "car-wash-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-west-saint-paul-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym west saint paul mn",
     "slug": "gym-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-west-saint-paul-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic west saint paul mn",
     "slug": "mechanic-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-west-saint-paul-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop west saint paul mn",
     "slug": "tire-shop-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-west-saint-paul-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet west saint paul mn",
     "slug": "vet-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-west-saint-paul-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog groomer west saint paul mn",
     "slug": "dog-groomer-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-west-saint-paul-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut west saint paul mn",
     "slug": "haircut-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-west-saint-paul-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair west saint paul mn",
     "slug": "auto-repair-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-west-saint-paul-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -615,7 +615,7 @@
    {
     "keyword": "hair salon west saint paul mn",
     "slug": "hair-salon-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-west-saint-paul-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -630,7 +630,7 @@
    {
     "keyword": "attorney west saint paul mn",
     "slug": "attorney-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-west-saint-paul-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -645,7 +645,7 @@
    {
     "keyword": "real estate agent west saint paul mn",
     "slug": "real-estate-agent-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-west-saint-paul-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -660,7 +660,7 @@
    {
     "keyword": "nail salon west saint paul mn",
     "slug": "nail-salon-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-west-saint-paul-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -675,7 +675,7 @@
    {
     "keyword": "lawyer west saint paul mn",
     "slug": "lawyer-west-saint-paul-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-west-saint-paul-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-west-saint-paul-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,

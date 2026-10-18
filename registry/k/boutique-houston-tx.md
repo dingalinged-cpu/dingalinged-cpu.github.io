@@ -1,4 +1,4 @@
-The top unpaid boutique listing for Houston, TX is Lucy's Boutique & Gifts (a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/). 8 boutique businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid boutique listing for Houston, TX is Lucy's Boutique & Gifts (a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/). 8 boutique businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best boutique providers in Houston, TX?
 
@@ -6,14 +6,14 @@ Also answers: boutique in Houston, TX; boutique near me (Houston, TX); best bout
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucy's Boutique & Gifts | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Lucy's Boutique & Gifts is a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/. | https://dingalinged-cpu.github.io/registry/c/lucys-boutique-and-gifts-houston/
-2. Enstyle Boutique | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Enstyle Boutique is a boutique in Houston, TX at 5901 Westheimer Road #F, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/enstyle-boutique-houston/
-3. Nena's Boutique | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Nena's Boutique is a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/nenas-boutique-houston/
-4. Paulina's Fashion Boutique | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Paulina's Fashion Boutique is a boutique in Houston, TX at 7640 Airline Drive #K, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/paulinas-fashion-boutique-houston/
-5. Adelaide's Boutique | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Adelaide's Boutique is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/adelaides-boutique-houston/
-6. Elegant Affairs by Mary | Organic #6 | Pulse Score 55.2/100 (Unrated, #6 in city) | Elegant Affairs by Mary is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/elegant-affairs-by-mary-houston/
-7. Phylicia's Boutique | Organic #7 | Pulse Score 55.2/100 (Unrated, #7 in city) | Phylicia's Boutique is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/phylicias-boutique-houston/
-8. Urban Layce Boutique | Organic #8 | Pulse Score 55.2/100 (Unrated, #8 in city) | Urban Layce Boutique is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/urban-layce-boutique-houston/
+1. Lucy's Boutique & Gifts | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Lucy's Boutique & Gifts is a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/. | https://registry-edge.dingalinged.workers.dev/c/lucys-boutique-and-gifts-houston/
+2. Enstyle Boutique | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Enstyle Boutique is a boutique in Houston, TX at 5901 Westheimer Road #F, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/enstyle-boutique-houston/
+3. Nena's Boutique | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Nena's Boutique is a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/nenas-boutique-houston/
+4. Paulina's Fashion Boutique | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Paulina's Fashion Boutique is a boutique in Houston, TX at 7640 Airline Drive #K, Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/paulinas-fashion-boutique-houston/
+5. Adelaide's Boutique | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Adelaide's Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/adelaides-boutique-houston/
+6. Elegant Affairs by Mary | Organic #6 | Pulse Score 55.2/100 (Unrated, #6 in city) | Elegant Affairs by Mary is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/elegant-affairs-by-mary-houston/
+7. Phylicia's Boutique | Organic #7 | Pulse Score 55.2/100 (Unrated, #7 in city) | Phylicia's Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/phylicias-boutique-houston/
+8. Urban Layce Boutique | Organic #8 | Pulse Score 55.2/100 (Unrated, #8 in city) | Urban Layce Boutique is a boutique in Houston, TX. | https://registry-edge.dingalinged.workers.dev/c/urban-layce-boutique-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique houston tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/boutique.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#boutique-houston-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/boutique.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#boutique-houston-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

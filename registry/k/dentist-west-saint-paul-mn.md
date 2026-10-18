@@ -1,4 +1,4 @@
-The top unpaid dentist listing for West Saint Paul, MN is Lifelong Dental Care (a dentist in West Saint Paul, MN at 1525 Livingston Avenue, West Saint Paul, MN 55118. Phone: +16514574888. Website: https://lifelongdds.com/home). 5 dentist businesses are listed for West Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for West Saint Paul, MN is Lifelong Dental Care (a dentist in West Saint Paul, MN at 1525 Livingston Avenue, West Saint Paul, MN 55118. Phone: +16514574888. Website: https://lifelongdds.com/home). 5 dentist businesses are listed for West Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in West Saint Paul, MN?
 
@@ -6,11 +6,11 @@ Also answers: dentist in West Saint Paul, MN; dentist near me (West Saint Paul, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lifelong Dental Care | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Lifelong Dental Care is a dentist in West Saint Paul, MN at 1525 Livingston Avenue, West Saint Paul, MN 55118. Phone: +16514574888. Website: https://lifelongdds.com/home. | https://dingalinged-cpu.github.io/registry/c/lifelong-dental-care-west-saint-paul/
-2. Cherokee Dentist | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Cherokee Dentist is a dentist in West Saint Paul, MN at 374 Annapolis Street, West Saint Paul, MN 55118. Phone: +16514576231. | https://dingalinged-cpu.github.io/registry/c/cherokee-dentist-west-saint-paul/
-3. Dentists of West Saint Paul | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Dentists of West Saint Paul is a dentist in West Saint Paul, MN at 1740 Robert Street South #Unit 110, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/dentists-of-west-saint-paul-west-saint-paul/
-4. Harrison Dental Studio | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | Harrison Dental Studio is a dentist in West Saint Paul, MN at 5 Wentworth Avenue East, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/harrison-dental-studio-west-saint-paul/
-5. Access Point Dental | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Access Point Dental is a dentist in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/access-point-dental-west-saint-paul/
+1. Lifelong Dental Care | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Lifelong Dental Care is a dentist in West Saint Paul, MN at 1525 Livingston Avenue, West Saint Paul, MN 55118. Phone: +16514574888. Website: https://lifelongdds.com/home. | https://registry-edge.dingalinged.workers.dev/c/lifelong-dental-care-west-saint-paul/
+2. Cherokee Dentist | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Cherokee Dentist is a dentist in West Saint Paul, MN at 374 Annapolis Street, West Saint Paul, MN 55118. Phone: +16514576231. | https://registry-edge.dingalinged.workers.dev/c/cherokee-dentist-west-saint-paul/
+3. Dentists of West Saint Paul | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Dentists of West Saint Paul is a dentist in West Saint Paul, MN at 1740 Robert Street South #Unit 110, West Saint Paul, MN 55118. | https://registry-edge.dingalinged.workers.dev/c/dentists-of-west-saint-paul-west-saint-paul/
+4. Harrison Dental Studio | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | Harrison Dental Studio is a dentist in West Saint Paul, MN at 5 Wentworth Avenue East, West Saint Paul, MN 55118. | https://registry-edge.dingalinged.workers.dev/c/harrison-dental-studio-west-saint-paul/
+5. Access Point Dental | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Access Point Dental is a dentist in West Saint Paul, MN. | https://registry-edge.dingalinged.workers.dev/c/access-point-dental-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist west saint paul mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$5,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-west-saint-paul-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-west-saint-paul-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

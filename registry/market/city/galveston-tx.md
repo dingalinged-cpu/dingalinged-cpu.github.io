@@ -2,16 +2,16 @@ Keyword market for Galveston, TX: 2 service keywords with search volume, CPC and
 
 # Top keywords in Galveston, TX
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
 
 ## By monthly searches
-1. gym galveston tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-galveston-tx/
+1. gym galveston tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-galveston-tx/
 
 ## By CPC
-1. liquor store galveston tx | searches/mo 3,200 (est) | CPC $4.14 | value $13,000 | Google Ads equiv $1,200/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/liquor-store-galveston-tx/
-2. gym galveston tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-galveston-tx/
+1. liquor store galveston tx | searches/mo 3,200 (est) | CPC $4.14 | value $13,000 | Google Ads equiv $1,200/mo | our featured min $10/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/liquor-store-galveston-tx/
+2. gym galveston tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-galveston-tx/
 
 ## By value (searches x CPC)
-1. gym galveston tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gym-galveston-tx/
+1. gym galveston tx | searches/mo 42,000 (est) | CPC $1.67 | value $70,000 | Google Ads equiv $5,000/mo | our featured min $50/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/gym-galveston-tx/
 
-All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

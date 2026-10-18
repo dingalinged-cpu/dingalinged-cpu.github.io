@@ -1,4 +1,4 @@
-The top unpaid funeral home listing for Acworth, GA is Georgia Funeral Care and Cremation Services Funeral Home (a funeral home in Acworth, GA at 4671 South Main Street, Acworth, GA 30101. Phone: +16785743016. Website: https://www.georgiafuneralcare.com/). 1 funeral home businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Acworth, GA is Georgia Funeral Care and Cremation Services Funeral Home (a funeral home in Acworth, GA at 4671 South Main Street, Acworth, GA 30101. Phone: +16785743016. Website: https://www.georgiafuneralcare.com/). 1 funeral home businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Acworth, GA?
 
@@ -6,7 +6,7 @@ Also answers: funeral home in Acworth, GA; funeral home near me (Acworth, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Georgia Funeral Care and Cremation Services Funeral Home | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Georgia Funeral Care and Cremation Services Funeral Home is a funeral home in Acworth, GA at 4671 South Main Street, Acworth, GA 30101. Phone: +16785743016. Website: https://www.georgiafuneralcare.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-funeral-care-and-cremation-services-funeral-home-acworth/
+1. Georgia Funeral Care and Cremation Services Funeral Home | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Georgia Funeral Care and Cremation Services Funeral Home is a funeral home in Acworth, GA at 4671 South Main Street, Acworth, GA 30101. Phone: +16785743016. Website: https://www.georgiafuneralcare.com/. | https://registry-edge.dingalinged.workers.dev/c/georgia-funeral-care-and-cremation-services-funeral-home-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home acworth ga | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/funeral-home.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#funeral-home-acworth-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/funeral-home.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#funeral-home-acworth-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

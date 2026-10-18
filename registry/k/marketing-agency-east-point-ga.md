@@ -1,4 +1,4 @@
-The top unpaid marketing agency listing for East Point, GA is Ethic, Inc. (a marketing agency in East Point, GA at 1608 West Cleveland Avenue, East Point, GA 30344). 1 marketing agency businesses are listed for East Point, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for East Point, GA is Ethic, Inc. (a marketing agency in East Point, GA at 1608 West Cleveland Avenue, East Point, GA 30344). 1 marketing agency businesses are listed for East Point, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in East Point, GA?
 
@@ -6,7 +6,7 @@ Also answers: marketing agency in East Point, GA; marketing agency near me (East
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ethic, Inc. | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Ethic, Inc. is a marketing agency in East Point, GA at 1608 West Cleveland Avenue, East Point, GA 30344. | https://dingalinged-cpu.github.io/registry/c/ethic-inc-east-point/
+1. Ethic, Inc. | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Ethic, Inc. is a marketing agency in East Point, GA at 1608 West Cleveland Avenue, East Point, GA 30344. | https://registry-edge.dingalinged.workers.dev/c/ethic-inc-east-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency east point ga | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$210 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/marketing-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#marketing-agency-east-point-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/marketing-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#marketing-agency-east-point-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

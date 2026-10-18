@@ -2,7 +2,7 @@
  "title": "Keyword market data: Villa Park, IL",
  "description": "Top Villa Park, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Villa Park, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 18,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash villa park il",
     "slug": "car-wash-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-villa-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist villa park il",
     "slug": "dentist-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-villa-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym villa park il",
     "slug": "gym-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-villa-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon villa park il",
     "slug": "hair-salon-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-villa-park-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic villa park il",
     "slug": "mechanic-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-villa-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut villa park il",
     "slug": "haircut-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-villa-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair villa park il",
     "slug": "auto-repair-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-villa-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agency villa park il",
     "slug": "insurance-agency-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-villa-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -131,7 +131,7 @@
    {
     "keyword": "hvac repair villa park il",
     "slug": "hvac-repair-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-villa-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agents villa park il",
     "slug": "insurance-agents-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-villa-park-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agent villa park il",
     "slug": "insurance-agent-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-villa-park-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -176,7 +176,7 @@
    {
     "keyword": "transmission repair villa park il",
     "slug": "transmission-repair-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/transmission-repair-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/transmission-repair-villa-park-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -193,7 +193,7 @@
    {
     "keyword": "hvac repair villa park il",
     "slug": "hvac-repair-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-villa-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -208,7 +208,7 @@
    {
     "keyword": "heating and air villa park il",
     "slug": "heating-and-air-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-villa-park-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -223,7 +223,7 @@
    {
     "keyword": "photographer villa park il",
     "slug": "photographer-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-villa-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "preschool villa park il",
     "slug": "preschool-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-villa-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -253,7 +253,7 @@
    {
     "keyword": "dentist villa park il",
     "slug": "dentist-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-villa-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -268,7 +268,7 @@
    {
     "keyword": "haircut villa park il",
     "slug": "haircut-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-villa-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -283,7 +283,7 @@
    {
     "keyword": "auto repair villa park il",
     "slug": "auto-repair-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-villa-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -298,7 +298,7 @@
    {
     "keyword": "car wash villa park il",
     "slug": "car-wash-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-villa-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -313,7 +313,7 @@
    {
     "keyword": "mechanic villa park il",
     "slug": "mechanic-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-villa-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -328,7 +328,7 @@
    {
     "keyword": "transmission repair villa park il",
     "slug": "transmission-repair-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/transmission-repair-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/transmission-repair-villa-park-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -343,7 +343,7 @@
    {
     "keyword": "bike shop villa park il",
     "slug": "bike-shop-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-villa-park-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -358,7 +358,7 @@
    {
     "keyword": "jewelry store villa park il",
     "slug": "jewelry-store-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-villa-park-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -373,7 +373,7 @@
    {
     "keyword": "mattress store villa park il",
     "slug": "mattress-store-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store-villa-park-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -388,7 +388,7 @@
    {
     "keyword": "insurance agency villa park il",
     "slug": "insurance-agency-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-villa-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -403,7 +403,7 @@
    {
     "keyword": "insurance agent villa park il",
     "slug": "insurance-agent-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-villa-park-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -420,7 +420,7 @@
    {
     "keyword": "dentist villa park il",
     "slug": "dentist-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-villa-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -435,7 +435,7 @@
    {
     "keyword": "car wash villa park il",
     "slug": "car-wash-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-villa-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -450,7 +450,7 @@
    {
     "keyword": "gym villa park il",
     "slug": "gym-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-villa-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -465,7 +465,7 @@
    {
     "keyword": "mechanic villa park il",
     "slug": "mechanic-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-villa-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -480,7 +480,7 @@
    {
     "keyword": "haircut villa park il",
     "slug": "haircut-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-villa-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -495,7 +495,7 @@
    {
     "keyword": "auto repair villa park il",
     "slug": "auto-repair-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-villa-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -510,7 +510,7 @@
    {
     "keyword": "hvac repair villa park il",
     "slug": "hvac-repair-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-villa-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -525,7 +525,7 @@
    {
     "keyword": "hair salon villa park il",
     "slug": "hair-salon-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-villa-park-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -540,7 +540,7 @@
    {
     "keyword": "insurance agency villa park il",
     "slug": "insurance-agency-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-villa-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -555,7 +555,7 @@
    {
     "keyword": "insurance agents villa park il",
     "slug": "insurance-agents-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-villa-park-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -570,7 +570,7 @@
    {
     "keyword": "insurance agent villa park il",
     "slug": "insurance-agent-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-villa-park-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -585,7 +585,7 @@
    {
     "keyword": "transmission repair villa park il",
     "slug": "transmission-repair-villa-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/transmission-repair-villa-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/transmission-repair-villa-park-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,

@@ -13,12 +13,12 @@ Coffey Bros Moving is a moving company in Chicago, IL at 3236 North Pulaski Road
 - Website: https://www.coffeybrosmoving.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-13:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 23% of moving companys in Chicago, #1 of 5 moving companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 23% of moving companys in Chicago, #1 of 5 moving companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/coffey-bros-moving-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/coffey-bros-moving-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/coffey-bros-moving-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/coffey-bros-moving-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5371884924 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

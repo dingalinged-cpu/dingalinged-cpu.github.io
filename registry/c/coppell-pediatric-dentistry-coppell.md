@@ -13,12 +13,12 @@ Coppell Pediatric Dentistry is a dentist in Coppell, TX at 137 West State Highwa
 - Website: https://coppellpediatricdentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63/100 — Good — top 5% of dentists in Dallas–Fort Worth, #2 of 18 dentists in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 5% of dentists in Dallas–Fort Worth, #2 of 18 dentists in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 59.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/coppell-pediatric-dentistry-coppell/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/coppell-pediatric-dentistry-coppell.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/coppell-pediatric-dentistry-coppell/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/coppell-pediatric-dentistry-coppell.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13076411211 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

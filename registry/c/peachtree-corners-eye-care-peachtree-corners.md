@@ -13,12 +13,12 @@ Peachtree Corners Eye Care is an eye care practice in Peachtree Corners, GA at 4
 - Website: https://peachtree-eye.com/
 - Email: info@peachtree-eye.com
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu 09:00-18:00; We 08:00-17:00; Th 09:00-18:00; Fr 08:00-17:00; Sa off; Su off
-- Pulse Score: 63.8/100 — Good — top 4% of eye care practices in Atlanta, #1 of 1 eye care practices in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 4% of eye care practices in Atlanta, #1 of 1 eye care practices in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/peachtree-corners-eye-care-peachtree-corners/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/peachtree-corners-eye-care-peachtree-corners.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/peachtree-corners-eye-care-peachtree-corners/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/peachtree-corners-eye-care-peachtree-corners.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13158634440 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

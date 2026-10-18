@@ -13,12 +13,12 @@ Fundamentals Of Learning Daycare is a daycare in Milwaukee, WI at 8028 West Capi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 35% of daycares in Milwaukee, #26 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 35% of daycares in Milwaukee, #26 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fundamentals-of-learning-daycare-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fundamentals-of-learning-daycare-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fundamentals-of-learning-daycare-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fundamentals-of-learning-daycare-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12642916065 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

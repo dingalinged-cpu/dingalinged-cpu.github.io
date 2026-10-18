@@ -2,7 +2,7 @@
  "title": "Keyword market data: La Vista, NE",
  "description": "Top La Vista, NE service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "La Vista, NE",
  "geography": "Omaha, NE-IA metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage la vista ne",
     "slug": "massage-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-la-vista-ne/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash la vista ne",
     "slug": "car-wash-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-la-vista-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist la vista ne",
     "slug": "dentist-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-la-vista-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym la vista ne",
     "slug": "gym-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-la-vista-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon la vista ne",
     "slug": "hair-salon-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-la-vista-ne/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut la vista ne",
     "slug": "haircut-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-la-vista-ne/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -101,7 +101,7 @@
    {
     "keyword": "dog boarding la vista ne",
     "slug": "dog-boarding-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-la-vista-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -116,7 +116,7 @@
    {
     "keyword": "hvac repair la vista ne",
     "slug": "hvac-repair-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-la-vista-ne/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -133,7 +133,7 @@
    {
     "keyword": "hvac repair la vista ne",
     "slug": "hvac-repair-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-la-vista-ne/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -148,7 +148,7 @@
    {
     "keyword": "heating and air la vista ne",
     "slug": "heating-and-air-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-la-vista-ne/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 11.0,
@@ -163,7 +163,7 @@
    {
     "keyword": "bakery la vista ne",
     "slug": "bakery-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-la-vista-ne/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -178,7 +178,7 @@
    {
     "keyword": "event venues la vista ne",
     "slug": "event-venues-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-la-vista-ne/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -193,7 +193,7 @@
    {
     "keyword": "daycare la vista ne",
     "slug": "daycare-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-la-vista-ne/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -208,7 +208,7 @@
    {
     "keyword": "preschool la vista ne",
     "slug": "preschool-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-la-vista-ne/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -223,7 +223,7 @@
    {
     "keyword": "dentist la vista ne",
     "slug": "dentist-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-la-vista-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -238,7 +238,7 @@
    {
     "keyword": "haircut la vista ne",
     "slug": "haircut-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-la-vista-ne/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -253,7 +253,7 @@
    {
     "keyword": "massage la vista ne",
     "slug": "massage-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-la-vista-ne/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -268,7 +268,7 @@
    {
     "keyword": "car wash la vista ne",
     "slug": "car-wash-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-la-vista-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -283,7 +283,7 @@
    {
     "keyword": "dog boarding la vista ne",
     "slug": "dog-boarding-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-la-vista-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -298,7 +298,7 @@
    {
     "keyword": "printing services la vista ne",
     "slug": "printing-services-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-la-vista-ne/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 120,
@@ -313,7 +313,7 @@
    {
     "keyword": "gym la vista ne",
     "slug": "gym-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-la-vista-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -328,7 +328,7 @@
    {
     "keyword": "hair salon la vista ne",
     "slug": "hair-salon-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-la-vista-ne/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -345,7 +345,7 @@
    {
     "keyword": "massage la vista ne",
     "slug": "massage-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-la-vista-ne/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -360,7 +360,7 @@
    {
     "keyword": "dentist la vista ne",
     "slug": "dentist-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-la-vista-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -375,7 +375,7 @@
    {
     "keyword": "car wash la vista ne",
     "slug": "car-wash-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-la-vista-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -390,7 +390,7 @@
    {
     "keyword": "gym la vista ne",
     "slug": "gym-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-la-vista-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -405,7 +405,7 @@
    {
     "keyword": "haircut la vista ne",
     "slug": "haircut-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-la-vista-ne/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -420,7 +420,7 @@
    {
     "keyword": "hvac repair la vista ne",
     "slug": "hvac-repair-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-la-vista-ne/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -435,7 +435,7 @@
    {
     "keyword": "dog boarding la vista ne",
     "slug": "dog-boarding-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-la-vista-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -450,7 +450,7 @@
    {
     "keyword": "hair salon la vista ne",
     "slug": "hair-salon-la-vista-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-la-vista-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-la-vista-ne/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,

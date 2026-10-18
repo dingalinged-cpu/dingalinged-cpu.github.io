@@ -13,12 +13,12 @@ Klinke Cleaners is a dry cleaner in Middleton, WI at 8440 Old Sauk Road, Middlet
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 67% of dry cleaners in Madison, #2 of 2 dry cleaners in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 67% of dry cleaners in Madison, #2 of 2 dry cleaners in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 56.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/klinke-cleaners-middleton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/klinke-cleaners-middleton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/klinke-cleaners-middleton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/klinke-cleaners-middleton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3969685534 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

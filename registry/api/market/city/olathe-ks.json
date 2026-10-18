@@ -2,7 +2,7 @@
  "title": "Keyword market data: Olathe, KS",
  "description": "Top Olathe, KS service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Olathe, KS",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 69,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage olathe ks",
     "slug": "massage-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-olathe-ks/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash olathe ks",
     "slug": "car-wash-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-olathe-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist olathe ks",
     "slug": "dentist-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-olathe-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym olathe ks",
     "slug": "gym-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-olathe-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon olathe ks",
     "slug": "hair-salon-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-olathe-ks/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon olathe ks",
     "slug": "nail-salon-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-olathe-ks/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic olathe ks",
     "slug": "mechanic-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-olathe-ks/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop olathe ks",
     "slug": "tire-shop-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-olathe-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet olathe ks",
     "slug": "vet-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-olathe-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer olathe ks",
     "slug": "dog-groomer-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-olathe-ks/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut olathe ks",
     "slug": "haircut-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-olathe-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair olathe ks",
     "slug": "auto-repair-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-olathe-ks/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor olathe ks",
     "slug": "chiropractor-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-olathe-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -206,7 +206,7 @@
    {
     "keyword": "dog boarding olathe ks",
     "slug": "dog-boarding-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-olathe-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -221,7 +221,7 @@
    {
     "keyword": "electrician olathe ks",
     "slug": "electrician-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-olathe-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair olathe ks",
     "slug": "hvac-repair-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-olathe-ks/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -253,7 +253,7 @@
    {
     "keyword": "electrician olathe ks",
     "slug": "electrician-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-olathe-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofing contractor olathe ks",
     "slug": "roofing-contractor-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-olathe-ks/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 900,
@@ -283,7 +283,7 @@
    {
     "keyword": "roofer olathe ks",
     "slug": "roofer-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-olathe-ks/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -298,7 +298,7 @@
    {
     "keyword": "landscaping olathe ks",
     "slug": "landscaping-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-olathe-ks/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -313,7 +313,7 @@
    {
     "keyword": "flooring companies olathe ks",
     "slug": "flooring-companies-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-olathe-ks/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -328,7 +328,7 @@
    {
     "keyword": "heating and air olathe ks",
     "slug": "heating-and-air-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-olathe-ks/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 24.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "storage units olathe ks",
     "slug": "storage-units-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-olathe-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -358,7 +358,7 @@
    {
     "keyword": "bakery olathe ks",
     "slug": "bakery-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-olathe-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -373,7 +373,7 @@
    {
     "keyword": "event venues olathe ks",
     "slug": "event-venues-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-olathe-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -388,7 +388,7 @@
    {
     "keyword": "crossfit olathe ks",
     "slug": "crossfit-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/crossfit-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-olathe-ks/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -403,7 +403,7 @@
    {
     "keyword": "dance studio olathe ks",
     "slug": "dance-studio-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-olathe-ks/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -418,7 +418,7 @@
    {
     "keyword": "martial arts olathe ks",
     "slug": "martial-arts-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-olathe-ks/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2000,
@@ -433,7 +433,7 @@
    {
     "keyword": "business consultant olathe ks",
     "slug": "business-consultant-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/business-consultant-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/business-consultant-olathe-ks/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 120,
@@ -448,7 +448,7 @@
    {
     "keyword": "staffing agency olathe ks",
     "slug": "staffing-agency-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-olathe-ks/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage olathe ks",
     "slug": "massage-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-olathe-ks/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist olathe ks",
     "slug": "dentist-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-olathe-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash olathe ks",
     "slug": "car-wash-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-olathe-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym olathe ks",
     "slug": "gym-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-olathe-ks/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic olathe ks",
     "slug": "mechanic-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-olathe-ks/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -540,7 +540,7 @@
    {
     "keyword": "electrician olathe ks",
     "slug": "electrician-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/electrician-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/electrician-olathe-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop olathe ks",
     "slug": "tire-shop-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-olathe-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet olathe ks",
     "slug": "vet-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-olathe-ks/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -585,7 +585,7 @@
    {
     "keyword": "dog groomer olathe ks",
     "slug": "dog-groomer-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-olathe-ks/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3000,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut olathe ks",
     "slug": "haircut-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-olathe-ks/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -615,7 +615,7 @@
    {
     "keyword": "landscaping olathe ks",
     "slug": "landscaping-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-olathe-ks/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -630,7 +630,7 @@
    {
     "keyword": "roofing contractor olathe ks",
     "slug": "roofing-contractor-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-olathe-ks/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 900,
@@ -645,7 +645,7 @@
    {
     "keyword": "auto repair olathe ks",
     "slug": "auto-repair-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-olathe-ks/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -660,7 +660,7 @@
    {
     "keyword": "hvac repair olathe ks",
     "slug": "hvac-repair-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-olathe-ks/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -675,7 +675,7 @@
    {
     "keyword": "chiropractor olathe ks",
     "slug": "chiropractor-olathe-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-olathe-ks/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-olathe-ks/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,

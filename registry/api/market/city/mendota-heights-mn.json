@@ -2,7 +2,7 @@
  "title": "Keyword market data: Mendota Heights, MN",
  "description": "Top Mendota Heights, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Mendota Heights, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage mendota heights mn",
     "slug": "massage-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-mendota-heights-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash mendota heights mn",
     "slug": "car-wash-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-mendota-heights-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist mendota heights mn",
     "slug": "dentist-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-mendota-heights-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym mendota heights mn",
     "slug": "gym-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-mendota-heights-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon mendota heights mn",
     "slug": "nail-salon-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-mendota-heights-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -86,7 +86,7 @@
    {
     "keyword": "insurance agency mendota heights mn",
     "slug": "insurance-agency-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mendota-heights-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -101,7 +101,7 @@
    {
     "keyword": "insurance agents mendota heights mn",
     "slug": "insurance-agents-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-mendota-heights-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agent mendota heights mn",
     "slug": "insurance-agent-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-mendota-heights-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -133,7 +133,7 @@
    {
     "keyword": "music lessons mendota heights mn",
     "slug": "music-lessons-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/music-lessons-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/music-lessons-mendota-heights-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -148,7 +148,7 @@
    {
     "keyword": "assisted living mendota heights mn",
     "slug": "assisted-living-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-mendota-heights-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -163,7 +163,7 @@
    {
     "keyword": "dentist mendota heights mn",
     "slug": "dentist-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-mendota-heights-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -178,7 +178,7 @@
    {
     "keyword": "massage mendota heights mn",
     "slug": "massage-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-mendota-heights-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -193,7 +193,7 @@
    {
     "keyword": "car wash mendota heights mn",
     "slug": "car-wash-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-mendota-heights-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -208,7 +208,7 @@
    {
     "keyword": "bike shop mendota heights mn",
     "slug": "bike-shop-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-mendota-heights-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -223,7 +223,7 @@
    {
     "keyword": "liquor store mendota heights mn",
     "slug": "liquor-store-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-mendota-heights-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -238,7 +238,7 @@
    {
     "keyword": "pet store mendota heights mn",
     "slug": "pet-store-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-mendota-heights-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -253,7 +253,7 @@
    {
     "keyword": "dry cleaners mendota heights mn",
     "slug": "dry-cleaners-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-mendota-heights-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -268,7 +268,7 @@
    {
     "keyword": "insurance agency mendota heights mn",
     "slug": "insurance-agency-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mendota-heights-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -283,7 +283,7 @@
    {
     "keyword": "insurance agent mendota heights mn",
     "slug": "insurance-agent-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-mendota-heights-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -298,7 +298,7 @@
    {
     "keyword": "insurance agents mendota heights mn",
     "slug": "insurance-agents-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-mendota-heights-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -313,7 +313,7 @@
    {
     "keyword": "gym mendota heights mn",
     "slug": "gym-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-mendota-heights-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -328,7 +328,7 @@
    {
     "keyword": "nail salon mendota heights mn",
     "slug": "nail-salon-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-mendota-heights-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -345,7 +345,7 @@
    {
     "keyword": "massage mendota heights mn",
     "slug": "massage-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-mendota-heights-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -360,7 +360,7 @@
    {
     "keyword": "dentist mendota heights mn",
     "slug": "dentist-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-mendota-heights-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -375,7 +375,7 @@
    {
     "keyword": "car wash mendota heights mn",
     "slug": "car-wash-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-mendota-heights-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -390,7 +390,7 @@
    {
     "keyword": "gym mendota heights mn",
     "slug": "gym-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-mendota-heights-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -405,7 +405,7 @@
    {
     "keyword": "nail salon mendota heights mn",
     "slug": "nail-salon-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-mendota-heights-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -420,7 +420,7 @@
    {
     "keyword": "insurance agency mendota heights mn",
     "slug": "insurance-agency-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-mendota-heights-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -435,7 +435,7 @@
    {
     "keyword": "insurance agents mendota heights mn",
     "slug": "insurance-agents-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-mendota-heights-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -450,7 +450,7 @@
    {
     "keyword": "insurance agent mendota heights mn",
     "slug": "insurance-agent-mendota-heights-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-mendota-heights-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-mendota-heights-mn/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,

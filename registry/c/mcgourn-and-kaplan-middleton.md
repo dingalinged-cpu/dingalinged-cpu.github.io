@@ -13,12 +13,12 @@ McGourn and Kaplan is a tax preparation service in Middleton, WI at 1918 Parment
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 17% of tax preparation services in Madison, #1 of 2 tax preparation services in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 17% of tax preparation services in Madison, #1 of 2 tax preparation services in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 52.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mcgourn-and-kaplan-middleton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mcgourn-and-kaplan-middleton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mcgourn-and-kaplan-middleton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mcgourn-and-kaplan-middleton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/420094729 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

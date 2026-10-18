@@ -13,12 +13,12 @@ Don Freely Auto Clinic is an auto repair shop in Overland Park, KS at 6210 Marty
 - Website: https://www.facebook.com/people/Don-Freely-Auto-Clinic/100063518920771/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-18:00; Fr 07:30-12:00
-- Pulse Score: 64.2/100 — Good — top 2% of auto repair shops in Kansas City, MO, #1 of 16 auto repair shops in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 69.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 2% of auto repair shops in Kansas City, MO, #1 of 16 auto repair shops in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 69.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/don-freely-auto-clinic-overland-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/don-freely-auto-clinic-overland-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/don-freely-auto-clinic-overland-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/don-freely-auto-clinic-overland-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/544637464 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Summit Dental Health is a dentist in La Vista, NE at 8041 South 83rd Avenue, La 
 - Website: https://summitdentalhealth.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 93% of dentists in Omaha, NE, #4 of 4 dentists in La Vista (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 93% of dentists in Omaha, NE, #4 of 4 dentists in La Vista (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 57.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/summit-dental-health-la-vista/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/summit-dental-health-la-vista.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/summit-dental-health-la-vista/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/summit-dental-health-la-vista.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4458015869 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

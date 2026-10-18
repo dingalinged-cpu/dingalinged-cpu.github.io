@@ -13,12 +13,12 @@ Romer & Company, PC is an accountant in Minneapolis, MN at 4322 Nicollet Avenue,
 - Website: https://www.romercpas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 25% of accountants in Minneapolis–St. Paul, #2 of 6 accountants in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 25% of accountants in Minneapolis–St. Paul, #2 of 6 accountants in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/romer-and-company-pc-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/romer-and-company-pc-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/romer-and-company-pc-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/romer-and-company-pc-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4630862009 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

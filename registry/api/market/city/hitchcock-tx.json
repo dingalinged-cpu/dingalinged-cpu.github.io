@@ -2,7 +2,7 @@
  "title": "Keyword market data: Hitchcock, TX",
  "description": "Top Hitchcock, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hitchcock, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 10,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage hitchcock tx",
     "slug": "massage-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-hitchcock-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist hitchcock tx",
     "slug": "dentist-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hitchcock-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon hitchcock tx",
     "slug": "hair-salon-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hitchcock-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon hitchcock tx",
     "slug": "nail-salon-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hitchcock-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut hitchcock tx",
     "slug": "haircut-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hitchcock-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -86,7 +86,7 @@
    {
     "keyword": "insurance agency hitchcock tx",
     "slug": "insurance-agency-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hitchcock-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -101,7 +101,7 @@
    {
     "keyword": "insurance agents hitchcock tx",
     "slug": "insurance-agents-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hitchcock-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agent hitchcock tx",
     "slug": "insurance-agent-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hitchcock-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -133,7 +133,7 @@
    {
     "keyword": "daycare hitchcock tx",
     "slug": "daycare-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-hitchcock-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -148,7 +148,7 @@
    {
     "keyword": "dentist hitchcock tx",
     "slug": "dentist-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hitchcock-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -163,7 +163,7 @@
    {
     "keyword": "haircut hitchcock tx",
     "slug": "haircut-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hitchcock-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -178,7 +178,7 @@
    {
     "keyword": "massage hitchcock tx",
     "slug": "massage-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-hitchcock-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -193,7 +193,7 @@
    {
     "keyword": "liquor store hitchcock tx",
     "slug": "liquor-store-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-hitchcock-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -208,7 +208,7 @@
    {
     "keyword": "insurance agency hitchcock tx",
     "slug": "insurance-agency-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hitchcock-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -223,7 +223,7 @@
    {
     "keyword": "insurance agent hitchcock tx",
     "slug": "insurance-agent-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hitchcock-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -238,7 +238,7 @@
    {
     "keyword": "insurance agents hitchcock tx",
     "slug": "insurance-agents-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hitchcock-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -253,7 +253,7 @@
    {
     "keyword": "nail salon hitchcock tx",
     "slug": "nail-salon-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hitchcock-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -268,7 +268,7 @@
    {
     "keyword": "hair salon hitchcock tx",
     "slug": "hair-salon-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hitchcock-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -285,7 +285,7 @@
    {
     "keyword": "massage hitchcock tx",
     "slug": "massage-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-hitchcock-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -300,7 +300,7 @@
    {
     "keyword": "dentist hitchcock tx",
     "slug": "dentist-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hitchcock-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -315,7 +315,7 @@
    {
     "keyword": "haircut hitchcock tx",
     "slug": "haircut-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hitchcock-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -330,7 +330,7 @@
    {
     "keyword": "hair salon hitchcock tx",
     "slug": "hair-salon-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hitchcock-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -345,7 +345,7 @@
    {
     "keyword": "nail salon hitchcock tx",
     "slug": "nail-salon-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hitchcock-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -360,7 +360,7 @@
    {
     "keyword": "insurance agency hitchcock tx",
     "slug": "insurance-agency-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hitchcock-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -375,7 +375,7 @@
    {
     "keyword": "insurance agents hitchcock tx",
     "slug": "insurance-agents-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hitchcock-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -390,7 +390,7 @@
    {
     "keyword": "insurance agent hitchcock tx",
     "slug": "insurance-agent-hitchcock-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hitchcock-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hitchcock-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,

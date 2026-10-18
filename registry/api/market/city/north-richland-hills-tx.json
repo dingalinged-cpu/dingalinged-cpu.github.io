@@ -2,7 +2,7 @@
  "title": "Keyword market data: North Richland Hills, TX",
  "description": "Top North Richland Hills, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "North Richland Hills, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 51,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage north richland hills tx",
     "slug": "massage-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-north-richland-hills-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash north richland hills tx",
     "slug": "car-wash-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-north-richland-hills-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist north richland hills tx",
     "slug": "dentist-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-north-richland-hills-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym north richland hills tx",
     "slug": "gym-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-north-richland-hills-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "oil change north richland hills tx",
     "slug": "oil-change-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-north-richland-hills-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -86,7 +86,7 @@
    {
     "keyword": "hair salon north richland hills tx",
     "slug": "hair-salon-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-richland-hills-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -101,7 +101,7 @@
    {
     "keyword": "nail salon north richland hills tx",
     "slug": "nail-salon-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-north-richland-hills-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic north richland hills tx",
     "slug": "mechanic-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-north-richland-hills-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop north richland hills tx",
     "slug": "tire-shop-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-north-richland-hills-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet north richland hills tx",
     "slug": "vet-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-north-richland-hills-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog groomer north richland hills tx",
     "slug": "dog-groomer-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-north-richland-hills-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut north richland hills tx",
     "slug": "haircut-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-north-richland-hills-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair north richland hills tx",
     "slug": "auto-repair-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-richland-hills-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -206,7 +206,7 @@
    {
     "keyword": "chiropractor north richland hills tx",
     "slug": "chiropractor-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-north-richland-hills-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -221,7 +221,7 @@
    {
     "keyword": "real estate agent north richland hills tx",
     "slug": "real-estate-agent-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-north-richland-hills-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair north richland hills tx",
     "slug": "hvac-repair-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-north-richland-hills-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofing contractor north richland hills tx",
     "slug": "roofing-contractor-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-north-richland-hills-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofer north richland hills tx",
     "slug": "roofer-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-north-richland-hills-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -283,7 +283,7 @@
    {
     "keyword": "heating and air north richland hills tx",
     "slug": "heating-and-air-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-north-richland-hills-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "storage units north richland hills tx",
     "slug": "storage-units-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-north-richland-hills-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -313,7 +313,7 @@
    {
     "keyword": "tile installation north richland hills tx",
     "slug": "tile-installation-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tile-installation-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tile-installation-north-richland-hills-tx/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -328,7 +328,7 @@
    {
     "keyword": "dance studio north richland hills tx",
     "slug": "dance-studio-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-north-richland-hills-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -343,7 +343,7 @@
    {
     "keyword": "martial arts north richland hills tx",
     "slug": "martial-arts-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-north-richland-hills-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -358,7 +358,7 @@
    {
     "keyword": "tax preparer north richland hills tx",
     "slug": "tax-preparer-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-north-richland-hills-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -373,7 +373,7 @@
    {
     "keyword": "daycare north richland hills tx",
     "slug": "daycare-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-north-richland-hills-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool north richland hills tx",
     "slug": "preschool-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-north-richland-hills-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -403,7 +403,7 @@
    {
     "keyword": "assisted living north richland hills tx",
     "slug": "assisted-living-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-north-richland-hills-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -418,7 +418,7 @@
    {
     "keyword": "chiropractor north richland hills tx",
     "slug": "chiropractor-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-north-richland-hills-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -433,7 +433,7 @@
    {
     "keyword": "dermatologist north richland hills tx",
     "slug": "dermatologist-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dermatologist-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dermatologist-north-richland-hills-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -448,7 +448,7 @@
    {
     "keyword": "eye doctor north richland hills tx",
     "slug": "eye-doctor-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-north-richland-hills-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage north richland hills tx",
     "slug": "massage-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-north-richland-hills-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist north richland hills tx",
     "slug": "dentist-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-north-richland-hills-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash north richland hills tx",
     "slug": "car-wash-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-north-richland-hills-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "oil change north richland hills tx",
     "slug": "oil-change-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-north-richland-hills-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym north richland hills tx",
     "slug": "gym-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-north-richland-hills-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic north richland hills tx",
     "slug": "mechanic-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-north-richland-hills-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop north richland hills tx",
     "slug": "tire-shop-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-north-richland-hills-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet north richland hills tx",
     "slug": "vet-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-north-richland-hills-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -585,7 +585,7 @@
    {
     "keyword": "dog groomer north richland hills tx",
     "slug": "dog-groomer-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-north-richland-hills-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut north richland hills tx",
     "slug": "haircut-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-north-richland-hills-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -615,7 +615,7 @@
    {
     "keyword": "roofing contractor north richland hills tx",
     "slug": "roofing-contractor-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-north-richland-hills-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -630,7 +630,7 @@
    {
     "keyword": "auto repair north richland hills tx",
     "slug": "auto-repair-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-north-richland-hills-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -645,7 +645,7 @@
    {
     "keyword": "hvac repair north richland hills tx",
     "slug": "hvac-repair-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-north-richland-hills-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -660,7 +660,7 @@
    {
     "keyword": "chiropractor north richland hills tx",
     "slug": "chiropractor-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-north-richland-hills-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -675,7 +675,7 @@
    {
     "keyword": "hair salon north richland hills tx",
     "slug": "hair-salon-north-richland-hills-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-north-richland-hills-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-north-richland-hills-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,

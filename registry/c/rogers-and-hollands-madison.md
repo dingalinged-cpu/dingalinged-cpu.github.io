@@ -13,12 +13,12 @@ Rogers & Hollands is a jewelry store in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in Madison, #16 of 31 jewelry stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 50% of jewelry stores in Madison, #16 of 31 jewelry stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 43.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-madison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rogers-and-hollands-madison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rogers-and-hollands-madison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rogers-and-hollands-madison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1135060540 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

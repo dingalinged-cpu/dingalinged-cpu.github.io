@@ -13,12 +13,12 @@ CarX is an auto repair shop in Saint Paul, MN at 1201 White Bear Avenue North, S
 - Website: https://www.carx.com/st-paul/1201-white-bear-ave
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 48.7/100 — Building — top 78% of auto repair shops in Minneapolis–St. Paul, #55 of 64 auto repair shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 78% of auto repair shops in Minneapolis–St. Paul, #55 of 64 auto repair shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/carx-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/carx-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/carx-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carx-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1003542337 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

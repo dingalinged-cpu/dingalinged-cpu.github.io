@@ -2,7 +2,7 @@
  "title": "Keyword market data: Hedwig Village, TX",
  "description": "Top Hedwig Village, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hedwig Village, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 16,
@@ -11,7 +11,7 @@
    {
     "keyword": "chiropractor hedwig village tx",
     "slug": "chiropractor-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-hedwig-village-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -26,7 +26,7 @@
    {
     "keyword": "insurance agency hedwig village tx",
     "slug": "insurance-agency-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hedwig-village-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -41,7 +41,7 @@
    {
     "keyword": "attorney hedwig village tx",
     "slug": "attorney-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-hedwig-village-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -56,7 +56,7 @@
    {
     "keyword": "tax preparation hedwig village tx",
     "slug": "tax-preparation-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hedwig-village-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -71,7 +71,7 @@
    {
     "keyword": "tax preparer hedwig village tx",
     "slug": "tax-preparer-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hedwig-village-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -86,7 +86,7 @@
    {
     "keyword": "insurance agents hedwig village tx",
     "slug": "insurance-agents-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hedwig-village-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -101,7 +101,7 @@
    {
     "keyword": "lawyer hedwig village tx",
     "slug": "lawyer-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-hedwig-village-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agent hedwig village tx",
     "slug": "insurance-agent-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hedwig-village-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -133,7 +133,7 @@
    {
     "keyword": "attorney hedwig village tx",
     "slug": "attorney-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-hedwig-village-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -148,7 +148,7 @@
    {
     "keyword": "lawyer hedwig village tx",
     "slug": "lawyer-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-hedwig-village-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -163,7 +163,7 @@
    {
     "keyword": "bakery hedwig village tx",
     "slug": "bakery-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-hedwig-village-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -178,7 +178,7 @@
    {
     "keyword": "event venues hedwig village tx",
     "slug": "event-venues-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-hedwig-village-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -193,7 +193,7 @@
    {
     "keyword": "dance studio hedwig village tx",
     "slug": "dance-studio-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-hedwig-village-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -208,7 +208,7 @@
    {
     "keyword": "tax preparer hedwig village tx",
     "slug": "tax-preparer-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hedwig-village-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -223,7 +223,7 @@
    {
     "keyword": "chiropractor hedwig village tx",
     "slug": "chiropractor-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-hedwig-village-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -238,7 +238,7 @@
    {
     "keyword": "eye doctor hedwig village tx",
     "slug": "eye-doctor-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-hedwig-village-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -253,7 +253,7 @@
    {
     "keyword": "orthopedic surgeon hedwig village tx",
     "slug": "orthopedic-surgeon-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/orthopedic-surgeon-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-hedwig-village-tx/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -268,7 +268,7 @@
    {
     "keyword": "plastic surgeon hedwig village tx",
     "slug": "plastic-surgeon-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-hedwig-village-tx/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -283,7 +283,7 @@
    {
     "keyword": "therapist hedwig village tx",
     "slug": "therapist-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-hedwig-village-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -298,7 +298,7 @@
    {
     "keyword": "gift shop hedwig village tx",
     "slug": "gift-shop-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-hedwig-village-tx/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 420,
@@ -313,7 +313,7 @@
    {
     "keyword": "insurance agency hedwig village tx",
     "slug": "insurance-agency-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hedwig-village-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -328,7 +328,7 @@
    {
     "keyword": "insurance agent hedwig village tx",
     "slug": "insurance-agent-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hedwig-village-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -343,7 +343,7 @@
    {
     "keyword": "insurance agents hedwig village tx",
     "slug": "insurance-agents-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hedwig-village-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -360,7 +360,7 @@
    {
     "keyword": "chiropractor hedwig village tx",
     "slug": "chiropractor-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-hedwig-village-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -375,7 +375,7 @@
    {
     "keyword": "attorney hedwig village tx",
     "slug": "attorney-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-hedwig-village-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -390,7 +390,7 @@
    {
     "keyword": "lawyer hedwig village tx",
     "slug": "lawyer-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-hedwig-village-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -405,7 +405,7 @@
    {
     "keyword": "tax preparer hedwig village tx",
     "slug": "tax-preparer-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hedwig-village-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -420,7 +420,7 @@
    {
     "keyword": "insurance agency hedwig village tx",
     "slug": "insurance-agency-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hedwig-village-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -435,7 +435,7 @@
    {
     "keyword": "tax preparation hedwig village tx",
     "slug": "tax-preparation-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hedwig-village-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -450,7 +450,7 @@
    {
     "keyword": "insurance agents hedwig village tx",
     "slug": "insurance-agents-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hedwig-village-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -465,7 +465,7 @@
    {
     "keyword": "insurance agent hedwig village tx",
     "slug": "insurance-agent-hedwig-village-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hedwig-village-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hedwig-village-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,

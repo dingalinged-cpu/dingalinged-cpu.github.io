@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for League City, TX is Royal Nails League City (a nail salon in League City, TX at 2047 W Main St, League City, TX 77573). 3 nail salon businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for League City, TX is Royal Nails League City (a nail salon in League City, TX at 2047 W Main St, League City, TX 77573). 3 nail salon businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in League City, TX?
 
@@ -6,9 +6,9 @@ Also answers: nail salon in League City, TX; nail salon near me (League City, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royal Nails League City | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Royal Nails League City is a nail salon in League City, TX at 2047 W Main St, League City, TX 77573. | https://dingalinged-cpu.github.io/registry/c/royal-nails-league-city-league-city/
-2. Nail Bar Of Texas | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Nail Bar Of Texas is a nail salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/nail-bar-of-texas-league-city/
-3. The Polished Nail Spa | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | The Polished Nail Spa is a nail salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/the-polished-nail-spa-league-city/
+1. Royal Nails League City | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Royal Nails League City is a nail salon in League City, TX at 2047 W Main St, League City, TX 77573. | https://registry-edge.dingalinged.workers.dev/c/royal-nails-league-city-league-city/
+2. Nail Bar Of Texas | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Nail Bar Of Texas is a nail salon in League City, TX. | https://registry-edge.dingalinged.workers.dev/c/nail-bar-of-texas-league-city/
+3. The Polished Nail Spa | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | The Polished Nail Spa is a nail salon in League City, TX. | https://registry-edge.dingalinged.workers.dev/c/the-polished-nail-spa-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon league city tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-league-city-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-league-city-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ CD One Price Cleaners is a dry cleaner in Naperville, IL at 1592 West Ogden Aven
 - Website: https://www.cdonepricecleaners.com/locations/illinois/dry-cleaning-in-naperville-west/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00, Su 10:30-14:00
-- Pulse Score: 49.9/100 — Building — top 81% of dry cleaners in Chicago, #7 of 7 dry cleaners in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 64. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 81% of dry cleaners in Chicago, #7 of 7 dry cleaners in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 64. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-naperville-w1181040591/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cd-one-price-cleaners-naperville-w1181040591.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cd-one-price-cleaners-naperville-w1181040591/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cd-one-price-cleaners-naperville-w1181040591.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1181040591 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

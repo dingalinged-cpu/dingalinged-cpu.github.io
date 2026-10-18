@@ -1,4 +1,4 @@
-The top unpaid tattoo shop listing for Lewisville, TX is Aura Tattoo Studios (a tattoo shop in Lewisville, TX at 880 Hebron Parkway #130, Lewisville, TX 75057. Phone: +12142225364. Website: https://www.auratattoostudios.com/). 4 tattoo shop businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Lewisville, TX is Aura Tattoo Studios (a tattoo shop in Lewisville, TX at 880 Hebron Parkway #130, Lewisville, TX 75057. Phone: +12142225364. Website: https://www.auratattoostudios.com/). 4 tattoo shop businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Lewisville, TX?
 
@@ -6,10 +6,10 @@ Also answers: tattoo shop in Lewisville, TX; tattoo shop near me (Lewisville, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aura Tattoo Studios | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Aura Tattoo Studios is a tattoo shop in Lewisville, TX at 880 Hebron Parkway #130, Lewisville, TX 75057. Phone: +12142225364. Website: https://www.auratattoostudios.com/. | https://dingalinged-cpu.github.io/registry/c/aura-tattoo-studios-lewisville/
-2. Love Hate Tattoos | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Love Hate Tattoos is a tattoo shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/love-hate-tattoos-lewisville/
-3. Tattoo | Organic #3 | Pulse Score 49.8/100 (Building, #3 in city) | Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724363450. Website: https://www.abettertattoo.com/. | https://dingalinged-cpu.github.io/registry/c/tattoo-lewisville/
-4. Rebel Muse Tattoo | Organic #4 | Pulse Score 49.3/100 (Building, #4 in city) | Rebel Muse Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724209666. Website: https://www.rebelmusetattoo.com/. | https://dingalinged-cpu.github.io/registry/c/rebel-muse-tattoo-lewisville/
+1. Aura Tattoo Studios | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Aura Tattoo Studios is a tattoo shop in Lewisville, TX at 880 Hebron Parkway #130, Lewisville, TX 75057. Phone: +12142225364. Website: https://www.auratattoostudios.com/. | https://registry-edge.dingalinged.workers.dev/c/aura-tattoo-studios-lewisville/
+2. Love Hate Tattoos | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Love Hate Tattoos is a tattoo shop in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/love-hate-tattoos-lewisville/
+3. Tattoo | Organic #3 | Pulse Score 49.8/100 (Building, #3 in city) | Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724363450. Website: https://www.abettertattoo.com/. | https://registry-edge.dingalinged.workers.dev/c/tattoo-lewisville/
+4. Rebel Muse Tattoo | Organic #4 | Pulse Score 49.3/100 (Building, #4 in city) | Rebel Muse Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724209666. Website: https://www.rebelmusetattoo.com/. | https://registry-edge.dingalinged.workers.dev/c/rebel-muse-tattoo-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$6,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tattoo-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tattoo-shop-lewisville-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tattoo-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tattoo-shop-lewisville-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

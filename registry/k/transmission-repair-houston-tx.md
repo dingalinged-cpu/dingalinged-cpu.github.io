@@ -1,4 +1,4 @@
-The top unpaid transmission repair listing for Houston, TX is Circle D Transmission (an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/). 2 transmission repair businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid transmission repair listing for Houston, TX is Circle D Transmission (an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/). 2 transmission repair businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best transmission repair providers in Houston, TX?
 
@@ -6,8 +6,8 @@ Also answers: transmission repair in Houston, TX; transmission repair near me (H
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Circle D Transmission | Organic #1 | Pulse Score 65.2/100 (Good, #2 in city) | Circle D Transmission is an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/. | https://dingalinged-cpu.github.io/registry/c/circle-d-transmission-houston/
-2. My Transmission Experts | Organic #2 | Pulse Score 51/100 (Unrated, #154 in city) | My Transmission Experts is an auto repair shop in Houston, TX at 11729 Jones Road, Houston, TX 77070. Phone: +12816128948. Website: https://www.mytransmissionexperts.com/locations/cypress-jones-road/. | https://dingalinged-cpu.github.io/registry/c/my-transmission-experts-houston-w910999792/
+1. Circle D Transmission | Organic #1 | Pulse Score 65.2/100 (Good, #2 in city) | Circle D Transmission is an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/. | https://registry-edge.dingalinged.workers.dev/c/circle-d-transmission-houston/
+2. My Transmission Experts | Organic #2 | Pulse Score 51/100 (Unrated, #154 in city) | My Transmission Experts is an auto repair shop in Houston, TX at 11729 Jones Road, Houston, TX 77070. Phone: +12816128948. Website: https://www.mytransmissionexperts.com/locations/cypress-jones-road/. | https://registry-edge.dingalinged.workers.dev/c/my-transmission-experts-houston-w910999792/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair houston tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/transmission-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#transmission-repair-houston-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/transmission-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#transmission-repair-houston-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

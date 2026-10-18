@@ -2,7 +2,7 @@
  "title": "Keyword market data: Health & Fitness",
  "description": "Top Health & Fitness keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Health & Fitness",
  "keywords": 10,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "gym",
     "slug": "gym",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 1.67,
@@ -24,7 +24,7 @@
    {
     "keyword": "pilates",
     "slug": "pilates",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 6.17,
@@ -38,7 +38,7 @@
    {
     "keyword": "personal trainer",
     "slug": "personal-trainer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-trainer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-trainer",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 2.5,
@@ -52,7 +52,7 @@
    {
     "keyword": "yoga classes",
     "slug": "yoga-classes",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 1.78,
@@ -66,7 +66,7 @@
    {
     "keyword": "crossfit",
     "slug": "crossfit",
-    "url": "https://dingalinged-cpu.github.io/registry/k/crossfit/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 6.17,
@@ -80,7 +80,7 @@
    {
     "keyword": "contrast therapy",
     "slug": "contrast-therapy",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#contrast-therapy",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#contrast-therapy",
     "us_monthly_searches": 14800,
     "us_volume_method": "cited",
     "cpc_basis_usd": 6.17,
@@ -96,7 +96,7 @@
    {
     "keyword": "contrast therapy",
     "slug": "contrast-therapy",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#contrast-therapy",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#contrast-therapy",
     "us_monthly_searches": 14800,
     "us_volume_method": "cited",
     "cpc_basis_usd": 6.17,
@@ -110,7 +110,7 @@
    {
     "keyword": "crossfit",
     "slug": "crossfit",
-    "url": "https://dingalinged-cpu.github.io/registry/k/crossfit/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 6.17,
@@ -124,7 +124,7 @@
    {
     "keyword": "dance studio",
     "slug": "dance-studio",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 6.17,
@@ -138,7 +138,7 @@
    {
     "keyword": "martial arts",
     "slug": "martial-arts",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 6.17,
@@ -152,7 +152,7 @@
    {
     "keyword": "padel courts",
     "slug": "padel-courts",
-    "url": "https://dingalinged-cpu.github.io/registry/k/padel-courts/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/padel-courts/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 6.17,
@@ -166,7 +166,7 @@
    {
     "keyword": "pilates",
     "slug": "pilates",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 6.17,
@@ -180,7 +180,7 @@
    {
     "keyword": "reformer pilates",
     "slug": "reformer-pilates",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#reformer-pilates",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#reformer-pilates",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 6.17,
@@ -194,7 +194,7 @@
    {
     "keyword": "personal trainer",
     "slug": "personal-trainer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-trainer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-trainer",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 2.5,
@@ -208,7 +208,7 @@
    {
     "keyword": "yoga classes",
     "slug": "yoga-classes",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 1.78,
@@ -222,7 +222,7 @@
    {
     "keyword": "gym",
     "slug": "gym",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 1.67,
@@ -238,7 +238,7 @@
    {
     "keyword": "gym",
     "slug": "gym",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 1.67,
@@ -252,7 +252,7 @@
    {
     "keyword": "pilates",
     "slug": "pilates",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pilates/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pilates/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 6.17,
@@ -266,7 +266,7 @@
    {
     "keyword": "crossfit",
     "slug": "crossfit",
-    "url": "https://dingalinged-cpu.github.io/registry/k/crossfit/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 6.17,
@@ -280,7 +280,7 @@
    {
     "keyword": "personal trainer",
     "slug": "personal-trainer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-trainer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-trainer",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 2.5,
@@ -294,7 +294,7 @@
    {
     "keyword": "yoga classes",
     "slug": "yoga-classes",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 1.78,
@@ -308,7 +308,7 @@
    {
     "keyword": "contrast therapy",
     "slug": "contrast-therapy",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#contrast-therapy",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#contrast-therapy",
     "us_monthly_searches": 14800,
     "us_volume_method": "cited",
     "cpc_basis_usd": 6.17,

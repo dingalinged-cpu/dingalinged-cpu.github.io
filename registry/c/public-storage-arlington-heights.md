@@ -13,12 +13,12 @@ Public Storage is a self-storage facility in Arlington Heights, IL at 903 East A
 - Website: https://www.publicstorage.com/self-storage-il-arlington-heights/1195.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.9/100 — Building — top 11% of self-storage facilitys in Chicago, #1 of 4 self-storage facilitys in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 66.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 11% of self-storage facilitys in Chicago, #1 of 4 self-storage facilitys in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/public-storage-arlington-heights/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/public-storage-arlington-heights.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/public-storage-arlington-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/public-storage-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/111016313 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

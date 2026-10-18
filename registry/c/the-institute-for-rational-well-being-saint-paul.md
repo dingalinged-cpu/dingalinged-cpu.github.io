@@ -13,12 +13,12 @@ The Institute for Rational Well-Being is a therapy practice in Saint Paul, MN at
 - Website: https://www.irwb.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:00-18:00; Tu 07:00-16:00; We-Th 07:00-18:00; Fr 07:00-15:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 11% of therapy practices in Minneapolis–St. Paul, #5 of 13 therapy practices in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 11% of therapy practices in Minneapolis–St. Paul, #5 of 13 therapy practices in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-institute-for-rational-well-being-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-institute-for-rational-well-being-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-institute-for-rational-well-being-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-institute-for-rational-well-being-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7199209062 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

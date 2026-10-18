@@ -1,4 +1,4 @@
-The top unpaid bakery listing for Doraville, GA is Sweet Hut (a bakery in Doraville, GA at 5150 Buford Highway #A-100, Doraville, GA 30340. Phone: +14705452585. Website: https://www.sweethutbakery.com/). 5 bakery businesses are listed for Doraville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Doraville, GA is Sweet Hut (a bakery in Doraville, GA at 5150 Buford Highway #A-100, Doraville, GA 30340. Phone: +14705452585. Website: https://www.sweethutbakery.com/). 5 bakery businesses are listed for Doraville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Doraville, GA?
 
@@ -6,11 +6,11 @@ Also answers: bakery in Doraville, GA; bakery near me (Doraville, GA); best bake
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sweet Hut | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Sweet Hut is a bakery in Doraville, GA at 5150 Buford Highway #A-100, Doraville, GA 30340. Phone: +14705452585. Website: https://www.sweethutbakery.com/. | https://dingalinged-cpu.github.io/registry/c/sweet-hut-doraville/
-2. White Windmill Bakery & Café | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | White Windmill Bakery & Café is a bakery in Doraville, GA at 5881 Buford Highway, Doraville, GA 30340. Phone: +17702340914. Website: https://www.wwindmill.com/. | https://dingalinged-cpu.github.io/registry/c/white-windmill-bakery-and-caf-doraville/
-3. Mozart Bakery | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Mozart Bakery is a bakery in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/mozart-bakery-doraville/
-4. Paris Baguette | Organic #4 | Pulse Score 48/100 (Building, #4 in city) | Paris Baguette is a bakery in Doraville, GA at 5252 Buford Highway Northeast, Doraville, GA 30340. Phone: +17704558552. Website: https://parisbaguette.com/. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-doraville/
-5. Tous les Jours | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Tous les Jours is a bakery in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/tous-les-jours-doraville/
+1. Sweet Hut | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Sweet Hut is a bakery in Doraville, GA at 5150 Buford Highway #A-100, Doraville, GA 30340. Phone: +14705452585. Website: https://www.sweethutbakery.com/. | https://registry-edge.dingalinged.workers.dev/c/sweet-hut-doraville/
+2. White Windmill Bakery & Café | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | White Windmill Bakery & Café is a bakery in Doraville, GA at 5881 Buford Highway, Doraville, GA 30340. Phone: +17702340914. Website: https://www.wwindmill.com/. | https://registry-edge.dingalinged.workers.dev/c/white-windmill-bakery-and-caf-doraville/
+3. Mozart Bakery | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Mozart Bakery is a bakery in Doraville, GA. | https://registry-edge.dingalinged.workers.dev/c/mozart-bakery-doraville/
+4. Paris Baguette | Organic #4 | Pulse Score 48/100 (Building, #4 in city) | Paris Baguette is a bakery in Doraville, GA at 5252 Buford Highway Northeast, Doraville, GA 30340. Phone: +17704558552. Website: https://parisbaguette.com/. | https://registry-edge.dingalinged.workers.dev/c/paris-baguette-doraville/
+5. Tous les Jours | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Tous les Jours is a bakery in Doraville, GA. | https://registry-edge.dingalinged.workers.dev/c/tous-les-jours-doraville/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery doraville ga | category: Events & weddings | industry benchmark: Personal Services
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/bakery.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#bakery-doraville-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/bakery.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#bakery-doraville-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ New Hope Funeral Home is a funeral home in Sunnyvale, TX at 500 East US Highway 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 59% of funeral homes in Dallas–Fort Worth, #1 of 1 funeral homes in Sunnyvale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 59% of funeral homes in Dallas–Fort Worth, #1 of 1 funeral homes in Sunnyvale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 49.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/new-hope-funeral-home-sunnyvale/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/new-hope-funeral-home-sunnyvale.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/new-hope-funeral-home-sunnyvale/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/new-hope-funeral-home-sunnyvale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/676624271 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

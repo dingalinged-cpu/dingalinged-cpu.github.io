@@ -2,7 +2,7 @@
  "title": "Keyword market data: Grapevine, TX",
  "description": "Top Grapevine, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Grapevine, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 53,
@@ -11,7 +11,7 @@
    {
     "keyword": "urgent care grapevine tx",
     "slug": "urgent-care-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-grapevine-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 68000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash grapevine tx",
     "slug": "car-wash-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-grapevine-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist grapevine tx",
     "slug": "dentist-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-grapevine-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym grapevine tx",
     "slug": "gym-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-grapevine-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon grapevine tx",
     "slug": "hair-salon-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-grapevine-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon grapevine tx",
     "slug": "nail-salon-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-grapevine-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "barber shop grapevine tx",
     "slug": "barber-shop-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-grapevine-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic grapevine tx",
     "slug": "mechanic-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-grapevine-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop grapevine tx",
     "slug": "tire-shop-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-grapevine-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet grapevine tx",
     "slug": "vet-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-grapevine-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut grapevine tx",
     "slug": "haircut-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-grapevine-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair grapevine tx",
     "slug": "auto-repair-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-grapevine-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor grapevine tx",
     "slug": "chiropractor-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-grapevine-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -206,7 +206,7 @@
    {
     "keyword": "real estate agent grapevine tx",
     "slug": "real-estate-agent-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-grapevine-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -221,7 +221,7 @@
    {
     "keyword": "roofing contractor grapevine tx",
     "slug": "roofing-contractor-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-grapevine-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -238,7 +238,7 @@
    {
     "keyword": "roofing contractor grapevine tx",
     "slug": "roofing-contractor-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-grapevine-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofer grapevine tx",
     "slug": "roofer-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-grapevine-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -268,7 +268,7 @@
    {
     "keyword": "attorney grapevine tx",
     "slug": "attorney-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-grapevine-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -283,7 +283,7 @@
    {
     "keyword": "lawyer grapevine tx",
     "slug": "lawyer-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-grapevine-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -298,7 +298,7 @@
    {
     "keyword": "window repair grapevine tx",
     "slug": "window-repair-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-repair-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-grapevine-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -313,7 +313,7 @@
    {
     "keyword": "flooring companies grapevine tx",
     "slug": "flooring-companies-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-grapevine-tx/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -328,7 +328,7 @@
    {
     "keyword": "storage units grapevine tx",
     "slug": "storage-units-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-grapevine-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -343,7 +343,7 @@
    {
     "keyword": "bakery grapevine tx",
     "slug": "bakery-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-grapevine-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -358,7 +358,7 @@
    {
     "keyword": "photographer grapevine tx",
     "slug": "photographer-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-grapevine-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -373,7 +373,7 @@
    {
     "keyword": "business consultant grapevine tx",
     "slug": "business-consultant-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/business-consultant-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/business-consultant-grapevine-tx/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 450,
@@ -388,7 +388,7 @@
    {
     "keyword": "tax preparer grapevine tx",
     "slug": "tax-preparer-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-grapevine-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -403,7 +403,7 @@
    {
     "keyword": "preschool grapevine tx",
     "slug": "preschool-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-grapevine-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -418,7 +418,7 @@
    {
     "keyword": "acupuncture grapevine tx",
     "slug": "acupuncture-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/acupuncture-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/acupuncture-grapevine-tx/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 820,
@@ -433,7 +433,7 @@
    {
     "keyword": "assisted living grapevine tx",
     "slug": "assisted-living-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-grapevine-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -448,7 +448,7 @@
    {
     "keyword": "chiropractor grapevine tx",
     "slug": "chiropractor-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-grapevine-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -465,7 +465,7 @@
    {
     "keyword": "urgent care grapevine tx",
     "slug": "urgent-care-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-grapevine-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 68000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist grapevine tx",
     "slug": "dentist-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-grapevine-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash grapevine tx",
     "slug": "car-wash-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-grapevine-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym grapevine tx",
     "slug": "gym-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-grapevine-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic grapevine tx",
     "slug": "mechanic-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-grapevine-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop grapevine tx",
     "slug": "tire-shop-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-grapevine-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet grapevine tx",
     "slug": "vet-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-grapevine-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut grapevine tx",
     "slug": "haircut-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-grapevine-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -585,7 +585,7 @@
    {
     "keyword": "roofing contractor grapevine tx",
     "slug": "roofing-contractor-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-grapevine-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair grapevine tx",
     "slug": "auto-repair-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-grapevine-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -615,7 +615,7 @@
    {
     "keyword": "chiropractor grapevine tx",
     "slug": "chiropractor-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-grapevine-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -630,7 +630,7 @@
    {
     "keyword": "hair salon grapevine tx",
     "slug": "hair-salon-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-grapevine-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -645,7 +645,7 @@
    {
     "keyword": "attorney grapevine tx",
     "slug": "attorney-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-grapevine-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -660,7 +660,7 @@
    {
     "keyword": "real estate agent grapevine tx",
     "slug": "real-estate-agent-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-grapevine-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -675,7 +675,7 @@
    {
     "keyword": "nail salon grapevine tx",
     "slug": "nail-salon-grapevine-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-grapevine-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-grapevine-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,

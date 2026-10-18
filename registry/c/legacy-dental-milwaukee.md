@@ -13,12 +13,12 @@ Legacy Dental is a dentist in Milwaukee, WI at 924 West Oklahoma Avenue, Milwauk
 - Website: https://ldmke.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 92% of dentists in Milwaukee, #40 of 41 dentists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 92% of dentists in Milwaukee, #40 of 41 dentists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/legacy-dental-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/legacy-dental-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/legacy-dental-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/legacy-dental-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13039325202 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

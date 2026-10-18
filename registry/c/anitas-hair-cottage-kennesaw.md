@@ -13,12 +13,12 @@ Anita's Hair Cottage is a hair salon in Kennesaw, GA at 2701 Summers Street Nort
 - Website: n/a
 - Email: renitaadams28@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.1/100 — Good — top 17% of hair salons in Atlanta, #7 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.9, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 17% of hair salons in Atlanta, #7 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.9, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/anitas-hair-cottage-kennesaw/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/anitas-hair-cottage-kennesaw.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anitas-hair-cottage-kennesaw/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anitas-hair-cottage-kennesaw.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11670359223 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

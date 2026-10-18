@@ -13,12 +13,12 @@ Division of Vocational Rehabilitation is a staffing agency in Milwaukee, WI at 2
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 36% of staffing agencys in Milwaukee, #6 of 14 staffing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 36% of staffing agencys in Milwaukee, #6 of 14 staffing agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 47.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/division-of-vocational-rehabilitation-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/division-of-vocational-rehabilitation-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/division-of-vocational-rehabilitation-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/division-of-vocational-rehabilitation-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8180683362 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

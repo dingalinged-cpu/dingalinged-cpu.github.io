@@ -1,4 +1,4 @@
-The top unpaid plumber listing for Omaha, NE is Backlund Plumbing (a plumber in Omaha, NE at 6215 Grover Street, Omaha, NE 68106. Phone: +14023410450. Website: https://backlundplumbing.com/). 2 plumber businesses are listed for Omaha, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Omaha, NE is Backlund Plumbing (a plumber in Omaha, NE at 6215 Grover Street, Omaha, NE 68106. Phone: +14023410450. Website: https://backlundplumbing.com/). 2 plumber businesses are listed for Omaha, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Omaha, NE?
 
@@ -6,8 +6,8 @@ Also answers: plumber in Omaha, NE; plumber near me (Omaha, NE); best plumber Om
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Backlund Plumbing | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Backlund Plumbing is a plumber in Omaha, NE at 6215 Grover Street, Omaha, NE 68106. Phone: +14023410450. Website: https://backlundplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/backlund-plumbing-omaha/
-2. Exspurt Plumbing, Inc. | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Exspurt Plumbing, Inc. is a plumber in Omaha, NE at 16066 Charles Street, Omaha, NE 68118. Phone: +14025043447. Website: https://exspurtplumbingomaha.com/. | https://dingalinged-cpu.github.io/registry/c/exspurt-plumbing-inc-omaha/
+1. Backlund Plumbing | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Backlund Plumbing is a plumber in Omaha, NE at 6215 Grover Street, Omaha, NE 68106. Phone: +14023410450. Website: https://backlundplumbing.com/. | https://registry-edge.dingalinged.workers.dev/c/backlund-plumbing-omaha/
+2. Exspurt Plumbing, Inc. | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Exspurt Plumbing, Inc. is a plumber in Omaha, NE at 16066 Charles Street, Omaha, NE 68118. Phone: +14025043447. Website: https://exspurtplumbingomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/exspurt-plumbing-inc-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber omaha ne | category: Home services - Plumbing | industry benchmark: Home & Home Improvement
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/plumber.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#plumber-omaha-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/plumber.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-omaha-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

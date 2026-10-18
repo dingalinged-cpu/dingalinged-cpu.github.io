@@ -13,12 +13,12 @@ Heartpath Acupuncture Center is an acupuncture clinic in Madison, WI. Phone: +16
 - Website: https://heartpathacupuncturemadison.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of acupuncture clinics in Madison, #1 of 4 acupuncture clinics in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 25% of acupuncture clinics in Madison, #1 of 4 acupuncture clinics in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 54.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/heartpath-acupuncture-center-madison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/heartpath-acupuncture-center-madison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/heartpath-acupuncture-center-madison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/heartpath-acupuncture-center-madison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12834994134 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

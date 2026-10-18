@@ -2,7 +2,7 @@
  "title": "Keyword market data: Euless, TX",
  "description": "Top Euless, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Euless, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 47,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage euless tx",
     "slug": "massage-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-euless-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash euless tx",
     "slug": "car-wash-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-euless-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist euless tx",
     "slug": "dentist-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-euless-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym euless tx",
     "slug": "gym-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-euless-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon euless tx",
     "slug": "hair-salon-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-euless-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon euless tx",
     "slug": "nail-salon-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-euless-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "barber shop euless tx",
     "slug": "barber-shop-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-euless-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic euless tx",
     "slug": "mechanic-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-euless-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "dog groomer euless tx",
     "slug": "dog-groomer-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-euless-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -146,7 +146,7 @@
    {
     "keyword": "haircut euless tx",
     "slug": "haircut-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-euless-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -161,7 +161,7 @@
    {
     "keyword": "auto repair euless tx",
     "slug": "auto-repair-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-euless-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agency euless tx",
     "slug": "insurance-agency-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-euless-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -191,7 +191,7 @@
    {
     "keyword": "pediatrician euless tx",
     "slug": "pediatrician-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-euless-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -206,7 +206,7 @@
    {
     "keyword": "attorney euless tx",
     "slug": "attorney-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-euless-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -221,7 +221,7 @@
    {
     "keyword": "facial euless tx",
     "slug": "facial-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-euless-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair euless tx",
     "slug": "hvac-repair-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-euless-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney euless tx",
     "slug": "attorney-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-euless-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer euless tx",
     "slug": "lawyer-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-euless-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -283,7 +283,7 @@
    {
     "keyword": "heating and air euless tx",
     "slug": "heating-and-air-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-euless-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "bakery euless tx",
     "slug": "bakery-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-euless-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -313,7 +313,7 @@
    {
     "keyword": "caterers euless tx",
     "slug": "caterers-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/caterers-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-euless-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -328,7 +328,7 @@
    {
     "keyword": "event venues euless tx",
     "slug": "event-venues-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-euless-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -343,7 +343,7 @@
    {
     "keyword": "martial arts euless tx",
     "slug": "martial-arts-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-euless-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -358,7 +358,7 @@
    {
     "keyword": "staffing agency euless tx",
     "slug": "staffing-agency-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-euless-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -373,7 +373,7 @@
    {
     "keyword": "tax preparer euless tx",
     "slug": "tax-preparer-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-euless-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -388,7 +388,7 @@
    {
     "keyword": "daycare euless tx",
     "slug": "daycare-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-euless-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -403,7 +403,7 @@
    {
     "keyword": "preschool euless tx",
     "slug": "preschool-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-euless-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -418,7 +418,7 @@
    {
     "keyword": "assisted living euless tx",
     "slug": "assisted-living-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-euless-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -433,7 +433,7 @@
    {
     "keyword": "eye doctor euless tx",
     "slug": "eye-doctor-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-euless-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -448,7 +448,7 @@
    {
     "keyword": "family doctor euless tx",
     "slug": "family-doctor-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-euless-tx/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage euless tx",
     "slug": "massage-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-euless-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist euless tx",
     "slug": "dentist-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-euless-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash euless tx",
     "slug": "car-wash-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-euless-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym euless tx",
     "slug": "gym-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-euless-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic euless tx",
     "slug": "mechanic-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-euless-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -540,7 +540,7 @@
    {
     "keyword": "dog groomer euless tx",
     "slug": "dog-groomer-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-euless-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut euless tx",
     "slug": "haircut-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-euless-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair euless tx",
     "slug": "auto-repair-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-euless-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -585,7 +585,7 @@
    {
     "keyword": "hvac repair euless tx",
     "slug": "hvac-repair-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-euless-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -600,7 +600,7 @@
    {
     "keyword": "hair salon euless tx",
     "slug": "hair-salon-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-euless-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -615,7 +615,7 @@
    {
     "keyword": "attorney euless tx",
     "slug": "attorney-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-euless-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -630,7 +630,7 @@
    {
     "keyword": "nail salon euless tx",
     "slug": "nail-salon-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-euless-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -645,7 +645,7 @@
    {
     "keyword": "barber shop euless tx",
     "slug": "barber-shop-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-euless-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -660,7 +660,7 @@
    {
     "keyword": "lawyer euless tx",
     "slug": "lawyer-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-euless-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -675,7 +675,7 @@
    {
     "keyword": "pediatrician euless tx",
     "slug": "pediatrician-euless-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-euless-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-euless-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,

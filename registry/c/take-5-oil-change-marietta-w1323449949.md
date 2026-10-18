@@ -13,12 +13,12 @@ Take 5 Oil Change is an auto repair shop in Marietta, GA at 1305 Powers Ferry Ro
 - Website: https://www.take5.com/locations/oil-change/georgia/marietta/31081/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-17:00
-- Pulse Score: 51/100 — Fair — top 66% of auto repair shops in Atlanta, #58 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51/100 — Fair — top 66% of auto repair shops in Atlanta, #58 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 64.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-marietta-w1323449949/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/take-5-oil-change-marietta-w1323449949.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-marietta-w1323449949/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/take-5-oil-change-marietta-w1323449949.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1323449949 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Minuteman Heating & AC Repair is a HVAC contractor in Arlington, TX at 7501 US 2
 - Website: https://minutemanheatingandac.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 30% of HVAC contractors in Dallas–Fort Worth, #1 of 1 HVAC contractors in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 30% of HVAC contractors in Dallas–Fort Worth, #1 of 1 HVAC contractors in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/minuteman-heating-and-ac-repair-arlington/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/minuteman-heating-and-ac-repair-arlington.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/minuteman-heating-and-ac-repair-arlington/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/minuteman-heating-and-ac-repair-arlington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/713250853 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Alfa Flower & Wedding Shop is a florist in Wauwatosa, WI at 7001 W North Ave, Wa
 - Website: https://alfaflowershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su off
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 17% of florists in Milwaukee, #1 of 4 florists in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 17% of florists in Milwaukee, #1 of 4 florists in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/alfa-flower-and-wedding-shop-wauwatosa/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/alfa-flower-and-wedding-shop-wauwatosa.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/alfa-flower-and-wedding-shop-wauwatosa/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/alfa-flower-and-wedding-shop-wauwatosa.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4379443021 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

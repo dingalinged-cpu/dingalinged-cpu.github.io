@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Westchester, IL is Stephen G. Marshall, DDS (a dentist in Westchester, IL at 10510 Cermak Road, Westchester, IL 60154. Phone: +17085625526. Website: https://www.marshalloralsurgery.com/meet-us/). 3 dentist businesses are listed for Westchester, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Westchester, IL is Stephen G. Marshall, DDS (a dentist in Westchester, IL at 10510 Cermak Road, Westchester, IL 60154. Phone: +17085625526. Website: https://www.marshalloralsurgery.com/meet-us/). 3 dentist businesses are listed for Westchester, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Westchester, IL?
 
@@ -6,9 +6,9 @@ Also answers: dentist in Westchester, IL; dentist near me (Westchester, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stephen G. Marshall, DDS | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Stephen G. Marshall, DDS is a dentist in Westchester, IL at 10510 Cermak Road, Westchester, IL 60154. Phone: +17085625526. Website: https://www.marshalloralsurgery.com/meet-us/. | https://dingalinged-cpu.github.io/registry/c/stephen-g-marshall-dds-westchester/
-2. Dental Concepts | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Dental Concepts is a dentist in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/dental-concepts-westchester/
-3. Midwest Dental | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | Midwest Dental is a dentist in Westchester, IL at 10535 Cermak Road, Westchester, IL 60154. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-westchester/
+1. Stephen G. Marshall, DDS | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Stephen G. Marshall, DDS is a dentist in Westchester, IL at 10510 Cermak Road, Westchester, IL 60154. Phone: +17085625526. Website: https://www.marshalloralsurgery.com/meet-us/. | https://registry-edge.dingalinged.workers.dev/c/stephen-g-marshall-dds-westchester/
+2. Dental Concepts | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Dental Concepts is a dentist in Westchester, IL. | https://registry-edge.dingalinged.workers.dev/c/dental-concepts-westchester/
+3. Midwest Dental | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | Midwest Dental is a dentist in Westchester, IL at 10535 Cermak Road, Westchester, IL 60154. | https://registry-edge.dingalinged.workers.dev/c/midwest-dental-westchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist westchester il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-westchester-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-westchester-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

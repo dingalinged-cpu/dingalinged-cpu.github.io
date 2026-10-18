@@ -2,7 +2,7 @@
  "title": "Keyword market data: Attorneys & Legal Services",
  "description": "Top Attorneys & Legal Services keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Attorneys & Legal Services",
  "keywords": 58,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "car accident lawyer",
     "slug": "car-accident-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.3,
@@ -24,7 +24,7 @@
    {
     "keyword": "divorce lawyer",
     "slug": "divorce-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#divorce-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#divorce-lawyer",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.83,
@@ -38,7 +38,7 @@
    {
     "keyword": "personal injury lawyer",
     "slug": "personal-injury-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 55.12,
@@ -52,7 +52,7 @@
    {
     "keyword": "truck accident lawyer",
     "slug": "truck-accident-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#truck-accident-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#truck-accident-lawyer",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.3,
@@ -66,7 +66,7 @@
    {
     "keyword": "dui lawyer",
     "slug": "dui-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-lawyer",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 12.3,
@@ -80,7 +80,7 @@
    {
     "keyword": "criminal defense lawyer",
     "slug": "criminal-defense-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-lawyer",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 7.34,
@@ -94,7 +94,7 @@
    {
     "keyword": "medical malpractice lawyer",
     "slug": "medical-malpractice-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#medical-malpractice-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#medical-malpractice-lawyer",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -108,7 +108,7 @@
    {
     "keyword": "wrongful death lawyer",
     "slug": "wrongful-death-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#wrongful-death-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#wrongful-death-lawyer",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -122,7 +122,7 @@
    {
     "keyword": "criminal defense attorney",
     "slug": "criminal-defense-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 12.3,
@@ -136,7 +136,7 @@
    {
     "keyword": "employment lawyer",
     "slug": "employment-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#employment-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#employment-lawyer",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -150,7 +150,7 @@
    {
     "keyword": "immigration lawyer",
     "slug": "immigration-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#immigration-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#immigration-lawyer",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -164,7 +164,7 @@
    {
     "keyword": "attorney",
     "slug": "attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -178,7 +178,7 @@
    {
     "keyword": "family law attorney",
     "slug": "family-law-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#family-law-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#family-law-attorney",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 7.69,
@@ -192,7 +192,7 @@
    {
     "keyword": "lawyer",
     "slug": "lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -206,7 +206,7 @@
    {
     "keyword": "real estate attorney",
     "slug": "real-estate-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#real-estate-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#real-estate-attorney",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 7.92,
@@ -220,7 +220,7 @@
    {
     "keyword": "free consultation lawyer",
     "slug": "free-consultation-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#free-consultation-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#free-consultation-lawyer",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -234,7 +234,7 @@
    {
     "keyword": "estate planning attorney",
     "slug": "estate-planning-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#estate-planning-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#estate-planning-attorney",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 7.92,
@@ -248,7 +248,7 @@
    {
     "keyword": "workers comp lawyer",
     "slug": "workers-comp-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#workers-comp-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#workers-comp-lawyer",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -262,7 +262,7 @@
    {
     "keyword": "business lawyer",
     "slug": "business-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#business-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#business-lawyer",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -276,7 +276,7 @@
    {
     "keyword": "business attorney",
     "slug": "business-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#business-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#business-attorney",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -292,7 +292,7 @@
    {
     "keyword": "personal injury lawyer",
     "slug": "personal-injury-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 55.12,
@@ -306,7 +306,7 @@
    {
     "keyword": "criminal defense attorney",
     "slug": "criminal-defense-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 12.3,
@@ -320,7 +320,7 @@
    {
     "keyword": "dui defense lawyer",
     "slug": "dui-defense-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 12.3,
@@ -334,7 +334,7 @@
    {
     "keyword": "dui lawyer",
     "slug": "dui-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-lawyer",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 12.3,
@@ -348,7 +348,7 @@
    {
     "keyword": "tax attorney",
     "slug": "tax-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#tax-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#tax-attorney",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 11.82,
@@ -362,7 +362,7 @@
    {
     "keyword": "bankruptcy lawyer",
     "slug": "bankruptcy-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#bankruptcy-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#bankruptcy-lawyer",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 11.7,
@@ -376,7 +376,7 @@
    {
     "keyword": "attorney",
     "slug": "attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -390,7 +390,7 @@
    {
     "keyword": "business attorney",
     "slug": "business-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#business-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#business-attorney",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -404,7 +404,7 @@
    {
     "keyword": "business lawyer",
     "slug": "business-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#business-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#business-lawyer",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -418,7 +418,7 @@
    {
     "keyword": "disability lawyer",
     "slug": "disability-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#disability-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#disability-lawyer",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 9.87,
@@ -432,7 +432,7 @@
    {
     "keyword": "employment lawyer",
     "slug": "employment-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#employment-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#employment-lawyer",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -446,7 +446,7 @@
    {
     "keyword": "free consultation lawyer",
     "slug": "free-consultation-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#free-consultation-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#free-consultation-lawyer",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -460,7 +460,7 @@
    {
     "keyword": "houston maritime attorney",
     "slug": "houston-maritime-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#houston-maritime-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#houston-maritime-attorney",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 9.87,
@@ -474,7 +474,7 @@
    {
     "keyword": "immigration lawyer",
     "slug": "immigration-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#immigration-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#immigration-lawyer",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -488,7 +488,7 @@
    {
     "keyword": "lawyer",
     "slug": "lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -502,7 +502,7 @@
    {
     "keyword": "legal answering service",
     "slug": "legal-answering-service",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#legal-answering-service",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#legal-answering-service",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 9.87,
@@ -516,7 +516,7 @@
    {
     "keyword": "llc formation",
     "slug": "llc-formation",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#llc-formation",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#llc-formation",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 9.87,
@@ -530,7 +530,7 @@
    {
     "keyword": "los angeles slip and fall attorney",
     "slug": "los-angeles-slip-and-fall-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#los-angeles-slip-and-fall-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#los-angeles-slip-and-fall-attorney",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 9.87,
@@ -544,7 +544,7 @@
    {
     "keyword": "medical malpractice lawyer",
     "slug": "medical-malpractice-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#medical-malpractice-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#medical-malpractice-lawyer",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -558,7 +558,7 @@
    {
     "keyword": "mesothelioma attorney assistance",
     "slug": "mesothelioma-attorney-assistance",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mesothelioma-attorney-assistance",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mesothelioma-attorney-assistance",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 9.87,
@@ -574,7 +574,7 @@
    {
     "keyword": "personal injury lawyer",
     "slug": "personal-injury-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 55.12,
@@ -588,7 +588,7 @@
    {
     "keyword": "car accident lawyer",
     "slug": "car-accident-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.3,
@@ -602,7 +602,7 @@
    {
     "keyword": "dui lawyer",
     "slug": "dui-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-lawyer",
     "us_monthly_searches": 165000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 12.3,
@@ -616,7 +616,7 @@
    {
     "keyword": "truck accident lawyer",
     "slug": "truck-accident-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#truck-accident-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#truck-accident-lawyer",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.3,
@@ -630,7 +630,7 @@
    {
     "keyword": "medical malpractice lawyer",
     "slug": "medical-malpractice-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#medical-malpractice-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#medical-malpractice-lawyer",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -644,7 +644,7 @@
    {
     "keyword": "wrongful death lawyer",
     "slug": "wrongful-death-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#wrongful-death-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#wrongful-death-lawyer",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -658,7 +658,7 @@
    {
     "keyword": "divorce lawyer",
     "slug": "divorce-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#divorce-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#divorce-lawyer",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.83,
@@ -672,7 +672,7 @@
    {
     "keyword": "criminal defense attorney",
     "slug": "criminal-defense-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 12.3,
@@ -686,7 +686,7 @@
    {
     "keyword": "criminal defense lawyer",
     "slug": "criminal-defense-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-lawyer",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 7.34,
@@ -700,7 +700,7 @@
    {
     "keyword": "employment lawyer",
     "slug": "employment-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#employment-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#employment-lawyer",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -714,7 +714,7 @@
    {
     "keyword": "immigration lawyer",
     "slug": "immigration-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#immigration-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#immigration-lawyer",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -728,7 +728,7 @@
    {
     "keyword": "attorney",
     "slug": "attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -742,7 +742,7 @@
    {
     "keyword": "lawyer",
     "slug": "lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -756,7 +756,7 @@
    {
     "keyword": "free consultation lawyer",
     "slug": "free-consultation-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#free-consultation-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#free-consultation-lawyer",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -770,7 +770,7 @@
    {
     "keyword": "real estate attorney",
     "slug": "real-estate-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#real-estate-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#real-estate-attorney",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 7.92,
@@ -784,7 +784,7 @@
    {
     "keyword": "family law attorney",
     "slug": "family-law-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#family-law-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#family-law-attorney",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 7.69,
@@ -798,7 +798,7 @@
    {
     "keyword": "workers comp lawyer",
     "slug": "workers-comp-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#workers-comp-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#workers-comp-lawyer",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -812,7 +812,7 @@
    {
     "keyword": "business lawyer",
     "slug": "business-lawyer",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#business-lawyer",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#business-lawyer",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,
@@ -826,7 +826,7 @@
    {
     "keyword": "estate planning attorney",
     "slug": "estate-planning-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#estate-planning-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#estate-planning-attorney",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 7.92,
@@ -840,7 +840,7 @@
    {
     "keyword": "business attorney",
     "slug": "business-attorney",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#business-attorney",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#business-attorney",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 9.87,

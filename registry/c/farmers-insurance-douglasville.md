@@ -13,12 +13,12 @@ Farmers Insurance is an insurance agent in Douglasville, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.8/100 — Building — top 83% of insurance agents in Atlanta, #3 of 4 insurance agents in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 43.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.8/100 — Building — top 83% of insurance agents in Atlanta, #3 of 4 insurance agents in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 43.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/farmers-insurance-douglasville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/farmers-insurance-douglasville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-douglasville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/farmers-insurance-douglasville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/307816065 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

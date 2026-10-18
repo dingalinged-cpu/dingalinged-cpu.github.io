@@ -1,4 +1,4 @@
-The top unpaid assisted living listing for West Des Moines, IA is Building A (an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265). 4 assisted living businesses are listed for West Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for West Des Moines, IA is Building A (an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265). 4 assisted living businesses are listed for West Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in West Des Moines, IA?
 
@@ -6,10 +6,10 @@ Also answers: assisted living in West Des Moines, IA; assisted living near me (W
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Building A | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Building A is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/building-a-west-des-moines/
-2. Building C | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Building C is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/building-c-west-des-moines/
-3. Building D | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Building D is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/building-d-west-des-moines/
-4. Arbor Springs | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Arbor Springs is an assisted living facility in West Des Moines, IA at 7951 E P True Parkway, West Des Moines, IA 50266. | https://dingalinged-cpu.github.io/registry/c/arbor-springs-west-des-moines/
+1. Building A | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Building A is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/building-a-west-des-moines/
+2. Building C | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Building C is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/building-c-west-des-moines/
+3. Building D | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Building D is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://registry-edge.dingalinged.workers.dev/c/building-d-west-des-moines/
+4. Arbor Springs | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Arbor Springs is an assisted living facility in West Des Moines, IA at 7951 E P True Parkway, West Des Moines, IA 50266. | https://registry-edge.dingalinged.workers.dev/c/arbor-springs-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living west des moines ia | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$160 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/assisted-living.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#assisted-living-west-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/assisted-living.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#assisted-living-west-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

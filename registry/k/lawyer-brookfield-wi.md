@@ -1,4 +1,4 @@
-The top unpaid lawyer listing for Brookfield, WI is Cannon & Dunphy (a lawyer in Brookfield, WI at 595 North Barker Road, Brookfield, WI 53045). 4 lawyer businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Brookfield, WI is Cannon & Dunphy (a lawyer in Brookfield, WI at 595 North Barker Road, Brookfield, WI 53045). 4 lawyer businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Brookfield, WI?
 
@@ -6,10 +6,10 @@ Also answers: lawyer in Brookfield, WI; lawyer near me (Brookfield, WI); best la
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cannon & Dunphy | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Cannon & Dunphy is a lawyer in Brookfield, WI at 595 North Barker Road, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/cannon-and-dunphy-brookfield/
-2. KDR Lawyers | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | KDR Lawyers is a lawyer in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/kdr-lawyers-brookfield/
-3. Mark S. Knutson, S.C. | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Mark S. Knutson, S.C. is a lawyer in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/mark-s-knutson-s-c-brookfield/
-4. Sterling Lawyers, LLC | Organic #4 | Pulse Score 49.3/100 (Unrated, #4 in city) | Sterling Lawyers, LLC is a lawyer in Brookfield, WI at 200 South Executive Drive ##101, Brookfield, WI 53005. Phone: +12622218355. Website: https://www.sterlinglawyers.com/wisconsin/locations/brookfield/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-brookfield/
+1. Cannon & Dunphy | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Cannon & Dunphy is a lawyer in Brookfield, WI at 595 North Barker Road, Brookfield, WI 53045. | https://registry-edge.dingalinged.workers.dev/c/cannon-and-dunphy-brookfield/
+2. KDR Lawyers | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | KDR Lawyers is a lawyer in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/kdr-lawyers-brookfield/
+3. Mark S. Knutson, S.C. | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Mark S. Knutson, S.C. is a lawyer in Brookfield, WI. | https://registry-edge.dingalinged.workers.dev/c/mark-s-knutson-s-c-brookfield/
+4. Sterling Lawyers, LLC | Organic #4 | Pulse Score 49.3/100 (Unrated, #4 in city) | Sterling Lawyers, LLC is a lawyer in Brookfield, WI at 200 South Executive Drive ##101, Brookfield, WI 53005. Phone: +12622218355. Website: https://www.sterlinglawyers.com/wisconsin/locations/brookfield/. | https://registry-edge.dingalinged.workers.dev/c/sterling-lawyers-llc-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer brookfield wi | category: Legal | industry benchmark: Attorneys & Legal Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$140 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/lawyer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#lawyer-brookfield-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/lawyer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#lawyer-brookfield-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

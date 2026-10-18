@@ -13,12 +13,12 @@ SOS Salon Unisex is a hair salon in Houston, TX at 8231 Howard Drive, Houston, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-17:30; Sa 10:00-15:30; Su closed
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 12% of hair salons in Houston, #25 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 12% of hair salons in Houston, #25 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sos-salon-unisex-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sos-salon-unisex-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sos-salon-unisex-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sos-salon-unisex-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6783097333 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

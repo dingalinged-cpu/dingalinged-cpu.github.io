@@ -13,12 +13,12 @@ Anytime Fitness is a gym in Madison, WI at 6420 Cottage Grove Road, Madison, WI 
 - Website: https://www.anytimefitness.com/gyms/332/madison-wi-53718/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.8/100 — Fair — top 52% of gyms in Madison, #18 of 31 gyms in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 67.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 52% of gyms in Madison, #18 of 31 gyms in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 67.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/anytime-fitness-madison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/anytime-fitness-madison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/anytime-fitness-madison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/anytime-fitness-madison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4199657089 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Scrub-A-Dub Car Wash is a car wash in Milwaukee, WI at 1635 South 1st Street, Mi
 - Website: https://scrubadub.biz/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 07:00-19:00
-- Pulse Score: 51.1/100 — Fair — top 40% of car washes in Milwaukee, #15 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 69.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 40% of car washes in Milwaukee, #15 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 69.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-car-wash-milwaukee-w663207009/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/scrub-a-dub-car-wash-milwaukee-w663207009.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/scrub-a-dub-car-wash-milwaukee-w663207009/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/scrub-a-dub-car-wash-milwaukee-w663207009.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/663207009 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

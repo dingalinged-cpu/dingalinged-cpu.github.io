@@ -13,12 +13,12 @@ Covet Consign & Design is a furniture store in Minneapolis, MN at 3730 Chicago A
 - Website: https://covetconsignanddesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 36% of furniture stores in Minneapolis–St. Paul, #8 of 14 furniture stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 36% of furniture stores in Minneapolis–St. Paul, #8 of 14 furniture stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 49.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/covet-consign-and-design-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/covet-consign-and-design-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/covet-consign-and-design-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/covet-consign-and-design-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3233745649 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

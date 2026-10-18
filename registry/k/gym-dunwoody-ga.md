@@ -1,4 +1,4 @@
-The top unpaid gym listing for Dunwoody, GA is Curves (a gym in Dunwoody, GA at 1424 Dunwoody Village Parkway, Dunwoody, GA 30338. Phone: +17705229721. Website: https://www.curves.com/locations/club/GA/US/30338/Dunwoody-1). 3 gym businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Dunwoody, GA is Curves (a gym in Dunwoody, GA at 1424 Dunwoody Village Parkway, Dunwoody, GA 30338. Phone: +17705229721. Website: https://www.curves.com/locations/club/GA/US/30338/Dunwoody-1). 3 gym businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Dunwoody, GA?
 
@@ -6,9 +6,9 @@ Also answers: gym in Dunwoody, GA; gym near me (Dunwoody, GA); best gym Dunwoody
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Curves | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | Curves is a gym in Dunwoody, GA at 1424 Dunwoody Village Parkway, Dunwoody, GA 30338. Phone: +17705229721. Website: https://www.curves.com/locations/club/GA/US/30338/Dunwoody-1. | https://dingalinged-cpu.github.io/registry/c/curves-dunwoody/
-2. Pure Barre | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Pure Barre is a gym in Dunwoody, GA at 5539 Chamblee Dunwoody Road, Dunwoody, GA 30338. | https://dingalinged-cpu.github.io/registry/c/pure-barre-dunwoody/
-3. Crunch Fitness | Organic #3 | Pulse Score 44/100 (Building, #3 in city) | Crunch Fitness is a gym in Dunwoody, GA at 4530 Olde Perimeter Way, Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-dunwoody/
+1. Curves | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | Curves is a gym in Dunwoody, GA at 1424 Dunwoody Village Parkway, Dunwoody, GA 30338. Phone: +17705229721. Website: https://www.curves.com/locations/club/GA/US/30338/Dunwoody-1. | https://registry-edge.dingalinged.workers.dev/c/curves-dunwoody/
+2. Pure Barre | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Pure Barre is a gym in Dunwoody, GA at 5539 Chamblee Dunwoody Road, Dunwoody, GA 30338. | https://registry-edge.dingalinged.workers.dev/c/pure-barre-dunwoody/
+3. Crunch Fitness | Organic #3 | Pulse Score 44/100 (Building, #3 in city) | Crunch Fitness is a gym in Dunwoody, GA at 4530 Olde Perimeter Way, Dunwoody, GA. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-dunwoody/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym dunwoody ga | category: Fitness | industry benchmark: Health & Fitness
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$4,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-dunwoody-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-dunwoody-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

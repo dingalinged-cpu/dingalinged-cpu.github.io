@@ -13,12 +13,12 @@ Lucid Private Offices is a coworking space in Houston, TX at 1000 Main Street #S
 - Website: https://www.lucidprivateoffices.com/texas/houston/1000-main-street/
 - Email: Workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 49.8/100 — Building — top 70% of coworking spaces in Houston, #7 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 70% of coworking spaces in Houston, #7 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-houston-n13510604284/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lucid-private-offices-houston-n13510604284.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lucid-private-offices-houston-n13510604284/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lucid-private-offices-houston-n13510604284.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13510604284 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

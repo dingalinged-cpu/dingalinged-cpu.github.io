@@ -13,12 +13,12 @@ Sandy's Dog and Cat Grooming and Boarding is a dog groomer in Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 97% of dog groomers in Minneapolis–St. Paul, #4 of 4 dog groomers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 97% of dog groomers in Minneapolis–St. Paul, #4 of 4 dog groomers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sandys-dog-and-cat-grooming-and-boarding-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sandys-dog-and-cat-grooming-and-boarding-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sandys-dog-and-cat-grooming-and-boarding-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sandys-dog-and-cat-grooming-and-boarding-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2605653755 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

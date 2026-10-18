@@ -13,12 +13,12 @@ Tri-City Air Conditioning is a HVAC contractor in Pasadena, TX at 112 Pasadena F
 - Website: https://www.tricityac.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 68% of HVAC contractors in Houston, #2 of 2 HVAC contractors in Pasadena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 68% of HVAC contractors in Houston, #2 of 2 HVAC contractors in Pasadena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/tri-city-air-conditioning-pasadena/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/tri-city-air-conditioning-pasadena.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/tri-city-air-conditioning-pasadena/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/tri-city-air-conditioning-pasadena.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1080908257 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

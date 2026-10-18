@@ -13,12 +13,12 @@ Sugaring NYC is a waxing salon in Richardson, TX at 3501 Custer Parkway #103, Ri
 - Website: https://www.sugaringnyc.com/locations/sugaring-nyc-richardson-texas/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.9/100 — Building — top 48% of waxing salons in Dallas–Fort Worth, #1 of 1 waxing salons in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 48% of waxing salons in Dallas–Fort Worth, #1 of 1 waxing salons in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 58.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sugaring-nyc-richardson/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sugaring-nyc-richardson.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sugaring-nyc-richardson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sugaring-nyc-richardson.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8239380530 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

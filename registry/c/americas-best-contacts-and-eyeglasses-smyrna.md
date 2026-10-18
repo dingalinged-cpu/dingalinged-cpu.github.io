@@ -13,12 +13,12 @@ America's Best Contacts & Eyeglasses is an eye care practice in Smyrna, GA at 10
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Building — top 97% of eye care practices in Atlanta, #4 of 4 eye care practices in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 44.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 97% of eye care practices in Atlanta, #4 of 4 eye care practices in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/americas-best-contacts-and-eyeglasses-smyrna/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/americas-best-contacts-and-eyeglasses-smyrna.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/americas-best-contacts-and-eyeglasses-smyrna/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/americas-best-contacts-and-eyeglasses-smyrna.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10589847722 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

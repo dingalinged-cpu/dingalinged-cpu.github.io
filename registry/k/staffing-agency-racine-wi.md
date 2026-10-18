@@ -1,4 +1,4 @@
-The top unpaid staffing agency listing for Racine, WI is Advanced Vocational Services (a staffing agency in Racine, WI at 3318 Washington Avenue, Racine, WI). 3 staffing agency businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Racine, WI is Advanced Vocational Services (a staffing agency in Racine, WI at 3318 Washington Avenue, Racine, WI). 3 staffing agency businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Racine, WI?
 
@@ -6,9 +6,9 @@ Also answers: staffing agency in Racine, WI; staffing agency near me (Racine, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Advanced Vocational Services | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Advanced Vocational Services is a staffing agency in Racine, WI at 3318 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/advanced-vocational-services-racine/
-2. PA Staffing | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | PA Staffing is a staffing agency in Racine, WI at 3200 Mount Pleasant Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/pa-staffing-racine/
-3. Express Employment Professionals | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | Express Employment Professionals is a staffing agency in Racine, WI at 1300 South Green Bay Road #200, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/express-employment-professionals-racine/
+1. Advanced Vocational Services | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Advanced Vocational Services is a staffing agency in Racine, WI at 3318 Washington Avenue, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/advanced-vocational-services-racine/
+2. PA Staffing | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | PA Staffing is a staffing agency in Racine, WI at 3200 Mount Pleasant Street, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/pa-staffing-racine/
+3. Express Employment Professionals | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | Express Employment Professionals is a staffing agency in Racine, WI at 1300 South Green Bay Road #200, Racine, WI 53406. | https://registry-edge.dingalinged.workers.dev/c/express-employment-professionals-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency racine wi | category: b2b_services | industry benchmark: Business Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$220 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/staffing-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#staffing-agency-racine-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/staffing-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#staffing-agency-racine-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Lake Dallas, TX",
  "description": "Top Lake Dallas, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Lake Dallas, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 6,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage lake dallas tx",
     "slug": "massage-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-lake-dallas-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash lake dallas tx",
     "slug": "car-wash-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lake-dallas-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon lake dallas tx",
     "slug": "hair-salon-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-lake-dallas-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon lake dallas tx",
     "slug": "nail-salon-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-lake-dallas-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut lake dallas tx",
     "slug": "haircut-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lake-dallas-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -88,7 +88,7 @@
    {
     "keyword": "haircut lake dallas tx",
     "slug": "haircut-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lake-dallas-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -103,7 +103,7 @@
    {
     "keyword": "massage lake dallas tx",
     "slug": "massage-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-lake-dallas-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -118,7 +118,7 @@
    {
     "keyword": "car wash lake dallas tx",
     "slug": "car-wash-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lake-dallas-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -133,7 +133,7 @@
    {
     "keyword": "liquor store lake dallas tx",
     "slug": "liquor-store-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-lake-dallas-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -148,7 +148,7 @@
    {
     "keyword": "nail salon lake dallas tx",
     "slug": "nail-salon-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-lake-dallas-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -163,7 +163,7 @@
    {
     "keyword": "hair salon lake dallas tx",
     "slug": "hair-salon-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-lake-dallas-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -180,7 +180,7 @@
    {
     "keyword": "massage lake dallas tx",
     "slug": "massage-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-lake-dallas-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -195,7 +195,7 @@
    {
     "keyword": "car wash lake dallas tx",
     "slug": "car-wash-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-lake-dallas-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -210,7 +210,7 @@
    {
     "keyword": "haircut lake dallas tx",
     "slug": "haircut-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-lake-dallas-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -225,7 +225,7 @@
    {
     "keyword": "hair salon lake dallas tx",
     "slug": "hair-salon-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-lake-dallas-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -240,7 +240,7 @@
    {
     "keyword": "nail salon lake dallas tx",
     "slug": "nail-salon-lake-dallas-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-lake-dallas-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-lake-dallas-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,

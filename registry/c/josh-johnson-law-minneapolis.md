@@ -13,12 +13,12 @@ Josh Johnson Law is a lawyer in Minneapolis, MN at 310 4th Avenue South #7000, M
 - Website: https://joshjohnsonlaw.com/
 - Email: admin@joshjohnsonlaw.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of lawyers in Minneapolis–St. Paul, #2 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of lawyers in Minneapolis–St. Paul, #2 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/josh-johnson-law-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/josh-johnson-law-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/josh-johnson-law-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/josh-johnson-law-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12993848296 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

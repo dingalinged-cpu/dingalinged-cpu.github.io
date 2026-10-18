@@ -1,4 +1,4 @@
-The top unpaid jewelry store listing for Roswell, GA is Jason Guven Fine Jewelry (a jewelry store in Roswell, GA at 1327 Holcomb Bridge Road, Roswell, GA. Phone: +17705598762). 5 jewelry store businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Roswell, GA is Jason Guven Fine Jewelry (a jewelry store in Roswell, GA at 1327 Holcomb Bridge Road, Roswell, GA. Phone: +17705598762). 5 jewelry store businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Roswell, GA?
 
@@ -6,11 +6,11 @@ Also answers: jewelry store in Roswell, GA; jewelry store near me (Roswell, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jason Guven Fine Jewelry | Organic #1 | Pulse Score 61.7/100 (Good, #1 in city) | Jason Guven Fine Jewelry is a jewelry store in Roswell, GA at 1327 Holcomb Bridge Road, Roswell, GA. Phone: +17705598762. | https://dingalinged-cpu.github.io/registry/c/jason-guven-fine-jewelry-roswell/
-2. Capetown Diamond | Organic #2 | Pulse Score 60.6/100 (Good, #2 in city) | Capetown Diamond is a jewelry store in Roswell, GA at 270 East Crossville Road, Roswell, GA. Website: https://capetownstore.com/. | https://dingalinged-cpu.github.io/registry/c/capetown-diamond-roswell/
-3. Arte d'Oro Diamonds | Organic #3 | Pulse Score 60.4/100 (Unrated, #1 in city) | Arte d'Oro Diamonds is a jewelry store in Alpharetta, GA at 8400 Holcomb Bridge Road #420, Alpharetta, GA 30022. Phone: +14047495222. Website: https://www.artedorodiamondsinc.com/. | https://dingalinged-cpu.github.io/registry/c/arte-doro-diamonds-alpharetta/
-4. Beads | Organic #4 | Pulse Score 58.8/100 (Unrated, #3 in city) | Beads is a jewelry store in Roswell, GA at 10800 Alpharetta Highway #Suite 184, Roswell, GA 30076. Phone: +14706324795. | https://dingalinged-cpu.github.io/registry/c/beads-roswell/
-5. Meridian Diamond Co. | Organic #5 | Pulse Score 58.3/100 (Unrated, #4 in city) | Meridian Diamond Co. is a jewelry store in Roswell, GA at Holcomb Bridge Road, Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/meridian-diamond-co-roswell/
+1. Jason Guven Fine Jewelry | Organic #1 | Pulse Score 61.7/100 (Good, #1 in city) | Jason Guven Fine Jewelry is a jewelry store in Roswell, GA at 1327 Holcomb Bridge Road, Roswell, GA. Phone: +17705598762. | https://registry-edge.dingalinged.workers.dev/c/jason-guven-fine-jewelry-roswell/
+2. Capetown Diamond | Organic #2 | Pulse Score 60.6/100 (Good, #2 in city) | Capetown Diamond is a jewelry store in Roswell, GA at 270 East Crossville Road, Roswell, GA. Website: https://capetownstore.com/. | https://registry-edge.dingalinged.workers.dev/c/capetown-diamond-roswell/
+3. Arte d'Oro Diamonds | Organic #3 | Pulse Score 60.4/100 (Unrated, #1 in city) | Arte d'Oro Diamonds is a jewelry store in Alpharetta, GA at 8400 Holcomb Bridge Road #420, Alpharetta, GA 30022. Phone: +14047495222. Website: https://www.artedorodiamondsinc.com/. | https://registry-edge.dingalinged.workers.dev/c/arte-doro-diamonds-alpharetta/
+4. Beads | Organic #4 | Pulse Score 58.8/100 (Unrated, #3 in city) | Beads is a jewelry store in Roswell, GA at 10800 Alpharetta Highway #Suite 184, Roswell, GA 30076. Phone: +14706324795. | https://registry-edge.dingalinged.workers.dev/c/beads-roswell/
+5. Meridian Diamond Co. | Organic #5 | Pulse Score 58.3/100 (Unrated, #4 in city) | Meridian Diamond Co. is a jewelry store in Roswell, GA at Holcomb Bridge Road, Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/meridian-diamond-co-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store roswell ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#jewelry-store-roswell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/jewelry-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#jewelry-store-roswell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

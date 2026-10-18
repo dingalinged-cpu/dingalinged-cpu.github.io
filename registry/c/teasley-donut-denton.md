@@ -13,12 +13,12 @@ Teasley Donut is a bakery in Denton, TX at 1776 Teasley Lane, Denton, TX 76205. 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 05:00-12:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 17% of bakerys in Dallas–Fort Worth, #2 of 5 bakerys in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 17% of bakerys in Dallas–Fort Worth, #2 of 5 bakerys in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/teasley-donut-denton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/teasley-donut-denton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/teasley-donut-denton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/teasley-donut-denton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2699118370 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

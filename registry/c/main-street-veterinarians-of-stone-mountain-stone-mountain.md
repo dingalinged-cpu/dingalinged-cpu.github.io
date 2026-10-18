@@ -13,12 +13,12 @@ Main Street Veterinarians of Stone Mountain is a veterinarian in Stone Mountain,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Atlanta, #1 of 3 veterinarians in Stone Mountain (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 50% of veterinarians in Atlanta, #1 of 3 veterinarians in Stone Mountain (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 49.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/main-street-veterinarians-of-stone-mountain-stone-mountain/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/main-street-veterinarians-of-stone-mountain-stone-mountain.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/main-street-veterinarians-of-stone-mountain-stone-mountain/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/main-street-veterinarians-of-stone-mountain-stone-mountain.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/102639622 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid car inspection listing for Atlanta, GA is All Season Emission (a vehicle inspection station in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +14048490657). 3 car inspection businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car inspection listing for Atlanta, GA is All Season Emission (a vehicle inspection station in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +14048490657). 3 car inspection businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car inspection providers in Atlanta, GA?
 
@@ -6,9 +6,9 @@ Also answers: car inspection in Atlanta, GA; car inspection near me (Atlanta, GA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Season Emission | Organic #1 | Pulse Score 57.7/100 (Fair, #1 in city) | All Season Emission is a vehicle inspection station in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +14048490657. | https://dingalinged-cpu.github.io/registry/c/all-season-emission-atlanta/
-2. Emissions | Organic #2 | Pulse Score 56.3/100 (Fair, #2 in city) | Emissions is a vehicle inspection station in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/emissions-atlanta/
-3. DEKRA Emissions & Safety | Organic #3 | Pulse Score 48.8/100 (Building, #3 in city) | DEKRA Emissions & Safety is a vehicle inspection station in Atlanta, GA at 1180 Collier Road Northwest, Atlanta, GA. Phone: +14043513062. Website: https://www.dekra.us/en/georgia/atlanta-1180-collier-rd/. | https://dingalinged-cpu.github.io/registry/c/dekra-emissions-and-safety-atlanta/
+1. All Season Emission | Organic #1 | Pulse Score 57.7/100 (Fair, #1 in city) | All Season Emission is a vehicle inspection station in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +14048490657. | https://registry-edge.dingalinged.workers.dev/c/all-season-emission-atlanta/
+2. Emissions | Organic #2 | Pulse Score 56.3/100 (Fair, #2 in city) | Emissions is a vehicle inspection station in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/emissions-atlanta/
+3. DEKRA Emissions & Safety | Organic #3 | Pulse Score 48.8/100 (Building, #3 in city) | DEKRA Emissions & Safety is a vehicle inspection station in Atlanta, GA at 1180 Collier Road Northwest, Atlanta, GA. Phone: +14043513062. Website: https://www.dekra.us/en/georgia/atlanta-1180-collier-rd/. | https://registry-edge.dingalinged.workers.dev/c/dekra-emissions-and-safety-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection atlanta ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$410 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-inspection.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-inspection-atlanta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-inspection.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-inspection-atlanta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

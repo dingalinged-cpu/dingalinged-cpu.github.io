@@ -1,4 +1,4 @@
-The top unpaid storage units listing for Des Plaines, IL is U-Haul (a self-storage facility in Des Plaines, IL at 1560 South Mount Prospect Road, Des Plaines, IL 60018. Phone: +18472981170). 7 storage units businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Des Plaines, IL is U-Haul (a self-storage facility in Des Plaines, IL at 1560 South Mount Prospect Road, Des Plaines, IL 60018. Phone: +18472981170). 7 storage units businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Des Plaines, IL?
 
@@ -6,13 +6,13 @@ Also answers: storage units in Des Plaines, IL; storage units near me (Des Plain
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. U-Haul | Organic #1 | Pulse Score 49.7/100 (Building, #1 in city) | U-Haul is a self-storage facility in Des Plaines, IL at 1560 South Mount Prospect Road, Des Plaines, IL 60018. Phone: +18472981170. | https://dingalinged-cpu.github.io/registry/c/u-haul-des-plaines-w406781479/
-2. Safeguard Self Storage | Organic #2 | Pulse Score 44.8/100 (Unrated, #2 in city) | Safeguard Self Storage is a self-storage facility in Des Plaines, IL at 2020 Mannheim Road, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/safeguard-self-storage-des-plaines/
-3. Extra Space Storage | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | Extra Space Storage is a self-storage facility in Des Plaines, IL at 2074 Mannheim Road, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-des-plaines/
-4. Metro Self Storage | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | Metro Self Storage is a self-storage facility in Des Plaines, IL at 1800 Busse Highway, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/metro-self-storage-des-plaines/
-5. Public Storage | Organic #5 | Pulse Score 43.6/100 (Building, #5 in city) | Public Storage is a self-storage facility in Des Plaines, IL at 1723 Busse Highway, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/public-storage-des-plaines/
-6. CubeSmart | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | CubeSmart is a self-storage facility in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/cubesmart-des-plaines/
-7. U-Haul | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | U-Haul is a self-storage facility in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/u-haul-des-plaines/
+1. U-Haul | Organic #1 | Pulse Score 49.7/100 (Building, #1 in city) | U-Haul is a self-storage facility in Des Plaines, IL at 1560 South Mount Prospect Road, Des Plaines, IL 60018. Phone: +18472981170. | https://registry-edge.dingalinged.workers.dev/c/u-haul-des-plaines-w406781479/
+2. Safeguard Self Storage | Organic #2 | Pulse Score 44.8/100 (Unrated, #2 in city) | Safeguard Self Storage is a self-storage facility in Des Plaines, IL at 2020 Mannheim Road, Des Plaines, IL 60018. | https://registry-edge.dingalinged.workers.dev/c/safeguard-self-storage-des-plaines/
+3. Extra Space Storage | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | Extra Space Storage is a self-storage facility in Des Plaines, IL at 2074 Mannheim Road, Des Plaines, IL 60018. | https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-des-plaines/
+4. Metro Self Storage | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | Metro Self Storage is a self-storage facility in Des Plaines, IL at 1800 Busse Highway, Des Plaines, IL 60016. | https://registry-edge.dingalinged.workers.dev/c/metro-self-storage-des-plaines/
+5. Public Storage | Organic #5 | Pulse Score 43.6/100 (Building, #5 in city) | Public Storage is a self-storage facility in Des Plaines, IL at 1723 Busse Highway, Des Plaines, IL 60016. | https://registry-edge.dingalinged.workers.dev/c/public-storage-des-plaines/
+6. CubeSmart | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | CubeSmart is a self-storage facility in Des Plaines, IL. | https://registry-edge.dingalinged.workers.dev/c/cubesmart-des-plaines/
+7. U-Haul | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | U-Haul is a self-storage facility in Des Plaines, IL. | https://registry-edge.dingalinged.workers.dev/c/u-haul-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units des plaines il | category: Home services - Moving | industry benchmark: Home & Home Improvement
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/storage-units.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#storage-units-des-plaines-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/storage-units.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#storage-units-des-plaines-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

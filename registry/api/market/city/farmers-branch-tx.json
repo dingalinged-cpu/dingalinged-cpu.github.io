@@ -2,7 +2,7 @@
  "title": "Keyword market data: Farmers Branch, TX",
  "description": "Top Farmers Branch, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Farmers Branch, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 35,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash farmers branch tx",
     "slug": "car-wash-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-farmers-branch-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist farmers branch tx",
     "slug": "dentist-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-farmers-branch-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym farmers branch tx",
     "slug": "gym-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-farmers-branch-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon farmers branch tx",
     "slug": "hair-salon-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-farmers-branch-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic farmers branch tx",
     "slug": "mechanic-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-farmers-branch-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -86,7 +86,7 @@
    {
     "keyword": "vet farmers branch tx",
     "slug": "vet-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-farmers-branch-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -101,7 +101,7 @@
    {
     "keyword": "dog groomer farmers branch tx",
     "slug": "dog-groomer-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-farmers-branch-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut farmers branch tx",
     "slug": "haircut-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-farmers-branch-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair farmers branch tx",
     "slug": "auto-repair-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-farmers-branch-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -146,7 +146,7 @@
    {
     "keyword": "locksmith farmers branch tx",
     "slug": "locksmith-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-farmers-branch-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -161,7 +161,7 @@
    {
     "keyword": "roofing contractor farmers branch tx",
     "slug": "roofing-contractor-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-farmers-branch-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agency farmers branch tx",
     "slug": "insurance-agency-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-farmers-branch-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -191,7 +191,7 @@
    {
     "keyword": "attorney farmers branch tx",
     "slug": "attorney-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-farmers-branch-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -206,7 +206,7 @@
    {
     "keyword": "tax preparation farmers branch tx",
     "slug": "tax-preparation-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-farmers-branch-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -221,7 +221,7 @@
    {
     "keyword": "auto body shop farmers branch tx",
     "slug": "auto-body-shop-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-farmers-branch-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -238,7 +238,7 @@
    {
     "keyword": "roofing contractor farmers branch tx",
     "slug": "roofing-contractor-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-farmers-branch-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofer farmers branch tx",
     "slug": "roofer-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-farmers-branch-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -268,7 +268,7 @@
    {
     "keyword": "attorney farmers branch tx",
     "slug": "attorney-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-farmers-branch-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -283,7 +283,7 @@
    {
     "keyword": "lawyer farmers branch tx",
     "slug": "lawyer-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-farmers-branch-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -298,7 +298,7 @@
    {
     "keyword": "locksmith farmers branch tx",
     "slug": "locksmith-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-farmers-branch-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "storage units farmers branch tx",
     "slug": "storage-units-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-farmers-branch-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -328,7 +328,7 @@
    {
     "keyword": "tax preparer farmers branch tx",
     "slug": "tax-preparer-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-farmers-branch-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -343,7 +343,7 @@
    {
     "keyword": "daycare farmers branch tx",
     "slug": "daycare-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-farmers-branch-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -358,7 +358,7 @@
    {
     "keyword": "preschool farmers branch tx",
     "slug": "preschool-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-farmers-branch-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -373,7 +373,7 @@
    {
     "keyword": "eye doctor farmers branch tx",
     "slug": "eye-doctor-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-farmers-branch-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "physical therapy farmers branch tx",
     "slug": "physical-therapy-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-farmers-branch-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -403,7 +403,7 @@
    {
     "keyword": "dentist farmers branch tx",
     "slug": "dentist-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-farmers-branch-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -418,7 +418,7 @@
    {
     "keyword": "haircut farmers branch tx",
     "slug": "haircut-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-farmers-branch-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -433,7 +433,7 @@
    {
     "keyword": "auto body shop farmers branch tx",
     "slug": "auto-body-shop-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-farmers-branch-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -448,7 +448,7 @@
    {
     "keyword": "auto repair farmers branch tx",
     "slug": "auto-repair-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-farmers-branch-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist farmers branch tx",
     "slug": "dentist-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-farmers-branch-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash farmers branch tx",
     "slug": "car-wash-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-farmers-branch-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym farmers branch tx",
     "slug": "gym-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-farmers-branch-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic farmers branch tx",
     "slug": "mechanic-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-farmers-branch-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -525,7 +525,7 @@
    {
     "keyword": "vet farmers branch tx",
     "slug": "vet-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-farmers-branch-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -540,7 +540,7 @@
    {
     "keyword": "locksmith farmers branch tx",
     "slug": "locksmith-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-farmers-branch-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -555,7 +555,7 @@
    {
     "keyword": "dog groomer farmers branch tx",
     "slug": "dog-groomer-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-farmers-branch-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut farmers branch tx",
     "slug": "haircut-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-farmers-branch-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -585,7 +585,7 @@
    {
     "keyword": "roofing contractor farmers branch tx",
     "slug": "roofing-contractor-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-farmers-branch-tx/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair farmers branch tx",
     "slug": "auto-repair-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-farmers-branch-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -615,7 +615,7 @@
    {
     "keyword": "hair salon farmers branch tx",
     "slug": "hair-salon-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-farmers-branch-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -630,7 +630,7 @@
    {
     "keyword": "attorney farmers branch tx",
     "slug": "attorney-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-farmers-branch-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -645,7 +645,7 @@
    {
     "keyword": "roofer farmers branch tx",
     "slug": "roofer-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-farmers-branch-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -660,7 +660,7 @@
    {
     "keyword": "lawyer farmers branch tx",
     "slug": "lawyer-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-farmers-branch-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -675,7 +675,7 @@
    {
     "keyword": "tax preparer farmers branch tx",
     "slug": "tax-preparer-farmers-branch-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-farmers-branch-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-farmers-branch-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,

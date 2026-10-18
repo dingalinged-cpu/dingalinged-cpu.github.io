@@ -13,12 +13,12 @@ Elegante Salon & Day Spa is a hair salon in Naperville, IL at 15 South Naper Bou
 - Website: https://www.elegantesalons-spas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of hair salons in Chicago, #14 of 32 hair salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of hair salons in Chicago, #14 of 32 hair salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/elegante-salon-and-day-spa-naperville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/elegante-salon-and-day-spa-naperville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/elegante-salon-and-day-spa-naperville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/elegante-salon-and-day-spa-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1421473660 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

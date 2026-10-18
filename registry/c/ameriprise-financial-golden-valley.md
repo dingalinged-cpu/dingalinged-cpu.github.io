@@ -13,12 +13,12 @@ Ameriprise Financial is a financial advisor in Golden Valley, MN at 8325 Wayzata
 - Website: https://www.ameripriseadvisors.com/team/hagan-and-associates/?cid=IP_local_google
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 59% of financial advisors in Minneapolis–St. Paul, #1 of 1 financial advisors in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 59% of financial advisors in Minneapolis–St. Paul, #1 of 1 financial advisors in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ameriprise-financial-golden-valley/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ameriprise-financial-golden-valley.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ameriprise-financial-golden-valley/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ameriprise-financial-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11135236908 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

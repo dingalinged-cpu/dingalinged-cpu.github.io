@@ -13,12 +13,12 @@ Gretna Family Dentistry is a dentist in Gretna, NE at 12150 South 216th Plaza, G
 - Website: https://midlandsdentalgroup.com/locations-gretna_family_dentistry.php
 - Email: n/a
 - Opening hours (OSM syntax): Tu 08:00-19:00; We-Fr 08:00-17:00; Sa 08:00-12:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of dentists in Omaha, NE, #1 of 2 dentists in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of dentists in Omaha, NE, #1 of 2 dentists in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 61.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/gretna-family-dentistry-gretna/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gretna-family-dentistry-gretna.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gretna-family-dentistry-gretna/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gretna-family-dentistry-gretna.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4455917917 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

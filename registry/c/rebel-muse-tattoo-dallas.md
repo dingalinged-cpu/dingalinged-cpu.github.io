@@ -13,12 +13,12 @@ Rebel Muse Tattoo is a tattoo shop in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 98% of tattoo shops in Dallas–Fort Worth, #20 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 39.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.7/100 — Unrated (not enough evidence yet) — top 98% of tattoo shops in Dallas–Fort Worth, #20 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 39.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/rebel-muse-tattoo-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rebel-muse-tattoo-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rebel-muse-tattoo-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rebel-muse-tattoo-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12004772278 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

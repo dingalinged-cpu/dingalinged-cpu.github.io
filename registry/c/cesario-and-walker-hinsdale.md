@@ -13,12 +13,12 @@ Cesario & Walker is a lawyer in Hinsdale, IL at 211 West. Chicago Avenue #118, H
 - Website: https://cesariowalker.com/
 - Email: dan@cesariowalker.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa, Su off
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Chicago, #1 of 1 lawyers in Hinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Chicago, #1 of 1 lawyers in Hinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cesario-and-walker-hinsdale/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cesario-and-walker-hinsdale.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cesario-and-walker-hinsdale/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cesario-and-walker-hinsdale.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7150397260 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

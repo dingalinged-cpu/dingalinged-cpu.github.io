@@ -1,4 +1,4 @@
-The top unpaid jewelry store listing for West Allis, WI is JRS Jewelry Repair Shop (a jewelry store in West Allis, WI at 7239 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142596050. Website: https://jrsbuygold.com/). 3 jewelry store businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for West Allis, WI is JRS Jewelry Repair Shop (a jewelry store in West Allis, WI at 7239 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142596050. Website: https://jrsbuygold.com/). 3 jewelry store businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in West Allis, WI?
 
@@ -6,9 +6,9 @@ Also answers: jewelry store in West Allis, WI; jewelry store near me (West Allis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JRS Jewelry Repair Shop | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | JRS Jewelry Repair Shop is a jewelry store in West Allis, WI at 7239 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142596050. Website: https://jrsbuygold.com/. | https://dingalinged-cpu.github.io/registry/c/jrs-jewelry-repair-shop-west-allis/
-2. Dianne's Designs | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Dianne's Designs is a jewelry store in West Allis, WI at 7344 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147747500. Website: https://dianesdesignsjewelryandwatchrepairwestalliswisconsn.com/addr:city=West Allis. | https://dingalinged-cpu.github.io/registry/c/diannes-designs-west-allis/
-3. JP-Haase Jewelers | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | JP-Haase Jewelers is a jewelry store in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/jp-haase-jewelers-west-allis/
+1. JRS Jewelry Repair Shop | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | JRS Jewelry Repair Shop is a jewelry store in West Allis, WI at 7239 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142596050. Website: https://jrsbuygold.com/. | https://registry-edge.dingalinged.workers.dev/c/jrs-jewelry-repair-shop-west-allis/
+2. Dianne's Designs | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Dianne's Designs is a jewelry store in West Allis, WI at 7344 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147747500. Website: https://dianesdesignsjewelryandwatchrepairwestalliswisconsn.com/addr:city=West Allis. | https://registry-edge.dingalinged.workers.dev/c/diannes-designs-west-allis/
+3. JP-Haase Jewelers | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | JP-Haase Jewelers is a jewelry store in West Allis, WI. | https://registry-edge.dingalinged.workers.dev/c/jp-haase-jewelers-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store west allis wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$240 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#jewelry-store-west-allis-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/jewelry-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#jewelry-store-west-allis-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

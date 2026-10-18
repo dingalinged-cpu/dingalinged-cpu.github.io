@@ -13,12 +13,12 @@ ProCare Medical Group South Clinic is a family medicine practice in West Allis, 
 - Website: https://procaremed.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa 08:00-12:00
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Milwaukee, #1 of 1 family medicine practices in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 52.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Milwaukee, #1 of 1 family medicine practices in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/procare-medical-group-south-clinic-west-allis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/procare-medical-group-south-clinic-west-allis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/procare-medical-group-south-clinic-west-allis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/procare-medical-group-south-clinic-west-allis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13504489454 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

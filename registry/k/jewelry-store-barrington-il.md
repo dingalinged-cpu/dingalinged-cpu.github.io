@@ -1,4 +1,4 @@
-The top unpaid jewelry store listing for Barrington, IL is MJ Miller & Co (a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010). 3 jewelry store businesses are listed for Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Barrington, IL is MJ Miller & Co (a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010). 3 jewelry store businesses are listed for Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Barrington, IL?
 
@@ -6,9 +6,9 @@ Also answers: jewelry store in Barrington, IL; jewelry store near me (Barrington
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MJ Miller & Co | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | MJ Miller & Co is a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/mj-miller-and-co-barrington/
-2. Catchpenny | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Catchpenny is a jewelry store in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/catchpenny-barrington/
-3. Long & Company Jewelers | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Long & Company Jewelers is a jewelry store in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/long-and-company-jewelers-barrington/
+1. MJ Miller & Co | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | MJ Miller & Co is a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010. | https://registry-edge.dingalinged.workers.dev/c/mj-miller-and-co-barrington/
+2. Catchpenny | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Catchpenny is a jewelry store in Barrington, IL. | https://registry-edge.dingalinged.workers.dev/c/catchpenny-barrington/
+3. Long & Company Jewelers | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Long & Company Jewelers is a jewelry store in Barrington, IL. | https://registry-edge.dingalinged.workers.dev/c/long-and-company-jewelers-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store barrington il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#jewelry-store-barrington-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/jewelry-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#jewelry-store-barrington-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

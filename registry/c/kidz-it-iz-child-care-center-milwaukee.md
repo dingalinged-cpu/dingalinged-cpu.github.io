@@ -13,12 +13,12 @@ Kidz It Iz Child Care Center is a preschool in Milwaukee, WI at 2378 North Docto
 - Website: https://www.kidzitizccc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-24:00; Sa-Su 06:00-19:30
-- Pulse Score: 64.8/100 — Good — top 4% of preschools in Milwaukee, #1 of 19 preschools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 66.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 4% of preschools in Milwaukee, #1 of 19 preschools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 66.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/kidz-it-iz-child-care-center-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kidz-it-iz-child-care-center-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kidz-it-iz-child-care-center-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kidz-it-iz-child-care-center-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/446223672 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ River Nails is a nail salon in Marietta, GA at 1205 Johnson Ferry Road Northeast
 - Website: https://rivernailssalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-19:30; Su 12:00-18:00
-- Pulse Score: 65.1/100 — Good — top 3% of nail salons in Atlanta, #2 of 17 nail salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.7, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 3% of nail salons in Atlanta, #2 of 17 nail salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.7, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/river-nails-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/river-nails-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/river-nails-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/river-nails-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9571731025 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

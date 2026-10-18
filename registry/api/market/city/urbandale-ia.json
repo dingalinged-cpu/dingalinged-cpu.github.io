@@ -2,7 +2,7 @@
  "title": "Keyword market data: Urbandale, IA",
  "description": "Top Urbandale, IA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Urbandale, IA",
  "geography": "Des Moines-West Des Moines, IA metro",
  "keywords": 53,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash urbandale ia",
     "slug": "car-wash-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-urbandale-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist urbandale ia",
     "slug": "dentist-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-urbandale-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym urbandale ia",
     "slug": "gym-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-urbandale-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon urbandale ia",
     "slug": "hair-salon-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-urbandale-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -71,7 +71,7 @@
    {
     "keyword": "barber shop urbandale ia",
     "slug": "barber-shop-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-urbandale-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic urbandale ia",
     "slug": "mechanic-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-urbandale-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop urbandale ia",
     "slug": "tire-shop-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-urbandale-ia/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -116,7 +116,7 @@
    {
     "keyword": "vet urbandale ia",
     "slug": "vet-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-urbandale-ia/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -131,7 +131,7 @@
    {
     "keyword": "haircut urbandale ia",
     "slug": "haircut-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-urbandale-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -146,7 +146,7 @@
    {
     "keyword": "auto repair urbandale ia",
     "slug": "auto-repair-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-urbandale-ia/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -161,7 +161,7 @@
    {
     "keyword": "chiropractor urbandale ia",
     "slug": "chiropractor-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-urbandale-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -176,7 +176,7 @@
    {
     "keyword": "dog boarding urbandale ia",
     "slug": "dog-boarding-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-urbandale-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -191,7 +191,7 @@
    {
     "keyword": "real estate agent urbandale ia",
     "slug": "real-estate-agent-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-urbandale-ia/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -206,7 +206,7 @@
    {
     "keyword": "roofing contractor urbandale ia",
     "slug": "roofing-contractor-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-urbandale-ia/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agency urbandale ia",
     "slug": "insurance-agency-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-urbandale-ia/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -238,7 +238,7 @@
    {
     "keyword": "roofing contractor urbandale ia",
     "slug": "roofing-contractor-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-urbandale-ia/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofer urbandale ia",
     "slug": "roofer-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-urbandale-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -268,7 +268,7 @@
    {
     "keyword": "attorney urbandale ia",
     "slug": "attorney-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-urbandale-ia/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -283,7 +283,7 @@
    {
     "keyword": "lawyer urbandale ia",
     "slug": "lawyer-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-urbandale-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -298,7 +298,7 @@
    {
     "keyword": "flooring companies urbandale ia",
     "slug": "flooring-companies-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-urbandale-ia/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 40.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "storage units urbandale ia",
     "slug": "storage-units-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-urbandale-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -328,7 +328,7 @@
    {
     "keyword": "bakery urbandale ia",
     "slug": "bakery-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-urbandale-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -343,7 +343,7 @@
    {
     "keyword": "florist urbandale ia",
     "slug": "florist-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-urbandale-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -358,7 +358,7 @@
    {
     "keyword": "photographer urbandale ia",
     "slug": "photographer-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-urbandale-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -373,7 +373,7 @@
    {
     "keyword": "dance studio urbandale ia",
     "slug": "dance-studio-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-urbandale-ia/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "martial arts urbandale ia",
     "slug": "martial-arts-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-urbandale-ia/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 670,
@@ -403,7 +403,7 @@
    {
     "keyword": "tax preparer urbandale ia",
     "slug": "tax-preparer-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-urbandale-ia/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -418,7 +418,7 @@
    {
     "keyword": "daycare urbandale ia",
     "slug": "daycare-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-urbandale-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -433,7 +433,7 @@
    {
     "keyword": "preschool urbandale ia",
     "slug": "preschool-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-urbandale-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -448,7 +448,7 @@
    {
     "keyword": "assisted living urbandale ia",
     "slug": "assisted-living-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-urbandale-ia/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 490,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist urbandale ia",
     "slug": "dentist-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-urbandale-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash urbandale ia",
     "slug": "car-wash-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-urbandale-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym urbandale ia",
     "slug": "gym-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-urbandale-ia/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic urbandale ia",
     "slug": "mechanic-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-urbandale-ia/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop urbandale ia",
     "slug": "tire-shop-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-urbandale-ia/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet urbandale ia",
     "slug": "vet-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-urbandale-ia/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut urbandale ia",
     "slug": "haircut-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-urbandale-ia/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -570,7 +570,7 @@
    {
     "keyword": "roofing contractor urbandale ia",
     "slug": "roofing-contractor-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-urbandale-ia/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 300,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair urbandale ia",
     "slug": "auto-repair-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-urbandale-ia/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -600,7 +600,7 @@
    {
     "keyword": "chiropractor urbandale ia",
     "slug": "chiropractor-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-urbandale-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -615,7 +615,7 @@
    {
     "keyword": "dog boarding urbandale ia",
     "slug": "dog-boarding-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-urbandale-ia/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -630,7 +630,7 @@
    {
     "keyword": "hair salon urbandale ia",
     "slug": "hair-salon-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-urbandale-ia/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -645,7 +645,7 @@
    {
     "keyword": "attorney urbandale ia",
     "slug": "attorney-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-urbandale-ia/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -660,7 +660,7 @@
    {
     "keyword": "real estate agent urbandale ia",
     "slug": "real-estate-agent-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-urbandale-ia/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -675,7 +675,7 @@
    {
     "keyword": "roofer urbandale ia",
     "slug": "roofer-urbandale-ia",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-urbandale-ia/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-urbandale-ia/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,

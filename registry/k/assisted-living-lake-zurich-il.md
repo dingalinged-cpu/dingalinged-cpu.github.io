@@ -1,4 +1,4 @@
-The top unpaid assisted living listing for Lake Zurich, IL is Avantara (an assisted living facility in Lake Zurich, IL). 3 assisted living businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Lake Zurich, IL is Avantara (an assisted living facility in Lake Zurich, IL). 3 assisted living businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Lake Zurich, IL?
 
@@ -6,9 +6,9 @@ Also answers: assisted living in Lake Zurich, IL; assisted living near me (Lake 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Avantara | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Avantara is an assisted living facility in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/avantara-lake-zurich/
-2. The Auberge | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | The Auberge is an assisted living facility in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/the-auberge-lake-zurich/
-3. Zurich Meadows Senior Apartments | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Zurich Meadows Senior Apartments is an assisted living facility in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/zurich-meadows-senior-apartments-lake-zurich/
+1. Avantara | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Avantara is an assisted living facility in Lake Zurich, IL. | https://registry-edge.dingalinged.workers.dev/c/avantara-lake-zurich/
+2. The Auberge | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | The Auberge is an assisted living facility in Lake Zurich, IL. | https://registry-edge.dingalinged.workers.dev/c/the-auberge-lake-zurich/
+3. Zurich Meadows Senior Apartments | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Zurich Meadows Senior Apartments is an assisted living facility in Lake Zurich, IL. | https://registry-edge.dingalinged.workers.dev/c/zurich-meadows-senior-apartments-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living lake zurich il | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/assisted-living.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#assisted-living-lake-zurich-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/assisted-living.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#assisted-living-lake-zurich-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

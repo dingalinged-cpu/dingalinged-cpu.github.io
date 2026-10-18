@@ -13,12 +13,12 @@ Indianola Family Dentistry is a dentist in Indianola, IA at 2000 North 4th Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 63% of dentists in Des Moines, IA, #1 of 1 dentists in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 63% of dentists in Des Moines, IA, #1 of 1 dentists in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/indianola-family-dentistry-indianola/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/indianola-family-dentistry-indianola.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/indianola-family-dentistry-indianola/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/indianola-family-dentistry-indianola.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/669021104 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

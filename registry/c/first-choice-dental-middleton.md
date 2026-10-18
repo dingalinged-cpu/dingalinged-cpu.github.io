@@ -13,12 +13,12 @@ First Choice Dental is a dentist in Middleton, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Unrated (not enough evidence yet) — top 91% of dentists in Madison, #3 of 3 dentists in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.5/100 — Unrated (not enough evidence yet) — top 91% of dentists in Madison, #3 of 3 dentists in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 42.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/first-choice-dental-middleton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/first-choice-dental-middleton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/first-choice-dental-middleton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/first-choice-dental-middleton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4200704147 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

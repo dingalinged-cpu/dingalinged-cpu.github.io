@@ -13,12 +13,12 @@ Texas Children's Pediatrics - Grand Avenue Parkway is a pediatrician in Sugar La
 - Website: https://www.texaschildrens.org/locations/texas-childrens-pediatrics/grand-parkway
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 12% of pediatricians in Houston, #1 of 1 pediatricians in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 12% of pediatricians in Houston, #1 of 1 pediatricians in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/texas-childrens-pediatrics-grand-avenue-parkway-sugar-land/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/texas-childrens-pediatrics-grand-avenue-parkway-sugar-land.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/texas-childrens-pediatrics-grand-avenue-parkway-sugar-land/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/texas-childrens-pediatrics-grand-avenue-parkway-sugar-land.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11945479097 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

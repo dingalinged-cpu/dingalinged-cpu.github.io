@@ -13,12 +13,12 @@ Shea's Random Treasures is a gift shop in Spring, TX at 318 Main Street #B, Spri
 - Website: https://sheas-random-treasures.square.site/
 - Email: sheasrandomtreasures@gmail.com
 - Opening hours (OSM syntax): Th-Fr 12:00-18:00; Sa 11:00-19:00; Su 12:00-16:00
-- Pulse Score: 65.2/100 — Good — top 1% of gift shops in Houston, #1 of 4 gift shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 67. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 1% of gift shops in Houston, #1 of 4 gift shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 67. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sheas-random-treasures-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sheas-random-treasures-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sheas-random-treasures-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sheas-random-treasures-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1216013708 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

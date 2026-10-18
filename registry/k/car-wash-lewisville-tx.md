@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Lewisville, TX is Clean-n-fresh (a car wash in Lewisville, TX). 9 car wash businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Lewisville, TX is Clean-n-fresh (a car wash in Lewisville, TX). 9 car wash businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Lewisville, TX?
 
@@ -6,15 +6,15 @@ Also answers: car wash in Lewisville, TX; car wash near me (Lewisville, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clean-n-fresh | Organic #1 | Pulse Score 62.9/100 (Good, #1 in city) | Clean-n-fresh is a car wash in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/clean-n-fresh-lewisville/
-2. 7-11 Car Wash | Organic #2 | Pulse Score 62.4/100 (Good, #2 in city) | 7-11 Car Wash is a car wash in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/7-11-car-wash-lewisville/
-3. Main Street Car Wash | Organic #3 | Pulse Score 59.5/100 (Unrated, #3 in city) | Main Street Car Wash is a car wash in Lewisville, TX at 1402 Farm to Market Road 1171, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/main-street-car-wash-lewisville/
-4. $1.00 Car Wash | Organic #4 | Pulse Score 58.4/100 (Fair, #4 in city) | $1.00 Car Wash is a car wash in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/1-00-car-wash-lewisville/
-5. Whitewater Express | Organic #5 | Pulse Score 50.2/100 (Fair, #5 in city) | Whitewater Express is a car wash in Lewisville, TX at East Round Grove Road, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/whitewater-express-lewisville/
-6. Scrub a Dub Car Wash | Organic #6 | Pulse Score 49.9/100 (Building, #6 in city) | Scrub a Dub Car Wash is a car wash in Lewisville, TX at 109 West Southwest Parkway, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-car-wash-lewisville/
-7. Carnation Auto Spa | Organic #7 | Pulse Score 47.6/100 (Unrated, #7 in city) | Carnation Auto Spa is a car wash in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/carnation-auto-spa-lewisville/
-8. Quick Quack Car Wash | Organic #8 | Pulse Score 46.8/100 (Building, #8 in city) | Quick Quack Car Wash is a car wash in Lewisville, TX at 780 Lakeside Circle, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-lewisville-w1529513743/
-9. Quick Quack Car Wash | Organic #9 | Pulse Score 46.5/100 (Building, #9 in city) | Quick Quack Car Wash is a car wash in Lewisville, TX at 101 South Business 121, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-lewisville/
+1. Clean-n-fresh | Organic #1 | Pulse Score 62.9/100 (Good, #1 in city) | Clean-n-fresh is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/clean-n-fresh-lewisville/
+2. 7-11 Car Wash | Organic #2 | Pulse Score 62.4/100 (Good, #2 in city) | 7-11 Car Wash is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/7-11-car-wash-lewisville/
+3. Main Street Car Wash | Organic #3 | Pulse Score 59.5/100 (Unrated, #3 in city) | Main Street Car Wash is a car wash in Lewisville, TX at 1402 Farm to Market Road 1171, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/main-street-car-wash-lewisville/
+4. $1.00 Car Wash | Organic #4 | Pulse Score 58.4/100 (Fair, #4 in city) | $1.00 Car Wash is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/1-00-car-wash-lewisville/
+5. Whitewater Express | Organic #5 | Pulse Score 50.2/100 (Fair, #5 in city) | Whitewater Express is a car wash in Lewisville, TX at East Round Grove Road, Lewisville, TX 75067. | https://registry-edge.dingalinged.workers.dev/c/whitewater-express-lewisville/
+6. Scrub a Dub Car Wash | Organic #6 | Pulse Score 49.9/100 (Building, #6 in city) | Scrub a Dub Car Wash is a car wash in Lewisville, TX at 109 West Southwest Parkway, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/scrub-a-dub-car-wash-lewisville/
+7. Carnation Auto Spa | Organic #7 | Pulse Score 47.6/100 (Unrated, #7 in city) | Carnation Auto Spa is a car wash in Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/carnation-auto-spa-lewisville/
+8. Quick Quack Car Wash | Organic #8 | Pulse Score 46.8/100 (Building, #8 in city) | Quick Quack Car Wash is a car wash in Lewisville, TX at 780 Lakeside Circle, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-lewisville-w1529513743/
+9. Quick Quack Car Wash | Organic #9 | Pulse Score 46.5/100 (Building, #9 in city) | Quick Quack Car Wash is a car wash in Lewisville, TX at 101 South Business 121, Lewisville, TX. | https://registry-edge.dingalinged.workers.dev/c/quick-quack-car-wash-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lewisville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -27,6 +27,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$11,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-lewisville-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-lewisville-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

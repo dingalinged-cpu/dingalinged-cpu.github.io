@@ -13,12 +13,12 @@ Purnell Insurance Agency: Allstate Insurance is an insurance agent in Garland, T
 - Website: https://agents.allstate.com/terrence-purnell-carrollton-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-16:00
-- Pulse Score: 50.9/100 — Fair — top 41% of insurance agents in Dallas–Fort Worth, #2 of 5 insurance agents in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 41% of insurance agents in Dallas–Fort Worth, #2 of 5 insurance agents in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/purnell-insurance-agency-allstate-insurance-garland/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/purnell-insurance-agency-allstate-insurance-garland.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/purnell-insurance-agency-allstate-insurance-garland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/purnell-insurance-agency-allstate-insurance-garland.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13152890264 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

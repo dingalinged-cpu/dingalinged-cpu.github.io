@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for Wilmette, IL is Heart Certified Auto Care (an auto repair shop in Wilmette, IL at 1201 Green Bay Road, Wilmette, IL 60091. Website: https://heartautocare.com/locations/wilmette/). 4 mechanic businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Wilmette, IL is Heart Certified Auto Care (an auto repair shop in Wilmette, IL at 1201 Green Bay Road, Wilmette, IL 60091. Website: https://heartautocare.com/locations/wilmette/). 4 mechanic businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Wilmette, IL?
 
@@ -6,10 +6,10 @@ Also answers: mechanic in Wilmette, IL; mechanic near me (Wilmette, IL); best me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heart Certified Auto Care | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Heart Certified Auto Care is an auto repair shop in Wilmette, IL at 1201 Green Bay Road, Wilmette, IL 60091. Website: https://heartautocare.com/locations/wilmette/. | https://dingalinged-cpu.github.io/registry/c/heart-certified-auto-care-wilmette/
-2. Hong King Auto Service | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Hong King Auto Service is an auto repair shop in Wilmette, IL at 3500 Lake Avenue, Wilmette, IL 60091. Website: https://www.hongkongautoservice.com/. | https://dingalinged-cpu.github.io/registry/c/hong-king-auto-service-wilmette/
-3. Shawnee Service Center | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Shawnee Service Center is an auto repair shop in Wilmette, IL at 332 Linden Avenue, Wilmette, IL 60091. Website: https://www.shawneeservicectr.com/. | https://dingalinged-cpu.github.io/registry/c/shawnee-service-center-wilmette/
-4. Jiffy Lube | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Jiffy Lube is an auto repair shop in Wilmette, IL at 1115 Green Bay Road, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-wilmette/
+1. Heart Certified Auto Care | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Heart Certified Auto Care is an auto repair shop in Wilmette, IL at 1201 Green Bay Road, Wilmette, IL 60091. Website: https://heartautocare.com/locations/wilmette/. | https://registry-edge.dingalinged.workers.dev/c/heart-certified-auto-care-wilmette/
+2. Hong King Auto Service | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Hong King Auto Service is an auto repair shop in Wilmette, IL at 3500 Lake Avenue, Wilmette, IL 60091. Website: https://www.hongkongautoservice.com/. | https://registry-edge.dingalinged.workers.dev/c/hong-king-auto-service-wilmette/
+3. Shawnee Service Center | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Shawnee Service Center is an auto repair shop in Wilmette, IL at 332 Linden Avenue, Wilmette, IL 60091. Website: https://www.shawneeservicectr.com/. | https://registry-edge.dingalinged.workers.dev/c/shawnee-service-center-wilmette/
+4. Jiffy Lube | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Jiffy Lube is an auto repair shop in Wilmette, IL at 1115 Green Bay Road, Wilmette, IL 60091. | https://registry-edge.dingalinged.workers.dev/c/jiffy-lube-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic wilmette il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$4,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mechanic.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-wilmette-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-wilmette-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

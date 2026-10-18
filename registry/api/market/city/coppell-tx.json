@@ -2,7 +2,7 @@
  "title": "Keyword market data: Coppell, TX",
  "description": "Top Coppell, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Coppell, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 43,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage coppell tx",
     "slug": "massage-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-coppell-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care coppell tx",
     "slug": "urgent-care-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-coppell-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 68000,
@@ -41,7 +41,7 @@
    {
     "keyword": "car wash coppell tx",
     "slug": "car-wash-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-coppell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "dentist coppell tx",
     "slug": "dentist-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-coppell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "gym coppell tx",
     "slug": "gym-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-coppell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -86,7 +86,7 @@
    {
     "keyword": "hair salon coppell tx",
     "slug": "hair-salon-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-coppell-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -101,7 +101,7 @@
    {
     "keyword": "nail salon coppell tx",
     "slug": "nail-salon-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-coppell-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic coppell tx",
     "slug": "mechanic-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-coppell-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet coppell tx",
     "slug": "vet-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-coppell-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer coppell tx",
     "slug": "dog-groomer-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-coppell-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut coppell tx",
     "slug": "haircut-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-coppell-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair coppell tx",
     "slug": "auto-repair-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-coppell-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor coppell tx",
     "slug": "chiropractor-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-coppell-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -206,7 +206,7 @@
    {
     "keyword": "dog boarding coppell tx",
     "slug": "dog-boarding-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-coppell-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -221,7 +221,7 @@
    {
     "keyword": "financial advisor coppell tx",
     "slug": "financial-advisor-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-coppell-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney coppell tx",
     "slug": "attorney-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-coppell-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer coppell tx",
     "slug": "lawyer-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-coppell-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -268,7 +268,7 @@
    {
     "keyword": "architect coppell tx",
     "slug": "architect-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-coppell-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -283,7 +283,7 @@
    {
     "keyword": "storage units coppell tx",
     "slug": "storage-units-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-coppell-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -298,7 +298,7 @@
    {
     "keyword": "bakery coppell tx",
     "slug": "bakery-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-coppell-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -313,7 +313,7 @@
    {
     "keyword": "event venues coppell tx",
     "slug": "event-venues-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-coppell-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -328,7 +328,7 @@
    {
     "keyword": "preschool coppell tx",
     "slug": "preschool-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-coppell-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -343,7 +343,7 @@
    {
     "keyword": "allergist coppell tx",
     "slug": "allergist-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/allergist-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/allergist-coppell-tx/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 820,
@@ -358,7 +358,7 @@
    {
     "keyword": "chiropractor coppell tx",
     "slug": "chiropractor-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-coppell-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -373,7 +373,7 @@
    {
     "keyword": "dermatologist coppell tx",
     "slug": "dermatologist-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dermatologist-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dermatologist-coppell-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "eye doctor coppell tx",
     "slug": "eye-doctor-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-coppell-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -403,7 +403,7 @@
    {
     "keyword": "family doctor coppell tx",
     "slug": "family-doctor-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-coppell-tx/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -418,7 +418,7 @@
    {
     "keyword": "physical therapy coppell tx",
     "slug": "physical-therapy-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-coppell-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -433,7 +433,7 @@
    {
     "keyword": "podiatrist coppell tx",
     "slug": "podiatrist-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/podiatrist-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/podiatrist-coppell-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -448,7 +448,7 @@
    {
     "keyword": "primary care physician coppell tx",
     "slug": "primary-care-physician-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-coppell-tx/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage coppell tx",
     "slug": "massage-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-coppell-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care coppell tx",
     "slug": "urgent-care-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-coppell-tx/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 68000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist coppell tx",
     "slug": "dentist-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-coppell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash coppell tx",
     "slug": "car-wash-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-coppell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym coppell tx",
     "slug": "gym-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-coppell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic coppell tx",
     "slug": "mechanic-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-coppell-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet coppell tx",
     "slug": "vet-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-coppell-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog groomer coppell tx",
     "slug": "dog-groomer-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-coppell-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -585,7 +585,7 @@
    {
     "keyword": "haircut coppell tx",
     "slug": "haircut-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-coppell-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -600,7 +600,7 @@
    {
     "keyword": "auto repair coppell tx",
     "slug": "auto-repair-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-coppell-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -615,7 +615,7 @@
    {
     "keyword": "chiropractor coppell tx",
     "slug": "chiropractor-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-coppell-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -630,7 +630,7 @@
    {
     "keyword": "spa coppell tx",
     "slug": "spa-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-coppell-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -645,7 +645,7 @@
    {
     "keyword": "dog boarding coppell tx",
     "slug": "dog-boarding-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-coppell-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -660,7 +660,7 @@
    {
     "keyword": "financial advisor coppell tx",
     "slug": "financial-advisor-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-coppell-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -675,7 +675,7 @@
    {
     "keyword": "hair salon coppell tx",
     "slug": "hair-salon-coppell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-coppell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-coppell-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,

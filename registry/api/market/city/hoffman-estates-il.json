@@ -2,7 +2,7 @@
  "title": "Keyword market data: Hoffman Estates, IL",
  "description": "Top Hoffman Estates, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hoffman Estates, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 30,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash hoffman estates il",
     "slug": "car-wash-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hoffman-estates-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist hoffman estates il",
     "slug": "dentist-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hoffman-estates-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon hoffman estates il",
     "slug": "hair-salon-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hoffman-estates-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon hoffman estates il",
     "slug": "nail-salon-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hoffman-estates-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic hoffman estates il",
     "slug": "mechanic-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hoffman-estates-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "dog groomer hoffman estates il",
     "slug": "dog-groomer-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hoffman-estates-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut hoffman estates il",
     "slug": "haircut-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hoffman-estates-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair hoffman estates il",
     "slug": "auto-repair-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hoffman-estates-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency hoffman estates il",
     "slug": "insurance-agency-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hoffman-estates-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -146,7 +146,7 @@
    {
     "keyword": "tax preparation hoffman estates il",
     "slug": "tax-preparation-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hoffman-estates-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -161,7 +161,7 @@
    {
     "keyword": "tax preparer hoffman estates il",
     "slug": "tax-preparer-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hoffman-estates-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agents hoffman estates il",
     "slug": "insurance-agents-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hoffman-estates-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agent hoffman estates il",
     "slug": "insurance-agent-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hoffman-estates-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -208,7 +208,7 @@
    {
     "keyword": "event venues hoffman estates il",
     "slug": "event-venues-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-hoffman-estates-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -223,7 +223,7 @@
    {
     "keyword": "florist hoffman estates il",
     "slug": "florist-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-hoffman-estates-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "dance studio hoffman estates il",
     "slug": "dance-studio-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-hoffman-estates-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -253,7 +253,7 @@
    {
     "keyword": "tax preparer hoffman estates il",
     "slug": "tax-preparer-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hoffman-estates-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -268,7 +268,7 @@
    {
     "keyword": "daycare hoffman estates il",
     "slug": "daycare-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-hoffman-estates-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "preschool hoffman estates il",
     "slug": "preschool-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-hoffman-estates-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -298,7 +298,7 @@
    {
     "keyword": "eye doctor hoffman estates il",
     "slug": "eye-doctor-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-hoffman-estates-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "orthopedic surgeon hoffman estates il",
     "slug": "orthopedic-surgeon-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/orthopedic-surgeon-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon-hoffman-estates-il/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 910,
@@ -328,7 +328,7 @@
    {
     "keyword": "physical therapy hoffman estates il",
     "slug": "physical-therapy-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-hoffman-estates-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "dentist hoffman estates il",
     "slug": "dentist-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hoffman-estates-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -358,7 +358,7 @@
    {
     "keyword": "haircut hoffman estates il",
     "slug": "haircut-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hoffman-estates-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -373,7 +373,7 @@
    {
     "keyword": "tanning salon hoffman estates il",
     "slug": "tanning-salon-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon-hoffman-estates-il/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 830,
@@ -388,7 +388,7 @@
    {
     "keyword": "auto repair hoffman estates il",
     "slug": "auto-repair-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hoffman-estates-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -403,7 +403,7 @@
    {
     "keyword": "car wash hoffman estates il",
     "slug": "car-wash-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hoffman-estates-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -418,7 +418,7 @@
    {
     "keyword": "mechanic hoffman estates il",
     "slug": "mechanic-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hoffman-estates-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -435,7 +435,7 @@
    {
     "keyword": "dentist hoffman estates il",
     "slug": "dentist-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hoffman-estates-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -450,7 +450,7 @@
    {
     "keyword": "car wash hoffman estates il",
     "slug": "car-wash-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hoffman-estates-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -465,7 +465,7 @@
    {
     "keyword": "mechanic hoffman estates il",
     "slug": "mechanic-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hoffman-estates-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dog groomer hoffman estates il",
     "slug": "dog-groomer-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hoffman-estates-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -495,7 +495,7 @@
    {
     "keyword": "haircut hoffman estates il",
     "slug": "haircut-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hoffman-estates-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -510,7 +510,7 @@
    {
     "keyword": "auto repair hoffman estates il",
     "slug": "auto-repair-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hoffman-estates-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -525,7 +525,7 @@
    {
     "keyword": "hair salon hoffman estates il",
     "slug": "hair-salon-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hoffman-estates-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -540,7 +540,7 @@
    {
     "keyword": "nail salon hoffman estates il",
     "slug": "nail-salon-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hoffman-estates-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tax preparer hoffman estates il",
     "slug": "tax-preparer-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hoffman-estates-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -570,7 +570,7 @@
    {
     "keyword": "insurance agency hoffman estates il",
     "slug": "insurance-agency-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hoffman-estates-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -585,7 +585,7 @@
    {
     "keyword": "tax preparation hoffman estates il",
     "slug": "tax-preparation-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hoffman-estates-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -600,7 +600,7 @@
    {
     "keyword": "insurance agents hoffman estates il",
     "slug": "insurance-agents-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hoffman-estates-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agent hoffman estates il",
     "slug": "insurance-agent-hoffman-estates-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hoffman-estates-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hoffman-estates-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

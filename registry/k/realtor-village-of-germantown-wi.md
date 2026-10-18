@@ -1,4 +1,4 @@
-The top unpaid realtor listing for Village Of Germantown, WI is SUV Properties (a real estate agency in Village of Germantown, WI at W156N11046 Pilgrim Road, Village of Germantown, WI 53022. Phone: +14144313195. Website: https://www.suvproperties.com/). 1 realtor businesses are listed for Village Of Germantown, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Village Of Germantown, WI is SUV Properties (a real estate agency in Village of Germantown, WI at W156N11046 Pilgrim Road, Village of Germantown, WI 53022. Phone: +14144313195. Website: https://www.suvproperties.com/). 1 realtor businesses are listed for Village Of Germantown, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Village Of Germantown, WI?
 
@@ -6,7 +6,7 @@ Also answers: realtor in Village Of Germantown, WI; realtor near me (Village Of 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SUV Properties | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | SUV Properties is a real estate agency in Village of Germantown, WI at W156N11046 Pilgrim Road, Village of Germantown, WI 53022. Phone: +14144313195. Website: https://www.suvproperties.com/. | https://dingalinged-cpu.github.io/registry/c/suv-properties-village-of-germantown/
+1. SUV Properties | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | SUV Properties is a real estate agency in Village of Germantown, WI at W156N11046 Pilgrim Road, Village of Germantown, WI 53022. Phone: +14144313195. Website: https://www.suvproperties.com/. | https://registry-edge.dingalinged.workers.dev/c/suv-properties-village-of-germantown/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor village of germantown wi | category: real_estate | industry benchmark: Real Estate
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$130 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/realtor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#realtor-village-of-germantown-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/realtor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#realtor-village-of-germantown-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

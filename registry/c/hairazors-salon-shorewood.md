@@ -13,12 +13,12 @@ Hairazors Salon is a hair salon in Shorewood, MN at 23690 Minnesota State Highwa
 - Website: https://hairazorssalon.spacecrafted.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-21:00, Fr 09:00-16:00, Sa 08:00-16:00
-- Pulse Score: 64.1/100 — Good — top 1% of hair salons in Minneapolis–St. Paul, #1 of 2 hair salons in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 1% of hair salons in Minneapolis–St. Paul, #1 of 2 hair salons in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hairazors-salon-shorewood/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hairazors-salon-shorewood.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hairazors-salon-shorewood/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hairazors-salon-shorewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11215354746 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

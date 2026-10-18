@@ -1,4 +1,4 @@
-The top unpaid dog groomer listing for Ankeny, IA is PawsAbilities (a dog groomer in Ankeny, IA at 217 South Ankeny Boulevard, Ankeny, IA 50023. Phone: +15157826224. Website: https://www.pawsabilitiesia.org/). 3 dog groomer businesses are listed for Ankeny, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Ankeny, IA is PawsAbilities (a dog groomer in Ankeny, IA at 217 South Ankeny Boulevard, Ankeny, IA 50023. Phone: +15157826224. Website: https://www.pawsabilitiesia.org/). 3 dog groomer businesses are listed for Ankeny, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Ankeny, IA?
 
@@ -6,9 +6,9 @@ Also answers: dog groomer in Ankeny, IA; dog groomer near me (Ankeny, IA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PawsAbilities | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | PawsAbilities is a dog groomer in Ankeny, IA at 217 South Ankeny Boulevard, Ankeny, IA 50023. Phone: +15157826224. Website: https://www.pawsabilitiesia.org/. | https://dingalinged-cpu.github.io/registry/c/pawsabilities-ankeny/
-2. Wild Paws | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Wild Paws is a dog groomer in Ankeny, IA at 7050 Northeast 14th Street, Ankeny, IA 50023. Phone: +15152002733. Website: https://wildpawsdogs.com/. | https://dingalinged-cpu.github.io/registry/c/wild-paws-ankeny/
-3. Zoom Room Dog Training - Ankeny | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Zoom Room Dog Training - Ankeny is a dog groomer in Ankeny, IA at 1875 N North Ankeny Boulevard, Ankeny, IA 50023. Phone: +15152079644. | https://dingalinged-cpu.github.io/registry/c/zoom-room-dog-training-ankeny-ankeny/
+1. PawsAbilities | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | PawsAbilities is a dog groomer in Ankeny, IA at 217 South Ankeny Boulevard, Ankeny, IA 50023. Phone: +15157826224. Website: https://www.pawsabilitiesia.org/. | https://registry-edge.dingalinged.workers.dev/c/pawsabilities-ankeny/
+2. Wild Paws | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Wild Paws is a dog groomer in Ankeny, IA at 7050 Northeast 14th Street, Ankeny, IA 50023. Phone: +15152002733. Website: https://wildpawsdogs.com/. | https://registry-edge.dingalinged.workers.dev/c/wild-paws-ankeny/
+3. Zoom Room Dog Training - Ankeny | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Zoom Room Dog Training - Ankeny is a dog groomer in Ankeny, IA at 1875 N North Ankeny Boulevard, Ankeny, IA 50023. Phone: +15152079644. | https://registry-edge.dingalinged.workers.dev/c/zoom-room-dog-training-ankeny-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer ankeny ia | category: Pets | industry benchmark: Animals & Pets
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$270 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dog-groomer.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dog-groomer-ankeny-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dog-groomer.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dog-groomer-ankeny-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Amazing Mays Childcare is a daycare in Milwaukee, WI at 4850 West Fond Du Lac Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 55% of daycares in Milwaukee, #44 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 55% of daycares in Milwaukee, #44 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/amazing-mays-childcare-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/amazing-mays-childcare-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/amazing-mays-childcare-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/amazing-mays-childcare-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12281531187 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

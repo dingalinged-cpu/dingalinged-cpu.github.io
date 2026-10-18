@@ -1,4 +1,4 @@
-The top unpaid daycare listing for Denton, TX is Denton City County Day School (a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/). 6 daycare businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Denton, TX is Denton City County Day School (a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/). 6 daycare businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Denton, TX?
 
@@ -6,12 +6,12 @@ Also answers: daycare in Denton, TX; daycare near me (Denton, TX); best daycare 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Denton City County Day School | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Denton City County Day School is a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/. | https://dingalinged-cpu.github.io/registry/c/denton-city-county-day-school-denton/
-2. Terry's Treehouse Learning Center | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Terry's Treehouse Learning Center is a daycare in Denton, TX at 4025 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/terrys-treehouse-learning-center-denton/
-3. ABC Preschool and Childcare | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | ABC Preschool and Childcare is a daycare in Denton, TX at 808 East Sherman Drive, Denton, TX 76209. | https://dingalinged-cpu.github.io/registry/c/abc-preschool-and-childcare-denton/
-4. Alpha Christian Academy | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Alpha Christian Academy is a daycare in Denton, TX at 3812 Market Street, Denton, TX 76209. | https://dingalinged-cpu.github.io/registry/c/alpha-christian-academy-denton/
-5. Texas Love & Care | Organic #5 | Pulse Score 57/100 (Unrated, #5 in city) | Texas Love & Care is a daycare in Denton, TX at 6060 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/texas-love-and-care-denton/
-6. Childcare Network | Organic #6 | Pulse Score 44.2/100 (Unrated, #6 in city) | Childcare Network is a daycare in Denton, TX at 5025 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/childcare-network-denton/
+1. Denton City County Day School | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Denton City County Day School is a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/. | https://registry-edge.dingalinged.workers.dev/c/denton-city-county-day-school-denton/
+2. Terry's Treehouse Learning Center | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Terry's Treehouse Learning Center is a daycare in Denton, TX at 4025 Teasley Lane, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/terrys-treehouse-learning-center-denton/
+3. ABC Preschool and Childcare | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | ABC Preschool and Childcare is a daycare in Denton, TX at 808 East Sherman Drive, Denton, TX 76209. | https://registry-edge.dingalinged.workers.dev/c/abc-preschool-and-childcare-denton/
+4. Alpha Christian Academy | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Alpha Christian Academy is a daycare in Denton, TX at 3812 Market Street, Denton, TX 76209. | https://registry-edge.dingalinged.workers.dev/c/alpha-christian-academy-denton/
+5. Texas Love & Care | Organic #5 | Pulse Score 57/100 (Unrated, #5 in city) | Texas Love & Care is a daycare in Denton, TX at 6060 Teasley Lane, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/texas-love-and-care-denton/
+6. Childcare Network | Organic #6 | Pulse Score 44.2/100 (Unrated, #6 in city) | Childcare Network is a daycare in Denton, TX at 5025 Teasley Lane, Denton, TX 76210. | https://registry-edge.dingalinged.workers.dev/c/childcare-network-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare denton tx | category: Education & childcare | industry benchmark: Education & Instruction
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/daycare.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#daycare-denton-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/daycare.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#daycare-denton-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

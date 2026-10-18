@@ -1,4 +1,4 @@
-The top unpaid financial advisor listing for Des Moines, IA is West Financial Advisors (a financial advisor in Des Moines, IA at 111 East Grand Avenue #412, Des Moines, IA 50309. Phone: +15152841011. Website: https://www.westfinancialadvisors.com/). 3 financial advisor businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Des Moines, IA is West Financial Advisors (a financial advisor in Des Moines, IA at 111 East Grand Avenue #412, Des Moines, IA 50309. Phone: +15152841011. Website: https://www.westfinancialadvisors.com/). 3 financial advisor businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Des Moines, IA?
 
@@ -6,9 +6,9 @@ Also answers: financial advisor in Des Moines, IA; financial advisor near me (De
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. West Financial Advisors | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | West Financial Advisors is a financial advisor in Des Moines, IA at 111 East Grand Avenue #412, Des Moines, IA 50309. Phone: +15152841011. Website: https://www.westfinancialadvisors.com/. | https://dingalinged-cpu.github.io/registry/c/west-financial-advisors-des-moines/
-2. Edward Jones | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | Edward Jones is a financial advisor in Des Moines, IA at 4227 Fleur Drive, Des Moines, IA 50321. Phone: +15152851838. Website: https://www.edwardjones.com/us-en/financial-advisor/kevin-pearson. | https://dingalinged-cpu.github.io/registry/c/edward-jones-des-moines-n12686464474/
-3. Edward Jones | Organic #3 | Pulse Score 45/100 (Building, #3 in city) | Edward Jones is a financial advisor in Des Moines, IA. Website: https://www.edwardjones.com/us-en. | https://dingalinged-cpu.github.io/registry/c/edward-jones-des-moines/
+1. West Financial Advisors | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | West Financial Advisors is a financial advisor in Des Moines, IA at 111 East Grand Avenue #412, Des Moines, IA 50309. Phone: +15152841011. Website: https://www.westfinancialadvisors.com/. | https://registry-edge.dingalinged.workers.dev/c/west-financial-advisors-des-moines/
+2. Edward Jones | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | Edward Jones is a financial advisor in Des Moines, IA at 4227 Fleur Drive, Des Moines, IA 50321. Phone: +15152851838. Website: https://www.edwardjones.com/us-en/financial-advisor/kevin-pearson. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-des-moines-n12686464474/
+3. Edward Jones | Organic #3 | Pulse Score 45/100 (Building, #3 in city) | Edward Jones is a financial advisor in Des Moines, IA. Website: https://www.edwardjones.com/us-en. | https://registry-edge.dingalinged.workers.dev/c/edward-jones-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor des moines ia | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$160 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/financial-advisor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#financial-advisor-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/financial-advisor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#financial-advisor-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Joyeria & Novedades Leon is a jewelry store in Kansas City, MO at 5900 Saint Joh
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 41% of jewelry stores in Kansas City, MO, #10 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 41% of jewelry stores in Kansas City, MO, #10 of 26 jewelry stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 51.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/joyeria-and-novedades-leon-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/joyeria-and-novedades-leon-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/joyeria-and-novedades-leon-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/joyeria-and-novedades-leon-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/507905528 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

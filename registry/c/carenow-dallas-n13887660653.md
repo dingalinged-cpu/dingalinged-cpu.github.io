@@ -13,12 +13,12 @@ CareNOW is an urgent care clinic in Dallas, TX at 9540 Garland Road #408, Dallas
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Unrated (not enough evidence yet) — top 100% of urgent care clinics in Dallas–Fort Worth, #2 of 2 urgent care clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.3, Trust 41.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.8/100 — Unrated (not enough evidence yet) — top 100% of urgent care clinics in Dallas–Fort Worth, #2 of 2 urgent care clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.3, Trust 41.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/carenow-dallas-n13887660653/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/carenow-dallas-n13887660653.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/carenow-dallas-n13887660653/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/carenow-dallas-n13887660653.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13887660653 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

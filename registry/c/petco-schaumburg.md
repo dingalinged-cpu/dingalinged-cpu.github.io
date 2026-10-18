@@ -13,12 +13,12 @@ Petco is a pet store in Schaumburg, IL at 60 East Golf Road, Schaumburg, IL 6017
 - Website: https://stores.petco.com/il/schaumburg/pet-supplies-schaumburg-il-698.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
-- Pulse Score: 47.3/100 — Building — top 68% of pet stores in Chicago, #3 of 3 pet stores in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 68% of pet stores in Chicago, #3 of 3 pet stores in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 56. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/petco-schaumburg/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/petco-schaumburg.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/petco-schaumburg/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/petco-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/252040087 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

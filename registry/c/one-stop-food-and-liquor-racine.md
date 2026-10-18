@@ -13,12 +13,12 @@ One Stop Food and Liquor is a liquor store in Racine, WI at 1711 North Main Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 81% of liquor stores in Milwaukee, #3 of 5 liquor stores in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 42. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 81% of liquor stores in Milwaukee, #3 of 5 liquor stores in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 42. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/one-stop-food-and-liquor-racine/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/one-stop-food-and-liquor-racine.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/one-stop-food-and-liquor-racine/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/one-stop-food-and-liquor-racine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/437320620 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

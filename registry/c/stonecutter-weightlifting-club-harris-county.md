@@ -13,12 +13,12 @@ Stonecutter Weightlifting Club is a CrossFit gym in Harris County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 72% of CrossFit gyms in Houston, #2 of 3 CrossFit gyms in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 44.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 72% of CrossFit gyms in Houston, #2 of 3 CrossFit gyms in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 44.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/stonecutter-weightlifting-club-harris-county/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/stonecutter-weightlifting-club-harris-county.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/stonecutter-weightlifting-club-harris-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/stonecutter-weightlifting-club-harris-county.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5910442395 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

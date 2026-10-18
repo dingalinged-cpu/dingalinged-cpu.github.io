@@ -13,12 +13,12 @@ Leggett & Platt, Inc. is a mattress store in Saint Paul, MN at 865 Vandalia Stre
 - Website: https://www.leggett.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 8% of mattress stores in Minneapolis–St. Paul, #1 of 3 mattress stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 8% of mattress stores in Minneapolis–St. Paul, #1 of 3 mattress stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/leggett-and-platt-inc-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/leggett-and-platt-inc-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/leggett-and-platt-inc-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/leggett-and-platt-inc-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6267097853 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

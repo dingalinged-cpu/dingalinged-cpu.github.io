@@ -2,7 +2,7 @@
  "title": "Keyword market data: Fox Point, WI",
  "description": "Top Fox Point, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Fox Point, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 13,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist fox point wi",
     "slug": "dentist-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fox-point-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym fox point wi",
     "slug": "gym-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-fox-point-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon fox point wi",
     "slug": "hair-salon-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-fox-point-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon fox point wi",
     "slug": "nail-salon-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-fox-point-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut fox point wi",
     "slug": "haircut-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fox-point-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -86,7 +86,7 @@
    {
     "keyword": "attorney fox point wi",
     "slug": "attorney-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-fox-point-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -101,7 +101,7 @@
    {
     "keyword": "facial fox point wi",
     "slug": "facial-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-fox-point-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -116,7 +116,7 @@
    {
     "keyword": "lawyer fox point wi",
     "slug": "lawyer-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-fox-point-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -133,7 +133,7 @@
    {
     "keyword": "attorney fox point wi",
     "slug": "attorney-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-fox-point-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -148,7 +148,7 @@
    {
     "keyword": "lawyer fox point wi",
     "slug": "lawyer-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-fox-point-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -163,7 +163,7 @@
    {
     "keyword": "dance studio fox point wi",
     "slug": "dance-studio-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-fox-point-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 180,
@@ -178,7 +178,7 @@
    {
     "keyword": "preschool fox point wi",
     "slug": "preschool-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-fox-point-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -193,7 +193,7 @@
    {
     "keyword": "assisted living fox point wi",
     "slug": "assisted-living-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-fox-point-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -208,7 +208,7 @@
    {
     "keyword": "physical therapy fox point wi",
     "slug": "physical-therapy-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-fox-point-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -223,7 +223,7 @@
    {
     "keyword": "dentist fox point wi",
     "slug": "dentist-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fox-point-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -238,7 +238,7 @@
    {
     "keyword": "facial fox point wi",
     "slug": "facial-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-fox-point-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -253,7 +253,7 @@
    {
     "keyword": "haircut fox point wi",
     "slug": "haircut-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fox-point-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -268,7 +268,7 @@
    {
     "keyword": "bike shop fox point wi",
     "slug": "bike-shop-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-fox-point-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -283,7 +283,7 @@
    {
     "keyword": "gym fox point wi",
     "slug": "gym-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-fox-point-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -298,7 +298,7 @@
    {
     "keyword": "nail salon fox point wi",
     "slug": "nail-salon-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-fox-point-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -313,7 +313,7 @@
    {
     "keyword": "hair salon fox point wi",
     "slug": "hair-salon-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-fox-point-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -330,7 +330,7 @@
    {
     "keyword": "dentist fox point wi",
     "slug": "dentist-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fox-point-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -345,7 +345,7 @@
    {
     "keyword": "gym fox point wi",
     "slug": "gym-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-fox-point-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -360,7 +360,7 @@
    {
     "keyword": "haircut fox point wi",
     "slug": "haircut-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fox-point-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -375,7 +375,7 @@
    {
     "keyword": "hair salon fox point wi",
     "slug": "hair-salon-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-fox-point-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6900,
@@ -390,7 +390,7 @@
    {
     "keyword": "attorney fox point wi",
     "slug": "attorney-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-fox-point-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -405,7 +405,7 @@
    {
     "keyword": "nail salon fox point wi",
     "slug": "nail-salon-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-fox-point-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -420,7 +420,7 @@
    {
     "keyword": "lawyer fox point wi",
     "slug": "lawyer-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-fox-point-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -435,7 +435,7 @@
    {
     "keyword": "facial fox point wi",
     "slug": "facial-fox-point-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-fox-point-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-fox-point-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,

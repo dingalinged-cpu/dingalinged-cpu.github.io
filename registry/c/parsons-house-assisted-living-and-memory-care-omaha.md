@@ -13,12 +13,12 @@ Parsons House Assisted Living & Memory Care is an assisted living facility in Om
 - Website: https://parsonshouseseniorliving.com/
 - Email: info@parsonshousemgt.com
 - Opening hours (OSM syntax): Monday To Sunday - 8AM to 8PM
-- Pulse Score: 64.5/100 — Good — top 10% of assisted living facilitys in Omaha, NE, #1 of 4 assisted living facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.8, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 10% of assisted living facilitys in Omaha, NE, #1 of 4 assisted living facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.8, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/parsons-house-assisted-living-and-memory-care-omaha/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/parsons-house-assisted-living-and-memory-care-omaha.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/parsons-house-assisted-living-and-memory-care-omaha/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/parsons-house-assisted-living-and-memory-care-omaha.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12048435633 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

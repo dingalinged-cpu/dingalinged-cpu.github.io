@@ -13,12 +13,12 @@ Edward Jones is a financial advisor in Clive, IA at 1100 73rd Street, Clive, IA 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.9/100 — Building — top 80% of financial advisors in Des Moines, IA, #1 of 1 financial advisors in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 44.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.9/100 — Building — top 80% of financial advisors in Des Moines, IA, #1 of 1 financial advisors in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-clive/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-clive.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-clive/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-clive.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/113926098 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

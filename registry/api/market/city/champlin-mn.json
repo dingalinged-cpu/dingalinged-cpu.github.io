@@ -2,7 +2,7 @@
  "title": "Keyword market data: Champlin, MN",
  "description": "Top Champlin, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Champlin, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 16,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage champlin mn",
     "slug": "massage-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-champlin-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash champlin mn",
     "slug": "car-wash-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-champlin-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist champlin mn",
     "slug": "dentist-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-champlin-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym champlin mn",
     "slug": "gym-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-champlin-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon champlin mn",
     "slug": "hair-salon-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-champlin-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon champlin mn",
     "slug": "nail-salon-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-champlin-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet champlin mn",
     "slug": "vet-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-champlin-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut champlin mn",
     "slug": "haircut-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-champlin-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -131,7 +131,7 @@
    {
     "keyword": "tax preparation champlin mn",
     "slug": "tax-preparation-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-champlin-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -146,7 +146,7 @@
    {
     "keyword": "tax preparer champlin mn",
     "slug": "tax-preparer-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-champlin-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -163,7 +163,7 @@
    {
     "keyword": "photographer champlin mn",
     "slug": "photographer-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-champlin-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -178,7 +178,7 @@
    {
     "keyword": "martial arts champlin mn",
     "slug": "martial-arts-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-champlin-mn/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3300,
@@ -193,7 +193,7 @@
    {
     "keyword": "tax preparer champlin mn",
     "slug": "tax-preparer-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-champlin-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -208,7 +208,7 @@
    {
     "keyword": "daycare champlin mn",
     "slug": "daycare-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-champlin-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -223,7 +223,7 @@
    {
     "keyword": "dentist champlin mn",
     "slug": "dentist-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-champlin-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -238,7 +238,7 @@
    {
     "keyword": "haircut champlin mn",
     "slug": "haircut-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-champlin-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -253,7 +253,7 @@
    {
     "keyword": "massage champlin mn",
     "slug": "massage-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-champlin-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -268,7 +268,7 @@
    {
     "keyword": "car wash champlin mn",
     "slug": "car-wash-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-champlin-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -283,7 +283,7 @@
    {
     "keyword": "bike shop champlin mn",
     "slug": "bike-shop-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-champlin-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -298,7 +298,7 @@
    {
     "keyword": "liquor store champlin mn",
     "slug": "liquor-store-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-champlin-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -313,7 +313,7 @@
    {
     "keyword": "thrift store champlin mn",
     "slug": "thrift-store-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-champlin-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -328,7 +328,7 @@
    {
     "keyword": "vet champlin mn",
     "slug": "vet-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-champlin-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "tax preparation champlin mn",
     "slug": "tax-preparation-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-champlin-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -358,7 +358,7 @@
    {
     "keyword": "gym champlin mn",
     "slug": "gym-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-champlin-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -373,7 +373,7 @@
    {
     "keyword": "nail salon champlin mn",
     "slug": "nail-salon-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-champlin-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -390,7 +390,7 @@
    {
     "keyword": "massage champlin mn",
     "slug": "massage-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-champlin-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -405,7 +405,7 @@
    {
     "keyword": "dentist champlin mn",
     "slug": "dentist-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-champlin-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -420,7 +420,7 @@
    {
     "keyword": "car wash champlin mn",
     "slug": "car-wash-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-champlin-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -435,7 +435,7 @@
    {
     "keyword": "gym champlin mn",
     "slug": "gym-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-champlin-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -450,7 +450,7 @@
    {
     "keyword": "vet champlin mn",
     "slug": "vet-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-champlin-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -465,7 +465,7 @@
    {
     "keyword": "haircut champlin mn",
     "slug": "haircut-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-champlin-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -480,7 +480,7 @@
    {
     "keyword": "hair salon champlin mn",
     "slug": "hair-salon-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-champlin-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -495,7 +495,7 @@
    {
     "keyword": "nail salon champlin mn",
     "slug": "nail-salon-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-champlin-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -510,7 +510,7 @@
    {
     "keyword": "tax preparer champlin mn",
     "slug": "tax-preparer-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-champlin-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -525,7 +525,7 @@
    {
     "keyword": "tax preparation champlin mn",
     "slug": "tax-preparation-champlin-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-champlin-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-champlin-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,

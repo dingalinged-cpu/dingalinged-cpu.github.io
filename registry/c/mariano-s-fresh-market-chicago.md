@@ -13,12 +13,12 @@ Mariano’s Fresh Market is a bakery in Chicago, IL at 2122 North Ashland Avenue
 - Website: https://www.marianos.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 42% of bakerys in Chicago, #157 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 42% of bakerys in Chicago, #157 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 51.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mariano-s-fresh-market-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mariano-s-fresh-market-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mariano-s-fresh-market-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mariano-s-fresh-market-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6321499010 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

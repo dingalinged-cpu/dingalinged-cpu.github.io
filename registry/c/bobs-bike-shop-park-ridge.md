@@ -13,12 +13,12 @@ Bob's Bike Shop is a bike shop in Park Ridge, IL at 141 Vine Avenue, Park Ridge,
 - Website: https://www.bobsbikepr.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 37% of bike shops in Chicago, #1 of 2 bike shops in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 37% of bike shops in Chicago, #1 of 2 bike shops in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/bobs-bike-shop-park-ridge/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bobs-bike-shop-park-ridge.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bobs-bike-shop-park-ridge/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bobs-bike-shop-park-ridge.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2491037444 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

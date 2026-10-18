@@ -2,7 +2,7 @@
  "title": "Keyword market data: Arlington Heights, IL",
  "description": "Top Arlington Heights, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Arlington Heights, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 53,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash arlington heights il",
     "slug": "car-wash-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-arlington-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist arlington heights il",
     "slug": "dentist-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-arlington-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym arlington heights il",
     "slug": "gym-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-arlington-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "oil change arlington heights il",
     "slug": "oil-change-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-arlington-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon arlington heights il",
     "slug": "hair-salon-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-arlington-heights-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon arlington heights il",
     "slug": "nail-salon-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-arlington-heights-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -101,7 +101,7 @@
    {
     "keyword": "plumber arlington heights il",
     "slug": "plumber-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-arlington-heights-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic arlington heights il",
     "slug": "mechanic-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-arlington-heights-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet arlington heights il",
     "slug": "vet-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-arlington-heights-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -146,7 +146,7 @@
    {
     "keyword": "haircut arlington heights il",
     "slug": "haircut-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-arlington-heights-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -161,7 +161,7 @@
    {
     "keyword": "auto repair arlington heights il",
     "slug": "auto-repair-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-arlington-heights-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -176,7 +176,7 @@
    {
     "keyword": "financial advisor arlington heights il",
     "slug": "financial-advisor-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-arlington-heights-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -191,7 +191,7 @@
    {
     "keyword": "real estate agent arlington heights il",
     "slug": "real-estate-agent-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-arlington-heights-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -206,7 +206,7 @@
    {
     "keyword": "brake repair arlington heights il",
     "slug": "brake-repair-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/brake-repair-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/brake-repair-arlington-heights-il/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agency arlington heights il",
     "slug": "insurance-agency-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-arlington-heights-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -238,7 +238,7 @@
    {
     "keyword": "plumbing services arlington heights il",
     "slug": "plumbing-services-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-arlington-heights-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumber arlington heights il",
     "slug": "plumber-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-arlington-heights-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -268,7 +268,7 @@
    {
     "keyword": "attorney arlington heights il",
     "slug": "attorney-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-arlington-heights-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -283,7 +283,7 @@
    {
     "keyword": "lawyer arlington heights il",
     "slug": "lawyer-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-arlington-heights-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -298,7 +298,7 @@
    {
     "keyword": "plumbers arlington heights il",
     "slug": "plumbers-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-arlington-heights-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "storage units arlington heights il",
     "slug": "storage-units-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-arlington-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "bakery arlington heights il",
     "slug": "bakery-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-arlington-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "event venues arlington heights il",
     "slug": "event-venues-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-arlington-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -358,7 +358,7 @@
    {
     "keyword": "florist arlington heights il",
     "slug": "florist-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-arlington-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -373,7 +373,7 @@
    {
     "keyword": "crossfit arlington heights il",
     "slug": "crossfit-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/crossfit-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/crossfit-arlington-heights-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -388,7 +388,7 @@
    {
     "keyword": "martial arts arlington heights il",
     "slug": "martial-arts-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-arlington-heights-il/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8300,
@@ -403,7 +403,7 @@
    {
     "keyword": "accounting services arlington heights il",
     "slug": "accounting-services-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-arlington-heights-il/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -418,7 +418,7 @@
    {
     "keyword": "tax preparer arlington heights il",
     "slug": "tax-preparer-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-arlington-heights-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -433,7 +433,7 @@
    {
     "keyword": "accountant arlington heights il",
     "slug": "accountant-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-arlington-heights-il/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 910,
@@ -448,7 +448,7 @@
    {
     "keyword": "preschool arlington heights il",
     "slug": "preschool-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-arlington-heights-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -465,7 +465,7 @@
    {
     "keyword": "plumber arlington heights il",
     "slug": "plumber-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-arlington-heights-il/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 23000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist arlington heights il",
     "slug": "dentist-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-arlington-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash arlington heights il",
     "slug": "car-wash-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-arlington-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "oil change arlington heights il",
     "slug": "oil-change-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-arlington-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym arlington heights il",
     "slug": "gym-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-arlington-heights-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic arlington heights il",
     "slug": "mechanic-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-arlington-heights-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet arlington heights il",
     "slug": "vet-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-arlington-heights-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut arlington heights il",
     "slug": "haircut-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-arlington-heights-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair arlington heights il",
     "slug": "auto-repair-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-arlington-heights-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -600,7 +600,7 @@
    {
     "keyword": "financial advisor arlington heights il",
     "slug": "financial-advisor-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-arlington-heights-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -615,7 +615,7 @@
    {
     "keyword": "hair salon arlington heights il",
     "slug": "hair-salon-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-arlington-heights-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -630,7 +630,7 @@
    {
     "keyword": "attorney arlington heights il",
     "slug": "attorney-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-arlington-heights-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -645,7 +645,7 @@
    {
     "keyword": "real estate agent arlington heights il",
     "slug": "real-estate-agent-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-arlington-heights-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -660,7 +660,7 @@
    {
     "keyword": "plumbing services arlington heights il",
     "slug": "plumbing-services-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-arlington-heights-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -675,7 +675,7 @@
    {
     "keyword": "nail salon arlington heights il",
     "slug": "nail-salon-arlington-heights-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-arlington-heights-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-arlington-heights-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,

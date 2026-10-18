@@ -13,12 +13,12 @@ Major Dental Clinics Milwaukee is a dentist in Milwaukee, WI at 788 North Jeffer
 - Website: https://www.majordentalclinics.com/locations/milwaukee-wi/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 30% of dentists in Milwaukee, #13 of 41 dentists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 30% of dentists in Milwaukee, #13 of 41 dentists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/major-dental-clinics-milwaukee-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/major-dental-clinics-milwaukee-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/major-dental-clinics-milwaukee-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/major-dental-clinics-milwaukee-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13259959378 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

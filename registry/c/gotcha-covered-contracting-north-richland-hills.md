@@ -13,12 +13,12 @@ Gotcha Covered Contracting is a roofer in North Richland Hills, TX at 8204 North
 - Website: https://www.gccroofers.com/texas/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 46% of roofers in Dallas–Fort Worth, #2 of 6 roofers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 43.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 46% of roofers in Dallas–Fort Worth, #2 of 6 roofers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 43.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/gotcha-covered-contracting-north-richland-hills/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/gotcha-covered-contracting-north-richland-hills.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/gotcha-covered-contracting-north-richland-hills/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/gotcha-covered-contracting-north-richland-hills.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5542854522 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

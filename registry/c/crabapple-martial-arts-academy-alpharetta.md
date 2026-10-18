@@ -13,12 +13,12 @@ Crabapple Martial Arts Academy is a martial arts school in Alpharetta, GA at 123
 - Website: https://www.crabapplemartialarts.com/
 - Email: office@crabapplemartialarts.com
 - Opening hours (OSM syntax): Mo-Th 14:00-20:00; Sa 09:00-14:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 22% of martial arts schools in Atlanta, #1 of 1 martial arts schools in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 22% of martial arts schools in Atlanta, #1 of 1 martial arts schools in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/crabapple-martial-arts-academy-alpharetta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/crabapple-martial-arts-academy-alpharetta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/crabapple-martial-arts-academy-alpharetta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/crabapple-martial-arts-academy-alpharetta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11371474637 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

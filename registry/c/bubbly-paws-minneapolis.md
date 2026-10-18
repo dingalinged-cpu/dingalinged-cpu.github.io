@@ -13,12 +13,12 @@ Bubbly Paws is a dog groomer in Minneapolis, MN at 4737 Chicago Avenue South, Mi
 - Website: https://www.bubblypaws.com/minneapolis
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 38% of dog groomers in Minneapolis–St. Paul, #2 of 4 dog groomers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 38% of dog groomers in Minneapolis–St. Paul, #2 of 4 dog groomers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/bubbly-paws-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bubbly-paws-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bubbly-paws-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bubbly-paws-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7651142707 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

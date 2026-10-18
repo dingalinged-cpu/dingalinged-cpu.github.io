@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Yorkville, WI is Mayer Repair (an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, Sturtevant, WI 53177. Website: https://mayerrepair.com/). 7 auto repair businesses are listed for Yorkville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Yorkville, WI is Mayer Repair (an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, Sturtevant, WI 53177. Website: https://mayerrepair.com/). 7 auto repair businesses are listed for Yorkville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Yorkville, WI?
 
@@ -6,13 +6,13 @@ Also answers: auto repair in Yorkville, WI; auto repair near me (Yorkville, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mayer Repair | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Mayer Repair is an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, Sturtevant, WI 53177. Website: https://mayerrepair.com/. | https://dingalinged-cpu.github.io/registry/c/mayer-repair-sturtevant/
-2. TA Truck Service | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | TA Truck Service is an auto repair shop in Sturtevant, WI at 923 South Sylvania Avenue, Sturtevant, WI 53177. | https://dingalinged-cpu.github.io/registry/c/ta-truck-service-sturtevant/
-3. AAA Radiator | Organic #3 | Pulse Score 54.3/100 (Unrated, #1 in city) | AAA Radiator is an auto repair shop in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/aaa-radiator-yorkville/
-4. Jimmy's High Performance Transmissions | Organic #4 | Pulse Score 54.3/100 (Unrated, #2 in city) | Jimmy's High Performance Transmissions is an auto repair shop in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/jimmys-high-performance-transmissions-yorkville/
-5. Lakeside International Trucks | Organic #5 | Pulse Score 54.3/100 (Unrated, #3 in city) | Lakeside International Trucks is an auto repair shop in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/lakeside-international-trucks-yorkville/
-6. Omnitek Engineering | Organic #6 | Pulse Score 54.3/100 (Unrated, #4 in city) | Omnitek Engineering is an auto repair shop in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/omnitek-engineering-yorkville/
-7. Union Grove Motors | Organic #7 | Pulse Score 54.3/100 (Unrated, #5 in city) | Union Grove Motors is an auto repair shop in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/union-grove-motors-yorkville/
+1. Mayer Repair | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Mayer Repair is an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, Sturtevant, WI 53177. Website: https://mayerrepair.com/. | https://registry-edge.dingalinged.workers.dev/c/mayer-repair-sturtevant/
+2. TA Truck Service | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | TA Truck Service is an auto repair shop in Sturtevant, WI at 923 South Sylvania Avenue, Sturtevant, WI 53177. | https://registry-edge.dingalinged.workers.dev/c/ta-truck-service-sturtevant/
+3. AAA Radiator | Organic #3 | Pulse Score 54.3/100 (Unrated, #1 in city) | AAA Radiator is an auto repair shop in Yorkville, WI. | https://registry-edge.dingalinged.workers.dev/c/aaa-radiator-yorkville/
+4. Jimmy's High Performance Transmissions | Organic #4 | Pulse Score 54.3/100 (Unrated, #2 in city) | Jimmy's High Performance Transmissions is an auto repair shop in Yorkville, WI. | https://registry-edge.dingalinged.workers.dev/c/jimmys-high-performance-transmissions-yorkville/
+5. Lakeside International Trucks | Organic #5 | Pulse Score 54.3/100 (Unrated, #3 in city) | Lakeside International Trucks is an auto repair shop in Yorkville, WI. | https://registry-edge.dingalinged.workers.dev/c/lakeside-international-trucks-yorkville/
+6. Omnitek Engineering | Organic #6 | Pulse Score 54.3/100 (Unrated, #4 in city) | Omnitek Engineering is an auto repair shop in Yorkville, WI. | https://registry-edge.dingalinged.workers.dev/c/omnitek-engineering-yorkville/
+7. Union Grove Motors | Organic #7 | Pulse Score 54.3/100 (Unrated, #5 in city) | Union Grove Motors is an auto repair shop in Yorkville, WI. | https://registry-edge.dingalinged.workers.dev/c/union-grove-motors-yorkville/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair yorkville wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$340 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-yorkville-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-yorkville-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

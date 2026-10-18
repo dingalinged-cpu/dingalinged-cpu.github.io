@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for Homer Glen, IL is Pure Salon & Spa (a nail salon in Homer Glen, IL at 14164 South Bell Road, Homer Glen, IL 60491. Phone: +17089496169. Website: https://www.purehairsalons.com/). 4 nail salon businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Homer Glen, IL is Pure Salon & Spa (a nail salon in Homer Glen, IL at 14164 South Bell Road, Homer Glen, IL 60491. Phone: +17089496169. Website: https://www.purehairsalons.com/). 4 nail salon businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Homer Glen, IL?
 
@@ -6,10 +6,10 @@ Also answers: nail salon in Homer Glen, IL; nail salon near me (Homer Glen, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pure Salon & Spa | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Pure Salon & Spa is a nail salon in Homer Glen, IL at 14164 South Bell Road, Homer Glen, IL 60491. Phone: +17089496169. Website: https://www.purehairsalons.com/. | https://dingalinged-cpu.github.io/registry/c/pure-salon-and-spa-homer-glen/
-2. Love Your Nails II | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Love Your Nails II is a nail salon in Homer Glen, IL at 14142 South Bell Road, Homer Glen, IL 60491. Phone: +17083010486. | https://dingalinged-cpu.github.io/registry/c/love-your-nails-ii-homer-glen/
-3. Trend Nails & Spa | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Trend Nails & Spa is a nail salon in Homer Glen, IL at 13961 South Bell Road, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/trend-nails-and-spa-homer-glen/
-4. Magic Nails | Organic #4 | Pulse Score 45.8/100 (Unrated, #4 in city) | Magic Nails is a nail salon in Homer Glen, IL at 13019 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/magic-nails-homer-glen/
+1. Pure Salon & Spa | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Pure Salon & Spa is a nail salon in Homer Glen, IL at 14164 South Bell Road, Homer Glen, IL 60491. Phone: +17089496169. Website: https://www.purehairsalons.com/. | https://registry-edge.dingalinged.workers.dev/c/pure-salon-and-spa-homer-glen/
+2. Love Your Nails II | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Love Your Nails II is a nail salon in Homer Glen, IL at 14142 South Bell Road, Homer Glen, IL 60491. Phone: +17083010486. | https://registry-edge.dingalinged.workers.dev/c/love-your-nails-ii-homer-glen/
+3. Trend Nails & Spa | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Trend Nails & Spa is a nail salon in Homer Glen, IL at 13961 South Bell Road, Homer Glen, IL 60491. | https://registry-edge.dingalinged.workers.dev/c/trend-nails-and-spa-homer-glen/
+4. Magic Nails | Organic #4 | Pulse Score 45.8/100 (Unrated, #4 in city) | Magic Nails is a nail salon in Homer Glen, IL at 13019 West 143rd Street, Homer Glen, IL 60491. | https://registry-edge.dingalinged.workers.dev/c/magic-nails-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon homer glen il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$980 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-homer-glen-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-homer-glen-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ The Crowder Law Firm, P.C. is a business consultant in Plano, TX at 7950 Legacy 
 - Website: https://www.crowdercriminalfirm.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 37% of business consultants in Dallas–Fort Worth, #2 of 2 business consultants in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 37% of business consultants in Dallas–Fort Worth, #2 of 2 business consultants in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-crowder-law-firm-p-c-plano/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-crowder-law-firm-p-c-plano.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-crowder-law-firm-p-c-plano/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-crowder-law-firm-p-c-plano.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9534513413 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

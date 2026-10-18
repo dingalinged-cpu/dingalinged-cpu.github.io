@@ -2,7 +2,7 @@
  "title": "Keyword market data: Warrenville, IL",
  "description": "Top Warrenville, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Warrenville, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 24,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash warrenville il",
     "slug": "car-wash-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-warrenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist warrenville il",
     "slug": "dentist-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-warrenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym warrenville il",
     "slug": "gym-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-warrenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon warrenville il",
     "slug": "hair-salon-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-warrenville-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon warrenville il",
     "slug": "nail-salon-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-warrenville-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -86,7 +86,7 @@
    {
     "keyword": "dog groomer warrenville il",
     "slug": "dog-groomer-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-warrenville-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut warrenville il",
     "slug": "haircut-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-warrenville-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "chiropractor warrenville il",
     "slug": "chiropractor-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-warrenville-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -131,7 +131,7 @@
    {
     "keyword": "financial advisor warrenville il",
     "slug": "financial-advisor-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-warrenville-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agency warrenville il",
     "slug": "insurance-agency-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-warrenville-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -161,7 +161,7 @@
    {
     "keyword": "attorney warrenville il",
     "slug": "attorney-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-warrenville-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agents warrenville il",
     "slug": "insurance-agents-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-warrenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -191,7 +191,7 @@
    {
     "keyword": "lawyer warrenville il",
     "slug": "lawyer-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-warrenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agent warrenville il",
     "slug": "insurance-agent-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-warrenville-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -223,7 +223,7 @@
    {
     "keyword": "attorney warrenville il",
     "slug": "attorney-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-warrenville-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -238,7 +238,7 @@
    {
     "keyword": "lawyer warrenville il",
     "slug": "lawyer-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-warrenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "window repair warrenville il",
     "slug": "window-repair-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-repair-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-warrenville-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -268,7 +268,7 @@
    {
     "keyword": "window replacement warrenville il",
     "slug": "window-replacement-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-replacement-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-warrenville-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "architect warrenville il",
     "slug": "architect-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-warrenville-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -298,7 +298,7 @@
    {
     "keyword": "daycare warrenville il",
     "slug": "daycare-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-warrenville-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "chiropractor warrenville il",
     "slug": "chiropractor-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-warrenville-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -328,7 +328,7 @@
    {
     "keyword": "dermatologist warrenville il",
     "slug": "dermatologist-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dermatologist-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dermatologist-warrenville-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -343,7 +343,7 @@
    {
     "keyword": "eye doctor warrenville il",
     "slug": "eye-doctor-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-warrenville-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -358,7 +358,7 @@
    {
     "keyword": "ob gyn warrenville il",
     "slug": "ob-gyn-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/ob-gyn-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/ob-gyn-warrenville-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -373,7 +373,7 @@
    {
     "keyword": "plastic surgeon warrenville il",
     "slug": "plastic-surgeon-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-warrenville-il/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 910,
@@ -388,7 +388,7 @@
    {
     "keyword": "therapist warrenville il",
     "slug": "therapist-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-warrenville-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -403,7 +403,7 @@
    {
     "keyword": "dentist warrenville il",
     "slug": "dentist-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-warrenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -418,7 +418,7 @@
    {
     "keyword": "haircut warrenville il",
     "slug": "haircut-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-warrenville-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -433,7 +433,7 @@
    {
     "keyword": "car wash warrenville il",
     "slug": "car-wash-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-warrenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -450,7 +450,7 @@
    {
     "keyword": "dentist warrenville il",
     "slug": "dentist-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-warrenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -465,7 +465,7 @@
    {
     "keyword": "car wash warrenville il",
     "slug": "car-wash-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-warrenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "gym warrenville il",
     "slug": "gym-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-warrenville-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dog groomer warrenville il",
     "slug": "dog-groomer-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-warrenville-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -510,7 +510,7 @@
    {
     "keyword": "haircut warrenville il",
     "slug": "haircut-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-warrenville-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -525,7 +525,7 @@
    {
     "keyword": "chiropractor warrenville il",
     "slug": "chiropractor-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-warrenville-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -540,7 +540,7 @@
    {
     "keyword": "financial advisor warrenville il",
     "slug": "financial-advisor-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-warrenville-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -555,7 +555,7 @@
    {
     "keyword": "hair salon warrenville il",
     "slug": "hair-salon-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-warrenville-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -570,7 +570,7 @@
    {
     "keyword": "attorney warrenville il",
     "slug": "attorney-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-warrenville-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -585,7 +585,7 @@
    {
     "keyword": "nail salon warrenville il",
     "slug": "nail-salon-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-warrenville-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -600,7 +600,7 @@
    {
     "keyword": "lawyer warrenville il",
     "slug": "lawyer-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-warrenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agency warrenville il",
     "slug": "insurance-agency-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-warrenville-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agents warrenville il",
     "slug": "insurance-agents-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-warrenville-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agent warrenville il",
     "slug": "insurance-agent-warrenville-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-warrenville-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-warrenville-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

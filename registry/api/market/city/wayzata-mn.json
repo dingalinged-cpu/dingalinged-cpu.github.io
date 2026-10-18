@@ -2,7 +2,7 @@
  "title": "Keyword market data: Wayzata, MN",
  "description": "Top Wayzata, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Wayzata, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 18,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist wayzata mn",
     "slug": "dentist-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-wayzata-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon wayzata mn",
     "slug": "hair-salon-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-wayzata-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -41,7 +41,7 @@
    {
     "keyword": "nail salon wayzata mn",
     "slug": "nail-salon-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-wayzata-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic wayzata mn",
     "slug": "mechanic-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-wayzata-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet wayzata mn",
     "slug": "vet-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-wayzata-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut wayzata mn",
     "slug": "haircut-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-wayzata-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair wayzata mn",
     "slug": "auto-repair-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-wayzata-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -116,7 +116,7 @@
    {
     "keyword": "chiropractor wayzata mn",
     "slug": "chiropractor-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-wayzata-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -131,7 +131,7 @@
    {
     "keyword": "attorney wayzata mn",
     "slug": "attorney-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-wayzata-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -146,7 +146,7 @@
    {
     "keyword": "facial wayzata mn",
     "slug": "facial-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-wayzata-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -161,7 +161,7 @@
    {
     "keyword": "lawyer wayzata mn",
     "slug": "lawyer-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-wayzata-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -178,7 +178,7 @@
    {
     "keyword": "attorney wayzata mn",
     "slug": "attorney-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-wayzata-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -193,7 +193,7 @@
    {
     "keyword": "lawyer wayzata mn",
     "slug": "lawyer-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-wayzata-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -208,7 +208,7 @@
    {
     "keyword": "chiropractor wayzata mn",
     "slug": "chiropractor-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-wayzata-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -223,7 +223,7 @@
    {
     "keyword": "plastic surgeon wayzata mn",
     "slug": "plastic-surgeon-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-wayzata-mn/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 370,
@@ -238,7 +238,7 @@
    {
     "keyword": "dentist wayzata mn",
     "slug": "dentist-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-wayzata-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -253,7 +253,7 @@
    {
     "keyword": "facial wayzata mn",
     "slug": "facial-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-wayzata-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -268,7 +268,7 @@
    {
     "keyword": "haircut wayzata mn",
     "slug": "haircut-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-wayzata-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -283,7 +283,7 @@
    {
     "keyword": "auto repair wayzata mn",
     "slug": "auto-repair-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-wayzata-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -298,7 +298,7 @@
    {
     "keyword": "mechanic wayzata mn",
     "slug": "mechanic-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-wayzata-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -313,7 +313,7 @@
    {
     "keyword": "furniture store wayzata mn",
     "slug": "furniture-store-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-wayzata-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -328,7 +328,7 @@
    {
     "keyword": "liquor store wayzata mn",
     "slug": "liquor-store-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-wayzata-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -343,7 +343,7 @@
    {
     "keyword": "pet store wayzata mn",
     "slug": "pet-store-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-wayzata-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -358,7 +358,7 @@
    {
     "keyword": "used cars for sale wayzata mn",
     "slug": "used-cars-for-sale-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-wayzata-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -373,7 +373,7 @@
    {
     "keyword": "vet wayzata mn",
     "slug": "vet-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-wayzata-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -388,7 +388,7 @@
    {
     "keyword": "printing services wayzata mn",
     "slug": "printing-services-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-wayzata-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -405,7 +405,7 @@
    {
     "keyword": "dentist wayzata mn",
     "slug": "dentist-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-wayzata-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -420,7 +420,7 @@
    {
     "keyword": "mechanic wayzata mn",
     "slug": "mechanic-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-wayzata-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -435,7 +435,7 @@
    {
     "keyword": "vet wayzata mn",
     "slug": "vet-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-wayzata-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -450,7 +450,7 @@
    {
     "keyword": "haircut wayzata mn",
     "slug": "haircut-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-wayzata-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -465,7 +465,7 @@
    {
     "keyword": "auto repair wayzata mn",
     "slug": "auto-repair-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-wayzata-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -480,7 +480,7 @@
    {
     "keyword": "chiropractor wayzata mn",
     "slug": "chiropractor-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-wayzata-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -495,7 +495,7 @@
    {
     "keyword": "hair salon wayzata mn",
     "slug": "hair-salon-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-wayzata-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -510,7 +510,7 @@
    {
     "keyword": "attorney wayzata mn",
     "slug": "attorney-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-wayzata-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -525,7 +525,7 @@
    {
     "keyword": "nail salon wayzata mn",
     "slug": "nail-salon-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-wayzata-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -540,7 +540,7 @@
    {
     "keyword": "lawyer wayzata mn",
     "slug": "lawyer-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-wayzata-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -555,7 +555,7 @@
    {
     "keyword": "facial wayzata mn",
     "slug": "facial-wayzata-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-wayzata-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-wayzata-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,

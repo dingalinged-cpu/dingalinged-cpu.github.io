@@ -13,12 +13,12 @@ Hotworx is a gym in Wheaton, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-20:00; Fr 09:00-18:00; Sa 11:00-16:00; Su off
-- Pulse Score: 45.2/100 — Building — top 73% of gyms in Chicago, #3 of 4 gyms in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 49.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 73% of gyms in Chicago, #3 of 4 gyms in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 49.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hotworx-wheaton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hotworx-wheaton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hotworx-wheaton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hotworx-wheaton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11188243183 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

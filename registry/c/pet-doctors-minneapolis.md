@@ -13,12 +13,12 @@ Pet Doctors is a veterinarian in Minneapolis, MN at 25 East Franklin Avenue, Min
 - Website: https://petdoctorsanimalclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:30-18:00; Th 08:30-20:00; Fr 08:30-18:00; Sa 10:00-14:00; Su closed
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 12% of veterinarians in Minneapolis–St. Paul, #3 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 12% of veterinarians in Minneapolis–St. Paul, #3 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-doctors-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-doctors-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pet-doctors-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pet-doctors-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4617470784 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

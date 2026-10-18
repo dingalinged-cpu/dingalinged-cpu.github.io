@@ -13,12 +13,12 @@ Bohannon's Liquor is a liquor store in Basehor, KS at 15518 Pinehurst Drive ##1,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 28% of liquor stores in Kansas City, MO, #2 of 2 liquor stores in Basehor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 28% of liquor stores in Kansas City, MO, #2 of 2 liquor stores in Basehor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 56.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/bohannons-liquor-basehor/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bohannons-liquor-basehor.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bohannons-liquor-basehor/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bohannons-liquor-basehor.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8661255986 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

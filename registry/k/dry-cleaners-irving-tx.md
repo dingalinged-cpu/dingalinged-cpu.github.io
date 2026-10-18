@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for Irving, TX is ZOOM Dry Cleaning (a dry cleaner in Irving, TX). 4 dry cleaners businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Irving, TX is ZOOM Dry Cleaning (a dry cleaner in Irving, TX). 4 dry cleaners businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Irving, TX?
 
@@ -6,10 +6,10 @@ Also answers: dry cleaners in Irving, TX; dry cleaners near me (Irving, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ZOOM Dry Cleaning | Organic #1 | Pulse Score 59.3/100 (Fair, #1 in city) | ZOOM Dry Cleaning is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/zoom-dry-cleaning-irving/
-2. Custom Cleaners | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Custom Cleaners is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/custom-cleaners-irving/
-3. Friendly Cleaners | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Friendly Cleaners is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/friendly-cleaners-irving/
-4. K Cleaners & Tailor | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | K Cleaners & Tailor is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/k-cleaners-and-tailor-irving/
+1. ZOOM Dry Cleaning | Organic #1 | Pulse Score 59.3/100 (Fair, #1 in city) | ZOOM Dry Cleaning is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/zoom-dry-cleaning-irving/
+2. Custom Cleaners | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Custom Cleaners is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/custom-cleaners-irving/
+3. Friendly Cleaners | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Friendly Cleaners is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/friendly-cleaners-irving/
+4. K Cleaners & Tailor | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | K Cleaners & Tailor is a dry cleaner in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/k-cleaners-and-tailor-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners irving tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners-irving-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dry-cleaners.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dry-cleaners-irving-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

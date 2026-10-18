@@ -13,12 +13,12 @@
 - Website: https://crossfitgarland.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 11% of gyms in Dallas–Fort Worth, #2 of 9 gyms in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 11% of gyms in Dallas–Fort Worth, #2 of 9 gyms in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 57.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/3q-fitness-crossfit-garland-garland/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/3q-fitness-crossfit-garland-garland.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/3q-fitness-crossfit-garland-garland/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/3q-fitness-crossfit-garland-garland.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9857092227 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Samcycle Electric Bikes is a bike shop in Palatine, IL at 144 West Northwest Hig
 - Website: https://samcycle.online/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 32% of bike shops in Chicago, #2 of 2 bike shops in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 32% of bike shops in Chicago, #2 of 2 bike shops in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 53.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/samcycle-electric-bikes-palatine/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/samcycle-electric-bikes-palatine.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/samcycle-electric-bikes-palatine/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/samcycle-electric-bikes-palatine.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12527579262 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

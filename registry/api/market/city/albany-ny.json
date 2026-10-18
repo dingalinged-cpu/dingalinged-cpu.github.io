@@ -2,7 +2,7 @@
  "title": "Keyword market data: Albany, NY",
  "description": "Top Albany, NY service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Albany, NY",
  "geography": "Albany-Schenectady-Troy, NY metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage albany ny",
     "slug": "massage-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-albany-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care albany ny",
     "slug": "urgent-care-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-albany-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7300,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist albany ny",
     "slug": "dentist-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-albany-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym albany ny",
     "slug": "gym-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-albany-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash albany ny",
     "slug": "car-wash-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-albany-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change albany ny",
     "slug": "oil-change-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-albany-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon albany ny",
     "slug": "hair-salon-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-albany-ny",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon albany ny",
     "slug": "nail-salon-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-albany-ny",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes albany ny",
     "slug": "car-insurance-quotes-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-albany-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber albany ny",
     "slug": "plumber-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-albany-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments albany ny",
     "slug": "apartments-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-albany-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance albany ny",
     "slug": "auto-insurance-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-albany-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop albany ny",
     "slug": "barber-shop-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-albany-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage albany ny",
     "slug": "lymphatic-drainage-massage-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-albany-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic albany ny",
     "slug": "mechanic-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-albany-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer albany ny",
     "slug": "personal-injury-lawyer-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-albany-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 540,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber albany ny",
     "slug": "emergency-plumber-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-albany-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair albany ny",
     "slug": "hvac-repair-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-albany-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair albany ny",
     "slug": "ac-repair-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-albany-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 990,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement albany ny",
     "slug": "roof-replacement-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-albany-ny",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 89.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair albany ny",
     "slug": "roof-repair-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-albany-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast albany ny",
     "slug": "sell-my-house-fast-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-albany-ny",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 27.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services albany ny",
     "slug": "plumbing-services-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-albany-ny",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining albany ny",
     "slug": "deck-staining-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-albany-ny",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 49.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters albany ny",
     "slug": "exterior-house-painters-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-albany-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 32.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters albany ny",
     "slug": "interior-painters-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-albany-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 32.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters albany ny",
     "slug": "painters-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-albany-ny",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company albany ny",
     "slug": "moving-company-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-albany-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 540,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney albany ny",
     "slug": "criminal-defense-attorney-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-albany-ny",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 240,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer albany ny",
     "slug": "dui-defense-lawyer-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-albany-ny",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 9.6,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage albany ny",
     "slug": "massage-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-albany-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care albany ny",
     "slug": "urgent-care-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-albany-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7300,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer albany ny",
     "slug": "personal-injury-lawyer-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-albany-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 540,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber albany ny",
     "slug": "plumber-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-albany-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist albany ny",
     "slug": "dentist-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-albany-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash albany ny",
     "slug": "car-wash-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-albany-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change albany ny",
     "slug": "oil-change-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-albany-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair albany ny",
     "slug": "ac-repair-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-albany-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 990,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer albany ny",
     "slug": "car-accident-lawyer-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-albany-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 990,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage albany ny",
     "slug": "lymphatic-drainage-massage-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-albany-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym albany ny",
     "slug": "gym-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-albany-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4900,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician albany ny",
     "slug": "electrician-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-albany-ny",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 660,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic albany ny",
     "slug": "mechanic-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-albany-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes albany ny",
     "slug": "car-insurance-quotes-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-albany-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments albany ny",
     "slug": "apartments-albany-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-albany-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-albany-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,

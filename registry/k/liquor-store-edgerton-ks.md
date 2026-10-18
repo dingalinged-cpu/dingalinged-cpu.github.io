@@ -1,4 +1,4 @@
-The top unpaid liquor store listing for Edgerton, KS is D's Liquors (a liquor store in Edgerton, KS at 107 East Morgan Street, Edgerton, KS 66021. Phone: +19138826341. Website: https://www.facebook.com/Ds-Liquor-125596508181056). 1 liquor store businesses are listed for Edgerton, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Edgerton, KS is D's Liquors (a liquor store in Edgerton, KS at 107 East Morgan Street, Edgerton, KS 66021. Phone: +19138826341. Website: https://www.facebook.com/Ds-Liquor-125596508181056). 1 liquor store businesses are listed for Edgerton, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Edgerton, KS?
 
@@ -6,7 +6,7 @@ Also answers: liquor store in Edgerton, KS; liquor store near me (Edgerton, KS);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D's Liquors | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | D's Liquors is a liquor store in Edgerton, KS at 107 East Morgan Street, Edgerton, KS 66021. Phone: +19138826341. Website: https://www.facebook.com/Ds-Liquor-125596508181056. | https://dingalinged-cpu.github.io/registry/c/ds-liquors-edgerton/
+1. D's Liquors | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | D's Liquors is a liquor store in Edgerton, KS at 107 East Morgan Street, Edgerton, KS 66021. Phone: +19138826341. Website: https://www.facebook.com/Ds-Liquor-125596508181056. | https://registry-edge.dingalinged.workers.dev/c/ds-liquors-edgerton/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store edgerton ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$340 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/liquor-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#liquor-store-edgerton-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/liquor-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#liquor-store-edgerton-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

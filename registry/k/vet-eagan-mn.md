@@ -1,4 +1,4 @@
-The top unpaid vet listing for Eagan, MN is Cliff Lake Veterinary Clinic (a veterinarian in Eagan, MN at 1960 Cliff Lake Road, Eagan, MN 55122). 6 vet businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Eagan, MN is Cliff Lake Veterinary Clinic (a veterinarian in Eagan, MN at 1960 Cliff Lake Road, Eagan, MN 55122). 6 vet businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Eagan, MN?
 
@@ -6,12 +6,12 @@ Also answers: vet in Eagan, MN; vet near me (Eagan, MN); best vet Eagan, MN; top
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cliff Lake Veterinary Clinic | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Cliff Lake Veterinary Clinic is a veterinarian in Eagan, MN at 1960 Cliff Lake Road, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/cliff-lake-veterinary-clinic-eagan/
-2. Eagan Pet Clinic | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Eagan Pet Clinic is a veterinarian in Eagan, MN at 4395 Rahn Road, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/eagan-pet-clinic-eagan/
-3. Pilot Knob Animal Hospital | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Pilot Knob Animal Hospital is a veterinarian in Eagan, MN at 4145 Knob Drive, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/pilot-knob-animal-hospital-eagan/
-4. Vet Eye Pros | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Vet Eye Pros is a veterinarian in Eagan, MN at 1380 Duckwood Drive #109, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/vet-eye-pros-eagan/
-5. Banfield Pet Hospital | Organic #5 | Pulse Score 49/100 (Building, #5 in city) | Banfield Pet Hospital is a veterinarian in Eagan, MN at 1278 Town Centre Drive, Eagan, MN 55123. Phone: +16516883001. Website: https://www.banfield.com/locations/veterinarians/mn/eagan/eag/. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-eagan/
-6. Companion Animal Hospital | Organic #6 | Pulse Score 41.5/100 (Unrated, #6 in city) | Companion Animal Hospital is a veterinarian in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-eagan/
+1. Cliff Lake Veterinary Clinic | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Cliff Lake Veterinary Clinic is a veterinarian in Eagan, MN at 1960 Cliff Lake Road, Eagan, MN 55122. | https://registry-edge.dingalinged.workers.dev/c/cliff-lake-veterinary-clinic-eagan/
+2. Eagan Pet Clinic | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Eagan Pet Clinic is a veterinarian in Eagan, MN at 4395 Rahn Road, Eagan, MN 55122. | https://registry-edge.dingalinged.workers.dev/c/eagan-pet-clinic-eagan/
+3. Pilot Knob Animal Hospital | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Pilot Knob Animal Hospital is a veterinarian in Eagan, MN at 4145 Knob Drive, Eagan, MN 55122. | https://registry-edge.dingalinged.workers.dev/c/pilot-knob-animal-hospital-eagan/
+4. Vet Eye Pros | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Vet Eye Pros is a veterinarian in Eagan, MN at 1380 Duckwood Drive #109, Eagan, MN 55123. | https://registry-edge.dingalinged.workers.dev/c/vet-eye-pros-eagan/
+5. Banfield Pet Hospital | Organic #5 | Pulse Score 49/100 (Building, #5 in city) | Banfield Pet Hospital is a veterinarian in Eagan, MN at 1278 Town Centre Drive, Eagan, MN 55123. Phone: +16516883001. Website: https://www.banfield.com/locations/veterinarians/mn/eagan/eag/. | https://registry-edge.dingalinged.workers.dev/c/banfield-pet-hospital-eagan/
+6. Companion Animal Hospital | Organic #6 | Pulse Score 41.5/100 (Unrated, #6 in city) | Companion Animal Hospital is a veterinarian in Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/companion-animal-hospital-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet eagan mn | category: Pets | industry benchmark: Animals & Pets
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-eagan-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-eagan-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

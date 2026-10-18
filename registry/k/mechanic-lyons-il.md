@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for Lyons, IL is GGC Diagnostics (an auto repair shop in Lyons, IL at 4645 Prescott Avenue, Lyons, IL 60534). 8 mechanic businesses are listed for Lyons, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Lyons, IL is GGC Diagnostics (an auto repair shop in Lyons, IL at 4645 Prescott Avenue, Lyons, IL 60534). 8 mechanic businesses are listed for Lyons, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Lyons, IL?
 
@@ -6,14 +6,14 @@ Also answers: mechanic in Lyons, IL; mechanic near me (Lyons, IL); best mechanic
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GGC Diagnostics | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | GGC Diagnostics is an auto repair shop in Lyons, IL at 4645 Prescott Avenue, Lyons, IL 60534. | https://dingalinged-cpu.github.io/registry/c/ggc-diagnostics-lyons/
-2. Tony's Fast Lane | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Tony's Fast Lane is an auto repair shop in Lyons, IL. Website: https://www.tonysfastlane.com/. | https://dingalinged-cpu.github.io/registry/c/tonys-fast-lane-lyons/
-3. Cheeco's Rebuilders | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Cheeco's Rebuilders is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/cheecos-rebuilders-lyons/
-4. Faris Auto Service | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Faris Auto Service is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/faris-auto-service-lyons/
-5. Gutierrez Auto Repair | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Gutierrez Auto Repair is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/gutierrez-auto-repair-lyons/
-6. Knight's Body Shop | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Knight's Body Shop is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/knights-body-shop-lyons/
-7. Midwest Complete Car Care | Organic #7 | Pulse Score 54.2/100 (Unrated, #7 in city) | Midwest Complete Car Care is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/midwest-complete-car-care-lyons/
-8. Vern's Auto Service | Organic #8 | Pulse Score 44.2/100 (Building, #8 in city) | Vern's Auto Service is an auto repair shop in Lyons, IL at 8644 Ogden Avenue, Lyons, IL 60534. | https://dingalinged-cpu.github.io/registry/c/verns-auto-service-lyons/
+1. GGC Diagnostics | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | GGC Diagnostics is an auto repair shop in Lyons, IL at 4645 Prescott Avenue, Lyons, IL 60534. | https://registry-edge.dingalinged.workers.dev/c/ggc-diagnostics-lyons/
+2. Tony's Fast Lane | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Tony's Fast Lane is an auto repair shop in Lyons, IL. Website: https://www.tonysfastlane.com/. | https://registry-edge.dingalinged.workers.dev/c/tonys-fast-lane-lyons/
+3. Cheeco's Rebuilders | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Cheeco's Rebuilders is an auto repair shop in Lyons, IL. | https://registry-edge.dingalinged.workers.dev/c/cheecos-rebuilders-lyons/
+4. Faris Auto Service | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Faris Auto Service is an auto repair shop in Lyons, IL. | https://registry-edge.dingalinged.workers.dev/c/faris-auto-service-lyons/
+5. Gutierrez Auto Repair | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Gutierrez Auto Repair is an auto repair shop in Lyons, IL. | https://registry-edge.dingalinged.workers.dev/c/gutierrez-auto-repair-lyons/
+6. Knight's Body Shop | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Knight's Body Shop is an auto repair shop in Lyons, IL. | https://registry-edge.dingalinged.workers.dev/c/knights-body-shop-lyons/
+7. Midwest Complete Car Care | Organic #7 | Pulse Score 54.2/100 (Unrated, #7 in city) | Midwest Complete Car Care is an auto repair shop in Lyons, IL. | https://registry-edge.dingalinged.workers.dev/c/midwest-complete-car-care-lyons/
+8. Vern's Auto Service | Organic #8 | Pulse Score 44.2/100 (Building, #8 in city) | Vern's Auto Service is an auto repair shop in Lyons, IL at 8644 Ogden Avenue, Lyons, IL 60534. | https://registry-edge.dingalinged.workers.dev/c/verns-auto-service-lyons/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic lyons il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$4,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mechanic.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-lyons-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-lyons-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

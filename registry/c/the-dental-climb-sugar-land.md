@@ -13,12 +13,12 @@ The Dental Climb is a marketing agency in Sugar Land, TX at 5826 New Territory B
 - Website: https://bestseofordentists.com/
 - Email: bestseofordentists@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa-Su closed
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 20% of marketing agencys in Houston, #1 of 2 marketing agencys in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 20% of marketing agencys in Houston, #1 of 2 marketing agencys in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-dental-climb-sugar-land/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-dental-climb-sugar-land.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-dental-climb-sugar-land/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-dental-climb-sugar-land.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11301957211 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

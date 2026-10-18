@@ -13,12 +13,12 @@ The Best Little Dog House In Texas is a dog boarding facility in Houston, TX at 
 - Website: https://www.thebestlittledoghouseintexas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 50% of dog boarding facilitys in Houston, #6 of 10 dog boarding facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 52.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 50% of dog boarding facilitys in Houston, #6 of 10 dog boarding facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-best-little-dog-house-in-texas-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-best-little-dog-house-in-texas-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-best-little-dog-house-in-texas-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-best-little-dog-house-in-texas-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1099854648 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

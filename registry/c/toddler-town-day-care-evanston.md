@@ -13,12 +13,12 @@ Toddler Town Day Care is a preschool in Evanston, IL at 1501 Howard Street, Evan
 - Website: https://www.toddlertownchicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 12% of preschools in Chicago, #2 of 5 preschools in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 12% of preschools in Chicago, #2 of 5 preschools in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/toddler-town-day-care-evanston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/toddler-town-day-care-evanston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/toddler-town-day-care-evanston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/toddler-town-day-care-evanston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/224249701 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

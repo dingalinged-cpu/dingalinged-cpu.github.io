@@ -2,7 +2,7 @@
  "title": "Keyword market data: Fayetteville, AR",
  "description": "Top Fayetteville, AR service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Fayetteville, AR",
  "geography": "Fayetteville-Springdale-Rogers, AR metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage fayetteville ar",
     "slug": "massage-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-fayetteville-ar",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care fayetteville ar",
     "slug": "urgent-care-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-fayetteville-ar",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist fayetteville ar",
     "slug": "dentist-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-fayetteville-ar",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym fayetteville ar",
     "slug": "gym-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-fayetteville-ar",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash fayetteville ar",
     "slug": "car-wash-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-fayetteville-ar",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change fayetteville ar",
     "slug": "oil-change-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-fayetteville-ar",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon fayetteville ar",
     "slug": "hair-salon-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-fayetteville-ar",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon fayetteville ar",
     "slug": "nail-salon-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-fayetteville-ar",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes fayetteville ar",
     "slug": "car-insurance-quotes-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-fayetteville-ar",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber fayetteville ar",
     "slug": "plumber-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-fayetteville-ar",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments fayetteville ar",
     "slug": "apartments-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-fayetteville-ar",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance fayetteville ar",
     "slug": "auto-insurance-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-fayetteville-ar",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop fayetteville ar",
     "slug": "barber-shop-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-fayetteville-ar",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage fayetteville ar",
     "slug": "lymphatic-drainage-massage-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-fayetteville-ar",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic fayetteville ar",
     "slug": "mechanic-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-fayetteville-ar",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer fayetteville ar",
     "slug": "personal-injury-lawyer-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-fayetteville-ar",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber fayetteville ar",
     "slug": "emergency-plumber-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-fayetteville-ar",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair fayetteville ar",
     "slug": "hvac-repair-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-fayetteville-ar",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair fayetteville ar",
     "slug": "ac-repair-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-fayetteville-ar",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement fayetteville ar",
     "slug": "roof-replacement-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-fayetteville-ar",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 60.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair fayetteville ar",
     "slug": "roof-repair-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-fayetteville-ar",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast fayetteville ar",
     "slug": "sell-my-house-fast-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-fayetteville-ar",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 18.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services fayetteville ar",
     "slug": "plumbing-services-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-fayetteville-ar",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 90.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining fayetteville ar",
     "slug": "deck-staining-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-fayetteville-ar",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters fayetteville ar",
     "slug": "exterior-house-painters-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-fayetteville-ar",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 22.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters fayetteville ar",
     "slug": "interior-painters-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-fayetteville-ar",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 22.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters fayetteville ar",
     "slug": "painters-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-fayetteville-ar",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company fayetteville ar",
     "slug": "moving-company-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-fayetteville-ar",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney fayetteville ar",
     "slug": "criminal-defense-attorney-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-fayetteville-ar",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer fayetteville ar",
     "slug": "dui-defense-lawyer-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-fayetteville-ar",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6.6,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage fayetteville ar",
     "slug": "massage-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-fayetteville-ar",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care fayetteville ar",
     "slug": "urgent-care-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-fayetteville-ar",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer fayetteville ar",
     "slug": "personal-injury-lawyer-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-fayetteville-ar",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 370,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber fayetteville ar",
     "slug": "plumber-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-fayetteville-ar",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist fayetteville ar",
     "slug": "dentist-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-fayetteville-ar",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash fayetteville ar",
     "slug": "car-wash-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-fayetteville-ar",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change fayetteville ar",
     "slug": "oil-change-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-fayetteville-ar",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair fayetteville ar",
     "slug": "ac-repair-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-fayetteville-ar",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer fayetteville ar",
     "slug": "car-accident-lawyer-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-fayetteville-ar",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -600,7 +600,7 @@
    {
     "keyword": "electrician fayetteville ar",
     "slug": "electrician-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-fayetteville-ar",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym fayetteville ar",
     "slug": "gym-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-fayetteville-ar",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -630,7 +630,7 @@
    {
     "keyword": "lymphatic drainage massage fayetteville ar",
     "slug": "lymphatic-drainage-massage-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-fayetteville-ar",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic fayetteville ar",
     "slug": "mechanic-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-fayetteville-ar",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes fayetteville ar",
     "slug": "car-insurance-quotes-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-fayetteville-ar",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments fayetteville ar",
     "slug": "apartments-fayetteville-ar",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-fayetteville-ar",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-fayetteville-ar",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,

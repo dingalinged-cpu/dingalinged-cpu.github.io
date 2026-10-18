@@ -2,7 +2,7 @@
  "title": "Keyword market data: Terrell, TX",
  "description": "Top Terrell, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Terrell, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 17,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist terrell tx",
     "slug": "dentist-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-terrell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym terrell tx",
     "slug": "gym-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-terrell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon terrell tx",
     "slug": "hair-salon-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-terrell-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic terrell tx",
     "slug": "mechanic-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-terrell-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -71,7 +71,7 @@
    {
     "keyword": "tire shop terrell tx",
     "slug": "tire-shop-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-terrell-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -86,7 +86,7 @@
    {
     "keyword": "dog groomer terrell tx",
     "slug": "dog-groomer-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-terrell-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut terrell tx",
     "slug": "haircut-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-terrell-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair terrell tx",
     "slug": "auto-repair-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-terrell-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency terrell tx",
     "slug": "insurance-agency-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-terrell-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -146,7 +146,7 @@
    {
     "keyword": "pediatrician terrell tx",
     "slug": "pediatrician-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-terrell-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -161,7 +161,7 @@
    {
     "keyword": "tax preparation terrell tx",
     "slug": "tax-preparation-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-terrell-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparer terrell tx",
     "slug": "tax-preparer-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-terrell-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agents terrell tx",
     "slug": "insurance-agents-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-terrell-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agent terrell tx",
     "slug": "insurance-agent-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-terrell-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -223,7 +223,7 @@
    {
     "keyword": "tax preparer terrell tx",
     "slug": "tax-preparer-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-terrell-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -238,7 +238,7 @@
    {
     "keyword": "pediatrician terrell tx",
     "slug": "pediatrician-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-terrell-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -253,7 +253,7 @@
    {
     "keyword": "dentist terrell tx",
     "slug": "dentist-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-terrell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -268,7 +268,7 @@
    {
     "keyword": "haircut terrell tx",
     "slug": "haircut-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-terrell-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -283,7 +283,7 @@
    {
     "keyword": "tattoo shop terrell tx",
     "slug": "tattoo-shop-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tattoo-shop-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-terrell-tx/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 23000,
@@ -298,7 +298,7 @@
    {
     "keyword": "auto repair terrell tx",
     "slug": "auto-repair-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-terrell-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -313,7 +313,7 @@
    {
     "keyword": "mechanic terrell tx",
     "slug": "mechanic-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-terrell-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -328,7 +328,7 @@
    {
     "keyword": "tire shop terrell tx",
     "slug": "tire-shop-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-terrell-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -343,7 +343,7 @@
    {
     "keyword": "jewelry store terrell tx",
     "slug": "jewelry-store-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-terrell-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -358,7 +358,7 @@
    {
     "keyword": "liquor store terrell tx",
     "slug": "liquor-store-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-terrell-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -373,7 +373,7 @@
    {
     "keyword": "dog groomer terrell tx",
     "slug": "dog-groomer-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-terrell-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -388,7 +388,7 @@
    {
     "keyword": "insurance agency terrell tx",
     "slug": "insurance-agency-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-terrell-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -403,7 +403,7 @@
    {
     "keyword": "insurance agent terrell tx",
     "slug": "insurance-agent-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-terrell-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -418,7 +418,7 @@
    {
     "keyword": "insurance agents terrell tx",
     "slug": "insurance-agents-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-terrell-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -433,7 +433,7 @@
    {
     "keyword": "tax preparation terrell tx",
     "slug": "tax-preparation-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-terrell-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -450,7 +450,7 @@
    {
     "keyword": "dentist terrell tx",
     "slug": "dentist-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-terrell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -465,7 +465,7 @@
    {
     "keyword": "gym terrell tx",
     "slug": "gym-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-terrell-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -480,7 +480,7 @@
    {
     "keyword": "mechanic terrell tx",
     "slug": "mechanic-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-terrell-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -495,7 +495,7 @@
    {
     "keyword": "tire shop terrell tx",
     "slug": "tire-shop-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-terrell-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -510,7 +510,7 @@
    {
     "keyword": "dog groomer terrell tx",
     "slug": "dog-groomer-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-terrell-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -525,7 +525,7 @@
    {
     "keyword": "haircut terrell tx",
     "slug": "haircut-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-terrell-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -540,7 +540,7 @@
    {
     "keyword": "auto repair terrell tx",
     "slug": "auto-repair-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-terrell-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -555,7 +555,7 @@
    {
     "keyword": "hair salon terrell tx",
     "slug": "hair-salon-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-terrell-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -570,7 +570,7 @@
    {
     "keyword": "pediatrician terrell tx",
     "slug": "pediatrician-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-terrell-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -585,7 +585,7 @@
    {
     "keyword": "tax preparer terrell tx",
     "slug": "tax-preparer-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-terrell-tx/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -600,7 +600,7 @@
    {
     "keyword": "insurance agency terrell tx",
     "slug": "insurance-agency-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-terrell-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -615,7 +615,7 @@
    {
     "keyword": "tax preparation terrell tx",
     "slug": "tax-preparation-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-terrell-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agents terrell tx",
     "slug": "insurance-agents-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-terrell-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agent terrell tx",
     "slug": "insurance-agent-terrell-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-terrell-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-terrell-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,

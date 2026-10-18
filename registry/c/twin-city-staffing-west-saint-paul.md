@@ -13,12 +13,12 @@ Twin City Staffing is a staffing agency in West Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 75% of staffing agencys in Minneapolis–St. Paul, #1 of 2 staffing agencys in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 75% of staffing agencys in Minneapolis–St. Paul, #1 of 2 staffing agencys in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 43.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/twin-city-staffing-west-saint-paul/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/twin-city-staffing-west-saint-paul.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/twin-city-staffing-west-saint-paul/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/twin-city-staffing-west-saint-paul.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12729479028 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

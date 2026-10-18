@@ -13,12 +13,12 @@ Edible Arrangements is a gift shop in Kansas City, MO at 9255 Northeast 83rd Ter
 - Website: https://www.ediblearrangements.com/stores/9255-Northeast-83rd-Terrace-Kansas-City-MO-64158
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 86% of gift shops in Kansas City, MO, #30 of 33 gift shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 86% of gift shops in Kansas City, MO, #30 of 33 gift shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 55. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/edible-arrangements-kansas-city-w572915815/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/edible-arrangements-kansas-city-w572915815.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edible-arrangements-kansas-city-w572915815/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edible-arrangements-kansas-city-w572915815.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/572915815 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Discount Tire is a tire shop in Denton, TX at 3851 North Interstate 35, Denton, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.9/100 — Building — top 96% of tire shops in Dallas–Fort Worth, #11 of 11 tire shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 43.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.9/100 — Building — top 96% of tire shops in Dallas–Fort Worth, #11 of 11 tire shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 43.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-denton-w829444451/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-denton-w829444451.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-denton-w829444451/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-denton-w829444451.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/829444451 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Cat Clinic of Johnson County is a veterinarian in Lenexa, KS. Phone: +1913541047
 - Website: https://catclinicofjc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 27% of veterinarians in Kansas City, MO, #4 of 4 veterinarians in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 27% of veterinarians in Kansas City, MO, #4 of 4 veterinarians in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 56.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cat-clinic-of-johnson-county-lenexa/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cat-clinic-of-johnson-county-lenexa.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cat-clinic-of-johnson-county-lenexa/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cat-clinic-of-johnson-county-lenexa.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/630320368 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Venetian Nail Spa is a nail salon in Dallas, TX at 7949 Walnut Hill Lane, Dallas
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-19:30; Su 11:00-17:00
-- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 91% of nail salons in Dallas–Fort Worth, #43 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 91% of nail salons in Dallas–Fort Worth, #43 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 55.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/venetian-nail-spa-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/venetian-nail-spa-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/venetian-nail-spa-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/venetian-nail-spa-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7933034195 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

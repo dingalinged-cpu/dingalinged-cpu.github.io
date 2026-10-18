@@ -13,12 +13,12 @@ Barre 3 is a gym in Marietta, GA at 4475 Roswell Road #1415, Marietta, GA 30062.
 - Website: https://avenueeastcobb.com/directory/barre-3/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Good — top 14% of gyms in Atlanta, #8 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Good — top 14% of gyms in Atlanta, #8 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 54.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/barre-3-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/barre-3-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/barre-3-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/barre-3-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12479704562 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

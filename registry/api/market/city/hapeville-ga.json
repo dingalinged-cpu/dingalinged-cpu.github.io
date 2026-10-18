@@ -2,7 +2,7 @@
  "title": "Keyword market data: Hapeville, GA",
  "description": "Top Hapeville, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hapeville, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 7,
@@ -11,7 +11,7 @@
    {
     "keyword": "hair salon hapeville ga",
     "slug": "hair-salon-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hapeville-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -26,7 +26,7 @@
    {
     "keyword": "haircut hapeville ga",
     "slug": "haircut-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hapeville-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -41,7 +41,7 @@
    {
     "keyword": "yoga classes hapeville ga",
     "slug": "yoga-classes-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-hapeville-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -58,7 +58,7 @@
    {
     "keyword": "storage units hapeville ga",
     "slug": "storage-units-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-hapeville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -73,7 +73,7 @@
    {
     "keyword": "bakery hapeville ga",
     "slug": "bakery-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-hapeville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -88,7 +88,7 @@
    {
     "keyword": "haircut hapeville ga",
     "slug": "haircut-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hapeville-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -103,7 +103,7 @@
    {
     "keyword": "liquor store hapeville ga",
     "slug": "liquor-store-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-hapeville-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -118,7 +118,7 @@
    {
     "keyword": "funeral home hapeville ga",
     "slug": "funeral-home-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-hapeville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -133,7 +133,7 @@
    {
     "keyword": "yoga classes hapeville ga",
     "slug": "yoga-classes-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-hapeville-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -148,7 +148,7 @@
    {
     "keyword": "hair salon hapeville ga",
     "slug": "hair-salon-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hapeville-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -165,7 +165,7 @@
    {
     "keyword": "haircut hapeville ga",
     "slug": "haircut-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hapeville-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -180,7 +180,7 @@
    {
     "keyword": "hair salon hapeville ga",
     "slug": "hair-salon-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hapeville-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -195,7 +195,7 @@
    {
     "keyword": "yoga classes hapeville ga",
     "slug": "yoga-classes-hapeville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-hapeville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-hapeville-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

@@ -13,12 +13,12 @@ Solitaires is a jewelry store in Plano, TX at 7140 Bishop Road #1112, Plano, TX 
 - Website: https://solitairesonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 12:00-16:30 || "by appointment"
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Dallas–Fort Worth, #2 of 11 jewelry stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 10% of jewelry stores in Dallas–Fort Worth, #2 of 11 jewelry stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/solitaires-plano/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/solitaires-plano.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/solitaires-plano/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/solitaires-plano.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4458771662 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

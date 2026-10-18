@@ -13,12 +13,12 @@ Life Time is a gym in Eden Prairie, MN at 6233 Baker Road, Eden Prairie, MN 5534
 - Website: https://www.lifetime.life/life-time-locations/mn-eden-prairie-crosstown.html
 - Email: n/a
 - Opening hours (OSM syntax): Su 07:00-23:00; Mo-Th 05:00-00:00; Fr 05:00-23:00; Sa 06:00-23:00
-- Pulse Score: 48.8/100 — Building — top 54% of gyms in Minneapolis–St. Paul, #3 of 6 gyms in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 54% of gyms in Minneapolis–St. Paul, #3 of 6 gyms in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/life-time-eden-prairie-w113922002/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/life-time-eden-prairie-w113922002.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/life-time-eden-prairie-w113922002/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/life-time-eden-prairie-w113922002.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/113922002 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

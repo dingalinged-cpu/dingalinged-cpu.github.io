@@ -2,7 +2,7 @@
  "title": "Keyword market data: Darien, IL",
  "description": "Top Darien, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Darien, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 29,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage darien il",
     "slug": "massage-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-darien-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash darien il",
     "slug": "car-wash-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-darien-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist darien il",
     "slug": "dentist-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-darien-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym darien il",
     "slug": "gym-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-darien-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon darien il",
     "slug": "hair-salon-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-darien-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon darien il",
     "slug": "nail-salon-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-darien-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic darien il",
     "slug": "mechanic-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-darien-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut darien il",
     "slug": "haircut-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-darien-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair darien il",
     "slug": "auto-repair-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-darien-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog boarding darien il",
     "slug": "dog-boarding-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-darien-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agency darien il",
     "slug": "insurance-agency-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-darien-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agents darien il",
     "slug": "insurance-agents-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-darien-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agent darien il",
     "slug": "insurance-agent-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-darien-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -208,7 +208,7 @@
    {
     "keyword": "bakery darien il",
     "slug": "bakery-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-darien-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -223,7 +223,7 @@
    {
     "keyword": "event venues darien il",
     "slug": "event-venues-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-darien-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "martial arts darien il",
     "slug": "martial-arts-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-darien-il/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 8300,
@@ -253,7 +253,7 @@
    {
     "keyword": "dermatologist darien il",
     "slug": "dermatologist-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dermatologist-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dermatologist-darien-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -268,7 +268,7 @@
    {
     "keyword": "eye doctor darien il",
     "slug": "eye-doctor-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-darien-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "physical therapy darien il",
     "slug": "physical-therapy-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-darien-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -298,7 +298,7 @@
    {
     "keyword": "therapist darien il",
     "slug": "therapist-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-darien-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "dentist darien il",
     "slug": "dentist-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-darien-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -328,7 +328,7 @@
    {
     "keyword": "haircut darien il",
     "slug": "haircut-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-darien-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -343,7 +343,7 @@
    {
     "keyword": "massage darien il",
     "slug": "massage-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-darien-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -358,7 +358,7 @@
    {
     "keyword": "waxing darien il",
     "slug": "waxing-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/waxing-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/waxing-darien-il/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 26000,
@@ -373,7 +373,7 @@
    {
     "keyword": "auto repair darien il",
     "slug": "auto-repair-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-darien-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -388,7 +388,7 @@
    {
     "keyword": "car wash darien il",
     "slug": "car-wash-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-darien-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -403,7 +403,7 @@
    {
     "keyword": "mechanic darien il",
     "slug": "mechanic-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-darien-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -418,7 +418,7 @@
    {
     "keyword": "gift shop darien il",
     "slug": "gift-shop-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-darien-il/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 500,
@@ -435,7 +435,7 @@
    {
     "keyword": "massage darien il",
     "slug": "massage-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-darien-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -450,7 +450,7 @@
    {
     "keyword": "dentist darien il",
     "slug": "dentist-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-darien-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -465,7 +465,7 @@
    {
     "keyword": "car wash darien il",
     "slug": "car-wash-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-darien-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "gym darien il",
     "slug": "gym-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-darien-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic darien il",
     "slug": "mechanic-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-darien-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -510,7 +510,7 @@
    {
     "keyword": "haircut darien il",
     "slug": "haircut-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-darien-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -525,7 +525,7 @@
    {
     "keyword": "auto repair darien il",
     "slug": "auto-repair-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-darien-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -540,7 +540,7 @@
    {
     "keyword": "dog boarding darien il",
     "slug": "dog-boarding-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-darien-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -555,7 +555,7 @@
    {
     "keyword": "hair salon darien il",
     "slug": "hair-salon-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-darien-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -570,7 +570,7 @@
    {
     "keyword": "nail salon darien il",
     "slug": "nail-salon-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-darien-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -585,7 +585,7 @@
    {
     "keyword": "insurance agency darien il",
     "slug": "insurance-agency-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-darien-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -600,7 +600,7 @@
    {
     "keyword": "insurance agents darien il",
     "slug": "insurance-agents-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-darien-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agent darien il",
     "slug": "insurance-agent-darien-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-darien-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-darien-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

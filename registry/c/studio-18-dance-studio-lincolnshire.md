@@ -13,12 +13,12 @@ Studio 18 Dance Studio is a dance studio in Lincolnshire, IL at 440 Milwaukee Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 62% of dance studios in Chicago, #1 of 1 dance studios in Lincolnshire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 62% of dance studios in Chicago, #1 of 1 dance studios in Lincolnshire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/studio-18-dance-studio-lincolnshire/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/studio-18-dance-studio-lincolnshire.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/studio-18-dance-studio-lincolnshire/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/studio-18-dance-studio-lincolnshire.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1154575731 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

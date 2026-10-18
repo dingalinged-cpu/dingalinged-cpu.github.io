@@ -13,12 +13,12 @@ Engage Physical Therapy and Wellness is a physical therapy clinic in Shorewood, 
 - Website: https://www.engagephysicaltherapymn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Good — top 29% of physical therapy clinics in Minneapolis–St. Paul, #1 of 1 physical therapy clinics in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Good — top 29% of physical therapy clinics in Minneapolis–St. Paul, #1 of 1 physical therapy clinics in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 51.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/engage-physical-therapy-and-wellness-shorewood/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/engage-physical-therapy-and-wellness-shorewood.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/engage-physical-therapy-and-wellness-shorewood/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/engage-physical-therapy-and-wellness-shorewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11219547733 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

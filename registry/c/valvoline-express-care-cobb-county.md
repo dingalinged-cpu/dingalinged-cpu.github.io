@@ -13,12 +13,12 @@ Valvoline Express Care is an auto repair shop in Cobb County, GA at 3418 Canton 
 - Website: https://getvalvoline.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Pulse Score: 49.4/100 — Building — top 71% of auto repair shops in Atlanta, #59 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 71% of auto repair shops in Atlanta, #59 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 59.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/valvoline-express-care-cobb-county/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/valvoline-express-care-cobb-county.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/valvoline-express-care-cobb-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/valvoline-express-care-cobb-county.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/625374339 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

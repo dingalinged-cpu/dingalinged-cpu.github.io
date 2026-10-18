@@ -2,7 +2,7 @@
  "title": "Keyword market data: Watauga, TX",
  "description": "Top Watauga, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Watauga, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 5,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist watauga tx",
     "slug": "dentist-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-watauga-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon watauga tx",
     "slug": "hair-salon-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-watauga-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -41,7 +41,7 @@
    {
     "keyword": "haircut watauga tx",
     "slug": "haircut-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-watauga-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -56,7 +56,7 @@
    {
     "keyword": "family doctor watauga tx",
     "slug": "family-doctor-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-watauga-tx/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -71,7 +71,7 @@
    {
     "keyword": "primary care physician watauga tx",
     "slug": "primary-care-physician-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-watauga-tx/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -88,7 +88,7 @@
    {
     "keyword": "family doctor watauga tx",
     "slug": "family-doctor-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-watauga-tx/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -103,7 +103,7 @@
    {
     "keyword": "primary care physician watauga tx",
     "slug": "primary-care-physician-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-watauga-tx/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -118,7 +118,7 @@
    {
     "keyword": "dentist watauga tx",
     "slug": "dentist-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-watauga-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -133,7 +133,7 @@
    {
     "keyword": "haircut watauga tx",
     "slug": "haircut-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-watauga-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -148,7 +148,7 @@
    {
     "keyword": "hair salon watauga tx",
     "slug": "hair-salon-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-watauga-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -165,7 +165,7 @@
    {
     "keyword": "dentist watauga tx",
     "slug": "dentist-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-watauga-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -180,7 +180,7 @@
    {
     "keyword": "haircut watauga tx",
     "slug": "haircut-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-watauga-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -195,7 +195,7 @@
    {
     "keyword": "hair salon watauga tx",
     "slug": "hair-salon-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-watauga-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -210,7 +210,7 @@
    {
     "keyword": "family doctor watauga tx",
     "slug": "family-doctor-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-watauga-tx/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -225,7 +225,7 @@
    {
     "keyword": "primary care physician watauga tx",
     "slug": "primary-care-physician-watauga-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-watauga-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-watauga-tx/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,

@@ -1,4 +1,4 @@
-The top unpaid chiropractor listing for Chicago Precinct, NE is Hauptman Chiropractic (a chiropractor in Omaha, NE at 19060 Q Street #105, Omaha, NE 68135. Phone: +14026779698. Website: https://www.omahanechiropractor.com/). 3 chiropractor businesses are listed for Chicago Precinct, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Chicago Precinct, NE is Hauptman Chiropractic (a chiropractor in Omaha, NE at 19060 Q Street #105, Omaha, NE 68135. Phone: +14026779698. Website: https://www.omahanechiropractor.com/). 3 chiropractor businesses are listed for Chicago Precinct, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Chicago Precinct, NE?
 
@@ -6,9 +6,9 @@ Also answers: chiropractor in Chicago Precinct, NE; chiropractor near me (Chicag
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hauptman Chiropractic | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Hauptman Chiropractic is a chiropractor in Omaha, NE at 19060 Q Street #105, Omaha, NE 68135. Phone: +14026779698. Website: https://www.omahanechiropractor.com/. | https://dingalinged-cpu.github.io/registry/c/hauptman-chiropractic-omaha/
-2. Mack Family Chiropractic | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Mack Family Chiropractic is a chiropractor in Chicago Precinct, NE at 18924 Evans Street #105, Chicago Precinct, NE 68022. Phone: +15314668611. Website: https://mackfamilychiro.com/. | https://dingalinged-cpu.github.io/registry/c/mack-family-chiropractic-chicago-precinct/
-3. Balanced Body | Organic #3 | Pulse Score 56.1/100 (Unrated, #1 in city) | Balanced Body is a chiropractor in Chicago Precinct, NE. Website: https://www.balancedbodyomaha.com/. | https://dingalinged-cpu.github.io/registry/c/balanced-body-chicago-precinct/
+1. Hauptman Chiropractic | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Hauptman Chiropractic is a chiropractor in Omaha, NE at 19060 Q Street #105, Omaha, NE 68135. Phone: +14026779698. Website: https://www.omahanechiropractor.com/. | https://registry-edge.dingalinged.workers.dev/c/hauptman-chiropractic-omaha/
+2. Mack Family Chiropractic | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Mack Family Chiropractic is a chiropractor in Chicago Precinct, NE at 18924 Evans Street #105, Chicago Precinct, NE 68022. Phone: +15314668611. Website: https://mackfamilychiro.com/. | https://registry-edge.dingalinged.workers.dev/c/mack-family-chiropractic-chicago-precinct/
+3. Balanced Body | Organic #3 | Pulse Score 56.1/100 (Unrated, #1 in city) | Balanced Body is a chiropractor in Chicago Precinct, NE. Website: https://www.balancedbodyomaha.com/. | https://registry-edge.dingalinged.workers.dev/c/balanced-body-chicago-precinct/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor chicago precinct ne | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$230 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/chiropractor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#chiropractor-chicago-precinct-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/chiropractor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#chiropractor-chicago-precinct-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

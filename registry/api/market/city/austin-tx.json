@@ -2,7 +2,7 @@
  "title": "Keyword market data: Austin, TX",
  "description": "Top Austin, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Austin, TX",
  "geography": "Austin-Round Rock-San Marcos, TX metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage austin tx",
     "slug": "massage-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-austin-tx",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 38000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care austin tx",
     "slug": "urgent-care-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-austin-tx",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 21000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist austin tx",
     "slug": "dentist-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-austin-tx",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym austin tx",
     "slug": "gym-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-austin-tx",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash austin tx",
     "slug": "car-wash-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-austin-tx",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change austin tx",
     "slug": "oil-change-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-austin-tx",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon austin tx",
     "slug": "hair-salon-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-austin-tx",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon austin tx",
     "slug": "nail-salon-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-austin-tx",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7700,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes austin tx",
     "slug": "car-insurance-quotes-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-austin-tx",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6300,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber austin tx",
     "slug": "plumber-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-austin-tx",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6300,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments austin tx",
     "slug": "apartments-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-austin-tx",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6300,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance austin tx",
     "slug": "auto-insurance-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-austin-tx",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5200,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop austin tx",
     "slug": "barber-shop-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-austin-tx",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5200,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage austin tx",
     "slug": "lymphatic-drainage-massage-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-austin-tx",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5200,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic austin tx",
     "slug": "mechanic-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-austin-tx",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5200,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer austin tx",
     "slug": "personal-injury-lawyer-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-austin-tx",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber austin tx",
     "slug": "emergency-plumber-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-austin-tx",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 570,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair austin tx",
     "slug": "hvac-repair-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-austin-tx",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 570,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair austin tx",
     "slug": "ac-repair-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-austin-tx",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement austin tx",
     "slug": "roof-replacement-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-austin-tx",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 250,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair austin tx",
     "slug": "roof-repair-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-austin-tx",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 570,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast austin tx",
     "slug": "sell-my-house-fast-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-austin-tx",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 76.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services austin tx",
     "slug": "plumbing-services-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-austin-tx",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 380,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining austin tx",
     "slug": "deck-staining-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-austin-tx",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters austin tx",
     "slug": "exterior-house-painters-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-austin-tx",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 93.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters austin tx",
     "slug": "interior-painters-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-austin-tx",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 93.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters austin tx",
     "slug": "painters-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-austin-tx",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 460,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company austin tx",
     "slug": "moving-company-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-austin-tx",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney austin tx",
     "slug": "criminal-defense-attorney-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-austin-tx",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 690,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer austin tx",
     "slug": "dui-defense-lawyer-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-austin-tx",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 28.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage austin tx",
     "slug": "massage-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-austin-tx",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 38000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care austin tx",
     "slug": "urgent-care-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-austin-tx",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 21000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer austin tx",
     "slug": "personal-injury-lawyer-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-austin-tx",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1500,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber austin tx",
     "slug": "plumber-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-austin-tx",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6300,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist austin tx",
     "slug": "dentist-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-austin-tx",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash austin tx",
     "slug": "car-wash-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-austin-tx",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change austin tx",
     "slug": "oil-change-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-austin-tx",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair austin tx",
     "slug": "ac-repair-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-austin-tx",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer austin tx",
     "slug": "car-accident-lawyer-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-austin-tx",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage austin tx",
     "slug": "lymphatic-drainage-massage-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-austin-tx",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5200,
@@ -615,7 +615,7 @@
    {
     "keyword": "electrician austin tx",
     "slug": "electrician-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-austin-tx",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -630,7 +630,7 @@
    {
     "keyword": "gym austin tx",
     "slug": "gym-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-austin-tx",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic austin tx",
     "slug": "mechanic-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-austin-tx",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5200,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes austin tx",
     "slug": "car-insurance-quotes-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-austin-tx",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6300,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement austin tx",
     "slug": "water-heater-replacement-austin-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-austin-tx",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-austin-tx",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,

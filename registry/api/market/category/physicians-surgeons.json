@@ -2,7 +2,7 @@
  "title": "Keyword market data: Physicians & Surgeons",
  "description": "Top Physicians & Surgeons keywords by US monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "industry": "Physicians & Surgeons",
  "keywords": 32,
  "lists": {
@@ -10,7 +10,7 @@
    {
     "keyword": "urgent care",
     "slug": "urgent-care",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -24,7 +24,7 @@
    {
     "keyword": "chiropractor",
     "slug": "chiropractor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -38,7 +38,7 @@
    {
     "keyword": "pediatrician",
     "slug": "pediatrician",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -52,7 +52,7 @@
    {
     "keyword": "family doctor",
     "slug": "family-doctor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -66,7 +66,7 @@
    {
     "keyword": "iv hydration",
     "slug": "iv-hydration",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#iv-hydration",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#iv-hydration",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -80,7 +80,7 @@
    {
     "keyword": "primary care physician",
     "slug": "primary-care-physician",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -94,7 +94,7 @@
    {
     "keyword": "weight loss clinic",
     "slug": "weight-loss-clinic",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#weight-loss-clinic",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#weight-loss-clinic",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -108,7 +108,7 @@
    {
     "keyword": "peptide therapy",
     "slug": "peptide-therapy",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#peptide-therapy",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#peptide-therapy",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -122,7 +122,7 @@
    {
     "keyword": "concierge doctor",
     "slug": "concierge-doctor",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#concierge-doctor",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#concierge-doctor",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -136,7 +136,7 @@
    {
     "keyword": "semaglutide",
     "slug": "semaglutide",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#semaglutide",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#semaglutide",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -152,7 +152,7 @@
    {
     "keyword": "alcohol detox center",
     "slug": "alcohol-detox-center",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#alcohol-detox-center",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#alcohol-detox-center",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -166,7 +166,7 @@
    {
     "keyword": "assisted living",
     "slug": "assisted-living",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -180,7 +180,7 @@
    {
     "keyword": "drug rehab",
     "slug": "drug-rehab",
-    "url": "https://dingalinged-cpu.github.io/registry/k/drug-rehab/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/drug-rehab/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -194,7 +194,7 @@
    {
     "keyword": "drug rehab that accepts cigna",
     "slug": "drug-rehab-that-accepts-cigna",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#drug-rehab-that-accepts-cigna",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#drug-rehab-that-accepts-cigna",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -208,7 +208,7 @@
    {
     "keyword": "home care services",
     "slug": "home-care-services",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#home-care-services",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#home-care-services",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -222,7 +222,7 @@
    {
     "keyword": "inpatient rehab houston",
     "slug": "inpatient-rehab-houston",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#inpatient-rehab-houston",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#inpatient-rehab-houston",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -236,7 +236,7 @@
    {
     "keyword": "private rehab",
     "slug": "private-rehab",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#private-rehab",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#private-rehab",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -250,7 +250,7 @@
    {
     "keyword": "acupuncture",
     "slug": "acupuncture",
-    "url": "https://dingalinged-cpu.github.io/registry/k/acupuncture/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/acupuncture/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -264,7 +264,7 @@
    {
     "keyword": "allergist",
     "slug": "allergist",
-    "url": "https://dingalinged-cpu.github.io/registry/k/allergist/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/allergist/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -278,7 +278,7 @@
    {
     "keyword": "audiologist",
     "slug": "audiologist",
-    "url": "https://dingalinged-cpu.github.io/registry/k/audiologist/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/audiologist/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -292,7 +292,7 @@
    {
     "keyword": "chiropractor",
     "slug": "chiropractor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -306,7 +306,7 @@
    {
     "keyword": "concierge doctor",
     "slug": "concierge-doctor",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#concierge-doctor",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#concierge-doctor",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -320,7 +320,7 @@
    {
     "keyword": "dermatologist",
     "slug": "dermatologist",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dermatologist/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dermatologist/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -334,7 +334,7 @@
    {
     "keyword": "dietitian",
     "slug": "dietitian",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dietitian/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dietitian/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -348,7 +348,7 @@
    {
     "keyword": "eye doctor",
     "slug": "eye-doctor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -362,7 +362,7 @@
    {
     "keyword": "family doctor",
     "slug": "family-doctor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -376,7 +376,7 @@
    {
     "keyword": "iv hydration",
     "slug": "iv-hydration",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#iv-hydration",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#iv-hydration",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -390,7 +390,7 @@
    {
     "keyword": "ob gyn",
     "slug": "ob-gyn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/ob-gyn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/ob-gyn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -404,7 +404,7 @@
    {
     "keyword": "occupational therapist",
     "slug": "occupational-therapist",
-    "url": "https://dingalinged-cpu.github.io/registry/k/occupational-therapist/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/occupational-therapist/",
     "us_monthly_searches": 8100,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -418,7 +418,7 @@
    {
     "keyword": "orthopedic surgeon",
     "slug": "orthopedic-surgeon",
-    "url": "https://dingalinged-cpu.github.io/registry/k/orthopedic-surgeon/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/orthopedic-surgeon/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "cpc_basis_usd": 4.76,
@@ -434,7 +434,7 @@
    {
     "keyword": "urgent care",
     "slug": "urgent-care",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -448,7 +448,7 @@
    {
     "keyword": "chiropractor",
     "slug": "chiropractor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -462,7 +462,7 @@
    {
     "keyword": "pediatrician",
     "slug": "pediatrician",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -476,7 +476,7 @@
    {
     "keyword": "family doctor",
     "slug": "family-doctor",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -490,7 +490,7 @@
    {
     "keyword": "iv hydration",
     "slug": "iv-hydration",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#iv-hydration",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#iv-hydration",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -504,7 +504,7 @@
    {
     "keyword": "primary care physician",
     "slug": "primary-care-physician",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -518,7 +518,7 @@
    {
     "keyword": "weight loss clinic",
     "slug": "weight-loss-clinic",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#weight-loss-clinic",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#weight-loss-clinic",
     "us_monthly_searches": 22200,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -532,7 +532,7 @@
    {
     "keyword": "peptide therapy",
     "slug": "peptide-therapy",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#peptide-therapy",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#peptide-therapy",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -546,7 +546,7 @@
    {
     "keyword": "concierge doctor",
     "slug": "concierge-doctor",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#concierge-doctor",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#concierge-doctor",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,
@@ -560,7 +560,7 @@
    {
     "keyword": "semaglutide",
     "slug": "semaglutide",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#semaglutide",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#semaglutide",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "cpc_basis_usd": 4.76,

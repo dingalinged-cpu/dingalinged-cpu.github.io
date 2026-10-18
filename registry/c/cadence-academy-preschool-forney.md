@@ -13,12 +13,12 @@ Cadence Academy Preschool is a preschool in Forney, TX at 929 College Avenue, Fo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 78% of preschools in Dallas–Fort Worth, #3 of 3 preschools in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.8, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 78% of preschools in Dallas–Fort Worth, #3 of 3 preschools in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.8, Trust 48.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cadence-academy-preschool-forney/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cadence-academy-preschool-forney.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cadence-academy-preschool-forney/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cadence-academy-preschool-forney.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/199421985 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

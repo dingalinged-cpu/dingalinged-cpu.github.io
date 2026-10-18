@@ -2,7 +2,7 @@
  "title": "Keyword market data: Middleton, WI",
  "description": "Top Middleton, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Middleton, WI",
  "geography": "Madison, WI metro",
  "keywords": 45,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage middleton wi",
     "slug": "massage-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-middleton-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash middleton wi",
     "slug": "car-wash-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-middleton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist middleton wi",
     "slug": "dentist-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-middleton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym middleton wi",
     "slug": "gym-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-middleton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon middleton wi",
     "slug": "hair-salon-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-middleton-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon middleton wi",
     "slug": "nail-salon-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-middleton-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -101,7 +101,7 @@
    {
     "keyword": "mechanic middleton wi",
     "slug": "mechanic-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-middleton-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -116,7 +116,7 @@
    {
     "keyword": "tire shop middleton wi",
     "slug": "tire-shop-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-middleton-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -131,7 +131,7 @@
    {
     "keyword": "vet middleton wi",
     "slug": "vet-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-middleton-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -146,7 +146,7 @@
    {
     "keyword": "dog groomer middleton wi",
     "slug": "dog-groomer-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-middleton-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut middleton wi",
     "slug": "haircut-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-middleton-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair middleton wi",
     "slug": "auto-repair-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-middleton-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor middleton wi",
     "slug": "chiropractor-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-middleton-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -206,7 +206,7 @@
    {
     "keyword": "financial advisor middleton wi",
     "slug": "financial-advisor-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-middleton-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -221,7 +221,7 @@
    {
     "keyword": "landscaping middleton wi",
     "slug": "landscaping-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-middleton-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -238,7 +238,7 @@
    {
     "keyword": "painters middleton wi",
     "slug": "painters-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/painters-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-middleton-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney middleton wi",
     "slug": "attorney-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-middleton-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer middleton wi",
     "slug": "lawyer-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-middleton-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 100,
@@ -283,7 +283,7 @@
    {
     "keyword": "landscaping middleton wi",
     "slug": "landscaping-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-middleton-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -298,7 +298,7 @@
    {
     "keyword": "architect middleton wi",
     "slug": "architect-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/architect-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/architect-middleton-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 83.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "bakery middleton wi",
     "slug": "bakery-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-middleton-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -328,7 +328,7 @@
    {
     "keyword": "photographer middleton wi",
     "slug": "photographer-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-middleton-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -343,7 +343,7 @@
    {
     "keyword": "accounting services middleton wi",
     "slug": "accounting-services-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-middleton-wi/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "tax preparer middleton wi",
     "slug": "tax-preparer-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-middleton-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -373,7 +373,7 @@
    {
     "keyword": "accountant middleton wi",
     "slug": "accountant-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-middleton-wi/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 69.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool middleton wi",
     "slug": "preschool-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-middleton-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -403,7 +403,7 @@
    {
     "keyword": "assisted living middleton wi",
     "slug": "assisted-living-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-middleton-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -418,7 +418,7 @@
    {
     "keyword": "chiropractor middleton wi",
     "slug": "chiropractor-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-middleton-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -433,7 +433,7 @@
    {
     "keyword": "physical therapy middleton wi",
     "slug": "physical-therapy-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-middleton-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -448,7 +448,7 @@
    {
     "keyword": "dentist middleton wi",
     "slug": "dentist-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-middleton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage middleton wi",
     "slug": "massage-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-middleton-wi/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist middleton wi",
     "slug": "dentist-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-middleton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -495,7 +495,7 @@
    {
     "keyword": "car wash middleton wi",
     "slug": "car-wash-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-middleton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym middleton wi",
     "slug": "gym-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-middleton-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic middleton wi",
     "slug": "mechanic-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-middleton-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop middleton wi",
     "slug": "tire-shop-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-middleton-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet middleton wi",
     "slug": "vet-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-middleton-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -570,7 +570,7 @@
    {
     "keyword": "dog groomer middleton wi",
     "slug": "dog-groomer-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-middleton-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -585,7 +585,7 @@
    {
     "keyword": "landscaping middleton wi",
     "slug": "landscaping-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-middleton-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut middleton wi",
     "slug": "haircut-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-middleton-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair middleton wi",
     "slug": "auto-repair-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-middleton-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 620,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor middleton wi",
     "slug": "chiropractor-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-middleton-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -645,7 +645,7 @@
    {
     "keyword": "painters middleton wi",
     "slug": "painters-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/painters-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/painters-middleton-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -660,7 +660,7 @@
    {
     "keyword": "financial advisor middleton wi",
     "slug": "financial-advisor-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-middleton-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -675,7 +675,7 @@
    {
     "keyword": "hair salon middleton wi",
     "slug": "hair-salon-middleton-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-middleton-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-middleton-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,

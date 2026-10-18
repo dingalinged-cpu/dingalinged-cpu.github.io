@@ -1,4 +1,4 @@
-The top unpaid barber shop listing for Garland, TX is MTP Barbershop (a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/). 2 barber shop businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Garland, TX is MTP Barbershop (a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/). 2 barber shop businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Garland, TX?
 
@@ -6,8 +6,8 @@ Also answers: barber shop in Garland, TX; barber shop near me (Garland, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MTP Barbershop | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | MTP Barbershop is a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/. | https://dingalinged-cpu.github.io/registry/c/mtp-barbershop-garland/
-2. Mr. Ice Water Fade  at Crown Barbershop | Organic #2 | Pulse Score 63/100 (Good, #2 in city) | Mr. Ice Water Fade  at Crown Barbershop is a barber shop in Garland, TX at 518 North Plano Road, Garland, TX 75042. Phone: +12145718950. | https://dingalinged-cpu.github.io/registry/c/mr-ice-water-fade-at-crown-barbershop-garland/
+1. MTP Barbershop | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | MTP Barbershop is a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/. | https://registry-edge.dingalinged.workers.dev/c/mtp-barbershop-garland/
+2. Mr. Ice Water Fade  at Crown Barbershop | Organic #2 | Pulse Score 63/100 (Good, #2 in city) | Mr. Ice Water Fade  at Crown Barbershop is a barber shop in Garland, TX at 518 North Plano Road, Garland, TX 75042. Phone: +12145718950. | https://registry-edge.dingalinged.workers.dev/c/mr-ice-water-fade-at-crown-barbershop-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop garland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$680 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/barber-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-garland-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/barber-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-garland-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

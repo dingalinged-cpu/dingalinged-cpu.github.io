@@ -2,7 +2,7 @@
  "title": "Keyword market data: Shorewood Hills, WI",
  "description": "Top Shorewood Hills, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Shorewood Hills, WI",
  "geography": "Madison, WI metro",
  "keywords": 13,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist shorewood hills wi",
     "slug": "dentist-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shorewood-hills-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym shorewood hills wi",
     "slug": "gym-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shorewood-hills-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon shorewood hills wi",
     "slug": "hair-salon-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-shorewood-hills-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon shorewood hills wi",
     "slug": "nail-salon-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-shorewood-hills-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -71,7 +71,7 @@
    {
     "keyword": "dog groomer shorewood hills wi",
     "slug": "dog-groomer-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-shorewood-hills-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut shorewood hills wi",
     "slug": "haircut-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shorewood-hills-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -103,7 +103,7 @@
    {
     "keyword": "bakery shorewood hills wi",
     "slug": "bakery-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-shorewood-hills-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -118,7 +118,7 @@
    {
     "keyword": "preschool shorewood hills wi",
     "slug": "preschool-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-shorewood-hills-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -133,7 +133,7 @@
    {
     "keyword": "eye doctor shorewood hills wi",
     "slug": "eye-doctor-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-shorewood-hills-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -148,7 +148,7 @@
    {
     "keyword": "dentist shorewood hills wi",
     "slug": "dentist-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shorewood-hills-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -163,7 +163,7 @@
    {
     "keyword": "haircut shorewood hills wi",
     "slug": "haircut-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shorewood-hills-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -178,7 +178,7 @@
    {
     "keyword": "furniture store shorewood hills wi",
     "slug": "furniture-store-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-shorewood-hills-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -193,7 +193,7 @@
    {
     "keyword": "gift shop shorewood hills wi",
     "slug": "gift-shop-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-shorewood-hills-wi/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 37.0,
@@ -208,7 +208,7 @@
    {
     "keyword": "liquor store shorewood hills wi",
     "slug": "liquor-store-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-shorewood-hills-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -223,7 +223,7 @@
    {
     "keyword": "dog groomer shorewood hills wi",
     "slug": "dog-groomer-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-shorewood-hills-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -238,7 +238,7 @@
    {
     "keyword": "printing services shorewood hills wi",
     "slug": "printing-services-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-shorewood-hills-wi/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 83.0,
@@ -253,7 +253,7 @@
    {
     "keyword": "gym shorewood hills wi",
     "slug": "gym-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shorewood-hills-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -268,7 +268,7 @@
    {
     "keyword": "nail salon shorewood hills wi",
     "slug": "nail-salon-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-shorewood-hills-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -283,7 +283,7 @@
    {
     "keyword": "hair salon shorewood hills wi",
     "slug": "hair-salon-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-shorewood-hills-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -300,7 +300,7 @@
    {
     "keyword": "dentist shorewood hills wi",
     "slug": "dentist-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-shorewood-hills-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -315,7 +315,7 @@
    {
     "keyword": "gym shorewood hills wi",
     "slug": "gym-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-shorewood-hills-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -330,7 +330,7 @@
    {
     "keyword": "dog groomer shorewood hills wi",
     "slug": "dog-groomer-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-shorewood-hills-wi/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -345,7 +345,7 @@
    {
     "keyword": "haircut shorewood hills wi",
     "slug": "haircut-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-shorewood-hills-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -360,7 +360,7 @@
    {
     "keyword": "hair salon shorewood hills wi",
     "slug": "hair-salon-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-shorewood-hills-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -375,7 +375,7 @@
    {
     "keyword": "nail salon shorewood hills wi",
     "slug": "nail-salon-shorewood-hills-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-shorewood-hills-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-shorewood-hills-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,

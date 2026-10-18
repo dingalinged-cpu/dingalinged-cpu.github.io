@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Gwinnett County, GA is Pleasant Hill Car Wash & Lube (a car wash in Gwinnett County, GA). 8 car wash businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Gwinnett County, GA is Pleasant Hill Car Wash & Lube (a car wash in Gwinnett County, GA). 8 car wash businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Gwinnett County, GA?
 
@@ -6,14 +6,14 @@ Also answers: car wash in Gwinnett County, GA; car wash near me (Gwinnett County
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pleasant Hill Car Wash & Lube | Organic #1 | Pulse Score 59.8/100 (Fair, #1 in city) | Pleasant Hill Car Wash & Lube is a car wash in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/pleasant-hill-car-wash-and-lube-gwinnett-county/
-2. Dan's Car Wash | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Dan's Car Wash is a car wash in Gwinnett County, GA at 2379, Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/dans-car-wash-gwinnett-county/
-3. Dinoland Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Dinoland Car Wash is a car wash in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/dinoland-car-wash-gwinnett-county/
-4. Dolphin Car wash & Lube | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Dolphin Car wash & Lube is a car wash in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/dolphin-car-wash-and-lube-gwinnett-county/
-5. Hall's Car Wash | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Hall's Car Wash is a car wash in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/halls-car-wash-gwinnett-county/
-6. Sugarloaf Car Wash | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Sugarloaf Car Wash is a car wash in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/sugarloaf-car-wash-gwinnett-county/
-7. Tidal Wave | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Tidal Wave is a car wash in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-gwinnett-county/
-8. BP | Organic #8 | Pulse Score 42.5/100 (Building, #8 in city) | BP is a car wash in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/bp-gwinnett-county/
+1. Pleasant Hill Car Wash & Lube | Organic #1 | Pulse Score 59.8/100 (Fair, #1 in city) | Pleasant Hill Car Wash & Lube is a car wash in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/pleasant-hill-car-wash-and-lube-gwinnett-county/
+2. Dan's Car Wash | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Dan's Car Wash is a car wash in Gwinnett County, GA at 2379, Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/dans-car-wash-gwinnett-county/
+3. Dinoland Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Dinoland Car Wash is a car wash in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/dinoland-car-wash-gwinnett-county/
+4. Dolphin Car wash & Lube | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Dolphin Car wash & Lube is a car wash in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/dolphin-car-wash-and-lube-gwinnett-county/
+5. Hall's Car Wash | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Hall's Car Wash is a car wash in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/halls-car-wash-gwinnett-county/
+6. Sugarloaf Car Wash | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Sugarloaf Car Wash is a car wash in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/sugarloaf-car-wash-gwinnett-county/
+7. Tidal Wave | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Tidal Wave is a car wash in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/tidal-wave-gwinnett-county/
+8. BP | Organic #8 | Pulse Score 42.5/100 (Building, #8 in city) | BP is a car wash in Gwinnett County, GA. | https://registry-edge.dingalinged.workers.dev/c/bp-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash gwinnett county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$8,500 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-gwinnett-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-gwinnett-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

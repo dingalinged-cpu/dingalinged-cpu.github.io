@@ -13,12 +13,12 @@ Pet MedPlus is a veterinarian in Alpharetta, GA at 2848 Holcomb Bridge Road, Alp
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 70% of veterinarians in Atlanta, #6 of 6 veterinarians in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 45.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 70% of veterinarians in Atlanta, #6 of 6 veterinarians in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 45.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/pet-medplus-alpharetta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/pet-medplus-alpharetta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/pet-medplus-alpharetta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/pet-medplus-alpharetta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/352451712 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

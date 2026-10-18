@@ -13,12 +13,12 @@ FS ink is a tattoo shop in Milwaukee, WI at 408 East North Avenue, Milwaukee, WI
 - Website: https://fsinknet.wordpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 12:00-20:00; Su 12:00-24:00
-- Pulse Score: 62.8/100 — Good — top 15% of tattoo shops in Milwaukee, #5 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 15% of tattoo shops in Milwaukee, #5 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fs-ink-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fs-ink-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fs-ink-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fs-ink-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6318640954 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

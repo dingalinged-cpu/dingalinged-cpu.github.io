@@ -13,12 +13,12 @@ Murray's Alignments is an auto repair shop in Alvarado, TX at 810 South Parkway 
 - Website: https://j-m-auto-and-truck-repair.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Dallas–Fort Worth, #2 of 4 auto repair shops in Alvarado (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Dallas–Fort Worth, #2 of 4 auto repair shops in Alvarado (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/murrays-alignments-alvarado/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/murrays-alignments-alvarado.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/murrays-alignments-alvarado/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/murrays-alignments-alvarado.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11627533808 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

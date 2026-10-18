@@ -13,12 +13,12 @@ Kpop Nara is a gift shop in Chicago, IL at 545 South State Street, Chicago, IL 6
 - Website: https://shop.kpopnara.com/
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-19:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 15% of gift shops in Chicago, #12 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 15% of gift shops in Chicago, #12 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/kpop-nara-chicago-n12362772169/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kpop-nara-chicago-n12362772169.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kpop-nara-chicago-n12362772169/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kpop-nara-chicago-n12362772169.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12362772169 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

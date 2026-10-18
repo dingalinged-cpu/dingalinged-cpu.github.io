@@ -1,4 +1,4 @@
-The top unpaid dance studio listing for The Woodlands, TX is Performing Arts Center of the Woodlands (a dance studio in The Woodlands, TX at 27220 Glen Loch Drive, The Woodlands, TX). 2 dance studio businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for The Woodlands, TX is Performing Arts Center of the Woodlands (a dance studio in The Woodlands, TX at 27220 Glen Loch Drive, The Woodlands, TX). 2 dance studio businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in The Woodlands, TX?
 
@@ -6,8 +6,8 @@ Also answers: dance studio in The Woodlands, TX; dance studio near me (The Woodl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Performing Arts Center of the Woodlands | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Performing Arts Center of the Woodlands is a dance studio in The Woodlands, TX at 27220 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/performing-arts-center-of-the-woodlands-the-woodlands/
-2. Woodlands Ballet Theater | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Woodlands Ballet Theater is a dance studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/woodlands-ballet-theater-the-woodlands/
+1. Performing Arts Center of the Woodlands | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Performing Arts Center of the Woodlands is a dance studio in The Woodlands, TX at 27220 Glen Loch Drive, The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/performing-arts-center-of-the-woodlands-the-woodlands/
+2. Woodlands Ballet Theater | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Woodlands Ballet Theater is a dance studio in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/woodlands-ballet-theater-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio the woodlands tx | category: Fitness | industry benchmark: Health & Fitness
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$410 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dance-studio.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dance-studio-the-woodlands-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dance-studio.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dance-studio-the-woodlands-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Thiensville, WI",
  "description": "Top Thiensville, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Thiensville, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 3,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist thiensville wi",
     "slug": "dentist-thiensville-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-thiensville-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-thiensville-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -26,7 +26,7 @@
    {
     "keyword": "vet thiensville wi",
     "slug": "vet-thiensville-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-thiensville-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-thiensville-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -41,7 +41,7 @@
    {
     "keyword": "financial advisor thiensville wi",
     "slug": "financial-advisor-thiensville-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-thiensville-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-thiensville-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -58,7 +58,7 @@
    {
     "keyword": "dentist thiensville wi",
     "slug": "dentist-thiensville-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-thiensville-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-thiensville-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -73,7 +73,7 @@
    {
     "keyword": "vet thiensville wi",
     "slug": "vet-thiensville-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-thiensville-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-thiensville-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -88,7 +88,7 @@
    {
     "keyword": "financial advisor thiensville wi",
     "slug": "financial-advisor-thiensville-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-thiensville-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-thiensville-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -105,7 +105,7 @@
    {
     "keyword": "dentist thiensville wi",
     "slug": "dentist-thiensville-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-thiensville-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-thiensville-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -120,7 +120,7 @@
    {
     "keyword": "vet thiensville wi",
     "slug": "vet-thiensville-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-thiensville-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-thiensville-wi/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -135,7 +135,7 @@
    {
     "keyword": "financial advisor thiensville wi",
     "slug": "financial-advisor-thiensville-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-thiensville-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-thiensville-wi/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,

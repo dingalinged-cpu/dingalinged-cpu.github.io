@@ -13,12 +13,12 @@ Athletico Physical Therapy is a physical therapy clinic in Chicago, IL at 557 So
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 07:00-19:00; We 07:00-18:30; Fr 07:00-17:00
-- Pulse Score: 49.3/100 — Building — top 31% of physical therapy clinics in Chicago, #13 of 55 physical therapy clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 31% of physical therapy clinics in Chicago, #13 of 55 physical therapy clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-chicago-n11065849081/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-chicago-n11065849081.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/athletico-physical-therapy-chicago-n11065849081/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/athletico-physical-therapy-chicago-n11065849081.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11065849081 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

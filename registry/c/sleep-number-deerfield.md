@@ -13,12 +13,12 @@ Sleep Number is a mattress store in Deerfield, IL at 60 South Waukegan Road #B, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.2/100 — Building — top 68% of mattress stores in Chicago, #2 of 2 mattress stores in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 46.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 68% of mattress stores in Chicago, #2 of 2 mattress stores in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 46.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sleep-number-deerfield/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sleep-number-deerfield.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sleep-number-deerfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sleep-number-deerfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6700630936 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

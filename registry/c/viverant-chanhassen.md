@@ -13,12 +13,12 @@ Viverant is a physical therapy clinic in Chanhassen, MN at West 78th Street, Cha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 86% of physical therapy clinics in Minneapolis–St. Paul, #1 of 1 physical therapy clinics in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 86% of physical therapy clinics in Minneapolis–St. Paul, #1 of 1 physical therapy clinics in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/viverant-chanhassen/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/viverant-chanhassen.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/viverant-chanhassen/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/viverant-chanhassen.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11879522869 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

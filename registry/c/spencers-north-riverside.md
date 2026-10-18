@@ -13,12 +13,12 @@ Spencer's is a gift shop in North Riverside, IL at 7501 Cermak Road #K5, North R
 - Website: https://stores.spencersonline.com/il/northriverside/north-riverside-park-mall-00236.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.3/100 — Building — top 76% of gift shops in Chicago, #1 of 1 gift shops in North Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 76% of gift shops in Chicago, #1 of 1 gift shops in North Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/spencers-north-riverside/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/spencers-north-riverside.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/spencers-north-riverside/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spencers-north-riverside.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12599559783 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

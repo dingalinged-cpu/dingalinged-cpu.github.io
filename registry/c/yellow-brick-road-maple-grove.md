@@ -13,12 +13,12 @@ Yellow Brick Road is a preschool in Maple Grove, MN at 9745 Revere Lane North, M
 - Website: https://www.ybrecdc.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 9% of preschools in Minneapolis–St. Paul, #1 of 4 preschools in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 9% of preschools in Minneapolis–St. Paul, #1 of 4 preschools in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 60.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/yellow-brick-road-maple-grove/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/yellow-brick-road-maple-grove.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/yellow-brick-road-maple-grove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/yellow-brick-road-maple-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1006855213 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid furniture store listing for Mesquite, TX is Texas Furniture Outlet (a furniture store in Mesquite, TX at 3129 I-30 #Ste A, Mesquite, TX 75150. Phone: +19726817632. Website: https://texasfurnitureoutlet.com/). 6 furniture store businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Mesquite, TX is Texas Furniture Outlet (a furniture store in Mesquite, TX at 3129 I-30 #Ste A, Mesquite, TX 75150. Phone: +19726817632. Website: https://texasfurnitureoutlet.com/). 6 furniture store businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Mesquite, TX?
 
@@ -6,12 +6,12 @@ Also answers: furniture store in Mesquite, TX; furniture store near me (Mesquite
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Furniture Outlet | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Texas Furniture Outlet is a furniture store in Mesquite, TX at 3129 I-30 #Ste A, Mesquite, TX 75150. Phone: +19726817632. Website: https://texasfurnitureoutlet.com/. | https://dingalinged-cpu.github.io/registry/c/texas-furniture-outlet-mesquite/
-2. Bestway Rent to Own | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Bestway Rent to Own is a furniture store in Mesquite, TX at 500 North Galloway Avenue #44, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/bestway-rent-to-own-mesquite/
-3. Home Zone | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Home Zone is a furniture store in Mesquite, TX at 1330 North Town East Boulevard #500, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/home-zone-mesquite/
-4. Quality Home Mesquite | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Quality Home Mesquite is a furniture store in Mesquite, TX at 227 US Highway 80, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/quality-home-mesquite-mesquite/
-5. Ashley HomeStore | Organic #5 | Pulse Score 48/100 (Building, #5 in city) | Ashley HomeStore is a furniture store in Mesquite, TX at 1330 North Town East Boulevard #300, Mesquite, TX 75150. Phone: +19722704170. Website: https://stores.ashleyfurniture.com/store/us/texas/mesquite/7710000429/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-mesquite/
-6. Havertys | Organic #6 | Pulse Score 45/100 (Building, #6 in city) | Havertys is a furniture store in Mesquite, TX at 18515 Lyndon B Johnson Freeway, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/havertys-mesquite/
+1. Texas Furniture Outlet | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Texas Furniture Outlet is a furniture store in Mesquite, TX at 3129 I-30 #Ste A, Mesquite, TX 75150. Phone: +19726817632. Website: https://texasfurnitureoutlet.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-furniture-outlet-mesquite/
+2. Bestway Rent to Own | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Bestway Rent to Own is a furniture store in Mesquite, TX at 500 North Galloway Avenue #44, Mesquite, TX 75149. | https://registry-edge.dingalinged.workers.dev/c/bestway-rent-to-own-mesquite/
+3. Home Zone | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Home Zone is a furniture store in Mesquite, TX at 1330 North Town East Boulevard #500, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/home-zone-mesquite/
+4. Quality Home Mesquite | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Quality Home Mesquite is a furniture store in Mesquite, TX at 227 US Highway 80, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/quality-home-mesquite-mesquite/
+5. Ashley HomeStore | Organic #5 | Pulse Score 48/100 (Building, #5 in city) | Ashley HomeStore is a furniture store in Mesquite, TX at 1330 North Town East Boulevard #300, Mesquite, TX 75150. Phone: +19722704170. Website: https://stores.ashleyfurniture.com/store/us/texas/mesquite/7710000429/. | https://registry-edge.dingalinged.workers.dev/c/ashley-homestore-mesquite/
+6. Havertys | Organic #6 | Pulse Score 45/100 (Building, #6 in city) | Havertys is a furniture store in Mesquite, TX at 18515 Lyndon B Johnson Freeway, Mesquite, TX 75150. | https://registry-edge.dingalinged.workers.dev/c/havertys-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store mesquite tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/furniture-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#furniture-store-mesquite-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/furniture-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#furniture-store-mesquite-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

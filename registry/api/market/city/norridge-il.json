@@ -2,7 +2,7 @@
  "title": "Keyword market data: Norridge, IL",
  "description": "Top Norridge, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Norridge, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 31,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash norridge il",
     "slug": "car-wash-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist norridge il",
     "slug": "dentist-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym norridge il",
     "slug": "gym-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "oil change norridge il",
     "slug": "oil-change-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon norridge il",
     "slug": "hair-salon-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-norridge-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic norridge il",
     "slug": "mechanic-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-norridge-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop norridge il",
     "slug": "tire-shop-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-norridge-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -116,7 +116,7 @@
    {
     "keyword": "vet norridge il",
     "slug": "vet-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-norridge-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -131,7 +131,7 @@
    {
     "keyword": "haircut norridge il",
     "slug": "haircut-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-norridge-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -146,7 +146,7 @@
    {
     "keyword": "auto repair norridge il",
     "slug": "auto-repair-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-norridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -161,7 +161,7 @@
    {
     "keyword": "real estate agent norridge il",
     "slug": "real-estate-agent-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-norridge-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agency norridge il",
     "slug": "insurance-agency-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-norridge-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -191,7 +191,7 @@
    {
     "keyword": "realtor norridge il",
     "slug": "realtor-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-norridge-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -206,7 +206,7 @@
    {
     "keyword": "tax preparation norridge il",
     "slug": "tax-preparation-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-norridge-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -221,7 +221,7 @@
    {
     "keyword": "tax preparer norridge il",
     "slug": "tax-preparer-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-norridge-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -238,7 +238,7 @@
    {
     "keyword": "storage units norridge il",
     "slug": "storage-units-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-norridge-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -253,7 +253,7 @@
    {
     "keyword": "bakery norridge il",
     "slug": "bakery-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-norridge-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -268,7 +268,7 @@
    {
     "keyword": "tax preparer norridge il",
     "slug": "tax-preparer-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-norridge-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -283,7 +283,7 @@
    {
     "keyword": "daycare norridge il",
     "slug": "daycare-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-norridge-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -298,7 +298,7 @@
    {
     "keyword": "dentist norridge il",
     "slug": "dentist-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -313,7 +313,7 @@
    {
     "keyword": "haircut norridge il",
     "slug": "haircut-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-norridge-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -328,7 +328,7 @@
    {
     "keyword": "tanning salon norridge il",
     "slug": "tanning-salon-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon-norridge-il/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 830,
@@ -343,7 +343,7 @@
    {
     "keyword": "auto repair norridge il",
     "slug": "auto-repair-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-norridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -358,7 +358,7 @@
    {
     "keyword": "car wash norridge il",
     "slug": "car-wash-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -373,7 +373,7 @@
    {
     "keyword": "mechanic norridge il",
     "slug": "mechanic-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-norridge-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -388,7 +388,7 @@
    {
     "keyword": "oil change norridge il",
     "slug": "oil-change-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -403,7 +403,7 @@
    {
     "keyword": "tire shop norridge il",
     "slug": "tire-shop-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-norridge-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -418,7 +418,7 @@
    {
     "keyword": "furniture store norridge il",
     "slug": "furniture-store-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-norridge-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -433,7 +433,7 @@
    {
     "keyword": "gift shop norridge il",
     "slug": "gift-shop-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-norridge-il/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 500,
@@ -448,7 +448,7 @@
    {
     "keyword": "jewelry store norridge il",
     "slug": "jewelry-store-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-norridge-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist norridge il",
     "slug": "dentist-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash norridge il",
     "slug": "car-wash-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "oil change norridge il",
     "slug": "oil-change-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/oil-change-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/oil-change-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "gym norridge il",
     "slug": "gym-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-norridge-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -525,7 +525,7 @@
    {
     "keyword": "mechanic norridge il",
     "slug": "mechanic-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-norridge-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -540,7 +540,7 @@
    {
     "keyword": "tire shop norridge il",
     "slug": "tire-shop-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-norridge-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "vet norridge il",
     "slug": "vet-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-norridge-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -570,7 +570,7 @@
    {
     "keyword": "haircut norridge il",
     "slug": "haircut-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-norridge-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -585,7 +585,7 @@
    {
     "keyword": "auto repair norridge il",
     "slug": "auto-repair-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-norridge-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -600,7 +600,7 @@
    {
     "keyword": "hair salon norridge il",
     "slug": "hair-salon-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-norridge-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -615,7 +615,7 @@
    {
     "keyword": "real estate agent norridge il",
     "slug": "real-estate-agent-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-norridge-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -630,7 +630,7 @@
    {
     "keyword": "tax preparer norridge il",
     "slug": "tax-preparer-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-norridge-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -645,7 +645,7 @@
    {
     "keyword": "realtor norridge il",
     "slug": "realtor-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-norridge-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agency norridge il",
     "slug": "insurance-agency-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-norridge-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -675,7 +675,7 @@
    {
     "keyword": "tax preparation norridge il",
     "slug": "tax-preparation-norridge-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-norridge-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-norridge-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,

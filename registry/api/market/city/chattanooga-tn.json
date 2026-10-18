@@ -2,7 +2,7 @@
  "title": "Keyword market data: Chattanooga, TN",
  "description": "Top Chattanooga, TN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Chattanooga, TN",
  "geography": "Chattanooga, TN-GA metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage chattanooga tn",
     "slug": "massage-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-chattanooga-tn",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8700,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care chattanooga tn",
     "slug": "urgent-care-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-chattanooga-tn",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist chattanooga tn",
     "slug": "dentist-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-chattanooga-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym chattanooga tn",
     "slug": "gym-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-chattanooga-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash chattanooga tn",
     "slug": "car-wash-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-chattanooga-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change chattanooga tn",
     "slug": "oil-change-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-chattanooga-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon chattanooga tn",
     "slug": "hair-salon-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-chattanooga-tn",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon chattanooga tn",
     "slug": "nail-salon-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-chattanooga-tn",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes chattanooga tn",
     "slug": "car-insurance-quotes-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-chattanooga-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber chattanooga tn",
     "slug": "plumber-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-chattanooga-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments chattanooga tn",
     "slug": "apartments-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-chattanooga-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance chattanooga tn",
     "slug": "auto-insurance-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-chattanooga-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop chattanooga tn",
     "slug": "barber-shop-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-chattanooga-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage chattanooga tn",
     "slug": "lymphatic-drainage-massage-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-chattanooga-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic chattanooga tn",
     "slug": "mechanic-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-chattanooga-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer chattanooga tn",
     "slug": "personal-injury-lawyer-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-chattanooga-tn",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber chattanooga tn",
     "slug": "emergency-plumber-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-chattanooga-tn",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair chattanooga tn",
     "slug": "hvac-repair-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-chattanooga-tn",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair chattanooga tn",
     "slug": "ac-repair-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-chattanooga-tn",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 640,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement chattanooga tn",
     "slug": "roof-replacement-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-chattanooga-tn",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 58.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair chattanooga tn",
     "slug": "roof-repair-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-chattanooga-tn",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast chattanooga tn",
     "slug": "sell-my-house-fast-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-chattanooga-tn",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services chattanooga tn",
     "slug": "plumbing-services-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-chattanooga-tn",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 86.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining chattanooga tn",
     "slug": "deck-staining-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-chattanooga-tn",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 31.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters chattanooga tn",
     "slug": "exterior-house-painters-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-chattanooga-tn",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 21.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters chattanooga tn",
     "slug": "interior-painters-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-chattanooga-tn",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 21.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters chattanooga tn",
     "slug": "painters-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-chattanooga-tn",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company chattanooga tn",
     "slug": "moving-company-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-chattanooga-tn",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney chattanooga tn",
     "slug": "criminal-defense-attorney-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-chattanooga-tn",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer chattanooga tn",
     "slug": "dui-defense-lawyer-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-chattanooga-tn",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6.3,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage chattanooga tn",
     "slug": "massage-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-chattanooga-tn",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8700,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care chattanooga tn",
     "slug": "urgent-care-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-chattanooga-tn",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer chattanooga tn",
     "slug": "personal-injury-lawyer-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-chattanooga-tn",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber chattanooga tn",
     "slug": "plumber-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-chattanooga-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist chattanooga tn",
     "slug": "dentist-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-chattanooga-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash chattanooga tn",
     "slug": "car-wash-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-chattanooga-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change chattanooga tn",
     "slug": "oil-change-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-chattanooga-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair chattanooga tn",
     "slug": "ac-repair-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-chattanooga-tn",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 640,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer chattanooga tn",
     "slug": "car-accident-lawyer-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-chattanooga-tn",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 640,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage chattanooga tn",
     "slug": "lymphatic-drainage-massage-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-chattanooga-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym chattanooga tn",
     "slug": "gym-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-chattanooga-tn",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician chattanooga tn",
     "slug": "electrician-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-chattanooga-tn",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 430,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic chattanooga tn",
     "slug": "mechanic-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-chattanooga-tn",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes chattanooga tn",
     "slug": "car-insurance-quotes-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-chattanooga-tn",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement chattanooga tn",
     "slug": "water-heater-replacement-chattanooga-tn",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-chattanooga-tn",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-chattanooga-tn",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 430,

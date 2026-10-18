@@ -13,12 +13,12 @@ Daync Studio MKE is a dance studio in Milwaukee, WI at 910 East Hamilton Street,
 - Website: https://www.dayncstudiomke.com/
 - Email: info@dayncstudiomke.com
 - Opening hours (OSM syntax): Mo-Th 07:00-22:00; Fr 07:00-24:00; Sa 07:00-13:30; Su 07:00-12:00
-- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 4% of dance studios in Milwaukee, #1 of 12 dance studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 66.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 4% of dance studios in Milwaukee, #1 of 12 dance studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 66.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/daync-studio-mke-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/daync-studio-mke-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/daync-studio-mke-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/daync-studio-mke-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/481694337 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Mount Horeb, WI",
  "description": "Top Mount Horeb, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Mount Horeb, WI",
  "geography": "Madison, WI metro",
  "keywords": 9,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash mount horeb wi",
     "slug": "car-wash-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-mount-horeb-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist mount horeb wi",
     "slug": "dentist-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-mount-horeb-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym mount horeb wi",
     "slug": "gym-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-mount-horeb-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon mount horeb wi",
     "slug": "hair-salon-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-mount-horeb-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut mount horeb wi",
     "slug": "haircut-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-mount-horeb-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -88,7 +88,7 @@
    {
     "keyword": "event venues mount horeb wi",
     "slug": "event-venues-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-mount-horeb-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -103,7 +103,7 @@
    {
     "keyword": "daycare mount horeb wi",
     "slug": "daycare-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-mount-horeb-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 460,
@@ -118,7 +118,7 @@
    {
     "keyword": "dentist mount horeb wi",
     "slug": "dentist-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-mount-horeb-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -133,7 +133,7 @@
    {
     "keyword": "haircut mount horeb wi",
     "slug": "haircut-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-mount-horeb-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -148,7 +148,7 @@
    {
     "keyword": "car wash mount horeb wi",
     "slug": "car-wash-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-mount-horeb-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -163,7 +163,7 @@
    {
     "keyword": "bike shop mount horeb wi",
     "slug": "bike-shop-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-mount-horeb-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -178,7 +178,7 @@
    {
     "keyword": "liquor store mount horeb wi",
     "slug": "liquor-store-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-mount-horeb-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 290,
@@ -193,7 +193,7 @@
    {
     "keyword": "gym mount horeb wi",
     "slug": "gym-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-mount-horeb-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -208,7 +208,7 @@
    {
     "keyword": "hair salon mount horeb wi",
     "slug": "hair-salon-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-mount-horeb-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -225,7 +225,7 @@
    {
     "keyword": "dentist mount horeb wi",
     "slug": "dentist-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-mount-horeb-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -240,7 +240,7 @@
    {
     "keyword": "car wash mount horeb wi",
     "slug": "car-wash-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-mount-horeb-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -255,7 +255,7 @@
    {
     "keyword": "gym mount horeb wi",
     "slug": "gym-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-mount-horeb-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -270,7 +270,7 @@
    {
     "keyword": "haircut mount horeb wi",
     "slug": "haircut-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-mount-horeb-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 760,
@@ -285,7 +285,7 @@
    {
     "keyword": "hair salon mount horeb wi",
     "slug": "hair-salon-mount-horeb-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-mount-horeb-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-mount-horeb-wi/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,

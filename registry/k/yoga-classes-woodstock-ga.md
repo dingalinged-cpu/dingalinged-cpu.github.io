@@ -1,4 +1,4 @@
-The top unpaid yoga classes listing for Woodstock, GA is Ember Hot Yoga (a yoga studio in Woodstock, GA at 330 Chambers Street, Woodstock, GA. Phone: +17704855583. Website: https://www.emberyoga.com/). 2 yoga classes businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Woodstock, GA is Ember Hot Yoga (a yoga studio in Woodstock, GA at 330 Chambers Street, Woodstock, GA. Phone: +17704855583. Website: https://www.emberyoga.com/). 2 yoga classes businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Woodstock, GA?
 
@@ -6,8 +6,8 @@ Also answers: yoga classes in Woodstock, GA; yoga classes near me (Woodstock, GA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ember Hot Yoga | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | Ember Hot Yoga is a yoga studio in Woodstock, GA at 330 Chambers Street, Woodstock, GA. Phone: +17704855583. Website: https://www.emberyoga.com/. | https://dingalinged-cpu.github.io/registry/c/ember-hot-yoga-woodstock/
-2. Amber Celeste | Organic #2 | Pulse Score 60/100 (Good, #2 in city) | Amber Celeste is a yoga studio in Woodstock, GA at 2340 Towne Lake Parkway, Woodstock, GA 30189. Phone: +17703655106. | https://dingalinged-cpu.github.io/registry/c/amber-celeste-woodstock/
+1. Ember Hot Yoga | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | Ember Hot Yoga is a yoga studio in Woodstock, GA at 330 Chambers Street, Woodstock, GA. Phone: +17704855583. Website: https://www.emberyoga.com/. | https://registry-edge.dingalinged.workers.dev/c/ember-hot-yoga-woodstock/
+2. Amber Celeste | Organic #2 | Pulse Score 60/100 (Good, #2 in city) | Amber Celeste is a yoga studio in Woodstock, GA at 2340 Towne Lake Parkway, Woodstock, GA 30189. Phone: +17703655106. | https://registry-edge.dingalinged.workers.dev/c/amber-celeste-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes woodstock ga | category: Fitness | industry benchmark: Health & Fitness
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$180 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/yoga-classes.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#yoga-classes-woodstock-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/yoga-classes.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#yoga-classes-woodstock-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

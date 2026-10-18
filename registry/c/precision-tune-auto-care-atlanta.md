@@ -13,12 +13,12 @@ Precision Tune Auto Care is an auto repair shop in Atlanta, GA at 2306 Cheshire 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 80% of auto repair shops in Atlanta, #39 of 46 auto repair shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 50.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 80% of auto repair shops in Atlanta, #39 of 46 auto repair shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 50.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/precision-tune-auto-care-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/precision-tune-auto-care-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/precision-tune-auto-care-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/precision-tune-auto-care-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/226570798 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

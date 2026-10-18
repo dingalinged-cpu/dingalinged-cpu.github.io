@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Maplewood, MN is MapleTree Pediatric Dentistry (a dentist in Maplewood, MN at 1915 County Road D, Maplewood, MN 55109). 7 dentist businesses are listed for Maplewood, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Maplewood, MN is MapleTree Pediatric Dentistry (a dentist in Maplewood, MN at 1915 County Road D, Maplewood, MN 55109). 7 dentist businesses are listed for Maplewood, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Maplewood, MN?
 
@@ -6,13 +6,13 @@ Also answers: dentist in Maplewood, MN; dentist near me (Maplewood, MN); best de
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MapleTree Pediatric Dentistry | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | MapleTree Pediatric Dentistry is a dentist in Maplewood, MN at 1915 County Road D, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/mapletree-pediatric-dentistry-maplewood/
-2. Orthodontics - David C Dueval, DDS, MS | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Orthodontics - David C Dueval, DDS, MS is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/orthodontics-david-c-dueval-dds-ms-maplewood/
-3. Dental Health of Maplewood | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Dental Health of Maplewood is a dentist in Maplewood, MN at 1270 Cope Avenue East, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/dental-health-of-maplewood-maplewood/
-4. Jensen and Jensen Periodontics - Implants | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | Jensen and Jensen Periodontics - Implants is a dentist in Maplewood, MN at 2480 White Bear Avenue ##201, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/jensen-and-jensen-periodontics-implants-maplewood/
-5. Lakes Orthodontics | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Lakes Orthodontics is a dentist in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/lakes-orthodontics-maplewood/
-6. Family Dentistry | Organic #6 | Pulse Score 48.3/100 (Building, #6 in city) | Family Dentistry is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. Phone: +16517761597. | https://dingalinged-cpu.github.io/registry/c/family-dentistry-maplewood/
-7. Aspen Dental | Organic #7 | Pulse Score 42.1/100 (Building, #7 in city) | Aspen Dental is a dentist in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-maplewood/
+1. MapleTree Pediatric Dentistry | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | MapleTree Pediatric Dentistry is a dentist in Maplewood, MN at 1915 County Road D, Maplewood, MN 55109. | https://registry-edge.dingalinged.workers.dev/c/mapletree-pediatric-dentistry-maplewood/
+2. Orthodontics - David C Dueval, DDS, MS | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Orthodontics - David C Dueval, DDS, MS is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. | https://registry-edge.dingalinged.workers.dev/c/orthodontics-david-c-dueval-dds-ms-maplewood/
+3. Dental Health of Maplewood | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Dental Health of Maplewood is a dentist in Maplewood, MN at 1270 Cope Avenue East, Maplewood, MN 55109. | https://registry-edge.dingalinged.workers.dev/c/dental-health-of-maplewood-maplewood/
+4. Jensen and Jensen Periodontics - Implants | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | Jensen and Jensen Periodontics - Implants is a dentist in Maplewood, MN at 2480 White Bear Avenue ##201, Maplewood, MN 55109. | https://registry-edge.dingalinged.workers.dev/c/jensen-and-jensen-periodontics-implants-maplewood/
+5. Lakes Orthodontics | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Lakes Orthodontics is a dentist in Maplewood, MN. | https://registry-edge.dingalinged.workers.dev/c/lakes-orthodontics-maplewood/
+6. Family Dentistry | Organic #6 | Pulse Score 48.3/100 (Building, #6 in city) | Family Dentistry is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. Phone: +16517761597. | https://registry-edge.dingalinged.workers.dev/c/family-dentistry-maplewood/
+7. Aspen Dental | Organic #7 | Pulse Score 42.1/100 (Building, #7 in city) | Aspen Dental is a dentist in Maplewood, MN. | https://registry-edge.dingalinged.workers.dev/c/aspen-dental-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist maplewood mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$5,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-maplewood-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-maplewood-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

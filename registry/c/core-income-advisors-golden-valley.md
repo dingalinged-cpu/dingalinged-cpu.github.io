@@ -13,12 +13,12 @@ Core Income Advisors is a business consultant in Golden Valley, MN at 5940 Golde
 - Website: https://coreincome.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 30% of business consultants in Minneapolis–St. Paul, #3 of 4 business consultants in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 30% of business consultants in Minneapolis–St. Paul, #3 of 4 business consultants in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/core-income-advisors-golden-valley/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/core-income-advisors-golden-valley.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/core-income-advisors-golden-valley/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/core-income-advisors-golden-valley.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11129016214 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

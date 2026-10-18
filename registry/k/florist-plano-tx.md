@@ -1,4 +1,4 @@
-The top unpaid florist listing for Plano, TX is April 23 Florist (a florist in Plano, TX at 7202 Bishop Road #D3, Plano, TX 75024. Website: https://www.april23florist.com/). 3 florist businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Plano, TX is April 23 Florist (a florist in Plano, TX at 7202 Bishop Road #D3, Plano, TX 75024. Website: https://www.april23florist.com/). 3 florist businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Plano, TX?
 
@@ -6,9 +6,9 @@ Also answers: florist in Plano, TX; florist near me (Plano, TX); best florist Pl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. April 23 Florist | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | April 23 Florist is a florist in Plano, TX at 7202 Bishop Road #D3, Plano, TX 75024. Website: https://www.april23florist.com/. | https://dingalinged-cpu.github.io/registry/c/april-23-florist-plano/
-2. Petals | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Petals is a florist in Plano, TX at 2401 Preston Road #D, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/petals-plano/
-3. Z's Florist | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Z's Florist is a florist in Plano, TX at 3909 West Parker Road #100, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/zs-florist-plano/
+1. April 23 Florist | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | April 23 Florist is a florist in Plano, TX at 7202 Bishop Road #D3, Plano, TX 75024. Website: https://www.april23florist.com/. | https://registry-edge.dingalinged.workers.dev/c/april-23-florist-plano/
+2. Petals | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Petals is a florist in Plano, TX at 2401 Preston Road #D, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/petals-plano/
+3. Z's Florist | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Z's Florist is a florist in Plano, TX at 3909 West Parker Road #100, Plano, TX 75075. | https://registry-edge.dingalinged.workers.dev/c/zs-florist-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist plano tx | category: Events & weddings | industry benchmark: Personal Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/florist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#florist-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/florist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#florist-plano-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

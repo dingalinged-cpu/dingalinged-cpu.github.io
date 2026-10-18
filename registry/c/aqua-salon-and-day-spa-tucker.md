@@ -13,12 +13,12 @@ Aqua Salon & Day Spa is a tanning salon in Tucker, GA at 4987 Lavista Rd, #1, Tu
 - Website: https://aquasaloninc.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 36% of tanning salons in Atlanta, #1 of 1 tanning salons in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 36% of tanning salons in Atlanta, #1 of 1 tanning salons in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 54.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/aqua-salon-and-day-spa-tucker/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/aqua-salon-and-day-spa-tucker.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aqua-salon-and-day-spa-tucker/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aqua-salon-and-day-spa-tucker.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9677156951 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

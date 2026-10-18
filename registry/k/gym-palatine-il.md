@@ -1,4 +1,4 @@
-The top unpaid gym listing for Palatine, IL is MocaFIT (a gym in Palatine, IL. Phone: +18473122068. Website: https://www.mocafit.com/). 5 gym businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Palatine, IL is MocaFIT (a gym in Palatine, IL. Phone: +18473122068. Website: https://www.mocafit.com/). 5 gym businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Palatine, IL?
 
@@ -6,11 +6,11 @@ Also answers: gym in Palatine, IL; gym near me (Palatine, IL); best gym Palatine
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MocaFIT | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | MocaFIT is a gym in Palatine, IL. Phone: +18473122068. Website: https://www.mocafit.com/. | https://dingalinged-cpu.github.io/registry/c/mocafit-palatine/
-2. Move | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Move is a gym in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/move-palatine/
-3. Crunch Fitness | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | Crunch Fitness is a gym in Palatine, IL at 720 Euclid Avenue, Palatine, IL 60067. Website: https://www.dominicks.com/. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-palatine/
-4. Planet Fitness | Organic #4 | Pulse Score 41.3/100 (Building, #4 in city) | Planet Fitness is a gym in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-palatine/
-5. The Exercise Coach | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | The Exercise Coach is a gym in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/the-exercise-coach-palatine/
+1. MocaFIT | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | MocaFIT is a gym in Palatine, IL. Phone: +18473122068. Website: https://www.mocafit.com/. | https://registry-edge.dingalinged.workers.dev/c/mocafit-palatine/
+2. Move | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Move is a gym in Palatine, IL. | https://registry-edge.dingalinged.workers.dev/c/move-palatine/
+3. Crunch Fitness | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | Crunch Fitness is a gym in Palatine, IL at 720 Euclid Avenue, Palatine, IL 60067. Website: https://www.dominicks.com/. | https://registry-edge.dingalinged.workers.dev/c/crunch-fitness-palatine/
+4. Planet Fitness | Organic #4 | Pulse Score 41.3/100 (Building, #4 in city) | Planet Fitness is a gym in Palatine, IL. | https://registry-edge.dingalinged.workers.dev/c/planet-fitness-palatine/
+5. The Exercise Coach | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | The Exercise Coach is a gym in Palatine, IL. | https://registry-edge.dingalinged.workers.dev/c/the-exercise-coach-palatine/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym palatine il | category: Fitness | industry benchmark: Health & Fitness
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$6,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/gym.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#gym-palatine-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/gym.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#gym-palatine-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Yellow Brick Road Early Childhood Development Center is a preschool in Norwalk, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 5% of preschools in Des Moines, IA, #1 of 2 preschools in Norwalk (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 5% of preschools in Des Moines, IA, #1 of 2 preschools in Norwalk (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/yellow-brick-road-early-childhood-development-center-norwalk/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/yellow-brick-road-early-childhood-development-center-norwalk.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/yellow-brick-road-early-childhood-development-center-norwalk/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/yellow-brick-road-early-childhood-development-center-norwalk.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12367136668 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

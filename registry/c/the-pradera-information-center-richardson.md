@@ -13,12 +13,12 @@ The Pradera Information Center is a property management company in Richardson, T
 - Website: https://thepradera.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 4% of property management companys in Dallas–Fort Worth, #2 of 4 property management companys in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 4% of property management companys in Dallas–Fort Worth, #2 of 4 property management companys in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 63.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-pradera-information-center-richardson/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-pradera-information-center-richardson.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-pradera-information-center-richardson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-pradera-information-center-richardson.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/597863842 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

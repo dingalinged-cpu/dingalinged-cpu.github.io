@@ -1,4 +1,4 @@
-The top unpaid dog boarding listing for Lake Zurich, IL is Oakview Pet Resort (a dog boarding facility in Lake Zurich, IL. Website: https://www.oakviewpetresort.com/). 1 dog boarding businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Lake Zurich, IL is Oakview Pet Resort (a dog boarding facility in Lake Zurich, IL. Website: https://www.oakviewpetresort.com/). 1 dog boarding businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Lake Zurich, IL?
 
@@ -6,7 +6,7 @@ Also answers: dog boarding in Lake Zurich, IL; dog boarding near me (Lake Zurich
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oakview Pet Resort | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Oakview Pet Resort is a dog boarding facility in Lake Zurich, IL. Website: https://www.oakviewpetresort.com/. | https://dingalinged-cpu.github.io/registry/c/oakview-pet-resort-lake-zurich/
+1. Oakview Pet Resort | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Oakview Pet Resort is a dog boarding facility in Lake Zurich, IL. Website: https://www.oakviewpetresort.com/. | https://registry-edge.dingalinged.workers.dev/c/oakview-pet-resort-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding lake zurich il | category: Pets | industry benchmark: Animals & Pets
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dog-boarding.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dog-boarding-lake-zurich-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dog-boarding.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dog-boarding-lake-zurich-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

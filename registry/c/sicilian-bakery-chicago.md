@@ -13,12 +13,12 @@ Sicilian Bakery is a bakery in Chicago, IL at 4632 North Cumberland Avenue, Chic
 - Website: https://sicilianbakeryinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 07:00-17:00; Su 08:00-14:00; Mo off
-- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 2% of bakerys in Chicago, #6 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 2% of bakerys in Chicago, #6 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 61.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sicilian-bakery-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sicilian-bakery-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sicilian-bakery-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sicilian-bakery-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6321950460 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Theiss Plumbing Co., Inc. is a plumber in Spring, TX at 4023 Lonesome Pine Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 72% of plumbers in Houston, #3 of 3 plumbers in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 45. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 72% of plumbers in Houston, #3 of 3 plumbers in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 45. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/theiss-plumbing-co-inc-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/theiss-plumbing-co-inc-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/theiss-plumbing-co-inc-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/theiss-plumbing-co-inc-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1377154300 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

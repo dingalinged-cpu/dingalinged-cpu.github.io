@@ -13,12 +13,12 @@ Edward Jones is a financial advisor in Cobb County, GA at 4401 Shallowford Road 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/christian-wulfers
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 50.2/100 — Fair — top 56% of financial advisors in Atlanta, #2 of 2 financial advisors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 56% of financial advisors in Atlanta, #2 of 2 financial advisors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 61.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/edward-jones-cobb-county-n12283242788/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/edward-jones-cobb-county-n12283242788.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/edward-jones-cobb-county-n12283242788/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/edward-jones-cobb-county-n12283242788.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12283242788 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

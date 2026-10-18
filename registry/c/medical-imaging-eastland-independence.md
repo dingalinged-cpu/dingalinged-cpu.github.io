@@ -13,12 +13,12 @@ Medical Imaging Eastland is an urgent care clinic in Independence, MO at 19000 E
 - Website: https://www.lakewoodhospitalkc.org/services/radiology
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 67% of urgent care clinics in Kansas City, MO, #2 of 2 urgent care clinics in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 67% of urgent care clinics in Kansas City, MO, #2 of 2 urgent care clinics in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 48.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/medical-imaging-eastland-independence/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/medical-imaging-eastland-independence.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/medical-imaging-eastland-independence/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/medical-imaging-eastland-independence.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5578551022 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

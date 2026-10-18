@@ -13,12 +13,12 @@ Grease Monkey is an auto repair shop in Denton, TX at 421 Eagle Drive, Denton, T
 - Website: https://www.greasemonkeyauto.com/denton-texas-76201-center-1184/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 68% of auto repair shops in Dallas–Fort Worth, #30 of 38 auto repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 68% of auto repair shops in Dallas–Fort Worth, #30 of 38 auto repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 58.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/grease-monkey-denton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/grease-monkey-denton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/grease-monkey-denton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/grease-monkey-denton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/656306119 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

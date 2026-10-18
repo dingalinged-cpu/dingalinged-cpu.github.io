@@ -13,12 +13,12 @@ The Law Office of Traci Fann, LLC is a lawyer in Lee's Summit, MO at 211 NW Exec
 - Website: https://kctrafficattorneys.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of lawyers in Kansas City, MO, #2 of 3 lawyers in Lee's Summit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of lawyers in Kansas City, MO, #2 of 3 lawyers in Lee's Summit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 60.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-law-office-of-traci-fann-llc-lees-summit/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-law-office-of-traci-fann-llc-lees-summit.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-law-office-of-traci-fann-llc-lees-summit/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-law-office-of-traci-fann-llc-lees-summit.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9679963411 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

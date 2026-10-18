@@ -13,12 +13,12 @@ Laura Goddard Style is a hair salon in Atlanta, GA at 332 Ormond Street Southeas
 - Website: https://lauragoddardstyle.com/
 - Email: info@lauragoddardstyle.com
 - Opening hours (OSM syntax): Tu-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-15:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Atlanta, #21 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Atlanta, #21 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 63. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/laura-goddard-style-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/laura-goddard-style-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/laura-goddard-style-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/laura-goddard-style-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/751108585 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

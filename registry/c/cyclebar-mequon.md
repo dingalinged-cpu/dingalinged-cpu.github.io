@@ -13,12 +13,12 @@ CycleBar is a gym in Mequon, WI. Website: https://www.cyclebar.com/location/mequ
 - Website: https://www.cyclebar.com/location/mequon
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 81% of gyms in Milwaukee, #2 of 2 gyms in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 44.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 81% of gyms in Milwaukee, #2 of 2 gyms in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 44.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cyclebar-mequon/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cyclebar-mequon.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cyclebar-mequon/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cyclebar-mequon.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1223823042 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

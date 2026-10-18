@@ -13,12 +13,12 @@ Cool Hand Electric, Heating, & AC Repair is an electrician in Red Oak, TX at 206
 - Website: https://coolhandelectric.com/electrician-red-oak-tx/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of electricians in Dallas–Fort Worth, #1 of 1 electricians in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of electricians in Dallas–Fort Worth, #1 of 1 electricians in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cool-hand-electric-heating-and-ac-repair-red-oak/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cool-hand-electric-heating-and-ac-repair-red-oak.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cool-hand-electric-heating-and-ac-repair-red-oak/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cool-hand-electric-heating-and-ac-repair-red-oak.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13720414416 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

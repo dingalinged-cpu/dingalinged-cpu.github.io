@@ -1,4 +1,4 @@
-The top unpaid pet store listing for Olathe, KS is Olathe Pet Shop (a pet store in Olathe, KS at 16651 West 151st Street, Olathe, KS 66062. Phone: +19137641904. Website: https://www.facebook.com/Olathe-Pet-Shop-157946000932732/). 5 pet store businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Olathe, KS is Olathe Pet Shop (a pet store in Olathe, KS at 16651 West 151st Street, Olathe, KS 66062. Phone: +19137641904. Website: https://www.facebook.com/Olathe-Pet-Shop-157946000932732/). 5 pet store businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Olathe, KS?
 
@@ -6,11 +6,11 @@ Also answers: pet store in Olathe, KS; pet store near me (Olathe, KS); best pet 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Olathe Pet Shop | Organic #1 | Pulse Score 59/100 (Fair, #1 in city) | Olathe Pet Shop is a pet store in Olathe, KS at 16651 West 151st Street, Olathe, KS 66062. Phone: +19137641904. Website: https://www.facebook.com/Olathe-Pet-Shop-157946000932732/. | https://dingalinged-cpu.github.io/registry/c/olathe-pet-shop-olathe/
-2. treats unleashed | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | treats unleashed is a pet store in Olathe, KS at Olathe, KS, Olathe, KS 66062. | https://dingalinged-cpu.github.io/registry/c/treats-unleashed-olathe/
-3. PetSmart | Organic #3 | Pulse Score 50.2/100 (Fair, #3 in city) | PetSmart is a pet store in Olathe, KS at 15255 West 119th Street, Olathe, KS 66062. Phone: +19133934111. Website: https://www.petsmart.com/stores/us/ks/olathe-store0241.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-olathe/
-4. Petco | Organic #4 | Pulse Score 47.4/100 (Building, #4 in city) | Petco is a pet store in Olathe, KS at 13620 South Blackbob Road, Olathe, KS 66062. Phone: +19132547589. Website: https://stores.petco.com/ks/olathe/pet-supplies-olathe-ks-1460.html. | https://dingalinged-cpu.github.io/registry/c/petco-olathe/
-5. Wild Birds Unlimited | Organic #5 | Pulse Score 45.2/100 (Building, #5 in city) | Wild Birds Unlimited is a pet store in Olathe, KS at 15056 South Black Bob Road, Olathe, KS 66062. Phone: +19138393151. | https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-olathe/
+1. Olathe Pet Shop | Organic #1 | Pulse Score 59/100 (Fair, #1 in city) | Olathe Pet Shop is a pet store in Olathe, KS at 16651 West 151st Street, Olathe, KS 66062. Phone: +19137641904. Website: https://www.facebook.com/Olathe-Pet-Shop-157946000932732/. | https://registry-edge.dingalinged.workers.dev/c/olathe-pet-shop-olathe/
+2. treats unleashed | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | treats unleashed is a pet store in Olathe, KS at Olathe, KS, Olathe, KS 66062. | https://registry-edge.dingalinged.workers.dev/c/treats-unleashed-olathe/
+3. PetSmart | Organic #3 | Pulse Score 50.2/100 (Fair, #3 in city) | PetSmart is a pet store in Olathe, KS at 15255 West 119th Street, Olathe, KS 66062. Phone: +19133934111. Website: https://www.petsmart.com/stores/us/ks/olathe-store0241.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-olathe/
+4. Petco | Organic #4 | Pulse Score 47.4/100 (Building, #4 in city) | Petco is a pet store in Olathe, KS at 13620 South Blackbob Road, Olathe, KS 66062. Phone: +19132547589. Website: https://stores.petco.com/ks/olathe/pet-supplies-olathe-ks-1460.html. | https://registry-edge.dingalinged.workers.dev/c/petco-olathe/
+5. Wild Birds Unlimited | Organic #5 | Pulse Score 45.2/100 (Building, #5 in city) | Wild Birds Unlimited is a pet store in Olathe, KS at 15056 South Black Bob Road, Olathe, KS 66062. Phone: +19138393151. | https://registry-edge.dingalinged.workers.dev/c/wild-birds-unlimited-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store olathe ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$340 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store-olathe-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/pet-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#pet-store-olathe-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

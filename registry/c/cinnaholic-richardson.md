@@ -13,12 +13,12 @@ Cinnaholic is a bakery in Richardson, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.5/100 — Unrated (not enough evidence yet) — top 95% of bakerys in Dallas–Fort Worth, #6 of 6 bakerys in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 40.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.5/100 — Unrated (not enough evidence yet) — top 95% of bakerys in Dallas–Fort Worth, #6 of 6 bakerys in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 40.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cinnaholic-richardson/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cinnaholic-richardson.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cinnaholic-richardson/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cinnaholic-richardson.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4942234096 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

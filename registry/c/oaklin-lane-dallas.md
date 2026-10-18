@@ -13,12 +13,12 @@ Oaklin Lane is a physical therapy clinic in Dallas, TX at 8610 Greenville Avenue
 - Website: https://www.oaklinlane.com/locations/lake-highlands
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 20% of physical therapy clinics in Dallas–Fort Worth, #3 of 15 physical therapy clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 20% of physical therapy clinics in Dallas–Fort Worth, #3 of 15 physical therapy clinics in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/oaklin-lane-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/oaklin-lane-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/oaklin-lane-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/oaklin-lane-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13991108898 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

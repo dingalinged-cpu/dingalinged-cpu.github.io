@@ -13,12 +13,12 @@ Extra Space Storage is a self-storage facility in Saint Louis Park, MN at 5305 P
 - Website: https://www.extraspace.com/storage/facilities/us/minnesota/st_louis_park/1000000859/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 47% of self-storage facilitys in Minneapolis–St. Paul, #2 of 4 self-storage facilitys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 47% of self-storage facilitys in Minneapolis–St. Paul, #2 of 4 self-storage facilitys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 58.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/extra-space-storage-saint-louis-park-w167040267/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/extra-space-storage-saint-louis-park-w167040267.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/extra-space-storage-saint-louis-park-w167040267/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/extra-space-storage-saint-louis-park-w167040267.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/167040267 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

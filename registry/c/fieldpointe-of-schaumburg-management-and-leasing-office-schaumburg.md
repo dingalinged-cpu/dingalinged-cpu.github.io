@@ -13,12 +13,12 @@ Fieldpointe of Schaumburg Management and Leasing Office is a property management
 - Website: https://www.fieldpointe-apartments.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 41% of property management companys in Chicago, #1 of 2 property management companys in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 41% of property management companys in Chicago, #1 of 2 property management companys in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/fieldpointe-of-schaumburg-management-and-leasing-office-schaumburg/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fieldpointe-of-schaumburg-management-and-leasing-office-schaumburg.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/fieldpointe-of-schaumburg-management-and-leasing-office-schaumburg/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/fieldpointe-of-schaumburg-management-and-leasing-office-schaumburg.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12582764939 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

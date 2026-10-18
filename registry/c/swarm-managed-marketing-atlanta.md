@@ -13,12 +13,12 @@ Swarm Managed Marketing is a marketing agency in Atlanta, GA at 1222 Spring Stre
 - Website: https://www.wearescs.com/managed-marketing/
 - Email: info@wearescs.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Fair — top 42% of marketing agencys in Atlanta, #6 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Fair — top 42% of marketing agencys in Atlanta, #6 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75, Trust 45.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/swarm-managed-marketing-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/swarm-managed-marketing-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/swarm-managed-marketing-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/swarm-managed-marketing-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13129051334 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ The Eye and Facial Clinic is an eye care practice in Warrenville, IL at 28375 Da
 - Website: https://www.eyeandfacialclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Th 09:00-15:00; Tu, We, Fr 09:00-17:00; Sa 09:00-12:00; Su off
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of eye care practices in Chicago, #1 of 1 eye care practices in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of eye care practices in Chicago, #1 of 1 eye care practices in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-eye-and-facial-clinic-warrenville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-eye-and-facial-clinic-warrenville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-eye-and-facial-clinic-warrenville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-eye-and-facial-clinic-warrenville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8940134205 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

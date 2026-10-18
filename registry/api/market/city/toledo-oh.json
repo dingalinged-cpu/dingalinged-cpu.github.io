@@ -2,7 +2,7 @@
  "title": "Keyword market data: Toledo, OH",
  "description": "Top Toledo, OH service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Toledo, OH",
  "geography": "Toledo, OH metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage toledo oh",
     "slug": "massage-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-toledo-oh",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8800,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care toledo oh",
     "slug": "urgent-care-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-toledo-oh",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist toledo oh",
     "slug": "dentist-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-toledo-oh",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym toledo oh",
     "slug": "gym-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-toledo-oh",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash toledo oh",
     "slug": "car-wash-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-toledo-oh",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change toledo oh",
     "slug": "oil-change-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-toledo-oh",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon toledo oh",
     "slug": "hair-salon-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-toledo-oh",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon toledo oh",
     "slug": "nail-salon-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-toledo-oh",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes toledo oh",
     "slug": "car-insurance-quotes-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-toledo-oh",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber toledo oh",
     "slug": "plumber-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-toledo-oh",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments toledo oh",
     "slug": "apartments-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-toledo-oh",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance toledo oh",
     "slug": "auto-insurance-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-toledo-oh",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop toledo oh",
     "slug": "barber-shop-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-toledo-oh",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage toledo oh",
     "slug": "lymphatic-drainage-massage-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-toledo-oh",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic toledo oh",
     "slug": "mechanic-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-toledo-oh",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer toledo oh",
     "slug": "personal-injury-lawyer-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-toledo-oh",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber toledo oh",
     "slug": "emergency-plumber-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-toledo-oh",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair toledo oh",
     "slug": "hvac-repair-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-toledo-oh",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair toledo oh",
     "slug": "ac-repair-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-toledo-oh",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 650,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement toledo oh",
     "slug": "roof-replacement-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-toledo-oh",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 58.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair toledo oh",
     "slug": "roof-repair-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-toledo-oh",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 130,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast toledo oh",
     "slug": "sell-my-house-fast-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-toledo-oh",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services toledo oh",
     "slug": "plumbing-services-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-toledo-oh",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 87.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining toledo oh",
     "slug": "deck-staining-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-toledo-oh",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 32.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters toledo oh",
     "slug": "exterior-house-painters-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-toledo-oh",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 21.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters toledo oh",
     "slug": "interior-painters-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-toledo-oh",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 21.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters toledo oh",
     "slug": "painters-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-toledo-oh",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company toledo oh",
     "slug": "moving-company-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-toledo-oh",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney toledo oh",
     "slug": "criminal-defense-attorney-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-toledo-oh",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer toledo oh",
     "slug": "dui-defense-lawyer-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-toledo-oh",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6.3,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage toledo oh",
     "slug": "massage-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-toledo-oh",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8800,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care toledo oh",
     "slug": "urgent-care-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-toledo-oh",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4800,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer toledo oh",
     "slug": "personal-injury-lawyer-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-toledo-oh",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 350,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber toledo oh",
     "slug": "plumber-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-toledo-oh",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist toledo oh",
     "slug": "dentist-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-toledo-oh",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash toledo oh",
     "slug": "car-wash-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-toledo-oh",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change toledo oh",
     "slug": "oil-change-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-toledo-oh",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair toledo oh",
     "slug": "ac-repair-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-toledo-oh",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 650,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer toledo oh",
     "slug": "car-accident-lawyer-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-toledo-oh",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 650,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage toledo oh",
     "slug": "lymphatic-drainage-massage-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-toledo-oh",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -615,7 +615,7 @@
    {
     "keyword": "gym toledo oh",
     "slug": "gym-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-toledo-oh",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician toledo oh",
     "slug": "electrician-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-toledo-oh",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 430,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic toledo oh",
     "slug": "mechanic-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-toledo-oh",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes toledo oh",
     "slug": "car-insurance-quotes-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-toledo-oh",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -675,7 +675,7 @@
    {
     "keyword": "water heater replacement toledo oh",
     "slug": "water-heater-replacement-toledo-oh",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement-toledo-oh",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#water-heater-replacement-toledo-oh",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 430,

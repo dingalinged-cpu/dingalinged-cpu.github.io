@@ -13,12 +13,12 @@ Larry Stinson Plumbing & Water Heater Repair is a plumber in Southlake, TX at 17
 - Website: https://www.larrystinsonplumbing.com/north/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30, Sa 08:30-13:30
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 52% of plumbers in Dallas–Fort Worth, #1 of 1 plumbers in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 52% of plumbers in Dallas–Fort Worth, #1 of 1 plumbers in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 55.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/larry-stinson-plumbing-and-water-heater-repair-southlake/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/larry-stinson-plumbing-and-water-heater-repair-southlake.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/larry-stinson-plumbing-and-water-heater-repair-southlake/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/larry-stinson-plumbing-and-water-heater-repair-southlake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13188980278 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

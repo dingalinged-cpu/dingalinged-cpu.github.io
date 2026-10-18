@@ -2,7 +2,7 @@
  "title": "Keyword market data: Fort Snelling Unorganized Territory, MN",
  "description": "Top Fort Snelling Unorganized Territory, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Fort Snelling Unorganized Territory, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 6,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage fort snelling unorganized territory mn",
     "slug": "massage-fort-snelling-unorganized-territory-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-fort-snelling-unorganized-territory-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-fort-snelling-unorganized-territory-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -28,7 +28,7 @@
    {
     "keyword": "massage fort snelling unorganized territory mn",
     "slug": "massage-fort-snelling-unorganized-territory-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-fort-snelling-unorganized-territory-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-fort-snelling-unorganized-territory-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -43,7 +43,7 @@
    {
     "keyword": "gift shop fort snelling unorganized territory mn",
     "slug": "gift-shop-fort-snelling-unorganized-territory-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-fort-snelling-unorganized-territory-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-fort-snelling-unorganized-territory-mn/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 200,
@@ -58,7 +58,7 @@
    {
     "keyword": "jewelry store fort snelling unorganized territory mn",
     "slug": "jewelry-store-fort-snelling-unorganized-territory-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-fort-snelling-unorganized-territory-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-fort-snelling-unorganized-territory-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -73,7 +73,7 @@
    {
     "keyword": "property management company fort snelling unorganized territory mn",
     "slug": "property-management-company-fort-snelling-unorganized-territory-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/property-management-company-fort-snelling-unorganized-territory-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/property-management-company-fort-snelling-unorganized-territory-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -88,7 +88,7 @@
    {
     "keyword": "shoe repair fort snelling unorganized territory mn",
     "slug": "shoe-repair-fort-snelling-unorganized-territory-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/shoe-repair-fort-snelling-unorganized-territory-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/shoe-repair-fort-snelling-unorganized-territory-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -103,7 +103,7 @@
    {
     "keyword": "property management companies fort snelling unorganized territory mn",
     "slug": "property-management-companies-fort-snelling-unorganized-territory-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/property-management-companies-fort-snelling-unorganized-territory-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/property-management-companies-fort-snelling-unorganized-territory-mn/",
     "us_monthly_searches": 22000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 240,
@@ -120,7 +120,7 @@
    {
     "keyword": "massage fort snelling unorganized territory mn",
     "slug": "massage-fort-snelling-unorganized-territory-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-fort-snelling-unorganized-territory-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-fort-snelling-unorganized-territory-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,

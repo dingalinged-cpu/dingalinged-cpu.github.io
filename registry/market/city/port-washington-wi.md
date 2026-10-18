@@ -2,18 +2,18 @@ Keyword market for Port Washington, WI: 2 service keywords with search volume, C
 
 # Top keywords in Port Washington, WI
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
 
 ## By monthly searches
-1. dentist port washington wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-port-washington-wi/
-2. vet port washington wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-port-washington-wi/
+1. dentist port washington wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-port-washington-wi/
+2. vet port washington wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-port-washington-wi/
 
 ## By CPC
-1. dentist port washington wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-port-washington-wi/
-2. vet port washington wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-port-washington-wi/
+1. dentist port washington wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-port-washington-wi/
+2. vet port washington wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-port-washington-wi/
 
 ## By value (searches x CPC)
-1. dentist port washington wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-port-washington-wi/
-2. vet port washington wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/vet-port-washington-wi/
+1. dentist port washington wi | searches/mo 8,400 (est) | CPC $4.70 | value $39,000 | Google Ads equiv $2,100/mo | our featured min $100/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/dentist-port-washington-wi/
+2. vet port washington wi | searches/mo 2,500 (est) | CPC $4.06 | value $10,000 | Google Ads equiv $670/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/vet-port-washington-wi/
 
-All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

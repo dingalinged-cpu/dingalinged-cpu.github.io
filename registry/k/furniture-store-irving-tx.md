@@ -1,4 +1,4 @@
-The top unpaid furniture store listing for Irving, TX is Buy Wholesale Cabinents (a furniture store in Irving, TX at Luke Street, Irving, TX 75061. Phone: +18882166277. Website: https://buywholesalecabinets.com/). 6 furniture store businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Irving, TX is Buy Wholesale Cabinents (a furniture store in Irving, TX at Luke Street, Irving, TX 75061. Phone: +18882166277. Website: https://buywholesalecabinets.com/). 6 furniture store businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Irving, TX?
 
@@ -6,12 +6,12 @@ Also answers: furniture store in Irving, TX; furniture store near me (Irving, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Buy Wholesale Cabinents | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Buy Wholesale Cabinents is a furniture store in Irving, TX at Luke Street, Irving, TX 75061. Phone: +18882166277. Website: https://buywholesalecabinets.com/. | https://dingalinged-cpu.github.io/registry/c/buy-wholesale-cabinents-irving/
-2. The Dump Furniture | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | The Dump Furniture is a furniture store in Irving, TX at 2700 Ranch Trail, Irving, TX 75063. | https://dingalinged-cpu.github.io/registry/c/the-dump-furniture-irving/
-3. Kim's Furniture | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Kim's Furniture is a furniture store in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/kims-furniture-irving/
-4. Canales Furniture | Organic #4 | Pulse Score 52.1/100 (Unrated, #4 in city) | Canales Furniture is a furniture store in Irving, TX at 3560 West Airport Freeway, Irving, TX 75062. Phone: +14698453038. Website: https://www.canalesfurnitureusa.com/. | https://dingalinged-cpu.github.io/registry/c/canales-furniture-irving/
-5. Aaron's | Organic #5 | Pulse Score 47.6/100 (Building, #5 in city) | Aaron's is a furniture store in Irving, TX. Website: https://locations.aarons.com/us/tx/irving/3409-n-belt-line-rd-c0167. | https://dingalinged-cpu.github.io/registry/c/aarons-irving-w646949983/
-6. Aaron's | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Aaron's is a furniture store in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-irving/
+1. Buy Wholesale Cabinents | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Buy Wholesale Cabinents is a furniture store in Irving, TX at Luke Street, Irving, TX 75061. Phone: +18882166277. Website: https://buywholesalecabinets.com/. | https://registry-edge.dingalinged.workers.dev/c/buy-wholesale-cabinents-irving/
+2. The Dump Furniture | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | The Dump Furniture is a furniture store in Irving, TX at 2700 Ranch Trail, Irving, TX 75063. | https://registry-edge.dingalinged.workers.dev/c/the-dump-furniture-irving/
+3. Kim's Furniture | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Kim's Furniture is a furniture store in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/kims-furniture-irving/
+4. Canales Furniture | Organic #4 | Pulse Score 52.1/100 (Unrated, #4 in city) | Canales Furniture is a furniture store in Irving, TX at 3560 West Airport Freeway, Irving, TX 75062. Phone: +14698453038. Website: https://www.canalesfurnitureusa.com/. | https://registry-edge.dingalinged.workers.dev/c/canales-furniture-irving/
+5. Aaron's | Organic #5 | Pulse Score 47.6/100 (Building, #5 in city) | Aaron's is a furniture store in Irving, TX. Website: https://locations.aarons.com/us/tx/irving/3409-n-belt-line-rd-c0167. | https://registry-edge.dingalinged.workers.dev/c/aarons-irving-w646949983/
+6. Aaron's | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Aaron's is a furniture store in Irving, TX. | https://registry-edge.dingalinged.workers.dev/c/aarons-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store irving tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/furniture-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#furniture-store-irving-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/furniture-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#furniture-store-irving-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

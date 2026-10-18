@@ -2,7 +2,7 @@
  "title": "Keyword market data: Hinsdale, IL",
  "description": "Top Hinsdale, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hinsdale, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 15,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist hinsdale il",
     "slug": "dentist-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hinsdale-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon hinsdale il",
     "slug": "hair-salon-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hinsdale-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic hinsdale il",
     "slug": "mechanic-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hinsdale-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -56,7 +56,7 @@
    {
     "keyword": "haircut hinsdale il",
     "slug": "haircut-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hinsdale-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -71,7 +71,7 @@
    {
     "keyword": "auto repair hinsdale il",
     "slug": "auto-repair-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hinsdale-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -86,7 +86,7 @@
    {
     "keyword": "chiropractor hinsdale il",
     "slug": "chiropractor-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-hinsdale-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -101,7 +101,7 @@
    {
     "keyword": "real estate agent hinsdale il",
     "slug": "real-estate-agent-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-hinsdale-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -116,7 +116,7 @@
    {
     "keyword": "realtor hinsdale il",
     "slug": "realtor-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-hinsdale-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -131,7 +131,7 @@
    {
     "keyword": "attorney hinsdale il",
     "slug": "attorney-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-hinsdale-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -146,7 +146,7 @@
    {
     "keyword": "lawyer hinsdale il",
     "slug": "lawyer-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-hinsdale-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -163,7 +163,7 @@
    {
     "keyword": "attorney hinsdale il",
     "slug": "attorney-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-hinsdale-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -178,7 +178,7 @@
    {
     "keyword": "lawyer hinsdale il",
     "slug": "lawyer-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-hinsdale-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -193,7 +193,7 @@
    {
     "keyword": "music lessons hinsdale il",
     "slug": "music-lessons-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/music-lessons-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/music-lessons-hinsdale-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -208,7 +208,7 @@
    {
     "keyword": "chiropractor hinsdale il",
     "slug": "chiropractor-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-hinsdale-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -223,7 +223,7 @@
    {
     "keyword": "eye doctor hinsdale il",
     "slug": "eye-doctor-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-hinsdale-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "dentist hinsdale il",
     "slug": "dentist-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hinsdale-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -253,7 +253,7 @@
    {
     "keyword": "haircut hinsdale il",
     "slug": "haircut-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hinsdale-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -268,7 +268,7 @@
    {
     "keyword": "auto repair hinsdale il",
     "slug": "auto-repair-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hinsdale-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -283,7 +283,7 @@
    {
     "keyword": "mechanic hinsdale il",
     "slug": "mechanic-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hinsdale-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -298,7 +298,7 @@
    {
     "keyword": "furniture store hinsdale il",
     "slug": "furniture-store-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-hinsdale-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -313,7 +313,7 @@
    {
     "keyword": "gift shop hinsdale il",
     "slug": "gift-shop-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-hinsdale-il/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 500,
@@ -328,7 +328,7 @@
    {
     "keyword": "jewelry store hinsdale il",
     "slug": "jewelry-store-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-hinsdale-il/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -343,7 +343,7 @@
    {
     "keyword": "realtor hinsdale il",
     "slug": "realtor-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-hinsdale-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -358,7 +358,7 @@
    {
     "keyword": "real estate agent hinsdale il",
     "slug": "real-estate-agent-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-hinsdale-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -373,7 +373,7 @@
    {
     "keyword": "hair salon hinsdale il",
     "slug": "hair-salon-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hinsdale-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -390,7 +390,7 @@
    {
     "keyword": "dentist hinsdale il",
     "slug": "dentist-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hinsdale-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -405,7 +405,7 @@
    {
     "keyword": "mechanic hinsdale il",
     "slug": "mechanic-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hinsdale-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -420,7 +420,7 @@
    {
     "keyword": "haircut hinsdale il",
     "slug": "haircut-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hinsdale-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -435,7 +435,7 @@
    {
     "keyword": "auto repair hinsdale il",
     "slug": "auto-repair-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hinsdale-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -450,7 +450,7 @@
    {
     "keyword": "chiropractor hinsdale il",
     "slug": "chiropractor-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-hinsdale-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -465,7 +465,7 @@
    {
     "keyword": "hair salon hinsdale il",
     "slug": "hair-salon-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hinsdale-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -480,7 +480,7 @@
    {
     "keyword": "attorney hinsdale il",
     "slug": "attorney-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-hinsdale-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -495,7 +495,7 @@
    {
     "keyword": "real estate agent hinsdale il",
     "slug": "real-estate-agent-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-hinsdale-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -510,7 +510,7 @@
    {
     "keyword": "lawyer hinsdale il",
     "slug": "lawyer-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-hinsdale-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -525,7 +525,7 @@
    {
     "keyword": "realtor hinsdale il",
     "slug": "realtor-hinsdale-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-hinsdale-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-hinsdale-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,

@@ -13,12 +13,12 @@ Princeton Prepatory Schools is a preschool in Kennesaw, GA. Phone: +16788135266.
 - Website: https://princetonprepschools.org/
 - Email: admissions@princetonprepschools.com
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 61.1/100 — Good — top 19% of preschools in Atlanta, #3 of 8 preschools in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 19% of preschools in Atlanta, #3 of 8 preschools in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 54.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/princeton-prepatory-schools-kennesaw/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/princeton-prepatory-schools-kennesaw.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/princeton-prepatory-schools-kennesaw/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/princeton-prepatory-schools-kennesaw.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11670359232 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

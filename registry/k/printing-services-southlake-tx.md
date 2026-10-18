@@ -1,4 +1,4 @@
-The top unpaid printing services listing for Southlake, TX is Eagle Postal Center (a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/). 3 printing services businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Southlake, TX is Eagle Postal Center (a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/). 3 printing services businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Southlake, TX?
 
@@ -6,9 +6,9 @@ Also answers: printing services in Southlake, TX; printing services near me (Sou
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eagle Postal Center | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Eagle Postal Center is a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/. | https://dingalinged-cpu.github.io/registry/c/eagle-postal-center-southlake/
-2. Mail & Copy Shoppe | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Mail & Copy Shoppe is a printing service in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/mail-and-copy-shoppe-southlake/
-3. FedEx Office | Organic #3 | Pulse Score 41.3/100 (Building, #3 in city) | FedEx Office is a printing service in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-southlake/
+1. Eagle Postal Center | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Eagle Postal Center is a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/. | https://registry-edge.dingalinged.workers.dev/c/eagle-postal-center-southlake/
+2. Mail & Copy Shoppe | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Mail & Copy Shoppe is a printing service in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/mail-and-copy-shoppe-southlake/
+3. FedEx Office | Organic #3 | Pulse Score 41.3/100 (Building, #3 in city) | FedEx Office is a printing service in Southlake, TX. | https://registry-edge.dingalinged.workers.dev/c/fedex-office-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services southlake tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$280 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/printing-services.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#printing-services-southlake-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/printing-services.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#printing-services-southlake-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

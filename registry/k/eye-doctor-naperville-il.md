@@ -1,4 +1,4 @@
-The top unpaid eye doctor listing for Naperville, IL is Eye Encounters (an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/). 3 eye doctor businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Naperville, IL is Eye Encounters (an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/). 3 eye doctor businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Naperville, IL?
 
@@ -6,9 +6,9 @@ Also answers: eye doctor in Naperville, IL; eye doctor near me (Naperville, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eye Encounters | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Eye Encounters is an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/. | https://dingalinged-cpu.github.io/registry/c/eye-encounters-naperville/
-2. Rosin Eye Care | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | Rosin Eye Care is an eye care practice in Naperville, IL at 705 East Ogden Avenue, Naperville, IL 60563. Phone: +16307782020. Website: https://www.rosineyecare.com/naperville-north-eye-doctor/. | https://dingalinged-cpu.github.io/registry/c/rosin-eye-care-naperville/
-3. MyEyeDr. | Organic #3 | Pulse Score 49.2/100 (Building, #3 in city) | MyEyeDr. is an eye care practice in Naperville, IL at 1000 East Ogden Avenue, Naperville, IL 60563. Phone: +16303559080. Website: https://locations.myeyedr.com/il/naperville/1000-e-ogden-ave. | https://dingalinged-cpu.github.io/registry/c/myeyedr-naperville/
+1. Eye Encounters | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Eye Encounters is an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/. | https://registry-edge.dingalinged.workers.dev/c/eye-encounters-naperville/
+2. Rosin Eye Care | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | Rosin Eye Care is an eye care practice in Naperville, IL at 705 East Ogden Avenue, Naperville, IL 60563. Phone: +16307782020. Website: https://www.rosineyecare.com/naperville-north-eye-doctor/. | https://registry-edge.dingalinged.workers.dev/c/rosin-eye-care-naperville/
+3. MyEyeDr. | Organic #3 | Pulse Score 49.2/100 (Building, #3 in city) | MyEyeDr. is an eye care practice in Naperville, IL at 1000 East Ogden Avenue, Naperville, IL 60563. Phone: +16303559080. Website: https://locations.myeyedr.com/il/naperville/1000-e-ogden-ave. | https://registry-edge.dingalinged.workers.dev/c/myeyedr-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor naperville il | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/eye-doctor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#eye-doctor-naperville-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/eye-doctor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#eye-doctor-naperville-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

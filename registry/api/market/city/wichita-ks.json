@@ -2,7 +2,7 @@
  "title": "Keyword market data: Wichita, KS",
  "description": "Top Wichita, KS service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Wichita, KS",
  "geography": "Wichita, KS metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage wichita ks",
     "slug": "massage-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-wichita-ks",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9700,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care wichita ks",
     "slug": "urgent-care-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-wichita-ks",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist wichita ks",
     "slug": "dentist-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-wichita-ks",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3600,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym wichita ks",
     "slug": "gym-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-wichita-ks",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3600,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash wichita ks",
     "slug": "car-wash-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-wichita-ks",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3600,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change wichita ks",
     "slug": "oil-change-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-wichita-ks",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3600,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon wichita ks",
     "slug": "hair-salon-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-wichita-ks",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2900,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon wichita ks",
     "slug": "nail-salon-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-wichita-ks",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1900,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes wichita ks",
     "slug": "car-insurance-quotes-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-wichita-ks",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber wichita ks",
     "slug": "plumber-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-wichita-ks",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments wichita ks",
     "slug": "apartments-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-wichita-ks",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance wichita ks",
     "slug": "auto-insurance-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-wichita-ks",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop wichita ks",
     "slug": "barber-shop-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-wichita-ks",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage wichita ks",
     "slug": "lymphatic-drainage-massage-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-wichita-ks",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic wichita ks",
     "slug": "mechanic-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-wichita-ks",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer wichita ks",
     "slug": "personal-injury-lawyer-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-wichita-ks",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 390,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber wichita ks",
     "slug": "emergency-plumber-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-wichita-ks",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair wichita ks",
     "slug": "hvac-repair-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-wichita-ks",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair wichita ks",
     "slug": "ac-repair-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-wichita-ks",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 710,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement wichita ks",
     "slug": "roof-replacement-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-wichita-ks",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 64.0,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair wichita ks",
     "slug": "roof-repair-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-wichita-ks",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast wichita ks",
     "slug": "sell-my-house-fast-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-wichita-ks",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services wichita ks",
     "slug": "plumbing-services-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-wichita-ks",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 96.0,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining wichita ks",
     "slug": "deck-staining-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-wichita-ks",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters wichita ks",
     "slug": "exterior-house-painters-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-wichita-ks",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 24.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters wichita ks",
     "slug": "interior-painters-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-wichita-ks",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 24.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters wichita ks",
     "slug": "painters-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-wichita-ks",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company wichita ks",
     "slug": "moving-company-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-wichita-ks",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 390,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney wichita ks",
     "slug": "criminal-defense-attorney-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-wichita-ks",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 180,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer wichita ks",
     "slug": "dui-defense-lawyer-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-wichita-ks",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage wichita ks",
     "slug": "massage-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-wichita-ks",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9700,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care wichita ks",
     "slug": "urgent-care-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-wichita-ks",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5300,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer wichita ks",
     "slug": "personal-injury-lawyer-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-wichita-ks",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 390,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber wichita ks",
     "slug": "plumber-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-wichita-ks",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist wichita ks",
     "slug": "dentist-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-wichita-ks",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3600,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash wichita ks",
     "slug": "car-wash-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-wichita-ks",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3600,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change wichita ks",
     "slug": "oil-change-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-wichita-ks",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3600,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair wichita ks",
     "slug": "ac-repair-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-wichita-ks",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 710,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer wichita ks",
     "slug": "car-accident-lawyer-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-wichita-ks",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 710,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym wichita ks",
     "slug": "gym-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-wichita-ks",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3600,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage wichita ks",
     "slug": "lymphatic-drainage-massage-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-wichita-ks",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician wichita ks",
     "slug": "electrician-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-wichita-ks",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 480,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic wichita ks",
     "slug": "mechanic-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-wichita-ks",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes wichita ks",
     "slug": "car-insurance-quotes-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-wichita-ks",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments wichita ks",
     "slug": "apartments-wichita-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-wichita-ks",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-wichita-ks",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,

@@ -13,12 +13,12 @@ Spotted Paw Pet Supplies & Grooming is a dog groomer in Warrenville, IL at 28341
 - Website: https://spottedpawshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00, Su 10:00-17:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of dog groomers in Chicago, #1 of 1 dog groomers in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of dog groomers in Chicago, #1 of 1 dog groomers in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/spotted-paw-pet-supplies-and-grooming-warrenville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/spotted-paw-pet-supplies-and-grooming-warrenville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/spotted-paw-pet-supplies-and-grooming-warrenville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/spotted-paw-pet-supplies-and-grooming-warrenville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8758536773 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

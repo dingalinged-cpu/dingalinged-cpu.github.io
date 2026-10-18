@@ -13,12 +13,12 @@ The Real Meal is a pet store in Chicago, IL at 7529 North Claremont Avenue, Chic
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 29% of pet stores in Chicago, #23 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 29% of pet stores in Chicago, #23 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 43. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-real-meal-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-real-meal-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-real-meal-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-real-meal-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13628529901 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

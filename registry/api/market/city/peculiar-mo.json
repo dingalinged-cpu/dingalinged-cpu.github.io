@@ -2,7 +2,7 @@
  "title": "Keyword market data: Peculiar, MO",
  "description": "Top Peculiar, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Peculiar, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 13,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash peculiar mo",
     "slug": "car-wash-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-peculiar-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon peculiar mo",
     "slug": "hair-salon-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-peculiar-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -41,7 +41,7 @@
    {
     "keyword": "haircut peculiar mo",
     "slug": "haircut-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-peculiar-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -56,7 +56,7 @@
    {
     "keyword": "dog boarding peculiar mo",
     "slug": "dog-boarding-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-peculiar-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -71,7 +71,7 @@
    {
     "keyword": "insurance agency peculiar mo",
     "slug": "insurance-agency-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-peculiar-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -86,7 +86,7 @@
    {
     "keyword": "tax preparation peculiar mo",
     "slug": "tax-preparation-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-peculiar-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -101,7 +101,7 @@
    {
     "keyword": "tax preparer peculiar mo",
     "slug": "tax-preparer-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-peculiar-mo/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 400,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agents peculiar mo",
     "slug": "insurance-agents-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-peculiar-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agent peculiar mo",
     "slug": "insurance-agent-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-peculiar-mo/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -148,7 +148,7 @@
    {
     "keyword": "event venues peculiar mo",
     "slug": "event-venues-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-peculiar-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -163,7 +163,7 @@
    {
     "keyword": "dance studio peculiar mo",
     "slug": "dance-studio-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-peculiar-mo/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -178,7 +178,7 @@
    {
     "keyword": "tax preparer peculiar mo",
     "slug": "tax-preparer-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-peculiar-mo/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 400,
@@ -193,7 +193,7 @@
    {
     "keyword": "haircut peculiar mo",
     "slug": "haircut-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-peculiar-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -208,7 +208,7 @@
    {
     "keyword": "tanning salon peculiar mo",
     "slug": "tanning-salon-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon-peculiar-mo/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 200,
@@ -223,7 +223,7 @@
    {
     "keyword": "car wash peculiar mo",
     "slug": "car-wash-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-peculiar-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -238,7 +238,7 @@
    {
     "keyword": "liquor store peculiar mo",
     "slug": "liquor-store-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-peculiar-mo/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -253,7 +253,7 @@
    {
     "keyword": "dog boarding peculiar mo",
     "slug": "dog-boarding-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-peculiar-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -268,7 +268,7 @@
    {
     "keyword": "insurance agency peculiar mo",
     "slug": "insurance-agency-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-peculiar-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -283,7 +283,7 @@
    {
     "keyword": "insurance agent peculiar mo",
     "slug": "insurance-agent-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-peculiar-mo/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -298,7 +298,7 @@
    {
     "keyword": "insurance agents peculiar mo",
     "slug": "insurance-agents-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-peculiar-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -313,7 +313,7 @@
    {
     "keyword": "tax preparation peculiar mo",
     "slug": "tax-preparation-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-peculiar-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -328,7 +328,7 @@
    {
     "keyword": "hair salon peculiar mo",
     "slug": "hair-salon-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-peculiar-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -345,7 +345,7 @@
    {
     "keyword": "car wash peculiar mo",
     "slug": "car-wash-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-peculiar-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -360,7 +360,7 @@
    {
     "keyword": "haircut peculiar mo",
     "slug": "haircut-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-peculiar-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -375,7 +375,7 @@
    {
     "keyword": "dog boarding peculiar mo",
     "slug": "dog-boarding-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-peculiar-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -390,7 +390,7 @@
    {
     "keyword": "hair salon peculiar mo",
     "slug": "hair-salon-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-peculiar-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -405,7 +405,7 @@
    {
     "keyword": "tax preparer peculiar mo",
     "slug": "tax-preparer-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-peculiar-mo/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 400,
@@ -420,7 +420,7 @@
    {
     "keyword": "insurance agency peculiar mo",
     "slug": "insurance-agency-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-peculiar-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -435,7 +435,7 @@
    {
     "keyword": "tax preparation peculiar mo",
     "slug": "tax-preparation-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-peculiar-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -450,7 +450,7 @@
    {
     "keyword": "insurance agents peculiar mo",
     "slug": "insurance-agents-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-peculiar-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -465,7 +465,7 @@
    {
     "keyword": "insurance agent peculiar mo",
     "slug": "insurance-agent-peculiar-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-peculiar-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-peculiar-mo/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,

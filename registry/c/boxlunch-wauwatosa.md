@@ -13,12 +13,12 @@ BoxLunch is a gift shop in Wauwatosa, WI. Phone: +14147780904. Website: https://
 - Website: https://www.boxlunch.com/stores-details?StoreId=4534
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00, Su 11:00-18:00
-- Pulse Score: 48.9/100 — Building — top 77% of gift shops in Milwaukee, #4 of 4 gift shops in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 77% of gift shops in Milwaukee, #4 of 4 gift shops in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/boxlunch-wauwatosa/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/boxlunch-wauwatosa.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/boxlunch-wauwatosa/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/boxlunch-wauwatosa.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11164084447 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

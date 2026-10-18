@@ -13,12 +13,12 @@ Lakeview Chiropractic is a chiropractor in Chicago, IL at 3832 North Broadway, C
 - Website: https://lakeviewchiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:45-13:00,15:00-19:00; Tu-Th 09:00-13:00,15:00-19:00; Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 21% of chiropractors in Chicago, #2 of 18 chiropractors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 21% of chiropractors in Chicago, #2 of 18 chiropractors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 59.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lakeview-chiropractic-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lakeview-chiropractic-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lakeview-chiropractic-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lakeview-chiropractic-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10091338623 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

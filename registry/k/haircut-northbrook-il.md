@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Northbrook, IL is Northbrook Barber Shop (a hair salon in Northbrook, IL at 1519 Shermer Road, Northbrook, IL 60062. Phone: +18472723880. Website: https://www.northbrookbarbershop.com/). 5 haircut businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Northbrook, IL is Northbrook Barber Shop (a hair salon in Northbrook, IL at 1519 Shermer Road, Northbrook, IL 60062. Phone: +18472723880. Website: https://www.northbrookbarbershop.com/). 5 haircut businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Northbrook, IL?
 
@@ -6,11 +6,11 @@ Also answers: haircut in Northbrook, IL; haircut near me (Northbrook, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northbrook Barber Shop | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Northbrook Barber Shop is a hair salon in Northbrook, IL at 1519 Shermer Road, Northbrook, IL 60062. Phone: +18472723880. Website: https://www.northbrookbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/northbrook-barber-shop-northbrook/
-2. Salon 2010 | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Salon 2010 is a hair salon in Northbrook, IL at Milwaukee Avenue, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/salon-2010-northbrook/
-3. Andreas Hogue Salon | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Andreas Hogue Salon is a hair salon in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/andreas-hogue-salon-northbrook/
-4. Hair Cuttery | Organic #4 | Pulse Score 45.1/100 (Building, #4 in city) | Hair Cuttery is a hair salon in Northbrook, IL at 778 Skokie Boulevard, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-northbrook/
-5. Sport Clips | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Sport Clips is a hair salon in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-northbrook/
+1. Northbrook Barber Shop | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Northbrook Barber Shop is a hair salon in Northbrook, IL at 1519 Shermer Road, Northbrook, IL 60062. Phone: +18472723880. Website: https://www.northbrookbarbershop.com/. | https://registry-edge.dingalinged.workers.dev/c/northbrook-barber-shop-northbrook/
+2. Salon 2010 | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Salon 2010 is a hair salon in Northbrook, IL at Milwaukee Avenue, Northbrook, IL 60062. | https://registry-edge.dingalinged.workers.dev/c/salon-2010-northbrook/
+3. Andreas Hogue Salon | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Andreas Hogue Salon is a hair salon in Northbrook, IL. | https://registry-edge.dingalinged.workers.dev/c/andreas-hogue-salon-northbrook/
+4. Hair Cuttery | Organic #4 | Pulse Score 45.1/100 (Building, #4 in city) | Hair Cuttery is a hair salon in Northbrook, IL at 778 Skokie Boulevard, Northbrook, IL 60062. | https://registry-edge.dingalinged.workers.dev/c/hair-cuttery-northbrook/
+5. Sport Clips | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Sport Clips is a hair salon in Northbrook, IL. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut northbrook il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-northbrook-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-northbrook-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

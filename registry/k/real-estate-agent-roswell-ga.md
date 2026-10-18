@@ -1,4 +1,4 @@
-The top unpaid real estate agent listing for Roswell, GA is Weichert Realtors (a real estate agency in Roswell, GA. Phone: +16785850122). 6 real estate agent businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Roswell, GA is Weichert Realtors (a real estate agency in Roswell, GA. Phone: +16785850122). 6 real estate agent businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Roswell, GA?
 
@@ -6,12 +6,12 @@ Also answers: real estate agent in Roswell, GA; real estate agent near me (Roswe
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Weichert Realtors | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Weichert Realtors is a real estate agency in Roswell, GA. Phone: +16785850122. | https://dingalinged-cpu.github.io/registry/c/weichert-realtors-roswell/
-2. Progress Residential | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Progress Residential is a real estate agency in Alpharetta, GA at 118 Holcomb Bridge Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/progress-residential-alpharetta/
-3. Gronholm Holdings, LLP | Organic #3 | Pulse Score 54.3/100 (Unrated, #2 in city) | Gronholm Holdings, LLP is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/gronholm-holdings-llp-roswell/
-4. Metro Brokers | Organic #4 | Pulse Score 54.3/100 (Unrated, #3 in city) | Metro Brokers is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/metro-brokers-roswell/
-5. Mexiven Real Estate | Organic #5 | Pulse Score 54.3/100 (Unrated, #4 in city) | Mexiven Real Estate is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/mexiven-real-estate-roswell/
-6. Robinson Real Estate | Organic #6 | Pulse Score 54.3/100 (Unrated, #5 in city) | Robinson Real Estate is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/robinson-real-estate-roswell/
+1. Weichert Realtors | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Weichert Realtors is a real estate agency in Roswell, GA. Phone: +16785850122. | https://registry-edge.dingalinged.workers.dev/c/weichert-realtors-roswell/
+2. Progress Residential | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Progress Residential is a real estate agency in Alpharetta, GA at 118 Holcomb Bridge Road, Alpharetta, GA 30022. | https://registry-edge.dingalinged.workers.dev/c/progress-residential-alpharetta/
+3. Gronholm Holdings, LLP | Organic #3 | Pulse Score 54.3/100 (Unrated, #2 in city) | Gronholm Holdings, LLP is a real estate agency in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/gronholm-holdings-llp-roswell/
+4. Metro Brokers | Organic #4 | Pulse Score 54.3/100 (Unrated, #3 in city) | Metro Brokers is a real estate agency in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/metro-brokers-roswell/
+5. Mexiven Real Estate | Organic #5 | Pulse Score 54.3/100 (Unrated, #4 in city) | Mexiven Real Estate is a real estate agency in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/mexiven-real-estate-roswell/
+6. Robinson Real Estate | Organic #6 | Pulse Score 54.3/100 (Unrated, #5 in city) | Robinson Real Estate is a real estate agency in Roswell, GA. | https://registry-edge.dingalinged.workers.dev/c/robinson-real-estate-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent roswell ga | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/real-estate-agent.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#real-estate-agent-roswell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/real-estate-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#real-estate-agent-roswell-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Fremont, NE",
  "description": "Top Fremont, NE service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Fremont, NE",
  "geography": "Omaha, NE-IA metro",
  "keywords": 15,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash fremont ne",
     "slug": "car-wash-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fremont-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist fremont ne",
     "slug": "dentist-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fremont-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon fremont ne",
     "slug": "hair-salon-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-fremont-ne/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic fremont ne",
     "slug": "mechanic-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-fremont-ne/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -71,7 +71,7 @@
    {
     "keyword": "vet fremont ne",
     "slug": "vet-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-fremont-ne/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut fremont ne",
     "slug": "haircut-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fremont-ne/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair fremont ne",
     "slug": "auto-repair-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-fremont-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -116,7 +116,7 @@
    {
     "keyword": "chiropractor fremont ne",
     "slug": "chiropractor-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-fremont-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency fremont ne",
     "slug": "insurance-agency-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fremont-ne/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agents fremont ne",
     "slug": "insurance-agents-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-fremont-ne/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agent fremont ne",
     "slug": "insurance-agent-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-fremont-ne/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -178,7 +178,7 @@
    {
     "keyword": "storage units fremont ne",
     "slug": "storage-units-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-fremont-ne/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -193,7 +193,7 @@
    {
     "keyword": "chiropractor fremont ne",
     "slug": "chiropractor-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-fremont-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -208,7 +208,7 @@
    {
     "keyword": "dentist fremont ne",
     "slug": "dentist-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fremont-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -223,7 +223,7 @@
    {
     "keyword": "haircut fremont ne",
     "slug": "haircut-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fremont-ne/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -238,7 +238,7 @@
    {
     "keyword": "auto repair fremont ne",
     "slug": "auto-repair-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-fremont-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -253,7 +253,7 @@
    {
     "keyword": "car wash fremont ne",
     "slug": "car-wash-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fremont-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -268,7 +268,7 @@
    {
     "keyword": "mechanic fremont ne",
     "slug": "mechanic-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-fremont-ne/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -283,7 +283,7 @@
    {
     "keyword": "bike shop fremont ne",
     "slug": "bike-shop-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-fremont-ne/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 410,
@@ -298,7 +298,7 @@
    {
     "keyword": "furniture store fremont ne",
     "slug": "furniture-store-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-fremont-ne/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 410,
@@ -313,7 +313,7 @@
    {
     "keyword": "liquor store fremont ne",
     "slug": "liquor-store-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-fremont-ne/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 410,
@@ -328,7 +328,7 @@
    {
     "keyword": "vet fremont ne",
     "slug": "vet-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-fremont-ne/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -343,7 +343,7 @@
    {
     "keyword": "insurance agency fremont ne",
     "slug": "insurance-agency-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fremont-ne/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -358,7 +358,7 @@
    {
     "keyword": "insurance agent fremont ne",
     "slug": "insurance-agent-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-fremont-ne/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,
@@ -373,7 +373,7 @@
    {
     "keyword": "insurance agents fremont ne",
     "slug": "insurance-agents-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-fremont-ne/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -388,7 +388,7 @@
    {
     "keyword": "hair salon fremont ne",
     "slug": "hair-salon-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-fremont-ne/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -405,7 +405,7 @@
    {
     "keyword": "dentist fremont ne",
     "slug": "dentist-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-fremont-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -420,7 +420,7 @@
    {
     "keyword": "car wash fremont ne",
     "slug": "car-wash-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-fremont-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -435,7 +435,7 @@
    {
     "keyword": "mechanic fremont ne",
     "slug": "mechanic-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-fremont-ne/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -450,7 +450,7 @@
    {
     "keyword": "vet fremont ne",
     "slug": "vet-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-fremont-ne/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -465,7 +465,7 @@
    {
     "keyword": "haircut fremont ne",
     "slug": "haircut-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-fremont-ne/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -480,7 +480,7 @@
    {
     "keyword": "auto repair fremont ne",
     "slug": "auto-repair-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-fremont-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -495,7 +495,7 @@
    {
     "keyword": "chiropractor fremont ne",
     "slug": "chiropractor-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-fremont-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -510,7 +510,7 @@
    {
     "keyword": "hair salon fremont ne",
     "slug": "hair-salon-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-fremont-ne/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4400,
@@ -525,7 +525,7 @@
    {
     "keyword": "insurance agency fremont ne",
     "slug": "insurance-agency-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-fremont-ne/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 270,
@@ -540,7 +540,7 @@
    {
     "keyword": "insurance agents fremont ne",
     "slug": "insurance-agents-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-fremont-ne/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -555,7 +555,7 @@
    {
     "keyword": "insurance agent fremont ne",
     "slug": "insurance-agent-fremont-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-fremont-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-fremont-ne/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120,

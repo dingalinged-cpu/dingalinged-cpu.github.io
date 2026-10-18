@@ -2,7 +2,7 @@
  "title": "Keyword market data: Pleasant Hill, MO",
  "description": "Top Pleasant Hill, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Pleasant Hill, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 13,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash pleasant hill mo",
     "slug": "car-wash-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-pleasant-hill-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist pleasant hill mo",
     "slug": "dentist-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-pleasant-hill-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic pleasant hill mo",
     "slug": "mechanic-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pleasant-hill-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -56,7 +56,7 @@
    {
     "keyword": "auto repair pleasant hill mo",
     "slug": "auto-repair-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pleasant-hill-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -71,7 +71,7 @@
    {
     "keyword": "locksmith pleasant hill mo",
     "slug": "locksmith-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-pleasant-hill-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -86,7 +86,7 @@
    {
     "keyword": "spa pleasant hill mo",
     "slug": "spa-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-pleasant-hill-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -101,7 +101,7 @@
    {
     "keyword": "attorney pleasant hill mo",
     "slug": "attorney-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-pleasant-hill-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -116,7 +116,7 @@
    {
     "keyword": "lawyer pleasant hill mo",
     "slug": "lawyer-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-pleasant-hill-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -131,7 +131,7 @@
    {
     "keyword": "accountant pleasant hill mo",
     "slug": "accountant-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-pleasant-hill-mo/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -146,7 +146,7 @@
    {
     "keyword": "accounting services pleasant hill mo",
     "slug": "accounting-services-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-pleasant-hill-mo/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 80.0,
@@ -163,7 +163,7 @@
    {
     "keyword": "attorney pleasant hill mo",
     "slug": "attorney-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-pleasant-hill-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -178,7 +178,7 @@
    {
     "keyword": "lawyer pleasant hill mo",
     "slug": "lawyer-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-pleasant-hill-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -193,7 +193,7 @@
    {
     "keyword": "locksmith pleasant hill mo",
     "slug": "locksmith-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-pleasant-hill-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -208,7 +208,7 @@
    {
     "keyword": "accounting services pleasant hill mo",
     "slug": "accounting-services-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-pleasant-hill-mo/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 80.0,
@@ -223,7 +223,7 @@
    {
     "keyword": "accountant pleasant hill mo",
     "slug": "accountant-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-pleasant-hill-mo/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -238,7 +238,7 @@
    {
     "keyword": "dentist pleasant hill mo",
     "slug": "dentist-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-pleasant-hill-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -253,7 +253,7 @@
    {
     "keyword": "spa pleasant hill mo",
     "slug": "spa-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-pleasant-hill-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -268,7 +268,7 @@
    {
     "keyword": "auto repair pleasant hill mo",
     "slug": "auto-repair-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pleasant-hill-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -283,7 +283,7 @@
    {
     "keyword": "car wash pleasant hill mo",
     "slug": "car-wash-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-pleasant-hill-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -298,7 +298,7 @@
    {
     "keyword": "mechanic pleasant hill mo",
     "slug": "mechanic-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pleasant-hill-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -313,7 +313,7 @@
    {
     "keyword": "bike shop pleasant hill mo",
     "slug": "bike-shop-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-pleasant-hill-mo/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -328,7 +328,7 @@
    {
     "keyword": "used cars for sale pleasant hill mo",
     "slug": "used-cars-for-sale-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/used-cars-for-sale-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/used-cars-for-sale-pleasant-hill-mo/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -343,7 +343,7 @@
    {
     "keyword": "it support pleasant hill mo",
     "slug": "it-support-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/it-support-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/it-support-pleasant-hill-mo/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -360,7 +360,7 @@
    {
     "keyword": "dentist pleasant hill mo",
     "slug": "dentist-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-pleasant-hill-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -375,7 +375,7 @@
    {
     "keyword": "car wash pleasant hill mo",
     "slug": "car-wash-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-pleasant-hill-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -390,7 +390,7 @@
    {
     "keyword": "mechanic pleasant hill mo",
     "slug": "mechanic-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-pleasant-hill-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -405,7 +405,7 @@
    {
     "keyword": "locksmith pleasant hill mo",
     "slug": "locksmith-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-pleasant-hill-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -420,7 +420,7 @@
    {
     "keyword": "auto repair pleasant hill mo",
     "slug": "auto-repair-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-pleasant-hill-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -435,7 +435,7 @@
    {
     "keyword": "spa pleasant hill mo",
     "slug": "spa-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-pleasant-hill-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -450,7 +450,7 @@
    {
     "keyword": "attorney pleasant hill mo",
     "slug": "attorney-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-pleasant-hill-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -465,7 +465,7 @@
    {
     "keyword": "lawyer pleasant hill mo",
     "slug": "lawyer-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-pleasant-hill-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -480,7 +480,7 @@
    {
     "keyword": "accountant pleasant hill mo",
     "slug": "accountant-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-pleasant-hill-mo/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -495,7 +495,7 @@
    {
     "keyword": "accounting services pleasant hill mo",
     "slug": "accounting-services-pleasant-hill-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-pleasant-hill-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-pleasant-hill-mo/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 80.0,

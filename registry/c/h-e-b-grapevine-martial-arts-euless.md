@@ -13,12 +13,12 @@ H-E-B/Grapevine Martial Arts is a martial arts school in Euless, TX at 2501 Nort
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 49% of martial arts schools in Dallas–Fort Worth, #1 of 3 martial arts schools in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 47.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 49% of martial arts schools in Dallas–Fort Worth, #1 of 3 martial arts schools in Euless (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 47.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/h-e-b-grapevine-martial-arts-euless/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/h-e-b-grapevine-martial-arts-euless.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/h-e-b-grapevine-martial-arts-euless/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/h-e-b-grapevine-martial-arts-euless.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13738322872 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Avondale Estates, GA",
  "description": "Top Avondale Estates, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Avondale Estates, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 12,
@@ -11,7 +11,7 @@
    {
     "keyword": "mechanic avondale estates ga",
     "slug": "mechanic-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-avondale-estates-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dog groomer avondale estates ga",
     "slug": "dog-groomer-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-avondale-estates-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -41,7 +41,7 @@
    {
     "keyword": "auto repair avondale estates ga",
     "slug": "auto-repair-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-avondale-estates-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -56,7 +56,7 @@
    {
     "keyword": "hvac repair avondale estates ga",
     "slug": "hvac-repair-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-avondale-estates-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -73,7 +73,7 @@
    {
     "keyword": "hvac repair avondale estates ga",
     "slug": "hvac-repair-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-avondale-estates-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -88,7 +88,7 @@
    {
     "keyword": "heating and air avondale estates ga",
     "slug": "heating-and-air-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-avondale-estates-ga/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 68.0,
@@ -103,7 +103,7 @@
    {
     "keyword": "bakery avondale estates ga",
     "slug": "bakery-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-avondale-estates-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -118,7 +118,7 @@
    {
     "keyword": "florist avondale estates ga",
     "slug": "florist-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-avondale-estates-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -133,7 +133,7 @@
    {
     "keyword": "martial arts avondale estates ga",
     "slug": "martial-arts-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-avondale-estates-ga/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5700,
@@ -148,7 +148,7 @@
    {
     "keyword": "auto repair avondale estates ga",
     "slug": "auto-repair-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-avondale-estates-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -163,7 +163,7 @@
    {
     "keyword": "mechanic avondale estates ga",
     "slug": "mechanic-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-avondale-estates-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -178,7 +178,7 @@
    {
     "keyword": "furniture store avondale estates ga",
     "slug": "furniture-store-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-avondale-estates-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -193,7 +193,7 @@
    {
     "keyword": "gift shop avondale estates ga",
     "slug": "gift-shop-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-avondale-estates-ga/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 340,
@@ -208,7 +208,7 @@
    {
     "keyword": "liquor store avondale estates ga",
     "slug": "liquor-store-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-avondale-estates-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -223,7 +223,7 @@
    {
     "keyword": "thrift store avondale estates ga",
     "slug": "thrift-store-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-avondale-estates-ga/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -238,7 +238,7 @@
    {
     "keyword": "dog groomer avondale estates ga",
     "slug": "dog-groomer-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-avondale-estates-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -255,7 +255,7 @@
    {
     "keyword": "mechanic avondale estates ga",
     "slug": "mechanic-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-avondale-estates-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -270,7 +270,7 @@
    {
     "keyword": "dog groomer avondale estates ga",
     "slug": "dog-groomer-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-avondale-estates-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -285,7 +285,7 @@
    {
     "keyword": "auto repair avondale estates ga",
     "slug": "auto-repair-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-avondale-estates-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -300,7 +300,7 @@
    {
     "keyword": "hvac repair avondale estates ga",
     "slug": "hvac-repair-avondale-estates-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-avondale-estates-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-avondale-estates-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,

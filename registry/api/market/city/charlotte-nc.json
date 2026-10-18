@@ -2,7 +2,7 @@
  "title": "Keyword market data: Charlotte, NC",
  "description": "Top Charlotte, NC service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Charlotte, NC",
  "geography": "Charlotte-Concord-Gastonia, NC-SC metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage charlotte nc",
     "slug": "massage-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-charlotte-nc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 43000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care charlotte nc",
     "slug": "urgent-care-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-charlotte-nc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 24000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist charlotte nc",
     "slug": "dentist-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-charlotte-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym charlotte nc",
     "slug": "gym-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-charlotte-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash charlotte nc",
     "slug": "car-wash-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-charlotte-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change charlotte nc",
     "slug": "oil-change-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-charlotte-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon charlotte nc",
     "slug": "hair-salon-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-charlotte-nc",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon charlotte nc",
     "slug": "nail-salon-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-charlotte-nc",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8600,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes charlotte nc",
     "slug": "car-insurance-quotes-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-charlotte-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7100,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber charlotte nc",
     "slug": "plumber-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-charlotte-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7100,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments charlotte nc",
     "slug": "apartments-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-charlotte-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance charlotte nc",
     "slug": "auto-insurance-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-charlotte-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop charlotte nc",
     "slug": "barber-shop-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-charlotte-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage charlotte nc",
     "slug": "lymphatic-drainage-massage-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-charlotte-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic charlotte nc",
     "slug": "mechanic-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-charlotte-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer charlotte nc",
     "slug": "personal-injury-lawyer-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-charlotte-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber charlotte nc",
     "slug": "emergency-plumber-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-charlotte-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 640,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair charlotte nc",
     "slug": "hvac-repair-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-charlotte-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 640,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair charlotte nc",
     "slug": "ac-repair-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-charlotte-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement charlotte nc",
     "slug": "roof-replacement-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-charlotte-nc",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair charlotte nc",
     "slug": "roof-repair-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-charlotte-nc",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 640,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast charlotte nc",
     "slug": "sell-my-house-fast-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-charlotte-nc",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 85.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services charlotte nc",
     "slug": "plumbing-services-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-charlotte-nc",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 430,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining charlotte nc",
     "slug": "deck-staining-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-charlotte-nc",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 160,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters charlotte nc",
     "slug": "exterior-house-painters-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-charlotte-nc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 100,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters charlotte nc",
     "slug": "interior-painters-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-charlotte-nc",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 100,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters charlotte nc",
     "slug": "painters-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-charlotte-nc",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 520,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company charlotte nc",
     "slug": "moving-company-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-charlotte-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney charlotte nc",
     "slug": "criminal-defense-attorney-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-charlotte-nc",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 780,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer charlotte nc",
     "slug": "dui-defense-lawyer-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-charlotte-nc",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 31.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage charlotte nc",
     "slug": "massage-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-charlotte-nc",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 43000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care charlotte nc",
     "slug": "urgent-care-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-charlotte-nc",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 24000,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer charlotte nc",
     "slug": "personal-injury-lawyer-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-charlotte-nc",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber charlotte nc",
     "slug": "plumber-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-charlotte-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7100,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist charlotte nc",
     "slug": "dentist-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-charlotte-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash charlotte nc",
     "slug": "car-wash-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-charlotte-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change charlotte nc",
     "slug": "oil-change-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-charlotte-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair charlotte nc",
     "slug": "ac-repair-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-charlotte-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer charlotte nc",
     "slug": "car-accident-lawyer-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-charlotte-nc",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3200,
@@ -600,7 +600,7 @@
    {
     "keyword": "gym charlotte nc",
     "slug": "gym-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-charlotte-nc",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -615,7 +615,7 @@
    {
     "keyword": "lymphatic drainage massage charlotte nc",
     "slug": "lymphatic-drainage-massage-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-charlotte-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -630,7 +630,7 @@
    {
     "keyword": "electrician charlotte nc",
     "slug": "electrician-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-charlotte-nc",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic charlotte nc",
     "slug": "mechanic-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-charlotte-nc",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5800,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes charlotte nc",
     "slug": "car-insurance-quotes-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-charlotte-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7100,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments charlotte nc",
     "slug": "apartments-charlotte-nc",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-charlotte-nc",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-charlotte-nc",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7100,

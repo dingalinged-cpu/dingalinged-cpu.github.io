@@ -1,4 +1,4 @@
-The top unpaid pet store listing for Eagan, MN is Chuck and Don's (a pet store in Eagan, MN at 1254, Eagan, MN). 3 pet store businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Eagan, MN is Chuck and Don's (a pet store in Eagan, MN at 1254, Eagan, MN). 3 pet store businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Eagan, MN?
 
@@ -6,9 +6,9 @@ Also answers: pet store in Eagan, MN; pet store near me (Eagan, MN); best pet st
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chuck and Don's | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Chuck and Don's is a pet store in Eagan, MN at 1254, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-eagan/
-2. PetSmart | Organic #2 | Pulse Score 48.3/100 (Building, #2 in city) | PetSmart is a pet store in Eagan, MN at 1297 Promenade Place #2A, Eagan, MN 55121. Phone: +16514521140. Website: https://www.petsmart.com/stores/us/mn/eagan-store0469.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-eagan/
-3. Petco | Organic #3 | Pulse Score 47.6/100 (Building, #3 in city) | Petco is a pet store in Eagan, MN at 1505 Central Park Commons Drive #100, Eagan, MN 55121. Phone: +16512864898. Website: https://stores.petco.com/mn/eagan/pet-supplies-eagan-mn-2619.html. | https://dingalinged-cpu.github.io/registry/c/petco-eagan/
+1. Chuck and Don's | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Chuck and Don's is a pet store in Eagan, MN at 1254, Eagan, MN. | https://registry-edge.dingalinged.workers.dev/c/chuck-and-dons-eagan/
+2. PetSmart | Organic #2 | Pulse Score 48.3/100 (Building, #2 in city) | PetSmart is a pet store in Eagan, MN at 1297 Promenade Place #2A, Eagan, MN 55121. Phone: +16514521140. Website: https://www.petsmart.com/stores/us/mn/eagan-store0469.html. | https://registry-edge.dingalinged.workers.dev/c/petsmart-eagan/
+3. Petco | Organic #3 | Pulse Score 47.6/100 (Building, #3 in city) | Petco is a pet store in Eagan, MN at 1505 Central Park Commons Drive #100, Eagan, MN 55121. Phone: +16512864898. Website: https://stores.petco.com/mn/eagan/pet-supplies-eagan-mn-2619.html. | https://registry-edge.dingalinged.workers.dev/c/petco-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store eagan mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$590 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store-eagan-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/pet-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#pet-store-eagan-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

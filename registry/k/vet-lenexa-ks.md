@@ -1,4 +1,4 @@
-The top unpaid vet listing for Lenexa, KS is Falcon Valley Animal Hospital (a veterinarian in Lenexa, KS at 10111 Stevenson Street, Lenexa, KS 66220. Phone: +19137647387. Website: https://falconvalleyanimalhospital.com/). 4 vet businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Lenexa, KS is Falcon Valley Animal Hospital (a veterinarian in Lenexa, KS at 10111 Stevenson Street, Lenexa, KS 66220. Phone: +19137647387. Website: https://falconvalleyanimalhospital.com/). 4 vet businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Lenexa, KS?
 
@@ -6,10 +6,10 @@ Also answers: vet in Lenexa, KS; vet near me (Lenexa, KS); best vet Lenexa, KS; 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Falcon Valley Animal Hospital | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Falcon Valley Animal Hospital is a veterinarian in Lenexa, KS at 10111 Stevenson Street, Lenexa, KS 66220. Phone: +19137647387. Website: https://falconvalleyanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/falcon-valley-animal-hospital-lenexa/
-2. Parkway Animal Hospital | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | Parkway Animal Hospital is a veterinarian in Lenexa, KS at 8734 Lackman Road, Lenexa, KS 66219. Phone: +19134925300. Website: https://www.parkwayah.com/. | https://dingalinged-cpu.github.io/registry/c/parkway-animal-hospital-lenexa/
-3. Country Hill Animal Clinic | Organic #3 | Pulse Score 60.4/100 (Unrated, #3 in city) | Country Hill Animal Clinic is a veterinarian in Lenexa, KS at 15585 West 87th Street Parkway, Lenexa, KS 66219. Website: https://countryhillanimalclinic.com/. | https://dingalinged-cpu.github.io/registry/c/country-hill-animal-clinic-lenexa/
-4. Cat Clinic of Johnson County | Organic #4 | Pulse Score 60.3/100 (Unrated, #4 in city) | Cat Clinic of Johnson County is a veterinarian in Lenexa, KS. Phone: +19135410478. Website: https://catclinicofjc.com/. | https://dingalinged-cpu.github.io/registry/c/cat-clinic-of-johnson-county-lenexa/
+1. Falcon Valley Animal Hospital | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Falcon Valley Animal Hospital is a veterinarian in Lenexa, KS at 10111 Stevenson Street, Lenexa, KS 66220. Phone: +19137647387. Website: https://falconvalleyanimalhospital.com/. | https://registry-edge.dingalinged.workers.dev/c/falcon-valley-animal-hospital-lenexa/
+2. Parkway Animal Hospital | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | Parkway Animal Hospital is a veterinarian in Lenexa, KS at 8734 Lackman Road, Lenexa, KS 66219. Phone: +19134925300. Website: https://www.parkwayah.com/. | https://registry-edge.dingalinged.workers.dev/c/parkway-animal-hospital-lenexa/
+3. Country Hill Animal Clinic | Organic #3 | Pulse Score 60.4/100 (Unrated, #3 in city) | Country Hill Animal Clinic is a veterinarian in Lenexa, KS at 15585 West 87th Street Parkway, Lenexa, KS 66219. Website: https://countryhillanimalclinic.com/. | https://registry-edge.dingalinged.workers.dev/c/country-hill-animal-clinic-lenexa/
+4. Cat Clinic of Johnson County | Organic #4 | Pulse Score 60.3/100 (Unrated, #4 in city) | Cat Clinic of Johnson County is a veterinarian in Lenexa, KS. Phone: +19135410478. Website: https://catclinicofjc.com/. | https://registry-edge.dingalinged.workers.dev/c/cat-clinic-of-johnson-county-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet lenexa ks | category: Pets | industry benchmark: Animals & Pets
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$990 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-lenexa-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-lenexa-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

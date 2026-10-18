@@ -2,7 +2,7 @@
  "title": "Keyword market data: Buffalo, NY",
  "description": "Top Buffalo, NY service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Buffalo, NY",
  "geography": "Buffalo-Cheektowaga, NY metro",
  "keywords": 490,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage buffalo ny",
     "slug": "massage-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-buffalo-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care buffalo ny",
     "slug": "urgent-care-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-buffalo-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9300,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist buffalo ny",
     "slug": "dentist-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-buffalo-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6200,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym buffalo ny",
     "slug": "gym-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-buffalo-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6200,
@@ -71,7 +71,7 @@
    {
     "keyword": "car wash buffalo ny",
     "slug": "car-wash-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-buffalo-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6200,
@@ -86,7 +86,7 @@
    {
     "keyword": "oil change buffalo ny",
     "slug": "oil-change-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-buffalo-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6200,
@@ -101,7 +101,7 @@
    {
     "keyword": "hair salon buffalo ny",
     "slug": "hair-salon-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-buffalo-ny",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5100,
@@ -116,7 +116,7 @@
    {
     "keyword": "nail salon buffalo ny",
     "slug": "nail-salon-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-buffalo-ny",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3400,
@@ -131,7 +131,7 @@
    {
     "keyword": "car insurance quotes buffalo ny",
     "slug": "car-insurance-quotes-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-buffalo-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,
@@ -146,7 +146,7 @@
    {
     "keyword": "plumber buffalo ny",
     "slug": "plumber-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-buffalo-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,
@@ -161,7 +161,7 @@
    {
     "keyword": "apartments buffalo ny",
     "slug": "apartments-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-buffalo-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto insurance buffalo ny",
     "slug": "auto-insurance-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#auto-insurance-buffalo-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -191,7 +191,7 @@
    {
     "keyword": "barber shop buffalo ny",
     "slug": "barber-shop-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#barber-shop-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#barber-shop-buffalo-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -206,7 +206,7 @@
    {
     "keyword": "lymphatic drainage massage buffalo ny",
     "slug": "lymphatic-drainage-massage-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-buffalo-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -221,7 +221,7 @@
    {
     "keyword": "mechanic buffalo ny",
     "slug": "mechanic-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-buffalo-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -238,7 +238,7 @@
    {
     "keyword": "personal injury lawyer buffalo ny",
     "slug": "personal-injury-lawyer-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-buffalo-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 680,
@@ -253,7 +253,7 @@
    {
     "keyword": "emergency plumber buffalo ny",
     "slug": "emergency-plumber-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#emergency-plumber-buffalo-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 250,
@@ -268,7 +268,7 @@
    {
     "keyword": "hvac repair buffalo ny",
     "slug": "hvac-repair-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#hvac-repair-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#hvac-repair-buffalo-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 250,
@@ -283,7 +283,7 @@
    {
     "keyword": "ac repair buffalo ny",
     "slug": "ac-repair-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-buffalo-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -298,7 +298,7 @@
    {
     "keyword": "roof replacement buffalo ny",
     "slug": "roof-replacement-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-replacement-buffalo-ny",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 110,
@@ -313,7 +313,7 @@
    {
     "keyword": "roof repair buffalo ny",
     "slug": "roof-repair-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#roof-repair-buffalo-ny",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 250,
@@ -328,7 +328,7 @@
    {
     "keyword": "sell my house fast buffalo ny",
     "slug": "sell-my-house-fast-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#sell-my-house-fast-buffalo-ny",
     "us_monthly_searches": 9900,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 33.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "plumbing services buffalo ny",
     "slug": "plumbing-services-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumbing-services-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumbing-services-buffalo-ny",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 170,
@@ -358,7 +358,7 @@
    {
     "keyword": "deck staining buffalo ny",
     "slug": "deck-staining-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#deck-staining-buffalo-ny",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 61.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "exterior house painters buffalo ny",
     "slug": "exterior-house-painters-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#exterior-house-painters-buffalo-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "interior painters buffalo ny",
     "slug": "interior-painters-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#interior-painters-buffalo-ny",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41.0,
@@ -403,7 +403,7 @@
    {
     "keyword": "painters buffalo ny",
     "slug": "painters-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#painters-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#painters-buffalo-ny",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -418,7 +418,7 @@
    {
     "keyword": "moving company buffalo ny",
     "slug": "moving-company-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#moving-company-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#moving-company-buffalo-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 680,
@@ -433,7 +433,7 @@
    {
     "keyword": "criminal defense attorney buffalo ny",
     "slug": "criminal-defense-attorney-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#criminal-defense-attorney-buffalo-ny",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 310,
@@ -448,7 +448,7 @@
    {
     "keyword": "dui defense lawyer buffalo ny",
     "slug": "dui-defense-lawyer-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dui-defense-lawyer-buffalo-ny",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 12.0,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage buffalo ny",
     "slug": "massage-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#massage-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#massage-buffalo-ny",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care buffalo ny",
     "slug": "urgent-care-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#urgent-care-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#urgent-care-buffalo-ny",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9300,
@@ -495,7 +495,7 @@
    {
     "keyword": "personal injury lawyer buffalo ny",
     "slug": "personal-injury-lawyer-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#personal-injury-lawyer-buffalo-ny",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 680,
@@ -510,7 +510,7 @@
    {
     "keyword": "plumber buffalo ny",
     "slug": "plumber-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#plumber-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#plumber-buffalo-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,
@@ -525,7 +525,7 @@
    {
     "keyword": "dentist buffalo ny",
     "slug": "dentist-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#dentist-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-buffalo-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6200,
@@ -540,7 +540,7 @@
    {
     "keyword": "car wash buffalo ny",
     "slug": "car-wash-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-buffalo-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6200,
@@ -555,7 +555,7 @@
    {
     "keyword": "oil change buffalo ny",
     "slug": "oil-change-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#oil-change-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#oil-change-buffalo-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6200,
@@ -570,7 +570,7 @@
    {
     "keyword": "ac repair buffalo ny",
     "slug": "ac-repair-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#ac-repair-buffalo-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -585,7 +585,7 @@
    {
     "keyword": "car accident lawyer buffalo ny",
     "slug": "car-accident-lawyer-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-accident-lawyer-buffalo-ny",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -600,7 +600,7 @@
    {
     "keyword": "lymphatic drainage massage buffalo ny",
     "slug": "lymphatic-drainage-massage-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#lymphatic-drainage-massage-buffalo-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -615,7 +615,7 @@
    {
     "keyword": "electrician buffalo ny",
     "slug": "electrician-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#electrician-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#electrician-buffalo-ny",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 830,
@@ -630,7 +630,7 @@
    {
     "keyword": "gym buffalo ny",
     "slug": "gym-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gym-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#gym-buffalo-ny",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6200,
@@ -645,7 +645,7 @@
    {
     "keyword": "mechanic buffalo ny",
     "slug": "mechanic-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-buffalo-ny",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2300,
@@ -660,7 +660,7 @@
    {
     "keyword": "car insurance quotes buffalo ny",
     "slug": "car-insurance-quotes-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#car-insurance-quotes-buffalo-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,
@@ -675,7 +675,7 @@
    {
     "keyword": "apartments buffalo ny",
     "slug": "apartments-buffalo-ny",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#apartments-buffalo-ny",
+    "url": "https://registry-edge.dingalinged.workers.dev/view/market.html#apartments-buffalo-ny",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2800,

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Trophy Club, TX",
  "description": "Top Trophy Club, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Trophy Club, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 21,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage trophy club tx",
     "slug": "massage-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-trophy-club-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist trophy club tx",
     "slug": "dentist-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-trophy-club-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym trophy club tx",
     "slug": "gym-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-trophy-club-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon trophy club tx",
     "slug": "hair-salon-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-trophy-club-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon trophy club tx",
     "slug": "nail-salon-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-trophy-club-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -86,7 +86,7 @@
    {
     "keyword": "dog groomer trophy club tx",
     "slug": "dog-groomer-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-trophy-club-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut trophy club tx",
     "slug": "haircut-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-trophy-club-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -116,7 +116,7 @@
    {
     "keyword": "chiropractor trophy club tx",
     "slug": "chiropractor-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-trophy-club-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -131,7 +131,7 @@
    {
     "keyword": "real estate agent trophy club tx",
     "slug": "real-estate-agent-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-trophy-club-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agency trophy club tx",
     "slug": "insurance-agency-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-trophy-club-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -161,7 +161,7 @@
    {
     "keyword": "pediatrician trophy club tx",
     "slug": "pediatrician-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-trophy-club-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -176,7 +176,7 @@
    {
     "keyword": "realtor trophy club tx",
     "slug": "realtor-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-trophy-club-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -191,7 +191,7 @@
    {
     "keyword": "yoga classes trophy club tx",
     "slug": "yoga-classes-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-trophy-club-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agents trophy club tx",
     "slug": "insurance-agents-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-trophy-club-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agent trophy club tx",
     "slug": "insurance-agent-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-trophy-club-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -238,7 +238,7 @@
    {
     "keyword": "daycare trophy club tx",
     "slug": "daycare-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-trophy-club-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -253,7 +253,7 @@
    {
     "keyword": "chiropractor trophy club tx",
     "slug": "chiropractor-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-trophy-club-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -268,7 +268,7 @@
    {
     "keyword": "eye doctor trophy club tx",
     "slug": "eye-doctor-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-trophy-club-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -283,7 +283,7 @@
    {
     "keyword": "pediatrician trophy club tx",
     "slug": "pediatrician-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-trophy-club-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -298,7 +298,7 @@
    {
     "keyword": "physical therapy trophy club tx",
     "slug": "physical-therapy-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-trophy-club-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -313,7 +313,7 @@
    {
     "keyword": "dentist trophy club tx",
     "slug": "dentist-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-trophy-club-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -328,7 +328,7 @@
    {
     "keyword": "haircut trophy club tx",
     "slug": "haircut-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-trophy-club-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -343,7 +343,7 @@
    {
     "keyword": "massage trophy club tx",
     "slug": "massage-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-trophy-club-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -358,7 +358,7 @@
    {
     "keyword": "liquor store trophy club tx",
     "slug": "liquor-store-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-trophy-club-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -373,7 +373,7 @@
    {
     "keyword": "pet store trophy club tx",
     "slug": "pet-store-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-trophy-club-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3500,
@@ -388,7 +388,7 @@
    {
     "keyword": "dog groomer trophy club tx",
     "slug": "dog-groomer-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-trophy-club-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -403,7 +403,7 @@
    {
     "keyword": "realtor trophy club tx",
     "slug": "realtor-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-trophy-club-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -418,7 +418,7 @@
    {
     "keyword": "real estate agent trophy club tx",
     "slug": "real-estate-agent-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-trophy-club-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -433,7 +433,7 @@
    {
     "keyword": "dry cleaners trophy club tx",
     "slug": "dry-cleaners-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-trophy-club-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -448,7 +448,7 @@
    {
     "keyword": "insurance agency trophy club tx",
     "slug": "insurance-agency-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-trophy-club-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage trophy club tx",
     "slug": "massage-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-trophy-club-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist trophy club tx",
     "slug": "dentist-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-trophy-club-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym trophy club tx",
     "slug": "gym-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-trophy-club-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "dog groomer trophy club tx",
     "slug": "dog-groomer-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-trophy-club-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -525,7 +525,7 @@
    {
     "keyword": "haircut trophy club tx",
     "slug": "haircut-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-trophy-club-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -540,7 +540,7 @@
    {
     "keyword": "chiropractor trophy club tx",
     "slug": "chiropractor-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-trophy-club-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -555,7 +555,7 @@
    {
     "keyword": "hair salon trophy club tx",
     "slug": "hair-salon-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-trophy-club-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -570,7 +570,7 @@
    {
     "keyword": "real estate agent trophy club tx",
     "slug": "real-estate-agent-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-trophy-club-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -585,7 +585,7 @@
    {
     "keyword": "nail salon trophy club tx",
     "slug": "nail-salon-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-trophy-club-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -600,7 +600,7 @@
    {
     "keyword": "pediatrician trophy club tx",
     "slug": "pediatrician-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-trophy-club-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -615,7 +615,7 @@
    {
     "keyword": "realtor trophy club tx",
     "slug": "realtor-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-trophy-club-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agency trophy club tx",
     "slug": "insurance-agency-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-trophy-club-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agents trophy club tx",
     "slug": "insurance-agents-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-trophy-club-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agent trophy club tx",
     "slug": "insurance-agent-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-trophy-club-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -675,7 +675,7 @@
    {
     "keyword": "yoga classes trophy club tx",
     "slug": "yoga-classes-trophy-club-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/yoga-classes-trophy-club-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/yoga-classes-trophy-club-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,

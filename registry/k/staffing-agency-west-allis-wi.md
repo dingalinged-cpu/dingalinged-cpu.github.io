@@ -1,4 +1,4 @@
-The top unpaid staffing agency listing for West Allis, WI is Snelling (a staffing agency in West Allis, WI at 7447 West Greenfield Avenue, West Allis, WI 53214. Phone: +14148103738. Website: https://milwaukee.snelling.com/). 3 staffing agency businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for West Allis, WI is Snelling (a staffing agency in West Allis, WI at 7447 West Greenfield Avenue, West Allis, WI 53214. Phone: +14148103738. Website: https://milwaukee.snelling.com/). 3 staffing agency businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in West Allis, WI?
 
@@ -6,9 +6,9 @@ Also answers: staffing agency in West Allis, WI; staffing agency near me (West A
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Snelling | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Snelling is a staffing agency in West Allis, WI at 7447 West Greenfield Avenue, West Allis, WI 53214. Phone: +14148103738. Website: https://milwaukee.snelling.com/. | https://dingalinged-cpu.github.io/registry/c/snelling-west-allis/
-2. TempsPLUS | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | TempsPLUS is a staffing agency in West Allis, WI at 7017 West Greenfield Avenue, West Allis, WI 53214. Phone: +14144757300. Website: https://www.tempsplusjobs.com/. | https://dingalinged-cpu.github.io/registry/c/tempsplus-west-allis/
-3. QPS Employment Group | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | QPS Employment Group is a staffing agency in West Allis, WI at 1700 South 108th Street, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/qps-employment-group-west-allis/
+1. Snelling | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Snelling is a staffing agency in West Allis, WI at 7447 West Greenfield Avenue, West Allis, WI 53214. Phone: +14148103738. Website: https://milwaukee.snelling.com/. | https://registry-edge.dingalinged.workers.dev/c/snelling-west-allis/
+2. TempsPLUS | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | TempsPLUS is a staffing agency in West Allis, WI at 7017 West Greenfield Avenue, West Allis, WI 53214. Phone: +14144757300. Website: https://www.tempsplusjobs.com/. | https://registry-edge.dingalinged.workers.dev/c/tempsplus-west-allis/
+3. QPS Employment Group | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | QPS Employment Group is a staffing agency in West Allis, WI at 1700 South 108th Street, West Allis, WI 53214. | https://registry-edge.dingalinged.workers.dev/c/qps-employment-group-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency west allis wi | category: b2b_services | industry benchmark: Business Services
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$220 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/staffing-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#staffing-agency-west-allis-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/staffing-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#staffing-agency-west-allis-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

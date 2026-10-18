@@ -2,7 +2,7 @@
  "title": "Keyword market data: Vernon Hills, IL",
  "description": "Top Vernon Hills, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Vernon Hills, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 31,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash vernon hills il",
     "slug": "car-wash-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-vernon-hills-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist vernon hills il",
     "slug": "dentist-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-vernon-hills-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym vernon hills il",
     "slug": "gym-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-vernon-hills-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon vernon hills il",
     "slug": "hair-salon-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-vernon-hills-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon vernon hills il",
     "slug": "nail-salon-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-vernon-hills-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic vernon hills il",
     "slug": "mechanic-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-vernon-hills-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop vernon hills il",
     "slug": "tire-shop-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-vernon-hills-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -116,7 +116,7 @@
    {
     "keyword": "vet vernon hills il",
     "slug": "vet-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-vernon-hills-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -131,7 +131,7 @@
    {
     "keyword": "haircut vernon hills il",
     "slug": "haircut-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-vernon-hills-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -146,7 +146,7 @@
    {
     "keyword": "auto repair vernon hills il",
     "slug": "auto-repair-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-vernon-hills-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -161,7 +161,7 @@
    {
     "keyword": "chiropractor vernon hills il",
     "slug": "chiropractor-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-vernon-hills-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agency vernon hills il",
     "slug": "insurance-agency-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-vernon-hills-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -191,7 +191,7 @@
    {
     "keyword": "facial vernon hills il",
     "slug": "facial-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-vernon-hills-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agents vernon hills il",
     "slug": "insurance-agents-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-vernon-hills-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agent vernon hills il",
     "slug": "insurance-agent-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-vernon-hills-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -238,7 +238,7 @@
    {
     "keyword": "flooring companies vernon hills il",
     "slug": "flooring-companies-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-vernon-hills-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -253,7 +253,7 @@
    {
     "keyword": "storage units vernon hills il",
     "slug": "storage-units-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-vernon-hills-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -268,7 +268,7 @@
    {
     "keyword": "bakery vernon hills il",
     "slug": "bakery-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-vernon-hills-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -283,7 +283,7 @@
    {
     "keyword": "dance studio vernon hills il",
     "slug": "dance-studio-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-vernon-hills-il/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -298,7 +298,7 @@
    {
     "keyword": "daycare vernon hills il",
     "slug": "daycare-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-vernon-hills-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "preschool vernon hills il",
     "slug": "preschool-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-vernon-hills-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "chiropractor vernon hills il",
     "slug": "chiropractor-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-vernon-hills-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -343,7 +343,7 @@
    {
     "keyword": "dentist vernon hills il",
     "slug": "dentist-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-vernon-hills-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -358,7 +358,7 @@
    {
     "keyword": "facial vernon hills il",
     "slug": "facial-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-vernon-hills-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -373,7 +373,7 @@
    {
     "keyword": "haircut vernon hills il",
     "slug": "haircut-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-vernon-hills-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -388,7 +388,7 @@
    {
     "keyword": "waxing vernon hills il",
     "slug": "waxing-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/waxing-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/waxing-vernon-hills-il/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 26000,
@@ -403,7 +403,7 @@
    {
     "keyword": "auto repair vernon hills il",
     "slug": "auto-repair-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-vernon-hills-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -418,7 +418,7 @@
    {
     "keyword": "car wash vernon hills il",
     "slug": "car-wash-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-vernon-hills-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -433,7 +433,7 @@
    {
     "keyword": "mechanic vernon hills il",
     "slug": "mechanic-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-vernon-hills-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -448,7 +448,7 @@
    {
     "keyword": "tire shop vernon hills il",
     "slug": "tire-shop-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-vernon-hills-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist vernon hills il",
     "slug": "dentist-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-vernon-hills-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash vernon hills il",
     "slug": "car-wash-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-vernon-hills-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym vernon hills il",
     "slug": "gym-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-vernon-hills-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic vernon hills il",
     "slug": "mechanic-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-vernon-hills-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop vernon hills il",
     "slug": "tire-shop-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-vernon-hills-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet vernon hills il",
     "slug": "vet-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-vernon-hills-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut vernon hills il",
     "slug": "haircut-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-vernon-hills-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair vernon hills il",
     "slug": "auto-repair-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-vernon-hills-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -585,7 +585,7 @@
    {
     "keyword": "chiropractor vernon hills il",
     "slug": "chiropractor-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-vernon-hills-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -600,7 +600,7 @@
    {
     "keyword": "hair salon vernon hills il",
     "slug": "hair-salon-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-vernon-hills-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -615,7 +615,7 @@
    {
     "keyword": "nail salon vernon hills il",
     "slug": "nail-salon-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-vernon-hills-il/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -630,7 +630,7 @@
    {
     "keyword": "facial vernon hills il",
     "slug": "facial-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-vernon-hills-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agency vernon hills il",
     "slug": "insurance-agency-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-vernon-hills-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agents vernon hills il",
     "slug": "insurance-agents-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-vernon-hills-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -675,7 +675,7 @@
    {
     "keyword": "flooring companies vernon hills il",
     "slug": "flooring-companies-vernon-hills-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-vernon-hills-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-vernon-hills-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,

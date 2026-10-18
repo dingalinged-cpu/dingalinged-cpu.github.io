@@ -2,7 +2,7 @@
  "title": "Keyword market data: Hanover Park, IL",
  "description": "Top Hanover Park, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hanover Park, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 16,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash hanover park il",
     "slug": "car-wash-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hanover-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist hanover park il",
     "slug": "dentist-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hanover-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym hanover park il",
     "slug": "gym-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hanover-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon hanover park il",
     "slug": "hair-salon-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hanover-park-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic hanover park il",
     "slug": "mechanic-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hanover-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "tire shop hanover park il",
     "slug": "tire-shop-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-hanover-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet hanover park il",
     "slug": "vet-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hanover-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut hanover park il",
     "slug": "haircut-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hanover-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair hanover park il",
     "slug": "auto-repair-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hanover-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agency hanover park il",
     "slug": "insurance-agency-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hanover-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -161,7 +161,7 @@
    {
     "keyword": "tax preparation hanover park il",
     "slug": "tax-preparation-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hanover-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparer hanover park il",
     "slug": "tax-preparer-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hanover-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agents hanover park il",
     "slug": "insurance-agents-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hanover-park-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agent hanover park il",
     "slug": "insurance-agent-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hanover-park-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -221,7 +221,7 @@
    {
     "keyword": "transmission repair hanover park il",
     "slug": "transmission-repair-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/transmission-repair-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/transmission-repair-hanover-park-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -238,7 +238,7 @@
    {
     "keyword": "tax preparer hanover park il",
     "slug": "tax-preparer-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hanover-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -253,7 +253,7 @@
    {
     "keyword": "dentist hanover park il",
     "slug": "dentist-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hanover-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -268,7 +268,7 @@
    {
     "keyword": "haircut hanover park il",
     "slug": "haircut-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hanover-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -283,7 +283,7 @@
    {
     "keyword": "auto repair hanover park il",
     "slug": "auto-repair-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hanover-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -298,7 +298,7 @@
    {
     "keyword": "car wash hanover park il",
     "slug": "car-wash-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hanover-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -313,7 +313,7 @@
    {
     "keyword": "mechanic hanover park il",
     "slug": "mechanic-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hanover-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -328,7 +328,7 @@
    {
     "keyword": "tire shop hanover park il",
     "slug": "tire-shop-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-hanover-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -343,7 +343,7 @@
    {
     "keyword": "transmission repair hanover park il",
     "slug": "transmission-repair-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/transmission-repair-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/transmission-repair-hanover-park-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,
@@ -358,7 +358,7 @@
    {
     "keyword": "vet hanover park il",
     "slug": "vet-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hanover-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -373,7 +373,7 @@
    {
     "keyword": "dry cleaners hanover park il",
     "slug": "dry-cleaners-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-hanover-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -388,7 +388,7 @@
    {
     "keyword": "insurance agency hanover park il",
     "slug": "insurance-agency-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hanover-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -403,7 +403,7 @@
    {
     "keyword": "insurance agent hanover park il",
     "slug": "insurance-agent-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hanover-park-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -418,7 +418,7 @@
    {
     "keyword": "insurance agents hanover park il",
     "slug": "insurance-agents-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hanover-park-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -433,7 +433,7 @@
    {
     "keyword": "tax preparation hanover park il",
     "slug": "tax-preparation-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hanover-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -448,7 +448,7 @@
    {
     "keyword": "gym hanover park il",
     "slug": "gym-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hanover-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist hanover park il",
     "slug": "dentist-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hanover-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash hanover park il",
     "slug": "car-wash-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hanover-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym hanover park il",
     "slug": "gym-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hanover-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic hanover park il",
     "slug": "mechanic-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hanover-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop hanover park il",
     "slug": "tire-shop-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-hanover-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -540,7 +540,7 @@
    {
     "keyword": "vet hanover park il",
     "slug": "vet-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hanover-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut hanover park il",
     "slug": "haircut-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hanover-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair hanover park il",
     "slug": "auto-repair-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hanover-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon hanover park il",
     "slug": "hair-salon-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hanover-park-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -600,7 +600,7 @@
    {
     "keyword": "tax preparer hanover park il",
     "slug": "tax-preparer-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-hanover-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agency hanover park il",
     "slug": "insurance-agency-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-hanover-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -630,7 +630,7 @@
    {
     "keyword": "tax preparation hanover park il",
     "slug": "tax-preparation-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-hanover-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agents hanover park il",
     "slug": "insurance-agents-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-hanover-park-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agent hanover park il",
     "slug": "insurance-agent-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-hanover-park-il/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -675,7 +675,7 @@
    {
     "keyword": "transmission repair hanover park il",
     "slug": "transmission-repair-hanover-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/transmission-repair-hanover-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/transmission-repair-hanover-park-il/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 500,

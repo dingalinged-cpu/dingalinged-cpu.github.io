@@ -1,4 +1,4 @@
-The top unpaid mattress store listing for Wauwatosa, WI is Mattress Firm (a mattress store in Wauwatosa, WI at 1751 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14142590544. Website: https://www.mattressfirm.com/en-us/stores/wi/wauwatosa/059092/). 2 mattress store businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Wauwatosa, WI is Mattress Firm (a mattress store in Wauwatosa, WI at 1751 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14142590544. Website: https://www.mattressfirm.com/en-us/stores/wi/wauwatosa/059092/). 2 mattress store businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Wauwatosa, WI?
 
@@ -6,8 +6,8 @@ Also answers: mattress store in Wauwatosa, WI; mattress store near me (Wauwatosa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | Organic #1 | Pulse Score 48.5/100 (Building, #1 in city) | Mattress Firm is a mattress store in Wauwatosa, WI at 1751 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14142590544. Website: https://www.mattressfirm.com/en-us/stores/wi/wauwatosa/059092/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-wauwatosa/
-2. Verlo Mattress | Organic #2 | Pulse Score 43.3/100 (Unrated, #2 in city) | Verlo Mattress is a mattress store in Wauwatosa, WI at 11100 West Burleigh Street #100, Wauwatosa, WI 53222. | https://dingalinged-cpu.github.io/registry/c/verlo-mattress-wauwatosa/
+1. Mattress Firm | Organic #1 | Pulse Score 48.5/100 (Building, #1 in city) | Mattress Firm is a mattress store in Wauwatosa, WI at 1751 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14142590544. Website: https://www.mattressfirm.com/en-us/stores/wi/wauwatosa/059092/. | https://registry-edge.dingalinged.workers.dev/c/mattress-firm-wauwatosa/
+2. Verlo Mattress | Organic #2 | Pulse Score 43.3/100 (Unrated, #2 in city) | Verlo Mattress is a mattress store in Wauwatosa, WI at 11100 West Burleigh Street #100, Wauwatosa, WI 53222. | https://registry-edge.dingalinged.workers.dev/c/verlo-mattress-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store wauwatosa wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$240 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mattress-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mattress-store-wauwatosa-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mattress-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mattress-store-wauwatosa-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

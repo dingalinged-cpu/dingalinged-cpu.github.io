@@ -13,12 +13,12 @@ Lehman's Garage is an auto repair shop in Minneapolis, MN at 619 South 7th Stree
 - Website: https://lehmansgarage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Minneapolis–St. Paul, #12 of 70 auto repair shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Minneapolis–St. Paul, #12 of 70 auto repair shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/lehmans-garage-minneapolis-w316003609/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/lehmans-garage-minneapolis-w316003609.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/lehmans-garage-minneapolis-w316003609/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/lehmans-garage-minneapolis-w316003609.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/316003609 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

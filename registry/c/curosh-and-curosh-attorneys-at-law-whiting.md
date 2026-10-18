@@ -13,12 +13,12 @@ Curosh & Curosh -Attorneys at Law is a lawyer in Whiting, IN at 1532 119th Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 68% of lawyers in Chicago, #1 of 2 lawyers in Whiting (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 43.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 68% of lawyers in Chicago, #1 of 2 lawyers in Whiting (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 43.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/curosh-and-curosh-attorneys-at-law-whiting/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/curosh-and-curosh-attorneys-at-law-whiting.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/curosh-and-curosh-attorneys-at-law-whiting/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/curosh-and-curosh-attorneys-at-law-whiting.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1232448666 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

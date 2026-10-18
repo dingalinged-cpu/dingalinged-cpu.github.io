@@ -1,4 +1,4 @@
-The top unpaid tire shop listing for Cherokee County, GA is 2 Brothers Tire Shop (a tire shop in Cherokee County, GA at 10350 Main Street #100A, Cherokee County, GA). 2 tire shop businesses are listed for Cherokee County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Cherokee County, GA is 2 Brothers Tire Shop (a tire shop in Cherokee County, GA at 10350 Main Street #100A, Cherokee County, GA). 2 tire shop businesses are listed for Cherokee County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Cherokee County, GA?
 
@@ -6,8 +6,8 @@ Also answers: tire shop in Cherokee County, GA; tire shop near me (Cherokee Coun
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 2 Brothers Tire Shop | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | 2 Brothers Tire Shop is a tire shop in Cherokee County, GA at 10350 Main Street #100A, Cherokee County, GA. | https://dingalinged-cpu.github.io/registry/c/2-brothers-tire-shop-cherokee-county/
-2. Mavis Discount Tire | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Mavis Discount Tire is a tire shop in Cherokee County, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-discount-tire-cherokee-county/
+1. 2 Brothers Tire Shop | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | 2 Brothers Tire Shop is a tire shop in Cherokee County, GA at 10350 Main Street #100A, Cherokee County, GA. | https://registry-edge.dingalinged.workers.dev/c/2-brothers-tire-shop-cherokee-county/
+2. Mavis Discount Tire | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Mavis Discount Tire is a tire shop in Cherokee County, GA. | https://registry-edge.dingalinged.workers.dev/c/mavis-discount-tire-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop cherokee county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tire-shop.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tire-shop-cherokee-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tire-shop.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tire-shop-cherokee-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

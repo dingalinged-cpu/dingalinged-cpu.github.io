@@ -1,4 +1,4 @@
-The top unpaid attorney listing for Belton, MO is Missouri DWI & Criminal Law Center at Benjamin Law Firm, LLC (a lawyer in Belton, MO at 8427 Clint Drive, Belton, MO 64012. Phone: +18162815640. Website: https://www.dwicriminallawcenter.com/). 4 attorney businesses are listed for Belton, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Belton, MO is Missouri DWI & Criminal Law Center at Benjamin Law Firm, LLC (a lawyer in Belton, MO at 8427 Clint Drive, Belton, MO 64012. Phone: +18162815640. Website: https://www.dwicriminallawcenter.com/). 4 attorney businesses are listed for Belton, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Belton, MO?
 
@@ -6,10 +6,10 @@ Also answers: attorney in Belton, MO; attorney near me (Belton, MO); best attorn
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Missouri DWI & Criminal Law Center at Benjamin Law Firm, LLC | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Missouri DWI & Criminal Law Center at Benjamin Law Firm, LLC is a lawyer in Belton, MO at 8427 Clint Drive, Belton, MO 64012. Phone: +18162815640. Website: https://www.dwicriminallawcenter.com/. | https://dingalinged-cpu.github.io/registry/c/missouri-dwi-and-criminal-law-center-at-benjamin-law-firm-llc-belton/
-2. Abella Law Office | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Abella Law Office is a lawyer in Belton, MO at 416 Main Street, Belton, MO. Website: https://www.abellalaw.com/. | https://dingalinged-cpu.github.io/registry/c/abella-law-office-belton/
-3. Blaine H. Elliot Attorney at Law | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Blaine H. Elliot Attorney at Law is a lawyer in Belton, MO at 305 Main Street, Belton, MO. | https://dingalinged-cpu.github.io/registry/c/blaine-h-elliot-attorney-at-law-belton/
-4. Benjamin Law Firm | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Benjamin Law Firm is a lawyer in Belton, MO. | https://dingalinged-cpu.github.io/registry/c/benjamin-law-firm-belton/
+1. Missouri DWI & Criminal Law Center at Benjamin Law Firm, LLC | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Missouri DWI & Criminal Law Center at Benjamin Law Firm, LLC is a lawyer in Belton, MO at 8427 Clint Drive, Belton, MO 64012. Phone: +18162815640. Website: https://www.dwicriminallawcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/missouri-dwi-and-criminal-law-center-at-benjamin-law-firm-llc-belton/
+2. Abella Law Office | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Abella Law Office is a lawyer in Belton, MO at 416 Main Street, Belton, MO. Website: https://www.abellalaw.com/. | https://registry-edge.dingalinged.workers.dev/c/abella-law-office-belton/
+3. Blaine H. Elliot Attorney at Law | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Blaine H. Elliot Attorney at Law is a lawyer in Belton, MO at 305 Main Street, Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/blaine-h-elliot-attorney-at-law-belton/
+4. Benjamin Law Firm | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Benjamin Law Firm is a lawyer in Belton, MO. | https://registry-edge.dingalinged.workers.dev/c/benjamin-law-firm-belton/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney belton mo | category: professional_legal | industry benchmark: Attorneys & Legal Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$290 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/attorney.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#attorney-belton-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/attorney.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#attorney-belton-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Runyon's Fine Furniture is a furniture store in Roanoke, TX at 500 U.S. 377, Roa
 - Website: https://runyonsfinefurniture.com/
 - Email: sales@runyonsfinefurniture.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00, Su 12:00-16:00
-- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of furniture stores in Dallas–Fort Worth, #1 of 2 furniture stores in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of furniture stores in Dallas–Fort Worth, #1 of 2 furniture stores in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 62.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/runyons-fine-furniture-roanoke/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/runyons-fine-furniture-roanoke.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/runyons-fine-furniture-roanoke/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/runyons-fine-furniture-roanoke.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12782079659 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid car wash listing for Independence, MO is McBee's Coffee & Carwash (a car wash in Independence, MO at 4121 South Little Blue Parkway, Independence, MO 64057. Phone: +18163128925. Website: https://mcbeescnc.com/independence-little-blue-pkwy). 5 car wash businesses are listed for Independence, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Independence, MO is McBee's Coffee & Carwash (a car wash in Independence, MO at 4121 South Little Blue Parkway, Independence, MO 64057. Phone: +18163128925. Website: https://mcbeescnc.com/independence-little-blue-pkwy). 5 car wash businesses are listed for Independence, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Independence, MO?
 
@@ -6,11 +6,11 @@ Also answers: car wash in Independence, MO; car wash near me (Independence, MO);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McBee's Coffee & Carwash | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | McBee's Coffee & Carwash is a car wash in Independence, MO at 4121 South Little Blue Parkway, Independence, MO 64057. Phone: +18163128925. Website: https://mcbeescnc.com/independence-little-blue-pkwy. | https://dingalinged-cpu.github.io/registry/c/mcbees-coffee-and-carwash-independence/
-2. Glass House | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Glass House is a car wash in Independence, MO at 3700 South Noland Road, Independence, MO 64055. | https://dingalinged-cpu.github.io/registry/c/glass-house-independence/
-3. Mirror Image Car Wash | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Mirror Image Car Wash is a car wash in Independence, MO. | https://dingalinged-cpu.github.io/registry/c/mirror-image-car-wash-independence/
-4. Phillips 66 | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Phillips 66 is a car wash in Independence, MO. | https://dingalinged-cpu.github.io/registry/c/phillips-66-independence/
-5. Charlie's Car Wash | Organic #5 | Pulse Score 48.2/100 (Unrated, #5 in city) | Charlie's Car Wash is a car wash in Independence, MO at 18600 East US Highway 40, Independence, MO 64055. | https://dingalinged-cpu.github.io/registry/c/charlies-car-wash-independence/
+1. McBee's Coffee & Carwash | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | McBee's Coffee & Carwash is a car wash in Independence, MO at 4121 South Little Blue Parkway, Independence, MO 64057. Phone: +18163128925. Website: https://mcbeescnc.com/independence-little-blue-pkwy. | https://registry-edge.dingalinged.workers.dev/c/mcbees-coffee-and-carwash-independence/
+2. Glass House | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Glass House is a car wash in Independence, MO at 3700 South Noland Road, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/glass-house-independence/
+3. Mirror Image Car Wash | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Mirror Image Car Wash is a car wash in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/mirror-image-car-wash-independence/
+4. Phillips 66 | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Phillips 66 is a car wash in Independence, MO. | https://registry-edge.dingalinged.workers.dev/c/phillips-66-independence/
+5. Charlie's Car Wash | Organic #5 | Pulse Score 48.2/100 (Unrated, #5 in city) | Charlie's Car Wash is a car wash in Independence, MO at 18600 East US Highway 40, Independence, MO 64055. | https://registry-edge.dingalinged.workers.dev/c/charlies-car-wash-independence/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash independence mo | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,900 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/car-wash.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-independence-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/car-wash.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#car-wash-independence-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

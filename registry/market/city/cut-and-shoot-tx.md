@@ -2,18 +2,18 @@ Keyword market for Cut And Shoot, TX: 2 service keywords with search volume, CPC
 
 # Top keywords in Cut And Shoot, TX
 
-Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json
 
 ## By monthly searches
-1. mechanic cut and shoot tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-cut-and-shoot-tx/
-2. auto repair cut and shoot tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-cut-and-shoot-tx/
+1. mechanic cut and shoot tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-cut-and-shoot-tx/
+2. auto repair cut and shoot tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-cut-and-shoot-tx/
 
 ## By CPC
-1. auto repair cut and shoot tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-cut-and-shoot-tx/
-2. mechanic cut and shoot tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-cut-and-shoot-tx/
+1. auto repair cut and shoot tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-cut-and-shoot-tx/
+2. mechanic cut and shoot tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-cut-and-shoot-tx/
 
 ## By value (searches x CPC)
-1. mechanic cut and shoot tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/mechanic-cut-and-shoot-tx/
-2. auto repair cut and shoot tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/auto-repair-cut-and-shoot-tx/
+1. mechanic cut and shoot tx | searches/mo 16,000 (est) | CPC $4.35 | value $70,000 | Google Ads equiv $3,900/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/mechanic-cut-and-shoot-tx/
+2. auto repair cut and shoot tx | searches/mo 7,000 (est) | CPC $4.35 | value $30,000 | Google Ads equiv $1,700/mo | our featured min $20/mo | registry competitors 1 | https://registry-edge.dingalinged.workers.dev/k/auto-repair-cut-and-shoot-tx/
 
-All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html
+All market data: https://registry-edge.dingalinged.workers.dev/market/ | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html

@@ -13,12 +13,12 @@ Relevant Data Technologies is an IT support company in Chamblee, GA at 3700 Long
 - Website: https://relevantdatatech.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 43% of IT support companys in Atlanta, #1 of 1 IT support companys in Chamblee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 52.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 43% of IT support companys in Atlanta, #1 of 1 IT support companys in Chamblee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 52.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/relevant-data-technologies-chamblee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/relevant-data-technologies-chamblee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/relevant-data-technologies-chamblee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/relevant-data-technologies-chamblee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/5881205451 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

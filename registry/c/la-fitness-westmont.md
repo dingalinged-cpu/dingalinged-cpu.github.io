@@ -13,12 +13,12 @@ LA Fitness is a gym in Westmont, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.3/100 — Building — top 98% of gyms in Chicago, #5 of 5 gyms in Westmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 39.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.3/100 — Building — top 98% of gyms in Chicago, #5 of 5 gyms in Westmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 39.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/la-fitness-westmont/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-fitness-westmont.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/la-fitness-westmont/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/la-fitness-westmont.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/917151682 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

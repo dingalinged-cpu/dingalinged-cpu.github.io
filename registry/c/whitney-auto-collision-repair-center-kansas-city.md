@@ -13,12 +13,12 @@ Whitney Auto Collision Repair Center is an auto repair shop in Kansas City, MO a
 - Website: https://www.whitneycollision.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Kansas City, MO, #19 of 100 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Kansas City, MO, #19 of 100 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 57.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/whitney-auto-collision-repair-center-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/whitney-auto-collision-repair-center-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/whitney-auto-collision-repair-center-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/whitney-auto-collision-repair-center-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/531530484 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

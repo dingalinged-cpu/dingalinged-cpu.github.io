@@ -1,4 +1,4 @@
-The top unpaid insurance agent listing for Lyons, IL is Getty Insurance Agency (an insurance agent in Lyons, IL). 2 insurance agent businesses are listed for Lyons, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Lyons, IL is Getty Insurance Agency (an insurance agent in Lyons, IL). 2 insurance agent businesses are listed for Lyons, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Lyons, IL?
 
@@ -6,8 +6,8 @@ Also answers: insurance agent in Lyons, IL; insurance agent near me (Lyons, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Getty Insurance Agency | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Getty Insurance Agency is an insurance agent in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/getty-insurance-agency-lyons/
-2. Farmers Insurance | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | Farmers Insurance is an insurance agent in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-lyons/
+1. Getty Insurance Agency | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Getty Insurance Agency is an insurance agent in Lyons, IL. | https://registry-edge.dingalinged.workers.dev/c/getty-insurance-agency-lyons/
+2. Farmers Insurance | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | Farmers Insurance is an insurance agent in Lyons, IL. | https://registry-edge.dingalinged.workers.dev/c/farmers-insurance-lyons/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent lyons il | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$310 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/insurance-agent.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#insurance-agent-lyons-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/insurance-agent.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#insurance-agent-lyons-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

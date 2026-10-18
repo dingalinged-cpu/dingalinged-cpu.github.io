@@ -13,12 +13,12 @@ Ottery Brothers Truck Wash is a car wash in Columbus, WI at 2280 West James Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-22:00; Sa 06:00-14:00; Su "Appointment Only"
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 7% of car washes in Madison, #1 of 1 car washes in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 7% of car washes in Madison, #1 of 1 car washes in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 53.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ottery-brothers-truck-wash-columbus/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ottery-brothers-truck-wash-columbus.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ottery-brothers-truck-wash-columbus/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ottery-brothers-truck-wash-columbus.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/4330067507 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid haircut listing for Park Ridge, IL is Anthony Valentino Salon for Hair (a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/). 6 haircut businesses are listed for Park Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Park Ridge, IL is Anthony Valentino Salon for Hair (a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/). 6 haircut businesses are listed for Park Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Park Ridge, IL?
 
@@ -6,12 +6,12 @@ Also answers: haircut in Park Ridge, IL; haircut near me (Park Ridge, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anthony Valentino Salon for Hair | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Anthony Valentino Salon for Hair is a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/. | https://dingalinged-cpu.github.io/registry/c/anthony-valentino-salon-for-hair-park-ridge/
-2. Ash and Willow | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Ash and Willow is a hair salon in Park Ridge, IL at 610 Devon Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/ash-and-willow-park-ridge/
-3. Touch Of Class | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Touch Of Class is a hair salon in Park Ridge, IL at 733 Devon Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/touch-of-class-park-ridge/
-4. Floyd's 99 Barbershop | Organic #4 | Pulse Score 47/100 (Building, #4 in city) | Floyd's 99 Barbershop is a hair salon in Park Ridge, IL at 742 Higgins Road, Park Ridge, IL 60068. Website: https://www.floydsbarbershop.com/park-ridge/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-park-ridge/
-5. Hair Cuttery | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Hair Cuttery is a hair salon in Park Ridge, IL at 108 Euclid Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-park-ridge/
-6. Sport Clips | Organic #6 | Pulse Score 45.1/100 (Building, #6 in city) | Sport Clips is a hair salon in Park Ridge, IL at 35 South Northwest Highway, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/sport-clips-park-ridge/
+1. Anthony Valentino Salon for Hair | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Anthony Valentino Salon for Hair is a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/. | https://registry-edge.dingalinged.workers.dev/c/anthony-valentino-salon-for-hair-park-ridge/
+2. Ash and Willow | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Ash and Willow is a hair salon in Park Ridge, IL at 610 Devon Avenue, Park Ridge, IL 60068. | https://registry-edge.dingalinged.workers.dev/c/ash-and-willow-park-ridge/
+3. Touch Of Class | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Touch Of Class is a hair salon in Park Ridge, IL at 733 Devon Avenue, Park Ridge, IL 60068. | https://registry-edge.dingalinged.workers.dev/c/touch-of-class-park-ridge/
+4. Floyd's 99 Barbershop | Organic #4 | Pulse Score 47/100 (Building, #4 in city) | Floyd's 99 Barbershop is a hair salon in Park Ridge, IL at 742 Higgins Road, Park Ridge, IL 60068. Website: https://www.floydsbarbershop.com/park-ridge/. | https://registry-edge.dingalinged.workers.dev/c/floyds-99-barbershop-park-ridge/
+5. Hair Cuttery | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Hair Cuttery is a hair salon in Park Ridge, IL at 108 Euclid Avenue, Park Ridge, IL 60068. | https://registry-edge.dingalinged.workers.dev/c/hair-cuttery-park-ridge/
+6. Sport Clips | Organic #6 | Pulse Score 45.1/100 (Building, #6 in city) | Sport Clips is a hair salon in Park Ridge, IL at 35 South Northwest Highway, Park Ridge, IL 60068. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-park-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut park ridge il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$2,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-park-ridge-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-park-ridge-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

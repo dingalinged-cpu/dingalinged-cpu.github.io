@@ -13,12 +13,12 @@ Minnesota Hair is a hair salon in Maplewood, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr 09:00-17:00; Sa 07:00-14:30
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 41% of hair salons in Minneapolis–St. Paul, #1 of 2 hair salons in Maplewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 41% of hair salons in Minneapolis–St. Paul, #1 of 2 hair salons in Maplewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 49.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/minnesota-hair-maplewood/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/minnesota-hair-maplewood.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/minnesota-hair-maplewood/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/minnesota-hair-maplewood.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12046781945 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Salon Red is a hair salon in Atlanta, GA at 1642, Atlanta, GA. Website: https://
 - Website: https://salonred.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 41% of hair salons in Atlanta, #43 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 41% of hair salons in Atlanta, #43 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-red-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-red-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/salon-red-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/salon-red-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/568038139 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

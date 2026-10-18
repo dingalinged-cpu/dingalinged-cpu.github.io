@@ -1,4 +1,4 @@
-The top unpaid tax preparation listing for Atlanta, GA is Fast Tax Service (a tax preparation service in Atlanta, GA at 2000 Manchester Street Northeast, Atlanta, GA). 7 tax preparation businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Atlanta, GA is Fast Tax Service (a tax preparation service in Atlanta, GA at 2000 Manchester Street Northeast, Atlanta, GA). 7 tax preparation businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Atlanta, GA?
 
@@ -6,13 +6,13 @@ Also answers: tax preparation in Atlanta, GA; tax preparation near me (Atlanta, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fast Tax Service | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Fast Tax Service is a tax preparation service in Atlanta, GA at 2000 Manchester Street Northeast, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/fast-tax-service-atlanta-n13547393571/
-2. Williams Accounting & Consulting, LLC | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Williams Accounting & Consulting, LLC is a tax preparation service in Atlanta, GA at 1000 Circle 75 Parkway Southeast #060, Atlanta, GA 30339. Website: https://williamsacct.com/. | https://dingalinged-cpu.github.io/registry/c/williams-accounting-and-consulting-llc-atlanta/
-3. Fast Tax Service | Organic #3 | Pulse Score 59.3/100 (Unrated, #3 in city) | Fast Tax Service is a tax preparation service in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/fast-tax-service-atlanta/
-4. JSR Tax Services | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | JSR Tax Services is a tax preparation service in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/jsr-tax-services-atlanta/
-5. Tax Plus | Organic #5 | Pulse Score 55.6/100 (Unrated, #5 in city) | Tax Plus is a tax preparation service in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/tax-plus-atlanta/
-6. H&R Block | Organic #6 | Pulse Score 53.1/100 (Fair, #6 in city) | H&R Block is a tax preparation service in Atlanta, GA at 1579 Monroe Drive Northeast #B, Atlanta, GA. Phone: +14048729852. Website: https://www.hrblock.com/tax-office-near-me/georgia/atlanta/10982/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-atlanta-n13475331379/
-7. H&R Block | Organic #7 | Pulse Score 50.3/100 (Fair, #7 in city) | H&R Block is a tax preparation service in Atlanta, GA. Phone: +14048754317. Website: https://www.hrblock.com/local-tax-offices/georgia/atlanta/615-peachtree-st-ne-ste-1/10974/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-atlanta/
+1. Fast Tax Service | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Fast Tax Service is a tax preparation service in Atlanta, GA at 2000 Manchester Street Northeast, Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/fast-tax-service-atlanta-n13547393571/
+2. Williams Accounting & Consulting, LLC | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Williams Accounting & Consulting, LLC is a tax preparation service in Atlanta, GA at 1000 Circle 75 Parkway Southeast #060, Atlanta, GA 30339. Website: https://williamsacct.com/. | https://registry-edge.dingalinged.workers.dev/c/williams-accounting-and-consulting-llc-atlanta/
+3. Fast Tax Service | Organic #3 | Pulse Score 59.3/100 (Unrated, #3 in city) | Fast Tax Service is a tax preparation service in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/fast-tax-service-atlanta/
+4. JSR Tax Services | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | JSR Tax Services is a tax preparation service in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/jsr-tax-services-atlanta/
+5. Tax Plus | Organic #5 | Pulse Score 55.6/100 (Unrated, #5 in city) | Tax Plus is a tax preparation service in Atlanta, GA. | https://registry-edge.dingalinged.workers.dev/c/tax-plus-atlanta/
+6. H&R Block | Organic #6 | Pulse Score 53.1/100 (Fair, #6 in city) | H&R Block is a tax preparation service in Atlanta, GA at 1579 Monroe Drive Northeast #B, Atlanta, GA. Phone: +14048729852. Website: https://www.hrblock.com/tax-office-near-me/georgia/atlanta/10982/. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-atlanta-n13475331379/
+7. H&R Block | Organic #7 | Pulse Score 50.3/100 (Fair, #7 in city) | H&R Block is a tax preparation service in Atlanta, GA. Phone: +14048754317. Website: https://www.hrblock.com/local-tax-offices/georgia/atlanta/615-peachtree-st-ne-ste-1/10974/. | https://registry-edge.dingalinged.workers.dev/c/h-and-r-block-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation atlanta ga | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$380 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tax-preparation.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tax-preparation-atlanta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tax-preparation.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tax-preparation-atlanta-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

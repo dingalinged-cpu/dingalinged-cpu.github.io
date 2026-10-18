@@ -13,12 +13,12 @@ Maaco Auto Painting & Body Works is an auto repair shop in Clive, IA at 1998 Nor
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Building — top 80% of auto repair shops in Des Moines, IA, #9 of 16 auto repair shops in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 48.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 80% of auto repair shops in Des Moines, IA, #9 of 16 auto repair shops in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/maaco-auto-painting-and-body-works-clive/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/maaco-auto-painting-and-body-works-clive.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/maaco-auto-painting-and-body-works-clive/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/maaco-auto-painting-and-body-works-clive.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/110156729 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

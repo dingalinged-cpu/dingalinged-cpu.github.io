@@ -13,12 +13,12 @@ KCN Nails is a nail salon in Minneapolis, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 10:00-18:00
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 42% of nail salons in Minneapolis–St. Paul, #11 of 24 nail salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 42% of nail salons in Minneapolis–St. Paul, #11 of 24 nail salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/kcn-nails-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kcn-nails-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kcn-nails-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kcn-nails-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6330148228 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

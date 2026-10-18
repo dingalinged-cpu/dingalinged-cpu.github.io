@@ -13,12 +13,12 @@ BK Jewelry is a jewelry store in Naperville, IL at 105 West Jefferson Avenue, Na
 - Website: https://www.bkjewelry.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Fr 10:00-17:00; Sa 10:00-16:00; Su 12:00-15:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of jewelry stores in Chicago, #3 of 8 jewelry stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of jewelry stores in Chicago, #3 of 8 jewelry stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/bk-jewelry-naperville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bk-jewelry-naperville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bk-jewelry-naperville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bk-jewelry-naperville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8937194107 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

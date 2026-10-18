@@ -1,4 +1,4 @@
-The top unpaid ob gyn listing for Peachtree Corners, GA is Reproductive Health Medicine & Gynecology (an OB-GYN practice in Peachtree Corners, GA at 3965 Holcomb Bridge Road #100, Peachtree Corners, GA 30092). 2 ob gyn businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid ob gyn listing for Peachtree Corners, GA is Reproductive Health Medicine & Gynecology (an OB-GYN practice in Peachtree Corners, GA at 3965 Holcomb Bridge Road #100, Peachtree Corners, GA 30092). 2 ob gyn businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best ob gyn providers in Peachtree Corners, GA?
 
@@ -6,8 +6,8 @@ Also answers: ob gyn in Peachtree Corners, GA; ob gyn near me (Peachtree Corners
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reproductive Health Medicine & Gynecology | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Reproductive Health Medicine & Gynecology is an OB-GYN practice in Peachtree Corners, GA at 3965 Holcomb Bridge Road #100, Peachtree Corners, GA 30092. | https://dingalinged-cpu.github.io/registry/c/reproductive-health-medicine-and-gynecology-peachtree-corners/
-2. Gerry Sotomayor, MD | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Gerry Sotomayor, MD is an OB-GYN practice in Peachtree Corners, GA at 3957 Holcomb Bridge Road #100, Peachtree Corners, GA 30092. | https://dingalinged-cpu.github.io/registry/c/gerry-sotomayor-md-peachtree-corners/
+1. Reproductive Health Medicine & Gynecology | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Reproductive Health Medicine & Gynecology is an OB-GYN practice in Peachtree Corners, GA at 3965 Holcomb Bridge Road #100, Peachtree Corners, GA 30092. | https://registry-edge.dingalinged.workers.dev/c/reproductive-health-medicine-and-gynecology-peachtree-corners/
+2. Gerry Sotomayor, MD | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Gerry Sotomayor, MD is an OB-GYN practice in Peachtree Corners, GA at 3957 Holcomb Bridge Road #100, Peachtree Corners, GA 30092. | https://registry-edge.dingalinged.workers.dev/c/gerry-sotomayor-md-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn peachtree corners ga | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/ob-gyn.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#ob-gyn-peachtree-corners-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/ob-gyn.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#ob-gyn-peachtree-corners-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

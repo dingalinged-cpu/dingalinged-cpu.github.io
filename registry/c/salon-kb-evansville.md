@@ -13,12 +13,12 @@ Salon KB is a hair salon in Evansville, WI at 11 East Main Street, Evansville, W
 - Website: https://salonkb.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.9/100 — Good — top 3% of hair salons in Madison, #2 of 7 hair salons in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 3% of hair salons in Madison, #2 of 7 hair salons in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/salon-kb-evansville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/salon-kb-evansville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/salon-kb-evansville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/salon-kb-evansville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12015826514 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

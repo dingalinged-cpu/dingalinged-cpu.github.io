@@ -1,4 +1,4 @@
-The top unpaid music lessons listing for Rockwall, TX is Rockwall School of Music (a music school in Rockwall, TX at 1920 Mims Road, Rockwall, TX 75032. Phone: +19727226874. Website: https://www.rockwallmusic.com/). 2 music lessons businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Rockwall, TX is Rockwall School of Music (a music school in Rockwall, TX at 1920 Mims Road, Rockwall, TX 75032. Phone: +19727226874. Website: https://www.rockwallmusic.com/). 2 music lessons businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Rockwall, TX?
 
@@ -6,8 +6,8 @@ Also answers: music lessons in Rockwall, TX; music lessons near me (Rockwall, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rockwall School of Music | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Rockwall School of Music is a music school in Rockwall, TX at 1920 Mims Road, Rockwall, TX 75032. Phone: +19727226874. Website: https://www.rockwallmusic.com/. | https://dingalinged-cpu.github.io/registry/c/rockwall-school-of-music-rockwall/
-2. School of Rock | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | School of Rock is a music school in Rockwall, TX at 2014 South Goliad Street #122, Rockwall, TX 75087. Phone: +14693141300. Website: https://www.schoolofrock.com/locations/rockwall. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-rockwall/
+1. Rockwall School of Music | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Rockwall School of Music is a music school in Rockwall, TX at 1920 Mims Road, Rockwall, TX 75032. Phone: +19727226874. Website: https://www.rockwallmusic.com/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-school-of-music-rockwall/
+2. School of Rock | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | School of Rock is a music school in Rockwall, TX at 2014 South Goliad Street #122, Rockwall, TX 75087. Phone: +14693141300. Website: https://www.schoolofrock.com/locations/rockwall. | https://registry-edge.dingalinged.workers.dev/c/school-of-rock-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons rockwall tx | category: Education & childcare | industry benchmark: Education & Instruction
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$270 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/music-lessons.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#music-lessons-rockwall-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/music-lessons.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#music-lessons-rockwall-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

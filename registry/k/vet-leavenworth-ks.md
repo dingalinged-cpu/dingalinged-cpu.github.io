@@ -1,4 +1,4 @@
-The top unpaid vet listing for Leavenworth, KS is Broadway Veterinary Clinic (a veterinarian in Leavenworth, KS). 4 vet businesses are listed for Leavenworth, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Leavenworth, KS is Broadway Veterinary Clinic (a veterinarian in Leavenworth, KS). 4 vet businesses are listed for Leavenworth, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Leavenworth, KS?
 
@@ -6,10 +6,10 @@ Also answers: vet in Leavenworth, KS; vet near me (Leavenworth, KS); best vet Le
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Broadway Veterinary Clinic | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Broadway Veterinary Clinic is a veterinarian in Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/broadway-veterinary-clinic-leavenworth/
-2. Dog & Cat Clinic | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Dog & Cat Clinic is a veterinarian in Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/dog-and-cat-clinic-leavenworth/
-3. Pioneer Animal Hospital | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Pioneer Animal Hospital is a veterinarian in Leavenworth, KS. | https://dingalinged-cpu.github.io/registry/c/pioneer-animal-hospital-leavenworth/
-4. Fort Leavenworth Veterinary Treatment Facility | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Fort Leavenworth Veterinary Treatment Facility is a veterinarian in Leavenworth, KS at 831 McClellan Avenue, Leavenworth, KS 66027. | https://dingalinged-cpu.github.io/registry/c/fort-leavenworth-veterinary-treatment-facility-leavenworth/
+1. Broadway Veterinary Clinic | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Broadway Veterinary Clinic is a veterinarian in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/broadway-veterinary-clinic-leavenworth/
+2. Dog & Cat Clinic | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Dog & Cat Clinic is a veterinarian in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/dog-and-cat-clinic-leavenworth/
+3. Pioneer Animal Hospital | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Pioneer Animal Hospital is a veterinarian in Leavenworth, KS. | https://registry-edge.dingalinged.workers.dev/c/pioneer-animal-hospital-leavenworth/
+4. Fort Leavenworth Veterinary Treatment Facility | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Fort Leavenworth Veterinary Treatment Facility is a veterinarian in Leavenworth, KS at 831 McClellan Avenue, Leavenworth, KS 66027. | https://registry-edge.dingalinged.workers.dev/c/fort-leavenworth-veterinary-treatment-facility-leavenworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet leavenworth ks | category: Pets | industry benchmark: Animals & Pets
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$990 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-leavenworth-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/vet.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#vet-leavenworth-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

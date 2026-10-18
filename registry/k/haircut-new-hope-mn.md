@@ -1,4 +1,4 @@
-The top unpaid haircut listing for New Hope, MN is Milagro's Beauty Salon (a hair salon in New Hope, MN at 4341 Winnetka Avenue, New Hope, MN 55428). 5 haircut businesses are listed for New Hope, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for New Hope, MN is Milagro's Beauty Salon (a hair salon in New Hope, MN at 4341 Winnetka Avenue, New Hope, MN 55428). 5 haircut businesses are listed for New Hope, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in New Hope, MN?
 
@@ -6,11 +6,11 @@ Also answers: haircut in New Hope, MN; haircut near me (New Hope, MN); best hair
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Milagro's Beauty Salon | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Milagro's Beauty Salon is a hair salon in New Hope, MN at 4341 Winnetka Avenue, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/milagros-beauty-salon-new-hope/
-2. Nappy Rootz Hair Studio | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Nappy Rootz Hair Studio is a hair salon in New Hope, MN at 7179 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/nappy-rootz-hair-studio-new-hope/
-3. Mr. Barber | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Mr. Barber is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/mr-barber-new-hope/
-4. Olga's Hair | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Olga's Hair is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/olgas-hair-new-hope/
-5. Peppertree Salon | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Peppertree Salon is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/peppertree-salon-new-hope/
+1. Milagro's Beauty Salon | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Milagro's Beauty Salon is a hair salon in New Hope, MN at 4341 Winnetka Avenue, New Hope, MN 55428. | https://registry-edge.dingalinged.workers.dev/c/milagros-beauty-salon-new-hope/
+2. Nappy Rootz Hair Studio | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Nappy Rootz Hair Studio is a hair salon in New Hope, MN at 7179 42nd Avenue North, New Hope, MN 55428. | https://registry-edge.dingalinged.workers.dev/c/nappy-rootz-hair-studio-new-hope/
+3. Mr. Barber | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Mr. Barber is a hair salon in New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/mr-barber-new-hope/
+4. Olga's Hair | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Olga's Hair is a hair salon in New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/olgas-hair-new-hope/
+5. Peppertree Salon | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Peppertree Salon is a hair salon in New Hope, MN. | https://registry-edge.dingalinged.workers.dev/c/peppertree-salon-new-hope/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut new hope mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/haircut.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#haircut-new-hope-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/haircut.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#haircut-new-hope-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

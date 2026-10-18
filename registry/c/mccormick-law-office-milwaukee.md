@@ -13,12 +13,12 @@ McCormick Law Office is a lawyer in Milwaukee, WI. Phone: +14142723636. Website:
 - Website: https://www.danmccormicklaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.1/100 — Fair — top 34% of lawyers in Milwaukee, #21 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 48.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Fair — top 34% of lawyers in Milwaukee, #21 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 48.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/mccormick-law-office-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mccormick-law-office-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/mccormick-law-office-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/mccormick-law-office-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6634610100 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

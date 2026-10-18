@@ -2,7 +2,7 @@
  "title": "Keyword market data: West Milwaukee, WI",
  "description": "Top West Milwaukee, WI service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "West Milwaukee, WI",
  "geography": "Milwaukee-Waukesha, WI metro",
  "keywords": 22,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist west milwaukee wi",
     "slug": "dentist-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-west-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -26,7 +26,7 @@
    {
     "keyword": "nail salon west milwaukee wi",
     "slug": "nail-salon-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-west-milwaukee-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -41,7 +41,7 @@
    {
     "keyword": "barber shop west milwaukee wi",
     "slug": "barber-shop-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-west-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -56,7 +56,7 @@
    {
     "keyword": "mechanic west milwaukee wi",
     "slug": "mechanic-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-west-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -71,7 +71,7 @@
    {
     "keyword": "haircut west milwaukee wi",
     "slug": "haircut-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-west-milwaukee-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -86,7 +86,7 @@
    {
     "keyword": "auto repair west milwaukee wi",
     "slug": "auto-repair-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-west-milwaukee-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -101,7 +101,7 @@
    {
     "keyword": "real estate agent west milwaukee wi",
     "slug": "real-estate-agent-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-west-milwaukee-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agency west milwaukee wi",
     "slug": "insurance-agency-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-west-milwaukee-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -131,7 +131,7 @@
    {
     "keyword": "realtor west milwaukee wi",
     "slug": "realtor-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-west-milwaukee-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -146,7 +146,7 @@
    {
     "keyword": "attorney west milwaukee wi",
     "slug": "attorney-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-west-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -161,7 +161,7 @@
    {
     "keyword": "tax preparation west milwaukee wi",
     "slug": "tax-preparation-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-west-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparer west milwaukee wi",
     "slug": "tax-preparer-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-milwaukee-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agents west milwaukee wi",
     "slug": "insurance-agents-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-west-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -206,7 +206,7 @@
    {
     "keyword": "lawyer west milwaukee wi",
     "slug": "lawyer-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-west-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -221,7 +221,7 @@
    {
     "keyword": "insurance agent west milwaukee wi",
     "slug": "insurance-agent-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-west-milwaukee-wi/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney west milwaukee wi",
     "slug": "attorney-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-west-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer west milwaukee wi",
     "slug": "lawyer-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-west-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -268,7 +268,7 @@
    {
     "keyword": "staffing agency west milwaukee wi",
     "slug": "staffing-agency-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-west-milwaukee-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -283,7 +283,7 @@
    {
     "keyword": "tax preparer west milwaukee wi",
     "slug": "tax-preparer-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-milwaukee-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -298,7 +298,7 @@
    {
     "keyword": "daycare west milwaukee wi",
     "slug": "daycare-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-west-milwaukee-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -313,7 +313,7 @@
    {
     "keyword": "physical therapy west milwaukee wi",
     "slug": "physical-therapy-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-west-milwaukee-wi/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1000,
@@ -328,7 +328,7 @@
    {
     "keyword": "dentist west milwaukee wi",
     "slug": "dentist-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-west-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -343,7 +343,7 @@
    {
     "keyword": "haircut west milwaukee wi",
     "slug": "haircut-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-west-milwaukee-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -358,7 +358,7 @@
    {
     "keyword": "auto repair west milwaukee wi",
     "slug": "auto-repair-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-west-milwaukee-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -373,7 +373,7 @@
    {
     "keyword": "mechanic west milwaukee wi",
     "slug": "mechanic-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-west-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -388,7 +388,7 @@
    {
     "keyword": "liquor store west milwaukee wi",
     "slug": "liquor-store-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-west-milwaukee-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -403,7 +403,7 @@
    {
     "keyword": "mattress store west milwaukee wi",
     "slug": "mattress-store-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mattress-store-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mattress-store-west-milwaukee-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -418,7 +418,7 @@
    {
     "keyword": "thrift store west milwaukee wi",
     "slug": "thrift-store-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-west-milwaukee-wi/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -433,7 +433,7 @@
    {
     "keyword": "realtor west milwaukee wi",
     "slug": "realtor-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-west-milwaukee-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -448,7 +448,7 @@
    {
     "keyword": "real estate agent west milwaukee wi",
     "slug": "real-estate-agent-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-west-milwaukee-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist west milwaukee wi",
     "slug": "dentist-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-west-milwaukee-wi/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8400,
@@ -480,7 +480,7 @@
    {
     "keyword": "mechanic west milwaukee wi",
     "slug": "mechanic-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-west-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -495,7 +495,7 @@
    {
     "keyword": "haircut west milwaukee wi",
     "slug": "haircut-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-west-milwaukee-wi/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -510,7 +510,7 @@
    {
     "keyword": "auto repair west milwaukee wi",
     "slug": "auto-repair-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-west-milwaukee-wi/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -525,7 +525,7 @@
    {
     "keyword": "attorney west milwaukee wi",
     "slug": "attorney-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-west-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -540,7 +540,7 @@
    {
     "keyword": "real estate agent west milwaukee wi",
     "slug": "real-estate-agent-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-west-milwaukee-wi/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 930,
@@ -555,7 +555,7 @@
    {
     "keyword": "nail salon west milwaukee wi",
     "slug": "nail-salon-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-west-milwaukee-wi/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4600,
@@ -570,7 +570,7 @@
    {
     "keyword": "lawyer west milwaukee wi",
     "slug": "lawyer-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-west-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -585,7 +585,7 @@
    {
     "keyword": "barber shop west milwaukee wi",
     "slug": "barber-shop-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-west-milwaukee-wi/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3100,
@@ -600,7 +600,7 @@
    {
     "keyword": "realtor west milwaukee wi",
     "slug": "realtor-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-west-milwaukee-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -615,7 +615,7 @@
    {
     "keyword": "tax preparer west milwaukee wi",
     "slug": "tax-preparer-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-west-milwaukee-wi/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 280,
@@ -630,7 +630,7 @@
    {
     "keyword": "insurance agency west milwaukee wi",
     "slug": "insurance-agency-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-west-milwaukee-wi/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 420,
@@ -645,7 +645,7 @@
    {
     "keyword": "tax preparation west milwaukee wi",
     "slug": "tax-preparation-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-west-milwaukee-wi/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 340,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agents west milwaukee wi",
     "slug": "insurance-agents-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-west-milwaukee-wi/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agent west milwaukee wi",
     "slug": "insurance-agent-west-milwaukee-wi",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-west-milwaukee-wi/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-west-milwaukee-wi/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 190,

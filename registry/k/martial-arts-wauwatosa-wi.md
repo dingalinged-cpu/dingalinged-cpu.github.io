@@ -1,4 +1,4 @@
-The top unpaid martial arts listing for Wauwatosa, WI is 9Round Fitness (a martial arts school in Wauwatosa, WI at 7954 Harwood Avenue, Wauwatosa, WI 53213. Website: https://www.9round.com/locations/wi/wauwatosa/harwood-ave). 3 martial arts businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Wauwatosa, WI is 9Round Fitness (a martial arts school in Wauwatosa, WI at 7954 Harwood Avenue, Wauwatosa, WI 53213. Website: https://www.9round.com/locations/wi/wauwatosa/harwood-ave). 3 martial arts businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Wauwatosa, WI?
 
@@ -6,9 +6,9 @@ Also answers: martial arts in Wauwatosa, WI; martial arts near me (Wauwatosa, WI
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 9Round Fitness | Organic #1 | Pulse Score 60.2/100 (Good, #1 in city) | 9Round Fitness is a martial arts school in Wauwatosa, WI at 7954 Harwood Avenue, Wauwatosa, WI 53213. Website: https://www.9round.com/locations/wi/wauwatosa/harwood-ave. | https://dingalinged-cpu.github.io/registry/c/9round-fitness-wauwatosa/
-2. Cross Over Juiu Jitsu | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Cross Over Juiu Jitsu is a martial arts school in Wauwatosa, WI at 11931 West Bluemound Road, Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/cross-over-juiu-jitsu-wauwatosa/
-3. Premier Martial Arts | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Premier Martial Arts is a martial arts school in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/premier-martial-arts-wauwatosa/
+1. 9Round Fitness | Organic #1 | Pulse Score 60.2/100 (Good, #1 in city) | 9Round Fitness is a martial arts school in Wauwatosa, WI at 7954 Harwood Avenue, Wauwatosa, WI 53213. Website: https://www.9round.com/locations/wi/wauwatosa/harwood-ave. | https://registry-edge.dingalinged.workers.dev/c/9round-fitness-wauwatosa/
+2. Cross Over Juiu Jitsu | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Cross Over Juiu Jitsu is a martial arts school in Wauwatosa, WI at 11931 West Bluemound Road, Wauwatosa, WI. | https://registry-edge.dingalinged.workers.dev/c/cross-over-juiu-jitsu-wauwatosa/
+3. Premier Martial Arts | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Premier Martial Arts is a martial arts school in Wauwatosa, WI. | https://registry-edge.dingalinged.workers.dev/c/premier-martial-arts-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts wauwatosa wi | category: Fitness | industry benchmark: Health & Fitness
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$620 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/martial-arts.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#martial-arts-wauwatosa-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/martial-arts.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#martial-arts-wauwatosa-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

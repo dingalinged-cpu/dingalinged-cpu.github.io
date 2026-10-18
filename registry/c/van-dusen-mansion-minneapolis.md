@@ -13,12 +13,12 @@ Van Dusen Mansion is an event venue in Minneapolis, MN at 1900 LaSalle Avenue, M
 - Website: https://www.thevandusenmansion.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 3% of event venues in Minneapolis–St. Paul, #1 of 26 event venues in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 3% of event venues in Minneapolis–St. Paul, #1 of 26 event venues in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/van-dusen-mansion-minneapolis/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/van-dusen-mansion-minneapolis.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/van-dusen-mansion-minneapolis/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/van-dusen-mansion-minneapolis.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1040096691 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

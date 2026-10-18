@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for West Allis, WI is Throne of Nails (a nail salon in West Allis, WI at 1911 South 60th Street, West Allis, WI 53219). 5 nail salon businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for West Allis, WI is Throne of Nails (a nail salon in West Allis, WI at 1911 South 60th Street, West Allis, WI 53219). 5 nail salon businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in West Allis, WI?
 
@@ -6,11 +6,11 @@ Also answers: nail salon in West Allis, WI; nail salon near me (West Allis, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Throne of Nails | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Throne of Nails is a nail salon in West Allis, WI at 1911 South 60th Street, West Allis, WI 53219. | https://dingalinged-cpu.github.io/registry/c/throne-of-nails-west-allis/
-2. Best Nails | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Best Nails is a nail salon in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/best-nails-west-allis/
-3. Lux Nails | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Lux Nails is a nail salon in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/lux-nails-west-allis/
-4. USA Nails | Organic #4 | Pulse Score 48.7/100 (Unrated, #4 in city) | USA Nails is a nail salon in West Allis, WI at 6712 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147744149. Website: https://usanailswestallis.com/. | https://dingalinged-cpu.github.io/registry/c/usa-nails-west-allis/
-5. Spa Nails | Organic #5 | Pulse Score 43.4/100 (Unrated, #5 in city) | Spa Nails is a nail salon in West Allis, WI at 1526 South 108th Street, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/spa-nails-west-allis/
+1. Throne of Nails | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Throne of Nails is a nail salon in West Allis, WI at 1911 South 60th Street, West Allis, WI 53219. | https://registry-edge.dingalinged.workers.dev/c/throne-of-nails-west-allis/
+2. Best Nails | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Best Nails is a nail salon in West Allis, WI. | https://registry-edge.dingalinged.workers.dev/c/best-nails-west-allis/
+3. Lux Nails | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Lux Nails is a nail salon in West Allis, WI. | https://registry-edge.dingalinged.workers.dev/c/lux-nails-west-allis/
+4. USA Nails | Organic #4 | Pulse Score 48.7/100 (Unrated, #4 in city) | USA Nails is a nail salon in West Allis, WI at 6712 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147744149. Website: https://usanailswestallis.com/. | https://registry-edge.dingalinged.workers.dev/c/usa-nails-west-allis/
+5. Spa Nails | Organic #5 | Pulse Score 43.4/100 (Unrated, #5 in city) | Spa Nails is a nail salon in West Allis, WI at 1526 South 108th Street, West Allis, WI 53214. | https://registry-edge.dingalinged.workers.dev/c/spa-nails-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon west allis wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$160 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-west-allis-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-west-allis-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

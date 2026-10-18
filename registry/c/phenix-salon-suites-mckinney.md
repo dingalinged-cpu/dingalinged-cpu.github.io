@@ -13,12 +13,12 @@ Phenix Salon Suites is a hair salon in McKinney, TX at 6700 North Alma Road #100
 - Website: https://phenixsalonsuites.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 82% of hair salons in Dallas–Fort Worth, #11 of 14 hair salons in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 82% of hair salons in Dallas–Fort Worth, #11 of 14 hair salons in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 55.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-mckinney/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/phenix-salon-suites-mckinney.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/phenix-salon-suites-mckinney/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/phenix-salon-suites-mckinney.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10216183828 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

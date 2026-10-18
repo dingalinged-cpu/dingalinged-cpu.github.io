@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Downers Grove, IL is Ogden Dental Studio (a dentist in Downers Grove, IL at 518 Ogden Avenue, Downers Grove, IL 60515. Phone: +16302710300. Website: https://ogdendentalstudio.com/). 5 dentist businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Downers Grove, IL is Ogden Dental Studio (a dentist in Downers Grove, IL at 518 Ogden Avenue, Downers Grove, IL 60515. Phone: +16302710300. Website: https://ogdendentalstudio.com/). 5 dentist businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Downers Grove, IL?
 
@@ -6,11 +6,11 @@ Also answers: dentist in Downers Grove, IL; dentist near me (Downers Grove, IL);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ogden Dental Studio | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Ogden Dental Studio is a dentist in Downers Grove, IL at 518 Ogden Avenue, Downers Grove, IL 60515. Phone: +16302710300. Website: https://ogdendentalstudio.com/. | https://dingalinged-cpu.github.io/registry/c/ogden-dental-studio-downers-grove/
-2. Soft Touch Dental | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Soft Touch Dental is a dentist in Downers Grove, IL at 6311 Woodward Avenue, Downers Grove, IL 60516. Phone: +16305413119. Website: https://softtouchdentaldg.com/. | https://dingalinged-cpu.github.io/registry/c/soft-touch-dental-downers-grove/
-3. Downers Grove Dental Spa, General Dentistry & Orthodontics | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Downers Grove Dental Spa, General Dentistry & Orthodontics is a dentist in Downers Grove, IL at 640 Ogden Avenue #E, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/downers-grove-dental-spa-general-dentistry-and-orthodontics-downers-grove/
-4. Esplanade Dental Care | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Esplanade Dental Care is a dentist in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/esplanade-dental-care-downers-grove/
-5. smiledownersgrove | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | smiledownersgrove is a dentist in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/smiledownersgrove-downers-grove/
+1. Ogden Dental Studio | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Ogden Dental Studio is a dentist in Downers Grove, IL at 518 Ogden Avenue, Downers Grove, IL 60515. Phone: +16302710300. Website: https://ogdendentalstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/ogden-dental-studio-downers-grove/
+2. Soft Touch Dental | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Soft Touch Dental is a dentist in Downers Grove, IL at 6311 Woodward Avenue, Downers Grove, IL 60516. Phone: +16305413119. Website: https://softtouchdentaldg.com/. | https://registry-edge.dingalinged.workers.dev/c/soft-touch-dental-downers-grove/
+3. Downers Grove Dental Spa, General Dentistry & Orthodontics | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Downers Grove Dental Spa, General Dentistry & Orthodontics is a dentist in Downers Grove, IL at 640 Ogden Avenue #E, Downers Grove, IL 60515. | https://registry-edge.dingalinged.workers.dev/c/downers-grove-dental-spa-general-dentistry-and-orthodontics-downers-grove/
+4. Esplanade Dental Care | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Esplanade Dental Care is a dentist in Downers Grove, IL. | https://registry-edge.dingalinged.workers.dev/c/esplanade-dental-care-downers-grove/
+5. smiledownersgrove | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | smiledownersgrove is a dentist in Downers Grove, IL. | https://registry-edge.dingalinged.workers.dev/c/smiledownersgrove-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist downers grove il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$13,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-downers-grove-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-downers-grove-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

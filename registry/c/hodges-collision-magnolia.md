@@ -13,12 +13,12 @@ Hodges Collision is an auto repair shop in Magnolia, TX at 6202 FM 1488, Magnoli
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Houston, #5 of 16 auto repair shops in Magnolia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Houston, #5 of 16 auto repair shops in Magnolia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 47.3. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hodges-collision-magnolia/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hodges-collision-magnolia.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hodges-collision-magnolia/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hodges-collision-magnolia.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/15091393 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

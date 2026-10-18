@@ -13,12 +13,12 @@ Serafini Smith Law Firm is a lawyer in Katy, TX at 21408 Provincial Boulevard, K
 - Website: https://www.serafinismithlawfirm.com/
 - Email: serafinismithlawfirm@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Houston, #3 of 3 lawyers in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Houston, #3 of 3 lawyers in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 60.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/serafini-smith-law-firm-katy/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/serafini-smith-law-firm-katy.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/serafini-smith-law-firm-katy/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/serafini-smith-law-firm-katy.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11510394286 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

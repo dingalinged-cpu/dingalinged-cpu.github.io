@@ -13,12 +13,12 @@ Denton Ballet Academy is a dance studio in Denton, TX at 637 Londonderry Lane, D
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 32% of dance studios in Dallas–Fort Worth, #1 of 2 dance studios in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 32% of dance studios in Dallas–Fort Worth, #1 of 2 dance studios in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 50.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/denton-ballet-academy-denton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/denton-ballet-academy-denton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/denton-ballet-academy-denton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/denton-ballet-academy-denton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/670361635 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

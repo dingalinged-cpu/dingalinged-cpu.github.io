@@ -1,4 +1,4 @@
-The top unpaid hair salon listing for Niles, IL is Salon Yangmi (a hair salon in Niles, IL at 9620 North Milwaukee Avenue, Niles, IL 60714. Phone: +18478272662. Website: https://www.salonyangmi.com/). 9 hair salon businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Niles, IL is Salon Yangmi (a hair salon in Niles, IL at 9620 North Milwaukee Avenue, Niles, IL 60714. Phone: +18478272662. Website: https://www.salonyangmi.com/). 9 hair salon businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Niles, IL?
 
@@ -6,15 +6,15 @@ Also answers: hair salon in Niles, IL; hair salon near me (Niles, IL); best hair
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon Yangmi | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Salon Yangmi is a hair salon in Niles, IL at 9620 North Milwaukee Avenue, Niles, IL 60714. Phone: +18478272662. Website: https://www.salonyangmi.com/. | https://dingalinged-cpu.github.io/registry/c/salon-yangmi-niles/
-2. Salon Beauteous | Organic #2 | Pulse Score 63.1/100 (Unrated, #2 in city) | Salon Beauteous is a hair salon in Niles, IL at 8303½ West Golf Road, Niles, IL 60714. Phone: +12242574953. | https://dingalinged-cpu.github.io/registry/c/salon-beauteous-niles/
-3. BoRics | Organic #3 | Pulse Score 62.2/100 (Unrated, #3 in city) | BoRics is a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Phone: +18474708586. Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388. | https://dingalinged-cpu.github.io/registry/c/borics-niles/
-4. Magic Fingers Hair Salon | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Magic Fingers Hair Salon is a hair salon in Niles, IL at North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/magic-fingers-hair-salon-niles/
-5. SKB Hair Salon | Organic #5 | Pulse Score 57.3/100 (Unrated, #5 in city) | SKB Hair Salon is a hair salon in Niles, IL at 9081 Courtland Drive, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/skb-hair-salon-niles/
-6. Great Clips | Organic #6 | Pulse Score 45.1/100 (Building, #6 in city) | Great Clips is a hair salon in Niles, IL at 5624 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/great-clips-niles/
-7. Sport Clips | Organic #7 | Pulse Score 45.1/100 (Building, #7 in city) | Sport Clips is a hair salon in Niles, IL at 5944 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/sport-clips-niles/
-8. Supercuts | Organic #8 | Pulse Score 45.1/100 (Building, #8 in city) | Supercuts is a hair salon in Niles, IL at 7241 West Dempster Street, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/supercuts-niles/
-9. Supercuts | Organic #9 | Pulse Score 45.1/100 (Building, #9 in city) | Supercuts is a hair salon in Niles, IL at 5693 West Touhy Avenue #170, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/supercuts-niles-w686708813/
+1. Salon Yangmi | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Salon Yangmi is a hair salon in Niles, IL at 9620 North Milwaukee Avenue, Niles, IL 60714. Phone: +18478272662. Website: https://www.salonyangmi.com/. | https://registry-edge.dingalinged.workers.dev/c/salon-yangmi-niles/
+2. Salon Beauteous | Organic #2 | Pulse Score 63.1/100 (Unrated, #2 in city) | Salon Beauteous is a hair salon in Niles, IL at 8303½ West Golf Road, Niles, IL 60714. Phone: +12242574953. | https://registry-edge.dingalinged.workers.dev/c/salon-beauteous-niles/
+3. BoRics | Organic #3 | Pulse Score 62.2/100 (Unrated, #3 in city) | BoRics is a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Phone: +18474708586. Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388. | https://registry-edge.dingalinged.workers.dev/c/borics-niles/
+4. Magic Fingers Hair Salon | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Magic Fingers Hair Salon is a hair salon in Niles, IL at North Milwaukee Avenue, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/magic-fingers-hair-salon-niles/
+5. SKB Hair Salon | Organic #5 | Pulse Score 57.3/100 (Unrated, #5 in city) | SKB Hair Salon is a hair salon in Niles, IL at 9081 Courtland Drive, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/skb-hair-salon-niles/
+6. Great Clips | Organic #6 | Pulse Score 45.1/100 (Building, #6 in city) | Great Clips is a hair salon in Niles, IL at 5624 West Touhy Avenue, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/great-clips-niles/
+7. Sport Clips | Organic #7 | Pulse Score 45.1/100 (Building, #7 in city) | Sport Clips is a hair salon in Niles, IL at 5944 West Touhy Avenue, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/sport-clips-niles/
+8. Supercuts | Organic #8 | Pulse Score 45.1/100 (Building, #8 in city) | Supercuts is a hair salon in Niles, IL at 7241 West Dempster Street, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/supercuts-niles/
+9. Supercuts | Organic #9 | Pulse Score 45.1/100 (Building, #9 in city) | Supercuts is a hair salon in Niles, IL at 5693 West Touhy Avenue #170, Niles, IL 60714. | https://registry-edge.dingalinged.workers.dev/c/supercuts-niles-w686708813/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon niles il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -28,6 +28,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/hair-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#hair-salon-niles-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/hair-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#hair-salon-niles-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Missouri Employers Mutual is an insurance agent in Independence, MO at 14700 Eas
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 18% of insurance agents in Kansas City, MO, #2 of 8 insurance agents in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 50.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 18% of insurance agents in Kansas City, MO, #2 of 8 insurance agents in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 50.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/missouri-employers-mutual-independence/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/missouri-employers-mutual-independence.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/missouri-employers-mutual-independence/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/missouri-employers-mutual-independence.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/635474425 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

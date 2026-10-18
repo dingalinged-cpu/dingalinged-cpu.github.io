@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for New Lenox, IL is Luxe Nail Lounge (a nail salon in New Lenox, IL at 426 East Lincoln Highway, New Lenox, IL 60451. Phone: +17798033325. Website: https://theluxenaillounge.com/). 3 nail salon businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for New Lenox, IL is Luxe Nail Lounge (a nail salon in New Lenox, IL at 426 East Lincoln Highway, New Lenox, IL 60451. Phone: +17798033325. Website: https://theluxenaillounge.com/). 3 nail salon businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in New Lenox, IL?
 
@@ -6,9 +6,9 @@ Also answers: nail salon in New Lenox, IL; nail salon near me (New Lenox, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luxe Nail Lounge | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Luxe Nail Lounge is a nail salon in New Lenox, IL at 426 East Lincoln Highway, New Lenox, IL 60451. Phone: +17798033325. Website: https://theluxenaillounge.com/. | https://dingalinged-cpu.github.io/registry/c/luxe-nail-lounge-new-lenox/
-2. Hanancy Nail Salon | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Hanancy Nail Salon is a nail salon in New Lenox, IL at West Illinois Highway, New Lenox, IL 60451. Phone: +18154630998. | https://dingalinged-cpu.github.io/registry/c/hanancy-nail-salon-new-lenox/
-3. Classy Nails & Spa | Organic #3 | Pulse Score 50/100 (Unrated, #3 in city) | Classy Nails & Spa is a nail salon in New Lenox, IL at 645 East Lincoln Highway, New Lenox, IL 60451. Phone: +18152909999. Website: https://classynails.net/. | https://dingalinged-cpu.github.io/registry/c/classy-nails-and-spa-new-lenox/
+1. Luxe Nail Lounge | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Luxe Nail Lounge is a nail salon in New Lenox, IL at 426 East Lincoln Highway, New Lenox, IL 60451. Phone: +17798033325. Website: https://theluxenaillounge.com/. | https://registry-edge.dingalinged.workers.dev/c/luxe-nail-lounge-new-lenox/
+2. Hanancy Nail Salon | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Hanancy Nail Salon is a nail salon in New Lenox, IL at West Illinois Highway, New Lenox, IL 60451. Phone: +18154630998. | https://registry-edge.dingalinged.workers.dev/c/hanancy-nail-salon-new-lenox/
+3. Classy Nails & Spa | Organic #3 | Pulse Score 50/100 (Unrated, #3 in city) | Classy Nails & Spa is a nail salon in New Lenox, IL at 645 East Lincoln Highway, New Lenox, IL 60451. Phone: +18152909999. Website: https://classynails.net/. | https://registry-edge.dingalinged.workers.dev/c/classy-nails-and-spa-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon new lenox il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$980 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-new-lenox-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-new-lenox-il | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

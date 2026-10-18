@@ -1,4 +1,4 @@
-The top unpaid auto repair listing for Montgomery County, TX is Tullos Collision (an auto repair shop in Montgomery County, TX. Phone: +12813993903). 7 auto repair businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Montgomery County, TX is Tullos Collision (an auto repair shop in Montgomery County, TX. Phone: +12813993903). 7 auto repair businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Montgomery County, TX?
 
@@ -6,13 +6,13 @@ Also answers: auto repair in Montgomery County, TX; auto repair near me (Montgom
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tullos Collision | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Tullos Collision is an auto repair shop in Montgomery County, TX. Phone: +12813993903. | https://dingalinged-cpu.github.io/registry/c/tullos-collision-montgomery-county/
-2. Executive Automotive Service & Transmission | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Executive Automotive Service & Transmission is an auto repair shop in Montgomery County, TX. Phone: +12816898149. | https://dingalinged-cpu.github.io/registry/c/executive-automotive-service-and-transmission-montgomery-county/
-3. A+ Transmission Specialists | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | A+ Transmission Specialists is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/a-transmission-specialists-montgomery-county/
-4. Offset Kustoms | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Offset Kustoms is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/offset-kustoms-montgomery-county/
-5. Texas Truck Works | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Texas Truck Works is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/texas-truck-works-montgomery-county/
-6. Valvoline | Organic #6 | Pulse Score 45.6/100 (Building, #6 in city) | Valvoline is an auto repair shop in Montgomery County, TX. Website: https://store.vioc.com/tx/magnolia/oil-change-070069.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-montgomery-county/
-7. Take 5 oil change | Organic #7 | Pulse Score 41.8/100 (Unrated, #7 in city) | Take 5 oil change is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-montgomery-county/
+1. Tullos Collision | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Tullos Collision is an auto repair shop in Montgomery County, TX. Phone: +12813993903. | https://registry-edge.dingalinged.workers.dev/c/tullos-collision-montgomery-county/
+2. Executive Automotive Service & Transmission | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Executive Automotive Service & Transmission is an auto repair shop in Montgomery County, TX. Phone: +12816898149. | https://registry-edge.dingalinged.workers.dev/c/executive-automotive-service-and-transmission-montgomery-county/
+3. A+ Transmission Specialists | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | A+ Transmission Specialists is an auto repair shop in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/a-transmission-specialists-montgomery-county/
+4. Offset Kustoms | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Offset Kustoms is an auto repair shop in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/offset-kustoms-montgomery-county/
+5. Texas Truck Works | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Texas Truck Works is an auto repair shop in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/texas-truck-works-montgomery-county/
+6. Valvoline | Organic #6 | Pulse Score 45.6/100 (Building, #6 in city) | Valvoline is an auto repair shop in Montgomery County, TX. Website: https://store.vioc.com/tx/magnolia/oil-change-070069.html. | https://registry-edge.dingalinged.workers.dev/c/valvoline-montgomery-county/
+7. Take 5 oil change | Organic #7 | Pulse Score 41.8/100 (Unrated, #7 in city) | Take 5 oil change is an auto repair shop in Montgomery County, TX. | https://registry-edge.dingalinged.workers.dev/c/take-5-oil-change-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair montgomery county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -25,6 +25,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/auto-repair.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#auto-repair-montgomery-county-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/auto-repair.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#auto-repair-montgomery-county-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

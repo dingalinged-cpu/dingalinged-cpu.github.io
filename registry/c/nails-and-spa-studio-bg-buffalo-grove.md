@@ -13,12 +13,12 @@ Nails & Spa Studio-BG is a nail salon in Buffalo Grove, IL at 290 McHenry Road, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 9:00-19:00; Sa 9:00-17:00
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of nail salons in Chicago, #1 of 2 nail salons in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of nail salons in Chicago, #1 of 2 nail salons in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/nails-and-spa-studio-bg-buffalo-grove/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/nails-and-spa-studio-bg-buffalo-grove.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/nails-and-spa-studio-bg-buffalo-grove/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/nails-and-spa-studio-bg-buffalo-grove.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11384794894 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

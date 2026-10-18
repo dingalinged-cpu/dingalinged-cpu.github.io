@@ -2,7 +2,7 @@
  "title": "Keyword market data: Cherokee County, GA",
  "description": "Top Cherokee County, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Cherokee County, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 34,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage cherokee county ga",
     "slug": "massage-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-cherokee-county-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist cherokee county ga",
     "slug": "dentist-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-cherokee-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon cherokee county ga",
     "slug": "hair-salon-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-cherokee-county-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon cherokee county ga",
     "slug": "nail-salon-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-cherokee-county-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic cherokee county ga",
     "slug": "mechanic-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-cherokee-county-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -86,7 +86,7 @@
    {
     "keyword": "tire shop cherokee county ga",
     "slug": "tire-shop-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-cherokee-county-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut cherokee county ga",
     "slug": "haircut-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-cherokee-county-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair cherokee county ga",
     "slug": "auto-repair-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-cherokee-county-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -131,7 +131,7 @@
    {
     "keyword": "landscaping cherokee county ga",
     "slug": "landscaping-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-cherokee-county-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agency cherokee county ga",
     "slug": "insurance-agency-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cherokee-county-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -161,7 +161,7 @@
    {
     "keyword": "hvac repair cherokee county ga",
     "slug": "hvac-repair-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-cherokee-county-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -176,7 +176,7 @@
    {
     "keyword": "insurance agents cherokee county ga",
     "slug": "insurance-agents-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-cherokee-county-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -191,7 +191,7 @@
    {
     "keyword": "insurance agent cherokee county ga",
     "slug": "insurance-agent-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-cherokee-county-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,
@@ -206,7 +206,7 @@
    {
     "keyword": "accountant cherokee county ga",
     "slug": "accountant-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-cherokee-county-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -221,7 +221,7 @@
    {
     "keyword": "family doctor cherokee county ga",
     "slug": "family-doctor-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-cherokee-county-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair cherokee county ga",
     "slug": "hvac-repair-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-cherokee-county-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "landscaping cherokee county ga",
     "slug": "landscaping-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-cherokee-county-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -268,7 +268,7 @@
    {
     "keyword": "concrete contractor cherokee county ga",
     "slug": "concrete-contractor-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/concrete-contractor-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/concrete-contractor-cherokee-county-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -283,7 +283,7 @@
    {
     "keyword": "heating and air cherokee county ga",
     "slug": "heating-and-air-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-cherokee-county-ga/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 68.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "bakery cherokee county ga",
     "slug": "bakery-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-cherokee-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -313,7 +313,7 @@
    {
     "keyword": "event venues cherokee county ga",
     "slug": "event-venues-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-cherokee-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -328,7 +328,7 @@
    {
     "keyword": "martial arts cherokee county ga",
     "slug": "martial-arts-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-cherokee-county-ga/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5700,
@@ -343,7 +343,7 @@
    {
     "keyword": "accounting services cherokee county ga",
     "slug": "accounting-services-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-cherokee-county-ga/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 230,
@@ -358,7 +358,7 @@
    {
     "keyword": "accountant cherokee county ga",
     "slug": "accountant-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-cherokee-county-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -373,7 +373,7 @@
    {
     "keyword": "daycare cherokee county ga",
     "slug": "daycare-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-cherokee-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -388,7 +388,7 @@
    {
     "keyword": "driving school cherokee county ga",
     "slug": "driving-school-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-cherokee-county-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -403,7 +403,7 @@
    {
     "keyword": "preschool cherokee county ga",
     "slug": "preschool-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-cherokee-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -418,7 +418,7 @@
    {
     "keyword": "family doctor cherokee county ga",
     "slug": "family-doctor-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-cherokee-county-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -433,7 +433,7 @@
    {
     "keyword": "ob gyn cherokee county ga",
     "slug": "ob-gyn-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/ob-gyn-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/ob-gyn-cherokee-county-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -448,7 +448,7 @@
    {
     "keyword": "primary care physician cherokee county ga",
     "slug": "primary-care-physician-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-cherokee-county-ga/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 510,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage cherokee county ga",
     "slug": "massage-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-cherokee-county-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -480,7 +480,7 @@
    {
     "keyword": "dentist cherokee county ga",
     "slug": "dentist-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-cherokee-county-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic cherokee county ga",
     "slug": "mechanic-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-cherokee-county-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -510,7 +510,7 @@
    {
     "keyword": "tire shop cherokee county ga",
     "slug": "tire-shop-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-cherokee-county-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -525,7 +525,7 @@
    {
     "keyword": "landscaping cherokee county ga",
     "slug": "landscaping-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/landscaping-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/landscaping-cherokee-county-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -540,7 +540,7 @@
    {
     "keyword": "haircut cherokee county ga",
     "slug": "haircut-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-cherokee-county-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -555,7 +555,7 @@
    {
     "keyword": "auto repair cherokee county ga",
     "slug": "auto-repair-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-cherokee-county-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -570,7 +570,7 @@
    {
     "keyword": "hvac repair cherokee county ga",
     "slug": "hvac-repair-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-cherokee-county-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -585,7 +585,7 @@
    {
     "keyword": "hair salon cherokee county ga",
     "slug": "hair-salon-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-cherokee-county-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -600,7 +600,7 @@
    {
     "keyword": "nail salon cherokee county ga",
     "slug": "nail-salon-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-cherokee-county-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -615,7 +615,7 @@
    {
     "keyword": "insurance agency cherokee county ga",
     "slug": "insurance-agency-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-cherokee-county-ga/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -630,7 +630,7 @@
    {
     "keyword": "accountant cherokee county ga",
     "slug": "accountant-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-cherokee-county-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agents cherokee county ga",
     "slug": "insurance-agents-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-cherokee-county-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -660,7 +660,7 @@
    {
     "keyword": "family doctor cherokee county ga",
     "slug": "family-doctor-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-cherokee-county-ga/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 630,
@@ -675,7 +675,7 @@
    {
     "keyword": "insurance agent cherokee county ga",
     "slug": "insurance-agent-cherokee-county-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-cherokee-county-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-cherokee-county-ga/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 770,

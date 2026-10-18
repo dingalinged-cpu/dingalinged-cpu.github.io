@@ -13,12 +13,12 @@ Rick's Olde Gold is a jewelry store in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:15-17:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 22% of jewelry stores in Madison, #7 of 31 jewelry stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 22% of jewelry stores in Madison, #7 of 31 jewelry stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ricks-olde-gold-madison/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ricks-olde-gold-madison.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ricks-olde-gold-madison/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ricks-olde-gold-madison.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12827343260 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

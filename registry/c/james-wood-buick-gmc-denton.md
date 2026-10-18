@@ -13,12 +13,12 @@ James Wood Buick GMC is an used car dealer in Denton, TX at 3606 South Interstat
 - Website: https://www.jameswoodpbg.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 80% of used car dealers in Dallas–Fort Worth, #11 of 18 used car dealers in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 80% of used car dealers in Dallas–Fort Worth, #11 of 18 used car dealers in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/james-wood-buick-gmc-denton/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/james-wood-buick-gmc-denton.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/james-wood-buick-gmc-denton/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/james-wood-buick-gmc-denton.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/524706633 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

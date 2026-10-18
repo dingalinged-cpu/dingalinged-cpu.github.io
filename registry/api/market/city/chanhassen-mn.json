@@ -2,7 +2,7 @@
  "title": "Keyword market data: Chanhassen, MN",
  "description": "Top Chanhassen, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Chanhassen, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 33,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash chanhassen mn",
     "slug": "car-wash-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-chanhassen-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist chanhassen mn",
     "slug": "dentist-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-chanhassen-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym chanhassen mn",
     "slug": "gym-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-chanhassen-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon chanhassen mn",
     "slug": "hair-salon-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-chanhassen-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon chanhassen mn",
     "slug": "nail-salon-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-chanhassen-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic chanhassen mn",
     "slug": "mechanic-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chanhassen-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -101,7 +101,7 @@
    {
     "keyword": "tire shop chanhassen mn",
     "slug": "tire-shop-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-chanhassen-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -116,7 +116,7 @@
    {
     "keyword": "dog groomer chanhassen mn",
     "slug": "dog-groomer-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-chanhassen-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -131,7 +131,7 @@
    {
     "keyword": "haircut chanhassen mn",
     "slug": "haircut-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-chanhassen-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -146,7 +146,7 @@
    {
     "keyword": "auto repair chanhassen mn",
     "slug": "auto-repair-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-chanhassen-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -161,7 +161,7 @@
    {
     "keyword": "chiropractor chanhassen mn",
     "slug": "chiropractor-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-chanhassen-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -176,7 +176,7 @@
    {
     "keyword": "financial advisor chanhassen mn",
     "slug": "financial-advisor-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-chanhassen-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -191,7 +191,7 @@
    {
     "keyword": "real estate agent chanhassen mn",
     "slug": "real-estate-agent-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-chanhassen-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agency chanhassen mn",
     "slug": "insurance-agency-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-chanhassen-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -221,7 +221,7 @@
    {
     "keyword": "realtor chanhassen mn",
     "slug": "realtor-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-chanhassen-mn/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1000,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney chanhassen mn",
     "slug": "attorney-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-chanhassen-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer chanhassen mn",
     "slug": "lawyer-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-chanhassen-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -268,7 +268,7 @@
    {
     "keyword": "florist chanhassen mn",
     "slug": "florist-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-chanhassen-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -283,7 +283,7 @@
    {
     "keyword": "music lessons chanhassen mn",
     "slug": "music-lessons-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/music-lessons-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/music-lessons-chanhassen-mn/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 440,
@@ -298,7 +298,7 @@
    {
     "keyword": "chiropractor chanhassen mn",
     "slug": "chiropractor-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-chanhassen-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -313,7 +313,7 @@
    {
     "keyword": "physical therapy chanhassen mn",
     "slug": "physical-therapy-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/physical-therapy-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/physical-therapy-chanhassen-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -328,7 +328,7 @@
    {
     "keyword": "therapist chanhassen mn",
     "slug": "therapist-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-chanhassen-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -343,7 +343,7 @@
    {
     "keyword": "dentist chanhassen mn",
     "slug": "dentist-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-chanhassen-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -358,7 +358,7 @@
    {
     "keyword": "haircut chanhassen mn",
     "slug": "haircut-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-chanhassen-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -373,7 +373,7 @@
    {
     "keyword": "tanning salon chanhassen mn",
     "slug": "tanning-salon-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tanning-salon-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tanning-salon-chanhassen-mn/",
     "us_monthly_searches": 30000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 330,
@@ -388,7 +388,7 @@
    {
     "keyword": "auto repair chanhassen mn",
     "slug": "auto-repair-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-chanhassen-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -403,7 +403,7 @@
    {
     "keyword": "car wash chanhassen mn",
     "slug": "car-wash-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-chanhassen-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -418,7 +418,7 @@
    {
     "keyword": "mechanic chanhassen mn",
     "slug": "mechanic-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chanhassen-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -433,7 +433,7 @@
    {
     "keyword": "tire shop chanhassen mn",
     "slug": "tire-shop-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-chanhassen-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -448,7 +448,7 @@
    {
     "keyword": "bike shop chanhassen mn",
     "slug": "bike-shop-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bike-shop-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bike-shop-chanhassen-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist chanhassen mn",
     "slug": "dentist-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-chanhassen-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash chanhassen mn",
     "slug": "car-wash-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-chanhassen-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym chanhassen mn",
     "slug": "gym-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-chanhassen-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic chanhassen mn",
     "slug": "mechanic-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-chanhassen-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop chanhassen mn",
     "slug": "tire-shop-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-chanhassen-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -540,7 +540,7 @@
    {
     "keyword": "dog groomer chanhassen mn",
     "slug": "dog-groomer-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-chanhassen-mn/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -555,7 +555,7 @@
    {
     "keyword": "haircut chanhassen mn",
     "slug": "haircut-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-chanhassen-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair chanhassen mn",
     "slug": "auto-repair-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-chanhassen-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -585,7 +585,7 @@
    {
     "keyword": "chiropractor chanhassen mn",
     "slug": "chiropractor-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-chanhassen-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -600,7 +600,7 @@
    {
     "keyword": "hair salon chanhassen mn",
     "slug": "hair-salon-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-chanhassen-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -615,7 +615,7 @@
    {
     "keyword": "financial advisor chanhassen mn",
     "slug": "financial-advisor-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-chanhassen-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -630,7 +630,7 @@
    {
     "keyword": "attorney chanhassen mn",
     "slug": "attorney-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-chanhassen-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -645,7 +645,7 @@
    {
     "keyword": "real estate agent chanhassen mn",
     "slug": "real-estate-agent-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-chanhassen-mn/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -660,7 +660,7 @@
    {
     "keyword": "nail salon chanhassen mn",
     "slug": "nail-salon-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-chanhassen-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -675,7 +675,7 @@
    {
     "keyword": "lawyer chanhassen mn",
     "slug": "lawyer-chanhassen-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-chanhassen-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-chanhassen-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,

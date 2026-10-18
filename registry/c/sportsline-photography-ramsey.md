@@ -13,12 +13,12 @@ Sportsline Photography is a photographer in Ramsey, MN at 6451 McKinley Street N
 - Website: https://www.sportslinephotography.com/
 - Email: info@sportslinephotography.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 66.4/100 — Good — top 8% of photographers in Minneapolis–St. Paul, #1 of 1 photographers in Ramsey (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 71.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 66.4/100 — Good — top 8% of photographers in Minneapolis–St. Paul, #1 of 1 photographers in Ramsey (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 71.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sportsline-photography-ramsey/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sportsline-photography-ramsey.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sportsline-photography-ramsey/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sportsline-photography-ramsey.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13444477992 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

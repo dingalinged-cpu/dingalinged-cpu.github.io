@@ -1,4 +1,4 @@
-The top unpaid chiropractor listing for Roseville, MN is The Back & Neck Chiropractic Relief Center (a chiropractor in Roseville, MN at 1704 Lexington Avenue North, Roseville, MN 55113. Phone: +16517795998. Website: https://rosevillechiro.com/). 3 chiropractor businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Roseville, MN is The Back & Neck Chiropractic Relief Center (a chiropractor in Roseville, MN at 1704 Lexington Avenue North, Roseville, MN 55113. Phone: +16517795998. Website: https://rosevillechiro.com/). 3 chiropractor businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Roseville, MN?
 
@@ -6,9 +6,9 @@ Also answers: chiropractor in Roseville, MN; chiropractor near me (Roseville, MN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Back & Neck Chiropractic Relief Center | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | The Back & Neck Chiropractic Relief Center is a chiropractor in Roseville, MN at 1704 Lexington Avenue North, Roseville, MN 55113. Phone: +16517795998. Website: https://rosevillechiro.com/. | https://dingalinged-cpu.github.io/registry/c/the-back-and-neck-chiropractic-relief-center-roseville/
-2. Spine & Sports Chiropractic | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Spine & Sports Chiropractic is a chiropractor in Roseville, MN at 2216 County Road D West, Roseville, MN 55112. Phone: +16516391066. Website: https://www.spineandsportschiro.com/. | https://dingalinged-cpu.github.io/registry/c/spine-and-sports-chiropractic-roseville/
-3. The Joint Chiropractic | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | The Joint Chiropractic is a chiropractor in Roseville, MN at 1603 West County Road C, Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-roseville/
+1. The Back & Neck Chiropractic Relief Center | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | The Back & Neck Chiropractic Relief Center is a chiropractor in Roseville, MN at 1704 Lexington Avenue North, Roseville, MN 55113. Phone: +16517795998. Website: https://rosevillechiro.com/. | https://registry-edge.dingalinged.workers.dev/c/the-back-and-neck-chiropractic-relief-center-roseville/
+2. Spine & Sports Chiropractic | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Spine & Sports Chiropractic is a chiropractor in Roseville, MN at 2216 County Road D West, Roseville, MN 55112. Phone: +16516391066. Website: https://www.spineandsportschiro.com/. | https://registry-edge.dingalinged.workers.dev/c/spine-and-sports-chiropractic-roseville/
+3. The Joint Chiropractic | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | The Joint Chiropractic is a chiropractor in Roseville, MN at 1603 West County Road C, Roseville, MN. | https://registry-edge.dingalinged.workers.dev/c/the-joint-chiropractic-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor roseville mn | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$860 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/chiropractor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#chiropractor-roseville-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/chiropractor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#chiropractor-roseville-mn | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Sugar Hill, GA",
  "description": "Top Sugar Hill, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Sugar Hill, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 15,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage sugar hill ga",
     "slug": "massage-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-sugar-hill-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist sugar hill ga",
     "slug": "dentist-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-sugar-hill-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym sugar hill ga",
     "slug": "gym-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-sugar-hill-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon sugar hill ga",
     "slug": "hair-salon-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-sugar-hill-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -71,7 +71,7 @@
    {
     "keyword": "nail salon sugar hill ga",
     "slug": "nail-salon-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-sugar-hill-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic sugar hill ga",
     "slug": "mechanic-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-sugar-hill-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -101,7 +101,7 @@
    {
     "keyword": "vet sugar hill ga",
     "slug": "vet-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-sugar-hill-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "haircut sugar hill ga",
     "slug": "haircut-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-sugar-hill-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -131,7 +131,7 @@
    {
     "keyword": "auto repair sugar hill ga",
     "slug": "auto-repair-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-sugar-hill-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -146,7 +146,7 @@
    {
     "keyword": "chiropractor sugar hill ga",
     "slug": "chiropractor-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-sugar-hill-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -161,7 +161,7 @@
    {
     "keyword": "locksmith sugar hill ga",
     "slug": "locksmith-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-sugar-hill-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -178,7 +178,7 @@
    {
     "keyword": "locksmith sugar hill ga",
     "slug": "locksmith-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-sugar-hill-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -193,7 +193,7 @@
    {
     "keyword": "storage units sugar hill ga",
     "slug": "storage-units-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-sugar-hill-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -208,7 +208,7 @@
    {
     "keyword": "martial arts sugar hill ga",
     "slug": "martial-arts-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-sugar-hill-ga/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5700,
@@ -223,7 +223,7 @@
    {
     "keyword": "chiropractor sugar hill ga",
     "slug": "chiropractor-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-sugar-hill-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -238,7 +238,7 @@
    {
     "keyword": "eye doctor sugar hill ga",
     "slug": "eye-doctor-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-sugar-hill-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -253,7 +253,7 @@
    {
     "keyword": "dentist sugar hill ga",
     "slug": "dentist-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-sugar-hill-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -268,7 +268,7 @@
    {
     "keyword": "haircut sugar hill ga",
     "slug": "haircut-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-sugar-hill-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -283,7 +283,7 @@
    {
     "keyword": "massage sugar hill ga",
     "slug": "massage-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-sugar-hill-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -298,7 +298,7 @@
    {
     "keyword": "auto repair sugar hill ga",
     "slug": "auto-repair-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-sugar-hill-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -313,7 +313,7 @@
    {
     "keyword": "mechanic sugar hill ga",
     "slug": "mechanic-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-sugar-hill-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -328,7 +328,7 @@
    {
     "keyword": "vet sugar hill ga",
     "slug": "vet-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-sugar-hill-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -343,7 +343,7 @@
    {
     "keyword": "printing services sugar hill ga",
     "slug": "printing-services-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-sugar-hill-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -358,7 +358,7 @@
    {
     "keyword": "gym sugar hill ga",
     "slug": "gym-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-sugar-hill-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -373,7 +373,7 @@
    {
     "keyword": "nail salon sugar hill ga",
     "slug": "nail-salon-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-sugar-hill-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -388,7 +388,7 @@
    {
     "keyword": "hair salon sugar hill ga",
     "slug": "hair-salon-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-sugar-hill-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -405,7 +405,7 @@
    {
     "keyword": "massage sugar hill ga",
     "slug": "massage-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-sugar-hill-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -420,7 +420,7 @@
    {
     "keyword": "dentist sugar hill ga",
     "slug": "dentist-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-sugar-hill-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -435,7 +435,7 @@
    {
     "keyword": "gym sugar hill ga",
     "slug": "gym-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-sugar-hill-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -450,7 +450,7 @@
    {
     "keyword": "mechanic sugar hill ga",
     "slug": "mechanic-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-sugar-hill-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -465,7 +465,7 @@
    {
     "keyword": "vet sugar hill ga",
     "slug": "vet-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-sugar-hill-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -480,7 +480,7 @@
    {
     "keyword": "locksmith sugar hill ga",
     "slug": "locksmith-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-sugar-hill-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -495,7 +495,7 @@
    {
     "keyword": "haircut sugar hill ga",
     "slug": "haircut-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-sugar-hill-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -510,7 +510,7 @@
    {
     "keyword": "auto repair sugar hill ga",
     "slug": "auto-repair-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-sugar-hill-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -525,7 +525,7 @@
    {
     "keyword": "chiropractor sugar hill ga",
     "slug": "chiropractor-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-sugar-hill-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -540,7 +540,7 @@
    {
     "keyword": "hair salon sugar hill ga",
     "slug": "hair-salon-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-sugar-hill-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -555,7 +555,7 @@
    {
     "keyword": "nail salon sugar hill ga",
     "slug": "nail-salon-sugar-hill-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-sugar-hill-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-sugar-hill-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,

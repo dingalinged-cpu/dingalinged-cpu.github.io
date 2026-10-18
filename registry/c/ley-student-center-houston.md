@@ -13,12 +13,12 @@ Ley Student Center is an event venue in Houston, TX at 6100 Main Street #Room 20
 - Website: https://studentcenter.rice.edu/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 27% of event venues in Houston, #10 of 42 event venues in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 27% of event venues in Houston, #10 of 42 event venues in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 51.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ley-student-center-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ley-student-center-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ley-student-center-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ley-student-center-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/368165184 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

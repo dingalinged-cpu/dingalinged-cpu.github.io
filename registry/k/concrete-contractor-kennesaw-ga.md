@@ -1,4 +1,4 @@
-The top unpaid concrete contractor listing for Kennesaw, GA is Stone Center Landscape & Masonry (a concrete contractor in Kennesaw, GA at 3220 Moon Station Road, Kennesaw, GA. Phone: +14707440200). 2 concrete contractor businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid concrete contractor listing for Kennesaw, GA is Stone Center Landscape & Masonry (a concrete contractor in Kennesaw, GA at 3220 Moon Station Road, Kennesaw, GA. Phone: +14707440200). 2 concrete contractor businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best concrete contractor providers in Kennesaw, GA?
 
@@ -6,8 +6,8 @@ Also answers: concrete contractor in Kennesaw, GA; concrete contractor near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stone Center Landscape & Masonry | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Stone Center Landscape & Masonry is a concrete contractor in Kennesaw, GA at 3220 Moon Station Road, Kennesaw, GA. Phone: +14707440200. | https://dingalinged-cpu.github.io/registry/c/stone-center-landscape-and-masonry-kennesaw/
-2. Dockins Stone & Brick Works | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Dockins Stone & Brick Works is a concrete contractor in Kennesaw, GA at 2535 South Main Street #106, Kennesaw, GA. | https://dingalinged-cpu.github.io/registry/c/dockins-stone-and-brick-works-kennesaw/
+1. Stone Center Landscape & Masonry | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Stone Center Landscape & Masonry is a concrete contractor in Kennesaw, GA at 3220 Moon Station Road, Kennesaw, GA. Phone: +14707440200. | https://registry-edge.dingalinged.workers.dev/c/stone-center-landscape-and-masonry-kennesaw/
+2. Dockins Stone & Brick Works | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Dockins Stone & Brick Works is a concrete contractor in Kennesaw, GA at 2535 South Main Street #106, Kennesaw, GA. | https://registry-edge.dingalinged.workers.dev/c/dockins-stone-and-brick-works-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor kennesaw ga | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement
@@ -20,6 +20,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$400 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/concrete-contractor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#concrete-contractor-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/concrete-contractor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#concrete-contractor-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

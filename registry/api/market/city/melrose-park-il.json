@@ -2,7 +2,7 @@
  "title": "Keyword market data: Melrose Park, IL",
  "description": "Top Melrose Park, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Melrose Park, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 25,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash melrose park il",
     "slug": "car-wash-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-melrose-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist melrose park il",
     "slug": "dentist-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-melrose-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym melrose park il",
     "slug": "gym-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-melrose-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon melrose park il",
     "slug": "hair-salon-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-melrose-park-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic melrose park il",
     "slug": "mechanic-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-melrose-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -86,7 +86,7 @@
    {
     "keyword": "tire shop melrose park il",
     "slug": "tire-shop-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-melrose-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut melrose park il",
     "slug": "haircut-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-melrose-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair melrose park il",
     "slug": "auto-repair-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-melrose-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -131,7 +131,7 @@
    {
     "keyword": "roofing contractor melrose park il",
     "slug": "roofing-contractor-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-melrose-park-il/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -146,7 +146,7 @@
    {
     "keyword": "insurance agency melrose park il",
     "slug": "insurance-agency-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-melrose-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -161,7 +161,7 @@
    {
     "keyword": "hvac repair melrose park il",
     "slug": "hvac-repair-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-melrose-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -176,7 +176,7 @@
    {
     "keyword": "tax preparation melrose park il",
     "slug": "tax-preparation-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-melrose-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto body shop melrose park il",
     "slug": "auto-body-shop-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-melrose-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -206,7 +206,7 @@
    {
     "keyword": "tax preparer melrose park il",
     "slug": "tax-preparer-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-melrose-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -221,7 +221,7 @@
    {
     "keyword": "windshield replacement melrose park il",
     "slug": "windshield-replacement-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-melrose-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair melrose park il",
     "slug": "hvac-repair-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-melrose-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "roofing contractor melrose park il",
     "slug": "roofing-contractor-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-melrose-park-il/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -268,7 +268,7 @@
    {
     "keyword": "roofer melrose park il",
     "slug": "roofer-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-melrose-park-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -283,7 +283,7 @@
    {
     "keyword": "heating and air melrose park il",
     "slug": "heating-and-air-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-melrose-park-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "storage units melrose park il",
     "slug": "storage-units-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-melrose-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "florist melrose park il",
     "slug": "florist-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-melrose-park-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "tax preparer melrose park il",
     "slug": "tax-preparer-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-melrose-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -343,7 +343,7 @@
    {
     "keyword": "dentist melrose park il",
     "slug": "dentist-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-melrose-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -358,7 +358,7 @@
    {
     "keyword": "haircut melrose park il",
     "slug": "haircut-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-melrose-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -373,7 +373,7 @@
    {
     "keyword": "auto body shop melrose park il",
     "slug": "auto-body-shop-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-melrose-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -388,7 +388,7 @@
    {
     "keyword": "auto repair melrose park il",
     "slug": "auto-repair-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-melrose-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -403,7 +403,7 @@
    {
     "keyword": "car wash melrose park il",
     "slug": "car-wash-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-melrose-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -418,7 +418,7 @@
    {
     "keyword": "mechanic melrose park il",
     "slug": "mechanic-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-melrose-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -433,7 +433,7 @@
    {
     "keyword": "tire shop melrose park il",
     "slug": "tire-shop-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-melrose-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -448,7 +448,7 @@
    {
     "keyword": "windshield replacement melrose park il",
     "slug": "windshield-replacement-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-melrose-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist melrose park il",
     "slug": "dentist-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-melrose-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash melrose park il",
     "slug": "car-wash-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-melrose-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym melrose park il",
     "slug": "gym-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-melrose-park-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "mechanic melrose park il",
     "slug": "mechanic-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-melrose-park-il/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -525,7 +525,7 @@
    {
     "keyword": "tire shop melrose park il",
     "slug": "tire-shop-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-melrose-park-il/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -540,7 +540,7 @@
    {
     "keyword": "haircut melrose park il",
     "slug": "haircut-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-melrose-park-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -555,7 +555,7 @@
    {
     "keyword": "roofing contractor melrose park il",
     "slug": "roofing-contractor-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-melrose-park-il/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3700,
@@ -570,7 +570,7 @@
    {
     "keyword": "auto repair melrose park il",
     "slug": "auto-repair-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-melrose-park-il/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8300,
@@ -585,7 +585,7 @@
    {
     "keyword": "hvac repair melrose park il",
     "slug": "hvac-repair-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-melrose-park-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -600,7 +600,7 @@
    {
     "keyword": "hair salon melrose park il",
     "slug": "hair-salon-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-melrose-park-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -615,7 +615,7 @@
    {
     "keyword": "roofer melrose park il",
     "slug": "roofer-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-melrose-park-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -630,7 +630,7 @@
    {
     "keyword": "tax preparer melrose park il",
     "slug": "tax-preparer-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-melrose-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -645,7 +645,7 @@
    {
     "keyword": "insurance agency melrose park il",
     "slug": "insurance-agency-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-melrose-park-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -660,7 +660,7 @@
    {
     "keyword": "auto body shop melrose park il",
     "slug": "auto-body-shop-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-body-shop-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-body-shop-melrose-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -675,7 +675,7 @@
    {
     "keyword": "windshield replacement melrose park il",
     "slug": "windshield-replacement-melrose-park-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/windshield-replacement-melrose-park-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/windshield-replacement-melrose-park-il/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,

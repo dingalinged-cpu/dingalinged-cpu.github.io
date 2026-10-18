@@ -13,12 +13,12 @@ Sculpted Contours Plastic Surgery is a plastic surgeon in Frisco, TX at 7044 Leb
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 56% of plastic surgeons in Dallas–Fort Worth, #1 of 1 plastic surgeons in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 56% of plastic surgeons in Dallas–Fort Worth, #1 of 1 plastic surgeons in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 46. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sculpted-contours-plastic-surgery-frisco/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sculpted-contours-plastic-surgery-frisco.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sculpted-contours-plastic-surgery-frisco/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sculpted-contours-plastic-surgery-frisco.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/14053820209 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

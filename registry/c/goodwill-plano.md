@@ -13,12 +13,12 @@ Goodwill is a thrift store in Plano, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Building — top 94% of thrift stores in Dallas–Fort Worth, #5 of 6 thrift stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 39.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.1/100 — Building — top 94% of thrift stores in Dallas–Fort Worth, #5 of 6 thrift stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 39.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-plano/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-plano.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/goodwill-plano/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/goodwill-plano.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12337915590 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

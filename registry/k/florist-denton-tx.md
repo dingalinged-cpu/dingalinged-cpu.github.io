@@ -1,4 +1,4 @@
-The top unpaid florist listing for Denton, TX is True Leaf Studio (a florist in Denton, TX at 301 South Locust Street, Denton, TX 76201. Phone: +19402181133. Website: https://www.trueleafstudio.com/). 4 florist businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Denton, TX is True Leaf Studio (a florist in Denton, TX at 301 South Locust Street, Denton, TX 76201. Phone: +19402181133. Website: https://www.trueleafstudio.com/). 4 florist businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Denton, TX?
 
@@ -6,10 +6,10 @@ Also answers: florist in Denton, TX; florist near me (Denton, TX); best florist 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. True Leaf Studio | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | True Leaf Studio is a florist in Denton, TX at 301 South Locust Street, Denton, TX 76201. Phone: +19402181133. Website: https://www.trueleafstudio.com/. | https://dingalinged-cpu.github.io/registry/c/true-leaf-studio-denton/
-2. Denton Florist | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Denton Florist is a florist in Denton, TX at 2926 East University Drive #Suite 103, Denton, TX 76209. Phone: +19403876191. | https://dingalinged-cpu.github.io/registry/c/denton-florist-denton/
-3. Florist | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Florist is a florist in Denton, TX at 2430 South Interstate 35E #Suite 152, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/florist-denton/
-4. The Florist, Ltd | Organic #4 | Pulse Score 56.6/100 (Unrated, #4 in city) | The Florist, Ltd is a florist in Denton, TX at 1425 Malone Street, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/the-florist-ltd-denton/
+1. True Leaf Studio | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | True Leaf Studio is a florist in Denton, TX at 301 South Locust Street, Denton, TX 76201. Phone: +19402181133. Website: https://www.trueleafstudio.com/. | https://registry-edge.dingalinged.workers.dev/c/true-leaf-studio-denton/
+2. Denton Florist | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Denton Florist is a florist in Denton, TX at 2926 East University Drive #Suite 103, Denton, TX 76209. Phone: +19403876191. | https://registry-edge.dingalinged.workers.dev/c/denton-florist-denton/
+3. Florist | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Florist is a florist in Denton, TX at 2430 South Interstate 35E #Suite 152, Denton, TX 76205. | https://registry-edge.dingalinged.workers.dev/c/florist-denton/
+4. The Florist, Ltd | Organic #4 | Pulse Score 56.6/100 (Unrated, #4 in city) | The Florist, Ltd is a florist in Denton, TX at 1425 Malone Street, Denton, TX 76201. | https://registry-edge.dingalinged.workers.dev/c/the-florist-ltd-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist denton tx | category: Events & weddings | industry benchmark: Personal Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/florist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#florist-denton-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/florist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#florist-denton-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

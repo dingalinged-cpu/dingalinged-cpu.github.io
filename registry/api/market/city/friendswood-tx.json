@@ -2,7 +2,7 @@
  "title": "Keyword market data: Friendswood, TX",
  "description": "Top Friendswood, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Friendswood, TX",
  "geography": "Houston-Pasadena-The Woodlands, TX metro",
  "keywords": 12,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash friendswood tx",
     "slug": "car-wash-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-friendswood-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist friendswood tx",
     "slug": "dentist-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-friendswood-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -41,7 +41,7 @@
    {
     "keyword": "tire shop friendswood tx",
     "slug": "tire-shop-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-friendswood-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -56,7 +56,7 @@
    {
     "keyword": "insurance agency friendswood tx",
     "slug": "insurance-agency-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-friendswood-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -71,7 +71,7 @@
    {
     "keyword": "attorney friendswood tx",
     "slug": "attorney-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-friendswood-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -86,7 +86,7 @@
    {
     "keyword": "insurance agents friendswood tx",
     "slug": "insurance-agents-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-friendswood-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -101,7 +101,7 @@
    {
     "keyword": "lawyer friendswood tx",
     "slug": "lawyer-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-friendswood-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -116,7 +116,7 @@
    {
     "keyword": "insurance agent friendswood tx",
     "slug": "insurance-agent-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-friendswood-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -133,7 +133,7 @@
    {
     "keyword": "attorney friendswood tx",
     "slug": "attorney-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-friendswood-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -148,7 +148,7 @@
    {
     "keyword": "lawyer friendswood tx",
     "slug": "lawyer-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-friendswood-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -163,7 +163,7 @@
    {
     "keyword": "daycare friendswood tx",
     "slug": "daycare-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-friendswood-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5100,
@@ -178,7 +178,7 @@
    {
     "keyword": "dentist friendswood tx",
     "slug": "dentist-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-friendswood-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -193,7 +193,7 @@
    {
     "keyword": "car wash friendswood tx",
     "slug": "car-wash-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-friendswood-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -208,7 +208,7 @@
    {
     "keyword": "tire shop friendswood tx",
     "slug": "tire-shop-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-friendswood-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -223,7 +223,7 @@
    {
     "keyword": "liquor store friendswood tx",
     "slug": "liquor-store-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-friendswood-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -238,7 +238,7 @@
    {
     "keyword": "thrift store friendswood tx",
     "slug": "thrift-store-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-friendswood-tx/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3200,
@@ -253,7 +253,7 @@
    {
     "keyword": "insurance agency friendswood tx",
     "slug": "insurance-agency-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-friendswood-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -268,7 +268,7 @@
    {
     "keyword": "insurance agent friendswood tx",
     "slug": "insurance-agent-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-friendswood-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -283,7 +283,7 @@
    {
     "keyword": "insurance agents friendswood tx",
     "slug": "insurance-agents-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-friendswood-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -298,7 +298,7 @@
    {
     "keyword": "shoe repair friendswood tx",
     "slug": "shoe-repair-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/shoe-repair-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/shoe-repair-friendswood-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -315,7 +315,7 @@
    {
     "keyword": "dentist friendswood tx",
     "slug": "dentist-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-friendswood-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -330,7 +330,7 @@
    {
     "keyword": "car wash friendswood tx",
     "slug": "car-wash-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-friendswood-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 42000,
@@ -345,7 +345,7 @@
    {
     "keyword": "tire shop friendswood tx",
     "slug": "tire-shop-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-friendswood-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -360,7 +360,7 @@
    {
     "keyword": "attorney friendswood tx",
     "slug": "attorney-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-friendswood-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1700,
@@ -375,7 +375,7 @@
    {
     "keyword": "lawyer friendswood tx",
     "slug": "lawyer-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-friendswood-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -390,7 +390,7 @@
    {
     "keyword": "insurance agency friendswood tx",
     "slug": "insurance-agency-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-friendswood-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2100,
@@ -405,7 +405,7 @@
    {
     "keyword": "insurance agents friendswood tx",
     "slug": "insurance-agents-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-friendswood-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1100,
@@ -420,7 +420,7 @@
    {
     "keyword": "insurance agent friendswood tx",
     "slug": "insurance-agent-friendswood-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agent-friendswood-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agent-friendswood-tx/",
     "us_monthly_searches": 40500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,

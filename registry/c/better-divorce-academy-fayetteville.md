@@ -13,12 +13,12 @@ Better Divorce Academy is a lawyer in Fayetteville, GA at 225 North Jeff Davis D
 - Website: https://betterdivorceacademy.com/
 - Email: support@betterdivorceacademy.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 48% of lawyers in Atlanta, #2 of 2 lawyers in Fayetteville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 48% of lawyers in Atlanta, #2 of 2 lawyers in Fayetteville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/better-divorce-academy-fayetteville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/better-divorce-academy-fayetteville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/better-divorce-academy-fayetteville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/better-divorce-academy-fayetteville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8163621726 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

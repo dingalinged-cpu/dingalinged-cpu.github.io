@@ -13,12 +13,12 @@ Happy Nails is a nail salon in Milwaukee, WI at 7833 West Capitol Drive, Milwauk
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 93% of nail salons in Milwaukee, #35 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 93% of nail salons in Milwaukee, #35 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 53. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/happy-nails-milwaukee/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/happy-nails-milwaukee.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/happy-nails-milwaukee/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/happy-nails-milwaukee.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12640706011 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

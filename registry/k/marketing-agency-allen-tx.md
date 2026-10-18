@@ -1,4 +1,4 @@
-The top unpaid marketing agency listing for Allen, TX is Local Leap Marketing (a marketing agency in Allen, TX at 700 Central Expressway South #400, Allen, TX 75013. Phone: +14692487450. Website: https://localleap.com/). 3 marketing agency businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Allen, TX is Local Leap Marketing (a marketing agency in Allen, TX at 700 Central Expressway South #400, Allen, TX 75013. Phone: +14692487450. Website: https://localleap.com/). 3 marketing agency businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Allen, TX?
 
@@ -6,9 +6,9 @@ Also answers: marketing agency in Allen, TX; marketing agency near me (Allen, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Local Leap Marketing | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Local Leap Marketing is a marketing agency in Allen, TX at 700 Central Expressway South #400, Allen, TX 75013. Phone: +14692487450. Website: https://localleap.com/. | https://dingalinged-cpu.github.io/registry/c/local-leap-marketing-allen/
-2. BitBranding | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | BitBranding is a marketing agency in Allen, TX at 550 South Watters Road #271, Allen, TX 75013. Phone: +12142389837. Website: https://www.bitbranding.co/. | https://dingalinged-cpu.github.io/registry/c/bitbranding-allen/
-3. Umbrella Hat Group | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Umbrella Hat Group is a marketing agency in Allen, TX at 450 Century Parkway, Allen, TX 75013. Website: https://www.umbrellahatgroup.com/. | https://dingalinged-cpu.github.io/registry/c/umbrella-hat-group-allen/
+1. Local Leap Marketing | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Local Leap Marketing is a marketing agency in Allen, TX at 700 Central Expressway South #400, Allen, TX 75013. Phone: +14692487450. Website: https://localleap.com/. | https://registry-edge.dingalinged.workers.dev/c/local-leap-marketing-allen/
+2. BitBranding | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | BitBranding is a marketing agency in Allen, TX at 550 South Watters Road #271, Allen, TX 75013. Phone: +12142389837. Website: https://www.bitbranding.co/. | https://registry-edge.dingalinged.workers.dev/c/bitbranding-allen/
+3. Umbrella Hat Group | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Umbrella Hat Group is a marketing agency in Allen, TX at 450 Century Parkway, Allen, TX 75013. Website: https://www.umbrellahatgroup.com/. | https://registry-edge.dingalinged.workers.dev/c/umbrella-hat-group-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency allen tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$280 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/marketing-agency.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#marketing-agency-allen-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/marketing-agency.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#marketing-agency-allen-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

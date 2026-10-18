@@ -13,12 +13,12 @@
 - Website: https://310studiosatl.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 52% of event venues in Atlanta, #20 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 52% of event venues in Atlanta, #20 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 50.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/310-studios-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/310-studios-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/310-studios-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/310-studios-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1263059307 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

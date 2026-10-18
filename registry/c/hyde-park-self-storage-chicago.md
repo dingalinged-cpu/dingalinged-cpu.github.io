@@ -13,12 +13,12 @@ Hyde Park Self Storage is a self-storage facility in Chicago, IL at 5155 South C
 - Website: https://wemovechicago.com/self-storage-chicago/hyde-park-storage-spaces/
 - Email: hpss@wemovechicago.com
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa-Su 09:30-16:00
-- Pulse Score: 63.9/100 — Good — top 1% of self-storage facilitys in Chicago, #1 of 108 self-storage facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 66.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 1% of self-storage facilitys in Chicago, #1 of 108 self-storage facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 66.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hyde-park-self-storage-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hyde-park-self-storage-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hyde-park-self-storage-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hyde-park-self-storage-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210910826 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

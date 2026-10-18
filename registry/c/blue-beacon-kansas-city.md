@@ -13,12 +13,12 @@ Blue Beacon is a car wash in Kansas City, MO. Website: https://bluebeacon.com/lo
 - Website: https://bluebeacon.com/locations/listing/kansas-city-mo
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Building — top 77% of car washes in Kansas City, MO, #20 of 23 car washes in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 77% of car washes in Kansas City, MO, #20 of 23 car washes in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 58.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/blue-beacon-kansas-city/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/blue-beacon-kansas-city.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/blue-beacon-kansas-city/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/blue-beacon-kansas-city.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/229624735 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ M's Tailor & Cleaners is a tailor in Newport, MN at 1656 Hastings Avenue, Newpor
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 61% of tailors in Minneapolis–St. Paul, #1 of 1 tailors in Newport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 61% of tailors in Minneapolis–St. Paul, #1 of 1 tailors in Newport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 47.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ms-tailor-and-cleaners-newport/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ms-tailor-and-cleaners-newport.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ms-tailor-and-cleaners-newport/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ms-tailor-and-cleaners-newport.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/976814038 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

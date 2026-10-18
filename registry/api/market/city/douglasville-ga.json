@@ -2,7 +2,7 @@
  "title": "Keyword market data: Douglasville, GA",
  "description": "Top Douglasville, GA service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Douglasville, GA",
  "geography": "Atlanta-Sandy Springs-Roswell, GA metro",
  "keywords": 49,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage douglasville ga",
     "slug": "massage-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-douglasville-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash douglasville ga",
     "slug": "car-wash-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-douglasville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist douglasville ga",
     "slug": "dentist-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-douglasville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym douglasville ga",
     "slug": "gym-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-douglasville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon douglasville ga",
     "slug": "hair-salon-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-douglasville-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon douglasville ga",
     "slug": "nail-salon-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-douglasville-ga/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 19000,
@@ -101,7 +101,7 @@
    {
     "keyword": "plumber douglasville ga",
     "slug": "plumber-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-douglasville-ga/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic douglasville ga",
     "slug": "mechanic-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-douglasville-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop douglasville ga",
     "slug": "tire-shop-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-douglasville-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet douglasville ga",
     "slug": "vet-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-douglasville-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -161,7 +161,7 @@
    {
     "keyword": "dog groomer douglasville ga",
     "slug": "dog-groomer-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-douglasville-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -176,7 +176,7 @@
    {
     "keyword": "haircut douglasville ga",
     "slug": "haircut-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-douglasville-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -191,7 +191,7 @@
    {
     "keyword": "auto repair douglasville ga",
     "slug": "auto-repair-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-douglasville-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -206,7 +206,7 @@
    {
     "keyword": "financial advisor douglasville ga",
     "slug": "financial-advisor-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-douglasville-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -221,7 +221,7 @@
    {
     "keyword": "real estate agent douglasville ga",
     "slug": "real-estate-agent-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-douglasville-ga/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3800,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair douglasville ga",
     "slug": "hvac-repair-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-douglasville-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumbing services douglasville ga",
     "slug": "plumbing-services-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-douglasville-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -268,7 +268,7 @@
    {
     "keyword": "plumber douglasville ga",
     "slug": "plumber-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-douglasville-ga/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -283,7 +283,7 @@
    {
     "keyword": "roofing contractor douglasville ga",
     "slug": "roofing-contractor-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-douglasville-ga/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -298,7 +298,7 @@
    {
     "keyword": "roofer douglasville ga",
     "slug": "roofer-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofer-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofer-douglasville-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -313,7 +313,7 @@
    {
     "keyword": "attorney douglasville ga",
     "slug": "attorney-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-douglasville-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -328,7 +328,7 @@
    {
     "keyword": "lawyer douglasville ga",
     "slug": "lawyer-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-douglasville-ga/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 940,
@@ -343,7 +343,7 @@
    {
     "keyword": "window repair douglasville ga",
     "slug": "window-repair-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-repair-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-repair-douglasville-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -358,7 +358,7 @@
    {
     "keyword": "heating and air douglasville ga",
     "slug": "heating-and-air-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-douglasville-ga/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 68.0,
@@ -373,7 +373,7 @@
    {
     "keyword": "plumbers douglasville ga",
     "slug": "plumbers-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-douglasville-ga/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 68.0,
@@ -388,7 +388,7 @@
    {
     "keyword": "storage units douglasville ga",
     "slug": "storage-units-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-douglasville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -403,7 +403,7 @@
    {
     "keyword": "bakery douglasville ga",
     "slug": "bakery-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-douglasville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -418,7 +418,7 @@
    {
     "keyword": "event venues douglasville ga",
     "slug": "event-venues-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-douglasville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -433,7 +433,7 @@
    {
     "keyword": "florist douglasville ga",
     "slug": "florist-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-douglasville-ga/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 4200,
@@ -448,7 +448,7 @@
    {
     "keyword": "dance studio douglasville ga",
     "slug": "dance-studio-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-douglasville-ga/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 760,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage douglasville ga",
     "slug": "massage-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-douglasville-ga/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 95000,
@@ -480,7 +480,7 @@
    {
     "keyword": "plumber douglasville ga",
     "slug": "plumber-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-douglasville-ga/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 16000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist douglasville ga",
     "slug": "dentist-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-douglasville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash douglasville ga",
     "slug": "car-wash-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-douglasville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym douglasville ga",
     "slug": "gym-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-douglasville-ga/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 35000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic douglasville ga",
     "slug": "mechanic-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-douglasville-ga/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 13000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop douglasville ga",
     "slug": "tire-shop-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-douglasville-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet douglasville ga",
     "slug": "vet-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-douglasville-ga/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -585,7 +585,7 @@
    {
     "keyword": "dog groomer douglasville ga",
     "slug": "dog-groomer-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-douglasville-ga/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 8500,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut douglasville ga",
     "slug": "haircut-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-douglasville-ga/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7000,
@@ -615,7 +615,7 @@
    {
     "keyword": "roofing contractor douglasville ga",
     "slug": "roofing-contractor-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/roofing-contractor-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/roofing-contractor-douglasville-ga/",
     "us_monthly_searches": 135000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2600,
@@ -630,7 +630,7 @@
    {
     "keyword": "auto repair douglasville ga",
     "slug": "auto-repair-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-douglasville-ga/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5700,
@@ -645,7 +645,7 @@
    {
     "keyword": "hvac repair douglasville ga",
     "slug": "hvac-repair-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-douglasville-ga/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -660,7 +660,7 @@
    {
     "keyword": "financial advisor douglasville ga",
     "slug": "financial-advisor-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-douglasville-ga/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4700,
@@ -675,7 +675,7 @@
    {
     "keyword": "hair salon douglasville ga",
     "slug": "hair-salon-douglasville-ga",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-douglasville-ga/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-douglasville-ga/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 28000,

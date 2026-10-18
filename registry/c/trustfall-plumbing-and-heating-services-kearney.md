@@ -13,12 +13,12 @@ Trustfall Plumbing And Heating Services is a plumber in Kearney, MO at 12308 Wad
 - Website: https://www.trustfallplumbing.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 17% of plumbers in Kansas City, MO, #1 of 1 plumbers in Kearney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 17% of plumbers in Kansas City, MO, #1 of 1 plumbers in Kearney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 59.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/trustfall-plumbing-and-heating-services-kearney/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/trustfall-plumbing-and-heating-services-kearney.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/trustfall-plumbing-and-heating-services-kearney/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/trustfall-plumbing-and-heating-services-kearney.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12204861329 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

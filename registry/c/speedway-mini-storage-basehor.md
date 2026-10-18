@@ -13,12 +13,12 @@ Speedway Mini-Storage is a self-storage facility in Basehor, KS at 15394 Briar R
 - Website: https://www.speedwayministorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Kansas City, MO, #1 of 1 self-storage facilitys in Basehor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Kansas City, MO, #1 of 1 self-storage facilitys in Basehor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/speedway-mini-storage-basehor/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/speedway-mini-storage-basehor.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/speedway-mini-storage-basehor/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/speedway-mini-storage-basehor.json
 - Source: OpenStreetMap https://www.openstreetmap.org/relation/12593402 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

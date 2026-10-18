@@ -1,4 +1,4 @@
-The top unpaid nail salon listing for The Woodlands, TX is Gina Nails (a nail salon in The Woodlands, TX at 27180 Glen Loch Drive, The Woodlands, TX). 10 nail salon businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for The Woodlands, TX is Gina Nails (a nail salon in The Woodlands, TX at 27180 Glen Loch Drive, The Woodlands, TX). 10 nail salon businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in The Woodlands, TX?
 
@@ -6,16 +6,16 @@ Also answers: nail salon in The Woodlands, TX; nail salon near me (The Woodlands
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gina Nails | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Gina Nails is a nail salon in The Woodlands, TX at 27180 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/gina-nails-the-woodlands/
-2. Just Nails | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Just Nails is a nail salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/just-nails-the-woodlands/
-3. Nails & Spa Today | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Nails & Spa Today is a nail salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/nails-and-spa-today-the-woodlands/
-4. Phenomenails | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Phenomenails is a nail salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/phenomenails-the-woodlands/
-5. ShaTiff Nails & Spa | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | ShaTiff Nails & Spa is a nail salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/shatiff-nails-and-spa-the-woodlands/
-6. Topcoat Nail Boutique | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Topcoat Nail Boutique is a nail salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/topcoat-nail-boutique-the-woodlands/
-7. Tweez Nailz | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Tweez Nailz is a nail salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/tweez-nailz-the-woodlands/
-8. N Luxe | Organic #8 | Pulse Score 53.2/100 (Unrated, #2 in city) | N Luxe is a skin care studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/n-luxe-the-woodlands/
-9. Nails of America | Organic #9 | Pulse Score 43.4/100 (Unrated, #8 in city) | Nails of America is a nail salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/nails-of-america-the-woodlands/
-10. Regal Nails | Organic #10 | Pulse Score 42.3/100 (Unrated, #9 in city) | Regal Nails is a nail salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/regal-nails-the-woodlands/
+1. Gina Nails | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Gina Nails is a nail salon in The Woodlands, TX at 27180 Glen Loch Drive, The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/gina-nails-the-woodlands/
+2. Just Nails | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Just Nails is a nail salon in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/just-nails-the-woodlands/
+3. Nails & Spa Today | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Nails & Spa Today is a nail salon in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/nails-and-spa-today-the-woodlands/
+4. Phenomenails | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Phenomenails is a nail salon in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/phenomenails-the-woodlands/
+5. ShaTiff Nails & Spa | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | ShaTiff Nails & Spa is a nail salon in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/shatiff-nails-and-spa-the-woodlands/
+6. Topcoat Nail Boutique | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Topcoat Nail Boutique is a nail salon in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/topcoat-nail-boutique-the-woodlands/
+7. Tweez Nailz | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Tweez Nailz is a nail salon in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/tweez-nailz-the-woodlands/
+8. N Luxe | Organic #8 | Pulse Score 53.2/100 (Unrated, #2 in city) | N Luxe is a skin care studio in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/n-luxe-the-woodlands/
+9. Nails of America | Organic #9 | Pulse Score 43.4/100 (Unrated, #8 in city) | Nails of America is a nail salon in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/nails-of-america-the-woodlands/
+10. Regal Nails | Organic #10 | Pulse Score 42.3/100 (Unrated, #9 in city) | Regal Nails is a nail salon in The Woodlands, TX. | https://registry-edge.dingalinged.workers.dev/c/regal-nails-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon the woodlands tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
@@ -29,6 +29,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-the-woodlands-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/nail-salon.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#nail-salon-the-woodlands-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

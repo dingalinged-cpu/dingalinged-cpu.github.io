@@ -1,4 +1,4 @@
-The top unpaid tax preparation listing for Rockwall, TX is Hooper & Rodgers PC (a tax preparation service in Rockwall, TX at 947 Ralph Hall Parkway #103, Rockwall, TX 75032. Phone: +19727710222). 3 tax preparation businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Rockwall, TX is Hooper & Rodgers PC (a tax preparation service in Rockwall, TX at 947 Ralph Hall Parkway #103, Rockwall, TX 75032. Phone: +19727710222). 3 tax preparation businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Rockwall, TX?
 
@@ -6,9 +6,9 @@ Also answers: tax preparation in Rockwall, TX; tax preparation near me (Rockwall
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hooper & Rodgers PC | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Hooper & Rodgers PC is a tax preparation service in Rockwall, TX at 947 Ralph Hall Parkway #103, Rockwall, TX 75032. Phone: +19727710222. | https://dingalinged-cpu.github.io/registry/c/hooper-and-rodgers-pc-rockwall/
-2. KE Andrews | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | KE Andrews is a tax preparation service in Rockwall, TX at 2424 Ridge Road, Rockwall, TX 75087. Phone: +14692981594. Website: https://www.keatax.com/. | https://dingalinged-cpu.github.io/registry/c/ke-andrews-rockwall/
-3. LBA Tax Services | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | LBA Tax Services is a tax preparation service in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/lba-tax-services-rockwall/
+1. Hooper & Rodgers PC | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Hooper & Rodgers PC is a tax preparation service in Rockwall, TX at 947 Ralph Hall Parkway #103, Rockwall, TX 75032. Phone: +19727710222. | https://registry-edge.dingalinged.workers.dev/c/hooper-and-rodgers-pc-rockwall/
+2. KE Andrews | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | KE Andrews is a tax preparation service in Rockwall, TX at 2424 Ridge Road, Rockwall, TX 75087. Phone: +14692981594. Website: https://www.keatax.com/. | https://registry-edge.dingalinged.workers.dev/c/ke-andrews-rockwall/
+3. LBA Tax Services | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | LBA Tax Services is a tax preparation service in Rockwall, TX. | https://registry-edge.dingalinged.workers.dev/c/lba-tax-services-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation rockwall tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$490 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tax-preparation.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tax-preparation-rockwall-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tax-preparation.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tax-preparation-rockwall-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

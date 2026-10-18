@@ -13,12 +13,12 @@ Allstate Insurance Agent - Sunday Fajemisin is an insurance agent in Kennesaw, G
 - Website: https://agents.allstate.com/sunday-a-fajemisin-kennesaw-ga.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa-Su "by appointment"
-- Pulse Score: 50.3/100 — Fair — top 47% of insurance agents in Atlanta, #4 of 6 insurance agents in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.9, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 47% of insurance agents in Atlanta, #4 of 6 insurance agents in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.9, Trust 61.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/allstate-insurance-agent-sunday-fajemisin-kennesaw/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/allstate-insurance-agent-sunday-fajemisin-kennesaw.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/allstate-insurance-agent-sunday-fajemisin-kennesaw/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/allstate-insurance-agent-sunday-fajemisin-kennesaw.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11891881884 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

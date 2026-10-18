@@ -13,12 +13,12 @@ Professional & Self Storage Warehouse is a self-storage facility in Forsyth Coun
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 11% of self-storage facilitys in Atlanta, #1 of 4 self-storage facilitys in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 51.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 11% of self-storage facilitys in Atlanta, #1 of 4 self-storage facilitys in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 51.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/professional-and-self-storage-warehouse-forsyth-county/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/professional-and-self-storage-warehouse-forsyth-county.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/professional-and-self-storage-warehouse-forsyth-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/professional-and-self-storage-warehouse-forsyth-county.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/413040770 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Danny Nguyen Couture is a tailor in Houston, TX at 6834 Wilcrest Drive, Houston,
 - Website: https://www.dannynguyencouture.com/
 - Email: dnc@dncouture.com
 - Opening hours (OSM syntax): Mo-Sa 11:00-17:00; Su 11:00-16:00
-- Pulse Score: 64.5/100 — Good — top 11% of tailors in Houston, #2 of 18 tailors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 64.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 11% of tailors in Houston, #2 of 18 tailors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 64.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/danny-nguyen-couture-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/danny-nguyen-couture-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/danny-nguyen-couture-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/danny-nguyen-couture-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13431462588 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

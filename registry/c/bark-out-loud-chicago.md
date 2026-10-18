@@ -13,12 +13,12 @@ Bark Out Loud is a dog groomer in Chicago, IL at 5232 West Irving Park Road, Chi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 50% of dog groomers in Chicago, #9 of 16 dog groomers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 50% of dog groomers in Chicago, #9 of 16 dog groomers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 46.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/bark-out-loud-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/bark-out-loud-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/bark-out-loud-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/bark-out-loud-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162644621 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

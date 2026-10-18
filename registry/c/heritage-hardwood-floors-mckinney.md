@@ -13,12 +13,12 @@ Heritage Hardwood Floors is a flooring company in McKinney, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 67% of flooring companys in Dallas–Fort Worth, #3 of 5 flooring companys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 39.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 67% of flooring companys in Dallas–Fort Worth, #3 of 5 flooring companys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 39.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/heritage-hardwood-floors-mckinney/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/heritage-hardwood-floors-mckinney.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/heritage-hardwood-floors-mckinney/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/heritage-hardwood-floors-mckinney.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/495945555 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Discount Tire is a tire shop in Grapevine, TX at 2055 West State Highway 114, Gr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Building — top 82% of tire shops in Dallas–Fort Worth, #2 of 2 tire shops in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 82% of tire shops in Dallas–Fort Worth, #2 of 2 tire shops in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 52.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/discount-tire-grapevine-w653239202/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/discount-tire-grapevine-w653239202.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/discount-tire-grapevine-w653239202/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/discount-tire-grapevine-w653239202.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/653239202 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

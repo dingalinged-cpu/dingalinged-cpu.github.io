@@ -1,4 +1,4 @@
-The top unpaid tailor listing for Flower Mound, TX is Custom Tailor (a tailor in Flower Mound, TX at 2221 Justin Road #115, Flower Mound, TX 75028. Phone: +19723172192. Website: https://www.customtailortx.com/). 5 tailor businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Flower Mound, TX is Custom Tailor (a tailor in Flower Mound, TX at 2221 Justin Road #115, Flower Mound, TX 75028. Phone: +19723172192. Website: https://www.customtailortx.com/). 5 tailor businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Flower Mound, TX?
 
@@ -6,11 +6,11 @@ Also answers: tailor in Flower Mound, TX; tailor near me (Flower Mound, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Custom Tailor | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Custom Tailor is a tailor in Flower Mound, TX at 2221 Justin Road #115, Flower Mound, TX 75028. Phone: +19723172192. Website: https://www.customtailortx.com/. | https://dingalinged-cpu.github.io/registry/c/custom-tailor-flower-mound/
-2. F.M. Tailor | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | F.M. Tailor is a tailor in Flower Mound, TX. Phone: +19728740633. | https://dingalinged-cpu.github.io/registry/c/f-m-tailor-flower-mound/
-3. Ahem Alterations | Organic #3 | Pulse Score 61.2/100 (Good, #3 in city) | Ahem Alterations is a tailor in Flower Mound, TX at 3341 Long Prairie Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/ahem-alterations-flower-mound/
-4. Lee Tailor | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Lee Tailor is a tailor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/lee-tailor-flower-mound/
-5. Star Tailor | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Star Tailor is a tailor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/star-tailor-flower-mound/
+1. Custom Tailor | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Custom Tailor is a tailor in Flower Mound, TX at 2221 Justin Road #115, Flower Mound, TX 75028. Phone: +19723172192. Website: https://www.customtailortx.com/. | https://registry-edge.dingalinged.workers.dev/c/custom-tailor-flower-mound/
+2. F.M. Tailor | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | F.M. Tailor is a tailor in Flower Mound, TX. Phone: +19728740633. | https://registry-edge.dingalinged.workers.dev/c/f-m-tailor-flower-mound/
+3. Ahem Alterations | Organic #3 | Pulse Score 61.2/100 (Good, #3 in city) | Ahem Alterations is a tailor in Flower Mound, TX at 3341 Long Prairie Road, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/ahem-alterations-flower-mound/
+4. Lee Tailor | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Lee Tailor is a tailor in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/lee-tailor-flower-mound/
+5. Star Tailor | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Star Tailor is a tailor in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/star-tailor-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor flower mound tx | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -23,6 +23,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,600 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tailor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tailor-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tailor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tailor-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

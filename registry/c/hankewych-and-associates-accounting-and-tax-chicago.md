@@ -13,12 +13,12 @@ Hankewych & Associates Accounting & Tax is an accountant in Chicago, IL at 945 N
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-15:00; Sa 09:00-13:00 "By appt"
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 48% of accountants in Chicago, #8 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 48% of accountants in Chicago, #8 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 50.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/hankewych-and-associates-accounting-and-tax-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hankewych-and-associates-accounting-and-tax-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/hankewych-and-associates-accounting-and-tax-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/hankewych-and-associates-accounting-and-tax-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9962776679 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

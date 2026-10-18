@@ -13,12 +13,12 @@ DeVries Animal Hospital is a veterinarian in Elmhurst, IL at 528 Spring Road, El
 - Website: https://www.devriesanimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 36% of veterinarians in Chicago, #1 of 1 veterinarians in Elmhurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 36% of veterinarians in Chicago, #1 of 1 veterinarians in Elmhurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 52.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/devries-animal-hospital-elmhurst/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/devries-animal-hospital-elmhurst.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/devries-animal-hospital-elmhurst/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/devries-animal-hospital-elmhurst.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/2375379363 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

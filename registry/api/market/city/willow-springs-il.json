@@ -2,7 +2,7 @@
  "title": "Keyword market data: Willow Springs, IL",
  "description": "Top Willow Springs, IL service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Willow Springs, IL",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 28,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage willow springs il",
     "slug": "massage-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-willow-springs-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash willow springs il",
     "slug": "car-wash-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-willow-springs-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -41,7 +41,7 @@
    {
     "keyword": "gym willow springs il",
     "slug": "gym-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-willow-springs-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -56,7 +56,7 @@
    {
     "keyword": "hair salon willow springs il",
     "slug": "hair-salon-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-willow-springs-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -71,7 +71,7 @@
    {
     "keyword": "dog groomer willow springs il",
     "slug": "dog-groomer-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-willow-springs-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut willow springs il",
     "slug": "haircut-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-willow-springs-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -101,7 +101,7 @@
    {
     "keyword": "spa willow springs il",
     "slug": "spa-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-willow-springs-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -116,7 +116,7 @@
    {
     "keyword": "real estate agent willow springs il",
     "slug": "real-estate-agent-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-willow-springs-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -131,7 +131,7 @@
    {
     "keyword": "insurance agency willow springs il",
     "slug": "insurance-agency-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-willow-springs-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -146,7 +146,7 @@
    {
     "keyword": "realtor willow springs il",
     "slug": "realtor-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-willow-springs-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -161,7 +161,7 @@
    {
     "keyword": "attorney willow springs il",
     "slug": "attorney-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-willow-springs-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -176,7 +176,7 @@
    {
     "keyword": "facial willow springs il",
     "slug": "facial-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-willow-springs-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -191,7 +191,7 @@
    {
     "keyword": "hvac repair willow springs il",
     "slug": "hvac-repair-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-willow-springs-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -206,7 +206,7 @@
    {
     "keyword": "insurance agents willow springs il",
     "slug": "insurance-agents-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agents-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agents-willow-springs-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -221,7 +221,7 @@
    {
     "keyword": "lawyer willow springs il",
     "slug": "lawyer-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-willow-springs-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair willow springs il",
     "slug": "hvac-repair-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-willow-springs-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney willow springs il",
     "slug": "attorney-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-willow-springs-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer willow springs il",
     "slug": "lawyer-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-willow-springs-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -283,7 +283,7 @@
    {
     "keyword": "heating and air willow springs il",
     "slug": "heating-and-air-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-willow-springs-il/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 99.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "caterers willow springs il",
     "slug": "caterers-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/caterers-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/caterers-willow-springs-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -313,7 +313,7 @@
    {
     "keyword": "event venues willow springs il",
     "slug": "event-venues-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/event-venues-willow-springs-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -328,7 +328,7 @@
    {
     "keyword": "accounting services willow springs il",
     "slug": "accounting-services-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accounting-services-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accounting-services-willow-springs-il/",
     "us_monthly_searches": 12100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -343,7 +343,7 @@
    {
     "keyword": "business consultant willow springs il",
     "slug": "business-consultant-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/business-consultant-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/business-consultant-willow-springs-il/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 500,
@@ -358,7 +358,7 @@
    {
     "keyword": "accountant willow springs il",
     "slug": "accountant-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-willow-springs-il/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 910,
@@ -373,7 +373,7 @@
    {
     "keyword": "therapist willow springs il",
     "slug": "therapist-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-willow-springs-il/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -388,7 +388,7 @@
    {
     "keyword": "facial willow springs il",
     "slug": "facial-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-willow-springs-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -403,7 +403,7 @@
    {
     "keyword": "haircut willow springs il",
     "slug": "haircut-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-willow-springs-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -418,7 +418,7 @@
    {
     "keyword": "massage willow springs il",
     "slug": "massage-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-willow-springs-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -433,7 +433,7 @@
    {
     "keyword": "spa willow springs il",
     "slug": "spa-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-willow-springs-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -448,7 +448,7 @@
    {
     "keyword": "tattoo shop willow springs il",
     "slug": "tattoo-shop-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tattoo-shop-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-willow-springs-il/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 26000,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage willow springs il",
     "slug": "massage-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-willow-springs-il/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 140000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash willow springs il",
     "slug": "car-wash-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-willow-springs-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -495,7 +495,7 @@
    {
     "keyword": "gym willow springs il",
     "slug": "gym-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-willow-springs-il/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -510,7 +510,7 @@
    {
     "keyword": "dog groomer willow springs il",
     "slug": "dog-groomer-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-willow-springs-il/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -525,7 +525,7 @@
    {
     "keyword": "haircut willow springs il",
     "slug": "haircut-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-willow-springs-il/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -540,7 +540,7 @@
    {
     "keyword": "hvac repair willow springs il",
     "slug": "hvac-repair-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-willow-springs-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -555,7 +555,7 @@
    {
     "keyword": "spa willow springs il",
     "slug": "spa-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-willow-springs-il/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6800,
@@ -570,7 +570,7 @@
    {
     "keyword": "hair salon willow springs il",
     "slug": "hair-salon-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-willow-springs-il/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -585,7 +585,7 @@
    {
     "keyword": "attorney willow springs il",
     "slug": "attorney-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-willow-springs-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -600,7 +600,7 @@
    {
     "keyword": "real estate agent willow springs il",
     "slug": "real-estate-agent-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-willow-springs-il/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5500,
@@ -615,7 +615,7 @@
    {
     "keyword": "lawyer willow springs il",
     "slug": "lawyer-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-willow-springs-il/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1400,
@@ -630,7 +630,7 @@
    {
     "keyword": "facial willow springs il",
     "slug": "facial-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/facial-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/facial-willow-springs-il/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -645,7 +645,7 @@
    {
     "keyword": "realtor willow springs il",
     "slug": "realtor-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-willow-springs-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -660,7 +660,7 @@
    {
     "keyword": "insurance agency willow springs il",
     "slug": "insurance-agency-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-willow-springs-il/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -675,7 +675,7 @@
    {
     "keyword": "accountant willow springs il",
     "slug": "accountant-willow-springs-il",
-    "url": "https://dingalinged-cpu.github.io/registry/k/accountant-willow-springs-il/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/accountant-willow-springs-il/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 910,

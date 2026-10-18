@@ -13,12 +13,12 @@ Ly Massage is a massage studio in Cobb County, GA at 2520 East Piedmont Road Nor
 - Website: https://lymassage.wixsite.com/30062
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:30-21:00
-- Pulse Score: 63.6/100 — Good — top 7% of massage studios in Atlanta, #4 of 18 massage studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 7% of massage studios in Atlanta, #4 of 18 massage studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 62.4. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/ly-massage-cobb-county/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ly-massage-cobb-county.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/ly-massage-cobb-county/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/ly-massage-cobb-county.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/3578675939 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

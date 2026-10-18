@@ -13,12 +13,12 @@ Haute Dog Spa is a dog groomer in Edina, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment only"
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 59% of dog groomers in Minneapolis–St. Paul, #1 of 1 dog groomers in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 59% of dog groomers in Minneapolis–St. Paul, #1 of 1 dog groomers in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 45.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/haute-dog-spa-edina/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/haute-dog-spa-edina.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/haute-dog-spa-edina/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/haute-dog-spa-edina.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/11449400291 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

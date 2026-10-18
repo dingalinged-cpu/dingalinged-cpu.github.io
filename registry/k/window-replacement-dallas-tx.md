@@ -1,4 +1,4 @@
-The top unpaid window replacement listing for Dallas, TX is Southwest Door & Window (a window installer in Dallas, TX at 10255 Miller Rd, Dallas, TX 75238. Phone: +12143412212. Website: https://southwestdw.com/). 4 window replacement businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid window replacement listing for Dallas, TX is Southwest Door & Window (a window installer in Dallas, TX at 10255 Miller Rd, Dallas, TX 75238. Phone: +12143412212. Website: https://southwestdw.com/). 4 window replacement businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window replacement providers in Dallas, TX?
 
@@ -6,10 +6,10 @@ Also answers: window replacement in Dallas, TX; window replacement near me (Dall
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southwest Door & Window | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Southwest Door & Window is a window installer in Dallas, TX at 10255 Miller Rd, Dallas, TX 75238. Phone: +12143412212. Website: https://southwestdw.com/. | https://dingalinged-cpu.github.io/registry/c/southwest-door-and-window-dallas/
-2. Foster Exteriors Window Company | Organic #2 | Pulse Score 63.8/100 (Good, #2 in city) | Foster Exteriors Window Company is a window installer in Dallas, TX at 1350 North Buckner Boulevard ##216, Dallas, TX 75218. Phone: +12143198400. Website: https://www.fosterexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/foster-exteriors-window-company-dallas/
-3. Century Glass | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Century Glass is a window installer in Dallas, TX at 1417 North Washington Avenue, Dallas, TX. Website: https://centuryglassdallas.com/. | https://dingalinged-cpu.github.io/registry/c/century-glass-dallas/
-4. Curtain Couture | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Curtain Couture is a window installer in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/curtain-couture-dallas/
+1. Southwest Door & Window | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Southwest Door & Window is a window installer in Dallas, TX at 10255 Miller Rd, Dallas, TX 75238. Phone: +12143412212. Website: https://southwestdw.com/. | https://registry-edge.dingalinged.workers.dev/c/southwest-door-and-window-dallas/
+2. Foster Exteriors Window Company | Organic #2 | Pulse Score 63.8/100 (Good, #2 in city) | Foster Exteriors Window Company is a window installer in Dallas, TX at 1350 North Buckner Boulevard ##216, Dallas, TX 75218. Phone: +12143198400. Website: https://www.fosterexteriors.com/. | https://registry-edge.dingalinged.workers.dev/c/foster-exteriors-window-company-dallas/
+3. Century Glass | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Century Glass is a window installer in Dallas, TX at 1417 North Washington Avenue, Dallas, TX. Website: https://centuryglassdallas.com/. | https://registry-edge.dingalinged.workers.dev/c/century-glass-dallas/
+4. Curtain Couture | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Curtain Couture is a window installer in Dallas, TX. | https://registry-edge.dingalinged.workers.dev/c/curtain-couture-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement dallas tx | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,100 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/window-replacement.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#window-replacement-dallas-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/window-replacement.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#window-replacement-dallas-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

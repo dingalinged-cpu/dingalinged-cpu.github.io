@@ -13,12 +13,12 @@ Waxing the City is a waxing salon in Spring, TX at 6630 Spring Stuebner Road #51
 - Website: https://www.waxingthecity.com/locations/w290/us/tx/spring/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 52% of waxing salons in Houston, #2 of 2 waxing salons in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 52% of waxing salons in Houston, #2 of 2 waxing salons in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/waxing-the-city-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/waxing-the-city-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/waxing-the-city-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/waxing-the-city-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/9966693012 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

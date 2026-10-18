@@ -13,12 +13,12 @@ Innovative Primary Care is a family medicine practice in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.4/100 — Unrated (not enough evidence yet) — top 84% of family medicine practices in Chicago, #13 of 16 family medicine practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 57.9, Trust 37.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.4/100 — Unrated (not enough evidence yet) — top 84% of family medicine practices in Chicago, #13 of 16 family medicine practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 57.9, Trust 37.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/innovative-primary-care-chicago-n12150189309/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/innovative-primary-care-chicago-n12150189309.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/innovative-primary-care-chicago-n12150189309/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/innovative-primary-care-chicago-n12150189309.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12150189309 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

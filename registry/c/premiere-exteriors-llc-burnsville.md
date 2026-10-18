@@ -13,12 +13,12 @@ Premiere Exteriors, LLC is a business consultant in Burnsville, MN at 12235 Wood
 - Website: https://premiereexteriors.us/
 - Email: cnelson@premiereexteriors.us
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 9% of business consultants in Minneapolis–St. Paul, #1 of 1 business consultants in Burnsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 9% of business consultants in Minneapolis–St. Paul, #1 of 1 business consultants in Burnsville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/premiere-exteriors-llc-burnsville/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/premiere-exteriors-llc-burnsville.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/premiere-exteriors-llc-burnsville/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/premiere-exteriors-llc-burnsville.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/10281639029 (license ODbL-1.0); source data as of 2026-05-31
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

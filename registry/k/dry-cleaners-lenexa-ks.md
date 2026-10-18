@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for Lenexa, KS is Nature's Touch Cleaners (a dry cleaner in Lenexa, KS at 10117 Stevenson Street, Lenexa, KS 66220. Phone: +19137801877. Website: https://www.naturestouchkc.com/). 3 dry cleaners businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Lenexa, KS is Nature's Touch Cleaners (a dry cleaner in Lenexa, KS at 10117 Stevenson Street, Lenexa, KS 66220. Phone: +19137801877. Website: https://www.naturestouchkc.com/). 3 dry cleaners businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Lenexa, KS?
 
@@ -6,9 +6,9 @@ Also answers: dry cleaners in Lenexa, KS; dry cleaners near me (Lenexa, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nature's Touch Cleaners | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Nature's Touch Cleaners is a dry cleaner in Lenexa, KS at 10117 Stevenson Street, Lenexa, KS 66220. Phone: +19137801877. Website: https://www.naturestouchkc.com/. | https://dingalinged-cpu.github.io/registry/c/natures-touch-cleaners-lenexa/
-2. Pride Cleaners - Country Hill | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Pride Cleaners - Country Hill is a dry cleaner in Lenexa, KS at 8740 Lackman Road, Lenexa, KS 66219. Phone: +19134923011. Website: https://www.pridecleaners.com/. | https://dingalinged-cpu.github.io/registry/c/pride-cleaners-country-hill-lenexa/
-3. Oak Park Cleaners | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Oak Park Cleaners is a dry cleaner in Lenexa, KS. | https://dingalinged-cpu.github.io/registry/c/oak-park-cleaners-lenexa/
+1. Nature's Touch Cleaners | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Nature's Touch Cleaners is a dry cleaner in Lenexa, KS at 10117 Stevenson Street, Lenexa, KS 66220. Phone: +19137801877. Website: https://www.naturestouchkc.com/. | https://registry-edge.dingalinged.workers.dev/c/natures-touch-cleaners-lenexa/
+2. Pride Cleaners - Country Hill | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Pride Cleaners - Country Hill is a dry cleaner in Lenexa, KS at 8740 Lackman Road, Lenexa, KS 66219. Phone: +19134923011. Website: https://www.pridecleaners.com/. | https://registry-edge.dingalinged.workers.dev/c/pride-cleaners-country-hill-lenexa/
+3. Oak Park Cleaners | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Oak Park Cleaners is a dry cleaner in Lenexa, KS. | https://registry-edge.dingalinged.workers.dev/c/oak-park-cleaners-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners lenexa ks | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$420 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners-lenexa-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dry-cleaners.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dry-cleaners-lenexa-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

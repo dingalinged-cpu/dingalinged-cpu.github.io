@@ -2,7 +2,7 @@
  "title": "Keyword market data: Maple Grove, MN",
  "description": "Top Maple Grove, MN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Maple Grove, MN",
  "geography": "Minneapolis-St. Paul-Bloomington, MN-WI metro",
  "keywords": 50,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage maple grove mn",
     "slug": "massage-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-maple-grove-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -26,7 +26,7 @@
    {
     "keyword": "urgent care maple grove mn",
     "slug": "urgent-care-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-maple-grove-mn/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 30000,
@@ -41,7 +41,7 @@
    {
     "keyword": "car wash maple grove mn",
     "slug": "car-wash-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-maple-grove-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -56,7 +56,7 @@
    {
     "keyword": "dentist maple grove mn",
     "slug": "dentist-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-maple-grove-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -71,7 +71,7 @@
    {
     "keyword": "gym maple grove mn",
     "slug": "gym-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-maple-grove-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -86,7 +86,7 @@
    {
     "keyword": "hair salon maple grove mn",
     "slug": "hair-salon-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-maple-grove-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -101,7 +101,7 @@
    {
     "keyword": "nail salon maple grove mn",
     "slug": "nail-salon-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-maple-grove-mn/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -116,7 +116,7 @@
    {
     "keyword": "mechanic maple grove mn",
     "slug": "mechanic-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-maple-grove-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -131,7 +131,7 @@
    {
     "keyword": "tire shop maple grove mn",
     "slug": "tire-shop-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-maple-grove-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -146,7 +146,7 @@
    {
     "keyword": "vet maple grove mn",
     "slug": "vet-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-maple-grove-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -161,7 +161,7 @@
    {
     "keyword": "haircut maple grove mn",
     "slug": "haircut-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-maple-grove-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -176,7 +176,7 @@
    {
     "keyword": "auto repair maple grove mn",
     "slug": "auto-repair-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-maple-grove-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -191,7 +191,7 @@
    {
     "keyword": "chiropractor maple grove mn",
     "slug": "chiropractor-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-maple-grove-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -206,7 +206,7 @@
    {
     "keyword": "dog boarding maple grove mn",
     "slug": "dog-boarding-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-maple-grove-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -221,7 +221,7 @@
    {
     "keyword": "locksmith maple grove mn",
     "slug": "locksmith-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-maple-grove-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -238,7 +238,7 @@
    {
     "keyword": "attorney maple grove mn",
     "slug": "attorney-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-maple-grove-mn/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 820,
@@ -253,7 +253,7 @@
    {
     "keyword": "lawyer maple grove mn",
     "slug": "lawyer-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-maple-grove-mn/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 550,
@@ -268,7 +268,7 @@
    {
     "keyword": "flooring companies maple grove mn",
     "slug": "flooring-companies-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-maple-grove-mn/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 200,
@@ -283,7 +283,7 @@
    {
     "keyword": "locksmith maple grove mn",
     "slug": "locksmith-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-maple-grove-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -298,7 +298,7 @@
    {
     "keyword": "storage units maple grove mn",
     "slug": "storage-units-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-maple-grove-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -313,7 +313,7 @@
    {
     "keyword": "bakery maple grove mn",
     "slug": "bakery-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-maple-grove-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -328,7 +328,7 @@
    {
     "keyword": "florist maple grove mn",
     "slug": "florist-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-maple-grove-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -343,7 +343,7 @@
    {
     "keyword": "staffing agency maple grove mn",
     "slug": "staffing-agency-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/staffing-agency-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/staffing-agency-maple-grove-mn/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1600,
@@ -358,7 +358,7 @@
    {
     "keyword": "tax preparer maple grove mn",
     "slug": "tax-preparer-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-maple-grove-mn/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 670,
@@ -373,7 +373,7 @@
    {
     "keyword": "daycare maple grove mn",
     "slug": "daycare-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-maple-grove-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -388,7 +388,7 @@
    {
     "keyword": "preschool maple grove mn",
     "slug": "preschool-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-maple-grove-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -403,7 +403,7 @@
    {
     "keyword": "chiropractor maple grove mn",
     "slug": "chiropractor-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-maple-grove-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -418,7 +418,7 @@
    {
     "keyword": "plastic surgeon maple grove mn",
     "slug": "plastic-surgeon-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plastic-surgeon-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plastic-surgeon-maple-grove-mn/",
     "us_monthly_searches": 33000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 370,
@@ -433,7 +433,7 @@
    {
     "keyword": "therapist maple grove mn",
     "slug": "therapist-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/therapist-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/therapist-maple-grove-mn/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2400,
@@ -448,7 +448,7 @@
    {
     "keyword": "urgent care maple grove mn",
     "slug": "urgent-care-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-maple-grove-mn/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 30000,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage maple grove mn",
     "slug": "massage-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-maple-grove-mn/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 55000,
@@ -480,7 +480,7 @@
    {
     "keyword": "urgent care maple grove mn",
     "slug": "urgent-care-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/urgent-care-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/urgent-care-maple-grove-mn/",
     "us_monthly_searches": 2740000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 30000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist maple grove mn",
     "slug": "dentist-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-maple-grove-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash maple grove mn",
     "slug": "car-wash-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-maple-grove-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym maple grove mn",
     "slug": "gym-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-maple-grove-mn/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic maple grove mn",
     "slug": "mechanic-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-maple-grove-mn/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop maple grove mn",
     "slug": "tire-shop-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-maple-grove-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet maple grove mn",
     "slug": "vet-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-maple-grove-mn/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -585,7 +585,7 @@
    {
     "keyword": "locksmith maple grove mn",
     "slug": "locksmith-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/locksmith-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/locksmith-maple-grove-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut maple grove mn",
     "slug": "haircut-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-maple-grove-mn/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4100,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair maple grove mn",
     "slug": "auto-repair-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-maple-grove-mn/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 3300,
@@ -630,7 +630,7 @@
    {
     "keyword": "chiropractor maple grove mn",
     "slug": "chiropractor-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-maple-grove-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -645,7 +645,7 @@
    {
     "keyword": "spa maple grove mn",
     "slug": "spa-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/spa-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/spa-maple-grove-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -660,7 +660,7 @@
    {
     "keyword": "dog boarding maple grove mn",
     "slug": "dog-boarding-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-boarding-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-boarding-maple-grove-mn/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2700,
@@ -675,7 +675,7 @@
    {
     "keyword": "hair salon maple grove mn",
     "slug": "hair-salon-maple-grove-mn",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-maple-grove-mn/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-maple-grove-mn/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,

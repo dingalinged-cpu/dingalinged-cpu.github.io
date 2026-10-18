@@ -13,12 +13,12 @@ Luxhair US is a hair salon in Arlington Heights, IL at 4236 Terramere Plaza, Arl
 - Website: https://luxhairusllc.com/
 - Email: luxhair.us@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00
-- Pulse Score: 65.2/100 — Good — top 1% of hair salons in Chicago, #1 of 13 hair salons in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 1% of hair salons in Chicago, #1 of 13 hair salons in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/luxhair-us-arlington-heights/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/luxhair-us-arlington-heights.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/luxhair-us-arlington-heights/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/luxhair-us-arlington-heights.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13811721713 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

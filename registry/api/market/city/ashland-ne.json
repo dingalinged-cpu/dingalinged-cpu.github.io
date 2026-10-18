@@ -2,7 +2,7 @@
  "title": "Keyword market data: Ashland, NE",
  "description": "Top Ashland, NE service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Ashland, NE",
  "geography": "Omaha, NE-IA metro",
  "keywords": 16,
@@ -11,7 +11,7 @@
    {
     "keyword": "dentist ashland ne",
     "slug": "dentist-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-ashland-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym ashland ne",
     "slug": "gym-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-ashland-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -41,7 +41,7 @@
    {
     "keyword": "mechanic ashland ne",
     "slug": "mechanic-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-ashland-ne/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -56,7 +56,7 @@
    {
     "keyword": "auto repair ashland ne",
     "slug": "auto-repair-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-ashland-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -71,7 +71,7 @@
    {
     "keyword": "chiropractor ashland ne",
     "slug": "chiropractor-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-ashland-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -86,7 +86,7 @@
    {
     "keyword": "attorney ashland ne",
     "slug": "attorney-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-ashland-ne/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -101,7 +101,7 @@
    {
     "keyword": "lawyer ashland ne",
     "slug": "lawyer-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-ashland-ne/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -118,7 +118,7 @@
    {
     "keyword": "attorney ashland ne",
     "slug": "attorney-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-ashland-ne/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -133,7 +133,7 @@
    {
     "keyword": "lawyer ashland ne",
     "slug": "lawyer-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-ashland-ne/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,
@@ -148,7 +148,7 @@
    {
     "keyword": "florist ashland ne",
     "slug": "florist-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-ashland-ne/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -163,7 +163,7 @@
    {
     "keyword": "chiropractor ashland ne",
     "slug": "chiropractor-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-ashland-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -178,7 +178,7 @@
    {
     "keyword": "eye doctor ashland ne",
     "slug": "eye-doctor-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/eye-doctor-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/eye-doctor-ashland-ne/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -193,7 +193,7 @@
    {
     "keyword": "dentist ashland ne",
     "slug": "dentist-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-ashland-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -208,7 +208,7 @@
    {
     "keyword": "tattoo shop ashland ne",
     "slug": "tattoo-shop-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tattoo-shop-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tattoo-shop-ashland-ne/",
     "us_monthly_searches": 930000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 2700,
@@ -223,7 +223,7 @@
    {
     "keyword": "auto repair ashland ne",
     "slug": "auto-repair-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-ashland-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -238,7 +238,7 @@
    {
     "keyword": "mechanic ashland ne",
     "slug": "mechanic-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-ashland-ne/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -253,7 +253,7 @@
    {
     "keyword": "furniture store ashland ne",
     "slug": "furniture-store-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/furniture-store-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/furniture-store-ashland-ne/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 410,
@@ -268,7 +268,7 @@
    {
     "keyword": "gift shop ashland ne",
     "slug": "gift-shop-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gift-shop-ashland-ne/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 53.0,
@@ -283,7 +283,7 @@
    {
     "keyword": "jewelry store ashland ne",
     "slug": "jewelry-store-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/jewelry-store-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/jewelry-store-ashland-ne/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 410,
@@ -298,7 +298,7 @@
    {
     "keyword": "liquor store ashland ne",
     "slug": "liquor-store-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/liquor-store-ashland-ne/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 410,
@@ -313,7 +313,7 @@
    {
     "keyword": "funeral home ashland ne",
     "slug": "funeral-home-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/funeral-home-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/funeral-home-ashland-ne/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 650,
@@ -328,7 +328,7 @@
    {
     "keyword": "it support ashland ne",
     "slug": "it-support-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/it-support-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/it-support-ashland-ne/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 120,
@@ -345,7 +345,7 @@
    {
     "keyword": "dentist ashland ne",
     "slug": "dentist-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-ashland-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -360,7 +360,7 @@
    {
     "keyword": "gym ashland ne",
     "slug": "gym-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-ashland-ne/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5400,
@@ -375,7 +375,7 @@
    {
     "keyword": "mechanic ashland ne",
     "slug": "mechanic-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-ashland-ne/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -390,7 +390,7 @@
    {
     "keyword": "auto repair ashland ne",
     "slug": "auto-repair-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-ashland-ne/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 890,
@@ -405,7 +405,7 @@
    {
     "keyword": "chiropractor ashland ne",
     "slug": "chiropractor-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-ashland-ne/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 730,
@@ -420,7 +420,7 @@
    {
     "keyword": "attorney ashland ne",
     "slug": "attorney-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-ashland-ne/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 220,
@@ -435,7 +435,7 @@
    {
     "keyword": "lawyer ashland ne",
     "slug": "lawyer-ashland-ne",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-ashland-ne/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-ashland-ne/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 150,

@@ -13,12 +13,12 @@ Family First Chiropractic is a chiropractor in White Bear Lake, MN at 1247 Gun C
 - Website: https://www.myfamilyfirstchiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 53% of chiropractors in Minneapolis–St. Paul, #2 of 3 chiropractors in White Bear Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 49.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 53% of chiropractors in Minneapolis–St. Paul, #2 of 3 chiropractors in White Bear Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 49.6. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/family-first-chiropractic-white-bear-lake/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/family-first-chiropractic-white-bear-lake.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/family-first-chiropractic-white-bear-lake/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/family-first-chiropractic-white-bear-lake.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1087016790 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

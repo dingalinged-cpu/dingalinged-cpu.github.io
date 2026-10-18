@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Bedford, TX is Beelman Dental (a dentist in Bedford, TX at 308 Harwood Road, Bedford, TX 76021. Phone: +18172821241. Website: https://www.beelmandental.com/). 10 dentist businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Bedford, TX is Beelman Dental (a dentist in Bedford, TX at 308 Harwood Road, Bedford, TX 76021. Phone: +18172821241. Website: https://www.beelmandental.com/). 10 dentist businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Bedford, TX?
 
@@ -6,16 +6,16 @@ Also answers: dentist in Bedford, TX; dentist near me (Bedford, TX); best dentis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beelman Dental | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Beelman Dental is a dentist in Bedford, TX at 308 Harwood Road, Bedford, TX 76021. Phone: +18172821241. Website: https://www.beelmandental.com/. | https://dingalinged-cpu.github.io/registry/c/beelman-dental-bedford/
-2. Shine Bright Dentistry | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Shine Bright Dentistry is a dentist in Bedford, TX at 3212 Harwood Road, Bedford, TX 76021. Phone: +18177788822. Website: https://www.shinebrightdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/shine-bright-dentistry-bedford/
-3. Nirvana Dental | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Nirvana Dental is a dentist in Bedford, TX at 3704 Cheek Sparger Road #100, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/nirvana-dental-bedford/
-4. Trinity Dental Care | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Trinity Dental Care is a dentist in Bedford, TX. Website: https://www.trinitysmile.com/. | https://dingalinged-cpu.github.io/registry/c/trinity-dental-care-bedford/
-5. Davis Family Dental Care | Organic #5 | Pulse Score 56.7/100 (Unrated, #5 in city) | Davis Family Dental Care is a dentist in Bedford, TX at 2213 Harwood Road, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/davis-family-dental-care-bedford/
-6. Floss & Gloss | Organic #6 | Pulse Score 56.7/100 (Unrated, #6 in city) | Floss & Gloss is a dentist in Bedford, TX at 505 North Industrial Boulevard #800, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/floss-and-gloss-bedford/
-7. Anderson Dentistry | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Anderson Dentistry is a dentist in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/anderson-dentistry-bedford/
-8. Anderson Dentristry | Organic #8 | Pulse Score 54.5/100 (Unrated, #8 in city) | Anderson Dentristry is a dentist in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/anderson-dentristry-bedford/
-9. Jeffrey Corbet | Organic #9 | Pulse Score 54.5/100 (Unrated, #9 in city) | Jeffrey Corbet is a dentist in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/jeffrey-corbet-bedford/
-10. Shafin's Dentist | Organic #10 | Pulse Score 54.5/100 (Unrated, #10 in city) | Shafin's Dentist is a dentist in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/shafins-dentist-bedford/
+1. Beelman Dental | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Beelman Dental is a dentist in Bedford, TX at 308 Harwood Road, Bedford, TX 76021. Phone: +18172821241. Website: https://www.beelmandental.com/. | https://registry-edge.dingalinged.workers.dev/c/beelman-dental-bedford/
+2. Shine Bright Dentistry | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Shine Bright Dentistry is a dentist in Bedford, TX at 3212 Harwood Road, Bedford, TX 76021. Phone: +18177788822. Website: https://www.shinebrightdentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/shine-bright-dentistry-bedford/
+3. Nirvana Dental | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Nirvana Dental is a dentist in Bedford, TX at 3704 Cheek Sparger Road #100, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/nirvana-dental-bedford/
+4. Trinity Dental Care | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Trinity Dental Care is a dentist in Bedford, TX. Website: https://www.trinitysmile.com/. | https://registry-edge.dingalinged.workers.dev/c/trinity-dental-care-bedford/
+5. Davis Family Dental Care | Organic #5 | Pulse Score 56.7/100 (Unrated, #5 in city) | Davis Family Dental Care is a dentist in Bedford, TX at 2213 Harwood Road, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/davis-family-dental-care-bedford/
+6. Floss & Gloss | Organic #6 | Pulse Score 56.7/100 (Unrated, #6 in city) | Floss & Gloss is a dentist in Bedford, TX at 505 North Industrial Boulevard #800, Bedford, TX 76021. | https://registry-edge.dingalinged.workers.dev/c/floss-and-gloss-bedford/
+7. Anderson Dentistry | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Anderson Dentistry is a dentist in Bedford, TX. | https://registry-edge.dingalinged.workers.dev/c/anderson-dentistry-bedford/
+8. Anderson Dentristry | Organic #8 | Pulse Score 54.5/100 (Unrated, #8 in city) | Anderson Dentristry is a dentist in Bedford, TX. | https://registry-edge.dingalinged.workers.dev/c/anderson-dentristry-bedford/
+9. Jeffrey Corbet | Organic #9 | Pulse Score 54.5/100 (Unrated, #9 in city) | Jeffrey Corbet is a dentist in Bedford, TX. | https://registry-edge.dingalinged.workers.dev/c/jeffrey-corbet-bedford/
+10. Shafin's Dentist | Organic #10 | Pulse Score 54.5/100 (Unrated, #10 in city) | Shafin's Dentist is a dentist in Bedford, TX. | https://registry-edge.dingalinged.workers.dev/c/shafins-dentist-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist bedford tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -29,6 +29,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$12,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-bedford-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-bedford-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

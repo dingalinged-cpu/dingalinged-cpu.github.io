@@ -1,4 +1,4 @@
-The top unpaid pediatrician listing for Flower Mound, TX is Childrens Health Urgent Care (a pediatrician in Flower Mound, TX. Phone: +19726456767). 4 pediatrician businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Flower Mound, TX is Childrens Health Urgent Care (a pediatrician in Flower Mound, TX. Phone: +19726456767). 4 pediatrician businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Flower Mound, TX?
 
@@ -6,10 +6,10 @@ Also answers: pediatrician in Flower Mound, TX; pediatrician near me (Flower Mou
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Childrens Health Urgent Care | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Childrens Health Urgent Care is a pediatrician in Flower Mound, TX. Phone: +19726456767. | https://dingalinged-cpu.github.io/registry/c/childrens-health-urgent-care-flower-mound/
-2. 18 and Under MD | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | 18 and Under MD is a pediatrician in Flower Mound, TX at 3041 Churchill Drive, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/18-and-under-md-flower-mound/
-3. ABC pediatrics | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | ABC pediatrics is a pediatrician in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/abc-pediatrics-flower-mound/
-4. Cook Children's Pediatrics | Organic #4 | Pulse Score 50.1/100 (Fair, #4 in city) | Cook Children's Pediatrics is a pediatrician in Flower Mound, TX at 4001 Long Prairie Rd #140, Flower Mound, TX. Phone: +19726912388. | https://dingalinged-cpu.github.io/registry/c/cook-childrens-pediatrics-flower-mound/
+1. Childrens Health Urgent Care | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Childrens Health Urgent Care is a pediatrician in Flower Mound, TX. Phone: +19726456767. | https://registry-edge.dingalinged.workers.dev/c/childrens-health-urgent-care-flower-mound/
+2. 18 and Under MD | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | 18 and Under MD is a pediatrician in Flower Mound, TX at 3041 Churchill Drive, Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/18-and-under-md-flower-mound/
+3. ABC pediatrics | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | ABC pediatrics is a pediatrician in Flower Mound, TX. | https://registry-edge.dingalinged.workers.dev/c/abc-pediatrics-flower-mound/
+4. Cook Children's Pediatrics | Organic #4 | Pulse Score 50.1/100 (Fair, #4 in city) | Cook Children's Pediatrics is a pediatrician in Flower Mound, TX at 4001 Long Prairie Rd #140, Flower Mound, TX. Phone: +19726912388. | https://registry-edge.dingalinged.workers.dev/c/cook-childrens-pediatrics-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician flower mound tx | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$700 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pediatrician.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pediatrician-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/pediatrician.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#pediatrician-flower-mound-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

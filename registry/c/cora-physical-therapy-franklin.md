@@ -13,12 +13,12 @@ Cora Physical Therapy is a physical therapy clinic in Franklin, WI at 7740 South
 - Website: https://coraphysicaltherapy.com/location/franklin-wisconsin/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00, Tu 07:00-16:00, We 09:00-19:00, th 07:00-16:00, fr 09:00-15:00
-- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 52% of physical therapy clinics in Milwaukee, #2 of 2 physical therapy clinics in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.1, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Unrated (not enough evidence yet) — top 52% of physical therapy clinics in Milwaukee, #2 of 2 physical therapy clinics in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.1, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/cora-physical-therapy-franklin/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cora-physical-therapy-franklin.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/cora-physical-therapy-franklin/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/cora-physical-therapy-franklin.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1176000063 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

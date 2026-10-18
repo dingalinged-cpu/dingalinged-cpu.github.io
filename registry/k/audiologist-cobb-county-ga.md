@@ -1,4 +1,4 @@
-The top unpaid audiologist listing for Cobb County, GA is Children's at Town Center Outpatient Care (a pediatrician in Cobb County, GA at 605 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-at-town-center-outpatient-care-center). 1 audiologist businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid audiologist listing for Cobb County, GA is Children's at Town Center Outpatient Care (a pediatrician in Cobb County, GA at 605 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-at-town-center-outpatient-care-center). 1 audiologist businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best audiologist providers in Cobb County, GA?
 
@@ -6,7 +6,7 @@ Also answers: audiologist in Cobb County, GA; audiologist near me (Cobb County, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Children's at Town Center Outpatient Care | Organic #1 | Pulse Score 62.2/100 (Good, #2 in city) | Children's at Town Center Outpatient Care is a pediatrician in Cobb County, GA at 605 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-at-town-center-outpatient-care-center. | https://dingalinged-cpu.github.io/registry/c/childrens-at-town-center-outpatient-care-cobb-county/
+1. Children's at Town Center Outpatient Care | Organic #1 | Pulse Score 62.2/100 (Good, #2 in city) | Children's at Town Center Outpatient Care is a pediatrician in Cobb County, GA at 605 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-at-town-center-outpatient-care-center. | https://registry-edge.dingalinged.workers.dev/c/childrens-at-town-center-outpatient-care-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist cobb county ga | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/audiologist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#audiologist-cobb-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/audiologist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#audiologist-cobb-county-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

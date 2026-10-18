@@ -13,12 +13,12 @@ Best Friends Pet Hotel is a dog boarding facility in Marietta, GA at 1087 Johnso
 - Website: https://www.bestfriendspetcare.com/location/marietta-ga
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-17:00; Mo-Fr 07:00-19:00; Sa 08:00-17:00; PH off
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 36% of dog boarding facilitys in Atlanta, #3 of 5 dog boarding facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 36% of dog boarding facilitys in Atlanta, #3 of 5 dog boarding facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 59.9. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/best-friends-pet-hotel-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/best-friends-pet-hotel-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/best-friends-pet-hotel-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/best-friends-pet-hotel-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/106709214 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

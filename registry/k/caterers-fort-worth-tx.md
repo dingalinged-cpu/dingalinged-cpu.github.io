@@ -1,4 +1,4 @@
-The top unpaid caterers listing for Fort Worth, TX is Lyzette's Catering (a caterer in Fort Worth, TX at 4817 Brentwood Stair Road, Fort Worth, TX 76103. Phone: +16823011255. Website: https://www.lyzettescatering.com/). 1 caterers businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Fort Worth, TX is Lyzette's Catering (a caterer in Fort Worth, TX at 4817 Brentwood Stair Road, Fort Worth, TX 76103. Phone: +16823011255. Website: https://www.lyzettescatering.com/). 1 caterers businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Fort Worth, TX?
 
@@ -6,7 +6,7 @@ Also answers: caterers in Fort Worth, TX; caterers near me (Fort Worth, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lyzette's Catering | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Lyzette's Catering is a caterer in Fort Worth, TX at 4817 Brentwood Stair Road, Fort Worth, TX 76103. Phone: +16823011255. Website: https://www.lyzettescatering.com/. | https://dingalinged-cpu.github.io/registry/c/lyzettes-catering-fort-worth/
+1. Lyzette's Catering | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Lyzette's Catering is a caterer in Fort Worth, TX at 4817 Brentwood Stair Road, Fort Worth, TX 76103. Phone: +16823011255. Website: https://www.lyzettescatering.com/. | https://registry-edge.dingalinged.workers.dev/c/lyzettes-catering-fort-worth/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers fort worth tx | category: Events & weddings | industry benchmark: Personal Services
@@ -19,6 +19,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$3,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/caterers.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#caterers-fort-worth-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/caterers.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#caterers-fort-worth-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Brite Bite Dental is a dentist in Des Plaines, IL at Lee Street, Des Plaines, IL
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 59% of dentists in Chicago, #2 of 9 dentists in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 59% of dentists in Chicago, #2 of 9 dentists in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 47.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/brite-bite-dental-des-plaines/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brite-bite-dental-des-plaines.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/brite-bite-dental-des-plaines/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brite-bite-dental-des-plaines.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/673264832 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

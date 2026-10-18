@@ -13,12 +13,12 @@ Big Frog T's is a tailor in Sugar Land, TX at 16535 Lexington Boulevard #150, Su
 - Website: https://www.bigfrog.com/sugarland/
 - Email: sugarland@bigfrog.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-14:00; Su off
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 18% of tailors in Houston, #2 of 2 tailors in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 18% of tailors in Houston, #2 of 2 tailors in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.5. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/big-frog-ts-sugar-land/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/big-frog-ts-sugar-land.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/big-frog-ts-sugar-land/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/big-frog-ts-sugar-land.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12714808845 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

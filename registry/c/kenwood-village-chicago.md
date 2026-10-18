@@ -13,12 +13,12 @@ Kenwood Village is an assisted living facility in Chicago, IL at 4505 South Drex
 - Website: https://kenwoodvillagehc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of assisted living facilitys in Chicago, #2 of 16 assisted living facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of assisted living facilitys in Chicago, #2 of 16 assisted living facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/kenwood-village-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/kenwood-village-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/kenwood-village-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/kenwood-village-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/210914624 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

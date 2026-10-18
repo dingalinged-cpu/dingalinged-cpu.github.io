@@ -13,12 +13,12 @@ Rosen Honda is an used car dealer in Greenfield, WI at 6141 South 27th Street, G
 - Website: https://www.rosenhondamilwaukee.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 79% of used car dealers in Milwaukee, #1 of 2 used car dealers in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 79% of used car dealers in Milwaukee, #1 of 2 used car dealers in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 54.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/rosen-honda-greenfield/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/rosen-honda-greenfield.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/rosen-honda-greenfield/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/rosen-honda-greenfield.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/664198875 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

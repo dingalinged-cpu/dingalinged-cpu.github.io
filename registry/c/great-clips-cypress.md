@@ -13,12 +13,12 @@ Great Clips is a hair salon in Cypress, TX at 10531 Fry Road #Suite A2-100, Cypr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 76% of hair salons in Houston, #3 of 3 hair salons in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 76% of hair salons in Houston, #3 of 3 hair salons in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 53.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-cypress/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-cypress.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/great-clips-cypress/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/great-clips-cypress.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/12552586649 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

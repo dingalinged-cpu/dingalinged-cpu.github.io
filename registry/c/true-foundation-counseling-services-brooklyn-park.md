@@ -13,12 +13,12 @@ True Foundation Counseling Services is a therapy practice in Brooklyn Park, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 83% of therapy practices in Minneapolis–St. Paul, #1 of 1 therapy practices in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 38.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 83% of therapy practices in Minneapolis–St. Paul, #1 of 1 therapy practices in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 38.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/true-foundation-counseling-services-brooklyn-park/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/true-foundation-counseling-services-brooklyn-park.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/true-foundation-counseling-services-brooklyn-park/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/true-foundation-counseling-services-brooklyn-park.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/8147867922 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

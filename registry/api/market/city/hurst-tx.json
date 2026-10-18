@@ -2,7 +2,7 @@
  "title": "Keyword market data: Hurst, TX",
  "description": "Top Hurst, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Hurst, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 42,
@@ -11,7 +11,7 @@
    {
     "keyword": "massage hurst tx",
     "slug": "massage-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-hurst-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -26,7 +26,7 @@
    {
     "keyword": "car wash hurst tx",
     "slug": "car-wash-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hurst-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "dentist hurst tx",
     "slug": "dentist-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hurst-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -56,7 +56,7 @@
    {
     "keyword": "gym hurst tx",
     "slug": "gym-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hurst-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -71,7 +71,7 @@
    {
     "keyword": "hair salon hurst tx",
     "slug": "hair-salon-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hurst-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -86,7 +86,7 @@
    {
     "keyword": "nail salon hurst tx",
     "slug": "nail-salon-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-hurst-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -101,7 +101,7 @@
    {
     "keyword": "plumber hurst tx",
     "slug": "plumber-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-hurst-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -116,7 +116,7 @@
    {
     "keyword": "barber shop hurst tx",
     "slug": "barber-shop-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-hurst-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -131,7 +131,7 @@
    {
     "keyword": "mechanic hurst tx",
     "slug": "mechanic-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hurst-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -146,7 +146,7 @@
    {
     "keyword": "tire shop hurst tx",
     "slug": "tire-shop-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-hurst-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -161,7 +161,7 @@
    {
     "keyword": "vet hurst tx",
     "slug": "vet-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hurst-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -176,7 +176,7 @@
    {
     "keyword": "dog groomer hurst tx",
     "slug": "dog-groomer-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hurst-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -191,7 +191,7 @@
    {
     "keyword": "haircut hurst tx",
     "slug": "haircut-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hurst-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -206,7 +206,7 @@
    {
     "keyword": "auto repair hurst tx",
     "slug": "auto-repair-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hurst-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -221,7 +221,7 @@
    {
     "keyword": "financial advisor hurst tx",
     "slug": "financial-advisor-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-hurst-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair hurst tx",
     "slug": "hvac-repair-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-hurst-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -253,7 +253,7 @@
    {
     "keyword": "plumbing services hurst tx",
     "slug": "plumbing-services-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-hurst-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,
@@ -268,7 +268,7 @@
    {
     "keyword": "plumber hurst tx",
     "slug": "plumber-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-hurst-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -283,7 +283,7 @@
    {
     "keyword": "window replacement hurst tx",
     "slug": "window-replacement-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/window-replacement-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/window-replacement-hurst-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -298,7 +298,7 @@
    {
     "keyword": "flooring companies hurst tx",
     "slug": "flooring-companies-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/flooring-companies-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/flooring-companies-hurst-tx/",
     "us_monthly_searches": 18100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 450,
@@ -313,7 +313,7 @@
    {
     "keyword": "heating and air hurst tx",
     "slug": "heating-and-air-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-hurst-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -328,7 +328,7 @@
    {
     "keyword": "plumbers hurst tx",
     "slug": "plumbers-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbers-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbers-hurst-tx/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 89.0,
@@ -343,7 +343,7 @@
    {
     "keyword": "storage units hurst tx",
     "slug": "storage-units-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-hurst-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -358,7 +358,7 @@
    {
     "keyword": "bakery hurst tx",
     "slug": "bakery-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-hurst-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -373,7 +373,7 @@
    {
     "keyword": "florist hurst tx",
     "slug": "florist-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/florist-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/florist-hurst-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -388,7 +388,7 @@
    {
     "keyword": "photographer hurst tx",
     "slug": "photographer-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/photographer-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/photographer-hurst-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -403,7 +403,7 @@
    {
     "keyword": "martial arts hurst tx",
     "slug": "martial-arts-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/martial-arts-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/martial-arts-hurst-tx/",
     "us_monthly_searches": 300000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 7400,
@@ -418,7 +418,7 @@
    {
     "keyword": "daycare hurst tx",
     "slug": "daycare-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-hurst-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -433,7 +433,7 @@
    {
     "keyword": "driving school hurst tx",
     "slug": "driving-school-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/driving-school-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/driving-school-hurst-tx/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 990,
@@ -448,7 +448,7 @@
    {
     "keyword": "preschool hurst tx",
     "slug": "preschool-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-hurst-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -465,7 +465,7 @@
    {
     "keyword": "massage hurst tx",
     "slug": "massage-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/massage-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/massage-hurst-tx/",
     "us_monthly_searches": 5000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 120000,
@@ -480,7 +480,7 @@
    {
     "keyword": "plumber hurst tx",
     "slug": "plumber-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumber-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumber-hurst-tx/",
     "us_monthly_searches": 823000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 20000,
@@ -495,7 +495,7 @@
    {
     "keyword": "dentist hurst tx",
     "slug": "dentist-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-hurst-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -510,7 +510,7 @@
    {
     "keyword": "car wash hurst tx",
     "slug": "car-wash-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-hurst-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -525,7 +525,7 @@
    {
     "keyword": "gym hurst tx",
     "slug": "gym-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-hurst-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -540,7 +540,7 @@
    {
     "keyword": "mechanic hurst tx",
     "slug": "mechanic-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-hurst-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -555,7 +555,7 @@
    {
     "keyword": "tire shop hurst tx",
     "slug": "tire-shop-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-hurst-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -570,7 +570,7 @@
    {
     "keyword": "vet hurst tx",
     "slug": "vet-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/vet-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/vet-hurst-tx/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 14000,
@@ -585,7 +585,7 @@
    {
     "keyword": "dog groomer hurst tx",
     "slug": "dog-groomer-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dog-groomer-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dog-groomer-hurst-tx/",
     "us_monthly_searches": 450000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 11000,
@@ -600,7 +600,7 @@
    {
     "keyword": "haircut hurst tx",
     "slug": "haircut-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-hurst-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -615,7 +615,7 @@
    {
     "keyword": "auto repair hurst tx",
     "slug": "auto-repair-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-hurst-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -630,7 +630,7 @@
    {
     "keyword": "hvac repair hurst tx",
     "slug": "hvac-repair-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-hurst-tx/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1800,
@@ -645,7 +645,7 @@
    {
     "keyword": "financial advisor hurst tx",
     "slug": "financial-advisor-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-hurst-tx/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6100,
@@ -660,7 +660,7 @@
    {
     "keyword": "hair salon hurst tx",
     "slug": "hair-salon-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-hurst-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -675,7 +675,7 @@
    {
     "keyword": "plumbing services hurst tx",
     "slug": "plumbing-services-hurst-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/plumbing-services-hurst-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/plumbing-services-hurst-tx/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1200,

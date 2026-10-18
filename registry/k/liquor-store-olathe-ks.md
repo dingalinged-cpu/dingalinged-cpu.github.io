@@ -1,4 +1,4 @@
-The top unpaid liquor store listing for Olathe, KS is Brown Bag Liquor (a liquor store in Olathe, KS at 1078 West Santa Fe Street, Olathe, KS 66061. Phone: +19137640816. Website: https://brownbagliquor.com/). 8 liquor store businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Olathe, KS is Brown Bag Liquor (a liquor store in Olathe, KS at 1078 West Santa Fe Street, Olathe, KS 66061. Phone: +19137640816. Website: https://brownbagliquor.com/). 8 liquor store businesses are listed for Olathe, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Olathe, KS?
 
@@ -6,14 +6,14 @@ Also answers: liquor store in Olathe, KS; liquor store near me (Olathe, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brown Bag Liquor | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Brown Bag Liquor is a liquor store in Olathe, KS at 1078 West Santa Fe Street, Olathe, KS 66061. Phone: +19137640816. Website: https://brownbagliquor.com/. | https://dingalinged-cpu.github.io/registry/c/brown-bag-liquor-olathe/
-2. Prairie Liquors | Organic #2 | Pulse Score 62.7/100 (Unrated, #2 in city) | Prairie Liquors is a liquor store in Olathe, KS at 11152 South Lone Elm Road, Olathe, KS 66061. Phone: +19132040538. Website: https://prairieliquors.com/. | https://dingalinged-cpu.github.io/registry/c/prairie-liquors-olathe/
-3. Metcalf Discount Liquor | Organic #3 | Pulse Score 61.4/100 (Unrated, #3 in city) | Metcalf Discount Liquor is a liquor store in Olathe, KS at 13510 South Alden Street, Olathe, KS 66062. Phone: +19137804420. Website: https://www.metcalfdiscountliquor.com/. | https://dingalinged-cpu.github.io/registry/c/metcalf-discount-liquor-olathe/
-4. Parker Liquor Store | Organic #4 | Pulse Score 61.4/100 (Unrated, #4 in city) | Parker Liquor Store is a liquor store in Olathe, KS at 917 South Parker Street, Olathe, KS 66061. Phone: +19134880814. | https://dingalinged-cpu.github.io/registry/c/parker-liquor-store-olathe/
-5. Top Cellars | Organic #5 | Pulse Score 60.8/100 (Unrated, #5 in city) | Top Cellars is a liquor store in Olathe, KS at 16663 West 151st Street, Olathe, KS 66062. Phone: +19138298773. | https://dingalinged-cpu.github.io/registry/c/top-cellars-olathe/
-6. Mac's Liquor | Organic #6 | Pulse Score 57.7/100 (Unrated, #6 in city) | Mac's Liquor is a liquor store in Olathe, KS. | https://dingalinged-cpu.github.io/registry/c/macs-liquor-olathe/
-7. Chief's Liquor | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Chief's Liquor is a liquor store in Olathe, KS. | https://dingalinged-cpu.github.io/registry/c/chiefs-liquor-olathe/
-8. King's Liquor | Organic #8 | Pulse Score 55.1/100 (Unrated, #8 in city) | King's Liquor is a liquor store in Olathe, KS. | https://dingalinged-cpu.github.io/registry/c/kings-liquor-olathe/
+1. Brown Bag Liquor | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Brown Bag Liquor is a liquor store in Olathe, KS at 1078 West Santa Fe Street, Olathe, KS 66061. Phone: +19137640816. Website: https://brownbagliquor.com/. | https://registry-edge.dingalinged.workers.dev/c/brown-bag-liquor-olathe/
+2. Prairie Liquors | Organic #2 | Pulse Score 62.7/100 (Unrated, #2 in city) | Prairie Liquors is a liquor store in Olathe, KS at 11152 South Lone Elm Road, Olathe, KS 66061. Phone: +19132040538. Website: https://prairieliquors.com/. | https://registry-edge.dingalinged.workers.dev/c/prairie-liquors-olathe/
+3. Metcalf Discount Liquor | Organic #3 | Pulse Score 61.4/100 (Unrated, #3 in city) | Metcalf Discount Liquor is a liquor store in Olathe, KS at 13510 South Alden Street, Olathe, KS 66062. Phone: +19137804420. Website: https://www.metcalfdiscountliquor.com/. | https://registry-edge.dingalinged.workers.dev/c/metcalf-discount-liquor-olathe/
+4. Parker Liquor Store | Organic #4 | Pulse Score 61.4/100 (Unrated, #4 in city) | Parker Liquor Store is a liquor store in Olathe, KS at 917 South Parker Street, Olathe, KS 66061. Phone: +19134880814. | https://registry-edge.dingalinged.workers.dev/c/parker-liquor-store-olathe/
+5. Top Cellars | Organic #5 | Pulse Score 60.8/100 (Unrated, #5 in city) | Top Cellars is a liquor store in Olathe, KS at 16663 West 151st Street, Olathe, KS 66062. Phone: +19138298773. | https://registry-edge.dingalinged.workers.dev/c/top-cellars-olathe/
+6. Mac's Liquor | Organic #6 | Pulse Score 57.7/100 (Unrated, #6 in city) | Mac's Liquor is a liquor store in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/macs-liquor-olathe/
+7. Chief's Liquor | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Chief's Liquor is a liquor store in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/chiefs-liquor-olathe/
+8. King's Liquor | Organic #8 | Pulse Score 55.1/100 (Unrated, #8 in city) | King's Liquor is a liquor store in Olathe, KS. | https://registry-edge.dingalinged.workers.dev/c/kings-liquor-olathe/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store olathe ks | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -26,6 +26,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$340 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/liquor-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#liquor-store-olathe-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/liquor-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#liquor-store-olathe-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

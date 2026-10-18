@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for Racine, WI is Greentree Cleaners (a dry cleaner in Racine, WI at 5131 Douglas Avenue, Racine, WI). 4 dry cleaners businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Racine, WI is Greentree Cleaners (a dry cleaner in Racine, WI at 5131 Douglas Avenue, Racine, WI). 4 dry cleaners businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Racine, WI?
 
@@ -6,10 +6,10 @@ Also answers: dry cleaners in Racine, WI; dry cleaners near me (Racine, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Greentree Cleaners | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Greentree Cleaners is a dry cleaner in Racine, WI at 5131 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/greentree-cleaners-racine/
-2. Express Cleaners | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Express Cleaners is a dry cleaner in Racine, WI at 4003 Durand Avenue #16, Racine, WI 53405. | https://dingalinged-cpu.github.io/registry/c/express-cleaners-racine/
-3. Martinizing Dry Cleaning | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Martinizing Dry Cleaning is a dry cleaner in Racine, WI at 301 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/martinizing-dry-cleaning-racine/
-4. Martinizing | Organic #4 | Pulse Score 42.6/100 (Unrated, #4 in city) | Martinizing is a dry cleaner in Racine, WI at 4606 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/martinizing-racine/
+1. Greentree Cleaners | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Greentree Cleaners is a dry cleaner in Racine, WI at 5131 Douglas Avenue, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/greentree-cleaners-racine/
+2. Express Cleaners | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Express Cleaners is a dry cleaner in Racine, WI at 4003 Durand Avenue #16, Racine, WI 53405. | https://registry-edge.dingalinged.workers.dev/c/express-cleaners-racine/
+3. Martinizing Dry Cleaning | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Martinizing Dry Cleaning is a dry cleaner in Racine, WI at 301 Main Street, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/martinizing-dry-cleaning-racine/
+4. Martinizing | Organic #4 | Pulse Score 42.6/100 (Unrated, #4 in city) | Martinizing is a dry cleaner in Racine, WI at 4606 Washington Avenue, Racine, WI. | https://registry-edge.dingalinged.workers.dev/c/martinizing-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners racine wi | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$280 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dry-cleaners.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dry-cleaners-racine-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dry-cleaners.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dry-cleaners-racine-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

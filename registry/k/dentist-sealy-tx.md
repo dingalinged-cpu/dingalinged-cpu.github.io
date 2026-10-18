@@ -1,4 +1,4 @@
-The top unpaid dentist listing for Sealy, TX is Sealy Orthodontics (a dentist in Sealy, TX at 2355 TX-36, Sealy, TX 77474. Phone: +19792015551. Website: https://www.sealyorthodontics.com/). 3 dentist businesses are listed for Sealy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Sealy, TX is Sealy Orthodontics (a dentist in Sealy, TX at 2355 TX-36, Sealy, TX 77474. Phone: +19792015551. Website: https://www.sealyorthodontics.com/). 3 dentist businesses are listed for Sealy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Sealy, TX?
 
@@ -6,9 +6,9 @@ Also answers: dentist in Sealy, TX; dentist near me (Sealy, TX); best dentist Se
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sealy Orthodontics | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Sealy Orthodontics is a dentist in Sealy, TX at 2355 TX-36, Sealy, TX 77474. Phone: +19792015551. Website: https://www.sealyorthodontics.com/. | https://dingalinged-cpu.github.io/registry/c/sealy-orthodontics-sealy/
-2. Sealy Dental Center | Organic #2 | Pulse Score 62.2/100 (Unrated, #2 in city) | Sealy Dental Center is a dentist in Sealy, TX at 430 Meyer Street, Sealy, TX 77474. Phone: +19798854856. Website: https://www.sealydentalcenter.com/. | https://dingalinged-cpu.github.io/registry/c/sealy-dental-center-sealy/
-3. Sealy Kids Dentistry | Organic #3 | Pulse Score 62.2/100 (Unrated, #3 in city) | Sealy Kids Dentistry is a dentist in Sealy, TX at 2355 TX-36, Sealy, TX 77474. Phone: +19799876030. Website: https://www.sealykidsdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/sealy-kids-dentistry-sealy/
+1. Sealy Orthodontics | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Sealy Orthodontics is a dentist in Sealy, TX at 2355 TX-36, Sealy, TX 77474. Phone: +19792015551. Website: https://www.sealyorthodontics.com/. | https://registry-edge.dingalinged.workers.dev/c/sealy-orthodontics-sealy/
+2. Sealy Dental Center | Organic #2 | Pulse Score 62.2/100 (Unrated, #2 in city) | Sealy Dental Center is a dentist in Sealy, TX at 430 Meyer Street, Sealy, TX 77474. Phone: +19798854856. Website: https://www.sealydentalcenter.com/. | https://registry-edge.dingalinged.workers.dev/c/sealy-dental-center-sealy/
+3. Sealy Kids Dentistry | Organic #3 | Pulse Score 62.2/100 (Unrated, #3 in city) | Sealy Kids Dentistry is a dentist in Sealy, TX at 2355 TX-36, Sealy, TX 77474. Phone: +19799876030. Website: https://www.sealykidsdentistry.com/. | https://registry-edge.dingalinged.workers.dev/c/sealy-kids-dentistry-sealy/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist sealy tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$11,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-sealy-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/dentist.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#dentist-sealy-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

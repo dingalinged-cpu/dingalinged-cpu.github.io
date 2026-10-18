@@ -1,4 +1,4 @@
-The top unpaid martial arts listing for Lenexa, KS is Aplomb Martial Arts Lenexa (a martial arts school in Lenexa, KS at 14920 West 87th Street Parkway, Lenexa, KS 66215. Phone: +19132837844. Website: https://www.aplombmartialarts.com/martial-arts-classes-in-lenexa/). 3 martial arts businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Lenexa, KS is Aplomb Martial Arts Lenexa (a martial arts school in Lenexa, KS at 14920 West 87th Street Parkway, Lenexa, KS 66215. Phone: +19132837844. Website: https://www.aplombmartialarts.com/martial-arts-classes-in-lenexa/). 3 martial arts businesses are listed for Lenexa, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Lenexa, KS?
 
@@ -6,9 +6,9 @@ Also answers: martial arts in Lenexa, KS; martial arts near me (Lenexa, KS); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aplomb Martial Arts Lenexa | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Aplomb Martial Arts Lenexa is a martial arts school in Lenexa, KS at 14920 West 87th Street Parkway, Lenexa, KS 66215. Phone: +19132837844. Website: https://www.aplombmartialarts.com/martial-arts-classes-in-lenexa/. | https://dingalinged-cpu.github.io/registry/c/aplomb-martial-arts-lenexa-lenexa/
-2. AmeriKick Martial Arts | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | AmeriKick Martial Arts is a martial arts school in Lenexa, KS at 10076 Woodland Road, Lenexa, KS 66220. Phone: +19133082363. Website: https://amerikickkansas.com/. | https://dingalinged-cpu.github.io/registry/c/amerikick-martial-arts-lenexa/
-3. W.O.L.F. Martial Arts | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | W.O.L.F. Martial Arts is a martial arts school in Lenexa, KS at 8738 Lackman Road, Lenexa, KS 66219. Website: https://www.kckaratejujitsu.com/. | https://dingalinged-cpu.github.io/registry/c/w-o-l-f-martial-arts-lenexa/
+1. Aplomb Martial Arts Lenexa | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Aplomb Martial Arts Lenexa is a martial arts school in Lenexa, KS at 14920 West 87th Street Parkway, Lenexa, KS 66215. Phone: +19132837844. Website: https://www.aplombmartialarts.com/martial-arts-classes-in-lenexa/. | https://registry-edge.dingalinged.workers.dev/c/aplomb-martial-arts-lenexa-lenexa/
+2. AmeriKick Martial Arts | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | AmeriKick Martial Arts is a martial arts school in Lenexa, KS at 10076 Woodland Road, Lenexa, KS 66220. Phone: +19133082363. Website: https://amerikickkansas.com/. | https://registry-edge.dingalinged.workers.dev/c/amerikick-martial-arts-lenexa/
+3. W.O.L.F. Martial Arts | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | W.O.L.F. Martial Arts is a martial arts school in Lenexa, KS at 8738 Lackman Road, Lenexa, KS 66219. Website: https://www.kckaratejujitsu.com/. | https://registry-edge.dingalinged.workers.dev/c/w-o-l-f-martial-arts-lenexa/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts lenexa ks | category: Fitness | industry benchmark: Health & Fitness
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$890 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/martial-arts.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#martial-arts-lenexa-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/martial-arts.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#martial-arts-lenexa-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

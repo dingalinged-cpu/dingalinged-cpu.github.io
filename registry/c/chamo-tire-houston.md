@@ -13,12 +13,12 @@ Chamo Tire is a tire shop in Houston, TX at 7634 Clarewood Drive, Houston, TX 77
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 5% of tire shops in Houston, #4 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 5% of tire shops in Houston, #4 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 54. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/chamo-tire-houston/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/chamo-tire-houston.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/chamo-tire-houston/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/chamo-tire-houston.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/910770846 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,12 +13,12 @@ Snapbox Self Storage is a self-storage facility in Marietta, GA at 1745 Roswell 
 - Website: https://snapboxselfstorage.com/facility/Marietta-GA/Snapbox-Marietta-126607.html
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-22:00
-- Pulse Score: 64.2/100 — Good — top 1% of self-storage facilitys in Atlanta, #1 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 1% of self-storage facilitys in Atlanta, #1 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 63.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/snapbox-self-storage-marietta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/snapbox-self-storage-marietta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/snapbox-self-storage-marietta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/snapbox-self-storage-marietta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1372630435 (license ODbL-1.0); source data as of 2026-07-15
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

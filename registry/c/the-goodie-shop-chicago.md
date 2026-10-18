@@ -13,12 +13,12 @@ The Goodie Shop is a printing service in Chicago, IL at 2100 South Pulaski Road,
 - Website: https://www.facebook.com/thegoodieshop2100/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Good — top 3% of printing services in Chicago, #3 of 67 printing services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Good — top 3% of printing services in Chicago, #3 of 67 printing services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 63.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-goodie-shop-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-goodie-shop-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/the-goodie-shop-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/the-goodie-shop-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/7118194537 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

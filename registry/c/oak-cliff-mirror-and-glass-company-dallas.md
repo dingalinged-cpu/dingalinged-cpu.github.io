@@ -13,12 +13,12 @@ Oak Cliff Mirror & Glass Company is a window repair service in Dallas, TX at 220
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 100% of window repair services in Dallas–Fort Worth, #1 of 1 window repair services in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 44.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 100% of window repair services in Dallas–Fort Worth, #1 of 1 window repair services in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 44.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/oak-cliff-mirror-and-glass-company-dallas/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/oak-cliff-mirror-and-glass-company-dallas.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/oak-cliff-mirror-and-glass-company-dallas/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/oak-cliff-mirror-and-glass-company-dallas.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/465439820 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

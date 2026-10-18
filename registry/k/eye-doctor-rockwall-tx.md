@@ -1,4 +1,4 @@
-The top unpaid eye doctor listing for Rockwall, TX is Prime Eye Care (an eye care practice in Rockwall, TX at 2006 South Goliad Street #230, Rockwall, TX 75087. Phone: +19727220101. Website: https://www.primeeyecare.com/). 3 eye doctor businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Rockwall, TX is Prime Eye Care (an eye care practice in Rockwall, TX at 2006 South Goliad Street #230, Rockwall, TX 75087. Phone: +19727220101. Website: https://www.primeeyecare.com/). 3 eye doctor businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Rockwall, TX?
 
@@ -6,9 +6,9 @@ Also answers: eye doctor in Rockwall, TX; eye doctor near me (Rockwall, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Prime Eye Care | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Prime Eye Care is an eye care practice in Rockwall, TX at 2006 South Goliad Street #230, Rockwall, TX 75087. Phone: +19727220101. Website: https://www.primeeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/prime-eye-care-rockwall/
-2. Rockwall Precision Eyecare | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Rockwall Precision Eyecare is an eye care practice in Rockwall, TX at 2931 Ridge Road #108, Rockwall, TX 75032. Phone: +19727722644. Website: https://www.rockwallprecisioneyecare.net/. | https://dingalinged-cpu.github.io/registry/c/rockwall-precision-eyecare-rockwall/
-3. Texas State Optical | Organic #3 | Pulse Score 48.9/100 (Unrated, #3 in city) | Texas State Optical is an eye care practice in Rockwall, TX at 3301 North Goliad Street #109, Rockwall, TX 75032. Phone: +19724309977. Website: https://www.tsorockwall.com/. | https://dingalinged-cpu.github.io/registry/c/texas-state-optical-rockwall/
+1. Prime Eye Care | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Prime Eye Care is an eye care practice in Rockwall, TX at 2006 South Goliad Street #230, Rockwall, TX 75087. Phone: +19727220101. Website: https://www.primeeyecare.com/. | https://registry-edge.dingalinged.workers.dev/c/prime-eye-care-rockwall/
+2. Rockwall Precision Eyecare | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Rockwall Precision Eyecare is an eye care practice in Rockwall, TX at 2931 Ridge Road #108, Rockwall, TX 75032. Phone: +19727722644. Website: https://www.rockwallprecisioneyecare.net/. | https://registry-edge.dingalinged.workers.dev/c/rockwall-precision-eyecare-rockwall/
+3. Texas State Optical | Organic #3 | Pulse Score 48.9/100 (Unrated, #3 in city) | Texas State Optical is an eye care practice in Rockwall, TX at 3301 North Goliad Street #109, Rockwall, TX 75032. Phone: +19724309977. Website: https://www.tsorockwall.com/. | https://registry-edge.dingalinged.workers.dev/c/texas-state-optical-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor rockwall tx | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,800 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/eye-doctor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#eye-doctor-rockwall-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/eye-doctor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#eye-doctor-rockwall-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid coworking space listing for Kennesaw, GA is The Hive Collaborative Coworking (a coworking space in Kennesaw, GA at 2847 South Main Street Northwest, Kennesaw, GA. Phone: +17707570521. Website: https://thehivekennesaw.com/). 3 coworking space businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid coworking space listing for Kennesaw, GA is The Hive Collaborative Coworking (a coworking space in Kennesaw, GA at 2847 South Main Street Northwest, Kennesaw, GA. Phone: +17707570521. Website: https://thehivekennesaw.com/). 3 coworking space businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best coworking space providers in Kennesaw, GA?
 
@@ -6,9 +6,9 @@ Also answers: coworking space in Kennesaw, GA; coworking space near me (Kennesaw
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Hive Collaborative Coworking | Organic #1 | Pulse Score 61/100 (Good, #1 in city) | The Hive Collaborative Coworking is a coworking space in Kennesaw, GA at 2847 South Main Street Northwest, Kennesaw, GA. Phone: +17707570521. Website: https://thehivekennesaw.com/. | https://dingalinged-cpu.github.io/registry/c/the-hive-collaborative-coworking-kennesaw/
-2. Imagine Coworking of Atlanta | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Imagine Coworking of Atlanta is a coworking space in Kennesaw, GA at 2601 Summers Street Northwest #300, Kennesaw, GA. Phone: +16788418207. Website: https://imaginecoworking.com/. | https://dingalinged-cpu.github.io/registry/c/imagine-coworking-of-atlanta-kennesaw/
-3. Desktop Coworking Community | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Desktop Coworking Community is a coworking space in Kennesaw, GA at 3070 North Main Street, Kennesaw, GA 30144. Phone: +17704851114. Website: https://www.workatdesktop.com/. | https://dingalinged-cpu.github.io/registry/c/desktop-coworking-community-kennesaw/
+1. The Hive Collaborative Coworking | Organic #1 | Pulse Score 61/100 (Good, #1 in city) | The Hive Collaborative Coworking is a coworking space in Kennesaw, GA at 2847 South Main Street Northwest, Kennesaw, GA. Phone: +17707570521. Website: https://thehivekennesaw.com/. | https://registry-edge.dingalinged.workers.dev/c/the-hive-collaborative-coworking-kennesaw/
+2. Imagine Coworking of Atlanta | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Imagine Coworking of Atlanta is a coworking space in Kennesaw, GA at 2601 Summers Street Northwest #300, Kennesaw, GA. Phone: +16788418207. Website: https://imaginecoworking.com/. | https://registry-edge.dingalinged.workers.dev/c/imagine-coworking-of-atlanta-kennesaw/
+3. Desktop Coworking Community | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Desktop Coworking Community is a coworking space in Kennesaw, GA at 3070 North Main Street, Kennesaw, GA 30144. Phone: +17704851114. Website: https://www.workatdesktop.com/. | https://registry-edge.dingalinged.workers.dev/c/desktop-coworking-community-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space kennesaw ga | category: real_estate | industry benchmark: Real Estate
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$110 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/coworking-space.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#coworking-space-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/coworking-space.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#coworking-space-kennesaw-ga | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

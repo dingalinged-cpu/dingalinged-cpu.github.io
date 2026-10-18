@@ -13,12 +13,12 @@ Sean Rekemeyer Health Insurance is an insurance agent in Arlington, TX at 1807 W
 - Website: https://www.seanrekemeyer.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of insurance agents in Dallas–Fort Worth, #3 of 11 insurance agents in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of insurance agents in Dallas–Fort Worth, #3 of 11 insurance agents in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.2. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/sean-rekemeyer-health-insurance-arlington/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sean-rekemeyer-health-insurance-arlington.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/sean-rekemeyer-health-insurance-arlington/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/sean-rekemeyer-health-insurance-arlington.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/6067958562 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

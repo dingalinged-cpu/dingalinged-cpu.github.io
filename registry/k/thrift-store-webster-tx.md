@@ -1,4 +1,4 @@
-The top unpaid thrift store listing for Webster, TX is Interfaith Caring Ministries (ICM) Resale Shop (a thrift store in Webster, TX at 803 East NASA Parkway #118, Webster, TX 77598. Phone: +12813322025. Website: https://icmtx.org/resale). 3 thrift store businesses are listed for Webster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Webster, TX is Interfaith Caring Ministries (ICM) Resale Shop (a thrift store in Webster, TX at 803 East NASA Parkway #118, Webster, TX 77598. Phone: +12813322025. Website: https://icmtx.org/resale). 3 thrift store businesses are listed for Webster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Webster, TX?
 
@@ -6,9 +6,9 @@ Also answers: thrift store in Webster, TX; thrift store near me (Webster, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Interfaith Caring Ministries (ICM) Resale Shop | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Interfaith Caring Ministries (ICM) Resale Shop is a thrift store in Webster, TX at 803 East NASA Parkway #118, Webster, TX 77598. Phone: +12813322025. Website: https://icmtx.org/resale. | https://dingalinged-cpu.github.io/registry/c/interfaith-caring-ministries-icm-resale-shop-webster/
-2. Assistance League of the Bay | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Assistance League of the Bay is a thrift store in Webster, TX at 100 NASA Parkway, Webster, TX 77598. | https://dingalinged-cpu.github.io/registry/c/assistance-league-of-the-bay-webster/
-3. Goodwill | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Goodwill is a thrift store in Webster, TX at 20810 Gulf Freeway #A, Webster, TX. Phone: +12813320190. Website: https://www.goodwillhouston.org/locations/nasa/. | https://dingalinged-cpu.github.io/registry/c/goodwill-webster/
+1. Interfaith Caring Ministries (ICM) Resale Shop | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Interfaith Caring Ministries (ICM) Resale Shop is a thrift store in Webster, TX at 803 East NASA Parkway #118, Webster, TX 77598. Phone: +12813322025. Website: https://icmtx.org/resale. | https://registry-edge.dingalinged.workers.dev/c/interfaith-caring-ministries-icm-resale-shop-webster/
+2. Assistance League of the Bay | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Assistance League of the Bay is a thrift store in Webster, TX at 100 NASA Parkway, Webster, TX 77598. | https://registry-edge.dingalinged.workers.dev/c/assistance-league-of-the-bay-webster/
+3. Goodwill | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Goodwill is a thrift store in Webster, TX at 20810 Gulf Freeway #A, Webster, TX. Phone: +12813320190. Website: https://www.goodwillhouston.org/locations/nasa/. | https://registry-edge.dingalinged.workers.dev/c/goodwill-webster/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store webster tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,200 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/thrift-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#thrift-store-webster-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/thrift-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#thrift-store-webster-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

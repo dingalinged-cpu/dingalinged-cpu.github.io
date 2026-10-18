@@ -1,4 +1,4 @@
-The top unpaid tailor listing for Milwaukee, WI is P'dia (a tailor in Milwaukee, WI at 314 East Wisconsin Avenue, Milwaukee, WI 53202. Phone: +14142740143). 6 tailor businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Milwaukee, WI is P'dia (a tailor in Milwaukee, WI at 314 East Wisconsin Avenue, Milwaukee, WI 53202. Phone: +14142740143). 6 tailor businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Milwaukee, WI?
 
@@ -6,12 +6,12 @@ Also answers: tailor in Milwaukee, WI; tailor near me (Milwaukee, WI); best tail
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. P'dia | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | P'dia is a tailor in Milwaukee, WI at 314 East Wisconsin Avenue, Milwaukee, WI 53202. Phone: +14142740143. | https://dingalinged-cpu.github.io/registry/c/pdia-milwaukee/
-2. Kimistry by Kimberly | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | Kimistry by Kimberly is a tailor in Milwaukee, WI at 3624 West North Avenue, Milwaukee, WI 53208. Phone: +14145337520. Website: https://www.kimistryk.com/. | https://dingalinged-cpu.github.io/registry/c/kimistry-by-kimberly-milwaukee/
-3. Blest By Campuzano | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Blest By Campuzano is a tailor in Milwaukee, WI at 2926 West Forest Home Avenue, Milwaukee, WI 53215. Phone: +14142266770. Website: https://blestbycampuzano.com/. | https://dingalinged-cpu.github.io/registry/c/blest-by-campuzano-milwaukee/
-4. Salous Men's Wear & Tailoring | Organic #4 | Pulse Score 59.7/100 (Unrated, #4 in city) | Salous Men's Wear & Tailoring is a tailor in Milwaukee, WI at 3861 South 60th Street, Milwaukee, WI 53220. Phone: +14145450766. | https://dingalinged-cpu.github.io/registry/c/salous-mens-wear-and-tailoring-milwaukee/
-5. Anna’s Custom Tailoring | Organic #5 | Pulse Score 59.4/100 (Unrated, #5 in city) | Anna’s Custom Tailoring is a tailor in Milwaukee, WI. Phone: +14142249633. Website: https://annastailoring.com/. | https://dingalinged-cpu.github.io/registry/c/anna-s-custom-tailoring-milwaukee/
-6. Tailor Choice | Organic #6 | Pulse Score 58.7/100 (Unrated, #6 in city) | Tailor Choice is a tailor in Milwaukee, WI at 1689 North Humboldt Avenue, Milwaukee, WI 53202. Phone: +14142770866. | https://dingalinged-cpu.github.io/registry/c/tailor-choice-milwaukee/
+1. P'dia | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | P'dia is a tailor in Milwaukee, WI at 314 East Wisconsin Avenue, Milwaukee, WI 53202. Phone: +14142740143. | https://registry-edge.dingalinged.workers.dev/c/pdia-milwaukee/
+2. Kimistry by Kimberly | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | Kimistry by Kimberly is a tailor in Milwaukee, WI at 3624 West North Avenue, Milwaukee, WI 53208. Phone: +14145337520. Website: https://www.kimistryk.com/. | https://registry-edge.dingalinged.workers.dev/c/kimistry-by-kimberly-milwaukee/
+3. Blest By Campuzano | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Blest By Campuzano is a tailor in Milwaukee, WI at 2926 West Forest Home Avenue, Milwaukee, WI 53215. Phone: +14142266770. Website: https://blestbycampuzano.com/. | https://registry-edge.dingalinged.workers.dev/c/blest-by-campuzano-milwaukee/
+4. Salous Men's Wear & Tailoring | Organic #4 | Pulse Score 59.7/100 (Unrated, #4 in city) | Salous Men's Wear & Tailoring is a tailor in Milwaukee, WI at 3861 South 60th Street, Milwaukee, WI 53220. Phone: +14145450766. | https://registry-edge.dingalinged.workers.dev/c/salous-mens-wear-and-tailoring-milwaukee/
+5. Anna’s Custom Tailoring | Organic #5 | Pulse Score 59.4/100 (Unrated, #5 in city) | Anna’s Custom Tailoring is a tailor in Milwaukee, WI. Phone: +14142249633. Website: https://annastailoring.com/. | https://registry-edge.dingalinged.workers.dev/c/anna-s-custom-tailoring-milwaukee/
+6. Tailor Choice | Organic #6 | Pulse Score 58.7/100 (Unrated, #6 in city) | Tailor Choice is a tailor in Milwaukee, WI at 1689 North Humboldt Avenue, Milwaukee, WI 53202. Phone: +14142770866. | https://registry-edge.dingalinged.workers.dev/c/tailor-choice-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor milwaukee wi | category: Professional & financial services | industry benchmark: Finance & Insurance
@@ -24,6 +24,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$280 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/tailor.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#tailor-milwaukee-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/tailor.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#tailor-milwaukee-wi | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

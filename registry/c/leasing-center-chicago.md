@@ -13,12 +13,12 @@ Leasing Center is a property management company in Chicago, IL at 5441 North Eas
 - Website: https://rent.brookfieldproperties.com/property/the-pavilion/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 60% of property management companys in Chicago, #9 of 13 property management companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 48. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 60% of property management companys in Chicago, #9 of 13 property management companys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 48. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/leasing-center-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/leasing-center-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/leasing-center-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/leasing-center-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13656334075 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

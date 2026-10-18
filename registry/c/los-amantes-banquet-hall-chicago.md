@@ -13,12 +13,12 @@ Los Amantes Banquet Hall is an event venue in Chicago, IL at 4753 West 47th Stre
 - Website: https://losamantesbanquet.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 22% of event venues in Chicago, #18 of 67 event venues in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 22% of event venues in Chicago, #18 of 67 event venues in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 54.8. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/los-amantes-banquet-hall-chicago/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/los-amantes-banquet-hall-chicago.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/los-amantes-banquet-hall-chicago/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/los-amantes-banquet-hall-chicago.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/162166615 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

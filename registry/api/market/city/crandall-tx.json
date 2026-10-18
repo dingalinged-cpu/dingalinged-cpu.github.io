@@ -2,7 +2,7 @@
  "title": "Keyword market data: Crandall, TX",
  "description": "Top Crandall, TX service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Crandall, TX",
  "geography": "Dallas-Fort Worth-Arlington, TX metro",
  "keywords": 14,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash crandall tx",
     "slug": "car-wash-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-crandall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -26,7 +26,7 @@
    {
     "keyword": "gym crandall tx",
     "slug": "gym-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-crandall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon crandall tx",
     "slug": "hair-salon-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-crandall-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon crandall tx",
     "slug": "nail-salon-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-crandall-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -71,7 +71,7 @@
    {
     "keyword": "barber shop crandall tx",
     "slug": "barber-shop-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-crandall-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -86,7 +86,7 @@
    {
     "keyword": "mechanic crandall tx",
     "slug": "mechanic-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-crandall-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -101,7 +101,7 @@
    {
     "keyword": "haircut crandall tx",
     "slug": "haircut-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-crandall-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -116,7 +116,7 @@
    {
     "keyword": "auto repair crandall tx",
     "slug": "auto-repair-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-crandall-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -131,7 +131,7 @@
    {
     "keyword": "real estate agent crandall tx",
     "slug": "real-estate-agent-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-crandall-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -146,7 +146,7 @@
    {
     "keyword": "realtor crandall tx",
     "slug": "realtor-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-crandall-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -163,7 +163,7 @@
    {
     "keyword": "bakery crandall tx",
     "slug": "bakery-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/bakery-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/bakery-crandall-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -178,7 +178,7 @@
    {
     "keyword": "daycare crandall tx",
     "slug": "daycare-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-crandall-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -193,7 +193,7 @@
    {
     "keyword": "preschool crandall tx",
     "slug": "preschool-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/preschool-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/preschool-crandall-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -208,7 +208,7 @@
    {
     "keyword": "haircut crandall tx",
     "slug": "haircut-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-crandall-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -223,7 +223,7 @@
    {
     "keyword": "auto repair crandall tx",
     "slug": "auto-repair-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-crandall-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -238,7 +238,7 @@
    {
     "keyword": "car wash crandall tx",
     "slug": "car-wash-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-crandall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -253,7 +253,7 @@
    {
     "keyword": "mechanic crandall tx",
     "slug": "mechanic-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-crandall-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -268,7 +268,7 @@
    {
     "keyword": "realtor crandall tx",
     "slug": "realtor-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-crandall-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,
@@ -283,7 +283,7 @@
    {
     "keyword": "real estate agent crandall tx",
     "slug": "real-estate-agent-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-crandall-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -298,7 +298,7 @@
    {
     "keyword": "dry cleaners crandall tx",
     "slug": "dry-cleaners-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dry-cleaners-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dry-cleaners-crandall-tx/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 5500,
@@ -313,7 +313,7 @@
    {
     "keyword": "gym crandall tx",
     "slug": "gym-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-crandall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -328,7 +328,7 @@
    {
     "keyword": "barber shop crandall tx",
     "slug": "barber-shop-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-crandall-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -343,7 +343,7 @@
    {
     "keyword": "nail salon crandall tx",
     "slug": "nail-salon-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-crandall-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -358,7 +358,7 @@
    {
     "keyword": "hair salon crandall tx",
     "slug": "hair-salon-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-crandall-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -375,7 +375,7 @@
    {
     "keyword": "car wash crandall tx",
     "slug": "car-wash-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-crandall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -390,7 +390,7 @@
    {
     "keyword": "gym crandall tx",
     "slug": "gym-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/gym-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/gym-crandall-tx/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 45000,
@@ -405,7 +405,7 @@
    {
     "keyword": "mechanic crandall tx",
     "slug": "mechanic-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-crandall-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -420,7 +420,7 @@
    {
     "keyword": "haircut crandall tx",
     "slug": "haircut-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-crandall-tx/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 9100,
@@ -435,7 +435,7 @@
    {
     "keyword": "auto repair crandall tx",
     "slug": "auto-repair-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-crandall-tx/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 7500,
@@ -450,7 +450,7 @@
    {
     "keyword": "hair salon crandall tx",
     "slug": "hair-salon-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-crandall-tx/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 37000,
@@ -465,7 +465,7 @@
    {
     "keyword": "real estate agent crandall tx",
     "slug": "real-estate-agent-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-crandall-tx/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 5000,
@@ -480,7 +480,7 @@
    {
     "keyword": "nail salon crandall tx",
     "slug": "nail-salon-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-crandall-tx/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 25000,
@@ -495,7 +495,7 @@
    {
     "keyword": "barber shop crandall tx",
     "slug": "barber-shop-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/barber-shop-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/barber-shop-crandall-tx/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 17000,
@@ -510,7 +510,7 @@
    {
     "keyword": "realtor crandall tx",
     "slug": "realtor-crandall-tx",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-crandall-tx/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-crandall-tx/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2200,

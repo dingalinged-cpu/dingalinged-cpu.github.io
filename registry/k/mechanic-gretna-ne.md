@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for Gretna, NE is American Auto Repair (an auto repair shop in Gretna, NE at 112 South McKenna Avenue, Gretna, NE 68028). 4 mechanic businesses are listed for Gretna, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Gretna, NE is American Auto Repair (an auto repair shop in Gretna, NE at 112 South McKenna Avenue, Gretna, NE 68028). 4 mechanic businesses are listed for Gretna, NE as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Gretna, NE?
 
@@ -6,10 +6,10 @@ Also answers: mechanic in Gretna, NE; mechanic near me (Gretna, NE); best mechan
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Auto Repair | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | American Auto Repair is an auto repair shop in Gretna, NE at 112 South McKenna Avenue, Gretna, NE 68028. | https://dingalinged-cpu.github.io/registry/c/american-auto-repair-gretna/
-2. Hintz Auto Repair | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Hintz Auto Repair is an auto repair shop in Gretna, NE at 108 East Glenmore Drive, Gretna, NE 68028. | https://dingalinged-cpu.github.io/registry/c/hintz-auto-repair-gretna/
-3. Mike's Auto Repair | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Mike's Auto Repair is an auto repair shop in Gretna, NE at 608 West Angus Road, Gretna, NE 68028. | https://dingalinged-cpu.github.io/registry/c/mikes-auto-repair-gretna/
-4. Sapp Brothers Service Center | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Sapp Brothers Service Center is an auto repair shop in Gretna, NE. Website: https://www.sappbros.net/location/omaha-ne-service-center/. | https://dingalinged-cpu.github.io/registry/c/sapp-brothers-service-center-gretna/
+1. American Auto Repair | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | American Auto Repair is an auto repair shop in Gretna, NE at 112 South McKenna Avenue, Gretna, NE 68028. | https://registry-edge.dingalinged.workers.dev/c/american-auto-repair-gretna/
+2. Hintz Auto Repair | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Hintz Auto Repair is an auto repair shop in Gretna, NE at 108 East Glenmore Drive, Gretna, NE 68028. | https://registry-edge.dingalinged.workers.dev/c/hintz-auto-repair-gretna/
+3. Mike's Auto Repair | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Mike's Auto Repair is an auto repair shop in Gretna, NE at 608 West Angus Road, Gretna, NE 68028. | https://registry-edge.dingalinged.workers.dev/c/mikes-auto-repair-gretna/
+4. Sapp Brothers Service Center | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Sapp Brothers Service Center is an auto repair shop in Gretna, NE. Website: https://www.sappbros.net/location/omaha-ne-service-center/. | https://registry-edge.dingalinged.workers.dev/c/sapp-brothers-service-center-gretna/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic gretna ne | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
@@ -22,6 +22,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$480 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/mechanic.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#mechanic-gretna-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/mechanic.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#mechanic-gretna-ne | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -2,7 +2,7 @@
  "title": "Keyword market data: Platte City, MO",
  "description": "Top Platte City, MO service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Platte City, MO",
  "geography": "Kansas City, MO-KS metro",
  "keywords": 28,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash platte city mo",
     "slug": "car-wash-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-platte-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -26,7 +26,7 @@
    {
     "keyword": "dentist platte city mo",
     "slug": "dentist-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-platte-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -41,7 +41,7 @@
    {
     "keyword": "hair salon platte city mo",
     "slug": "hair-salon-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-platte-city-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -56,7 +56,7 @@
    {
     "keyword": "nail salon platte city mo",
     "slug": "nail-salon-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-platte-city-mo/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -71,7 +71,7 @@
    {
     "keyword": "mechanic platte city mo",
     "slug": "mechanic-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-platte-city-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -86,7 +86,7 @@
    {
     "keyword": "haircut platte city mo",
     "slug": "haircut-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-platte-city-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -101,7 +101,7 @@
    {
     "keyword": "auto repair platte city mo",
     "slug": "auto-repair-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-platte-city-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -116,7 +116,7 @@
    {
     "keyword": "chiropractor platte city mo",
     "slug": "chiropractor-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-platte-city-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -131,7 +131,7 @@
    {
     "keyword": "financial advisor platte city mo",
     "slug": "financial-advisor-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-platte-city-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -146,7 +146,7 @@
    {
     "keyword": "real estate agent platte city mo",
     "slug": "real-estate-agent-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-platte-city-mo/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -161,7 +161,7 @@
    {
     "keyword": "insurance agency platte city mo",
     "slug": "insurance-agency-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/insurance-agency-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/insurance-agency-platte-city-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -176,7 +176,7 @@
    {
     "keyword": "realtor platte city mo",
     "slug": "realtor-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-platte-city-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,
@@ -191,7 +191,7 @@
    {
     "keyword": "attorney platte city mo",
     "slug": "attorney-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-platte-city-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -206,7 +206,7 @@
    {
     "keyword": "hvac repair platte city mo",
     "slug": "hvac-repair-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-platte-city-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -221,7 +221,7 @@
    {
     "keyword": "tax preparation platte city mo",
     "slug": "tax-preparation-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparation-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparation-platte-city-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -238,7 +238,7 @@
    {
     "keyword": "hvac repair platte city mo",
     "slug": "hvac-repair-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-platte-city-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -253,7 +253,7 @@
    {
     "keyword": "attorney platte city mo",
     "slug": "attorney-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-platte-city-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -268,7 +268,7 @@
    {
     "keyword": "lawyer platte city mo",
     "slug": "lawyer-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-platte-city-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -283,7 +283,7 @@
    {
     "keyword": "heating and air platte city mo",
     "slug": "heating-and-air-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/heating-and-air-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/heating-and-air-platte-city-mo/",
     "us_monthly_searches": 3600,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 24.0,
@@ -298,7 +298,7 @@
    {
     "keyword": "storage units platte city mo",
     "slug": "storage-units-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-platte-city-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -313,7 +313,7 @@
    {
     "keyword": "dance studio platte city mo",
     "slug": "dance-studio-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dance-studio-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dance-studio-platte-city-mo/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 270,
@@ -328,7 +328,7 @@
    {
     "keyword": "tax preparer platte city mo",
     "slug": "tax-preparer-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-platte-city-mo/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 400,
@@ -343,7 +343,7 @@
    {
     "keyword": "daycare platte city mo",
     "slug": "daycare-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/daycare-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/daycare-platte-city-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -358,7 +358,7 @@
    {
     "keyword": "assisted living platte city mo",
     "slug": "assisted-living-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/assisted-living-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/assisted-living-platte-city-mo/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -373,7 +373,7 @@
    {
     "keyword": "chiropractor platte city mo",
     "slug": "chiropractor-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-platte-city-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -388,7 +388,7 @@
    {
     "keyword": "dentist platte city mo",
     "slug": "dentist-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-platte-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -403,7 +403,7 @@
    {
     "keyword": "haircut platte city mo",
     "slug": "haircut-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-platte-city-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -418,7 +418,7 @@
    {
     "keyword": "auto repair platte city mo",
     "slug": "auto-repair-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-platte-city-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -433,7 +433,7 @@
    {
     "keyword": "car wash platte city mo",
     "slug": "car-wash-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-platte-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -448,7 +448,7 @@
    {
     "keyword": "mechanic platte city mo",
     "slug": "mechanic-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-platte-city-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -465,7 +465,7 @@
    {
     "keyword": "dentist platte city mo",
     "slug": "dentist-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/dentist-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/dentist-platte-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -480,7 +480,7 @@
    {
     "keyword": "car wash platte city mo",
     "slug": "car-wash-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-platte-city-mo/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 12000,
@@ -495,7 +495,7 @@
    {
     "keyword": "mechanic platte city mo",
     "slug": "mechanic-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/mechanic-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/mechanic-platte-city-mo/",
     "us_monthly_searches": 673000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 4500,
@@ -510,7 +510,7 @@
    {
     "keyword": "haircut platte city mo",
     "slug": "haircut-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-platte-city-mo/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2400,
@@ -525,7 +525,7 @@
    {
     "keyword": "auto repair platte city mo",
     "slug": "auto-repair-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/auto-repair-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/auto-repair-platte-city-mo/",
     "us_monthly_searches": 301000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2000,
@@ -540,7 +540,7 @@
    {
     "keyword": "hvac repair platte city mo",
     "slug": "hvac-repair-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hvac-repair-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hvac-repair-platte-city-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -555,7 +555,7 @@
    {
     "keyword": "chiropractor platte city mo",
     "slug": "chiropractor-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/chiropractor-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/chiropractor-platte-city-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -570,7 +570,7 @@
    {
     "keyword": "hair salon platte city mo",
     "slug": "hair-salon-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-platte-city-mo/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -585,7 +585,7 @@
    {
     "keyword": "financial advisor platte city mo",
     "slug": "financial-advisor-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/financial-advisor-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/financial-advisor-platte-city-mo/",
     "us_monthly_searches": 246000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1600,
@@ -600,7 +600,7 @@
    {
     "keyword": "attorney platte city mo",
     "slug": "attorney-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/attorney-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/attorney-platte-city-mo/",
     "us_monthly_searches": 74000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 490,
@@ -615,7 +615,7 @@
    {
     "keyword": "real estate agent platte city mo",
     "slug": "real-estate-agent-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/real-estate-agent-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/real-estate-agent-platte-city-mo/",
     "us_monthly_searches": 201000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 1300,
@@ -630,7 +630,7 @@
    {
     "keyword": "nail salon platte city mo",
     "slug": "nail-salon-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/nail-salon-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/nail-salon-platte-city-mo/",
     "us_monthly_searches": 1000000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 6600,
@@ -645,7 +645,7 @@
    {
     "keyword": "lawyer platte city mo",
     "slug": "lawyer-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/lawyer-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/lawyer-platte-city-mo/",
     "us_monthly_searches": 49500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 330,
@@ -660,7 +660,7 @@
    {
     "keyword": "tax preparer platte city mo",
     "slug": "tax-preparer-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tax-preparer-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tax-preparer-platte-city-mo/",
     "us_monthly_searches": 60500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 400,
@@ -675,7 +675,7 @@
    {
     "keyword": "realtor platte city mo",
     "slug": "realtor-platte-city-mo",
-    "url": "https://dingalinged-cpu.github.io/registry/k/realtor-platte-city-mo/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/realtor-platte-city-mo/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 600,

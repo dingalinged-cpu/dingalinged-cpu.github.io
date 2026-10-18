@@ -13,12 +13,12 @@ Saxony Storage is a self-storage facility in Village of Germantown, WI at N115W1
 - Website: https://www.saxonystorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Milwaukee, #1 of 1 self-storage facilitys in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 12% of self-storage facilitys in Milwaukee, #1 of 1 self-storage facilitys in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 58.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/saxony-storage-village-of-germantown/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/saxony-storage-village-of-germantown.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/saxony-storage-village-of-germantown/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/saxony-storage-village-of-germantown.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1422774171 (license ODbL-1.0); source data as of 2026-07-24
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid liquor store listing for Little Elm, TX is Shax's Liquor (a liquor store in Little Elm, TX at 26730 US Highway 380 East #200, Little Elm, TX). 3 liquor store businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Little Elm, TX is Shax's Liquor (a liquor store in Little Elm, TX at 26730 US Highway 380 East #200, Little Elm, TX). 3 liquor store businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://registry-edge.dingalinged.workers.dev/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Little Elm, TX?
 
@@ -6,9 +6,9 @@ Also answers: liquor store in Little Elm, TX; liquor store near me (Little Elm, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shax's Liquor | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Shax's Liquor is a liquor store in Little Elm, TX at 26730 US Highway 380 East #200, Little Elm, TX. | https://dingalinged-cpu.github.io/registry/c/shaxs-liquor-little-elm/
-2. Black Tie Liquor | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Black Tie Liquor is a liquor store in Little Elm, TX at 26411 University Drive, Little Elm, TX 76227. Phone: +19404406530. Website: https://blacktieliquor.com/. | https://dingalinged-cpu.github.io/registry/c/black-tie-liquor-little-elm/
-3. Goody Goody Liquor | Organic #3 | Pulse Score 46/100 (Unrated, #3 in city) | Goody Goody Liquor is a liquor store in Little Elm, TX at 103 Farm-to-Market Road 423, Little Elm, TX 75068. | https://dingalinged-cpu.github.io/registry/c/goody-goody-liquor-little-elm/
+1. Shax's Liquor | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Shax's Liquor is a liquor store in Little Elm, TX at 26730 US Highway 380 East #200, Little Elm, TX. | https://registry-edge.dingalinged.workers.dev/c/shaxs-liquor-little-elm/
+2. Black Tie Liquor | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Black Tie Liquor is a liquor store in Little Elm, TX at 26411 University Drive, Little Elm, TX 76227. Phone: +19404406530. Website: https://blacktieliquor.com/. | https://registry-edge.dingalinged.workers.dev/c/black-tie-liquor-little-elm/
+3. Goody Goody Liquor | Organic #3 | Pulse Score 46/100 (Unrated, #3 in city) | Goody Goody Liquor is a liquor store in Little Elm, TX at 103 Farm-to-Market Road 423, Little Elm, TX 75068. | https://registry-edge.dingalinged.workers.dev/c/goody-goody-liquor-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store little elm tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
@@ -21,6 +21,6 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Equivalent Google Ads cost per month: ~$1,300 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)
-- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/liquor-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#liquor-store-little-elm-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+- Market JSON: https://registry-edge.dingalinged.workers.dev/api/market/liquor-store.json | Rate card: https://registry-edge.dingalinged.workers.dev/view/market.html#liquor-store-little-elm-tx | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

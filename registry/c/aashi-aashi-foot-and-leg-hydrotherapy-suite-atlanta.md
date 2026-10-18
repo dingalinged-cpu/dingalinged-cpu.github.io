@@ -13,12 +13,12 @@ Aashi-Aashi Foot & Leg Hydrotherapy Suite is a physical therapy clinic in Atlant
 - Website: https://aashi-aashi.com/
 - Email: info@aashi-aashi.com
 - Opening hours (OSM syntax): Mo,Tu,Th 08:15-16:00; We,Fr 08:15-15:00; Sa "By appointment only"
-- Pulse Score: 64.9/100 — Good — top 2% of physical therapy clinics in Atlanta, #1 of 10 physical therapy clinics in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 66.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 2% of physical therapy clinics in Atlanta, #1 of 10 physical therapy clinics in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 66.1. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/aashi-aashi-foot-and-leg-hydrotherapy-suite-atlanta.json
 - Source: OpenStreetMap https://www.openstreetmap.org/node/13808272581 (license ODbL-1.0); source data as of 2026-06-01
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

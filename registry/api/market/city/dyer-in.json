@@ -2,7 +2,7 @@
  "title": "Keyword market data: Dyer, IN",
  "description": "Top Dyer, IN service keywords by estimated monthly searches, CPC and value, with sponsored-spot starting bids.",
  "updated": "2026-10-18",
- "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json",
+ "note": "Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://registry-edge.dingalinged.workers.dev/api/market/index.json",
  "place": "Dyer, IN",
  "geography": "Chicago-Naperville-Elgin, IL-IN metro",
  "keywords": 11,
@@ -11,7 +11,7 @@
    {
     "keyword": "car wash dyer in",
     "slug": "car-wash-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-dyer-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -26,7 +26,7 @@
    {
     "keyword": "hair salon dyer in",
     "slug": "hair-salon-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-dyer-in/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -41,7 +41,7 @@
    {
     "keyword": "tire shop dyer in",
     "slug": "tire-shop-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-dyer-in/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -56,7 +56,7 @@
    {
     "keyword": "haircut dyer in",
     "slug": "haircut-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-dyer-in/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -71,7 +71,7 @@
    {
     "keyword": "pediatrician dyer in",
     "slug": "pediatrician-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-dyer-in/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -86,7 +86,7 @@
    {
     "keyword": "family doctor dyer in",
     "slug": "family-doctor-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-dyer-in/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 910,
@@ -101,7 +101,7 @@
    {
     "keyword": "primary care physician dyer in",
     "slug": "primary-care-physician-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-dyer-in/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 750,
@@ -118,7 +118,7 @@
    {
     "keyword": "storage units dyer in",
     "slug": "storage-units-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/storage-units-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/storage-units-dyer-in/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 6100,
@@ -133,7 +133,7 @@
    {
     "keyword": "family doctor dyer in",
     "slug": "family-doctor-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-dyer-in/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 910,
@@ -148,7 +148,7 @@
    {
     "keyword": "pediatrician dyer in",
     "slug": "pediatrician-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-dyer-in/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -163,7 +163,7 @@
    {
     "keyword": "primary care physician dyer in",
     "slug": "primary-care-physician-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-dyer-in/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 750,
@@ -178,7 +178,7 @@
    {
     "keyword": "haircut dyer in",
     "slug": "haircut-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-dyer-in/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -193,7 +193,7 @@
    {
     "keyword": "car wash dyer in",
     "slug": "car-wash-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-dyer-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -208,7 +208,7 @@
    {
     "keyword": "tire shop dyer in",
     "slug": "tire-shop-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-dyer-in/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -223,7 +223,7 @@
    {
     "keyword": "pet store dyer in",
     "slug": "pet-store-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pet-store-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pet-store-dyer-in/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -238,7 +238,7 @@
    {
     "keyword": "thrift store dyer in",
     "slug": "thrift-store-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/thrift-store-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/thrift-store-dyer-in/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 3900,
@@ -253,7 +253,7 @@
    {
     "keyword": "printing services dyer in",
     "slug": "printing-services-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/printing-services-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/printing-services-dyer-in/",
     "us_monthly_searches": 40000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1100,
@@ -268,7 +268,7 @@
    {
     "keyword": "hair salon dyer in",
     "slug": "hair-salon-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-dyer-in/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -285,7 +285,7 @@
    {
     "keyword": "car wash dyer in",
     "slug": "car-wash-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/car-wash-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/car-wash-dyer-in/",
     "us_monthly_searches": 1830000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 51000,
@@ -300,7 +300,7 @@
    {
     "keyword": "tire shop dyer in",
     "slug": "tire-shop-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/tire-shop-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/tire-shop-dyer-in/",
     "us_monthly_searches": 550000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 15000,
@@ -315,7 +315,7 @@
    {
     "keyword": "haircut dyer in",
     "slug": "haircut-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/haircut-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/haircut-dyer-in/",
     "us_monthly_searches": 368000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 10000,
@@ -330,7 +330,7 @@
    {
     "keyword": "hair salon dyer in",
     "slug": "hair-salon-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/hair-salon-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/hair-salon-dyer-in/",
     "us_monthly_searches": 1500000,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 41000,
@@ -345,7 +345,7 @@
    {
     "keyword": "pediatrician dyer in",
     "slug": "pediatrician-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/pediatrician-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/pediatrician-dyer-in/",
     "us_monthly_searches": 90500,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 2500,
@@ -360,7 +360,7 @@
    {
     "keyword": "family doctor dyer in",
     "slug": "family-doctor-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/family-doctor-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/family-doctor-dyer-in/",
     "us_monthly_searches": 33100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 910,
@@ -375,7 +375,7 @@
    {
     "keyword": "primary care physician dyer in",
     "slug": "primary-care-physician-dyer-in",
-    "url": "https://dingalinged-cpu.github.io/registry/k/primary-care-physician-dyer-in/",
+    "url": "https://registry-edge.dingalinged.workers.dev/k/primary-care-physician-dyer-in/",
     "us_monthly_searches": 27100,
     "us_volume_method": "cited",
     "local_monthly_searches_est": 750,

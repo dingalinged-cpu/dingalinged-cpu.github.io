@@ -13,12 +13,12 @@ BRB Resale is a thrift store in Spring, TX at 27517 Prairie Street, Spring, TX 7
 - Website: https://oldtownspringshopping.com/directories/brb-resale
 - Email: brbresale@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 4% of thrift stores in Houston, #2 of 2 thrift stores in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 4% of thrift stores in Houston, #2 of 2 thrift stores in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.7. Method: https://registry-edge.dingalinged.workers.dev/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
-- Registry URL: https://dingalinged-cpu.github.io/registry/c/brb-resale-spring/
-- JSON: https://dingalinged-cpu.github.io/registry/api/companies/brb-resale-spring.json
+- Registry URL: https://registry-edge.dingalinged.workers.dev/c/brb-resale-spring/
+- JSON: https://registry-edge.dingalinged.workers.dev/api/companies/brb-resale-spring.json
 - Source: OpenStreetMap https://www.openstreetmap.org/way/1262306322 (license ODbL-1.0); source data as of 2026-07-28
 
 Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright
