@@ -13,7 +13,7 @@ Homemark Realty is a real estate agency in Milwaukee, WI at 2482 West Capitol Dr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 43% of real estate agencys in Milwaukee, #14 of 19 real estate agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 43% of real estate agencys in Milwaukee, #14 of 19 real estate agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

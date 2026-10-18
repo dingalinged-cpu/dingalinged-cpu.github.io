@@ -6,7 +6,7 @@ Also answers: used cars for sale in Melrose Park, IL; used cars for sale near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mexico Motorsports, Inc. | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Mexico Motorsports, Inc. is an used car dealer in Melrose Park, IL at 4701 West Lake Street, Melrose Park, IL 60160. | https://dingalinged-cpu.github.io/registry/c/mexico-motorsports-inc-melrose-park/
+1. Mexico Motorsports, Inc. | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Mexico Motorsports, Inc. is an used car dealer in Melrose Park, IL at 4701 West Lake Street, Melrose Park, IL 60160. | https://dingalinged-cpu.github.io/registry/c/mexico-motorsports-inc-melrose-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale melrose park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Kum & Go Car Wash is a car wash in West Des Moines, IA at 5308 University Avenue
 - Website: https://www.kumandgo.com/store-locator?details=0066
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 73% of car washes in Des Moines, IA, #7 of 9 car washes in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 71% of car washes in Des Moines, IA, #7 of 9 car washes in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

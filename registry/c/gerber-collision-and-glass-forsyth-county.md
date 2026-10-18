@@ -13,7 +13,7 @@ Gerber Collision & Glass is an auto repair shop in Forsyth County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 85% of auto repair shops in Atlanta, #8 of 10 auto repair shops in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 45.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 85% of auto repair shops in Atlanta, #8 of 10 auto repair shops in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

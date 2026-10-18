@@ -13,7 +13,7 @@ Sala Architects is an architect in Minneapolis, MN at 326 East Hennepin Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 89% of architects in Minneapolis–St. Paul, #6 of 8 architects in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 89% of architects in Minneapolis–St. Paul, #6 of 8 architects in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 40.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

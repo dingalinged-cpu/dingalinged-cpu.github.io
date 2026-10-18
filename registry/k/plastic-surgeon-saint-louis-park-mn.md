@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Saint Louis Park, MN; plastic surgeon near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Park Nicolet Specialty Center | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Park Nicolet Specialty Center is a plastic surgeon in Saint Louis Park, MN at 5400 Excelsior Boulevard, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/park-nicolet-specialty-center-saint-louis-park/
+1. Park Nicolet Specialty Center | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Park Nicolet Specialty Center is a plastic surgeon in Saint Louis Park, MN at 5400 Excelsior Boulevard, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/park-nicolet-specialty-center-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon saint louis park mn | category: Health & medical | industry benchmark: Physicians & Surgeons

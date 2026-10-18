@@ -13,7 +13,7 @@ Chanson Voice & Music Academy is a music school in Saint Paul, MN at 795 Raymond
 - Website: https://chansonvoicestudios.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of music schools in Minneapolis–St. Paul, #3 of 6 music schools in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of music schools in Minneapolis–St. Paul, #3 of 6 music schools in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

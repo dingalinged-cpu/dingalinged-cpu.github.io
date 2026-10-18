@@ -13,7 +13,7 @@ Rodriguez Landscape Company is a landscaping company in Milwaukee, WI at 534 Wes
 - Website: https://rodriguezlandscapecompany.com/
 - Email: rodriguez_landscapeco@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 34% of landscaping companys in Milwaukee, #2 of 5 landscaping companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 34% of landscaping companys in Milwaukee, #2 of 5 landscaping companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

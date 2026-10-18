@@ -7,9 +7,9 @@ Also answers: dance studio in Harris County, TX; dance studio near me (Harris Co
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Sassy Feet Dance Studio | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Sassy Feet Dance Studio is a dance studio in Harris County, TX at 6402 Louetta Rd, Harris County, TX. Phone: +13462366188. Website: https://sassyfeetdancestudio.com/. | https://dingalinged-cpu.github.io/registry/c/sassy-feet-dance-studio-harris-county/
-2. Atascocita Dance | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Atascocita Dance is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/atascocita-dance-harris-county/
-3. Define Dance | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Define Dance is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/define-dance-harris-county/
-4. Big Texas Dance Hall and Saloon | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Big Texas Dance Hall and Saloon is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/big-texas-dance-hall-and-saloon-harris-county/
+2. Atascocita Dance | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Atascocita Dance is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/atascocita-dance-harris-county/
+3. Define Dance | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Define Dance is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/define-dance-harris-county/
+4. Big Texas Dance Hall and Saloon | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Big Texas Dance Hall and Saloon is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/big-texas-dance-hall-and-saloon-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio harris county tx | category: Fitness | industry benchmark: Health & Fitness

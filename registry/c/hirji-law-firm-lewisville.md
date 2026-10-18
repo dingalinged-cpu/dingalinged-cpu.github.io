@@ -13,7 +13,7 @@ Hirji Law Firm is a lawyer in Lewisville, TX. Phone: +19723553406.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su off
-- Pulse Score: 58.7/100 — Fair — top 42% of lawyers in Dallas–Fort Worth, #2 of 8 lawyers in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 46.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Fair — top 42% of lawyers in Dallas–Fort Worth, #2 of 8 lawyers in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 46.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

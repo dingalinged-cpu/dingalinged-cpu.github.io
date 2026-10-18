@@ -13,7 +13,7 @@ Continental Office Group is a furniture store in Garland, TX at 4002 West Miller
 - Website: https://continentalofficegroup.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 16% of furniture stores in Dallas–Fort Worth, #1 of 4 furniture stores in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 15% of furniture stores in Dallas–Fort Worth, #1 of 4 furniture stores in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

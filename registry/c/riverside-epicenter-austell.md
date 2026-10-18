@@ -13,7 +13,7 @@ Riverside EpiCenter is an event venue in Austell, GA at 135 Riverside Parkway, A
 - Website: https://riversideepicenter.com/
 - Email: info@riversideepicenter.com
 - Opening hours (OSM syntax): Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa 08:00-22:00; Su 11:00-18:00
-- Pulse Score: 63.6/100 — Good — top 13% of event venues in Atlanta, #1 of 1 event venues in Austell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 11% of event venues in Atlanta, #1 of 1 event venues in Austell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

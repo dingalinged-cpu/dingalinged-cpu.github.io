@@ -13,7 +13,7 @@ Allstate is an insurance agent in Addison, TX at 4985 Morris Avenue, Addison, TX
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30; Fr 08:30-17:00; Sa "by appointment"; Su off
-- Pulse Score: 49.1/100 — Building — top 45% of insurance agents in Dallas–Fort Worth, #3 of 5 insurance agents in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 45% of insurance agents in Dallas–Fort Worth, #3 of 5 insurance agents in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

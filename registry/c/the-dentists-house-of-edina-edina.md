@@ -13,7 +13,7 @@ The Dentist's House of Edina is a dentist in Edina, MN at 3930 Sunnyside Road, E
 - Website: https://www.dentistshouse.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 19% of dentists in Minneapolis–St. Paul, #3 of 13 dentists in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 19% of dentists in Minneapolis–St. Paul, #3 of 13 dentists in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

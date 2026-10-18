@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. New York Life Insurance Company | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | New York Life Insurance Company is an insurance agent in Ankeny, IA at 1615 Southwest Main Street #201, Ankeny, IA. Phone: +15154531300. Website: https://desmoines.nyloffices.com/. | https://dingalinged-cpu.github.io/registry/c/new-york-life-insurance-company-ankeny/
 2. Doubleday Insurance Agency | Organic #2 | Pulse Score 62.7/100 (Unrated, #2 in city) | Doubleday Insurance Agency is an insurance agent in Ankeny, IA at 110 Southeast Grant Street #203, Ankeny, IA 50021. Phone: +15159640637. Website: https://doubledayinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/doubleday-insurance-agency-ankeny/
-3. State Farm | Organic #3 | Pulse Score 49/100 (Building, #3 in city) | State Farm is an insurance agent in Ankeny, IA at 114 Northwest 9th Street #103, Ankeny, IA 50023. Phone: +15152173053. Website: https://reyna-insurance.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-ankeny/
+3. State Farm | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | State Farm is an insurance agent in Ankeny, IA at 114 Northwest 9th Street #103, Ankeny, IA 50023. Phone: +15152173053. Website: https://reyna-insurance.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency ankeny ia | category: insurance | industry benchmark: Finance & Insurance

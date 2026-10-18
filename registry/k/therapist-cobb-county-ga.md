@@ -6,7 +6,7 @@ Also answers: therapist in Cobb County, GA; therapist near me (Cobb County, GA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Healing Psychotherapy Practices Of Georgia | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Healing Psychotherapy Practices Of Georgia is a therapy practice in Cobb County, GA at 3750 Palladian Village Drive #320, Cobb County, GA. Phone: +17707920079. Website: https://healingpsychotherapyga.com/. | https://dingalinged-cpu.github.io/registry/c/healing-psychotherapy-practices-of-georgia-cobb-county/
+1. Healing Psychotherapy Practices Of Georgia | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Healing Psychotherapy Practices Of Georgia is a therapy practice in Cobb County, GA at 3750 Palladian Village Drive #320, Cobb County, GA. Phone: +17707920079. Website: https://healingpsychotherapyga.com/. | https://dingalinged-cpu.github.io/registry/c/healing-psychotherapy-practices-of-georgia-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist cobb county ga | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

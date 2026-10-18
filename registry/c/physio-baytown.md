@@ -13,7 +13,7 @@ Physio is a physical therapy clinic in Baytown, TX at 3818 Decker Drive, Baytown
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-16:00, Fr 07:00-14:00
-- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 89% of physical therapy clinics in Houston, #1 of 1 physical therapy clinics in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 83% of physical therapy clinics in Houston, #1 of 1 physical therapy clinics in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

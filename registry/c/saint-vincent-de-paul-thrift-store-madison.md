@@ -13,7 +13,7 @@ Saint Vincent de Paul Thrift Store is a thrift store in Madison, WI at 6301 Odan
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 79% of thrift stores in Madison, #11 of 14 thrift stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 79% of thrift stores in Madison, #11 of 14 thrift stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

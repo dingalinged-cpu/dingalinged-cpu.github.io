@@ -13,7 +13,7 @@ Work It Coworking is a coworking space in Saint Paul, MN at 635 Fairview Avenue 
 - Website: https://co-workit.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:30
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 8% of coworking spaces in Minneapolis–St. Paul, #1 of 4 coworking spaces in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of coworking spaces in Minneapolis–St. Paul, #1 of 4 coworking spaces in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

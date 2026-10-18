@@ -13,7 +13,7 @@ Value City Furniture is a furniture store in Burbank, IL at 8310 South Cicero Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 81% of furniture stores in Chicago, #3 of 3 furniture stores in Burbank (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 81% of furniture stores in Chicago, #3 of 3 furniture stores in Burbank (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

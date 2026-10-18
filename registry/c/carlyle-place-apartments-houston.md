@@ -13,7 +13,7 @@ Carlyle Place Apartments is an assisted living facility in Houston, TX at 11025 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 52.5/100 — Unrated (not enough evidence yet) — top 80% of assisted living facilitys in Houston, #25 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.6/100 — Unrated (not enough evidence yet) — top 80% of assisted living facilitys in Houston, #25 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 43.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Animal Center of West Omaha is a veterinarian in Omaha, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 69% of veterinarians in Omaha, NE, #7 of 13 veterinarians in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 40.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 69% of veterinarians in Omaha, NE, #7 of 13 veterinarians in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 40.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Sunshine Interior Services is a flooring company in Cobb County, GA at 1747 Haze
 - Website: https://www.sunshineinteriorservices.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 62.7/100 — Good — top 16% of flooring companys in Atlanta, #1 of 6 flooring companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 16% of flooring companys in Atlanta, #1 of 6 flooring companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

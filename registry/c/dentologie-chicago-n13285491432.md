@@ -13,7 +13,7 @@ Dentologie is a dentist in Chicago, IL at 5255 North Clark Street, Chicago, IL 6
 - Website: https://dentologie.com/our-locations/chicago/andersonville
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-20:00; Fr 08:00-15:00
-- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 94% of dentists in Chicago, #138 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 93% of dentists in Chicago, #137 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

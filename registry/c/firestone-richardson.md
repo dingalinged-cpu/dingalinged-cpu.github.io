@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Richardson, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-17:00
-- Pulse Score: 43.9/100 — Building — top 87% of auto repair shops in Dallas–Fort Worth, #14 of 16 auto repair shops in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 86% of auto repair shops in Dallas–Fort Worth, #14 of 16 auto repair shops in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

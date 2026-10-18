@@ -13,7 +13,7 @@ Flower Cottage is a florist in East Point, GA. Phone: +14047682626. Website: htt
 - Website: https://www.flowercottageonmain.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-13:00; PH closed
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 53% of florists in Atlanta, #1 of 1 florists in East Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 53% of florists in Atlanta, #1 of 1 florists in East Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

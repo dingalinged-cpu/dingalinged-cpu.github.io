@@ -13,7 +13,7 @@ Lee's Championship Tae Kwon Do Academy is a martial arts school in Shoreview, MN
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 83% of martial arts schools in Minneapolis–St. Paul, #1 of 1 martial arts schools in Shoreview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 41.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 83% of martial arts schools in Minneapolis–St. Paul, #1 of 1 martial arts schools in Shoreview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 41. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

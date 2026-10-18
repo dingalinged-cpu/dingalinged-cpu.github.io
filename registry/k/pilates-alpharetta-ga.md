@@ -7,7 +7,7 @@ Also answers: pilates in Alpharetta, GA; pilates near me (Alpharetta, GA); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Solidcore | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Solidcore is a pilates studio in Alpharetta, GA at 5199 Avalon Boulevard, Alpharetta, GA. Phone: +17706920685. Website: https://solidcore.co/ga/atlanta/avalon/. | https://dingalinged-cpu.github.io/registry/c/solidcore-alpharetta/
-2. Club Pilates | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Club Pilates is a pilates studio in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/club-pilates-alpharetta/
+2. Club Pilates | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Club Pilates is a pilates studio in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/club-pilates-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates alpharetta ga | category: Fitness | industry benchmark: Health & Fitness

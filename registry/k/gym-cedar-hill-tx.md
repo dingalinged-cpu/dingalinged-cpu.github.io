@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Ment Fitness | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Ment Fitness is a gym in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/ment-fitness-cedar-hill/
 3. Hotworx | Organic #3 | Pulse Score 47.5/100 (Building, #3 in city) | Hotworx is a gym in Cedar Hill, TX at 374 East FM 1382 #A, Cedar Hill, TX 75104. Phone: +19726373279. | https://dingalinged-cpu.github.io/registry/c/hotworx-cedar-hill/
 4. Planet Fitness | Organic #4 | Pulse Score 47.5/100 (Building, #4 in city) | Planet Fitness is a gym in Cedar Hill, TX at 432 North Highway 67, Cedar Hill, TX 75104. Phone: +16823480417. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-cedar-hill/
-5. Anytime Fitness | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | Anytime Fitness is a gym in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-cedar-hill/
+5. Anytime Fitness | Organic #5 | Pulse Score 44.1/100 (Building, #5 in city) | Anytime Fitness is a gym in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym cedar hill tx | category: Fitness | industry benchmark: Health & Fitness

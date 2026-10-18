@@ -13,7 +13,7 @@ Von Rentzell Van & Storage Inc is a moving company in Greenwood, NE at 13817 238
 - Website: https://www.vonrentzell.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 75% of moving companys in Omaha, NE, #1 of 1 moving companys in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 75% of moving companys in Omaha, NE, #1 of 1 moving companys in Greenwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

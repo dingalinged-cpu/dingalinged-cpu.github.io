@@ -13,7 +13,7 @@ Midwest Dermatology Clinic is a dermatologist in Bellevue, NE at 720 Fort Crook 
 - Website: https://midwestderm.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 34% of dermatologists in Omaha, NE, #1 of 1 dermatologists in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 34% of dermatologists in Omaha, NE, #1 of 1 dermatologists in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Casa Cuba Midwest is an accountant in Chicago, IL at 5409 North Clark Street, Ch
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 61% of accountants in Chicago, #10 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 46.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 61% of accountants in Chicago, #10 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 46.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

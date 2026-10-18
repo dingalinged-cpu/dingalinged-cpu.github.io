@@ -13,7 +13,7 @@ ATI Physical Therapy is a physical therapy clinic in Omaha, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.5/100 — Building — top 87% of physical therapy clinics in Omaha, NE, #6 of 6 physical therapy clinics in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 43.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 87% of physical therapy clinics in Omaha, NE, #6 of 6 physical therapy clinics in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 43.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

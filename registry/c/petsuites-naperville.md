@@ -13,7 +13,7 @@ PetSuites is a dog boarding facility in Naperville, IL at 540 East Ogden Avenue,
 - Website: https://naperville.petsuitesofamerica.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 95% of dog boarding facilitys in Chicago, #1 of 1 dog boarding facilitys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 95% of dog boarding facilitys in Chicago, #1 of 1 dog boarding facilitys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

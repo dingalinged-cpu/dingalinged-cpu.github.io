@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Dallas, TX at 13710 Dallas Parkway #E, Dall
 - Website: https://www.mattressfirm.com/en-us/stores/tx/dallas/002095/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.3/100 — Fair — top 20% of mattress stores in Dallas–Fort Worth, #1 of 4 mattress stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.2, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 20% of mattress stores in Dallas–Fort Worth, #1 of 4 mattress stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

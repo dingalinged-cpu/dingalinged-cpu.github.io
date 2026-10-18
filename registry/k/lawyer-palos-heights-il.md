@@ -6,7 +6,7 @@ Also answers: lawyer in Palos Heights, IL; lawyer near me (Palos Heights, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Michael D. Ettinger & Associates | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Michael D. Ettinger & Associates is a lawyer in Palos Heights, IL at 12413 Harlem Avenue #203, Palos Heights, IL 60463. Phone: +17089230368. Website: https://www.michaelettingerlaw.com/. | https://dingalinged-cpu.github.io/registry/c/michael-d-ettinger-and-associates-palos-heights/
+1. Michael D. Ettinger & Associates | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Michael D. Ettinger & Associates is a lawyer in Palos Heights, IL at 12413 Harlem Avenue #203, Palos Heights, IL 60463. Phone: +17089230368. Website: https://www.michaelettingerlaw.com/. | https://dingalinged-cpu.github.io/registry/c/michael-d-ettinger-and-associates-palos-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer palos heights il | category: Legal | industry benchmark: Attorneys & Legal Services

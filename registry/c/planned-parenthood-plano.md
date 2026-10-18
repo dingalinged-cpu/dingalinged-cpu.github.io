@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Plano, TX at 600 North Central Expre
 - Website: https://www.plannedparenthood.org/health-center/texas/plano/75074/plano-health-center-4193-91620
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 09:00-17:00; Tu 11:00-19:00; Sa-Su off
-- Pulse Score: 51.5/100 — Fair — top 78% of therapy practices in Dallas–Fort Worth, #3 of 5 therapy practices in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.7, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.5/100 — Fair — top 76% of therapy practices in Dallas–Fort Worth, #2 of 5 therapy practices in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.7, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: tax preparation in Brookfield, WI; tax preparation near me (Brookf
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Fidelity | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Fidelity is a tax preparation service in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/fidelity-brookfield/
-2. H&R Block | Organic #2 | Pulse Score 41.2/100 (Building, #2 in city) | H&R Block is a tax preparation service in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-brookfield/
+2. H&R Block | Organic #2 | Pulse Score 41.3/100 (Building, #2 in city) | H&R Block is a tax preparation service in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation brookfield wi | category: Professional & financial services | industry benchmark: Finance & Insurance

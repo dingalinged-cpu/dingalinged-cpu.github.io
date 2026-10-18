@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Johnston, IA at 8805 Chambery Boulevard, Johnston, I
 - Website: https://www.anytimefitness.com/gyms/282/johnston-ia-50131/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 59% of gyms in Des Moines, IA, #1 of 2 gyms in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 59% of gyms in Des Moines, IA, #1 of 2 gyms in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

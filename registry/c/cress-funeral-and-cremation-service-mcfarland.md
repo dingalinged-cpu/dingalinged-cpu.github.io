@@ -13,7 +13,7 @@ Cress Funeral & Cremation Service is a funeral home in McFarland, WI at 5801 US 
 - Website: https://www.cressfuneralservice.com/mcfarland
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of funeral homes in Madison, #1 of 1 funeral homes in McFarland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of funeral homes in Madison, #1 of 1 funeral homes in McFarland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

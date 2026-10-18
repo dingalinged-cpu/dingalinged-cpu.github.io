@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Hammond, IN at 7131 Indianapolis Bou
 - Website: https://www.plannedparenthood.org/health-center/indiana/hammond/46324/hammond-health-center-2922-91810
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 09:00-17:00; We 10:00-18:00
-- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 71% of therapy practices in Chicago, #1 of 1 therapy practices in Hammond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 71% of therapy practices in Chicago, #1 of 1 therapy practices in Hammond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

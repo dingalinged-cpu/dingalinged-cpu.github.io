@@ -13,7 +13,7 @@ American Family Insurance is an insurance agent in Fremont, NE at 1720 East 23rd
 - Website: https://bethbrionagency.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 49% of insurance agents in Omaha, NE, #1 of 1 insurance agents in Fremont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 49% of insurance agents in Omaha, NE, #1 of 1 insurance agents in Fremont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

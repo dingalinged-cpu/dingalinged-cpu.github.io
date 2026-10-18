@@ -154,6 +154,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/basehor-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bayside-wi.jsonl",
    "format": "jsonl"
   },
@@ -191,6 +195,10 @@
   },
   {
    "path": "city/bellwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/belton-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -246,11 +254,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/blue-springs-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bolingbrook-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/bondurant-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bonner-springs-ks.jsonl",
    "format": "jsonl"
   },
   {
@@ -299,6 +315,10 @@
   },
   {
    "path": "city/brown-deer-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/buckner-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -363,6 +383,10 @@
   },
   {
    "path": "city/carrollton-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cass-county-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -443,6 +467,10 @@
   },
   {
    "path": "city/clarkston-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/clay-county-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -622,6 +650,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/de-soto-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/decatur-ga.jsonl",
    "format": "jsonl"
   },
@@ -750,6 +782,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/edgerton-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/edgerton-wi.jsonl",
    "format": "jsonl"
   },
@@ -822,6 +858,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/excelsior-springs-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/fairburn-ga.jsonl",
    "format": "jsonl"
   },
@@ -834,11 +874,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/fairway-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/falcon-heights-mn.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/fall-river-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/farley-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -859,6 +907,10 @@
   },
   {
    "path": "city/fayetteville-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/ferrelview-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -962,6 +1014,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/gardner-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/garland-tx.jsonl",
    "format": "jsonl"
   },
@@ -971,6 +1027,10 @@
   },
   {
    "path": "city/gary-in.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/gladstone-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -1014,7 +1074,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/grain-valley-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/grand-prairie-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/grandview-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/grandview-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -1091,6 +1163,10 @@
   },
   {
    "path": "city/harris-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/harrisonville-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -1242,6 +1318,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/independence-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/indian-creek-il.jsonl",
    "format": "jsonl"
   },
@@ -1290,6 +1370,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/johnson-county-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/johnston-ia.jsonl",
    "format": "jsonl"
   },
@@ -1306,6 +1390,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/kansas-city-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kansas-city-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/katy-tx.jsonl",
    "format": "jsonl"
   },
@@ -1315,6 +1407,10 @@
   },
   {
    "path": "city/kaufman-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/kearney-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -1414,7 +1510,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lansing-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/laplatte-i-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lathrop-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -1430,7 +1534,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lawson-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/league-city-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/leavenworth-county-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/leavenworth-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/leawood-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lee-s-summit-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -1439,6 +1563,10 @@
   },
   {
    "path": "city/lemont-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lenexa-ks.jsonl",
    "format": "jsonl"
   },
   {
@@ -1451,6 +1579,10 @@
   },
   {
    "path": "city/leyden-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/liberty-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -1518,6 +1650,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/lone-jack-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/long-grove-il.jsonl",
    "format": "jsonl"
   },
@@ -1527,6 +1663,10 @@
   },
   {
    "path": "city/loretto-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/louisburg-ks.jsonl",
    "format": "jsonl"
   },
   {
@@ -1694,6 +1834,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/merriam-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/merrillville-in.jsonl",
    "format": "jsonl"
   },
@@ -1743,6 +1887,14 @@
   },
   {
    "path": "city/minnetrista-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mission-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mission-woods-ks.jsonl",
    "format": "jsonl"
   },
   {
@@ -1906,6 +2058,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/north-kansas-city-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/north-oaks-mn.jsonl",
    "format": "jsonl"
   },
@@ -1942,6 +2098,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/northmoor-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/norwalk-ia.jsonl",
    "format": "jsonl"
   },
@@ -1955,6 +2115,10 @@
   },
   {
    "path": "city/oak-forest-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oak-grove-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -1975,6 +2139,14 @@
   },
   {
    "path": "city/oakdale-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/oakview-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/olathe-ks.jsonl",
    "format": "jsonl"
   },
   {
@@ -2003,6 +2175,10 @@
   },
   {
    "path": "city/osseo-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/overland-park-ks.jsonl",
    "format": "jsonl"
   },
   {
@@ -2054,6 +2230,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/parkville-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/pasadena-tx.jsonl",
    "format": "jsonl"
   },
@@ -2071,6 +2251,10 @@
   },
   {
    "path": "city/pearland-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/peculiar-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -2094,6 +2278,18 @@
    "format": "jsonl"
   },
   {
+   "path": "city/platte-city-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/platte-county-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/platte-woods-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/plattsmouth-ne.jsonl",
    "format": "jsonl"
   },
@@ -2103,6 +2299,14 @@
   },
   {
    "path": "city/pleasant-hill-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pleasant-hill-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pleasant-valley-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -2138,6 +2342,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/prairie-village-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/princeton-tx.jsonl",
    "format": "jsonl"
   },
@@ -2167,6 +2375,18 @@
   },
   {
    "path": "city/ramsey-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/ray-county-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/raymore-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/raytown-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -2234,6 +2454,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/riverside-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/riverwoods-il.jsonl",
    "format": "jsonl"
   },
@@ -2267,6 +2491,10 @@
   },
   {
    "path": "city/rockwall-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/roeland-park-ks.jsonl",
    "format": "jsonl"
   },
   {
@@ -2414,6 +2642,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/shawnee-ks.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/shenandoah-tx.jsonl",
    "format": "jsonl"
   },
@@ -2451,6 +2683,10 @@
   },
   {
    "path": "city/slinger-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/smithville-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -2499,6 +2735,10 @@
   },
   {
    "path": "city/splendora-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/spring-hill-ks.jsonl",
    "format": "jsonl"
   },
   {
@@ -2567,6 +2807,10 @@
   },
   {
    "path": "city/sturtevant-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/sugar-creek-mo.jsonl",
    "format": "jsonl"
   },
   {
@@ -2951,6 +3195,14 @@
   },
   {
    "path": "city/westmont-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/weston-mo.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/westwood-ks.jsonl",
    "format": "jsonl"
   },
   {

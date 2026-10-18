@@ -6,8 +6,8 @@ Also answers: painters in Milwaukee, WI; painters near me (Milwaukee, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thomas A. Mason Co. | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Thomas A. Mason Co. is a painting contractor in Milwaukee, WI at 1501 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14142716688. Website: https://www.tamason.com/. | https://dingalinged-cpu.github.io/registry/c/thomas-a-mason-co-milwaukee/
-2. Programmed Painting Service | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Programmed Painting Service is a painting contractor in Milwaukee, WI at 4029 West Greenfield Avenue, Milwaukee, WI 53215. | https://dingalinged-cpu.github.io/registry/c/programmed-painting-service-milwaukee/
+1. Thomas A. Mason Co. | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Thomas A. Mason Co. is a painting contractor in Milwaukee, WI at 1501 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14142716688. Website: https://www.tamason.com/. | https://dingalinged-cpu.github.io/registry/c/thomas-a-mason-co-milwaukee/
+2. Programmed Painting Service | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Programmed Painting Service is a painting contractor in Milwaukee, WI at 4029 West Greenfield Avenue, Milwaukee, WI 53215. | https://dingalinged-cpu.github.io/registry/c/programmed-painting-service-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters milwaukee wi | category: Home services - Painting | industry benchmark: Home & Home Improvement

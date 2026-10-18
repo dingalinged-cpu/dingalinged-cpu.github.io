@@ -13,7 +13,7 @@ Peoples Choice Electric, Inc. is an electrician in Houston, TX at 3200 Wilcrest 
 - Website: https://peopleschoiceelectric.com/
 - Email: PeoplesChoiceElectric@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 23% of electricians in Houston, #2 of 6 electricians in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 23% of electricians in Houston, #2 of 6 electricians in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

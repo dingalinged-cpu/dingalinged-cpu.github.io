@@ -13,7 +13,7 @@ Parsons House Assisted Living & Memory Care is an assisted living facility in Om
 - Website: https://parsonshouseseniorliving.com/
 - Email: info@parsonshousemgt.com
 - Opening hours (OSM syntax): Monday To Sunday - 8AM to 8PM
-- Pulse Score: 64.5/100 — Good — top 10% of assisted living facilitys in Omaha, NE, #1 of 4 assisted living facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.7, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 10% of assisted living facilitys in Omaha, NE, #1 of 4 assisted living facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.8, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Dr. Joseph Varon is a family medicine practice in Houston, TX at 2219 Dorrington
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 40% of family medicine practices in Houston, #5 of 9 family medicine practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 45.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 40% of family medicine practices in Houston, #5 of 9 family medicine practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 45.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

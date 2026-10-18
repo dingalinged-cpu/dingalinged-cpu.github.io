@@ -13,7 +13,7 @@ Salerno’s Galewood Chapel is a funeral home in Chicago, IL at 1857 North Harle
 - Website: https://www.salernofuneralhomes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 30% of funeral homes in Chicago, #10 of 26 funeral homes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 30% of funeral homes in Chicago, #10 of 26 funeral homes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

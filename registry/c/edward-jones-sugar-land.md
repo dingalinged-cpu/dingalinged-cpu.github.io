@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Sugar Land, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.1/100 — Building — top 96% of financial advisors in Houston, #3 of 3 financial advisors in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.1/100 — Building — top 96% of financial advisors in Houston, #3 of 3 financial advisors in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

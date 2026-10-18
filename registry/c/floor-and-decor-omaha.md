@@ -13,7 +13,7 @@ Floor & Decor is a flooring company in Omaha, NE at 350 Rose Blumkin Drive, Omah
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Building — top 100% of flooring companys in Omaha, NE, #2 of 2 flooring companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 50.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 100% of flooring companys in Omaha, NE, #2 of 2 flooring companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

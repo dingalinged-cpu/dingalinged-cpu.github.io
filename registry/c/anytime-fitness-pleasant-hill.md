@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Pleasant Hill, IA at 4490 East University Avenue, Pl
 - Website: https://www.anytimefitness.com/gyms/2977/pleasant-hill-ia-50327/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 62% of gyms in Des Moines, IA, #1 of 1 gyms in Pleasant Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 62% of gyms in Des Moines, IA, #1 of 1 gyms in Pleasant Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

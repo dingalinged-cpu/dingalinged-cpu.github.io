@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Atlanta, GA at 933 Peachtree Street #939A, Atla
 - Website: https://www.orangetheory.com/en-us/locations/atlanta-georgia-0137
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 00:00+
-- Pulse Score: 50.5/100 — Fair — top 52% of gyms in Atlanta, #27 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 51% of gyms in Atlanta, #27 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

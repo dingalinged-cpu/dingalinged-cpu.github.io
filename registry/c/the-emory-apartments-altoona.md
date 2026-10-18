@@ -13,7 +13,7 @@ The Emory Apartments is a property management company in Altoona, IA at 1490 34t
 - Website: https://www.emoryaltoona.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 60% of property management companys in Des Moines, IA, #1 of 1 property management companys in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 60% of property management companys in Des Moines, IA, #1 of 1 property management companys in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

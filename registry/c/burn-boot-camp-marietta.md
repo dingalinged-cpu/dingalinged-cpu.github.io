@@ -13,7 +13,7 @@ Burn Boot Camp is a gym in Marietta, GA at 2100 Roswell Road #1120, Marietta, GA
 - Website: https://locations.burnbootcamp.com/locations/east-cobb-ga/
 - Email: eastcobbga@burnbootcamp.com
 - Opening hours (OSM syntax): 05:00-13:00,14:30-19:30
-- Pulse Score: 51.8/100 — Fair — top 50% of gyms in Atlanta, #13 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.8/100 — Fair — top 49% of gyms in Atlanta, #12 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

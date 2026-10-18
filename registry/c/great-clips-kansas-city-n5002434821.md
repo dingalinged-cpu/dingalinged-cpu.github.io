@@ -1,0 +1,24 @@
+Great Clips is a hair salon in Kansas City, MO at 215C Northeast Englewood Road, Kansas City, MO 64118. Website: https://www.greatclips.com/salons/1013.
+
+# Great Clips
+
+- Category: hair salon
+- Services: hair salon, haircut
+- Address: 215C Northeast Englewood Road, Kansas City, MO 64118
+- City: Kansas City
+- State: MO
+- ZIP: 64118
+- Coordinates: 39.1940991, -94.5800086
+- Phone: n/a
+- Website: https://www.greatclips.com/salons/1013
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 47.4/100 — Building — top 82% of hair salons in Kansas City, MO, #102 of 114 hair salons in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/great-clips-kansas-city-n5002434821/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/great-clips-kansas-city-n5002434821.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5002434821 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

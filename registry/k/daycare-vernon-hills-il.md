@@ -6,7 +6,7 @@ Also answers: daycare in Vernon Hills, IL; daycare near me (Vernon Hills, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CDW @ Play | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | CDW @ Play is a daycare in Vernon Hills, IL at 165 Lakeview Parkway, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/cdw-play-vernon-hills/
+1. CDW @ Play | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | CDW @ Play is a daycare in Vernon Hills, IL at 165 Lakeview Parkway, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/cdw-play-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare vernon hills il | category: Education & childcare | industry benchmark: Education & Instruction

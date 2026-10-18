@@ -13,7 +13,7 @@ Kwik Trip is a car wash in Waukesha, WI. Website: https://www.kwiktrip.com/locat
 - Website: https://www.kwiktrip.com/locator/store?id=436
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 63% of car washes in Milwaukee, #1 of 3 car washes in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 63% of car washes in Milwaukee, #1 of 3 car washes in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

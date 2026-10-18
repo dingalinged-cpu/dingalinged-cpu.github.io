@@ -7,7 +7,7 @@ Also answers: dance studio in Wauconda, IL; dance studio near me (Wauconda, IL);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Bulldogs Spirit Poms & Dance | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Bulldogs Spirit Poms & Dance is a dance studio in Wauconda, IL. Website: https://bulldogsspiritpomsanddance.com/. | https://dingalinged-cpu.github.io/registry/c/bulldogs-spirit-poms-and-dance-wauconda/
-2. Academy of Ballet Wauconda | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Academy of Ballet Wauconda is a dance studio in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/academy-of-ballet-wauconda-wauconda/
+2. Academy of Ballet Wauconda | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Academy of Ballet Wauconda is a dance studio in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/academy-of-ballet-wauconda-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio wauconda il | category: Fitness | industry benchmark: Health & Fitness

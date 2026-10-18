@@ -7,7 +7,7 @@ Also answers: bike shop in Maple Grove, MN; bike shop near me (Maple Grove, MN);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Maple Grove Cycling | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Maple Grove Cycling is a bike shop in Maple Grove, MN at 13950 Grove Drive North #100, Maple Grove, MN 55311. Phone: +17634208878. Website: https://maplegrovecycling.com/. | https://dingalinged-cpu.github.io/registry/c/maple-grove-cycling-maple-grove/
-2. Erik's Bike Board Ski | Organic #2 | Pulse Score 45/100 (Building, #2 in city) | Erik's Bike Board Ski is a bike shop in Maple Grove, MN. Website: https://www.eriksbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-maple-grove/
+2. Erik's Bike Board Ski | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | Erik's Bike Board Ski is a bike shop in Maple Grove, MN. Website: https://www.eriksbikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop maple grove mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

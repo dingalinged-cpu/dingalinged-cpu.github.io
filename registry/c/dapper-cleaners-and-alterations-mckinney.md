@@ -13,7 +13,7 @@ Dapper Cleaners & Alterations is a dry cleaner in McKinney, TX at 9245 Virginia 
 - Website: https://www.dappercleaner.com/
 - Email: dappercleaners4@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:30; Sa 09:00-16:00; Su off
-- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 3% of dry cleaners in Dallas–Fort Worth, #1 of 6 dry cleaners in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 66.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 4% of dry cleaners in Dallas–Fort Worth, #1 of 6 dry cleaners in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 66.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

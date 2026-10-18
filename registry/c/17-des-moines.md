@@ -13,7 +13,7 @@
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Sa 10:00-14:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 31% of furniture stores in Des Moines, IA, #11 of 19 furniture stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 33% of furniture stores in Des Moines, IA, #12 of 19 furniture stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

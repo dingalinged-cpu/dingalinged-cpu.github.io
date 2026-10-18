@@ -13,7 +13,7 @@ Dino's Storage is a self-storage facility in Omaha, NE at 4876 South 192nd Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 47.5/100 — Unrated (not enough evidence yet) — top 63% of self-storage facilitys in Omaha, NE, #11 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.4/100 — Unrated (not enough evidence yet) — top 63% of self-storage facilitys in Omaha, NE, #11 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.5, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

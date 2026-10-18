@@ -13,7 +13,7 @@ Rooms To Go is a furniture store in Dallas, TX at 6041 Lyndon B Johnson Freeway 
 - Website: https://www.roomstogo.com/stores/texas/dallas-lbj-freeway-showroom-2105
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 47.5/100 — Building — top 65% of furniture stores in Dallas–Fort Worth, #18 of 30 furniture stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 65% of furniture stores in Dallas–Fort Worth, #18 of 30 furniture stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

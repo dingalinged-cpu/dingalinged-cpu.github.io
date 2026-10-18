@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Urbandale, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.3/100 — Building — top 86% of tax preparation services in Des Moines, IA, #1 of 1 tax preparation services in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 86% of tax preparation services in Des Moines, IA, #1 of 1 tax preparation services in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 40.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

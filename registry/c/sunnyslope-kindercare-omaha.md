@@ -13,7 +13,7 @@ Sunnyslope KinderCare is a preschool in Omaha, NE at 10625 Birch Street, Omaha, 
 - Website: https://www.kindercare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 18% of preschools in Omaha, NE, #3 of 19 preschools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 18% of preschools in Omaha, NE, #3 of 19 preschools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

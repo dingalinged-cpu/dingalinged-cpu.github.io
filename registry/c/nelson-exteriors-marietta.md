@@ -13,7 +13,7 @@ Nelson Exteriors is a roofer in Marietta, GA at 189 Kipling Drive Northeast, Mar
 - Website: https://www.nelson-exteriors.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.3/100 — Good — top 24% of roofers in Atlanta, #1 of 2 roofers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 24% of roofers in Atlanta, #1 of 2 roofers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

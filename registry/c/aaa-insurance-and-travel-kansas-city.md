@@ -1,0 +1,24 @@
+AAA Insurance and Travel is an insurance agent in Kansas City, MO at 9194 Northwest Skyview Avenue, Kansas City, MO 64154.
+
+# AAA Insurance and Travel
+
+- Category: insurance agent
+- Services: insurance agent, insurance agency, insurance agents
+- Address: 9194 Northwest Skyview Avenue, Kansas City, MO 64154
+- City: Kansas City
+- State: MO
+- ZIP: 64154
+- Coordinates: 39.2602312, -94.6578213
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.5/100 — Building — top 67% of insurance agents in Kansas City, MO, #25 of 41 insurance agents in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 50.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/aaa-insurance-and-travel-kansas-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/aaa-insurance-and-travel-kansas-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/5004197661 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -1,4 +1,4 @@
-The top unpaid dentist listing for the United States is Linden Hills Dentistry (a dentist in Minneapolis, MN at 4289 Sheridan Avenue South, Minneapolis, MN 55410. Phone: +16129226164. Website: https://www.lindenhillsdentistry.com/). 2392 dentist businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for the United States is Linden Hills Dentistry (a dentist in Minneapolis, MN at 4289 Sheridan Avenue South, Minneapolis, MN 55410. Phone: +16129226164. Website: https://www.lindenhillsdentistry.com/). 2541 dentist businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in the United States?
 
@@ -57,7 +57,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 49. Fiant Dental | Organic #49 | Pulse Score 63.9/100 (Good, #4 in city) | Fiant Dental is a dentist in Minneapolis, MN at 3225 Lyndale Avenue South, Minneapolis, MN 55408. Website: https://fiantdental.com/. | https://dingalinged-cpu.github.io/registry/c/fiant-dental-minneapolis/
 50. McKinney Dental & Implant Center | Organic #50 | Pulse Score 63.9/100 (Good, #1 in city) | McKinney Dental & Implant Center is a dentist in McKinney, TX at 3100 Ridge Road #300, McKinney, TX 75070. Phone: +19728336825. Website: https://mckinneyddscenter.com/. | https://dingalinged-cpu.github.io/registry/c/mckinney-dental-and-implant-center-mckinney/
 
-## More dentist listings (2392 total; top 50 unpaid shown)
+## More dentist listings (2541 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/dentist.jsonl
 - Houston, TX: 176 listings: https://dingalinged-cpu.github.io/registry/k/dentist-houston-tx/
 - Chicago, IL: 150 listings: https://dingalinged-cpu.github.io/registry/k/dentist-chicago-il/
@@ -69,6 +69,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Milwaukee, WI: 41 listings: https://dingalinged-cpu.github.io/registry/k/dentist-milwaukee-wi/
 - Minneapolis, MN: 40 listings: https://dingalinged-cpu.github.io/registry/k/dentist-minneapolis-mn/
 - Madison, WI: 38 listings: https://dingalinged-cpu.github.io/registry/k/dentist-madison-wi/
+- Kansas City, MO: 37 listings: https://dingalinged-cpu.github.io/registry/k/dentist-kansas-city-mo/
 - Flower Mound, TX: 34 listings: https://dingalinged-cpu.github.io/registry/k/dentist-flower-mound-tx/
 - Atlanta, GA: 34 listings: https://dingalinged-cpu.github.io/registry/k/dentist-atlanta-ga/
 - Irving, TX: 32 listings: https://dingalinged-cpu.github.io/registry/k/dentist-irving-tx/
@@ -88,11 +89,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Arlington, TX: 17 listings: https://dingalinged-cpu.github.io/registry/k/dentist-arlington-tx/
 - Sugar Land, TX: 17 listings: https://dingalinged-cpu.github.io/registry/k/dentist-sugar-land-tx/
 - Katy, TX: 17 listings: https://dingalinged-cpu.github.io/registry/k/dentist-katy-tx/
+- Shawnee, KS: 17 listings: https://dingalinged-cpu.github.io/registry/k/dentist-shawnee-ks/
 - Des Moines, IA: 16 listings: https://dingalinged-cpu.github.io/registry/k/dentist-des-moines-ia/
 - Fort Bend County, TX: 15 listings: https://dingalinged-cpu.github.io/registry/k/dentist-fort-bend-county-tx/
 - Cedar Hill, TX: 15 listings: https://dingalinged-cpu.github.io/registry/k/dentist-cedar-hill-tx/
 - West Des Moines, IA: 15 listings: https://dingalinged-cpu.github.io/registry/k/dentist-west-des-moines-ia/
 - Ankeny, IA: 14 listings: https://dingalinged-cpu.github.io/registry/k/dentist-ankeny-ia/
+- Olathe, KS: 14 listings: https://dingalinged-cpu.github.io/registry/k/dentist-olathe-ks/
 - Mesquite, TX: 13 listings: https://dingalinged-cpu.github.io/registry/k/dentist-mesquite-tx/
 - The Woodlands, TX: 13 listings: https://dingalinged-cpu.github.io/registry/k/dentist-the-woodlands-tx/
 - Garland, TX: 13 listings: https://dingalinged-cpu.github.io/registry/k/dentist-garland-tx/
@@ -105,10 +108,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Allen, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/dentist-allen-tx/
 - Kennesaw, GA: 11 listings: https://dingalinged-cpu.github.io/registry/k/dentist-kennesaw-ga/
 - Skokie, IL: 11 listings: https://dingalinged-cpu.github.io/registry/k/dentist-skokie-il/
+- Lenexa, KS: 11 listings: https://dingalinged-cpu.github.io/registry/k/dentist-lenexa-ks/
 - Pearland, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/dentist-pearland-tx/
 - Bedford, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/dentist-bedford-tx/
 - Lilburn, GA: 10 listings: https://dingalinged-cpu.github.io/registry/k/dentist-lilburn-ga/
 - Eagan, MN: 10 listings: https://dingalinged-cpu.github.io/registry/k/dentist-eagan-mn/
+- Overland Park, KS: 10 listings: https://dingalinged-cpu.github.io/registry/k/dentist-overland-park-ks/
 - Montgomery County, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/dentist-montgomery-county-tx/
 - Roswell, GA: 9 listings: https://dingalinged-cpu.github.io/registry/k/dentist-roswell-ga/
 - Fayetteville, GA: 9 listings: https://dingalinged-cpu.github.io/registry/k/dentist-fayetteville-ga/
@@ -118,6 +123,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - West Allis, WI: 9 listings: https://dingalinged-cpu.github.io/registry/k/dentist-west-allis-wi/
 - Conroe, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/dentist-conroe-tx/
 - Brookfield, IL: 8 listings: https://dingalinged-cpu.github.io/registry/k/dentist-brookfield-il/
+- Blue Springs, MO: 8 listings: https://dingalinged-cpu.github.io/registry/k/dentist-blue-springs-mo/
 - Eden Prairie, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/dentist-eden-prairie-mn/
 - Addison, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/dentist-addison-tx/
 - Tomball, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/dentist-tomball-tx/
@@ -128,6 +134,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Wylie, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/dentist-wylie-tx/
 - Evanston, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/dentist-evanston-il/
 - Glenview, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/dentist-glenview-il/
+- Independence, MO: 7 listings: https://dingalinged-cpu.github.io/registry/k/dentist-independence-mo/
 - Maplewood, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/dentist-maplewood-mn/
 - Colleyville, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/dentist-colleyville-tx/
 - Desoto, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/dentist-desoto-tx/
@@ -137,6 +144,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Lombard, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/dentist-lombard-il/
 - Bolingbrook, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/dentist-bolingbrook-il/
 - Wheaton, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/dentist-wheaton-il/
+- Belton, MO: 6 listings: https://dingalinged-cpu.github.io/registry/k/dentist-belton-mo/
 - New Brighton, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/dentist-new-brighton-mn/
 - Brookfield, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/dentist-brookfield-wi/
 - Waunakee, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/dentist-waunakee-wi/
@@ -163,6 +171,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Oak Park, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-oak-park-il/
 - Downers Grove, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-downers-grove-il/
 - Palatine, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-palatine-il/
+- Liberty, MO: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-liberty-mo/
 - West Saint Paul, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-west-saint-paul-mn/
 - Chanhassen, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-chanhassen-mn/
 - Mount Pleasant, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-mount-pleasant-wi/
@@ -173,6 +182,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Franklin, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-franklin-wi/
 - Council Bluffs, IA: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-council-bluffs-ia/
 - Bellevue, NE: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-bellevue-ne/
+- Kansas City, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/dentist-kansas-city-ks/
 - Webster, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-webster-tx/
 - Royse City, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-royse-city-tx/
 - Trophy Club, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-trophy-club-tx/
@@ -184,6 +194,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Orland Park, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-orland-park-il/
 - Countryside, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-countryside-il/
 - Western Springs, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-western-springs-il/
+- Gladstone, MO: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-gladstone-mo/
 - Coon Rapids, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-coon-rapids-mn/
 - Plymouth, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-plymouth-mn/
 - Robbinsdale, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/dentist-robbinsdale-mn/
@@ -216,6 +227,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Oak Lawn, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-oak-lawn-il/
 - Rolling Meadows, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-rolling-meadows-il/
 - Wauconda, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-wauconda-il/
+- Grain Valley, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-grain-valley-mo/
 - Roseville, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-roseville-mn/
 - Blaine, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-blaine-mn/
 - Shakopee, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-shakopee-mn/
@@ -231,6 +243,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Urbandale, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-urbandale-ia/
 - Grimes, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-grimes-ia/
 - Ralston, NE: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-ralston-ne/
+- Leavenworth, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/dentist-leavenworth-ks/
 - Texas City, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-texas-city-tx/
 - Hickory Creek, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-hickory-creek-tx/
 - The Colony, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-the-colony-tx/
@@ -275,6 +288,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Northbrook, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-northbrook-il/
 - Indian Head Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-indian-head-park-il/
 - Oakbrook Terrace, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-oakbrook-terrace-il/
+- Smithville, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-smithville-mo/
+- Lee'S Summit, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-lees-summit-mo/
 - Brooklyn Center, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-brooklyn-center-mn/
 - Richfield, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-richfield-mn/
 - Crystal, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-crystal-mn/
@@ -299,6 +314,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Fremont, NE: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-fremont-ne/
 - Gretna, NE: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-gretna-ne/
 - Papillion, NE: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-papillion-ne/
+- Leawood, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-leawood-ks/
+- Prairie Village, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/dentist-prairie-village-ks/
 - Waller, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-waller-tx/
 - Watauga, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-watauga-tx/
 - Cleveland, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-cleveland-tx/
@@ -379,6 +396,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Willowbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-willowbrook-il/
 - Wilmette, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-wilmette-il/
 - Deerfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-deerfield-il/
+- Platte City, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-platte-city-mo/
+- Grandview, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-grandview-mo/
+- Oakview, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-oakview-mo/
+- Excelsior Springs, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-excelsior-springs-mo/
+- Raytown, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-raytown-mo/
+- Pleasant Hill, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-pleasant-hill-mo/
+- Parkville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-parkville-mo/
 - Lino Lakes, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-lino-lakes-mn/
 - Hopkins, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-hopkins-mn/
 - Golden Valley, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-golden-valley-mn/
@@ -434,6 +458,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Valley, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-valley-ne/
 - Papillion Second I Precinct, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-papillion-second-i-precinct-ne/
 - Papillion Second Ii Precinct, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-papillion-second-ii-precinct-ne/
+- Roeland Park, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-roeland-park-ks/
+- Lansing, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-lansing-ks/
+- Fairway, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-fairway-ks/
+- Mission, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/dentist-mission-ks/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
@@ -442,7 +470,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'dentist near me': $4.70-$21.56 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 2392
+- Registry businesses competing: 2541
 - Equivalent Google Ads cost per month: ~$470,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $500/month, spots 2-4 from $50/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

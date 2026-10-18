@@ -13,7 +13,7 @@ Nak4 Orthodontics is a dentist in Arlington Heights, IL. Website: https://www.na
 - Website: https://www.nak4smiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 58% of dentists in Chicago, #7 of 9 dentists in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 43.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 57% of dentists in Chicago, #7 of 9 dentists in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 43.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

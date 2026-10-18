@@ -7,7 +7,7 @@ Also answers: hvac repair in Bolingbrook, IL; hvac repair near me (Bolingbrook, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Windy City HVAC Repair | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Windy City HVAC Repair is a HVAC contractor in Bolingbrook, IL at 400 North Schmidt Road #211, Bolingbrook, IL 60440. Phone: +13125004822. Website: https://hvacchicago.com/. | https://dingalinged-cpu.github.io/registry/c/windy-city-hvac-repair-bolingbrook/
-2. DuAll Heating & Cooling | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | DuAll Heating & Cooling is a HVAC contractor in Bolingbrook, IL at 419 Foxborough Trail, Bolingbrook, IL 60440. Phone: +16302471720. Website: https://www.duallheating.com/. | https://dingalinged-cpu.github.io/registry/c/duall-heating-and-cooling-bolingbrook/
+2. DuAll Heating & Cooling | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | DuAll Heating & Cooling is a HVAC contractor in Bolingbrook, IL at 419 Foxborough Trail, Bolingbrook, IL 60440. Phone: +16302471720. Website: https://www.duallheating.com/. | https://dingalinged-cpu.github.io/registry/c/duall-heating-and-cooling-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair bolingbrook il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

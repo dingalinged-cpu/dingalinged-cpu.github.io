@@ -13,7 +13,7 @@ Shamrock Roofing and Construction is a roofer in Omaha, NE at 2417 South 156th C
 - Website: https://shamrockroofer.com/location/omaha/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 50% of roofers in Omaha, NE, #3 of 5 roofers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 51.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 84% of roofers in Omaha, NE, #5 of 5 roofers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

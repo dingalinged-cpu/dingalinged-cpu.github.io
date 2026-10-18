@@ -1,0 +1,24 @@
+La Chispa Auto Service is an auto repair shop in Kansas City, MO at 822 Van Brunt Boulevard, Kansas City, MO 64124.
+
+# La Chispa Auto Service
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: 822 Van Brunt Boulevard, Kansas City, MO 64124
+- City: Kansas City
+- State: MO
+- ZIP: 64124
+- Coordinates: 39.102055, -94.5262649
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 31% of auto repair shops in Kansas City, MO, #38 of 100 auto repair shops in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/la-chispa-auto-service-kansas-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/la-chispa-auto-service-kansas-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/508146234 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

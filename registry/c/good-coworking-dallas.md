@@ -13,7 +13,7 @@ Good Coworking is a coworking space in Dallas, TX at 1808 South Good-Latimer Exp
 - Website: https://goodcoworking.co/
 - Email: hello@goodcoworking.co
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su off
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 20% of coworking spaces in Dallas–Fort Worth, #5 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 20% of coworking spaces in Dallas–Fort Worth, #5 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 48.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: acupuncture in Wauwatosa, WI; acupuncture near me (Wauwatosa, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Acupuncture & Oriental Medicine Services | Organic #1 | Pulse Score 61.7/100 (Good, #1 in city) | Acupuncture & Oriental Medicine Services is an acupuncture clinic in Wauwatosa, WI at 8736 West North Avenue, Wauwatosa, WI 53226. Phone: +14144315010. Website: https://milwaukeeacupuncture.com/. | https://dingalinged-cpu.github.io/registry/c/acupuncture-and-oriental-medicine-services-wauwatosa/
-2. Day & Day Clinic of Acupuncture | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Day & Day Clinic of Acupuncture is an acupuncture clinic in Wauwatosa, WI at 7020 West North Avenue, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/day-and-day-clinic-of-acupuncture-wauwatosa/
+1. Acupuncture & Oriental Medicine Services | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Acupuncture & Oriental Medicine Services is an acupuncture clinic in Wauwatosa, WI at 8736 West North Avenue, Wauwatosa, WI 53226. Phone: +14144315010. Website: https://milwaukeeacupuncture.com/. | https://dingalinged-cpu.github.io/registry/c/acupuncture-and-oriental-medicine-services-wauwatosa/
+2. Day & Day Clinic of Acupuncture | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Day & Day Clinic of Acupuncture is an acupuncture clinic in Wauwatosa, WI at 7020 West North Avenue, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/day-and-day-clinic-of-acupuncture-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: acupuncture wauwatosa wi | category: Health & medical | industry benchmark: Physicians & Surgeons

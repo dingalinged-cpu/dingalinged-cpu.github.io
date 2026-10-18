@@ -13,7 +13,7 @@ RE/MAX is a real estate agency in Ankeny, IA at 201 South Ankeny Boulevard, Anke
 - Website: https://www.dsm-metroforsale.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 60% of real estate agencys in Des Moines, IA, #5 of 7 real estate agencys in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 60% of real estate agencys in Des Moines, IA, #5 of 7 real estate agencys in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

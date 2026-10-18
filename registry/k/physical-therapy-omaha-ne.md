@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Makovicka Phsyical Therapy | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Makovicka Phsyical Therapy is a physical therapy clinic in Omaha, NE at 3201 Farnam Street ##6110, Omaha, NE 68131. | https://dingalinged-cpu.github.io/registry/c/makovicka-phsyical-therapy-omaha/
 2. Premier one on one physical therapy | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Premier one on one physical therapy is a physical therapy clinic in Omaha, NE at 6073 Maple Street, Omaha, NE 68104. | https://dingalinged-cpu.github.io/registry/c/premier-one-on-one-physical-therapy-omaha/
-3. Mackovicka Therapy | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Mackovicka Therapy is a physical therapy clinic in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/mackovicka-therapy-omaha/
-4. ReStore Physical Therapy | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | ReStore Physical Therapy is a physical therapy clinic in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/restore-physical-therapy-omaha/
-5. Rock Valley Physical Therapy | Organic #5 | Pulse Score 45.5/100 (Unrated, #5 in city) | Rock Valley Physical Therapy is a physical therapy clinic in Omaha, NE at 7611 Pacific Street, Omaha, NE 68114. | https://dingalinged-cpu.github.io/registry/c/rock-valley-physical-therapy-omaha/
+3. Mackovicka Therapy | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Mackovicka Therapy is a physical therapy clinic in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/mackovicka-therapy-omaha/
+4. ReStore Physical Therapy | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | ReStore Physical Therapy is a physical therapy clinic in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/restore-physical-therapy-omaha/
+5. Rock Valley Physical Therapy | Organic #5 | Pulse Score 45.6/100 (Unrated, #5 in city) | Rock Valley Physical Therapy is a physical therapy clinic in Omaha, NE at 7611 Pacific Street, Omaha, NE 68114. | https://dingalinged-cpu.github.io/registry/c/rock-valley-physical-therapy-omaha/
 6. ATI Physical Therapy | Organic #6 | Pulse Score 43.5/100 (Building, #6 in city) | ATI Physical Therapy is a physical therapy clinic in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-omaha/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Recon Roofing & Construction is a roofer in Des Moines, IA at 455 Southwest 5th 
 - Website: https://www.reconroof.com/
 - Email: info@reconroof.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 09:00-16:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 25% of roofers in Des Moines, IA, #1 of 1 roofers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 25% of roofers in Des Moines, IA, #1 of 1 roofers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

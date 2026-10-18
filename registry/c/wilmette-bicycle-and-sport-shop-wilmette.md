@@ -13,7 +13,7 @@ Wilmette Bicycle & Sport Shop is a bike shop in Wilmette, IL at 605 Green Bay Ro
 - Website: https://www.wilmettesportshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 56% of bike shops in Chicago, #1 of 1 bike shops in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 55% of bike shops in Chicago, #1 of 1 bike shops in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

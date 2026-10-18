@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Chicago, IL at 403 West North Avenue, C
 - Website: https://locations.waxcenter.com/il/chicago/chicago-old-town-0303.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-16:00; Su 09:00-15:00
-- Pulse Score: 49.4/100 — Building — top 39% of waxing salons in Chicago, #6 of 11 waxing salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 39% of waxing salons in Chicago, #6 of 11 waxing salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

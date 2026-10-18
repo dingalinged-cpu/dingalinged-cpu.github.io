@@ -13,7 +13,7 @@ Hunters Creek is an assisted living facility in Houston, TX at 7667 Woodway Driv
 - Website: https://www.belmontvillage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 96% of assisted living facilitys in Houston, #31 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 48.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 96% of assisted living facilitys in Houston, #31 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

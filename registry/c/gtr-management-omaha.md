@@ -13,7 +13,7 @@ GTR Management is a property management company in Omaha, NE at 6502 North 30th 
 - Website: https://www.gtrmanagement.website/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of property management companys in Omaha, NE, #2 of 5 property management companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 34% of property management companys in Omaha, NE, #2 of 5 property management companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

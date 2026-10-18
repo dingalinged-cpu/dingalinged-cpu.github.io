@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Denton, TX at 5050 Teasley Lane #104, Denton, TX 762
 - Website: https://www.anytimefitness.com/gyms/3427/denton-tx-76210/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.7/100 — Building — top 46% of gyms in Dallas–Fort Worth, #9 of 11 gyms in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 45% of gyms in Dallas–Fort Worth, #9 of 11 gyms in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

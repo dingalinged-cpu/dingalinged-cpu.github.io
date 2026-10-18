@@ -13,7 +13,7 @@ ATI Physical Therapy is a physical therapy clinic in Naperville, IL at 1212 Sout
 - Website: https://locations.atipt.com/naperville-il-east
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.6/100 — Building — top 30% of physical therapy clinics in Chicago, #3 of 4 physical therapy clinics in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 30% of physical therapy clinics in Chicago, #3 of 4 physical therapy clinics in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Rooms To Go is a furniture store in Douglasville, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.6/100 — Building — top 82% of furniture stores in Atlanta, #3 of 5 furniture stores in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 82% of furniture stores in Atlanta, #3 of 5 furniture stores in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

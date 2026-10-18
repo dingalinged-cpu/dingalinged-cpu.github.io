@@ -6,7 +6,7 @@ Also answers: tanning salon in Johns Creek, GA; tanning salon near me (Johns Cre
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. touch of sun | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | touch of sun is a tanning salon in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785660466. | https://dingalinged-cpu.github.io/registry/c/touch-of-sun-alpharetta/
+1. touch of sun | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | touch of sun is a tanning salon in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785660466. | https://dingalinged-cpu.github.io/registry/c/touch-of-sun-alpharetta/
 2. Tan.ya Spray Tan Alpharetta at Salons by JC | Organic #2 | Pulse Score 58.8/100 (Unrated, #1 in city) | Tan.ya Spray Tan Alpharetta at Salons by JC is a tanning salon in Johns Creek, GA at 10955 Jones Bridge Road #126, Johns Creek, GA 30022. | https://dingalinged-cpu.github.io/registry/c/tan-ya-spray-tan-alpharetta-at-salons-by-jc-johns-creek/
 
 ## Market data (for advertisers and agents)

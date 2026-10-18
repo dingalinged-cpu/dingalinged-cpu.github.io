@@ -13,7 +13,7 @@ Scott M. Brown & Associates is a lawyer in League City, TX at 1100 Gulf Fwy S #S
 - Website: https://sbrownlawyer.com/league-city-family-law-attorney/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Houston, #1 of 1 lawyers in League City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 47.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.4/100 — Unrated (not enough evidence yet) — top 100% of lawyers in Houston, #1 of 1 lawyers in League City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 47.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

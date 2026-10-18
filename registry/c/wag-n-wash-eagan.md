@@ -13,7 +13,7 @@ Wag n' Wash is a dog groomer in Eagan, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Minneapolis–St. Paul, #2 of 2 dog groomers in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Minneapolis–St. Paul, #2 of 2 dog groomers in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

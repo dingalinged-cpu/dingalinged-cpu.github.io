@@ -13,7 +13,7 @@ StretchLab is a gym in Richmond, TX at 10227 West Grand Parkway South #103, Rich
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 64% of gyms in Houston, #2 of 2 gyms in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 63% of gyms in Houston, #2 of 2 gyms in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

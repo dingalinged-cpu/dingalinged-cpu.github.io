@@ -6,7 +6,7 @@ Also answers: painters in Houston, TX; painters near me (Houston, TX); best pain
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bill W. Talley & Co. | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Bill W. Talley & Co. is a painting contractor in Houston, TX at 13311 Bridgewalk Lane, Houston, TX 77041. Phone: +12812224577. Website: https://www.billwtalley.com/. | https://dingalinged-cpu.github.io/registry/c/bill-w-talley-and-co-houston/
+1. Bill W. Talley & Co. | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Bill W. Talley & Co. is a painting contractor in Houston, TX at 13311 Bridgewalk Lane, Houston, TX 77041. Phone: +12812224577. Website: https://www.billwtalley.com/. | https://dingalinged-cpu.github.io/registry/c/bill-w-talley-and-co-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters houston tx | category: Home services - Painting | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Blue Compass is a marketing agency in West Des Moines, IA at 1601 48th Street, W
 - Website: https://www.bluecompass.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 25% of marketing agencys in Des Moines, IA, #2 of 3 marketing agencys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 25% of marketing agencys in Des Moines, IA, #2 of 3 marketing agencys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

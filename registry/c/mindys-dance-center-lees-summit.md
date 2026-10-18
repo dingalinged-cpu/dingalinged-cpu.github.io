@@ -1,0 +1,24 @@
+Mindy's Dance Center is a dance studio in Lee's Summit, MO. Website: https://www.mindysdancecenter.com/.
+
+# Mindy's Dance Center
+
+- Category: dance studio
+- Services: dance studio
+- Address: Lee's Summit, MO
+- City: Lee's Summit
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.9164112, -94.4024728
+- Phone: n/a
+- Website: https://www.mindysdancecenter.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 48% of dance studios in Kansas City, MO, #1 of 1 dance studios in Lee's Summit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/mindys-dance-center-lees-summit/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/mindys-dance-center-lees-summit.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13701640481 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

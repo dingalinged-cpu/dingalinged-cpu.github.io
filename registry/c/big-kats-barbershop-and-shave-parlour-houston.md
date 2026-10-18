@@ -13,7 +13,7 @@ Big Kat's Barbershop & Shave Parlour is a hair salon in Houston, TX at 3622 Main
 - Website: https://bigkatshouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-17:30; Sa 10:00-13:30
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 8% of hair salons in Houston, #14 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 8% of hair salons in Houston, #15 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

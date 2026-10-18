@@ -13,7 +13,7 @@ MAACO is an auto repair shop in Lancaster, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.5/100 — Building — top 91% of auto repair shops in Dallas–Fort Worth, #3 of 3 auto repair shops in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 39.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.5/100 — Building — top 90% of auto repair shops in Dallas–Fort Worth, #3 of 3 auto repair shops in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 39.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ ShakRa Yoga & Fitness is a yoga studio in Shakopee, MN at 110 1/2 1st Avenue Eas
 - Website: https://shakrayoga.com/
 - Email: shakrayoga@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 37% of yoga studios in Minneapolis–St. Paul, #1 of 1 yoga studios in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 50.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 37% of yoga studios in Minneapolis–St. Paul, #1 of 1 yoga studios in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 50.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

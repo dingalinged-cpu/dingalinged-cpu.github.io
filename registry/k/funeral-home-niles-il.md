@@ -7,7 +7,7 @@ Also answers: funeral home in Niles, IL; funeral home near me (Niles, IL); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Skaja Terrace Funeral Home | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Skaja Terrace Funeral Home is a funeral home in Niles, IL at 7812 North Milwaukee Avenue, Niles, IL 60714. Website: https://www.skajafuneralhomes.com/. | https://dingalinged-cpu.github.io/registry/c/skaja-terrace-funeral-home-niles/
-2. Colonial-Wojciechowski Funeral Home | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Colonial-Wojciechowski Funeral Home is a funeral home in Niles, IL at 8025 West Golf Road, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/colonial-wojciechowski-funeral-home-niles/
+2. Colonial-Wojciechowski Funeral Home | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Colonial-Wojciechowski Funeral Home is a funeral home in Niles, IL at 8025 West Golf Road, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/colonial-wojciechowski-funeral-home-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home niles il | category: Professional & financial services | industry benchmark: Finance & Insurance

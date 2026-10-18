@@ -6,9 +6,9 @@ Also answers: moving company in Houston, TX; moving company near me (Houston, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Points of Texas | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | All Points of Texas is a moving company in Houston, TX at 4015 West 11th Street, Houston, TX 77055. Phone: +17139656044. Website: https://www.allpointsoftexas.com/contact/houston/. | https://dingalinged-cpu.github.io/registry/c/all-points-of-texas-houston/
+1. All Points of Texas | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | All Points of Texas is a moving company in Houston, TX at 4015 West 11th Street, Houston, TX 77055. Phone: +17139656044. Website: https://www.allpointsoftexas.com/contact/houston/. | https://dingalinged-cpu.github.io/registry/c/all-points-of-texas-houston/
 2. Houston Junk Movers | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Houston Junk Movers is a moving company in Houston, TX at 9639 Hillcroft Avenue, Houston, TX 77096. Phone: +18326581634. Website: https://www.houstonjunkmovers.com/. | https://dingalinged-cpu.github.io/registry/c/houston-junk-movers-houston/
-3. Westheimer Transfer & Storage Co. Inc. | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Westheimer Transfer & Storage Co. Inc. is a moving company in Houston, TX at 9960 Buffalo Speedway, Houston, TX 77054. | https://dingalinged-cpu.github.io/registry/c/westheimer-transfer-and-storage-co-inc-houston/
+3. Westheimer Transfer & Storage Co. Inc. | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Westheimer Transfer & Storage Co. Inc. is a moving company in Houston, TX at 9960 Buffalo Speedway, Houston, TX 77054. | https://dingalinged-cpu.github.io/registry/c/westheimer-transfer-and-storage-co-inc-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company houston tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

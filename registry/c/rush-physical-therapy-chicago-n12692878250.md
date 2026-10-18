@@ -13,7 +13,7 @@ RUSH Physical Therapy is a physical therapy clinic in Chicago, IL at 2569 West F
 - Website: https://www.rushpt.com/contact/find-a-location/il/chicago/logan-square/?ty=xt
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 33% of physical therapy clinics in Chicago, #15 of 55 physical therapy clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 33% of physical therapy clinics in Chicago, #15 of 55 physical therapy clinics in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

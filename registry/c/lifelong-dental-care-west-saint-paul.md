@@ -13,7 +13,7 @@ Lifelong Dental Care is a dentist in West Saint Paul, MN at 1525 Livingston Aven
 - Website: https://lifelongdds.com/home
 - Email: lifelongdds@gmail.com
 - Opening hours (OSM syntax): Mo 08:00-17:00, Tu 07:00-18:00, We 07:30-12:00, Th 08:00-17:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 10% of dentists in Minneapolis–St. Paul, #1 of 5 dentists in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 9% of dentists in Minneapolis–St. Paul, #1 of 5 dentists in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Dogtopia is a dog boarding facility in Papillion, NE at 7809 Towne Center Parkwa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 86% of dog boarding facilitys in Omaha, NE, #1 of 1 dog boarding facilitys in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 47.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 86% of dog boarding facilitys in Omaha, NE, #1 of 1 dog boarding facilitys in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

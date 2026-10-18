@@ -13,7 +13,7 @@ Stonebriar Spa is a spa in Frisco, TX at 1221 Legacy Drive #75034, Frisco, TX. P
 - Website: https://stonebriarspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-18:00; Su 10:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of spas in Dallas–Fort Worth, #2 of 3 spas in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 14% of spas in Dallas–Fort Worth, #2 of 3 spas in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

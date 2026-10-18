@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Bullseye Bike Shop | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Bullseye Bike Shop is a bike shop in Denton, TX at 108 West McKinney Street #100, Denton, TX 76201. Phone: +19404350488. | https://dingalinged-cpu.github.io/registry/c/bullseye-bike-shop-denton/
 2. Velo Republic | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Velo Republic is a bike shop in Denton, TX at 219 Fort Worth Drive, Denton, TX 76201. Phone: +19403874283. Website: https://velorepublicbikes.com/. | https://dingalinged-cpu.github.io/registry/c/velo-republic-denton/
-3. Sprockets Bicycle Shop | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Sprockets Bicycle Shop is a bike shop in Denton, TX at 231 West Hickory Street, Denton, TX. | https://dingalinged-cpu.github.io/registry/c/sprockets-bicycle-shop-denton/
+3. Sprockets Bicycle Shop | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Sprockets Bicycle Shop is a bike shop in Denton, TX at 231 West Hickory Street, Denton, TX. | https://dingalinged-cpu.github.io/registry/c/sprockets-bicycle-shop-denton/
 4. Denton Bicycle Center | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Denton Bicycle Center is a bike shop in Denton, TX at 1700 North Elm Street, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/denton-bicycle-center-denton/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Orange Shoe Personal Fitness is a gym in Chicago, IL at 1637 North Clybourn Aven
 - Website: https://www.orangeshoe.com/LincolnPark
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 60% of gyms in Chicago, #107 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 60% of gyms in Chicago, #106 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

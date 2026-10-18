@@ -13,7 +13,7 @@ D & L Heating and Air is a HVAC contractor in Marietta, GA at 1658 Old 41 Highwa
 - Website: https://www.dlhvac.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 52% of HVAC contractors in Atlanta, #3 of 3 HVAC contractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 52% of HVAC contractors in Atlanta, #3 of 3 HVAC contractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

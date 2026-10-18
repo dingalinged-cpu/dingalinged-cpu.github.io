@@ -6,7 +6,7 @@ Also answers: eye doctor in Ashland, NE; eye doctor near me (Ashland, NE); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elite Eye Care | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Elite Eye Care is an eye care practice in Ashland, NE at 705 N 17th Ave, Ashland, NE 68003. Phone: +14029443339. Website: https://eliteeyecarene.com/. | https://dingalinged-cpu.github.io/registry/c/elite-eye-care-ashland/
+1. Elite Eye Care | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Elite Eye Care is an eye care practice in Ashland, NE at 705 N 17th Ave, Ashland, NE 68003. Phone: +14029443339. Website: https://eliteeyecarene.com/. | https://dingalinged-cpu.github.io/registry/c/elite-eye-care-ashland/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor ashland ne | category: Health & medical | industry benchmark: Physicians & Surgeons

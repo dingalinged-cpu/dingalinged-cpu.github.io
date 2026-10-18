@@ -13,7 +13,7 @@ Simply Sun Tanning is a tanning salon in Atlanta, GA at 500-L2 Amsterdam Avenue 
 - Website: https://www.simplysuntan.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 10:00-17:00
-- Pulse Score: 63.2/100 — Good — top 22% of tanning salons in Atlanta, #1 of 2 tanning salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 22% of tanning salons in Atlanta, #1 of 2 tanning salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

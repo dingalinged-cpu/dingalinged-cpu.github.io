@@ -13,7 +13,7 @@ Grease Monkey is an auto repair shop in Council Bluffs, IA at 2700 West Broadway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Building — top 85% of auto repair shops in Omaha, NE, #13 of 13 auto repair shops in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 84% of auto repair shops in Omaha, NE, #13 of 13 auto repair shops in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

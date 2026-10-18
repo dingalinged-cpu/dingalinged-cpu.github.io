@@ -13,7 +13,7 @@ Sleep Experts is a mattress store in Waxahachie, TX at 791 North US Highway 77, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 64% of mattress stores in Dallas–Fort Worth, #1 of 1 mattress stores in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 64% of mattress stores in Dallas–Fort Worth, #1 of 1 mattress stores in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

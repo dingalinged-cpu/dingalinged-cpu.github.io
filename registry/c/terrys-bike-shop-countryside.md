@@ -13,7 +13,7 @@ Terry's Bike Shop is a bike shop in Countryside, IL at 9828 West 55th Street, Co
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 10:00-17:00; Su 10:00-15:00
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 40% of bike shops in Chicago, #1 of 1 bike shops in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 39% of bike shops in Chicago, #1 of 1 bike shops in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

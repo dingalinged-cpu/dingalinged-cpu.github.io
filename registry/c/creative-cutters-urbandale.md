@@ -13,7 +13,7 @@ Creative Cutters is a hair salon in Urbandale, IA at 3702 75th Street, Urbandale
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 35% of hair salons in Des Moines, IA, #3 of 15 hair salons in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 34% of hair salons in Des Moines, IA, #3 of 15 hair salons in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

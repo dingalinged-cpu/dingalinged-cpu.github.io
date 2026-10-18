@@ -13,7 +13,7 @@ Flying Needle Oriental Medicine, PLLC is an acupuncture clinic in Houston, TX at
 - Website: https://flyingneedlemedicine.com/
 - Email: mary@flyingneedlemedicine.com
 - Opening hours (OSM syntax): Mo-Fr 09:30-17:30; Sa 09:30-14:30
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 25% of acupuncture clinics in Houston, #1 of 4 acupuncture clinics in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 25% of acupuncture clinics in Houston, #1 of 4 acupuncture clinics in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

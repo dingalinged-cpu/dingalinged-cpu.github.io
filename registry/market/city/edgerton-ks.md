@@ -8,9 +8,9 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 
 ## By CPC
-1. event venues edgerton ks | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#event-venues-edgerton-ks
-2. gift shop edgerton ks | searches/mo 120 (est) | CPC $4.14 | value $500 | Google Ads equiv $44.00/mo | our featured min $10/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#gift-shop-edgerton-ks
-3. liquor store edgerton ks | searches/mo 930 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $340/mo | our featured min $10/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#liquor-store-edgerton-ks
+1. event venues edgerton ks | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-edgerton-ks/
+2. gift shop edgerton ks | searches/mo 120 (est) | CPC $4.14 | value $500 | Google Ads equiv $44.00/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/gift-shop-edgerton-ks/
+3. liquor store edgerton ks | searches/mo 930 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $340/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/liquor-store-edgerton-ks/
 
 ## By value (searches x CPC)
 

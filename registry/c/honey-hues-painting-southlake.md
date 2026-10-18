@@ -13,7 +13,7 @@ Honey Hues Painting is a painting contractor in Southlake, TX at 1721 East South
 - Website: https://www.honeyhuespainting.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-18:30
-- Pulse Score: 58.4/100 — Fair — top 50% of painting contractors in Dallas–Fort Worth, #1 of 1 painting contractors in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 50. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Fair — top 50% of painting contractors in Dallas–Fort Worth, #1 of 1 painting contractors in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 50.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

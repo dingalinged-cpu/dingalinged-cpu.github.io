@@ -7,7 +7,7 @@ Also answers: landscaping in Omaha, NE; landscaping near me (Omaha, NE); best la
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Heartland Gardens and Pond Supply | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Heartland Gardens and Pond Supply is a landscaping company in Omaha, NE at 3448 South 50th Street, Omaha, NE 68106. Phone: +14027073218. Website: https://heartlandgardens.com/. | https://dingalinged-cpu.github.io/registry/c/heartland-gardens-and-pond-supply-omaha/
-2. City Sprouts | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | City Sprouts is a landscaping company in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/city-sprouts-omaha/
+2. City Sprouts | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | City Sprouts is a landscaping company in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/city-sprouts-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping omaha ne | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

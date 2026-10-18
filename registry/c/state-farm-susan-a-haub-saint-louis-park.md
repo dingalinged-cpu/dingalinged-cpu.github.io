@@ -13,7 +13,7 @@ State Farm - Susan A Haub is an insurance agent in Saint Louis Park, MN at 6801 
 - Website: https://www.statefarm.com/agent/us/mn/st-louis-park/susan-haub-jhlx11ys000?cmpid=iy40_blm_0001
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 65% of insurance agents in Minneapolis–St. Paul, #7 of 9 insurance agents in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 65% of insurance agents in Minneapolis–St. Paul, #7 of 9 insurance agents in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Homey-Home Day Care is a daycare in Rolling Meadows, IL at 105 Alder Court, Roll
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 12:00-17:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 34% of daycares in Chicago, #1 of 1 daycares in Rolling Meadows (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 34% of daycares in Chicago, #1 of 1 daycares in Rolling Meadows (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

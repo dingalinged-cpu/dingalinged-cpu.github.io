@@ -1,0 +1,24 @@
+Champwork Pet Supplies is a pet store in Kansas City, MO. Website: https://www.facebook.com/profile.php?id=100035014727190.
+
+# Champwork Pet Supplies
+
+- Category: pet store
+- Services: pet store
+- Address: Kansas City, MO
+- City: Kansas City
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.9960952, -94.5572492
+- Phone: n/a
+- Website: https://www.facebook.com/profile.php?id=100035014727190
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Fair — top 19% of pet stores in Kansas City, MO, #3 of 21 pet stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/champwork-pet-supplies-kansas-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/champwork-pet-supplies-kansas-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13505953744 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

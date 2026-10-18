@@ -6,7 +6,7 @@ Also answers: gift shop in Bellevue, NE; gift shop near me (Bellevue, NE); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hallmark | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Hallmark is a gift shop in Bellevue, NE at 3608 Twin Creek Drive #101, Bellevue, NE. Phone: +14026829070. | https://dingalinged-cpu.github.io/registry/c/hallmark-bellevue/
+1. Hallmark | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | Hallmark is a gift shop in Bellevue, NE at 3608 Twin Creek Drive #101, Bellevue, NE. Phone: +14026829070. | https://dingalinged-cpu.github.io/registry/c/hallmark-bellevue/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop bellevue ne | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Citgo is a car wash in Hazel Crest, IL at 17500 Kedzie Avenue, Hazel Crest, IL 6
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 80% of car washes in Chicago, #1 of 1 car washes in Hazel Crest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 52.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 80% of car washes in Chicago, #1 of 1 car washes in Hazel Crest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 52.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

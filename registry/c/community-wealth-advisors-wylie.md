@@ -13,7 +13,7 @@ Community Wealth Advisors is a financial advisor in Wylie, TX at 109 North Balla
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 23% of financial advisors in Dallas–Fort Worth, #1 of 1 financial advisors in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 23% of financial advisors in Dallas–Fort Worth, #1 of 1 financial advisors in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

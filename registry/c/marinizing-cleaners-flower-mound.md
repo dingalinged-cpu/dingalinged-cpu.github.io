@@ -13,7 +13,7 @@ Marinizing Cleaners is a dry cleaner in Flower Mound, TX. Phone: +19725375005. W
 - Website: https://www.martinizing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 09:00-15:00; Su off
-- Pulse Score: 64.3/100 — Good — top 1% of dry cleaners in Dallas–Fort Worth, #1 of 5 dry cleaners in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 64.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 1% of dry cleaners in Dallas–Fort Worth, #1 of 5 dry cleaners in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 64.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

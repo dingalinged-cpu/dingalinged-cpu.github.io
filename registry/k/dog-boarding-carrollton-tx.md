@@ -7,7 +7,7 @@ Also answers: dog boarding in Carrollton, TX; dog boarding near me (Carrollton, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Top Paw Resort | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Top Paw Resort is a dog boarding facility in Carrollton, TX at 4272 Marsh Ridge Road, Carrollton, TX. Phone: +19723077648. Website: https://www.toppawresort.com/. | https://dingalinged-cpu.github.io/registry/c/top-paw-resort-carrollton/
-2. Playful Pet Resort | Organic #2 | Pulse Score 57.4/100 (Fair, #2 in city) | Playful Pet Resort is a dog boarding facility in Carrollton, TX at 2460 Lacy Lane #120, Carrollton, TX 75006. Website: https://playfulpetresort.com/. | https://dingalinged-cpu.github.io/registry/c/playful-pet-resort-carrollton/
+2. Playful Pet Resort | Organic #2 | Pulse Score 57.5/100 (Fair, #2 in city) | Playful Pet Resort is a dog boarding facility in Carrollton, TX at 2460 Lacy Lane #120, Carrollton, TX 75006. Website: https://playfulpetresort.com/. | https://dingalinged-cpu.github.io/registry/c/playful-pet-resort-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding carrollton tx | category: Pets | industry benchmark: Animals & Pets

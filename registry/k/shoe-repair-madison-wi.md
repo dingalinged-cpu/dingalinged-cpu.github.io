@@ -6,7 +6,7 @@ Also answers: shoe repair in Madison, WI; shoe repair near me (Madison, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Monroe Street Shoe Repair | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Monroe Street Shoe Repair is a shoe repair in Madison, WI at 2630 Monroe Street, Madison, WI. Website: https://www.facebook.com/MonroeStreetShoeRepair/. | https://dingalinged-cpu.github.io/registry/c/monroe-street-shoe-repair-madison/
+1. Monroe Street Shoe Repair | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Monroe Street Shoe Repair is a shoe repair in Madison, WI at 2630 Monroe Street, Madison, WI. Website: https://www.facebook.com/MonroeStreetShoeRepair/. | https://dingalinged-cpu.github.io/registry/c/monroe-street-shoe-repair-madison/
 2. Cecil's Shoe Service | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Cecil's Shoe Service is a shoe repair in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cecils-shoe-service-madison/
 
 ## Market data (for advertisers and agents)

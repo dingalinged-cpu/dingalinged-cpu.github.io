@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Houston, TX at 5154 Buffalo Speedway, H
 - Website: https://locations.waxcenter.com/tx/houston/houston-west-university-0018.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 48% of waxing salons in Houston, #8 of 13 waxing salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 52.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 48% of waxing salons in Houston, #8 of 13 waxing salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

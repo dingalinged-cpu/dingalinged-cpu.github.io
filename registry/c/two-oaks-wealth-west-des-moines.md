@@ -13,7 +13,7 @@ Two Oaks Wealth is a financial advisor in West Des Moines, IA at 214 5th Street,
 - Website: https://www.twooakswealth.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of financial advisors in Des Moines, IA, #2 of 5 financial advisors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of financial advisors in Des Moines, IA, #2 of 5 financial advisors in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

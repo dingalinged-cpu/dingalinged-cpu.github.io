@@ -6,7 +6,7 @@ Also answers: business consultant in Waukee, IA; business consultant near me (Wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Continuum Advantage | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Continuum Advantage is a business consultant in Waukee, IA. | https://dingalinged-cpu.github.io/registry/c/continuum-advantage-waukee/
+1. Continuum Advantage | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Continuum Advantage is a business consultant in Waukee, IA. | https://dingalinged-cpu.github.io/registry/c/continuum-advantage-waukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant waukee ia | category: b2b_services | industry benchmark: Business Services

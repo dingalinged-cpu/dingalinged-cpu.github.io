@@ -13,7 +13,7 @@ TGN Motors is an used car dealer in Cherokee County, GA at 5523 Bells Ferry Road
 - Website: https://tgnmotors.com/
 - Email: blake@tgnfunding.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su off
-- Pulse Score: 65.8/100 — Good — top 2% of used car dealers in Atlanta, #1 of 1 used car dealers in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.6, Trust 65.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.8/100 — Good — top 2% of used car dealers in Atlanta, #1 of 1 used car dealers in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.6, Trust 65.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

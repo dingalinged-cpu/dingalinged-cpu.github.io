@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Chicago, IL at 3738 North Halsted Street #2, Ch
 - Website: https://www.orangetheory.com/en-us/locations/illinois/chicago/3738-n-halsted-st-2/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-20:30; Sa 07:45-13:15; Su 07:45-12:00
-- Pulse Score: 49.7/100 — Building — top 46% of gyms in Chicago, #84 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 46% of gyms in Chicago, #83 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

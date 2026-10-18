@@ -13,7 +13,7 @@ Maple Grove Lock & Safe is a locksmith in Maple Grove, MN at 13563 Grove Drive N
 - Website: https://maplegrovelockandsafe.com/
 - Email: info@maplegrovelockandsafe.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00;Sa "call"
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 13% of locksmiths in Minneapolis–St. Paul, #1 of 1 locksmiths in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 13% of locksmiths in Minneapolis–St. Paul, #1 of 1 locksmiths in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

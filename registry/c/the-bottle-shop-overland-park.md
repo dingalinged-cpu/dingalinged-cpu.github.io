@@ -1,0 +1,24 @@
+The Bottle Shop is a liquor store in Overland Park, KS.
+
+# The Bottle Shop
+
+- Category: liquor store
+- Services: liquor store
+- Address: Overland Park, KS
+- City: Overland Park
+- State: KS
+- ZIP: n/a
+- Coordinates: 38.9841571, -94.67023
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 94% of liquor stores in Kansas City, MO, #12 of 12 liquor stores in Overland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-bottle-shop-overland-park/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-bottle-shop-overland-park.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10727131555 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

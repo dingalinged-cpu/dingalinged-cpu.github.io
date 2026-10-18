@@ -13,7 +13,7 @@ KDR Lawyers is a lawyer in Brookfield, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 83% of lawyers in Milwaukee, #2 of 4 lawyers in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 38.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 83% of lawyers in Milwaukee, #2 of 4 lawyers in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 38.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

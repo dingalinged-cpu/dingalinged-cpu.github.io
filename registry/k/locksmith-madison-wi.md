@@ -7,7 +7,7 @@ Also answers: locksmith in Madison, WI; locksmith near me (Madison, WI); best lo
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Bill’s Key Shop & Locksmith Service | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Bill’s Key Shop & Locksmith Service is a locksmith in Madison, WI at 536 University Ave, Madison, WI 53703. Phone: +16082562556. Website: https://billskeyshop.co/. | https://dingalinged-cpu.github.io/registry/c/bill-s-key-shop-and-locksmith-service-madison/
-2. Capitol Lock, Inc. | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Capitol Lock, Inc. is a locksmith in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/capitol-lock-inc-madison/
+2. Capitol Lock, Inc. | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Capitol Lock, Inc. is a locksmith in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/capitol-lock-inc-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith madison wi | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

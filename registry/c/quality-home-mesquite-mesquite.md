@@ -13,7 +13,7 @@ Quality Home Mesquite is a furniture store in Mesquite, TX at 227 US Highway 80,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 31% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 30% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

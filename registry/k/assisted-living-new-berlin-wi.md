@@ -7,8 +7,8 @@ Also answers: assisted living in New Berlin, WI; assisted living near me (New Be
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Heritage at City Center | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Heritage at City Center is an assisted living facility in New Berlin, WI at 14901 West Library Lane, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/heritage-at-city-center-new-berlin/
-2. Deer Creek Village | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Deer Creek Village is an assisted living facility in New Berlin, WI at 3601 South 147th Street, New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/deer-creek-village-new-berlin/
-3. Heritage at Deer Creek | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Heritage at Deer Creek is an assisted living facility in New Berlin, WI at 3585 South 147th Street, New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/heritage-at-deer-creek-new-berlin/
+2. Deer Creek Village | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Deer Creek Village is an assisted living facility in New Berlin, WI at 3601 South 147th Street, New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/deer-creek-village-new-berlin/
+3. Heritage at Deer Creek | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Heritage at Deer Creek is an assisted living facility in New Berlin, WI at 3585 South 147th Street, New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/heritage-at-deer-creek-new-berlin/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living new berlin wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

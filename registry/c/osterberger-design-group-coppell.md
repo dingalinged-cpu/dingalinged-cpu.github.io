@@ -13,7 +13,7 @@ Osterberger Design Group is an architect in Coppell, TX. Website: https://www.os
 - Website: https://www.osterbergergroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Fair — top 43% of architects in Dallas–Fort Worth, #1 of 1 architects in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 45.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Fair — top 43% of architects in Dallas–Fort Worth, #1 of 1 architects in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

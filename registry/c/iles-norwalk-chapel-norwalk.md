@@ -13,7 +13,7 @@ Iles Norwalk Chapel is a funeral home in Norwalk, IA at 1020 Main Street, Norwal
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of funeral homes in Des Moines, IA, #1 of 1 funeral homes in Norwalk (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of funeral homes in Des Moines, IA, #1 of 1 funeral homes in Norwalk (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

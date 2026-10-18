@@ -13,7 +13,7 @@ Salon 760 in Highland Park is a hair salon in Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 54% of hair salons in Minneapolis–St. Paul, #45 of 65 hair salons in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 54% of hair salons in Minneapolis–St. Paul, #45 of 65 hair salons in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

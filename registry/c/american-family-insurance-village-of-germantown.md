@@ -13,7 +13,7 @@ American Family Insurance is an insurance agent in Village of Germantown, WI at 
 - Website: https://www.amfam.com/agents/wisconsin/germantown/patrick-connaughty
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 57% of insurance agents in Milwaukee, #1 of 1 insurance agents in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 57% of insurance agents in Milwaukee, #1 of 1 insurance agents in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

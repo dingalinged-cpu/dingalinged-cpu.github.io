@@ -13,7 +13,7 @@ Boston Consulting Group is a business consultant in Chicago, IL at 300 North LaS
 - Website: https://www.bcg.com/offices/chicago/default.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Building — top 88% of business consultants in Chicago, #11 of 13 business consultants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 47.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 88% of business consultants in Chicago, #11 of 13 business consultants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

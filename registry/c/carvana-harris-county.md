@@ -13,7 +13,7 @@ Carvana is an used car dealer in Harris County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Building — top 97% of used car dealers in Houston, #7 of 7 used car dealers in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 37.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.8/100 — Building — top 97% of used car dealers in Houston, #7 of 7 used car dealers in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 37.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+Athletico Physical Therapy is a physical therapy clinic in Lenexa, KS at 14900 West 87th Street Parkway, Lenexa, KS 66215. Phone: +19132623457. Website: https://www.athletico.com/locations/lenexa.
+
+# Athletico Physical Therapy
+
+- Category: physical therapy
+- Services: physical therapy
+- Address: 14900 West 87th Street Parkway, Lenexa, KS 66215
+- City: Lenexa
+- State: KS
+- ZIP: 66215
+- Coordinates: 38.9715877, -94.758707
+- Phone: +19132623457
+- Website: https://www.athletico.com/locations/lenexa
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-17:30
+- Pulse Score: 49/100 — Building — top 61% of physical therapy clinics in Kansas City, MO, #2 of 2 physical therapy clinics in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-lenexa/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/athletico-physical-therapy-lenexa.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1415314812 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

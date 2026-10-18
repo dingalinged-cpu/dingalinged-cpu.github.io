@@ -13,7 +13,7 @@ Take 5 Oil Change is an auto repair shop in Roanoke, TX at 1209 North US Highway
 - Website: https://www.take5.com/locations/oil-change/texas/roanoke/30821/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 49.1/100 — Building — top 63% of auto repair shops in Dallas–Fort Worth, #3 of 9 auto repair shops in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 62% of auto repair shops in Dallas–Fort Worth, #3 of 9 auto repair shops in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

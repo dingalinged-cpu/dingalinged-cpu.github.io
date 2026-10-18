@@ -13,7 +13,7 @@ Law Offices of Jeffrey F. Putnam, P.C., L.L.O. is a lawyer in Omaha, NE at 6790 
 - Website: https://putnamlawoffices.com/
 - Email: info@putnamlawoffices.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Omaha, NE, #3 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 19% of lawyers in Omaha, NE, #3 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

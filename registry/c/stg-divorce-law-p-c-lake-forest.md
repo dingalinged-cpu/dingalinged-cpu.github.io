@@ -13,7 +13,7 @@ STG Divorce Law, P.C. is a lawyer in Lake Forest, IL at 100 Saunders Road #150, 
 - Website: https://www.stglawfirm.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 7% of lawyers in Chicago, #1 of 1 lawyers in Lake Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 11% of lawyers in Chicago, #1 of 1 lawyers in Lake Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

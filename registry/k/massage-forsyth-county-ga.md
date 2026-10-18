@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Sunset massage | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Sunset massage is a massage studio in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/sunset-massage-forsyth-county/
 2. Massage Envy | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Massage Envy is a massage studio in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/massage-envy-forsyth-county/
-3. Massage Envy | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Massage Envy is a massage studio in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/massage-envy-forsyth-county-w224529493/
+3. Massage Envy | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Massage Envy is a massage studio in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/massage-envy-forsyth-county-w224529493/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage forsyth county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

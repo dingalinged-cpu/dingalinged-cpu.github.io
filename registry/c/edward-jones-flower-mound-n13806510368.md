@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Flower Mound, TX at 4491 Long Prairie Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 60% of financial advisors in Dallas–Fort Worth, #4 of 5 financial advisors in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 60% of financial advisors in Dallas–Fort Worth, #4 of 5 financial advisors in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

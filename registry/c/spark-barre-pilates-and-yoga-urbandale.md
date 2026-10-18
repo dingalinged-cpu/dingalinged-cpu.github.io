@@ -13,7 +13,7 @@ Spark Barre Pilates and Yoga is a yoga studio in Urbandale, IA at 2773 100th Str
 - Website: https://www.sparkbarrepilatesyoga.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of yoga studios in Des Moines, IA, #1 of 1 yoga studios in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 100% of yoga studios in Des Moines, IA, #1 of 1 yoga studios in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 49. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

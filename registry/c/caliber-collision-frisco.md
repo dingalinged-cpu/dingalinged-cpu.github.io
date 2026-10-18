@@ -13,7 +13,7 @@ Caliber Collision is an auto repair shop in Frisco, TX at 6440 Preston Road, Fri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 74% of auto repair shops in Dallas–Fort Worth, #17 of 24 auto repair shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 73% of auto repair shops in Dallas–Fort Worth, #17 of 24 auto repair shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

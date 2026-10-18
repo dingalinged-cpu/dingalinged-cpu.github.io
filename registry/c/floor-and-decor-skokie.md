@@ -13,7 +13,7 @@ Floor & Decor is a flooring company in Skokie, IL at 3300 Oakton Street, Skokie,
 - Website: https://www.flooranddecor.com/store?StoreID=145
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.2/100 — Building — top 77% of flooring companys in Chicago, #1 of 1 flooring companys in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 72% of flooring companys in Chicago, #1 of 1 flooring companys in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

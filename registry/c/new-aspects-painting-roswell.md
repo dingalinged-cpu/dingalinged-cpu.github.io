@@ -13,7 +13,7 @@ New Aspects Painting is a painting contractor in Roswell, GA at 365 Sea Holly Ci
 - Website: https://newaspectspainting.com/
 - Email: newaspects1@gmail.com
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr, Sa 10:00-15:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 20% of painting contractors in Atlanta, #1 of 3 painting contractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 20% of painting contractors in Atlanta, #1 of 3 painting contractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

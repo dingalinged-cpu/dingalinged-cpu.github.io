@@ -6,7 +6,7 @@ Also answers: locksmith in Atlanta, GA; locksmith near me (Atlanta, GA); best lo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UTS Locksmith Atlanta | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | UTS Locksmith Atlanta is a locksmith in Atlanta, GA at 100 Edgewood Avenue Northeast, Atlanta, GA 30303. Phone: +14045513820. Website: https://www.atlanta-locksmith.com/. | https://dingalinged-cpu.github.io/registry/c/uts-locksmith-atlanta-atlanta/
+1. UTS Locksmith Atlanta | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | UTS Locksmith Atlanta is a locksmith in Atlanta, GA at 100 Edgewood Avenue Northeast, Atlanta, GA 30303. Phone: +14045513820. Website: https://www.atlanta-locksmith.com/. | https://dingalinged-cpu.github.io/registry/c/uts-locksmith-atlanta-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith atlanta ga | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

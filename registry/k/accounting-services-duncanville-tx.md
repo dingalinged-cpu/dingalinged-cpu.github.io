@@ -6,7 +6,7 @@ Also answers: accounting services in Duncanville, TX; accounting services near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Be's Professional Services | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Be's Professional Services is an accountant in Duncanville, TX at 1536 South Clark Road, Duncanville, TX 75137. Phone: +19722964237. Website: https://www.besprofessionalservices.com/. | https://dingalinged-cpu.github.io/registry/c/bes-professional-services-duncanville/
+1. Be's Professional Services | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Be's Professional Services is an accountant in Duncanville, TX at 1536 South Clark Road, Duncanville, TX 75137. Phone: +19722964237. Website: https://www.besprofessionalservices.com/. | https://dingalinged-cpu.github.io/registry/c/bes-professional-services-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services duncanville tx | category: professional_accounting | industry benchmark: Business Services

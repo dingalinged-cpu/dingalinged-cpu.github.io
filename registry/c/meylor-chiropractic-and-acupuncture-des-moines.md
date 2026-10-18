@@ -13,7 +13,7 @@ Meylor Chiropractic & Acupuncture is an acupuncture clinic in Des Moines, IA at 
 - Website: https://meylorchiropracticbeaverdale.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 80% of acupuncture clinics in Des Moines, IA, #3 of 4 acupuncture clinics in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 80% of acupuncture clinics in Des Moines, IA, #3 of 4 acupuncture clinics in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 47.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

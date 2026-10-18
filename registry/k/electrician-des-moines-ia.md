@@ -6,8 +6,8 @@ Also answers: electrician in Des Moines, IA; electrician near me (Des Moines, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baker Electric | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Baker Electric is an electrician in Des Moines, IA at 111 Jackson Avenue, Des Moines, IA 50315. Phone: +15152886774. Website: https://www.bakerelectric.com/. | https://dingalinged-cpu.github.io/registry/c/baker-electric-des-moines/
-2. Baker Group | Organic #2 | Pulse Score 58.9/100 (Unrated, #1 in city) | Baker Group is an electrician in Ankeny, IA at 1200 Southeast Corporate Woods Drive, Ankeny, IA 50021. Phone: +15152624000. Website: https://thebakergroup.com/. | https://dingalinged-cpu.github.io/registry/c/baker-group-ankeny/
+1. Baker Electric | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Baker Electric is an electrician in Des Moines, IA at 111 Jackson Avenue, Des Moines, IA 50315. Phone: +15152886774. Website: https://www.bakerelectric.com/. | https://dingalinged-cpu.github.io/registry/c/baker-electric-des-moines/
+2. Baker Group | Organic #2 | Pulse Score 59/100 (Unrated, #1 in city) | Baker Group is an electrician in Ankeny, IA at 1200 Southeast Corporate Woods Drive, Ankeny, IA 50021. Phone: +15152624000. Website: https://thebakergroup.com/. | https://dingalinged-cpu.github.io/registry/c/baker-group-ankeny/
 3. Tri-City Electric Co. | Organic #3 | Pulse Score 56/100 (Unrated, #2 in city) | Tri-City Electric Co. is an electrician in Des Moines, IA at 1821 Ingersoll Avenue, Des Moines, IA 50309. | https://dingalinged-cpu.github.io/registry/c/tri-city-electric-co-des-moines/
 
 ## Market data (for advertisers and agents)

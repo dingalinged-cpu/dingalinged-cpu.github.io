@@ -6,7 +6,7 @@ Also answers: phone repair in West Des Moines, IA; phone repair near me (West De
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cell Phone Repair | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in West Des Moines, IA at 216 5th Street, West Des Moines, IA 50265. Phone: +15158297349. Website: https://www.cellphonerepair.com/west-des-moines-ia/. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-west-des-moines/
+1. Cell Phone Repair | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in West Des Moines, IA at 216 5th Street, West Des Moines, IA 50265. Phone: +15158297349. Website: https://www.cellphonerepair.com/west-des-moines-ia/. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair west des moines ia | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

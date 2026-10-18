@@ -13,7 +13,7 @@ Dark Age Tattoo Studio is a tattoo shop in Denton, TX at 124 West Oak Street, De
 - Website: https://www.darkagetattoostudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 20% of tattoo shops in Dallas–Fort Worth, #1 of 4 tattoo shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 18% of tattoo shops in Dallas–Fort Worth, #1 of 4 tattoo shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

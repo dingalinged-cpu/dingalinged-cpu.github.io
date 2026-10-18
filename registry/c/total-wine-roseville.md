@@ -13,7 +13,7 @@ Total Wine is a liquor store in Roseville, MN at 2401 Fairview Avenue North #105
 - Website: https://www.totalwine.com/store-info/minnesota-roseville-rosedale/1602
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-18:00; Mo-Sa 08:00-22:00
-- Pulse Score: 50.3/100 — Fair — top 88% of liquor stores in Minneapolis–St. Paul, #4 of 4 liquor stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 65.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 89% of liquor stores in Minneapolis–St. Paul, #4 of 4 liquor stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 65.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

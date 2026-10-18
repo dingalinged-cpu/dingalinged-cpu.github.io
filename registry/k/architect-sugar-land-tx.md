@@ -6,8 +6,8 @@ Also answers: architect in Sugar Land, TX; architect near me (Sugar Land, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JMB2 Architecture | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | JMB2 Architecture is an architect in Sugar Land, TX at 16525 Lexington Boulevard #270, Sugar Land, TX 77479. Phone: +12819800900. Website: https://www.jmb2.com/. | https://dingalinged-cpu.github.io/registry/c/jmb2-architecture-sugar-land/
-2. Munday Architects | Organic #2 | Pulse Score 60.6/100 (Good, #2 in city) | Munday Architects is an architect in Sugar Land, TX at 16525 Lexington Boulevard #230, Sugar Land, TX 77479. Phone: +12819800234. Website: https://www.mundayarchitects.com/. | https://dingalinged-cpu.github.io/registry/c/munday-architects-sugar-land/
+1. JMB2 Architecture | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | JMB2 Architecture is an architect in Sugar Land, TX at 16525 Lexington Boulevard #270, Sugar Land, TX 77479. Phone: +12819800900. Website: https://www.jmb2.com/. | https://dingalinged-cpu.github.io/registry/c/jmb2-architecture-sugar-land/
+2. Munday Architects | Organic #2 | Pulse Score 60.8/100 (Good, #2 in city) | Munday Architects is an architect in Sugar Land, TX at 16525 Lexington Boulevard #230, Sugar Land, TX 77479. Phone: +12819800234. Website: https://www.mundayarchitects.com/. | https://dingalinged-cpu.github.io/registry/c/munday-architects-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect sugar land tx | category: Home services - Design | industry benchmark: Home & Home Improvement

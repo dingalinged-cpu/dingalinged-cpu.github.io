@@ -7,7 +7,7 @@ Also answers: bakery in Webster, TX; bakery near me (Webster, TX); best bakery W
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Martinez Mexican Bakery | Organic #1 | Pulse Score 59.9/100 (Unrated, #19 in city) | Martinez Mexican Bakery is a bakery in Houston, TX at 17637 El Camino Real, Houston, TX 77058. Phone: +12812866304. | https://dingalinged-cpu.github.io/registry/c/martinez-mexican-bakery-houston/
-2. Paris Baguette | Organic #2 | Pulse Score 47.2/100 (Building, #66 in city) | Paris Baguette is a bakery in Houston, TX at 18203 Egret Bay Boulevard, Houston, TX 77058. Phone: +12815494310. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-houston-n13720718568/
+2. Paris Baguette | Organic #2 | Pulse Score 47.2/100 (Building, #65 in city) | Paris Baguette is a bakery in Houston, TX at 18203 Egret Bay Boulevard, Houston, TX 77058. Phone: +12815494310. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-houston-n13720718568/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery webster tx | category: Events & weddings | industry benchmark: Personal Services

@@ -20,7 +20,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 12. Tommy Nails 4 U | Organic #12 | Pulse Score 60.9/100 (Unrated, #12 in city) | Tommy Nails 4 U is a nail salon in Lewisville, TX. Phone: +19722212496. | https://dingalinged-cpu.github.io/registry/c/tommy-nails-4-u-lewisville/
 13. Angel Nails | Organic #13 | Pulse Score 60.7/100 (Unrated, #13 in city) | Angel Nails is a nail salon in Lewisville, TX. Phone: +19723150367. | https://dingalinged-cpu.github.io/registry/c/angel-nails-lewisville/
 14. Legacy Salons & Day Spa | Organic #14 | Pulse Score 57/100 (Unrated, #14 in city) | Legacy Salons & Day Spa is a nail salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-salons-and-day-spa-lewisville/
-15. Salons by JC | Organic #15 | Pulse Score 43.9/100 (Building, #3 in city) | Salons by JC is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-lewisville/
+15. Salons by JC | Organic #15 | Pulse Score 43.8/100 (Building, #3 in city) | Salons by JC is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

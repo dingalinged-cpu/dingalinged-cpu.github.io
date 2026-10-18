@@ -13,7 +13,7 @@ DIY Garage is an auto repair shop in Bellevue, NE at 2211 Harvell Plaza, Bellevu
 - Website: https://www.diygarage.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:30
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Omaha, NE, #1 of 11 auto repair shops in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 11% of auto repair shops in Omaha, NE, #1 of 11 auto repair shops in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

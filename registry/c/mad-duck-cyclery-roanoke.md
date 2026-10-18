@@ -13,7 +13,7 @@ Mad Duck Cyclery is a bike shop in Roanoke, TX at 295 Byron Nelson Boulevard #22
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 11:00-18:00
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 66% of bike shops in Dallas–Fort Worth, #1 of 1 bike shops in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 60% of bike shops in Dallas–Fort Worth, #1 of 1 bike shops in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 44.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

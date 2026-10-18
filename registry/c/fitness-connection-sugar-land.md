@@ -13,7 +13,7 @@ Fitness Connection is a gym in Sugar Land, TX at 4610 State Highway 6 South, Sug
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 65% of gyms in Houston, #8 of 9 gyms in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 64% of gyms in Houston, #8 of 9 gyms in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

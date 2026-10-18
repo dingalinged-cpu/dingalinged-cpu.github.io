@@ -13,7 +13,7 @@ McLaren's Resthaven Chapel & Mortuary is a funeral home in West Des Moines, IA a
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 92% of funeral homes in Des Moines, IA, #2 of 2 funeral homes in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 92% of funeral homes in Des Moines, IA, #2 of 2 funeral homes in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 46.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

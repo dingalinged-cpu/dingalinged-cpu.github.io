@@ -13,7 +13,7 @@ UW SWAP is a thrift store in Verona, WI at 1061 Thousand Oaks Trail, Verona, WI 
 - Website: https://swap.wisc.edu/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-15:30
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 4% of thrift stores in Madison, #1 of 3 thrift stores in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 4% of thrift stores in Madison, #1 of 3 thrift stores in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: car inspection in Lewisville, TX; car inspection near me (Lewisvil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Triple S | Organic #1 | Pulse Score 60/100 (Good, #1 in city) | Triple S is a vehicle inspection station in Lewisville, TX at 783 Lakeside Circle, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/triple-s-lewisville/
+1. Triple S | Organic #1 | Pulse Score 60.2/100 (Good, #1 in city) | Triple S is a vehicle inspection station in Lewisville, TX at 783 Lakeside Circle, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/triple-s-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection lewisville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

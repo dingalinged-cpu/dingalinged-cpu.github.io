@@ -6,8 +6,8 @@ Also answers: real estate agent in West Saint Paul, MN; real estate agent near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Counselor Realty | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Counselor Realty is a real estate agency in West Saint Paul, MN at 1074 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/counselor-realty-west-saint-paul/
-2. Langer Real Estate | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Langer Real Estate is a real estate agency in West Saint Paul, MN at 1540 Humboldt Avenue, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/langer-real-estate-west-saint-paul/
+1. Counselor Realty | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Counselor Realty is a real estate agency in West Saint Paul, MN at 1074 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/counselor-realty-west-saint-paul/
+2. Langer Real Estate | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Langer Real Estate is a real estate agency in West Saint Paul, MN at 1540 Humboldt Avenue, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/langer-real-estate-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent west saint paul mn | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ A.C.E. Community Support Services is a therapy practice in Marietta, GA at 1238 
 - Website: https://www.acecommunitysupport.com/
 - Email: aceservices@acecommunitysupport.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Fair — top 46% of therapy practices in Atlanta, #1 of 3 therapy practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 46% of therapy practices in Atlanta, #1 of 3 therapy practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

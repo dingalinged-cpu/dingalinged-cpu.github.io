@@ -13,7 +13,7 @@ Apple Moving Houston is a moving company in Humble, TX at 2235 Atascocita Road, 
 - Website: https://www.applemovinghouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 58% of moving companys in Houston, #1 of 1 moving companys in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 58% of moving companys in Houston, #1 of 1 moving companys in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

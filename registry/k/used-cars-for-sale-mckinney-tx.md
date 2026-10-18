@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. 5 Star Motors | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | 5 Star Motors is an used car dealer in McKinney, TX at 1503 South McDonald Street, McKinney, TX 75069. | https://dingalinged-cpu.github.io/registry/c/5-star-motors-mckinney/
 2. Bob Tomes Pre-Owned | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Bob Tomes Pre-Owned is an used car dealer in McKinney, TX at 900 South Central Expressway, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/bob-tomes-pre-owned-mckinney/
-3. Brandon Tomes Subaru | Organic #3 | Pulse Score 47.6/100 (Building, #3 in city) | Brandon Tomes Subaru is an used car dealer in McKinney, TX at 4660 State Highway 121, McKinney, TX 75070. Phone: +14699072205. Website: https://www.brandontomessubaru.com/. | https://dingalinged-cpu.github.io/registry/c/brandon-tomes-subaru-mckinney/
+3. Brandon Tomes Subaru | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | Brandon Tomes Subaru is an used car dealer in McKinney, TX at 4660 State Highway 121, McKinney, TX 75070. Phone: +14699072205. Website: https://www.brandontomessubaru.com/. | https://dingalinged-cpu.github.io/registry/c/brandon-tomes-subaru-mckinney/
 4. CarMax | Organic #4 | Pulse Score 43.1/100 (Building, #4 in city) | CarMax is an used car dealer in McKinney, TX. Website: https://www.carmax.com/stores/6094. | https://dingalinged-cpu.github.io/registry/c/carmax-mckinney/
 
 ## Market data (for advertisers and agents)

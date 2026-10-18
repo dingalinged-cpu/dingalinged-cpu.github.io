@@ -13,7 +13,7 @@ Dog Haus University is a dog boarding facility in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 63% of dog boarding facilitys in Madison, #3 of 3 dog boarding facilitys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 63% of dog boarding facilitys in Madison, #3 of 3 dog boarding facilitys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 48. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

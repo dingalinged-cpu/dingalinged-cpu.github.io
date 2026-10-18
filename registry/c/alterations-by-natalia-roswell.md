@@ -13,7 +13,7 @@ Alterations By Natalia is a tailor in Roswell, GA at 4750 Alabama Road #102, Ros
 - Website: n/a
 - Email: natabann0312@gmail.com
 - Opening hours (OSM syntax): Mo off; Tu-Fr 09:00-06:00; Sa 10:00-04:00; Su off
-- Pulse Score: 63.4/100 — Good — top 7% of tailors in Atlanta, #1 of 6 tailors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 7% of tailors in Atlanta, #1 of 6 tailors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

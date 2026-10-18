@@ -13,7 +13,7 @@ Magic Touch Nail Salon & Spa is a nail salon in Chicago, IL at 2915 West Addison
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 51% of nail salons in Chicago, #51 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of nail salons in Chicago, #51 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

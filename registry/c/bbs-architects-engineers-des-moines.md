@@ -13,7 +13,7 @@ BBS Architects | Engineers is an architect in Des Moines, IA at 219 8th Street #
 - Website: https://www.bbsae.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 52.6/100 — Unrated (not enough evidence yet) — top 91% of architects in Des Moines, IA, #9 of 10 architects in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.7/100 — Unrated (not enough evidence yet) — top 91% of architects in Des Moines, IA, #9 of 10 architects in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Salon Suites is a hair salon in Omaha, NE at 18460 Wright Street, Omaha, NE 6813
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 54% of hair salons in Omaha, NE, #34 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 83% of hair salons in Omaha, NE, #47 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

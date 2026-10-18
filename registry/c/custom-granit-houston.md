@@ -13,7 +13,7 @@ Custom Granit is a concrete contractor in Houston, TX at 5816 Almeda Genoa Rd, H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off
-- Pulse Score: 60.8/100 — Good — top 100% of concrete contractors in Houston, #1 of 1 concrete contractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 52.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 100% of concrete contractors in Houston, #1 of 1 concrete contractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

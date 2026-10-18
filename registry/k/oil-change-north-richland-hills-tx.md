@@ -7,7 +7,7 @@ Also answers: oil change in North Richland Hills, TX; oil change near me (North 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Parra Car Care | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Parra Car Care is an auto repair shop in North Richland Hills, TX at 7700 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18173693901. Website: https://parracarcare.com/north-richland-hills/. | https://dingalinged-cpu.github.io/registry/c/parra-car-care-north-richland-hills/
-2. Brakes Plus | Organic #2 | Pulse Score 48.2/100 (Building, #5 in city) | Brakes Plus is an auto repair shop in North Richland Hills, TX at 8621 Precinct Line Road, North Richland Hills, TX 76182. Phone: +18177665950. Website: https://www.brakesplus.com/schedule-appointment/?storenum=0319. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-north-richland-hills/
+2. Brakes Plus | Organic #2 | Pulse Score 48.2/100 (Building, #4 in city) | Brakes Plus is an auto repair shop in North Richland Hills, TX at 8621 Precinct Line Road, North Richland Hills, TX 76182. Phone: +18177665950. Website: https://www.brakesplus.com/schedule-appointment/?storenum=0319. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change north richland hills tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

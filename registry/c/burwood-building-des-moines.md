@@ -13,7 +13,7 @@ Burwood Building is an IT support company in Des Moines, IA at 1111 Woodland Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 72% of IT support companys in Des Moines, IA, #4 of 4 IT support companys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 43.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 72% of IT support companys in Des Moines, IA, #4 of 4 IT support companys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 43.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

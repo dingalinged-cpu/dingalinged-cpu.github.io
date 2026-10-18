@@ -6,7 +6,7 @@ Also answers: roofer in Melia-Forest City Precinct, NE; roofer near me (Melia-Fo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Apple Roofing | Organic #1 | Pulse Score 45.2/100 (Unrated, #1 in city) | Apple Roofing is a roofer in Gretna, NE at 14218 South 220th Street, Gretna, NE 68028. Phone: +14025765926. Website: https://appleroof.com/omaha/. | https://dingalinged-cpu.github.io/registry/c/apple-roofing-gretna/
+1. Apple Roofing | Organic #1 | Pulse Score 45.3/100 (Unrated, #1 in city) | Apple Roofing is a roofer in Gretna, NE at 14218 South 220th Street, Gretna, NE 68028. Phone: +14025765926. Website: https://appleroof.com/omaha/. | https://dingalinged-cpu.github.io/registry/c/apple-roofing-gretna/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer melia-forest city precinct ne | category: Home services - Roofing | industry benchmark: Home & Home Improvement

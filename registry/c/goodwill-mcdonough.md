@@ -13,7 +13,7 @@ Goodwill is a thrift store in McDonough, GA at 250 Jonesboro Road, McDonough, GA
 - Website: https://goodwillng.org/gw-locations/mcdonough-store-donation-center-30253/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 70% of thrift stores in Atlanta, #1 of 1 thrift stores in McDonough (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 50.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 70% of thrift stores in Atlanta, #1 of 1 thrift stores in McDonough (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 50.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Intuitive Counseling is a therapy practice in Lincolnshire, IL at 100 Tri State 
 - Website: https://www.theintuitivecounselinggroup.com/chicago/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00–21:00; Tu-Th 08:00–21:00; Fr 08:00–17:00, Sa-Su 08:00–15:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 16% of therapy practices in Chicago, #2 of 2 therapy practices in Lincolnshire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 16% of therapy practices in Chicago, #2 of 2 therapy practices in Lincolnshire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Wilmette, IL at 110 Skokie Boulevard, Wilme
 - Website: https://palmbeachtan.com/locations/IL/Wilmette-Skokie-Boulevard
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 58% of tanning salons in Chicago, #1 of 1 tanning salons in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 58% of tanning salons in Chicago, #1 of 1 tanning salons in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

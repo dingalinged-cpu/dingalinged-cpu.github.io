@@ -13,7 +13,7 @@ The Little Gym is a gym in Houston, TX at 14090 Memorial Drive #B, Houston, TX 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 15% of gyms in Houston, #11 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.4/100 — Unrated (not enough evidence yet) — top 75% of gyms in Houston, #62 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ BNIM is an architect in Des Moines, IA at 317 6th Avenue #100, Des Moines, IA 50
 - Website: https://www.bnim.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 28% of architects in Des Moines, IA, #3 of 10 architects in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 28% of architects in Des Moines, IA, #3 of 10 architects in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: business consultant in Saint Louis Park, MN; business consultant n
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lelch Audio Video | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Lelch Audio Video is a business consultant in Saint Louis Park, MN at 2600 Excelsior Boulevard #201, Saint Louis Park, MN 55416. Phone: +16123535087. Website: https://www.lelchav.com/. | https://dingalinged-cpu.github.io/registry/c/lelch-audio-video-saint-louis-park/
+1. Lelch Audio Video | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Lelch Audio Video is a business consultant in Saint Louis Park, MN at 2600 Excelsior Boulevard #201, Saint Louis Park, MN 55416. Phone: +16123535087. Website: https://www.lelchav.com/. | https://dingalinged-cpu.github.io/registry/c/lelch-audio-video-saint-louis-park/
 2. M J Shahidi Business | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | M J Shahidi Business is a business consultant in Saint Louis Park, MN at 6504 Walker Street, Saint Louis Park, MN 55426. Phone: +19529204202. | https://dingalinged-cpu.github.io/registry/c/m-j-shahidi-business-saint-louis-park/
 
 ## Market data (for advertisers and agents)

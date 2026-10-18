@@ -13,7 +13,7 @@ Sterling Lawyers, LLC is a lawyer in Racine, WI at 731 Main St, Racine, WI 53403
 - Website: https://www.sterlinglawyers.com/wisconsin/locations/racine/
 - Email: office@sterlinglawyers.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 96% of lawyers in Milwaukee, #7 of 7 lawyers in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 96% of lawyers in Milwaukee, #7 of 7 lawyers in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

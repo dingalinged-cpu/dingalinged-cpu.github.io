@@ -13,7 +13,7 @@ Space Cat Tattoo is a tattoo shop in Arlington Heights, IL at 630 East Golf Road
 - Website: https://spacecattattoo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-21:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 14% of tattoo shops in Chicago, #1 of 1 tattoo shops in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 14% of tattoo shops in Chicago, #1 of 1 tattoo shops in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

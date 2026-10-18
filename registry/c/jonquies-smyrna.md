@@ -13,7 +13,7 @@ Jonquies is a gift shop in Smyrna, GA at 1260 West Spring Street #D, Smyrna, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 11:00-19:00; Fr 10:00-16:00; Sa 10:00-18:00; Su 10:00-14:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 28% of gift shops in Atlanta, #1 of 2 gift shops in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 28% of gift shops in Atlanta, #1 of 2 gift shops in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

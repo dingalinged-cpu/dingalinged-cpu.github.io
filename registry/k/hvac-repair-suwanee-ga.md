@@ -6,7 +6,7 @@ Also answers: hvac repair in Suwanee, GA; hvac repair near me (Suwanee, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Holtkamp HVAC & Plumbing | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Holtkamp HVAC & Plumbing is a HVAC contractor in Suwanee, GA at 60 Old Peachtree Road Northeast, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/holtkamp-hvac-and-plumbing-suwanee/
+1. Holtkamp HVAC & Plumbing | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Holtkamp HVAC & Plumbing is a HVAC contractor in Suwanee, GA at 60 Old Peachtree Road Northeast, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/holtkamp-hvac-and-plumbing-suwanee/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair suwanee ga | category: Home services - HVAC | industry benchmark: Home & Home Improvement

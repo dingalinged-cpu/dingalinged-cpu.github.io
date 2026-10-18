@@ -6,7 +6,7 @@ Also answers: it support in Mableton, GA; it support near me (Mableton, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ARKIVE Information Management | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | ARKIVE Information Management is an IT support company in Mableton, GA at 6751 Discovery Boulevard, Mableton, GA 30126. Phone: +16784331570. Website: https://www.myarkive.com/. | https://dingalinged-cpu.github.io/registry/c/arkive-information-management-mableton/
+1. ARKIVE Information Management | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | ARKIVE Information Management is an IT support company in Mableton, GA at 6751 Discovery Boulevard, Mableton, GA 30126. Phone: +16784331570. Website: https://www.myarkive.com/. | https://dingalinged-cpu.github.io/registry/c/arkive-information-management-mableton/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support mableton ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

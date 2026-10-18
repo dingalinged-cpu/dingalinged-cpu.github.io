@@ -13,7 +13,7 @@ TKO FITNESS, LLC is a martial arts school in Omaha, NE at 6815 Grover Street, Om
 - Website: https://tkofitnessomaha.com/
 - Email: info@tko-fitness.com
 - Opening hours (OSM syntax): Mo-Th 05:00-13:30,16:00-20:00; Fr 05:00-13:30,17:00-18:30; Sa 07:00-12:30; Su 08:00-11:30
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 25% of martial arts schools in Omaha, NE, #1 of 3 martial arts schools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 25% of martial arts schools in Omaha, NE, #1 of 3 martial arts schools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

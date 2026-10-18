@@ -13,7 +13,7 @@ Citywide Pet Clinic is a veterinarian in Monona, WI at 6009 Monona Drive, Monona
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 45% of veterinarians in Madison, #2 of 3 veterinarians in Monona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 47% of veterinarians in Madison, #2 of 3 veterinarians in Monona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

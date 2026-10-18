@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Saint Louis Park, MN at 5330 Cedar Lake Roa
 - Website: https://palmbeachtan.com/locations/MN/St-Louis-Park-Cedar-Lake-Road
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.2/100 — Building — top 79% of tanning salons in Minneapolis–St. Paul, #2 of 2 tanning salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 79% of tanning salons in Minneapolis–St. Paul, #2 of 2 tanning salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

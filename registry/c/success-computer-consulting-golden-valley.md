@@ -13,7 +13,7 @@ SUCCESS Computer Consulting is an IT support company in Golden Valley, MN at 613
 - Website: https://successcomputerconsulting.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 67% of IT support companys in Minneapolis–St. Paul, #3 of 4 IT support companys in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 49.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 67% of IT support companys in Minneapolis–St. Paul, #3 of 4 IT support companys in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 49.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

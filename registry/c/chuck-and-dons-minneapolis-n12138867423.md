@@ -13,7 +13,7 @@ Chuck & Don's is a pet store in Minneapolis, MN at 5045 France Avenue South, Min
 - Website: https://chuckanddons.com/a/pages/locations/590/50th-france
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
-- Pulse Score: 46.3/100 — Unrated (not enough evidence yet) — top 85% of pet stores in Minneapolis–St. Paul, #10 of 11 pet stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 85% of pet stores in Minneapolis–St. Paul, #10 of 11 pet stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ NGR Electric is an electrician in Gary, IN at 4320 Calhoun Street, Gary, IN 4640
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 43% of electricians in Chicago, #1 of 1 electricians in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 51.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 43% of electricians in Chicago, #1 of 1 electricians in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 51.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

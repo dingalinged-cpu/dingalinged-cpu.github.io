@@ -13,7 +13,7 @@ Roxy's Alterations is a dry cleaner in Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 41% of dry cleaners in Minneapolis–St. Paul, #3 of 8 dry cleaners in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 40.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 41% of dry cleaners in Minneapolis–St. Paul, #3 of 8 dry cleaners in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 40.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Madison, WI. Website: https://www.ubreakifi
 - Website: https://www.ubreakifix.com/locations/wisconsin/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
-- Pulse Score: 46.4/100 — Building — top 100% of phone repair shops in Madison, #2 of 2 phone repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 100% of phone repair shops in Madison, #2 of 2 phone repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: business consultant in Olympia Fields, IL; business consultant nea
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nuventra Consulting | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Nuventra Consulting is a business consultant in Olympia Fields, IL at 20200 Governors Drive #101-HQ302, Olympia Fields, IL 60461. Phone: +18152705533. Website: https://www.nuventraconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/nuventra-consulting-olympia-fields/
+1. Nuventra Consulting | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Nuventra Consulting is a business consultant in Olympia Fields, IL at 20200 Governors Drive #101-HQ302, Olympia Fields, IL 60461. Phone: +18152705533. Website: https://www.nuventraconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/nuventra-consulting-olympia-fields/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant olympia fields il | category: b2b_services | industry benchmark: Business Services

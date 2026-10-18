@@ -13,7 +13,7 @@ Arrow Exterminators is a pest control company in Marietta, GA at 820 Cobb Parkwa
 - Website: https://www.arrowexterminators.com/georgia/smyrna-service-center
 - Email: marietta@arrowexterminators.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 64/100 — Good — top 10% of pest control companys in Atlanta, #1 of 5 pest control companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 10% of pest control companys in Atlanta, #1 of 5 pest control companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

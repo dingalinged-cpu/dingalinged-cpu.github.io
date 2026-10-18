@@ -13,7 +13,7 @@ Big Dog Movers is a moving company in Madison, WI. Website: https://bigdogmovers
 - Website: https://bigdogmoversllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 34% of moving companys in Madison, #1 of 3 moving companys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 34% of moving companys in Madison, #1 of 3 moving companys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Patrick G. and Shirley W. Ryan Center for the Musical Arts is a music school in 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 56% of music schools in Chicago, #2 of 3 music schools in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 56% of music schools in Chicago, #2 of 3 music schools in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

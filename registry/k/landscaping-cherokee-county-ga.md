@@ -6,7 +6,7 @@ Also answers: landscaping in Cherokee County, GA; landscaping near me (Cherokee 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meadows Landscape | Organic #1 | Pulse Score 59.9/100 (Fair, #1 in city) | Meadows Landscape is a landscaping company in Cherokee County, GA at 10064 Main Street, Cherokee County, GA. Phone: +16789093765. Website: https://meadowslandscapes.com/. | https://dingalinged-cpu.github.io/registry/c/meadows-landscape-cherokee-county/
+1. Meadows Landscape | Organic #1 | Pulse Score 59.8/100 (Fair, #1 in city) | Meadows Landscape is a landscaping company in Cherokee County, GA at 10064 Main Street, Cherokee County, GA. Phone: +16789093765. Website: https://meadowslandscapes.com/. | https://dingalinged-cpu.github.io/registry/c/meadows-landscape-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping cherokee county ga | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Brookfield, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41/100 — Building — top 100% of phone repair shops in Milwaukee, #1 of 1 phone repair shops in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.4, Trust 39.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.1/100 — Building — top 100% of phone repair shops in Milwaukee, #1 of 1 phone repair shops in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.6, Trust 39.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

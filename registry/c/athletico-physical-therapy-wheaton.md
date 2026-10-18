@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Wheaton, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 75% of physical therapy clinics in Chicago, #1 of 1 physical therapy clinics in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 44.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 75% of physical therapy clinics in Chicago, #1 of 1 physical therapy clinics in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 44.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

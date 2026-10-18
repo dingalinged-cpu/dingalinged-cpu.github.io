@@ -13,7 +13,7 @@ Pets & Things Grooming is a dog groomer in Wauconda, IL at 213 North Main Street
 - Website: https://www.petsandthingswauconda.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of dog groomers in Chicago, #2 of 2 dog groomers in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of dog groomers in Chicago, #2 of 2 dog groomers in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

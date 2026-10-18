@@ -6,7 +6,7 @@ Also answers: attorney in Bellaire, TX; attorney near me (Bellaire, TX); best at
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heard Merman Accident & Injury Trial Lawyers | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Heard Merman Accident & Injury Trial Lawyers is a lawyer in Bellaire, TX at 4900 Fournace Place #240, Bellaire, TX 77401. Phone: +17136651100. Website: https://www.heardmerman.com/. | https://dingalinged-cpu.github.io/registry/c/heard-merman-accident-and-injury-trial-lawyers-bellaire/
+1. Heard Merman Accident & Injury Trial Lawyers | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Heard Merman Accident & Injury Trial Lawyers is a lawyer in Bellaire, TX at 4900 Fournace Place #240, Bellaire, TX 77401. Phone: +17136651100. Website: https://www.heardmerman.com/. | https://dingalinged-cpu.github.io/registry/c/heard-merman-accident-and-injury-trial-lawyers-bellaire/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney bellaire tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

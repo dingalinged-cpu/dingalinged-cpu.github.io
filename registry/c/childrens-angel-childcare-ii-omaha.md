@@ -13,7 +13,7 @@ Children's Angel Childcare II is a daycare in Omaha, NE at 616 South 75th Street
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 47% of daycares in Omaha, NE, #6 of 14 daycares in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 51.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 47% of daycares in Omaha, NE, #6 of 14 daycares in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

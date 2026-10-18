@@ -13,7 +13,7 @@ Hankewych & Associates Accounting & Tax is an accountant in Chicago, IL at 945 N
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-15:00; Sa 09:00-13:00 "By appt"
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 48% of accountants in Chicago, #8 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 50.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 48% of accountants in Chicago, #8 of 12 accountants in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

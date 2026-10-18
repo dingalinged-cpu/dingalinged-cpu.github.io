@@ -13,7 +13,7 @@ Schneiderman's Furniture is a furniture store in Bloomington, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 53% of furniture stores in Minneapolis–St. Paul, #2 of 5 furniture stores in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 42. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 53% of furniture stores in Minneapolis–St. Paul, #2 of 5 furniture stores in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 42.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: bike shop in Duluth, GA; bike shop near me (Duluth, GA); best bike
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta Cycling - Duluth | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Atlanta Cycling - Duluth is a bike shop in Duluth, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-cycling-duluth-duluth/
+1. Atlanta Cycling - Duluth | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Atlanta Cycling - Duluth is a bike shop in Duluth, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-cycling-duluth-duluth/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop duluth ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

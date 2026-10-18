@@ -13,7 +13,7 @@ Deloitte is a business consultant in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.1/100 — Building — top 100% of business consultants in Dallas–Fort Worth, #5 of 5 business consultants in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 38.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41/100 — Building — top 100% of business consultants in Dallas–Fort Worth, #5 of 5 business consultants in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 38.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

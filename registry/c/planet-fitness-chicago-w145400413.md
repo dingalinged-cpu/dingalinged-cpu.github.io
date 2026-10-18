@@ -13,7 +13,7 @@ Planet Fitness is a gym in Chicago, IL at 1301 East 47th Street, Chicago, IL 606
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45/100 — Building — top 73% of gyms in Chicago, #135 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45/100 — Building — top 73% of gyms in Chicago, #134 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

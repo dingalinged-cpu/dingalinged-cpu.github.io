@@ -6,7 +6,7 @@ Also answers: acupuncture in Edina, MN; acupuncture near me (Edina, MN); best ac
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Azalea Acupuncture+Aesthetics | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Azalea Acupuncture+Aesthetics is an acupuncture clinic in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Website: https://www.azaleampls.com/. | https://dingalinged-cpu.github.io/registry/c/azalea-acupuncture-aesthetics-edina/
+1. Azalea Acupuncture+Aesthetics | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Azalea Acupuncture+Aesthetics is an acupuncture clinic in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Website: https://www.azaleampls.com/. | https://dingalinged-cpu.github.io/registry/c/azalea-acupuncture-aesthetics-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: acupuncture edina mn | category: Health & medical | industry benchmark: Physicians & Surgeons

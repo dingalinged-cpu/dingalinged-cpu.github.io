@@ -13,7 +13,7 @@ Lane Brown, LLC is a lawyer in Chicago, IL at 230 West Monroe Street #Ste 1900, 
 - Website: https://www.lanebrownlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 63/100 — Good — top 4% of lawyers in Chicago, #4 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 4% of lawyers in Chicago, #4 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Blair Chiropractic Centre is a chiropractor in Blair, NE at 1729 Washington Stre
 - Website: https://www.blairchiropracticcentre.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 18% of chiropractors in Omaha, NE, #2 of 2 chiropractors in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 18% of chiropractors in Omaha, NE, #2 of 2 chiropractors in Blair (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

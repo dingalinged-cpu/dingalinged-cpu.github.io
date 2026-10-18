@@ -13,7 +13,7 @@ Utopia Plastic Surgery & Med Spa is a plastic surgeon in Houston, TX at 1121 Upt
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 89% of plastic surgeons in Houston, #12 of 13 plastic surgeons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 39.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 95% of plastic surgeons in Houston, #13 of 13 plastic surgeons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 39.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

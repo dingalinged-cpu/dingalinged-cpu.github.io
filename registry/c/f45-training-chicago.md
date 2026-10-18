@@ -13,7 +13,7 @@ F45 Training is a gym in Chicago, IL at 1322 South Michigan Avenue, Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 72% of gyms in Chicago, #132 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 72% of gyms in Chicago, #131 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

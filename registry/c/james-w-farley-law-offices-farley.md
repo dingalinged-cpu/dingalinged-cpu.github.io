@@ -1,0 +1,24 @@
+James W. Farley Law Offices is a lawyer in Farley, MO.
+
+# James W. Farley Law Offices
+
+- Category: lawyer
+- Services: lawyer, attorney
+- Address: Farley, MO
+- City: Farley
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.2809639, -94.8323095
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 88% of lawyers in Kansas City, MO, #1 of 1 lawyers in Farley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 39.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/james-w-farley-law-offices-farley/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/james-w-farley-law-offices-farley.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/868870414 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

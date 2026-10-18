@@ -13,7 +13,7 @@ McKinsey & Company is a business consultant in Dallas, TX at 2021 McKinney Avenu
 - Website: https://www.mckinsey.com/southern-us/dallas
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 95% of business consultants in Dallas–Fort Worth, #4 of 5 business consultants in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 90% of business consultants in Dallas–Fort Worth, #4 of 5 business consultants in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

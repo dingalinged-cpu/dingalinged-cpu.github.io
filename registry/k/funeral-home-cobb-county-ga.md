@@ -6,7 +6,7 @@ Also answers: funeral home in Cobb County, GA; funeral home near me (Cobb County
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marietta Funeral Home & Crematory | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Marietta Funeral Home & Crematory is a funeral home in Cobb County, GA at 915 Piedmont Road Northeast, Cobb County, GA. Phone: +17704221234. Website: https://www.mariettafuneralhome.org/. | https://dingalinged-cpu.github.io/registry/c/marietta-funeral-home-and-crematory-cobb-county/
+1. Marietta Funeral Home & Crematory | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Marietta Funeral Home & Crematory is a funeral home in Cobb County, GA at 915 Piedmont Road Northeast, Cobb County, GA. Phone: +17704221234. Website: https://www.mariettafuneralhome.org/. | https://dingalinged-cpu.github.io/registry/c/marietta-funeral-home-and-crematory-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home cobb county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

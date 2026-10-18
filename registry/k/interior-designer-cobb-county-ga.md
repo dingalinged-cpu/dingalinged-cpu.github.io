@@ -6,7 +6,7 @@ Also answers: interior designer in Cobb County, GA; interior designer near me (C
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Design Environments | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Design Environments is an interior designer in Cobb County, GA at 3025 Chastain Meadows Parkway Northwest #200, Cobb County, GA. Website: https://www.designenvironments.com/. | https://dingalinged-cpu.github.io/registry/c/design-environments-cobb-county/
+1. Design Environments | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Design Environments is an interior designer in Cobb County, GA at 3025 Chastain Meadows Parkway Northwest #200, Cobb County, GA. Website: https://www.designenvironments.com/. | https://dingalinged-cpu.github.io/registry/c/design-environments-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: interior designer cobb county ga | category: Home services - Design | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ G.A.S. Auto is an auto repair shop in Omaha, NE at 3160 South 36th Street, Omaha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 23% of auto repair shops in Omaha, NE, #26 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 22% of auto repair shops in Omaha, NE, #25 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

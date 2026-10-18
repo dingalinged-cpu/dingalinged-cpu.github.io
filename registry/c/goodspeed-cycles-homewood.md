@@ -13,7 +13,7 @@ GoodSpeed Cycles is a bike shop in Homewood, IL at 2125 183rd Street, Homewood, 
 - Website: https://www.goodspeedcycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 52% of bike shops in Chicago, #1 of 1 bike shops in Homewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 51% of bike shops in Chicago, #1 of 1 bike shops in Homewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

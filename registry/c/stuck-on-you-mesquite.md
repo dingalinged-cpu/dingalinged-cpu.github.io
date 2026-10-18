@@ -13,7 +13,7 @@ Stuck On You is a tattoo shop in Mesquite, TX at 4102 Gus Thomasson Road, Mesqui
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 66% of tattoo shops in Dallas–Fort Worth, #2 of 2 tattoo shops in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 64% of tattoo shops in Dallas–Fort Worth, #2 of 2 tattoo shops in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

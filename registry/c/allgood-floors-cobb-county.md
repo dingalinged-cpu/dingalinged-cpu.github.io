@@ -13,7 +13,7 @@ AllGood Floors is a flooring company in Cobb County, GA at 2280 Shallowford Road
 - Website: https://allgoodfloors.com/
 - Email: n/a
 - Opening hours (OSM syntax): Sa 10:00-17:00
-- Pulse Score: 61.8/100 — Good — top 28% of flooring companys in Atlanta, #3 of 6 flooring companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Good — top 28% of flooring companys in Atlanta, #2 of 6 flooring companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

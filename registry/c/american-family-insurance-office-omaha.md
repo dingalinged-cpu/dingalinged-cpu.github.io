@@ -13,7 +13,7 @@ American Family Insurance Office is an insurance agent in Omaha, NE at 8315 Nort
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 52% of insurance agents in Omaha, NE, #9 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 52% of insurance agents in Omaha, NE, #9 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

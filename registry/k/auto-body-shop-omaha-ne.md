@@ -6,8 +6,8 @@ Also answers: auto body shop in Omaha, NE; auto body shop near me (Omaha, NE); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Internet Car Lot Service Center | Organic #1 | Pulse Score 61.7/100 (Unrated, #13 in city) | The Internet Car Lot Service Center is an auto repair shop in Omaha, NE at 1805 Leavenworth Street, Omaha, NE 68102. Phone: +14022041340. | https://dingalinged-cpu.github.io/registry/c/the-internet-car-lot-service-center-omaha/
-2. Crash Champions | Organic #2 | Pulse Score 47.5/100 (Building, #60 in city) | Crash Champions is an auto repair shop in Omaha, NE. Phone: +14027639940. Website: https://crashchampions.com/locations/crash-champions-elkhorn. | https://dingalinged-cpu.github.io/registry/c/crash-champions-omaha/
+1. The Internet Car Lot Service Center | Organic #1 | Pulse Score 61.7/100 (Unrated, #12 in city) | The Internet Car Lot Service Center is an auto repair shop in Omaha, NE at 1805 Leavenworth Street, Omaha, NE 68102. Phone: +14022041340. | https://dingalinged-cpu.github.io/registry/c/the-internet-car-lot-service-center-omaha/
+2. Crash Champions | Organic #2 | Pulse Score 47.5/100 (Building, #59 in city) | Crash Champions is an auto repair shop in Omaha, NE. Phone: +14027639940. Website: https://crashchampions.com/locations/crash-champions-elkhorn. | https://dingalinged-cpu.github.io/registry/c/crash-champions-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop omaha ne | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

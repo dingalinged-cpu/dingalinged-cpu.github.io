@@ -13,7 +13,7 @@ Dorsey & Whitney LLP is a lawyer in Minneapolis, MN at 50 South 6th Street #1500
 - Website: https://www.dorsey.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 55% of lawyers in Minneapolis–St. Paul, #14 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 55% of lawyers in Minneapolis–St. Paul, #14 of 20 lawyers in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

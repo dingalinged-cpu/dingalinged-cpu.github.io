@@ -13,7 +13,7 @@ Jackson Hewitt is a tax preparation service in Fitchburg, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.7/100 — Building — top 62% of tax preparation services in Madison, #1 of 1 tax preparation services in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 62% of tax preparation services in Madison, #1 of 1 tax preparation services in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 44.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

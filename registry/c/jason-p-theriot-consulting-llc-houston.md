@@ -13,7 +13,7 @@ Jason P Theriot Consulting, LLC is a business consultant in Houston, TX at 931 W
 - Website: https://jasontheriot.com/
 - Email: contact@jasontheriot.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 38% of business consultants in Houston, #2 of 5 business consultants in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 38% of business consultants in Houston, #2 of 5 business consultants in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

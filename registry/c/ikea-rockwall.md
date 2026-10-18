@@ -13,7 +13,7 @@ IKEA is a furniture store in Rockwall, TX at 1805 East Interstate 30, Rockwall, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 66% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 66% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: coworking space in Richardson, TX; coworking space near me (Richar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Drawing Board | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | The Drawing Board is a coworking space in Richardson, TX at 1900 Jay Ell Drive, Richardson, TX 75081. Phone: +19727870158. | https://dingalinged-cpu.github.io/registry/c/the-drawing-board-richardson/
+1. The Drawing Board | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | The Drawing Board is a coworking space in Richardson, TX at 1900 Jay Ell Drive, Richardson, TX 75081. Phone: +19727870158. | https://dingalinged-cpu.github.io/registry/c/the-drawing-board-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space richardson tx | category: real_estate | industry benchmark: Real Estate

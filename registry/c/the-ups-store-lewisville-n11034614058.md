@@ -13,7 +13,7 @@ The UPS Store is a printing service in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 09:00-19:00; Sa 09:00-14:00; PH closed
-- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 70% of printing services in Dallas–Fort Worth, #5 of 5 printing services in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 47.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 69% of printing services in Dallas–Fort Worth, #5 of 5 printing services in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 47.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

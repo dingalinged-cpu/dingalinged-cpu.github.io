@@ -13,7 +13,7 @@ Hollywood Feed is a pet store in Rockwall, TX at 2930 Ridge Road, Rockwall, TX 7
 - Website: https://locations.hollywoodfeed.com/texas/rockwall/2930-ridge-rd/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:30; Su 10:00-18:30
-- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 63% of pet stores in Dallas–Fort Worth, #2 of 3 pet stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 63% of pet stores in Dallas–Fort Worth, #2 of 3 pet stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

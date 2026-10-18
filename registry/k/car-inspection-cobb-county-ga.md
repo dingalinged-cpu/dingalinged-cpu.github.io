@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Right Price Emissions | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Right Price Emissions is a vehicle inspection station in Cobb County, GA at 4853 Canton Road Northeast, Cobb County, GA. Phone: +17709283877. Website: https://ritepriceemissions.com/. | https://dingalinged-cpu.github.io/registry/c/right-price-emissions-cobb-county/
 2. Checkered Flag Emissions | Organic #2 | Pulse Score 61.2/100 (Good, #2 in city) | Checkered Flag Emissions is a vehicle inspection station in Cobb County, GA at 2551 Bells Ferry Road Northeast, Cobb County, GA. Phone: +17702189118. | https://dingalinged-cpu.github.io/registry/c/checkered-flag-emissions-cobb-county/
-3. East Cobb Emissions | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | East Cobb Emissions is a vehicle inspection station in Cobb County, GA at 2690 Sandy Plains Road Northeast, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/east-cobb-emissions-cobb-county/
+3. East Cobb Emissions | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | East Cobb Emissions is a vehicle inspection station in Cobb County, GA at 2690 Sandy Plains Road Northeast, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/east-cobb-emissions-cobb-county/
 4. DEKRA Emissions & Safety | Organic #4 | Pulse Score 48.3/100 (Building, #4 in city) | DEKRA Emissions & Safety is a vehicle inspection station in Cobb County, GA at 2932 Canton Road ##109, Cobb County, GA. Phone: +17704992122. Website: https://www.dekra.us/en/georgia/marietta-2932-canton-rd-ne/. | https://dingalinged-cpu.github.io/registry/c/dekra-emissions-and-safety-cobb-county/
 
 ## Market data (for advertisers and agents)

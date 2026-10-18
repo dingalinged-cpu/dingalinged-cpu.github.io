@@ -13,7 +13,7 @@ Edward Jones Investments is a financial advisor in Rockwall, TX at 959 Ralph Hal
 - Website: https://www.edwardjones.com/us-en/financial-advisor/todd-hooper
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 52% of financial advisors in Dallas–Fort Worth, #3 of 5 financial advisors in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 52% of financial advisors in Dallas–Fort Worth, #3 of 5 financial advisors in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

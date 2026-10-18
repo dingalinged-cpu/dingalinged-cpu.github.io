@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. TKO FITNESS, LLC | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | TKO FITNESS, LLC is a martial arts school in Omaha, NE at 6815 Grover Street, Omaha, NE 68106. Phone: +15312229090. Website: https://tkofitnessomaha.com/. | https://dingalinged-cpu.github.io/registry/c/tko-fitness-llc-omaha/
 2. Family Tae Kwon DO & Judo | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Family Tae Kwon DO & Judo is a martial arts school in Omaha, NE at 6813 Grover Street, Omaha, NE 68106. Phone: +14023981977. Website: https://taekwondoomaha.com/. | https://dingalinged-cpu.github.io/registry/c/family-tae-kwon-do-and-judo-omaha/
-3. Farrell's Extreme Bodyshaping | Organic #3 | Pulse Score 42.2/100 (Unrated, #3 in city) | Farrell's Extreme Bodyshaping is a martial arts school in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/farrells-extreme-bodyshaping-omaha/
+3. Farrell's Extreme Bodyshaping | Organic #3 | Pulse Score 42.1/100 (Unrated, #3 in city) | Farrell's Extreme Bodyshaping is a martial arts school in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/farrells-extreme-bodyshaping-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts omaha ne | category: Fitness | industry benchmark: Health & Fitness

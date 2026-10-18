@@ -13,7 +13,7 @@ The Super Lawyer - Greene Legal Group is a lawyer in Atlanta, GA at 600 West Pea
 - Website: https://thesuperlawyer.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 60.9/100 — Good — top 18% of lawyers in Atlanta, #10 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 18% of lawyers in Atlanta, #10 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

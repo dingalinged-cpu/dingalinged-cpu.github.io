@@ -13,7 +13,7 @@ Pestmaster of Marietta-Alpharetta is a pest control company in Marietta, GA at 7
 - Website: https://www.pestmaster.com/marietta-alpharetta/
 - Email: ggreen@pestmaster.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 19% of pest control companys in Atlanta, #2 of 5 pest control companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 19% of pest control companys in Atlanta, #2 of 5 pest control companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

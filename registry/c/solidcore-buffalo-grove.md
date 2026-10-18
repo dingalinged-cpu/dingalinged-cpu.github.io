@@ -13,7 +13,7 @@ Solidcore is a pilates studio in Buffalo Grove, IL at 1561 Deerfield Parkway, Bu
 - Website: https://solidcore.co/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.8/100 — Building — top 37% of pilates studios in Chicago, #1 of 1 pilates studios in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 37% of pilates studios in Chicago, #1 of 1 pilates studios in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

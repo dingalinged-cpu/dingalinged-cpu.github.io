@@ -13,7 +13,7 @@ Northwestern Medicine Immediate Care Orland Park is an urgent care clinic in Orl
 - Website: https://www.nm.org/locations/immediate-care-orland-park
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa,Su 08:00-20:00
-- Pulse Score: 49.9/100 — Building — top 85% of urgent care clinics in Chicago, #1 of 1 urgent care clinics in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 65.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 85% of urgent care clinics in Chicago, #1 of 1 urgent care clinics in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

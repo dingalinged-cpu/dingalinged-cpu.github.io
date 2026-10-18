@@ -13,7 +13,7 @@ Eyerly Ball Polk County Clinic is a therapy practice in Des Moines, IA at 1301 C
 - Website: https://www.unitypoint.org/desmoines/eyerly-ball-tba.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 56% of therapy practices in Des Moines, IA, #3 of 5 therapy practices in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 56% of therapy practices in Des Moines, IA, #3 of 5 therapy practices in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

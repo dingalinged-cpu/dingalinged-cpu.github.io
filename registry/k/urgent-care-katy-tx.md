@@ -6,7 +6,7 @@ Also answers: urgent care in Katy, TX; urgent care near me (Katy, TX); best urge
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFC Urgent Care | Organic #1 | Pulse Score 44.1/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Katy, TX at 6445 FM 1463 #230, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-katy/
+1. AFC Urgent Care | Organic #1 | Pulse Score 44/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Katy, TX at 6445 FM 1463 #230, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care katy tx | category: Health & medical | industry benchmark: Physicians & Surgeons

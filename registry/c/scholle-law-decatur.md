@@ -13,7 +13,7 @@ Scholle Law is a lawyer in Decatur, GA at 160 Clairemont Avenue #200, Decatur, G
 - Website: https://www.schollelaw.com/locations/decatur
 - Email: admin@schollelaw.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 95% of lawyers in Atlanta, #3 of 3 lawyers in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 95% of lawyers in Atlanta, #3 of 3 lawyers in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

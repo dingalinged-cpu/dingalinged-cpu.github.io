@@ -13,7 +13,7 @@ Dallas Bike Works is a bike shop in Dallas, TX at 4875 West Lawther Drive, Dalla
 - Website: https://www.dallasbikeworks.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 12:00-17:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 38% of bike shops in Dallas–Fort Worth, #6 of 12 bike shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 35% of bike shops in Dallas–Fort Worth, #6 of 12 bike shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

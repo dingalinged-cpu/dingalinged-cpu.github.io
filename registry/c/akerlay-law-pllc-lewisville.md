@@ -13,7 +13,7 @@ Akerlay Law, PLLC is a lawyer in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 84% of lawyers in Dallas–Fort Worth, #7 of 8 lawyers in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 36.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 84% of lawyers in Dallas–Fort Worth, #7 of 8 lawyers in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 36.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

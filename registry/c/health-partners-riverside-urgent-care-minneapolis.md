@@ -13,7 +13,7 @@ Health Partners Riverside Urgent Care is an urgent care clinic in Minneapolis, M
 - Website: https://www.healthpartners.com/public/find-care/location-detail.html?type=medical&networkId=hp&distance=20&hpmgOnly=false&view=list&start=20&keepCmpCrit=1&locationId=280
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa-Su 08:00-17:00
-- Pulse Score: 64.2/100 — Good — top 34% of urgent care clinics in Minneapolis–St. Paul, #1 of 1 urgent care clinics in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 70.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 34% of urgent care clinics in Minneapolis–St. Paul, #1 of 1 urgent care clinics in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 70.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

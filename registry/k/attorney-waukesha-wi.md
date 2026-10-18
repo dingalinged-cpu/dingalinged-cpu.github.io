@@ -6,10 +6,10 @@ Also answers: attorney in Waukesha, WI; attorney near me (Waukesha, WI); best at
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cramer, Multhauf & Hammes, LLP | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Cramer, Multhauf & Hammes, LLP is a lawyer in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/cramer-multhauf-and-hammes-llp-waukesha/
-2. Kuchler & Cotton, S.C. | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Kuchler & Cotton, S.C. is a lawyer in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/kuchler-and-cotton-s-c-waukesha/
-3. Law Offices of Julie M. Gay | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | Law Offices of Julie M. Gay is a lawyer in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-julie-m-gay-waukesha/
-4. Thelen & Associates | Organic #4 | Pulse Score 53.8/100 (Unrated, #4 in city) | Thelen & Associates is a lawyer in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/thelen-and-associates-waukesha/
+1. Cramer, Multhauf & Hammes, LLP | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Cramer, Multhauf & Hammes, LLP is a lawyer in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/cramer-multhauf-and-hammes-llp-waukesha/
+2. Kuchler & Cotton, S.C. | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Kuchler & Cotton, S.C. is a lawyer in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/kuchler-and-cotton-s-c-waukesha/
+3. Law Offices of Julie M. Gay | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Law Offices of Julie M. Gay is a lawyer in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-julie-m-gay-waukesha/
+4. Thelen & Associates | Organic #4 | Pulse Score 53.9/100 (Unrated, #4 in city) | Thelen & Associates is a lawyer in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/thelen-and-associates-waukesha/
 5. Sterling Lawyers, LLC | Organic #5 | Pulse Score 49.3/100 (Unrated, #5 in city) | Sterling Lawyers, LLC is a lawyer in Waukesha, WI at N19W24400 Riverwood Drive ##350, Waukesha, WI 53188. Phone: +12622218435. Website: https://www.sterlinglawyers.com/wisconsin/locations/waukesha/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-waukesha/
 
 ## Market data (for advertisers and agents)

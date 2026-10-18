@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Dylan's Liquor Store | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Dylan's Liquor Store is a liquor store in The Woodlands, TX at 8000 Research Forest Drive #120, The Woodlands, TX 77382. Phone: +13463312157. Website: https://www.dylansliquor.net/. | https://dingalinged-cpu.github.io/registry/c/dylans-liquor-store-the-woodlands/
 2. Premier Beverage | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Premier Beverage is a liquor store in The Woodlands, TX at 27170 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/premier-beverage-the-woodlands/
-3. Spec's | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Spec's is a liquor store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/specs-the-woodlands/
+3. Spec's | Organic #3 | Pulse Score 43.5/100 (Building, #3 in city) | Spec's is a liquor store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/specs-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store the woodlands tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

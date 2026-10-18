@@ -13,7 +13,7 @@ Hackley & Associates Architects, Inc is an architect in Kenilworth, IL at 440 Gr
 - Website: https://hackleyarchitects.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 30% of architects in Chicago, #1 of 1 architects in Kenilworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 30% of architects in Chicago, #1 of 1 architects in Kenilworth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

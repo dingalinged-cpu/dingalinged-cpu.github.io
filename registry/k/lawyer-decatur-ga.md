@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Williams & Associates | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Williams & Associates is a lawyer in Decatur, GA at 220 Church Street, Decatur, GA 30030. Phone: +14043703783. Website: https://ritatuckerwilliamsattorneyatlaw.com/. | https://dingalinged-cpu.github.io/registry/c/williams-and-associates-decatur/
 2. Manji Law, P.C. | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Manji Law, P.C. is a lawyer in Decatur, GA at 315 West Ponce de Leon Avenue #Suite 400, Decatur, GA 30030. Phone: +16789022999. Website: https://www.manjilaw.com/. | https://dingalinged-cpu.github.io/registry/c/manji-law-p-c-decatur/
-3. Scholle Law | Organic #3 | Pulse Score 49.5/100 (Unrated, #3 in city) | Scholle Law is a lawyer in Decatur, GA at 160 Clairemont Avenue #200, Decatur, GA 30030. Phone: +16786078890. Website: https://www.schollelaw.com/locations/decatur. | https://dingalinged-cpu.github.io/registry/c/scholle-law-decatur/
+3. Scholle Law | Organic #3 | Pulse Score 49.6/100 (Unrated, #3 in city) | Scholle Law is a lawyer in Decatur, GA at 160 Clairemont Avenue #200, Decatur, GA 30030. Phone: +16786078890. Website: https://www.schollelaw.com/locations/decatur. | https://dingalinged-cpu.github.io/registry/c/scholle-law-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer decatur ga | category: Legal | industry benchmark: Attorneys & Legal Services

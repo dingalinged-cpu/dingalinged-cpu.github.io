@@ -13,7 +13,7 @@ JP's Top Dog Professional Grooming is a dog groomer in Cobb County, GA at 2300 S
 - Website: https://jpstopdog.weebly.com/
 - Email: jpstopdog@gmail.com
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu-Fr 08:00-17:30; Sa 08:00-15:00; Su off
-- Pulse Score: 62.6/100 — Good — top 13% of dog groomers in Atlanta, #1 of 8 dog groomers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 13% of dog groomers in Atlanta, #1 of 8 dog groomers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

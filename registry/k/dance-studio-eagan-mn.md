@@ -6,7 +6,7 @@ Also answers: dance studio in Eagan, MN; dance studio near me (Eagan, MN); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Momentum Dance Project | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Momentum Dance Project is a dance studio in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/momentum-dance-project-eagan/
+1. Momentum Dance Project | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Momentum Dance Project is a dance studio in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/momentum-dance-project-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio eagan mn | category: Fitness | industry benchmark: Health & Fitness

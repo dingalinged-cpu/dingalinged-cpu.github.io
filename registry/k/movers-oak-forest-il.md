@@ -6,7 +6,7 @@ Also answers: movers in Oak Forest, IL; movers near me (Oak Forest, IL); best mo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thompson Moving & Storage, Inc. ILCC7337MC | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Thompson Moving & Storage, Inc. ILCC7337MC is a moving company in Orland Park, IL at 15331 South 70th Court, Orland Park, IL 60462. Phone: +17086874446. Website: https://www.movinu.com/. | https://dingalinged-cpu.github.io/registry/c/thompson-moving-and-storage-inc-ilcc7337mc-orland-park/
+1. Thompson Moving & Storage, Inc. ILCC7337MC | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Thompson Moving & Storage, Inc. ILCC7337MC is a moving company in Orland Park, IL at 15331 South 70th Court, Orland Park, IL 60462. Phone: +17086874446. Website: https://www.movinu.com/. | https://dingalinged-cpu.github.io/registry/c/thompson-moving-and-storage-inc-ilcc7337mc-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers oak forest il | category: Home services - Moving | industry benchmark: Home & Home Improvement

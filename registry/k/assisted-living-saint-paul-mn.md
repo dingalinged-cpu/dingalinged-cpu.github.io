@@ -7,10 +7,10 @@ Also answers: assisted living in Saint Paul, MN; assisted living near me (Saint 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Family First Home Healthcare | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Family First Home Healthcare is an assisted living facility in Saint Paul, MN at 1261 Payne Avenue #102, Saint Paul, MN. Phone: +16513400825. Website: https://familyfirstmn.com/. | https://dingalinged-cpu.github.io/registry/c/family-first-home-healthcare-saint-paul/
-2. Pebmoob Senior Center | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Pebmoob Senior Center is an assisted living facility in Saint Paul, MN at 899 Payne Avenue, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/pebmoob-senior-center-saint-paul/
+2. Pebmoob Senior Center | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Pebmoob Senior Center is an assisted living facility in Saint Paul, MN at 899 Payne Avenue, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/pebmoob-senior-center-saint-paul/
 3. Cerenity Marian | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Cerenity Marian is an assisted living facility in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/cerenity-marian-saint-paul/
-4. Lyons Court Senior Apartments | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Lyons Court Senior Apartments is an assisted living facility in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/lyons-court-senior-apartments-saint-paul/
-5. The Quinlan Home | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | The Quinlan Home is an assisted living facility in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-quinlan-home-saint-paul/
+4. Lyons Court Senior Apartments | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Lyons Court Senior Apartments is an assisted living facility in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/lyons-court-senior-apartments-saint-paul/
+5. The Quinlan Home | Organic #5 | Pulse Score 54.3/100 (Unrated, #5 in city) | The Quinlan Home is an assisted living facility in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-quinlan-home-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living saint paul mn | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

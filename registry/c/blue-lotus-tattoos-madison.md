@@ -13,7 +13,7 @@ Blue Lotus Tattoos is a tattoo shop in Madison, WI at 6713 Odana Road #1, Madiso
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 12:00-18:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 41% of tattoo shops in Madison, #7 of 17 tattoo shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 41% of tattoo shops in Madison, #7 of 17 tattoo shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

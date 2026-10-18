@@ -13,7 +13,7 @@ GETT North America LLC is an IT support company in Houston, TX at 2500 Central P
 - Website: https://www.gett-na.com/
 - Email: info@gett-na.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Fair — top 50% of IT support companys in Houston, #6 of 14 IT support companys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Fair — top 50% of IT support companys in Houston, #6 of 14 IT support companys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

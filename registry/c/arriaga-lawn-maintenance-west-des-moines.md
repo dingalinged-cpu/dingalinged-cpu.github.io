@@ -13,7 +13,7 @@ Arriaga Lawn Maintenance is a landscaping company in West Des Moines, IA at 1824
 - Website: https://www.arriagalawn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 67% of landscaping companys in Des Moines, IA, #1 of 1 landscaping companys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 67% of landscaping companys in Des Moines, IA, #1 of 1 landscaping companys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

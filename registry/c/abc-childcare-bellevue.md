@@ -13,7 +13,7 @@ ABC Childcare is a preschool in Bellevue, NE. Phone: +14025059633. Website: http
 - Website: https://www.abcbellevue.com/contact-us
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 9% of preschools in Omaha, NE, #2 of 13 preschools in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 9% of preschools in Omaha, NE, #2 of 13 preschools in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

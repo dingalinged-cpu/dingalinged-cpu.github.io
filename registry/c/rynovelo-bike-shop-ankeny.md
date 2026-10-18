@@ -13,7 +13,7 @@ RynoVelo Bike Shop is a bike shop in Ankeny, IA at 604 Southwest 3rd Street, Ank
 - Website: https://www.rynovelo.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 50% of bike shops in Des Moines, IA, #2 of 3 bike shops in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 50% of bike shops in Des Moines, IA, #2 of 3 bike shops in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

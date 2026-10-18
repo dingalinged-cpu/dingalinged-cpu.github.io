@@ -13,7 +13,7 @@ Center of Dermatology is a dermatologist in Papillion, NE at 401 East Gold Coast
 - Website: https://www.centerofdermatology.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 17% of dermatologists in Omaha, NE, #1 of 2 dermatologists in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 17% of dermatologists in Omaha, NE, #1 of 2 dermatologists in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

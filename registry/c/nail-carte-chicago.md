@@ -13,7 +13,7 @@ NAILàCARTE is a nail salon in Chicago, IL at 1023 West Madison Street, Chicago,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 34% of nail salons in Chicago, #32 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 33% of nail salons in Chicago, #32 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

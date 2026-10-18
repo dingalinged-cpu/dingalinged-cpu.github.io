@@ -13,7 +13,7 @@ Balch & Bingham, LLP. is a lawyer in Atlanta, GA at 30 Ivan Allen Junior Bouleva
 - Website: https://www.balch.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 61% of lawyers in Atlanta, #38 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 61% of lawyers in Atlanta, #38 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 45.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

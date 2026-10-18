@@ -6,7 +6,7 @@ Also answers: windshield replacement in Omaha, NE; windshield replacement near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. America Glass | Organic #1 | Pulse Score 60.3/100 (Unrated, #23 in city) | America Glass is an auto repair shop in Omaha, NE at 1913 Vinton Street, Omaha, NE 68108. | https://dingalinged-cpu.github.io/registry/c/america-glass-omaha/
+1. America Glass | Organic #1 | Pulse Score 60.3/100 (Unrated, #22 in city) | America Glass is an auto repair shop in Omaha, NE at 1913 Vinton Street, Omaha, NE 68108. | https://dingalinged-cpu.github.io/registry/c/america-glass-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement omaha ne | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

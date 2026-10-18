@@ -7,7 +7,7 @@ Also answers: car wash in Melrose Park, IL; car wash near me (Melrose Park, IL);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Windy City Auto Spa | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Windy City Auto Spa is a car wash in Melrose Park, IL. | https://dingalinged-cpu.github.io/registry/c/windy-city-auto-spa-melrose-park/
-2. Delta Sonic Car Wash | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | Delta Sonic Car Wash is a car wash in Melrose Park, IL at 8490 North Avenue, Melrose Park, IL 60160. Website: https://deltasoniccarwash.com/location/melrose-park-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-melrose-park/
+2. Delta Sonic Car Wash | Organic #2 | Pulse Score 48.3/100 (Building, #2 in city) | Delta Sonic Car Wash is a car wash in Melrose Park, IL at 8490 North Avenue, Melrose Park, IL 60160. Website: https://deltasoniccarwash.com/location/melrose-park-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-melrose-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash melrose park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

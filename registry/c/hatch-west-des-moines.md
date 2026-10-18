@@ -13,7 +13,7 @@ Hatch is a marketing agency in West Des Moines, IA at 218 1/2 5th Street, West D
 - Website: https://hatchdsm.com/
 - Email: info@hatchdsm.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 13% of marketing agencys in Des Moines, IA, #1 of 3 marketing agencys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 13% of marketing agencys in Des Moines, IA, #1 of 3 marketing agencys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

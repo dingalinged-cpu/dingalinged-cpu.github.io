@@ -13,7 +13,7 @@ The Music Class Kirkwood is a music school in Atlanta, GA at 1963 Hosea L Willia
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 94% of music schools in Atlanta, #1 of 1 music schools in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 94% of music schools in Atlanta, #1 of 1 music schools in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

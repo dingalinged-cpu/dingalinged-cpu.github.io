@@ -13,7 +13,7 @@ Yoga Heights is a yoga studio in Milwaukee, WI at 5326 West Vliet Street, Milwau
 - Website: https://www.yogaheightsmke.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 78% of yoga studios in Milwaukee, #9 of 9 yoga studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 78% of yoga studios in Milwaukee, #9 of 9 yoga studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

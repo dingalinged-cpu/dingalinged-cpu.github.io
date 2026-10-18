@@ -13,7 +13,7 @@ Plaza Thrift is a thrift store in Plano, TX at 3115 West Parker Road, Plano, TX 
 - Website: https://plazathrift.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 11:00-18:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 19% of thrift stores in Dallas–Fort Worth, #2 of 6 thrift stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 20% of thrift stores in Dallas–Fort Worth, #2 of 6 thrift stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

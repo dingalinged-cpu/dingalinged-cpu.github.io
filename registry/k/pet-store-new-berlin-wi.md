@@ -6,7 +6,7 @@ Also answers: pet store in New Berlin, WI; pet store near me (New Berlin, WI); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. What's In The Bowl | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | What's In The Bowl is a pet store in New Berlin, WI at 15401 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/whats-in-the-bowl-new-berlin/
+1. What's In The Bowl | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | What's In The Bowl is a pet store in New Berlin, WI at 15401 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/whats-in-the-bowl-new-berlin/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store new berlin wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ GLG Accounting is an accountant in Northfield, IL at 400 Central Avenue #340B, N
 - Website: https://www.glgaccounting.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 32% of accountants in Chicago, #1 of 1 accountants in Northfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 32% of accountants in Chicago, #1 of 1 accountants in Northfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

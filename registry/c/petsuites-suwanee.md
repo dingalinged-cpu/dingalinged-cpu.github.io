@@ -13,7 +13,7 @@ PetSuites is a dog boarding facility in Suwanee, GA at 8030 McGinnis Ferry Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.8/100 — Building — top 100% of dog boarding facilitys in Atlanta, #1 of 1 dog boarding facilitys in Suwanee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.8/100 — Building — top 100% of dog boarding facilitys in Atlanta, #1 of 1 dog boarding facilitys in Suwanee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 44. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

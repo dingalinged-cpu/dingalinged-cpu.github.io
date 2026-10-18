@@ -6,7 +6,7 @@ Also answers: coworking space in Woodstock, GA; coworking space near me (Woodsto
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Made Mercantile | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Made Mercantile is a coworking space in Woodstock, GA at 8636 Main Street, Woodstock, GA. Phone: +16784449134. Website: https://www.mademercantile.com/. | https://dingalinged-cpu.github.io/registry/c/made-mercantile-woodstock/
+1. Made Mercantile | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Made Mercantile is a coworking space in Woodstock, GA at 8636 Main Street, Woodstock, GA. Phone: +16784449134. Website: https://www.mademercantile.com/. | https://dingalinged-cpu.github.io/registry/c/made-mercantile-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space woodstock ga | category: real_estate | industry benchmark: Real Estate

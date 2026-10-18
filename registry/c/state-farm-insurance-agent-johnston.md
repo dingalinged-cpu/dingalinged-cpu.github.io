@@ -13,7 +13,7 @@ State Farm Insurance Agent is an insurance agent in Johnston, IA at 5441 Northwe
 - Website: https://glennwaterhouse.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 58% of insurance agents in Des Moines, IA, #1 of 2 insurance agents in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 58% of insurance agents in Des Moines, IA, #1 of 2 insurance agents in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

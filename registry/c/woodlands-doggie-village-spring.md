@@ -13,7 +13,7 @@ Woodlands Doggie Village is a dog boarding facility in Spring, TX at 25120 Glen 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 60% of dog boarding facilitys in Houston, #2 of 2 dog boarding facilitys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 44.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 60% of dog boarding facilitys in Houston, #2 of 2 dog boarding facilitys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 44.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

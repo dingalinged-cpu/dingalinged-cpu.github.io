@@ -13,7 +13,7 @@ Go Hard Fitness is a gym in Atlanta, GA at 2080 Defoor Avenue Northwest, Atlanta
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Fair — top 19% of gyms in Atlanta, #8 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Fair — top 18% of gyms in Atlanta, #8 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 50. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

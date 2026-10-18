@@ -13,7 +13,7 @@ The Internet Car Lot Service Center is an auto repair shop in Omaha, NE at 1805 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 11% of auto repair shops in Omaha, NE, #13 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in Omaha, NE, #12 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

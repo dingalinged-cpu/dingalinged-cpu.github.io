@@ -13,7 +13,7 @@ Ramos Law Group PLLC is a lawyer in The Woodlands, TX at 8505 Technology Forest 
 - Website: https://www.ramosfamilylaw.com/locations/the-woodlands/
 - Email: info@ramosfamilylaw.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.4/100 — Good — top 25% of lawyers in Houston, #2 of 3 lawyers in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 25% of lawyers in Houston, #2 of 3 lawyers in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

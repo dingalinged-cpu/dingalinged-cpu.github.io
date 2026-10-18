@@ -6,7 +6,7 @@ Also answers: plastic surgeon in South Barrington, IL; plastic surgeon near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rejuva | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Rejuva is a plastic surgeon in South Barrington, IL at 100 West Higgins Road, South Barrington, IL 60010. Phone: +12249007546. | https://dingalinged-cpu.github.io/registry/c/rejuva-south-barrington/
+1. Rejuva | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Rejuva is a plastic surgeon in South Barrington, IL at 100 West Higgins Road, South Barrington, IL 60010. Phone: +12249007546. | https://dingalinged-cpu.github.io/registry/c/rejuva-south-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon south barrington il | category: Health & medical | industry benchmark: Physicians & Surgeons

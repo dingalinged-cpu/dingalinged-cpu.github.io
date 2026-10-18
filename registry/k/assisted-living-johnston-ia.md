@@ -7,9 +7,9 @@ Also answers: assisted living in Johnston, IA; assisted living near me (Johnston
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Edencrest at Green Meadows | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Edencrest at Green Meadows is an assisted living facility in Johnston, IA at 6750 Corporate Drive, Johnston, IA 50131. Phone: +15153052389. Website: https://edencrestliving.com/. | https://dingalinged-cpu.github.io/registry/c/edencrest-at-green-meadows-johnston/
-2. Candeo | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Candeo is an assisted living facility in Johnston, IA at 9550 White Oak Lane, Johnston, IA 50131. Phone: +15152598110. | https://dingalinged-cpu.github.io/registry/c/candeo-johnston/
+2. Candeo | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Candeo is an assisted living facility in Johnston, IA at 9550 White Oak Lane, Johnston, IA 50131. Phone: +15152598110. | https://dingalinged-cpu.github.io/registry/c/candeo-johnston/
 3. Brio of Johnston | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Brio of Johnston is an assisted living facility in Johnston, IA. | https://dingalinged-cpu.github.io/registry/c/brio-of-johnston-johnston/
-4. Martina Place Assisted Living | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Martina Place Assisted Living is an assisted living facility in Johnston, IA. | https://dingalinged-cpu.github.io/registry/c/martina-place-assisted-living-johnston/
+4. Martina Place Assisted Living | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Martina Place Assisted Living is an assisted living facility in Johnston, IA. | https://dingalinged-cpu.github.io/registry/c/martina-place-assisted-living-johnston/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living johnston ia | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

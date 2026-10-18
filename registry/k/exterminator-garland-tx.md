@@ -6,7 +6,7 @@ Also answers: exterminator in Garland, TX; exterminator near me (Garland, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Topper's Wildlife Removal | Organic #1 | Pulse Score 65.5/100 (Good, #1 in city) | Topper's Wildlife Removal is a pest control company in Garland, TX at 5306 Brookport Drive, Garland, TX 75043. Phone: +12148465554. Website: https://www.topperswildliferemoval.com/. | https://dingalinged-cpu.github.io/registry/c/toppers-wildlife-removal-garland/
+1. Topper's Wildlife Removal | Organic #1 | Pulse Score 65.6/100 (Good, #1 in city) | Topper's Wildlife Removal is a pest control company in Garland, TX at 5306 Brookport Drive, Garland, TX 75043. Phone: +12148465554. Website: https://www.topperswildliferemoval.com/. | https://dingalinged-cpu.github.io/registry/c/toppers-wildlife-removal-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: exterminator garland tx | category: Home services - Pest control | industry benchmark: Home & Home Improvement

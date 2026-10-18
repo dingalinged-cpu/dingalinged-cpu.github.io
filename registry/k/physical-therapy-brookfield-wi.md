@@ -6,7 +6,7 @@ Also answers: physical therapy in Brookfield, WI; physical therapy near me (Broo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ATI Physical Therapy | Organic #1 | Pulse Score 44.2/100 (Building, #1 in city) | ATI Physical Therapy is a physical therapy clinic in Brookfield, WI at 17500 West Bluemound Road, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-brookfield/
+1. ATI Physical Therapy | Organic #1 | Pulse Score 44.3/100 (Building, #1 in city) | ATI Physical Therapy is a physical therapy clinic in Brookfield, WI at 17500 West Bluemound Road, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy brookfield wi | category: Health & medical | industry benchmark: Physicians & Surgeons

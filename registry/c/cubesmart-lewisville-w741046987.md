@@ -13,7 +13,7 @@ CubeSmart is a self-storage facility in Lewisville, TX at 900 West Round Grove R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.7/100 — Building — top 39% of self-storage facilitys in Dallas–Fort Worth, #4 of 9 self-storage facilitys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 39% of self-storage facilitys in Dallas–Fort Worth, #4 of 9 self-storage facilitys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

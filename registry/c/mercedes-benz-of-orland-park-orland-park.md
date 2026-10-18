@@ -13,7 +13,7 @@ Mercedes-Benz of Orland Park is an used car dealer in Orland Park, IL at 8430 We
 - Website: https://www.mercedesbenzorlandpark.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.6/100 — Building — top 77% of used car dealers in Chicago, #2 of 2 used car dealers in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 77% of used car dealers in Chicago, #2 of 2 used car dealers in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

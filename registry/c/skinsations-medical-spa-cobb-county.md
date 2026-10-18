@@ -13,7 +13,7 @@ Skinsations Medical Spa is a skin care studio in Cobb County, GA at 1275 Powers 
 - Website: https://skinsations.care/
 - Email: support@skinsations.care
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Fair — top 48% of skin care studios in Atlanta, #4 of 8 skin care studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 51.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Fair — top 42% of skin care studios in Atlanta, #4 of 8 skin care studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 51.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Friends of Nature Pet Foods & Supplies is a pet store in Slinger, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 10:00-16:00; Mo-Fr 10:00-19:00; Sa 09:00-17:00
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 32% of pet stores in Milwaukee, #1 of 2 pet stores in Slinger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 32% of pet stores in Milwaukee, #1 of 2 pet stores in Slinger (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

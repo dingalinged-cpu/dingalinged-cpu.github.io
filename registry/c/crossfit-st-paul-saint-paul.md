@@ -13,7 +13,7 @@ CrossFit St Paul is a CrossFit gym in Saint Paul, MN at 470 North Cleveland Aven
 - Website: https://www.dorealwork.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-19:00; Sa 08:00-12:00; Su 09:00-12:00
-- Pulse Score: 62/100 — Good — top 25% of CrossFit gyms in Minneapolis–St. Paul, #1 of 1 CrossFit gyms in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 25% of CrossFit gyms in Minneapolis–St. Paul, #1 of 1 CrossFit gyms in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

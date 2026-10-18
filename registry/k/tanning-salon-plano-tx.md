@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Minaya Beauty Spa | Organic #1 | Pulse Score 62.8/100 (Unrated, #3 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://dingalinged-cpu.github.io/registry/c/minaya-beauty-spa-plano/
 2. Sugared + Bronzed | Organic #2 | Pulse Score 60.1/100 (Unrated, #1 in city) | Sugared + Bronzed is a tanning salon in Plano, TX at 7301 Lone Star Drive #A-112, Plano, TX 75024. Phone: +19724405156. | https://dingalinged-cpu.github.io/registry/c/sugared-bronzed-plano/
-3. Palm Beach Tan | Organic #3 | Pulse Score 43.9/100 (Building, #2 in city) | Palm Beach Tan is a tanning salon in Plano, TX at 3645 Dallas Parkway #509, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-plano/
+3. Palm Beach Tan | Organic #3 | Pulse Score 43.8/100 (Building, #2 in city) | Palm Beach Tan is a tanning salon in Plano, TX at 3645 Dallas Parkway #509, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon plano tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

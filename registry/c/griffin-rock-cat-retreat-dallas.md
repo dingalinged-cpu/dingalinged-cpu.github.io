@@ -13,7 +13,7 @@ Griffin Rock Cat Retreat is a dog boarding facility in Dallas, TX at 10310 Garla
 - Website: https://griffinrockcatretreat.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 28% of dog boarding facilitys in Dallas–Fort Worth, #3 of 7 dog boarding facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 25% of dog boarding facilitys in Dallas–Fort Worth, #3 of 7 dog boarding facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

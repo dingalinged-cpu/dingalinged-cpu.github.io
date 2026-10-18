@@ -13,7 +13,7 @@ Better Homes and Gardens Real Estate Winans is a real estate agency in Dallas, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 66% of real estate agencys in Dallas–Fort Worth, #22 of 36 real estate agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 42.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 66% of real estate agencys in Dallas–Fort Worth, #22 of 36 real estate agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 42.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

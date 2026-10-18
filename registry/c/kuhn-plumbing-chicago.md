@@ -13,7 +13,7 @@ Kuhn Plumbing is a plumber in Chicago, IL at 2330 West Nelson Street, Chicago, I
 - Website: https://www.kuhnplumbing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:30
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of plumbers in Chicago, #1 of 7 plumbers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of plumbers in Chicago, #1 of 7 plumbers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

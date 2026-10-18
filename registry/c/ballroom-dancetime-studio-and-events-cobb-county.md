@@ -13,7 +13,7 @@ Ballroom DanceTime Studio and Events is a dance studio in Cobb County, GA at 263
 - Website: https://www.ballroomdancetime.com/
 - Email: ballroomdancetime@gmail.com
 - Opening hours (OSM syntax): Mo-Th 15:00-21:00; Fr 15:00-22:00; Sa 10:00-15:00; Su off
-- Pulse Score: 63.3/100 — Good — top 8% of dance studios in Atlanta, #1 of 9 dance studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 8% of dance studios in Atlanta, #1 of 9 dance studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

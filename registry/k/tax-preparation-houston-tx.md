@@ -41,7 +41,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 33. H&R Block | Organic #33 | Pulse Score 45.8/100 (Building, #33 in city) | H&R Block is a tax preparation service in Houston, TX at 62 East Crosstimbers Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-houston-n6914079283/
 34. H&R Block | Organic #34 | Pulse Score 45.8/100 (Building, #34 in city) | H&R Block is a tax preparation service in Houston, TX at 2747 Gessner Road, Houston, TX 77043. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-houston-n8223418899/
 35. Liberty Tax | Organic #35 | Pulse Score 45.6/100 (Building, #35 in city) | Liberty Tax is a tax preparation service in Houston, TX at 7404 Airline Drive #E, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-houston-n11574871967/
-36. Liberty Tax | Organic #36 | Pulse Score 45/100 (Building, #36 in city) | Liberty Tax is a tax preparation service in Houston, TX at 6065 Scott Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-houston/
+36. Liberty Tax | Organic #36 | Pulse Score 45.1/100 (Building, #36 in city) | Liberty Tax is a tax preparation service in Houston, TX at 6065 Scott Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-houston/
 37. Liberty Tax | Organic #37 | Pulse Score 45/100 (Unrated, #37 in city) | Liberty Tax is a tax preparation service in Houston, TX at 11603 Aldine Westfield Road #C, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-houston-n7630481625/
 38. Jackson Hewitt | Organic #38 | Pulse Score 44.6/100 (Building, #38 in city) | Jackson Hewitt is a tax preparation service in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-houston/
 39. H&R Block | Organic #39 | Pulse Score 44.5/100 (Unrated, #39 in city) | H&R Block is a tax preparation service in Houston, TX at 1967 West T C Jester Boulevard, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-houston-n7299566676/
@@ -49,7 +49,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 41. H&R Block | Organic #41 | Pulse Score 42.1/100 (Building, #41 in city) | H&R Block is a tax preparation service in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-houston/
 42. H&R Block | Organic #42 | Pulse Score 42.1/100 (Building, #42 in city) | H&R Block is a tax preparation service in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-houston-n3817866230/
 43. H&R Block | Organic #43 | Pulse Score 42.1/100 (Building, #43 in city) | H&R Block is a tax preparation service in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-houston-n3827247190/
-44. H&R Block | Organic #44 | Pulse Score 26.4/100 (Building, #44 in city) | H&R Block is a tax preparation service in Houston, TX at 23962 Highway 59 North, Houston, TX 77339. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-houston-n7631196619/
+44. H&R Block | Organic #44 | Pulse Score 26.5/100 (Building, #44 in city) | H&R Block is a tax preparation service in Houston, TX at 23962 Highway 59 North, Houston, TX 77339. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-houston-n7631196619/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation houston tx | category: Professional & financial services | industry benchmark: Finance & Insurance

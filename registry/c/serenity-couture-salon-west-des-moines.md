@@ -13,7 +13,7 @@ Serenity Couture Salon is a hair salon in West Des Moines, IA at 650 South Prair
 - Website: https://serenitycouture.com/locations/west-glen-location/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-19:00; Tu-We 10:00-20:00; Th 09:00-20:00; Fr-Sa 08:00-17:00
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Des Moines, IA, #1 of 32 hair salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of hair salons in Des Moines, IA, #1 of 32 hair salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

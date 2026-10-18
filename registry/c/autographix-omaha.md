@@ -13,7 +13,7 @@ Autographix is an auto repair shop in Omaha, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Omaha, NE, #42 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 40.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 49% of auto repair shops in Omaha, NE, #40 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 40.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

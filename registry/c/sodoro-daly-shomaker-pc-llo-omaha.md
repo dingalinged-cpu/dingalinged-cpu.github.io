@@ -13,7 +13,7 @@ Sodoro Daly Shomaker PC LLO is a lawyer in Omaha, NE at 7000 Spring Street, Omah
 - Website: https://sodorolaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Omaha, NE, #5 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Omaha, NE, #5 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

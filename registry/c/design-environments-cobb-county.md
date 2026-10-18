@@ -13,7 +13,7 @@ Design Environments is an interior designer in Cobb County, GA at 3025 Chastain 
 - Website: https://www.designenvironments.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Atlanta, #1 of 1 interior designers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 42.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 100% of interior designers in Atlanta, #1 of 1 interior designers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 45.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Total Joint Specialists - Alpharetta is an orthopedic surgeon in Alpharetta, GA 
 - Website: https://www.totaljointspecialists.com/locations/alpharetta
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 42% of orthopedic surgeons in Atlanta, #1 of 2 orthopedic surgeons in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 42% of orthopedic surgeons in Atlanta, #1 of 2 orthopedic surgeons in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

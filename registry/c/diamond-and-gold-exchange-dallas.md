@@ -13,7 +13,7 @@ Diamond & Gold Exchange is a jewelry store in Dallas, TX at 7995 Lyndon B Johnso
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 24% of jewelry stores in Dallas–Fort Worth, #8 of 35 jewelry stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 24% of jewelry stores in Dallas–Fort Worth, #8 of 35 jewelry stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

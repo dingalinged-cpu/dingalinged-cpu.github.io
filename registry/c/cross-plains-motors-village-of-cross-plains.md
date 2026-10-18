@@ -13,7 +13,7 @@ Cross Plains Motors is an auto repair shop in Village of Cross Plains, WI at 140
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 21% of auto repair shops in Madison, #2 of 2 auto repair shops in Village of Cross Plains (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 52.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 21% of auto repair shops in Madison, #2 of 2 auto repair shops in Village of Cross Plains (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: plumbers in Alpharetta, GA; plumbers near me (Alpharetta, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Georgia Plumbers 24/7 | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Georgia Plumbers 24/7 is a plumber in Alpharetta, GA at 12850 Highway 9 North #600-126, Alpharetta, GA 30004. Phone: +16786280474. Website: https://georgiaplumbers247.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-plumbers-24-7-alpharetta/
+1. Georgia Plumbers 24/7 | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Georgia Plumbers 24/7 is a plumber in Alpharetta, GA at 12850 Highway 9 North #600-126, Alpharetta, GA 30004. Phone: +16786280474. Website: https://georgiaplumbers247.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-plumbers-24-7-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers alpharetta ga | category: Home Services | industry benchmark: Home & Home Improvement

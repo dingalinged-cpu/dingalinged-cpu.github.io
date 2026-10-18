@@ -6,7 +6,7 @@ Also answers: family doctor in Wauconda, IL; family doctor near me (Wauconda, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Family Medicine | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Family Medicine is a family medicine practice in Wauconda, IL at 431 West Liberty Street, Wauconda, IL 60084. Website: https://www.fmsmed.com/. | https://dingalinged-cpu.github.io/registry/c/family-medicine-wauconda/
+1. Family Medicine | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Family Medicine is a family medicine practice in Wauconda, IL at 431 West Liberty Street, Wauconda, IL 60084. Website: https://www.fmsmed.com/. | https://dingalinged-cpu.github.io/registry/c/family-medicine-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor wauconda il | category: Health & medical | industry benchmark: Physicians & Surgeons

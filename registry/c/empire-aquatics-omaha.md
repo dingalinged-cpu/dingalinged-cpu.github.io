@@ -13,7 +13,7 @@ empire aquatics is a pet store in Omaha, NE at 6102 Arbor Street, Omaha, NE 6810
 - Website: https://empireaquatics.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 11% of pet stores in Omaha, NE, #2 of 10 pet stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 47.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 11% of pet stores in Omaha, NE, #2 of 10 pet stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

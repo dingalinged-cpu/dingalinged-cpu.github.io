@@ -6,9 +6,9 @@ Also answers: movers in Omaha, NE; movers near me (Omaha, NE); best movers Omaha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Auto 1 Towing | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Auto 1 Towing is a moving company in Omaha, NE at 6328 Grover Street, Omaha, NE 68106. Phone: +14023442301. Website: https://auto1towing.net/. | https://dingalinged-cpu.github.io/registry/c/auto-1-towing-omaha/
-2. Fast-Trac Freight Services, Inc | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Fast-Trac Freight Services, Inc is a moving company in Omaha, NE at 3603 South 61st Avenue, Omaha, NE 68106. Phone: +14028951115. Website: https://fasttracomaha.com/. | https://dingalinged-cpu.github.io/registry/c/fast-trac-freight-services-inc-omaha/
-3. RJ's Towing & Recovery | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | RJ's Towing & Recovery is a moving company in Omaha, NE at 6328 Grover Street #1, Omaha, NE 68106. Phone: +14027388000. Website: https://rjtowing.net/. | https://dingalinged-cpu.github.io/registry/c/rjs-towing-and-recovery-omaha/
+1. Auto 1 Towing | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Auto 1 Towing is a moving company in Omaha, NE at 6328 Grover Street, Omaha, NE 68106. Phone: +14023442301. Website: https://auto1towing.net/. | https://dingalinged-cpu.github.io/registry/c/auto-1-towing-omaha/
+2. Fast-Trac Freight Services, Inc | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Fast-Trac Freight Services, Inc is a moving company in Omaha, NE at 3603 South 61st Avenue, Omaha, NE 68106. Phone: +14028951115. Website: https://fasttracomaha.com/. | https://dingalinged-cpu.github.io/registry/c/fast-trac-freight-services-inc-omaha/
+3. RJ's Towing & Recovery | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | RJ's Towing & Recovery is a moving company in Omaha, NE at 6328 Grover Street #1, Omaha, NE 68106. Phone: +14027388000. Website: https://rjtowing.net/. | https://dingalinged-cpu.github.io/registry/c/rjs-towing-and-recovery-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers omaha ne | category: Home services - Moving | industry benchmark: Home & Home Improvement

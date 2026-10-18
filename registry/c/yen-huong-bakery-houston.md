@@ -13,7 +13,7 @@ Yen Huong Bakery is a bakery in Houston, TX at 1203 Chartres Street, Houston, TX
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 53% of bakerys in Houston, #43 of 75 bakerys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 52% of bakerys in Houston, #42 of 75 bakerys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

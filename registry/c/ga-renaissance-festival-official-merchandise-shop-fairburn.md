@@ -13,7 +13,7 @@ GA Renaissance Festival Official Merchandise Shop is a gift shop in Fairburn, GA
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): sat-sun 10AM-6PM
-- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 34% of gift shops in Atlanta, #1 of 1 gift shops in Fairburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 34% of gift shops in Atlanta, #1 of 1 gift shops in Fairburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

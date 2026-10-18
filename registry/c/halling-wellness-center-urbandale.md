@@ -13,7 +13,7 @@ Halling Wellness Center is a chiropractor in Urbandale, IA at 2535 106th Street,
 - Website: n/a
 - Email: hallingwellness@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 44% of chiropractors in Des Moines, IA, #1 of 2 chiropractors in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 44% of chiropractors in Des Moines, IA, #1 of 2 chiropractors in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: dance studio in Village Of Pewaukee, WI; dance studio near me (Vil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fred Astaire Dance Studios | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | Fred Astaire Dance Studios is a dance studio in Village of Pewaukee, WI at 615 Ryan Street, Village of Pewaukee, WI 53072. Phone: +12626919121. Website: https://www.fredastaire.com/pewaukee/. | https://dingalinged-cpu.github.io/registry/c/fred-astaire-dance-studios-village-of-pewaukee/
+1. Fred Astaire Dance Studios | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Fred Astaire Dance Studios is a dance studio in Village of Pewaukee, WI at 615 Ryan Street, Village of Pewaukee, WI 53072. Phone: +12626919121. Website: https://www.fredastaire.com/pewaukee/. | https://dingalinged-cpu.github.io/registry/c/fred-astaire-dance-studios-village-of-pewaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio village of pewaukee wi | category: Fitness | industry benchmark: Health & Fitness

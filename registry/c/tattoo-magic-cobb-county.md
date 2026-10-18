@@ -13,7 +13,7 @@ Tattoo Magic is a tattoo shop in Cobb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.3/100 — Fair — top 85% of tattoo shops in Atlanta, #7 of 7 tattoo shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 38.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.3/100 — Fair — top 85% of tattoo shops in Atlanta, #7 of 7 tattoo shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 38.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

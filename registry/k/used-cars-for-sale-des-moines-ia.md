@@ -6,7 +6,7 @@ Also answers: used cars for sale in Des Moines, IA; used cars for sale near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extreme Auto Plaza | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Extreme Auto Plaza is an used car dealer in Des Moines, IA at 1453 East 14th Street, Des Moines, IA 50316. Phone: +15152628003. Website: https://www.extremeautoplaza.com/. | https://dingalinged-cpu.github.io/registry/c/extreme-auto-plaza-des-moines/
+1. Extreme Auto Plaza | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Extreme Auto Plaza is an used car dealer in Des Moines, IA at 1453 East 14th Street, Des Moines, IA 50316. Phone: +15152628003. Website: https://www.extremeautoplaza.com/. | https://dingalinged-cpu.github.io/registry/c/extreme-auto-plaza-des-moines/
 2. Brad's Used Cars | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Brad's Used Cars is an used car dealer in Des Moines, IA at 1003 East Park Avenue, Des Moines, IA 50315. Phone: +15158501201. Website: https://www.bradsusedcarsinc.com/. | https://dingalinged-cpu.github.io/registry/c/brads-used-cars-des-moines/
 
 ## Market data (for advertisers and agents)

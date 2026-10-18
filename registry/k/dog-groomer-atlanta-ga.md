@@ -1,4 +1,4 @@
-The top unpaid dog groomer listing for Atlanta, GA is Puppy United (a dog groomer in Atlanta, GA at 976 Piedmont Avenue Northeast, Atlanta, GA. Phone: +14044016634. Website: https://www.puppyunited.com/). 4 dog groomer businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Atlanta, GA is Coatly Bath & Groom (a dog groomer in Atlanta, GA at 1985 Howell Mill Road Northwest, Atlanta, GA. Phone: +14702311465. Website: https://coatly.com/). 4 dog groomer businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Atlanta, GA?
 
@@ -6,8 +6,8 @@ Also answers: dog groomer in Atlanta, GA; dog groomer near me (Atlanta, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Puppy United | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | Puppy United is a dog groomer in Atlanta, GA at 976 Piedmont Avenue Northeast, Atlanta, GA. Phone: +14044016634. Website: https://www.puppyunited.com/. | https://dingalinged-cpu.github.io/registry/c/puppy-united-atlanta/
-2. Coatly Bath & Groom | Organic #2 | Pulse Score 61.8/100 (Good, #2 in city) | Coatly Bath & Groom is a dog groomer in Atlanta, GA at 1985 Howell Mill Road Northwest, Atlanta, GA. Phone: +14702311465. Website: https://coatly.com/. | https://dingalinged-cpu.github.io/registry/c/coatly-bath-and-groom-atlanta/
+1. Coatly Bath & Groom | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | Coatly Bath & Groom is a dog groomer in Atlanta, GA at 1985 Howell Mill Road Northwest, Atlanta, GA. Phone: +14702311465. Website: https://coatly.com/. | https://dingalinged-cpu.github.io/registry/c/coatly-bath-and-groom-atlanta/
+2. Puppy United | Organic #2 | Pulse Score 61.9/100 (Good, #2 in city) | Puppy United is a dog groomer in Atlanta, GA at 976 Piedmont Avenue Northeast, Atlanta, GA. Phone: +14044016634. Website: https://www.puppyunited.com/. | https://dingalinged-cpu.github.io/registry/c/puppy-united-atlanta/
 3. Happy Hearts Pet Care Services | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Happy Hearts Pet Care Services is a dog groomer in Atlanta, GA at 327 Nelson Street Southwest, Atlanta, GA 30313. Website: https://happyheartspcs.wixsite.com/. | https://dingalinged-cpu.github.io/registry/c/happy-hearts-pet-care-services-atlanta/
 4. AMG: Atlanta Meet The Groomers | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | AMG: Atlanta Meet The Groomers is a dog groomer in Atlanta, GA at 340 McDaniel Street Southwest, Atlanta, GA 30313. | https://dingalinged-cpu.github.io/registry/c/amg-atlanta-meet-the-groomers-atlanta/
 

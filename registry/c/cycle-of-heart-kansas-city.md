@@ -1,0 +1,24 @@
+Cycle of Heart is a gym in Kansas City, MO at 8306 North Oxford Street, Kansas City, MO 64158. Phone: +18162897770. Website: https://www.cycleofheart.com/.
+
+# Cycle of Heart
+
+- Category: gym
+- Services: gym
+- Address: 8306 North Oxford Street, Kansas City, MO 64158
+- City: Kansas City
+- State: MO
+- ZIP: 64158
+- Coordinates: 39.243581, -94.4663624
+- Phone: +18162897770
+- Website: https://www.cycleofheart.com/
+- Email: hello@cycleofheart.com
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 56% of gyms in Kansas City, MO, #20 of 33 gyms in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 42.3, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/cycle-of-heart-kansas-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cycle-of-heart-kansas-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/8498254505 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

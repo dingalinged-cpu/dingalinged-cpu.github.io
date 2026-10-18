@@ -6,7 +6,7 @@ Also answers: barber shop in Wauwatosa, WI; barber shop near me (Wauwatosa, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tosa Barber | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Tosa Barber is a barber shop in Wauwatosa, WI at 11519 West North Avenue, Wauwatosa, WI 53226. | https://dingalinged-cpu.github.io/registry/c/tosa-barber-wauwatosa/
+1. Tosa Barber | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Tosa Barber is a barber shop in Wauwatosa, WI at 11519 West North Avenue, Wauwatosa, WI 53226. | https://dingalinged-cpu.github.io/registry/c/tosa-barber-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop wauwatosa wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

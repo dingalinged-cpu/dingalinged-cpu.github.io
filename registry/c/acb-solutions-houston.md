@@ -13,7 +13,7 @@ ACB Solutions is an IT support company in Houston, TX at 5753 West Alabama Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 80% of IT support companys in Houston, #11 of 14 IT support companys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 80% of IT support companys in Houston, #11 of 14 IT support companys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 43.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Dr. Joel Schlessinger is a dermatologist in Omaha, NE at 2802 Oak View Drive, Om
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 84% of dermatologists in Omaha, NE, #3 of 3 dermatologists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 84% of dermatologists in Omaha, NE, #3 of 3 dermatologists in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

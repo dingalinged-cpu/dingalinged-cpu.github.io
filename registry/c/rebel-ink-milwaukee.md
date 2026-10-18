@@ -13,7 +13,7 @@ Rebel Ink is a tattoo shop in Milwaukee, WI at 3313 West National Avenue, Milwau
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 40% of tattoo shops in Milwaukee, #14 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 51.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 40% of tattoo shops in Milwaukee, #14 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 51.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

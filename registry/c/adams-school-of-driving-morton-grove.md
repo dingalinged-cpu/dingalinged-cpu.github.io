@@ -13,7 +13,7 @@ Adams School of Driving is a driving school in Morton Grove, IL at 6040 West Dem
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 27% of driving schools in Chicago, #1 of 1 driving schools in Morton Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 27% of driving schools in Chicago, #1 of 1 driving schools in Morton Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ MAACO is an auto repair shop in Denton, TX at 2115 Sadau Court, Denton, TX 76210
 - Website: https://www.maaco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 67% of auto repair shops in Dallas–Fort Worth, #28 of 38 auto repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 66% of auto repair shops in Dallas–Fort Worth, #28 of 38 auto repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

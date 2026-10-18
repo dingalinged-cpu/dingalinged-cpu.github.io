@@ -13,7 +13,7 @@ BitBranding is a marketing agency in Allen, TX at 550 South Watters Road #271, A
 - Website: https://www.bitbranding.co/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 43% of marketing agencys in Dallas–Fort Worth, #2 of 3 marketing agencys in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 43% of marketing agencys in Dallas–Fort Worth, #2 of 3 marketing agencys in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

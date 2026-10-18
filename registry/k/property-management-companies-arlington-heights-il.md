@@ -6,7 +6,7 @@ Also answers: property management companies in Arlington Heights, IL; property m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brook Run | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Brook Run is a property management company in Arlington Heights, IL at 2734 North Buffalo Grove Road, Arlington Heights, IL 60004. Phone: +18777639137. Website: https://livebh.com/. | https://dingalinged-cpu.github.io/registry/c/brook-run-arlington-heights/
+1. Brook Run | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Brook Run is a property management company in Arlington Heights, IL at 2734 North Buffalo Grove Road, Arlington Heights, IL 60004. Phone: +18777639137. Website: https://livebh.com/. | https://dingalinged-cpu.github.io/registry/c/brook-run-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies arlington heights il | category: real_estate | industry benchmark: Real Estate

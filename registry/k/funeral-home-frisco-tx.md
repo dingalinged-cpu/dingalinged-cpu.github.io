@@ -6,7 +6,7 @@ Also answers: funeral home in Frisco, TX; funeral home near me (Frisco, TX); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stonebriar Funeral Home & Cremation Services | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Stonebriar Funeral Home & Cremation Services is a funeral home in Frisco, TX at 10375 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/stonebriar-funeral-home-and-cremation-services-frisco/
+1. Stonebriar Funeral Home & Cremation Services | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Stonebriar Funeral Home & Cremation Services is a funeral home in Frisco, TX at 10375 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/stonebriar-funeral-home-and-cremation-services-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home frisco tx | category: Professional & financial services | industry benchmark: Finance & Insurance

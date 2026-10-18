@@ -13,7 +13,7 @@ MoreThanSEO is a marketing agency in Plano, TX at 8920 Coit Road, Plano, TX 7502
 - Website: https://www.morethanseo.com/
 - Email: info@morethanseo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Fair — top 36% of marketing agencys in Dallas–Fort Worth, #3 of 5 marketing agencys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 47.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 36% of marketing agencys in Dallas–Fort Worth, #3 of 5 marketing agencys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Aeon Studios is a photographer in Atlanta, GA at 380 Edgewood Avenue Northeast, 
 - Website: https://aeonstudios.simplybook.me/v2/
 - Email: aeonstudiosatl@gmail.com
 - Opening hours (OSM syntax): "By appointment"
-- Pulse Score: 63.4/100 — Good — top 25% of photographers in Atlanta, #2 of 5 photographers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 25% of photographers in Atlanta, #2 of 5 photographers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

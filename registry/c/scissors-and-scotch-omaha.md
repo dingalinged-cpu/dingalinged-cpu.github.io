@@ -13,7 +13,7 @@ Scissors & Scotch is a hair salon in Omaha, NE at 2835 South 170th Plaza, Omaha,
 - Website: https://www.scissorsscotch.com/book-omaha
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 70% of hair salons in Omaha, NE, #42 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 69% of hair salons in Omaha, NE, #41 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

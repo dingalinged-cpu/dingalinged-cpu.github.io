@@ -13,7 +13,7 @@ Ethic, Inc. is a marketing agency in East Point, GA at 1608 West Cleveland Avenu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 71% of marketing agencys in Atlanta, #1 of 1 marketing agencys in East Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 71% of marketing agencys in Atlanta, #1 of 1 marketing agencys in East Point (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

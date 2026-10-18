@@ -13,7 +13,7 @@ Johnstones supply west is a HVAC contractor in Omaha, NE at 9800 J Street, Omaha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00; Sa 07:30-12:00
-- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 50% of HVAC contractors in Omaha, NE, #2 of 3 HVAC contractors in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 51.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 50% of HVAC contractors in Omaha, NE, #2 of 3 HVAC contractors in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

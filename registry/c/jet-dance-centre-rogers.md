@@ -13,7 +13,7 @@ Jeté Dance Centre is a dance studio in Rogers, MN at 14165 James Road #118, Rog
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 53% of dance studios in Minneapolis–St. Paul, #1 of 1 dance studios in Rogers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 53% of dance studios in Minneapolis–St. Paul, #1 of 1 dance studios in Rogers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

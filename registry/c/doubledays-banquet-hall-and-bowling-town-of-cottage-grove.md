@@ -13,7 +13,7 @@ Doubleday's Banquet Hall & Bowling is an event venue in Town of Cottage Grove, W
 - Website: https://doubledays.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of event venues in Madison, #1 of 1 event venues in Town of Cottage Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 25% of event venues in Madison, #1 of 1 event venues in Town of Cottage Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

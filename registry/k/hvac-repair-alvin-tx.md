@@ -6,7 +6,7 @@ Also answers: hvac repair in Alvin, TX; hvac repair near me (Alvin, TX); best hv
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stoffer's Air Conditioning & Heating | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Stoffer's Air Conditioning & Heating is a HVAC contractor in Alvin, TX. Phone: +12813317749. | https://dingalinged-cpu.github.io/registry/c/stoffers-air-conditioning-and-heating-alvin/
+1. Stoffer's Air Conditioning & Heating | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Stoffer's Air Conditioning & Heating is a HVAC contractor in Alvin, TX. Phone: +12813317749. | https://dingalinged-cpu.github.io/registry/c/stoffers-air-conditioning-and-heating-alvin/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair alvin tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

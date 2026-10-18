@@ -13,7 +13,7 @@ MKE Graphics is a graphic designer in West Allis, WI at 7629 West Beloit Road, W
 - Website: https://mke-graphics.com/contact-us
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Good — top 34% of graphic designers in Milwaukee, #1 of 2 graphic designers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 34% of graphic designers in Milwaukee, #1 of 2 graphic designers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

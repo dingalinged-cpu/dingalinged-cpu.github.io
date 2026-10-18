@@ -8,7 +8,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 
 ## By CPC
-1. storage units ferrelview mo | searches/mo 1,500 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#storage-units-ferrelview-mo
+1. storage units ferrelview mo | searches/mo 1,500 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-ferrelview-mo/
 
 ## By value (searches x CPC)
 

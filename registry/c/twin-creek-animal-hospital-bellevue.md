@@ -13,7 +13,7 @@ Twin Creek Animal Hospital is a veterinarian in Bellevue, NE at 4006 Twin Creek 
 - Website: https://twincreekah.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 11% of veterinarians in Omaha, NE, #1 of 1 veterinarians in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 11% of veterinarians in Omaha, NE, #1 of 1 veterinarians in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

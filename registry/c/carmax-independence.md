@@ -1,0 +1,24 @@
+CarMax is an used car dealer in Independence, MO. Website: https://www.carmax.com/stores/7268.
+
+# CarMax
+
+- Category: used cars for sale
+- Services: used cars for sale
+- Address: Independence, MO
+- City: Independence
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.0368196, -94.3597953
+- Phone: n/a
+- Website: https://www.carmax.com/stores/7268
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 43.8/100 — Building — top 93% of used car dealers in Kansas City, MO, #1 of 1 used car dealers in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 44.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/carmax-independence/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/carmax-independence.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/170006338 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

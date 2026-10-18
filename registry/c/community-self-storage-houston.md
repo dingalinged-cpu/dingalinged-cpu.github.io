@@ -13,7 +13,7 @@ Community Self Storage is a self-storage facility in Houston, TX at 2101 South V
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 14% of self-storage facilitys in Houston, #9 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 14% of self-storage facilitys in Houston, #9 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

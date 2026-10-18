@@ -13,7 +13,7 @@ DEKRA Emissions & Safety Inspections is a vehicle inspection station in Marietta
 - Website: https://www.dekra.us/en/georgia/marietta-2745-sandy-plains-rd/
 - Email: gainspections.na@dekra.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa-Su 09:00-17:00
-- Pulse Score: 64/100 — Good — top 7% of vehicle inspection stations in Atlanta, #1 of 4 vehicle inspection stations in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 7% of vehicle inspection stations in Atlanta, #1 of 4 vehicle inspection stations in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 64.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

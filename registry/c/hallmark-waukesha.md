@@ -13,7 +13,7 @@ Hallmark is a gift shop in Waukesha, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.7/100 — Building — top 98% of gift shops in Milwaukee, #1 of 1 gift shops in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 39.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.7/100 — Building — top 98% of gift shops in Milwaukee, #1 of 1 gift shops in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 39.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

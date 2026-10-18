@@ -1,0 +1,24 @@
+Hightower is a furniture store in Kansas City, MO at 1808 Main Street, Kansas City, MO 64108. Website: https://hightoweraccess.com/.
+
+# Hightower
+
+- Category: furniture store
+- Services: furniture store
+- Address: 1808 Main Street, Kansas City, MO 64108
+- City: Kansas City
+- State: MO
+- ZIP: 64108
+- Coordinates: 39.0913833, -94.5838487
+- Phone: n/a
+- Website: https://hightoweraccess.com/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 23% of furniture stores in Kansas City, MO, #7 of 34 furniture stores in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hightower-kansas-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hightower-kansas-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/10220496885 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

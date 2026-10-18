@@ -1,4 +1,4 @@
-The top unpaid mechanic listing for the United States is Lincoln Square Service (an auto repair shop in Chicago, IL at 4754 North Leavitt Street, Chicago, IL. Phone: +17735619300. Website: https://www.lincolnsquareautoservice.com/). 3374 mechanic businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for the United States is Lincoln Square Service (an auto repair shop in Chicago, IL at 4754 North Leavitt Street, Chicago, IL. Phone: +17735619300. Website: https://www.lincolnsquareautoservice.com/). 3684 mechanic businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in the United States?
 
@@ -13,51 +13,51 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. Midwest Auto Body Shop Inc. | Organic #5 | Pulse Score 65.5/100 (Good, #1 in city) | Midwest Auto Body Shop Inc. is an auto repair shop in Melrose Park, IL at 1327 North 31st Avenue, Melrose Park, IL 60160. Phone: +17084500700. Website: https://www.midwestautobodyshop.com/. | https://dingalinged-cpu.github.io/registry/c/midwest-auto-body-shop-inc-melrose-park/
 6. Bennett Coachworks | Organic #6 | Pulse Score 65.4/100 (Good, #1 in city) | Bennett Coachworks is an auto repair shop in Milwaukee, WI at 1500 North Vel R. Phillips Avenue, Milwaukee, WI 53212. Phone: +14142982068. Website: https://www.hotrodbuilders.com/. | https://dingalinged-cpu.github.io/registry/c/bennett-coachworks-milwaukee/
 7. Blue Diamond Auto Glass | Organic #7 | Pulse Score 65.4/100 (Good, #1 in city) | Blue Diamond Auto Glass is an auto repair shop in Houston, TX at 9850 Westpark Drive, Houston, TX 77063. Phone: +18327732220. Website: https://bluediamondautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/blue-diamond-auto-glass-houston/
-8. Circle D Transmission | Organic #8 | Pulse Score 65.2/100 (Good, #2 in city) | Circle D Transmission is an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/. | https://dingalinged-cpu.github.io/registry/c/circle-d-transmission-houston/
-9. Barebones Auto & Diesel Repar | Organic #9 | Pulse Score 65.1/100 (Good, #1 in city) | Barebones Auto & Diesel Repar is an auto repair shop in Denton, TX at 3826 Market Street, Denton, TX 76209. Phone: +14696447100. Website: https://wwwbarebonesautodenton.com/. | https://dingalinged-cpu.github.io/registry/c/barebones-auto-and-diesel-repar-denton/
-10. Mobile Super Service | Organic #10 | Pulse Score 65.1/100 (Good, #1 in city) | Mobile Super Service is an auto repair shop in Des Moines, IA at 605 Scott Avenue, Des Moines, IA 50309. Phone: +15152807787. Website: https://www.mss-audio.com/. | https://dingalinged-cpu.github.io/registry/c/mobile-super-service-des-moines/
-11. Collision Pro Fix | Organic #11 | Pulse Score 65/100 (Good, #2 in city) | Collision Pro Fix is an auto repair shop in Marietta, GA at 1460 Roswell Road, Marietta, GA. Phone: +17707550042. Website: https://www.collisionprofix.com/. | https://dingalinged-cpu.github.io/registry/c/collision-pro-fix-marietta/
-12. Atlas Auto Repair | Organic #12 | Pulse Score 65/100 (Good, #1 in city) | Atlas Auto Repair is an auto repair shop in Omaha, NE at 4952 South 36th Street, Omaha, NE 68107. Phone: +14028890330. Website: https://www.driveatlasauto.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-repair-omaha/
-13. The Wrap Empire | Organic #13 | Pulse Score 65/100 (Good, #1 in city) | The Wrap Empire is an auto repair shop in Rosenberg, TX at 4709 Highway 36 South #32, Rosenberg, TX 77471. Phone: +19793984958. Website: https://thewrapempire.com/. | https://dingalinged-cpu.github.io/registry/c/the-wrap-empire-rosenberg/
-14. Atlanta Pneus Tire Repair | Organic #14 | Pulse Score 64.9/100 (Good, #3 in city) | Atlanta Pneus Tire Repair is an auto repair shop in Marietta, GA at 1798 Lower Roswell Road Southeast, Marietta, GA. Phone: +14704352216. Website: https://atlantatires.us/. | https://dingalinged-cpu.github.io/registry/c/atlanta-pneus-tire-repair-marietta/
-15. Chloe's Auto Repair | Organic #15 | Pulse Score 64.9/100 (Good, #1 in city) | Chloe's Auto Repair is an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-roswell/
-16. AutoTint Houston | Organic #16 | Pulse Score 64.9/100 (Good, #1 in city) | AutoTint Houston is an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/. | https://dingalinged-cpu.github.io/registry/c/autotint-houston-humble/
-17. Empire Auto Glass | Organic #17 | Pulse Score 64.9/100 (Good, #2 in city) | Empire Auto Glass is an auto repair shop in Roswell, GA at 11235 Alpharetta Highway #125, Roswell, GA 30076. Phone: +17707270997. Website: https://www.empireautoglassatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/empire-auto-glass-roswell/
-18. Route 66 Auto Service | Organic #18 | Pulse Score 64.9/100 (Good, #1 in city) | Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/. | https://dingalinged-cpu.github.io/registry/c/route-66-auto-service-willowbrook/
-19. Tintn | Organic #19 | Pulse Score 64.9/100 (Good, #1 in city) | Tintn is an auto repair shop in League City, TX at 2809 Calder Drive #100, League City, TX 77573. Phone: +18326328493. Website: https://windowtintn.com/. | https://dingalinged-cpu.github.io/registry/c/tintn-league-city/
-20. Lara Auto Service 2 | Organic #20 | Pulse Score 64.8/100 (Good, #2 in city) | Lara Auto Service 2 is an auto repair shop in Chicago, IL at 4817 South Knox Avenue, Chicago, IL 60632. Phone: +17735859040. Website: https://laraautoservice2.com/. | https://dingalinged-cpu.github.io/registry/c/lara-auto-service-2-chicago/
-21. Harris Window Tinting | Organic #21 | Pulse Score 64.8/100 (Good, #1 in city) | Harris Window Tinting is an auto repair shop in Deer Park, TX at 2676 Center Street, Deer Park, TX 77536. Phone: +18324295390. Website: https://www.harriswindowtinting.com/. | https://dingalinged-cpu.github.io/registry/c/harris-window-tinting-deer-park/
-22. Park Service | Organic #22 | Pulse Score 64.7/100 (Good, #1 in city) | Park Service is an auto repair shop in Saint Paul, MN at 2277 Como Avenue, Saint Paul, MN 55108. Phone: +16516444775. Website: https://facebook.com/ParkServiceInc/. | https://dingalinged-cpu.github.io/registry/c/park-service-saint-paul/
-23. TintFellas | Organic #23 | Pulse Score 64.7/100 (Good, #4 in city) | TintFellas is an auto repair shop in Marietta, GA at 337 Cobb Parkway South, Marietta, GA 30062. Phone: +17708206200. Website: https://www.tintfellasatl.com/. | https://dingalinged-cpu.github.io/registry/c/tintfellas-marietta/
-24. Bluemound Automotive, Inc. | Organic #24 | Pulse Score 64.7/100 (Good, #1 in city) | Bluemound Automotive, Inc. is an auto repair shop in Wauwatosa, WI at 6000 West Bluemound Road, Wauwatosa, WI 53213. Phone: +14142581000. Website: https://www.bluemoundautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bluemound-automotive-inc-wauwatosa/
-25. Quick Lane Tire & Auto Center | Organic #25 | Pulse Score 64.7/100 (Good, #1 in city) | Quick Lane Tire & Auto Center is an auto repair shop in Roseville, MN at 2777 Snelling Avenue North, Roseville, MN 55113. Phone: +16516384881. Website: https://www.quicklane.com/en-us/oil-change-tire-auto-repair-store/mn/roseville/55113/quick-lane-at-midway-ford/QL803/. | https://dingalinged-cpu.github.io/registry/c/quick-lane-tire-and-auto-center-roseville/
-26. McCullough NAPA Auto Care | Organic #26 | Pulse Score 64.6/100 (Good, #1 in city) | McCullough NAPA Auto Care is an auto repair shop in Atlanta, GA at 5810 Roswell Road, Atlanta, GA 30328. Phone: +14042523014. Website: https://www.napacarcare.com/. | https://dingalinged-cpu.github.io/registry/c/mccullough-napa-auto-care-atlanta/
-27. Kennesaw Tire Company | Organic #27 | Pulse Score 64.5/100 (Good, #1 in city) | Kennesaw Tire Company is an auto repair shop in Kennesaw, GA at 2850 South Main Street Northwest, Kennesaw, GA 30144. Phone: +17704228067. Website: https://www.kennesawtire.com/. | https://dingalinged-cpu.github.io/registry/c/kennesaw-tire-company-kennesaw/
-28. Professional Auto Care | Organic #28 | Pulse Score 64.5/100 (Unrated, #3 in city) | Professional Auto Care is an auto repair shop in Houston, TX at 9916 Honeywell, Houston, TX 77074. Phone: +17132700474. Website: https://professionalautocare.com/. | https://dingalinged-cpu.github.io/registry/c/professional-auto-care-houston/
-29. Scott DeLong's Auto Service | Organic #29 | Pulse Score 64.4/100 (Good, #1 in city) | Scott DeLong's Auto Service is an auto repair shop in Cobb County, GA at 2140 Post Oak Tritt Road Northeast, Cobb County, GA. Phone: +17705090222. Website: https://scottdelongsauto.com/. | https://dingalinged-cpu.github.io/registry/c/scott-delongs-auto-service-cobb-county/
-30. Massey Automotove | Organic #30 | Pulse Score 64.4/100 (Good, #2 in city) | Massey Automotove is an auto repair shop in Cobb County, GA at 2250 Lower Roswell Road Southeast, Cobb County, GA. Phone: +17706924149. Website: https://masseyautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/massey-automotove-cobb-county/
-31. DW Campbell of Atlanta Tire and Service Center | Organic #31 | Pulse Score 64.3/100 (Good, #2 in city) | DW Campbell of Atlanta Tire and Service Center is an auto repair shop in Atlanta, GA at 1921 Howell Mill Road Northwest, Atlanta, GA 30318. Phone: +14043520001. Website: https://www.dwctireandservice.com/. | https://dingalinged-cpu.github.io/registry/c/dw-campbell-of-atlanta-tire-and-service-center-atlanta/
-32. Galaxy Drive Garage | Organic #32 | Pulse Score 64.3/100 (Good, #1 in city) | Galaxy Drive Garage is an auto repair shop in Webster, TX at 18004 State Highway 3, Webster, TX 77598. Phone: +18325576388. Website: https://www.galaxydrivegaragetx.com/. | https://dingalinged-cpu.github.io/registry/c/galaxy-drive-garage-webster/
-33. Pep Boys Auto Service & Tire Shop | Organic #33 | Pulse Score 64.3/100 (Good, #2 in city) | Pep Boys Auto Service & Tire Shop is an auto repair shop in Kennesaw, GA at 4290 Bells Ferry Road Northwest #102, Kennesaw, GA 30144. Phone: +17705920811. Website: https://www.pepboys.com/stores/ga/kennesaw/4290-bells-ferry-road-nw?storecode=1656. | https://dingalinged-cpu.github.io/registry/c/pep-boys-auto-service-and-tire-shop-kennesaw/
-34. Prime Collision Repair | Organic #34 | Pulse Score 64.3/100 (Good, #3 in city) | Prime Collision Repair is an auto repair shop in Cobb County, GA at 4509 Canton Road Northeast, Cobb County, GA. Phone: +17709242080. Website: https://primecollisionrepair.com/. | https://dingalinged-cpu.github.io/registry/c/prime-collision-repair-cobb-county/
-35. Drip Ur Ride Automotive Detailing | Organic #35 | Pulse Score 64.2/100 (Good, #1 in city) | Drip Ur Ride Automotive Detailing is an auto repair shop in Douglasville, GA at 7403 Stone Bluff Drive, Douglasville, GA 30134. Phone: +14042074722. Website: https://dripurrideautodetailing.square.site/. | https://dingalinged-cpu.github.io/registry/c/drip-ur-ride-automotive-detailing-douglasville/
-36. Meggamaxxx | Organic #36 | Pulse Score 64.2/100 (Good, #5 in city) | Meggamaxxx is an auto repair shop in Marietta, GA at 80 Cobb Parkway North, Marietta, GA. Phone: +16783559300. Website: https://www.meggamaxx.com/. | https://dingalinged-cpu.github.io/registry/c/meggamaxxx-marietta/
-37. Baxter Volkswagen Omaha | Organic #37 | Pulse Score 64.2/100 (Good, #2 in city) | Baxter Volkswagen Omaha is an auto repair shop in Omaha, NE at 17220 Burt Street, Omaha, NE 68118. Phone: +14023978200. | https://dingalinged-cpu.github.io/registry/c/baxter-volkswagen-omaha-omaha/
-38. Josh's Garage | Organic #38 | Pulse Score 64.2/100 (Unrated, #2 in city) | Josh's Garage is an auto repair shop in Milwaukee, WI at 425 East North Avenue, Milwaukee, WI 53212. Phone: +14144882014. Website: https://www.joshsgaragemke.com/. | https://dingalinged-cpu.github.io/registry/c/joshs-garage-milwaukee/
-39. Aqualux Auto Spa | Organic #39 | Pulse Score 64.2/100 (Unrated, #1 in city) | Aqualux Auto Spa is an auto repair shop in Glenview, IL at 1822 Pickwick Avenue, Glenview, IL 60026. Phone: +18479042160. Website: https://www.aqualuxautospa.com/. | https://dingalinged-cpu.github.io/registry/c/aqualux-auto-spa-glenview/
-40. N. B. Exxon | Organic #40 | Pulse Score 64.2/100 (Unrated, #1 in city) | N. B. Exxon is an auto repair shop in Richardson, TX at 1702 East Belt Line Road, Richardson, TX 75081. Phone: +19722341762. Website: https://nb-exxon.com/. | https://dingalinged-cpu.github.io/registry/c/n-b-exxon-richardson/
-41. Dalton Automotive | Organic #41 | Pulse Score 64.1/100 (Good, #6 in city) | Dalton Automotive is an auto repair shop in Marietta, GA at 1225 Hayes Industrial Drive Northeast, Marietta, GA. Phone: +17704270996. Website: https://dalton-auto.com/. | https://dingalinged-cpu.github.io/registry/c/dalton-automotive-marietta/
-42. TRUE Automotive | Organic #42 | Pulse Score 64.1/100 (Good, #7 in city) | TRUE Automotive is an auto repair shop in Marietta, GA at 1280 Powder Springs Road, Marietta, GA. Phone: +17704282520. Website: https://www.trueautomotive.com/georgia-locations/marietta. | https://dingalinged-cpu.github.io/registry/c/true-automotive-marietta/
-43. Mcs Automotive | Organic #43 | Pulse Score 64.1/100 (Good, #4 in city) | Mcs Automotive is an auto repair shop in Houston, TX at 6529 Cunningham Road #1901, Houston, TX 77041. Phone: +12812176306. | https://dingalinged-cpu.github.io/registry/c/mcs-automotive-houston/
-44. Benjamin's Automotive | Organic #44 | Pulse Score 64.1/100 (Unrated, #1 in city) | Benjamin's Automotive is an auto repair shop in Seabrook, TX at 2830 East NASA Parkway, Seabrook, TX 77586. Phone: +12812919823. Website: https://benjaminsautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/benjamins-automotive-seabrook/
-45. Foster's Automotive Service | Organic #45 | Pulse Score 64.1/100 (Unrated, #5 in city) | Foster's Automotive Service is an auto repair shop in Houston, TX at 3909 Polk Street, Houston, TX 77023. Phone: +17132282385. Website: https://fostersautomotiveservice.com/. | https://dingalinged-cpu.github.io/registry/c/fosters-automotive-service-houston/
-46. Blue Ridge Automotive | Organic #46 | Pulse Score 64.1/100 (Unrated, #1 in city) | Blue Ridge Automotive is an auto repair shop in Chamblee, GA at 3733 North Peachtree Road, Chamblee, GA 30341. Phone: +17702168474. Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/. | https://dingalinged-cpu.github.io/registry/c/blue-ridge-automotive-chamblee/
-47. Bridgeview Auto Center | Organic #47 | Pulse Score 64.1/100 (Unrated, #1 in city) | Bridgeview Auto Center is an auto repair shop in Bridgeview, IL at 9059 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085983155. Website: https://www.bridgeviewautocenter.com/. | https://dingalinged-cpu.github.io/registry/c/bridgeview-auto-center-bridgeview/
-48. Martinez Auto Body, L.L.C. | Organic #48 | Pulse Score 64.1/100 (Unrated, #1 in city) | Martinez Auto Body, L.L.C. is an auto repair shop in Hammond, IN at 630 State Street, Hammond, IN 46320. Phone: +12198520718. Website: https://martinezautobody.com/. | https://dingalinged-cpu.github.io/registry/c/martinez-auto-body-l-l-c-hammond/
-49. Stavinoha's Tire Shop | Organic #49 | Pulse Score 64/100 (Good, #1 in city) | Stavinoha's Tire Shop is an auto repair shop in Fairchilds, TX at 10015 FM 361, Fairchilds, TX 77469. Phone: +19797936105. Website: https://www.stavinohatireshop.com/. | https://dingalinged-cpu.github.io/registry/c/stavinohas-tire-shop-fairchilds/
-50. Max Auto Repair | Organic #50 | Pulse Score 64/100 (Good, #8 in city) | Max Auto Repair is an auto repair shop in Marietta, GA at 1784 Lower Roswell Road Southeast, Marietta, GA. Phone: +14047579703. Website: https://maxautorepairllc.com/. | https://dingalinged-cpu.github.io/registry/c/max-auto-repair-marietta/
+8. Fischer's Mobile Auto Mechanic | Organic #8 | Pulse Score 65.3/100 (Good, #1 in city) | Fischer's Mobile Auto Mechanic is an auto repair shop in Olathe, KS at 129 South Mahaffie Street, Olathe, KS 66061. Phone: +18166594206. Website: https://fischers-mobile-automotive13.square.site/. | https://dingalinged-cpu.github.io/registry/c/fischers-mobile-auto-mechanic-olathe/
+9. Circle D Transmission | Organic #9 | Pulse Score 65.2/100 (Good, #2 in city) | Circle D Transmission is an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/. | https://dingalinged-cpu.github.io/registry/c/circle-d-transmission-houston/
+10. QuickShade Window Tinting | Organic #10 | Pulse Score 65.2/100 (Good, #1 in city) | QuickShade Window Tinting is an auto repair shop in Lenexa, KS at 14014 West 107th Street, Lenexa, KS 66215. Phone: +19136086153. Website: https://quickshade.square.site/. | https://dingalinged-cpu.github.io/registry/c/quickshade-window-tinting-lenexa/
+11. Barebones Auto & Diesel Repar | Organic #11 | Pulse Score 65.1/100 (Good, #1 in city) | Barebones Auto & Diesel Repar is an auto repair shop in Denton, TX at 3826 Market Street, Denton, TX 76209. Phone: +14696447100. Website: https://wwwbarebonesautodenton.com/. | https://dingalinged-cpu.github.io/registry/c/barebones-auto-and-diesel-repar-denton/
+12. Mobile Super Service | Organic #12 | Pulse Score 65.1/100 (Good, #1 in city) | Mobile Super Service is an auto repair shop in Des Moines, IA at 605 Scott Avenue, Des Moines, IA 50309. Phone: +15152807787. Website: https://www.mss-audio.com/. | https://dingalinged-cpu.github.io/registry/c/mobile-super-service-des-moines/
+13. Collision Pro Fix | Organic #13 | Pulse Score 65/100 (Good, #2 in city) | Collision Pro Fix is an auto repair shop in Marietta, GA at 1460 Roswell Road, Marietta, GA. Phone: +17707550042. Website: https://www.collisionprofix.com/. | https://dingalinged-cpu.github.io/registry/c/collision-pro-fix-marietta/
+14. Atlas Auto Repair | Organic #14 | Pulse Score 65/100 (Good, #1 in city) | Atlas Auto Repair is an auto repair shop in Omaha, NE at 4952 South 36th Street, Omaha, NE 68107. Phone: +14028890330. Website: https://www.driveatlasauto.com/. | https://dingalinged-cpu.github.io/registry/c/atlas-auto-repair-omaha/
+15. The Wrap Empire | Organic #15 | Pulse Score 65/100 (Good, #1 in city) | The Wrap Empire is an auto repair shop in Rosenberg, TX at 4709 Highway 36 South #32, Rosenberg, TX 77471. Phone: +19793984958. Website: https://thewrapempire.com/. | https://dingalinged-cpu.github.io/registry/c/the-wrap-empire-rosenberg/
+16. Atlanta Pneus Tire Repair | Organic #16 | Pulse Score 64.9/100 (Good, #3 in city) | Atlanta Pneus Tire Repair is an auto repair shop in Marietta, GA at 1798 Lower Roswell Road Southeast, Marietta, GA. Phone: +14704352216. Website: https://atlantatires.us/. | https://dingalinged-cpu.github.io/registry/c/atlanta-pneus-tire-repair-marietta/
+17. Chloe's Auto Repair | Organic #17 | Pulse Score 64.9/100 (Good, #1 in city) | Chloe's Auto Repair is an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-roswell/
+18. AutoTint Houston | Organic #18 | Pulse Score 64.9/100 (Good, #1 in city) | AutoTint Houston is an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/. | https://dingalinged-cpu.github.io/registry/c/autotint-houston-humble/
+19. Empire Auto Glass | Organic #19 | Pulse Score 64.9/100 (Good, #2 in city) | Empire Auto Glass is an auto repair shop in Roswell, GA at 11235 Alpharetta Highway #125, Roswell, GA 30076. Phone: +17707270997. Website: https://www.empireautoglassatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/empire-auto-glass-roswell/
+20. Route 66 Auto Service | Organic #20 | Pulse Score 64.9/100 (Good, #1 in city) | Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/. | https://dingalinged-cpu.github.io/registry/c/route-66-auto-service-willowbrook/
+21. Tintn | Organic #21 | Pulse Score 64.9/100 (Good, #1 in city) | Tintn is an auto repair shop in League City, TX at 2809 Calder Drive #100, League City, TX 77573. Phone: +18326328493. Website: https://windowtintn.com/. | https://dingalinged-cpu.github.io/registry/c/tintn-league-city/
+22. Lara Auto Service 2 | Organic #22 | Pulse Score 64.8/100 (Good, #2 in city) | Lara Auto Service 2 is an auto repair shop in Chicago, IL at 4817 South Knox Avenue, Chicago, IL 60632. Phone: +17735859040. Website: https://laraautoservice2.com/. | https://dingalinged-cpu.github.io/registry/c/lara-auto-service-2-chicago/
+23. Harris Window Tinting | Organic #23 | Pulse Score 64.8/100 (Good, #1 in city) | Harris Window Tinting is an auto repair shop in Deer Park, TX at 2676 Center Street, Deer Park, TX 77536. Phone: +18324295390. Website: https://www.harriswindowtinting.com/. | https://dingalinged-cpu.github.io/registry/c/harris-window-tinting-deer-park/
+24. Park Service | Organic #24 | Pulse Score 64.7/100 (Good, #1 in city) | Park Service is an auto repair shop in Saint Paul, MN at 2277 Como Avenue, Saint Paul, MN 55108. Phone: +16516444775. Website: https://facebook.com/ParkServiceInc/. | https://dingalinged-cpu.github.io/registry/c/park-service-saint-paul/
+25. TintFellas | Organic #25 | Pulse Score 64.7/100 (Good, #4 in city) | TintFellas is an auto repair shop in Marietta, GA at 337 Cobb Parkway South, Marietta, GA 30062. Phone: +17708206200. Website: https://www.tintfellasatl.com/. | https://dingalinged-cpu.github.io/registry/c/tintfellas-marietta/
+26. Bluemound Automotive, Inc. | Organic #26 | Pulse Score 64.7/100 (Good, #1 in city) | Bluemound Automotive, Inc. is an auto repair shop in Wauwatosa, WI at 6000 West Bluemound Road, Wauwatosa, WI 53213. Phone: +14142581000. Website: https://www.bluemoundautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bluemound-automotive-inc-wauwatosa/
+27. Quick Lane Tire & Auto Center | Organic #27 | Pulse Score 64.7/100 (Good, #1 in city) | Quick Lane Tire & Auto Center is an auto repair shop in Roseville, MN at 2777 Snelling Avenue North, Roseville, MN 55113. Phone: +16516384881. Website: https://www.quicklane.com/en-us/oil-change-tire-auto-repair-store/mn/roseville/55113/quick-lane-at-midway-ford/QL803/. | https://dingalinged-cpu.github.io/registry/c/quick-lane-tire-and-auto-center-roseville/
+28. McCullough NAPA Auto Care | Organic #28 | Pulse Score 64.6/100 (Good, #1 in city) | McCullough NAPA Auto Care is an auto repair shop in Atlanta, GA at 5810 Roswell Road, Atlanta, GA 30328. Phone: +14042523014. Website: https://www.napacarcare.com/. | https://dingalinged-cpu.github.io/registry/c/mccullough-napa-auto-care-atlanta/
+29. Kennesaw Tire Company | Organic #29 | Pulse Score 64.5/100 (Good, #1 in city) | Kennesaw Tire Company is an auto repair shop in Kennesaw, GA at 2850 South Main Street Northwest, Kennesaw, GA 30144. Phone: +17704228067. Website: https://www.kennesawtire.com/. | https://dingalinged-cpu.github.io/registry/c/kennesaw-tire-company-kennesaw/
+30. SK Detail & Aesthetics | Organic #30 | Pulse Score 64.5/100 (Good, #1 in city) | SK Detail & Aesthetics is an auto repair shop in Kansas City, KS at 3123 Merriam Drive, Kansas City, KS 66106. Phone: +19132259315. Website: https://www.s-kdetailaesthetics.com/. | https://dingalinged-cpu.github.io/registry/c/sk-detail-and-aesthetics-kansas-city/
+31. Professional Auto Care | Organic #31 | Pulse Score 64.5/100 (Unrated, #3 in city) | Professional Auto Care is an auto repair shop in Houston, TX at 9916 Honeywell, Houston, TX 77074. Phone: +17132700474. Website: https://professionalautocare.com/. | https://dingalinged-cpu.github.io/registry/c/professional-auto-care-houston/
+32. Scott DeLong's Auto Service | Organic #32 | Pulse Score 64.4/100 (Good, #1 in city) | Scott DeLong's Auto Service is an auto repair shop in Cobb County, GA at 2140 Post Oak Tritt Road Northeast, Cobb County, GA. Phone: +17705090222. Website: https://scottdelongsauto.com/. | https://dingalinged-cpu.github.io/registry/c/scott-delongs-auto-service-cobb-county/
+33. Massey Automotove | Organic #33 | Pulse Score 64.4/100 (Good, #2 in city) | Massey Automotove is an auto repair shop in Cobb County, GA at 2250 Lower Roswell Road Southeast, Cobb County, GA. Phone: +17706924149. Website: https://masseyautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/massey-automotove-cobb-county/
+34. DW Campbell of Atlanta Tire and Service Center | Organic #34 | Pulse Score 64.3/100 (Good, #2 in city) | DW Campbell of Atlanta Tire and Service Center is an auto repair shop in Atlanta, GA at 1921 Howell Mill Road Northwest, Atlanta, GA 30318. Phone: +14043520001. Website: https://www.dwctireandservice.com/. | https://dingalinged-cpu.github.io/registry/c/dw-campbell-of-atlanta-tire-and-service-center-atlanta/
+35. Galaxy Drive Garage | Organic #35 | Pulse Score 64.3/100 (Good, #1 in city) | Galaxy Drive Garage is an auto repair shop in Webster, TX at 18004 State Highway 3, Webster, TX 77598. Phone: +18325576388. Website: https://www.galaxydrivegaragetx.com/. | https://dingalinged-cpu.github.io/registry/c/galaxy-drive-garage-webster/
+36. Pep Boys Auto Service & Tire Shop | Organic #36 | Pulse Score 64.3/100 (Good, #2 in city) | Pep Boys Auto Service & Tire Shop is an auto repair shop in Kennesaw, GA at 4290 Bells Ferry Road Northwest #102, Kennesaw, GA 30144. Phone: +17705920811. Website: https://www.pepboys.com/stores/ga/kennesaw/4290-bells-ferry-road-nw?storecode=1656. | https://dingalinged-cpu.github.io/registry/c/pep-boys-auto-service-and-tire-shop-kennesaw/
+37. Prime Collision Repair | Organic #37 | Pulse Score 64.3/100 (Good, #3 in city) | Prime Collision Repair is an auto repair shop in Cobb County, GA at 4509 Canton Road Northeast, Cobb County, GA. Phone: +17709242080. Website: https://primecollisionrepair.com/. | https://dingalinged-cpu.github.io/registry/c/prime-collision-repair-cobb-county/
+38. Drip Ur Ride Automotive Detailing | Organic #38 | Pulse Score 64.2/100 (Good, #1 in city) | Drip Ur Ride Automotive Detailing is an auto repair shop in Douglasville, GA at 7403 Stone Bluff Drive, Douglasville, GA 30134. Phone: +14042074722. Website: https://dripurrideautodetailing.square.site/. | https://dingalinged-cpu.github.io/registry/c/drip-ur-ride-automotive-detailing-douglasville/
+39. Meggamaxxx | Organic #39 | Pulse Score 64.2/100 (Good, #5 in city) | Meggamaxxx is an auto repair shop in Marietta, GA at 80 Cobb Parkway North, Marietta, GA. Phone: +16783559300. Website: https://www.meggamaxx.com/. | https://dingalinged-cpu.github.io/registry/c/meggamaxxx-marietta/
+40. Don Freely Auto Clinic | Organic #40 | Pulse Score 64.2/100 (Good, #1 in city) | Don Freely Auto Clinic is an auto repair shop in Overland Park, KS at 6210 Marty Lane, Overland Park, KS 66202. Phone: +19134321080. Website: https://www.facebook.com/people/Don-Freely-Auto-Clinic/100063518920771/. | https://dingalinged-cpu.github.io/registry/c/don-freely-auto-clinic-overland-park/
+41. Baxter Volkswagen Omaha | Organic #41 | Pulse Score 64.2/100 (Good, #2 in city) | Baxter Volkswagen Omaha is an auto repair shop in Omaha, NE at 17220 Burt Street, Omaha, NE 68118. Phone: +14023978200. | https://dingalinged-cpu.github.io/registry/c/baxter-volkswagen-omaha-omaha/
+42. Josh's Garage | Organic #42 | Pulse Score 64.2/100 (Unrated, #2 in city) | Josh's Garage is an auto repair shop in Milwaukee, WI at 425 East North Avenue, Milwaukee, WI 53212. Phone: +14144882014. Website: https://www.joshsgaragemke.com/. | https://dingalinged-cpu.github.io/registry/c/joshs-garage-milwaukee/
+43. Aqualux Auto Spa | Organic #43 | Pulse Score 64.2/100 (Unrated, #1 in city) | Aqualux Auto Spa is an auto repair shop in Glenview, IL at 1822 Pickwick Avenue, Glenview, IL 60026. Phone: +18479042160. Website: https://www.aqualuxautospa.com/. | https://dingalinged-cpu.github.io/registry/c/aqualux-auto-spa-glenview/
+44. N. B. Exxon | Organic #44 | Pulse Score 64.2/100 (Unrated, #1 in city) | N. B. Exxon is an auto repair shop in Richardson, TX at 1702 East Belt Line Road, Richardson, TX 75081. Phone: +19722341762. Website: https://nb-exxon.com/. | https://dingalinged-cpu.github.io/registry/c/n-b-exxon-richardson/
+45. Dalton Automotive | Organic #45 | Pulse Score 64.1/100 (Good, #6 in city) | Dalton Automotive is an auto repair shop in Marietta, GA at 1225 Hayes Industrial Drive Northeast, Marietta, GA. Phone: +17704270996. Website: https://dalton-auto.com/. | https://dingalinged-cpu.github.io/registry/c/dalton-automotive-marietta/
+46. TRUE Automotive | Organic #46 | Pulse Score 64.1/100 (Good, #7 in city) | TRUE Automotive is an auto repair shop in Marietta, GA at 1280 Powder Springs Road, Marietta, GA. Phone: +17704282520. Website: https://www.trueautomotive.com/georgia-locations/marietta. | https://dingalinged-cpu.github.io/registry/c/true-automotive-marietta/
+47. Mcs Automotive | Organic #47 | Pulse Score 64.1/100 (Good, #4 in city) | Mcs Automotive is an auto repair shop in Houston, TX at 6529 Cunningham Road #1901, Houston, TX 77041. Phone: +12812176306. | https://dingalinged-cpu.github.io/registry/c/mcs-automotive-houston/
+48. Benjamin's Automotive | Organic #48 | Pulse Score 64.1/100 (Unrated, #1 in city) | Benjamin's Automotive is an auto repair shop in Seabrook, TX at 2830 East NASA Parkway, Seabrook, TX 77586. Phone: +12812919823. Website: https://benjaminsautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/benjamins-automotive-seabrook/
+49. Foster's Automotive Service | Organic #49 | Pulse Score 64.1/100 (Unrated, #5 in city) | Foster's Automotive Service is an auto repair shop in Houston, TX at 3909 Polk Street, Houston, TX 77023. Phone: +17132282385. Website: https://fostersautomotiveservice.com/. | https://dingalinged-cpu.github.io/registry/c/fosters-automotive-service-houston/
+50. Blue Ridge Automotive | Organic #50 | Pulse Score 64.1/100 (Unrated, #1 in city) | Blue Ridge Automotive is an auto repair shop in Chamblee, GA at 3733 North Peachtree Road, Chamblee, GA 30341. Phone: +17702168474. Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/. | https://dingalinged-cpu.github.io/registry/c/blue-ridge-automotive-chamblee/
 
-## More mechanic listings (3374 total; top 50 unpaid shown)
+## More mechanic listings (3684 total; top 50 unpaid shown)
 - Houston, TX: 213 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-houston-tx/
 - Chicago, IL: 169 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-chicago-il/
 - Dallas, TX: 122 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-dallas-tx/
@@ -67,6 +67,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Marietta, GA: 77 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-marietta-ga/
 - Cobb County, GA: 74 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-cobb-county-ga/
 - Minneapolis, MN: 70 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-minneapolis-mn/
+- Kansas City, MO: 67 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-kansas-city-mo/
 - Saint Paul, MN: 64 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-paul-mn/
 - Madison, WI: 59 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-madison-wi/
 - Mesquite, TX: 56 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mesquite-tx/
@@ -74,15 +75,18 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Atlanta, GA: 46 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-atlanta-ga/
 - Plano, TX: 41 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-plano-tx/
 - Denton, TX: 38 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-denton-tx/
+- Kansas City, KS: 33 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-kansas-city-ks/
 - Lewisville, TX: 31 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lewisville-tx/
 - Naperville, IL: 28 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-naperville-il/
 - Douglasville, GA: 28 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-douglasville-ga/
+- Merriam, KS: 28 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-merriam-ks/
 - Gwinnett County, GA: 27 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-gwinnett-county-ga/
 - Frisco, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-frisco-tx/
 - Mckinney, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mckinney-tx/
 - Gary, IN: 24 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-gary-in/
 - Urbandale, IA: 24 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-urbandale-ia/
 - Kennesaw, GA: 23 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-kennesaw-ga/
+- Olathe, KS: 23 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-olathe-ks/
 - Dekalb County, GA: 22 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-dekalb-county-ga/
 - Arlington, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-arlington-tx/
 - Irving, TX: 21 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-irving-tx/
@@ -90,6 +94,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Humble, TX: 20 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-humble-tx/
 - Carrollton, TX: 20 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-carrollton-tx/
 - Lilburn, GA: 20 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lilburn-ga/
+- Shawnee, KS: 20 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-shawnee-ks/
 - Brookfield, IL: 19 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-brookfield-il/
 - Evanston, IL: 18 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-evanston-il/
 - Waxahachie, TX: 17 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-waxahachie-tx/
@@ -100,7 +105,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Richardson, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-richardson-tx/
 - Magnolia, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-magnolia-tx/
 - Skokie, IL: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-skokie-il/
+- Overland Park, KS: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-overland-park-ks/
 - Eagan, MN: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-eagan-mn/
+- Gladstone, MO: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-gladstone-mo/
 - Clive, IA: 16 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-clive-ia/
 - Forney, TX: 15 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-forney-tx/
 - Schaumburg, IL: 15 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-schaumburg-il/
@@ -108,6 +115,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Rockwall, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-rockwall-tx/
 - Des Plaines, IL: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-des-plaines-il/
 - Clayton County, GA: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-clayton-county-ga/
+- Blue Springs, MO: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-blue-springs-mo/
 - Racine, WI: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-racine-wi/
 - West Des Moines, IA: 14 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-west-des-moines-ia/
 - Lombard, IL: 13 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lombard-il/
@@ -134,6 +142,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Roanoke, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-roanoke-tx/
 - Oak Lawn, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-oak-lawn-il/
 - West Saint Paul, MN: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-west-saint-paul-mn/
+- Lee'S Summit, MO: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lees-summit-mo/
 - Sun Prairie, WI: 9 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sun-prairie-wi/
 - Conroe, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-conroe-tx/
 - Addison, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-addison-tx/
@@ -149,6 +158,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Alpharetta, GA: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-alpharetta-ga/
 - Shakopee, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-shakopee-mn/
 - Eden Prairie, MN: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-eden-prairie-mn/
+- Independence, MO: 8 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-independence-mo/
 - Montgomery County, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-montgomery-county-tx/
 - Fort Bend County, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fort-bend-county-tx/
 - Prosper, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-prosper-tx/
@@ -182,8 +192,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Melrose Park, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-melrose-park-il/
 - Doraville, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-doraville-ga/
 - Acworth, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-acworth-ga/
+- Lenexa, KS: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lenexa-ks/
 - Saint Paul Park, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-paul-park-mn/
 - Merrillville, IN: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-merrillville-in/
+- Liberty, MO: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-liberty-mo/
 - Middleton, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-middleton-wi/
 - West Bend, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-west-bend-wi/
 - Burlington, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-burlington-wi/
@@ -208,10 +220,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Fayetteville, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fayetteville-ga/
 - Mableton, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mableton-ga/
 - Hiram, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-hiram-ga/
+- Lansing, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lansing-ks/
+- Leavenworth, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-leavenworth-ks/
 - Saint Anthony, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-anthony-mn/
 - New Brighton, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-new-brighton-mn/
 - New Hope, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-new-hope-mn/
 - Hopkins, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-hopkins-mn/
+- Belton, MO: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-belton-mo/
+- Platte City, MO: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-platte-city-mo/
+- North Kansas City, MO: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-north-kansas-city-mo/
 - Wauwatosa, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-wauwatosa-wi/
 - Waunakee, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-waunakee-wi/
 - Greenfield, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-greenfield-wi/
@@ -247,6 +264,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Plymouth, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-plymouth-mn/
 - Blaine, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-blaine-mn/
 - White Bear Lake, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-white-bear-lake-mn/
+- Raytown, MO: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-raytown-mo/
+- Kearney, MO: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-kearney-mo/
+- Smithville, MO: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-smithville-mo/
 - Franklin, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-franklin-wi/
 - Stoughton, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-stoughton-wi/
 - Slinger, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-slinger-wi/
@@ -290,6 +310,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Paulding County, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-paulding-county-ga/
 - Union City, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-union-city-ga/
 - Norcross, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-norcross-ga/
+- Mission, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-mission-ks/
 - South Saint Paul, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-south-saint-paul-mn/
 - Rogers, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-rogers-mn/
 - Fridley, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fridley-mn/
@@ -301,6 +322,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Richfield, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-richfield-mn/
 - Coon Rapids, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-coon-rapids-mn/
 - Edina, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-edina-mn/
+- Northmoor, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-northmoor-mo/
 - Town Of Burke, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-town-of-burke-wi/
 - Sussex, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sussex-wi/
 - Sturtevant, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-sturtevant-wi/
@@ -341,6 +363,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Stockbridge, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-stockbridge-ga/
 - Lovejoy, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lovejoy-ga/
 - College Park, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-college-park-ga/
+- Spring Hill, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-spring-hill-ks/
+- Gardner, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-gardner-ks/
+- Leawood, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-leawood-ks/
 - Crystal, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-crystal-mn/
 - Robbinsdale, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-robbinsdale-mn/
 - Brooklyn Center, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-brooklyn-center-mn/
@@ -349,6 +374,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - East Chicago, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-east-chicago-in/
 - Hammond, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-hammond-in/
 - Hobart, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-hobart-in/
+- Raymore, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-raymore-mo/
+- Oak Grove, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-oak-grove-mo/
+- Excelsior Springs, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-excelsior-springs-mo/
 - West Milwaukee, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-west-milwaukee-wi/
 - Union Grove, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-union-grove-wi/
 - Village Of Pewaukee, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-village-of-pewaukee-wi/
@@ -444,6 +472,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Douglas County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-douglas-county-ga/
 - Brookhaven, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-brookhaven-ga/
 - Tyrone, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-tyrone-ga/
+- Bonner Springs, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-bonner-springs-ks/
+- Louisburg, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-louisburg-ks/
 - Lino Lakes, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lino-lakes-mn/
 - Greenfield, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-greenfield-mn/
 - Saint Michael, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-saint-michael-mn/
@@ -465,6 +495,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Crown Point, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-crown-point-in/
 - Griffith, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-griffith-in/
 - Schererville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-schererville-in/
+- Buckner, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-buckner-mo/
+- Harrisonville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-harrisonville-mo/
+- Pleasant Hill, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-pleasant-hill-mo/
+- Parkville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-parkville-mo/
+- Weston, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-weston-mo/
+- Lone Jack, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-lone-jack-mo/
+- Platte Woods, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-platte-woods-mo/
+- Cass County, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-cass-county-mo/
+- Grain Valley, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-grain-valley-mo/
 - Village Of Germantown, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-village-of-germantown-wi/
 - Oregon, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-oregon-wi/
 - Fall River, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/mechanic-fall-river-wi/
@@ -510,7 +549,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 3374
+- Registry businesses competing: 3684
 - Equivalent Google Ads cost per month: ~$160,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

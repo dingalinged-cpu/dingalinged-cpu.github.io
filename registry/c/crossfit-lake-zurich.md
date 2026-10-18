@@ -13,7 +13,7 @@ CrossFit is a gym in Lake Zurich, IL at 519 Tesler Rd, Lake Zurich, IL 60047. Ph
 - Website: https://crossfitlykos.com/
 - Email: info@crossfitlykos.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.5/100 — Building — top 52% of gyms in Chicago, #2 of 5 gyms in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 51% of gyms in Chicago, #2 of 5 gyms in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

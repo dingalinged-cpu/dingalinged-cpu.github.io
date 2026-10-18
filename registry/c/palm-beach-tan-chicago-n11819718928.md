@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Chicago, IL at 2065 North Clybourn Avenue, 
 - Website: https://palmbeachtan.com/locations/il/chicago-north-clybourn
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 43% of tanning salons in Chicago, #2 of 7 tanning salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 43% of tanning salons in Chicago, #2 of 7 tanning salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

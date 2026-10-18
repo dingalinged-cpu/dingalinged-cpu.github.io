@@ -13,7 +13,7 @@ Shero Marketing is a marketing agency in Fulshear, TX at 6106 Fulshear Cove Cour
 - Website: https://www.sheromarketing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Sa 08:00-19:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 60% of marketing agencys in Houston, #1 of 1 marketing agencys in Fulshear (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 60% of marketing agencys in Houston, #1 of 1 marketing agencys in Fulshear (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

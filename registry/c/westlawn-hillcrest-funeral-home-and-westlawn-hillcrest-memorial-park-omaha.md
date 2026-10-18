@@ -13,7 +13,7 @@ Westlawn-Hillcrest Funeral Home & Westlawn-Hillcrest Memorial Park is a funeral 
 - Website: https://www.dignitymemorial.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 52.8/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Omaha, NE, #2 of 2 funeral homes in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.9/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Omaha, NE, #2 of 2 funeral homes in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

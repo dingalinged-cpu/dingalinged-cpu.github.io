@@ -13,7 +13,7 @@ Oppermann Architects is an architect in Naperville, IL at 516 North Washington S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 78% of architects in Chicago, #3 of 3 architects in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 42.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 78% of architects in Chicago, #3 of 3 architects in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 42.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

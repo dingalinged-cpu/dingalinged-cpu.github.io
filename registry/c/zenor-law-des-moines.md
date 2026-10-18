@@ -13,7 +13,7 @@ Zenor Law is a lawyer in Des Moines, IA at 111 East Grand Avenue #400, Des Moine
 - Website: https://www.zenorlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Des Moines, IA, #4 of 17 lawyers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Des Moines, IA, #4 of 17 lawyers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

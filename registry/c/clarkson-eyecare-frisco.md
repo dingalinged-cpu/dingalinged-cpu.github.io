@@ -13,7 +13,7 @@ Clarkson Eyecare is an eye care practice in Frisco, TX. Phone: +12146195580. Web
 - Website: https://www.clarksoneyecare.com/locations/tx/frisco/legacy
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 93% of eye care practices in Dallas–Fort Worth, #5 of 5 eye care practices in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 93% of eye care practices in Dallas–Fort Worth, #5 of 5 eye care practices in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

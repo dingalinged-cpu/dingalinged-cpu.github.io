@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Richardson, TX at 1930 North Coit Road, Ric
 - Website: https://palmbeachtan.com/locations/TX/Richardson-North-Coit
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 39% of tanning salons in Dallas–Fort Worth, #1 of 1 tanning salons in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 39% of tanning salons in Dallas–Fort Worth, #1 of 1 tanning salons in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

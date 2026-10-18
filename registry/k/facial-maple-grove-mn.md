@@ -7,7 +7,7 @@ Also answers: facial in Maple Grove, MN; facial near me (Maple Grove, MN); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Kalla Lily | Organic #1 | Pulse Score 58.1/100 (Unrated, #2 in city) | Kalla Lily is a spa in Maple Grove, MN at 9851 Maple Grove Parkway, Maple Grove, MN 55369. Phone: +17634161700. Website: https://www.kallalily.com/home. | https://dingalinged-cpu.github.io/registry/c/kalla-lily-maple-grove/
-2. Ulta Beauty | Organic #2 | Pulse Score 46.4/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Maple Grove, MN at 12181 Elm Creek Boulevard North, Maple Grove, MN 55369. Phone: +17634255385. Website: https://www.ulta.com/stores/maple-grove-mn-136. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-maple-grove/
+2. Ulta Beauty | Organic #2 | Pulse Score 46.3/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Maple Grove, MN at 12181 Elm Creek Boulevard North, Maple Grove, MN 55369. Phone: +17634255385. Website: https://www.ulta.com/stores/maple-grove-mn-136. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial maple grove mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

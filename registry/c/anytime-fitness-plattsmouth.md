@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Plattsmouth, NE at 2380 West 8th Avenue #1-2, Platts
 - Website: https://www.anytimefitness.com/gyms/2948/plattsmouth-ne-68048/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50/100 — Fair — top 55% of gyms in Omaha, NE, #1 of 1 gyms in Plattsmouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 55% of gyms in Omaha, NE, #1 of 1 gyms in Plattsmouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

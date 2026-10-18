@@ -13,7 +13,7 @@ ATI Physical Therapy is a physical therapy clinic in Richardson, TX at 210 West 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa open "by appointment"
-- Pulse Score: 46.9/100 — Building — top 72% of physical therapy clinics in Dallas–Fort Worth, #4 of 4 physical therapy clinics in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 72% of physical therapy clinics in Dallas–Fort Worth, #4 of 4 physical therapy clinics in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.3, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

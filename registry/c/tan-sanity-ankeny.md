@@ -13,7 +13,7 @@ Tan Sanity is a tanning salon in Ankeny, IA at 2202 East 1st Street, Ankeny, IA 
 - Website: https://www.tansanity.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of tanning salons in Des Moines, IA, #1 of 2 tanning salons in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 17% of tanning salons in Des Moines, IA, #1 of 2 tanning salons in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

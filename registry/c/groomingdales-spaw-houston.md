@@ -13,7 +13,7 @@ Groomingdales Spaw is a dog groomer in Houston, TX at 17115 Farm To Market Rd 52
 - Website: https://groomingdalesspaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-18:00; Fr 07:00+; Sa,Su 08:00+
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 38% of dog groomers in Houston, #5 of 8 dog groomers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 38% of dog groomers in Houston, #5 of 8 dog groomers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

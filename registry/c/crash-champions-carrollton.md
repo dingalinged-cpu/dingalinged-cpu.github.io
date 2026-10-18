@@ -13,7 +13,7 @@ Crash Champions is an auto repair shop in Carrollton, TX at 2309 Midway Rd, Carr
 - Website: https://crashchampions.com/locations/crash-champions-carrollton
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 66% of auto repair shops in Dallas–Fort Worth, #14 of 20 auto repair shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 65% of auto repair shops in Dallas–Fort Worth, #14 of 20 auto repair shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

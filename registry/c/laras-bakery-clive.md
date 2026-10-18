@@ -13,7 +13,7 @@ Lara's Bakery is a bakery in Clive, IA at 1800 Northwest 86th Street, Clive, IA 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 28% of bakerys in Des Moines, IA, #1 of 1 bakerys in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 49. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 28% of bakerys in Des Moines, IA, #1 of 1 bakerys in Clive (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 49. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

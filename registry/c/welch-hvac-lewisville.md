@@ -13,7 +13,7 @@ Welch HVAC is a HVAC contractor in Lewisville, TX at 118 North Edna Avenue #800,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Fair — top 53% of HVAC contractors in Dallas–Fort Worth, #2 of 4 HVAC contractors in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 42.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Fair — top 53% of HVAC contractors in Dallas–Fort Worth, #2 of 4 HVAC contractors in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

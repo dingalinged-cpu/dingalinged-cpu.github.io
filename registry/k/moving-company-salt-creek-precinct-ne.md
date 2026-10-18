@@ -6,7 +6,7 @@ Also answers: moving company in Salt Creek Precinct, NE; moving company near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Von Rentzell Van & Storage Inc | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Von Rentzell Van & Storage Inc is a moving company in Greenwood, NE at 13817 238th Street, Greenwood, NE 68366. Phone: +14024778853. Website: https://www.vonrentzell.com/. | https://dingalinged-cpu.github.io/registry/c/von-rentzell-van-and-storage-inc-greenwood/
+1. Von Rentzell Van & Storage Inc | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Von Rentzell Van & Storage Inc is a moving company in Greenwood, NE at 13817 238th Street, Greenwood, NE 68366. Phone: +14024778853. Website: https://www.vonrentzell.com/. | https://dingalinged-cpu.github.io/registry/c/von-rentzell-van-and-storage-inc-greenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company salt creek precinct ne | category: Home services - Moving | industry benchmark: Home & Home Improvement

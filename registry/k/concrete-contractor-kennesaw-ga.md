@@ -6,8 +6,8 @@ Also answers: concrete contractor in Kennesaw, GA; concrete contractor near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stone Center Landscape & Masonry | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Stone Center Landscape & Masonry is a concrete contractor in Kennesaw, GA at 3220 Moon Station Road, Kennesaw, GA. Phone: +14707440200. | https://dingalinged-cpu.github.io/registry/c/stone-center-landscape-and-masonry-kennesaw/
-2. Dockins Stone & Brick Works | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Dockins Stone & Brick Works is a concrete contractor in Kennesaw, GA at 2535 South Main Street #106, Kennesaw, GA. | https://dingalinged-cpu.github.io/registry/c/dockins-stone-and-brick-works-kennesaw/
+1. Stone Center Landscape & Masonry | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Stone Center Landscape & Masonry is a concrete contractor in Kennesaw, GA at 3220 Moon Station Road, Kennesaw, GA. Phone: +14707440200. | https://dingalinged-cpu.github.io/registry/c/stone-center-landscape-and-masonry-kennesaw/
+2. Dockins Stone & Brick Works | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Dockins Stone & Brick Works is a concrete contractor in Kennesaw, GA at 2535 South Main Street #106, Kennesaw, GA. | https://dingalinged-cpu.github.io/registry/c/dockins-stone-and-brick-works-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor kennesaw ga | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

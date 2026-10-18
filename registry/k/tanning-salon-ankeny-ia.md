@@ -7,7 +7,7 @@ Also answers: tanning salon in Ankeny, IA; tanning salon near me (Ankeny, IA); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Tan Sanity | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Tan Sanity is a tanning salon in Ankeny, IA at 2202 East 1st Street, Ankeny, IA 50023. Phone: +15159630362. Website: https://www.tansanity.com/. | https://dingalinged-cpu.github.io/registry/c/tan-sanity-ankeny/
-2. tanworld | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | tanworld is a tanning salon in Ankeny, IA at 109 North Ankeny Boulevard, Ankeny, IA 50021. Phone: +15159653985. | https://dingalinged-cpu.github.io/registry/c/tanworld-ankeny/
+2. tanworld | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | tanworld is a tanning salon in Ankeny, IA at 109 North Ankeny Boulevard, Ankeny, IA 50021. Phone: +15159653985. | https://dingalinged-cpu.github.io/registry/c/tanworld-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon ankeny ia | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

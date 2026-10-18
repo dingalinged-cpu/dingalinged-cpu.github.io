@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Highland Park, IL at 1835 2nd Street, Highland 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 59% of gyms in Chicago, #3 of 4 gyms in Highland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 58% of gyms in Chicago, #3 of 4 gyms in Highland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

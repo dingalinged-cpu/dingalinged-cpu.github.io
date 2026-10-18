@@ -13,7 +13,7 @@ Chiropractic Acupuncture is a chiropractor in Plano, TX at 425 Maplelawn Drive #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:30; Sa 09:30-13:00; PH closed
-- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 91% of chiropractors in Dallas–Fort Worth, #5 of 5 chiropractors in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 91% of chiropractors in Dallas–Fort Worth, #5 of 5 chiropractors in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

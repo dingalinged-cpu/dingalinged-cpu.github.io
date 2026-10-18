@@ -13,7 +13,7 @@ TK Gym Four Lakes is a martial arts school in Lisle, IL at 5800 Forest View Road
 - Website: https://www.tkgymfourlakes.com/home
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 04:00-22:00
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 11% of martial arts schools in Chicago, #1 of 1 martial arts schools in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 11% of martial arts schools in Chicago, #1 of 1 martial arts schools in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

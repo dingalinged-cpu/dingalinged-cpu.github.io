@@ -13,7 +13,7 @@ Hair Therapy Electrolysis and Waxing Spa is a waxing salon in Greenfield, WI at 
 - Website: https://hairtherapyspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 80% of waxing salons in Milwaukee, #1 of 1 waxing salons in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 80% of waxing salons in Milwaukee, #1 of 1 waxing salons in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 50.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

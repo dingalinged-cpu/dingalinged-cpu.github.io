@@ -13,7 +13,7 @@ The Village of Meyerland is an assisted living facility in Houston, TX at 4141 N
 - Website: https://www.villageofmeyerland.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 14% of assisted living facilitys in Houston, #4 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 7% of assisted living facilitys in Houston, #3 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ TX Enterprises is an used car dealer in Houston, TX. Phone: +12818790188. Websit
 - Website: https://www.txenterprises.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 23% of used car dealers in Houston, #11 of 46 used car dealers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 23% of used car dealers in Houston, #11 of 46 used car dealers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

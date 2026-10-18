@@ -13,7 +13,7 @@ Soft Touch Automatic Car Wash is a car wash in Corinth, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 20% of car washes in Dallas–Fort Worth, #1 of 1 car washes in Corinth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 19% of car washes in Dallas–Fort Worth, #1 of 1 car washes in Corinth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

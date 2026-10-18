@@ -13,7 +13,7 @@ Loving Hands Animal Clinic is a veterinarian in Milton, GA at 13775 Alpharetta H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:30-21:00; Tu-Fr 07:30-19:00; Sa 08:00-14:00; Su 11:00-17:00
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 54% of veterinarians in Atlanta, #1 of 1 veterinarians in Milton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 48.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 54% of veterinarians in Atlanta, #1 of 1 veterinarians in Milton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

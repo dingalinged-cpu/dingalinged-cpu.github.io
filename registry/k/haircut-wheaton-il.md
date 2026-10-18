@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. The Gentlemen’s Barber | Organic #2 | Pulse Score 59.2/100 (Unrated, #1 in city) | The Gentlemen’s Barber is a barber shop in Wheaton, IL at 128 West Willow Avenue, Wheaton, IL 60187. | https://dingalinged-cpu.github.io/registry/c/the-gentlemen-s-barber-wheaton/
 3. 209 | Organic #3 | Pulse Score 54.7/100 (Unrated, #2 in city) | 209 is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/209-wheaton/
 4. Sport Clips | Organic #4 | Pulse Score 43.8/100 (Building, #3 in city) | Sport Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton-n11188198671/
-5. Barber Shop | Organic #5 | Pulse Score 43.4/100 (Building, #4 in city) | Barber Shop is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/barber-shop-wheaton/
+5. Barber Shop | Organic #5 | Pulse Score 43.5/100 (Building, #4 in city) | Barber Shop is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/barber-shop-wheaton/
 6. Great Clips | Organic #6 | Pulse Score 42.5/100 (Building, #5 in city) | Great Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-wheaton/
 7. Sport Clips | Organic #7 | Pulse Score 42.5/100 (Building, #6 in city) | Sport Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton/
 

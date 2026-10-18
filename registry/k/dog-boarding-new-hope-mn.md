@@ -6,7 +6,7 @@ Also answers: dog boarding in New Hope, MN; dog boarding near me (New Hope, MN);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Plymouth Heights Pet Suites | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Plymouth Heights Pet Suites is a dog boarding facility in New Hope, MN at 9200 49th Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/plymouth-heights-pet-suites-new-hope/
+1. Plymouth Heights Pet Suites | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Plymouth Heights Pet Suites is a dog boarding facility in New Hope, MN at 9200 49th Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/plymouth-heights-pet-suites-new-hope/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding new hope mn | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ MovementMKE is a gym in Shorewood, WI at 1922 East Capitol Drive, Shorewood, WI 
 - Website: https://www.movementmke.com/
 - Email: shawnglazer@gmail.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Good — top 6% of gyms in Milwaukee, #1 of 4 gyms in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 6% of gyms in Milwaukee, #1 of 4 gyms in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Camelot Cleaners is a dry cleaner in Omaha, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 39% of dry cleaners in Omaha, NE, #4 of 11 dry cleaners in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 39% of dry cleaners in Omaha, NE, #4 of 11 dry cleaners in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 40.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

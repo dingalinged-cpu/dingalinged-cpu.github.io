@@ -6,7 +6,7 @@ Also answers: moving company in Cudahy, WI; moving company near me (Cudahy, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. College Hunks Hauling Junk & Moving | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | College Hunks Hauling Junk & Moving is a moving company in Cudahy, WI at 5656 South Packard Avenue #22, Cudahy, WI. | https://dingalinged-cpu.github.io/registry/c/college-hunks-hauling-junk-and-moving-cudahy/
+1. College Hunks Hauling Junk & Moving | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | College Hunks Hauling Junk & Moving is a moving company in Cudahy, WI at 5656 South Packard Avenue #22, Cudahy, WI. | https://dingalinged-cpu.github.io/registry/c/college-hunks-hauling-junk-and-moving-cudahy/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company cudahy wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

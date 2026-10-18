@@ -13,7 +13,7 @@ McGinn Law Firm is a lawyer in Council Bluffs, IA at 20 North 16th Street, Counc
 - Website: https://www.mcginnlawfirm.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 38% of lawyers in Omaha, NE, #1 of 2 lawyers in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 38% of lawyers in Omaha, NE, #1 of 2 lawyers in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

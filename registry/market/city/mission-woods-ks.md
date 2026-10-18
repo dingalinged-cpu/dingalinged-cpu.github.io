@@ -8,7 +8,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 
 ## By CPC
-1. dermatologist mission woods ks | searches/mo 1,500 (est) | CPC $4.76 | value $7,100 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#dermatologist-mission-woods-ks
+1. dermatologist mission woods ks | searches/mo 1,500 (est) | CPC $4.76 | value $7,100 | Google Ads equiv $480/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dermatologist-mission-woods-ks/
 
 ## By value (searches x CPC)
 

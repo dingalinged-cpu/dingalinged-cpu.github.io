@@ -6,7 +6,7 @@ Also answers: photographer in Urbandale, IA; photographer near me (Urbandale, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christian Photo | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Christian Photo is a photographer in Urbandale, IA at 6721 Douglas Avenue, Urbandale, IA 50322. | https://dingalinged-cpu.github.io/registry/c/christian-photo-urbandale/
+1. Christian Photo | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Christian Photo is a photographer in Urbandale, IA at 6721 Douglas Avenue, Urbandale, IA 50322. | https://dingalinged-cpu.github.io/registry/c/christian-photo-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer urbandale ia | category: Events & weddings | industry benchmark: Personal Services

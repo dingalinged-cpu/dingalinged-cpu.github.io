@@ -13,7 +13,7 @@ Ulta is a skin care studio in Denton, TX at 2314 West University Drive, Denton, 
 - Website: https://www.ulta.com/stores/denton-tx-1704
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
-- Pulse Score: 59.1/100 — Fair — top 24% of skin care studios in Dallas–Fort Worth, #1 of 2 skin care studios in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Fair — top 24% of skin care studios in Dallas–Fort Worth, #1 of 2 skin care studios in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

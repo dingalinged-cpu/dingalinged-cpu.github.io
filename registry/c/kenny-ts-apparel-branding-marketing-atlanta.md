@@ -13,7 +13,7 @@ Kenny T's - Apparel - Branding - Marketing is a marketing agency in Atlanta, GA 
 - Website: https://www.ktatl.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 77% of marketing agencys in Atlanta, #9 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 77% of marketing agencys in Atlanta, #9 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 44.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,0 +1,24 @@
+Arctic Air Heating & Cooling is a HVAC contractor in Gladstone, MO at 6708 North Oak Trafficway, Gladstone, MO 64118.
+
+# Arctic Air Heating & Cooling
+
+- Category: hvac repair
+- Services: hvac repair, heating and air
+- Address: 6708 North Oak Trafficway, Gladstone, MO 64118
+- City: Gladstone
+- State: MO
+- ZIP: 64118
+- Coordinates: 39.2153084, -94.5765242
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): 24/7
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 50% of HVAC contractors in Kansas City, MO, #1 of 2 HVAC contractors in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 48. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/arctic-air-heating-and-cooling-gladstone/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/arctic-air-heating-and-cooling-gladstone.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/330971316 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

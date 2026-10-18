@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Koko Fit Club | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Koko Fit Club is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/koko-fit-club-the-woodlands/
 5. The Zoo Health Club | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | The Zoo Health Club is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/the-zoo-health-club-the-woodlands/
 6. Anytime Fitness | Organic #6 | Pulse Score 48.4/100 (Building, #5 in city) | Anytime Fitness is a gym in Conroe, TX at 9420 College Park Drive #20, Conroe, TX 77384. Phone: +19362735090. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-conroe/
-7. 24 Hour Fitness | Organic #7 | Pulse Score 44.2/100 (Building, #6 in city) | 24 Hour Fitness is a gym in The Woodlands, TX at 1800 Lake Woodlands Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-the-woodlands/
+7. 24 Hour Fitness | Organic #7 | Pulse Score 44.3/100 (Building, #6 in city) | 24 Hour Fitness is a gym in The Woodlands, TX at 1800 Lake Woodlands Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym the woodlands tx | category: Fitness | industry benchmark: Health & Fitness

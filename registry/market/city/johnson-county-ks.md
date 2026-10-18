@@ -5,15 +5,15 @@ Keyword market for Johnson County, KS: 2 service keywords with search volume, CP
 Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
 
 ## By monthly searches
-1. car wash johnson county ks | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-johnson-county-ks
-2. vet johnson county ks | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#vet-johnson-county-ks
+1. car wash johnson county ks | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-johnson-county-ks/
+2. vet johnson county ks | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-johnson-county-ks/
 
 ## By CPC
-1. car wash johnson county ks | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-johnson-county-ks
-2. vet johnson county ks | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#vet-johnson-county-ks
+1. car wash johnson county ks | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-johnson-county-ks/
+2. vet johnson county ks | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-johnson-county-ks/
 
 ## By value (searches x CPC)
-1. car wash johnson county ks | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#car-wash-johnson-county-ks
-2. vet johnson county ks | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#vet-johnson-county-ks
+1. car wash johnson county ks | searches/mo 12,000 (est) | CPC $4.35 | value $52,000 | Google Ads equiv $2,900/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-johnson-county-ks/
+2. vet johnson county ks | searches/mo 3,700 (est) | CPC $4.06 | value $15,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-johnson-county-ks/
 
 All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

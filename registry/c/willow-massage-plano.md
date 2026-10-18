@@ -13,7 +13,7 @@ Willow Massage is a massage studio in Plano, TX. Phone: +19727589802.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-20:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 26% of massage studios in Dallas–Fort Worth, #3 of 14 massage studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 26% of massage studios in Dallas–Fort Worth, #3 of 14 massage studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

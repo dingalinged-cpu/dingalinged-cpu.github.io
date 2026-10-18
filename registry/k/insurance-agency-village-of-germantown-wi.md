@@ -6,7 +6,7 @@ Also answers: insurance agency in Village Of Germantown, WI; insurance agency ne
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Family Insurance | Organic #1 | Pulse Score 47.5/100 (Building, #1 in city) | American Family Insurance is an insurance agent in Village of Germantown, WI at W156N11042 Pilgrim Road, Village of Germantown, WI 53022. Phone: +12622557574. Website: https://www.amfam.com/agents/wisconsin/germantown/patrick-connaughty. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-village-of-germantown/
+1. American Family Insurance | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | American Family Insurance is an insurance agent in Village of Germantown, WI at W156N11042 Pilgrim Road, Village of Germantown, WI 53022. Phone: +12622557574. Website: https://www.amfam.com/agents/wisconsin/germantown/patrick-connaughty. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-village-of-germantown/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency village of germantown wi | category: insurance | industry benchmark: Finance & Insurance

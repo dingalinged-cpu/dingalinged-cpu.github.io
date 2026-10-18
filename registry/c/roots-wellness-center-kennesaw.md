@@ -13,7 +13,7 @@ Roots Wellness Center is a therapy practice in Kennesaw, GA at 3745 Cherokee Str
 - Website: https://www.rootswc.com/
 - Email: mailto:info@rootswc.com
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 62/100 — Good — top 14% of therapy practices in Atlanta, #1 of 2 therapy practices in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Good — top 14% of therapy practices in Atlanta, #1 of 2 therapy practices in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

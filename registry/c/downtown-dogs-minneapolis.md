@@ -13,7 +13,7 @@ Downtown Dogs is a dog boarding facility in Minneapolis, MN at 821 2nd Avenue No
 - Website: https://www.dtdogs.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.7/100 — Good — top 22% of dog boarding facilitys in Minneapolis–St. Paul, #1 of 5 dog boarding facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Good — top 22% of dog boarding facilitys in Minneapolis–St. Paul, #1 of 5 dog boarding facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

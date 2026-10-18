@@ -13,7 +13,7 @@ Automotive Appearance Mr. Tintz is a window installer in Omaha, NE at 3325 South
 - Website: https://mrtintz.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30; Sa 08:00-13:00
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 100% of window installers in Omaha, NE, #1 of 1 window installers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 100% of window installers in Omaha, NE, #1 of 1 window installers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

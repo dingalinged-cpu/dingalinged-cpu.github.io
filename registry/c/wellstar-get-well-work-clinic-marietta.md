@@ -13,7 +13,7 @@ Wellstar Get Well @ Work Clinic is a family medicine practice in Marietta, GA at
 - Website: https://www.wellstar.org/locations/medical-practice/get-well-at-work-marietta-780-church-street-ne-suite-1115
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Fair — top 48% of family medicine practices in Atlanta, #3 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 44. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.5/100 — Fair — top 48% of family medicine practices in Atlanta, #3 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Woodbine Furniture is a furniture store in North Richland Hills, TX at 8509 Davi
 - Website: https://www.woodbinefurniture.com/north-richland-hills-tx-handcrafted-american-furniture
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-17:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of furniture stores in Dallas–Fort Worth, #1 of 2 furniture stores in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of furniture stores in Dallas–Fort Worth, #1 of 2 furniture stores in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

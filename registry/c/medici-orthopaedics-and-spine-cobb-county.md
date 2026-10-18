@@ -13,7 +13,7 @@ Medici Orthopaedics & Spine is an orthopedic surgeon in Cobb County, GA at 2911 
 - Website: https://www.mediciortho.com/locations/kennesaw
 - Email: info@mediciortho.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.1/100 — Good — top 59% of orthopedic surgeons in Atlanta, #3 of 3 orthopedic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Good — top 59% of orthopedic surgeons in Atlanta, #3 of 3 orthopedic surgeons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

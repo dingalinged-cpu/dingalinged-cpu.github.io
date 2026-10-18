@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. LSG Sky Chefs Inc - DFI A | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | LSG Sky Chefs Inc - DFI A is a caterer in Dallas, TX at 2120 West 33rd Street, Dallas, TX 75261. | https://dingalinged-cpu.github.io/registry/c/lsg-sky-chefs-inc-dfi-a-dallas/
 4. LSG Sky Chefs Inc - DFI B | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | LSG Sky Chefs Inc - DFI B is a caterer in Dallas, TX at 2100 West 34th Street, Dallas, TX 75261. | https://dingalinged-cpu.github.io/registry/c/lsg-sky-chefs-inc-dfi-b-dallas/
 5. Festive Kitchen | Organic #5 | Pulse Score 53.9/100 (Unrated, #5 in city) | Festive Kitchen is a caterer in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/festive-kitchen-dallas/
-6. Central Market Catering | Organic #6 | Pulse Score 45.6/100 (Building, #6 in city) | Central Market Catering is a caterer in Dallas, TX at 10720 Preston Road, Dallas, TX 75230. Website: https://www.centralmarket.com/locations/dallas-preston-royal. | https://dingalinged-cpu.github.io/registry/c/central-market-catering-dallas/
+6. Central Market Catering | Organic #6 | Pulse Score 45.7/100 (Building, #6 in city) | Central Market Catering is a caterer in Dallas, TX at 10720 Preston Road, Dallas, TX 75230. Website: https://www.centralmarket.com/locations/dallas-preston-royal. | https://dingalinged-cpu.github.io/registry/c/central-market-catering-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers dallas tx | category: Events & weddings | industry benchmark: Personal Services

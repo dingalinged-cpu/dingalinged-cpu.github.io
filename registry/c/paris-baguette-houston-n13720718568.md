@@ -13,7 +13,7 @@ Paris Baguette is a bakery in Houston, TX at 18203 Egret Bay Boulevard, Houston,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.2/100 — Building — top 88% of bakerys in Houston, #66 of 75 bakerys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 88% of bakerys in Houston, #65 of 75 bakerys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Session Pilates is a pilates studio in Dallas, TX at 6465 East Mockingbird Lane 
 - Website: https://www.sessionpilates.com/lakewood-location/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-20:30; Fr 05:00-18:30; Sa 08:00-13:00; Su 09:00-16:30
-- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 42% of pilates studios in Dallas–Fort Worth, #2 of 5 pilates studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Unrated (not enough evidence yet) — top 42% of pilates studios in Dallas–Fort Worth, #2 of 5 pilates studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

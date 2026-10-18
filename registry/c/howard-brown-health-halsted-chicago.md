@@ -13,7 +13,7 @@ Howard Brown Health - Halsted is a family medicine practice in Chicago, IL at 35
 - Website: https://howardbrown.org/clinic_location/halsted/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Th 09:00-19:00; Tu 10:00-19:00; Fr,Sa 09:00-17:00
-- Pulse Score: 63/100 — Good — top 16% of family medicine practices in Chicago, #4 of 16 family medicine practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 64.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 16% of family medicine practices in Chicago, #4 of 16 family medicine practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 64.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

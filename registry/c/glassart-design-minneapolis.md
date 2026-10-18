@@ -13,7 +13,7 @@ GlassArt Design is a window repair service in Minneapolis, MN at 427 10th Avenue
 - Website: https://www.glassartdesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 86% of window repair services in Minneapolis–St. Paul, #2 of 2 window repair services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 86% of window repair services in Minneapolis–St. Paul, #2 of 2 window repair services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

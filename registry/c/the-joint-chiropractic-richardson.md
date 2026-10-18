@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Richardson, TX at 1415 East Renner R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 10:00-16:00; Sa 10:00-17:00
-- Pulse Score: 45.5/100 — Building — top 92% of chiropractors in Dallas–Fort Worth, #4 of 4 chiropractors in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 92% of chiropractors in Dallas–Fort Worth, #4 of 4 chiropractors in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

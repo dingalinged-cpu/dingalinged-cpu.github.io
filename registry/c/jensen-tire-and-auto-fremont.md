@@ -13,7 +13,7 @@ Jensen Tire & Auto is an auto repair shop in Fremont, NE at 245 East Military Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 81% of auto repair shops in Omaha, NE, #7 of 7 auto repair shops in Fremont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.2/100 — Unrated (not enough evidence yet) — top 80% of auto repair shops in Omaha, NE, #7 of 7 auto repair shops in Fremont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

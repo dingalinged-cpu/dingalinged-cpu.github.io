@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Omaha, NE; plastic surgeon near me (Omaha, NE);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Village Pointe Aesthetic Surgery Center | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Village Pointe Aesthetic Surgery Center is a plastic surgeon in Omaha, NE at 17617 Burke Street, Omaha, NE 68118. Phone: +14025964000. Website: https://surgeryvp.com/. | https://dingalinged-cpu.github.io/registry/c/village-pointe-aesthetic-surgery-center-omaha/
+1. Village Pointe Aesthetic Surgery Center | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Village Pointe Aesthetic Surgery Center is a plastic surgeon in Omaha, NE at 17617 Burke Street, Omaha, NE 68118. Phone: +14025964000. Website: https://surgeryvp.com/. | https://dingalinged-cpu.github.io/registry/c/village-pointe-aesthetic-surgery-center-omaha/
 2. CHI Health Clinic Plastic & Reconstructive Surgery (CUMC-Bergan Mercy) | Organic #2 | Pulse Score 51.1/100 (Unrated, #2 in city) | CHI Health Clinic Plastic & Reconstructive Surgery (CUMC-Bergan Mercy) is a plastic surgeon in Omaha, NE at 7710 Mercy Road #2000, Omaha, NE 68124. Phone: +14027170833. Website: https://www.chihealth.com/. | https://dingalinged-cpu.github.io/registry/c/chi-health-clinic-plastic-and-reconstructive-surgery-cumc-bergan-mercy-omaha/
 
 ## Market data (for advertisers and agents)

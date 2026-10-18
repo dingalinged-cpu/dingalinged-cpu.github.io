@@ -7,7 +7,7 @@ Also answers: assisted living in Ankeny, IA; assisted living near me (Ankeny, IA
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Suites of Ankeny | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Suites of Ankeny is an assisted living facility in Ankeny, IA at 420 NW Ash Dr, Ankeny, IA 50023. Phone: +15156350936. Website: https://thesuitesofankeny.com/. | https://dingalinged-cpu.github.io/registry/c/suites-of-ankeny-ankeny/
-2. On With Life | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | On With Life is an assisted living facility in Ankeny, IA. | https://dingalinged-cpu.github.io/registry/c/on-with-life-ankeny/
+2. On With Life | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | On With Life is an assisted living facility in Ankeny, IA. | https://dingalinged-cpu.github.io/registry/c/on-with-life-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living ankeny ia | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

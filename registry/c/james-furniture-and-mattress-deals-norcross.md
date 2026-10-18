@@ -13,7 +13,7 @@ James Furniture & Mattress Deals is a furniture store in Norcross, GA at 5211 Ji
 - Website: https://www.jamesfurnituredeals.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-20:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 9% of furniture stores in Atlanta, #2 of 2 furniture stores in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 9% of furniture stores in Atlanta, #2 of 2 furniture stores in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

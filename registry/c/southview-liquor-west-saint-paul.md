@@ -13,7 +13,7 @@ Southview Liquor is a liquor store in West Saint Paul, MN at 1963 Robert Street 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 53% of liquor stores in Minneapolis–St. Paul, #3 of 3 liquor stores in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 53% of liquor stores in Minneapolis–St. Paul, #3 of 3 liquor stores in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 49. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Vetter Architects is an architect in Milwaukee, WI at 161 South 1st Street #110,
 - Website: https://www.vetterarchitects.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Good — top 20% of architects in Milwaukee, #4 of 15 architects in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 65.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Good — top 20% of architects in Milwaukee, #4 of 15 architects in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 65.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

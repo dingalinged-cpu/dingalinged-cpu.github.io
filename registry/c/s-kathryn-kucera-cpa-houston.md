@@ -13,7 +13,7 @@ S Kathryn Kucera, CPA is a tax preparation service in Houston, TX at 9601 Katy 
 - Website: https://kucera-cpa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 8% of tax preparation services in Houston, #5 of 44 tax preparation services in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 8% of tax preparation services in Houston, #5 of 44 tax preparation services in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

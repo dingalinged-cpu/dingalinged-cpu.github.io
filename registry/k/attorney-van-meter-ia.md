@@ -6,7 +6,7 @@ Also answers: attorney in Van Meter, IA; attorney near me (Van Meter, IA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Law Shop | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | The Law Shop is a lawyer in Van Meter, IA. | https://dingalinged-cpu.github.io/registry/c/the-law-shop-van-meter/
+1. The Law Shop | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | The Law Shop is a lawyer in Van Meter, IA. | https://dingalinged-cpu.github.io/registry/c/the-law-shop-van-meter/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney van meter ia | category: professional_legal | industry benchmark: Attorneys & Legal Services

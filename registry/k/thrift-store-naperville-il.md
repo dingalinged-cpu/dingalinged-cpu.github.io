@@ -6,7 +6,7 @@ Also answers: thrift store in Naperville, IL; thrift store near me (Naperville, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Family Shelter Resale Shop | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Family Shelter Resale Shop is a thrift store in Naperville, IL at 1512 Naper Boulevard #172, Naperville, IL 60563. Website: https://www.metrofamily.org/the-family-shelter-service-resale-shop-in-naperville-is-re-opening-as-of-monday-august-10/. | https://dingalinged-cpu.github.io/registry/c/family-shelter-resale-shop-naperville/
+1. Family Shelter Resale Shop | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Family Shelter Resale Shop is a thrift store in Naperville, IL at 1512 Naper Boulevard #172, Naperville, IL 60563. Website: https://www.metrofamily.org/the-family-shelter-service-resale-shop-in-naperville-is-re-opening-as-of-monday-august-10/. | https://dingalinged-cpu.github.io/registry/c/family-shelter-resale-shop-naperville/
 2. Savers | Organic #2 | Pulse Score 47.7/100 (Building, #2 in city) | Savers is a thrift store in Naperville, IL at 1125 East Ogden Avenue, Naperville, IL 60563. Website: https://stores.savers.com/il/naperville/savers-thrift-store-1250.html. | https://dingalinged-cpu.github.io/registry/c/savers-naperville/
 
 ## Market data (for advertisers and agents)

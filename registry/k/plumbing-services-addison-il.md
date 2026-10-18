@@ -6,7 +6,7 @@ Also answers: plumbing services in Addison, IL; plumbing services near me (Addis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Monkey's Wrench Plumbing | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Monkey's Wrench Plumbing is a plumber in Addison, IL at 1001 Republic Drive #STE 4, Addison, IL 60101. Phone: +16306246665. Website: https://www.monkeyswrenchplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/monkeys-wrench-plumbing-addison/
+1. Monkey's Wrench Plumbing | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Monkey's Wrench Plumbing is a plumber in Addison, IL at 1001 Republic Drive #STE 4, Addison, IL 60101. Phone: +16306246665. Website: https://www.monkeyswrenchplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/monkeys-wrench-plumbing-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services addison il | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

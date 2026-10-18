@@ -13,7 +13,7 @@ WCI Corporate Headquarters is an IT support company in Plano, TX at 8105 Rasor B
 - Website: https://wciconsulting.com/
 - Email: info@wciconsulting.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 22% of IT support companys in Dallas–Fort Worth, #3 of 5 IT support companys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 22% of IT support companys in Dallas–Fort Worth, #3 of 5 IT support companys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

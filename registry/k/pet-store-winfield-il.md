@@ -6,7 +6,7 @@ Also answers: pet store in Winfield, IL; pet store near me (Winfield, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kiki's Korner | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Kiki's Korner is a pet store in Winfield, IL at 27W460 Beecher Ave, #A & B, Winfield, IL 60190. Phone: +16308683160. Website: https://kikiskorner.net/. | https://dingalinged-cpu.github.io/registry/c/kikis-korner-winfield/
+1. Kiki's Korner | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Kiki's Korner is a pet store in Winfield, IL at 27W460 Beecher Ave, #A & B, Winfield, IL 60190. Phone: +16308683160. Website: https://kikiskorner.net/. | https://dingalinged-cpu.github.io/registry/c/kikis-korner-winfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store winfield il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

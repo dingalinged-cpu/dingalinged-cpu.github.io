@@ -13,7 +13,7 @@ Palatine Shell Service, Inc. is an auto repair shop in Palatine, IL. Website: ht
 - Website: https://www.palatineshellservice.com/Auto-Services/Schedule-A-Repair
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 36% of auto repair shops in Chicago, #3 of 10 auto repair shops in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 43.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 36% of auto repair shops in Chicago, #3 of 10 auto repair shops in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 43.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

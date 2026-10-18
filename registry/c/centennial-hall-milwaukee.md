@@ -13,7 +13,7 @@ Centennial Hall is an event venue in Milwaukee, WI at 733 North 8th Street, Milw
 - Website: https://www.mpl.org/hours_locations/centennial_hall.php
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 42% of event venues in Milwaukee, #21 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 42% of event venues in Milwaukee, #21 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

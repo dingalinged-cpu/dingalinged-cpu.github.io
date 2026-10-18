@@ -13,7 +13,7 @@ SilverRidge Assisted Living & Memory Support is an assisted living facility in G
 - Website: https://www.silverridge-gretna.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 70% of assisted living facilitys in Omaha, NE, #1 of 1 assisted living facilitys in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 49.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 70% of assisted living facilitys in Omaha, NE, #1 of 1 assisted living facilitys in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

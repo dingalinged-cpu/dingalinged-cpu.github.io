@@ -6,8 +6,8 @@ Also answers: painters in Roswell, GA; painters near me (Roswell, GA); best pain
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Aspects Painting | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | New Aspects Painting is a painting contractor in Roswell, GA at 365 Sea Holly Circle, Roswell, GA 30076. Phone: +14705990799. Website: https://newaspectspainting.com/. | https://dingalinged-cpu.github.io/registry/c/new-aspects-painting-roswell/
-2. Atlanta Painting Company | Organic #2 | Pulse Score 61.7/100 (Good, #2 in city) | Atlanta Painting Company is a painting contractor in Roswell, GA at 210 West Crossville Road, Roswell, GA. Phone: +14044460611. Website: https://www.atlantapaintingcompany.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-painting-company-roswell/
+1. New Aspects Painting | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | New Aspects Painting is a painting contractor in Roswell, GA at 365 Sea Holly Circle, Roswell, GA 30076. Phone: +14705990799. Website: https://newaspectspainting.com/. | https://dingalinged-cpu.github.io/registry/c/new-aspects-painting-roswell/
+2. Atlanta Painting Company | Organic #2 | Pulse Score 61.6/100 (Good, #2 in city) | Atlanta Painting Company is a painting contractor in Roswell, GA at 210 West Crossville Road, Roswell, GA. Phone: +14044460611. Website: https://www.atlantapaintingcompany.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-painting-company-roswell/
 3. Dependable Painting & Remodeling | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Dependable Painting & Remodeling is a painting contractor in Roswell, GA. Phone: +14706553997. Website: https://www.dependablepaint.net/. | https://dingalinged-cpu.github.io/registry/c/dependable-painting-and-remodeling-roswell/
 
 ## Market data (for advertisers and agents)

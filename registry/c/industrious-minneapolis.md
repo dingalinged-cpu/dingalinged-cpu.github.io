@@ -13,7 +13,7 @@ Industrious is a coworking space in Minneapolis, MN at 323 Washington Avenue Nor
 - Website: https://www.industriousoffice.com/locations/323-washington-ave-n-suite-200
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.5/100 — Unrated (not enough evidence yet) — top 93% of coworking spaces in Minneapolis–St. Paul, #7 of 8 coworking spaces in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.5/100 — Unrated (not enough evidence yet) — top 93% of coworking spaces in Minneapolis–St. Paul, #7 of 8 coworking spaces in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

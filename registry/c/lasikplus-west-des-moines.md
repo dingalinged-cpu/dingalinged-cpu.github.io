@@ -13,7 +13,7 @@ LasikPlus is an eye care practice in West Des Moines, IA at 6305 Mills Civic Par
 - Website: https://www.lasikplus.com/location/des-moines-lasik-center/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.5/100 — Building — top 100% of eye care practices in Des Moines, IA, #1 of 1 eye care practices in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 48.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 100% of eye care practices in Des Moines, IA, #1 of 1 eye care practices in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Housto
 - Website: https://www.actionbehavior.com/location/texas/the-heights
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 49/100 — Building — top 70% of therapy practices in Houston, #14 of 21 therapy practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 70% of therapy practices in Houston, #14 of 21 therapy practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.1, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

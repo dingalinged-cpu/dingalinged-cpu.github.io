@@ -6,7 +6,7 @@ Also answers: dog groomer in West Bend, WI; dog groomer near me (West Bend, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pooch Palace | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Pooch Palace is a dog groomer in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/pooch-palace-west-bend/
+1. Pooch Palace | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Pooch Palace is a dog groomer in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/pooch-palace-west-bend/
 2. Pet Supplies Plus | Organic #2 | Pulse Score 41.3/100 (Unrated, #2 in city) | Pet Supplies Plus is a dog groomer in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-west-bend/
 
 ## Market data (for advertisers and agents)

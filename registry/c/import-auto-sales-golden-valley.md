@@ -13,7 +13,7 @@ Import Auto Sales is an used car dealer in Golden Valley, MN at 730 Florida Aven
 - Website: https://www.carsmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 18% of used car dealers in Minneapolis–St. Paul, #1 of 2 used car dealers in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 18% of used car dealers in Minneapolis–St. Paul, #1 of 2 used car dealers in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ A1 Driving Schools is a driving school in Marietta, GA at 1477 Roswell Road #500
 - Website: https://a1drivingschools.com/locations/marietta/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-16:30; Sa 08:00-12:00; Su off
-- Pulse Score: 63.6/100 — Good — top 17% of driving schools in Atlanta, #1 of 3 driving schools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 17% of driving schools in Atlanta, #1 of 3 driving schools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

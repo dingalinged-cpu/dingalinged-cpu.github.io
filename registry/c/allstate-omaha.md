@@ -13,7 +13,7 @@ Allstate is an insurance agent in Omaha, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.7/100 — Building — top 67% of insurance agents in Omaha, NE, #12 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.7/100 — Building — top 67% of insurance agents in Omaha, NE, #12 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Authentic Form & Function is a marketing agency in Minneapolis, MN at 1307 2nd A
 - Website: https://authenticff.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 71% of marketing agencys in Minneapolis–St. Paul, #7 of 11 marketing agencys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 71% of marketing agencys in Minneapolis–St. Paul, #7 of 11 marketing agencys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

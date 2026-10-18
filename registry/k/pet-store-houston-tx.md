@@ -47,7 +47,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 39. Petco | Organic #39 | Pulse Score 42.6/100 (Building, #39 in city) | Petco is a pet store in Houston, TX at 9151 Highway 6 South, Houston, TX 77083. | https://dingalinged-cpu.github.io/registry/c/petco-houston-n13459304166/
 40. Pet Supermarket | Organic #40 | Pulse Score 42.5/100 (Building, #40 in city) | Pet Supermarket is a pet store in Houston, TX at 265, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supermarket-houston/
 41. Kriser's Natural Pet | Organic #41 | Pulse Score 41.6/100 (Building, #41 in city) | Kriser's Natural Pet is a pet store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/krisers-natural-pet-houston/
-42. Petbar | Organic #42 | Pulse Score 41.4/100 (Building, #42 in city) | Petbar is a pet store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/petbar-houston/
+42. Petbar | Organic #42 | Pulse Score 41.5/100 (Building, #42 in city) | Petbar is a pet store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/petbar-houston/
 43. Pet Supplies Plus | Organic #43 | Pulse Score 41.2/100 (Building, #43 in city) | Pet Supplies Plus is a pet store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-houston/
 
 ## Market data (for advertisers and agents)

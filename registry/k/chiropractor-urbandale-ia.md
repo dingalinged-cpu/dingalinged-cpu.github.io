@@ -6,7 +6,7 @@ Also answers: chiropractor in Urbandale, IA; chiropractor near me (Urbandale, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Halling Wellness Center | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Halling Wellness Center is a chiropractor in Urbandale, IA at 2535 106th Street, Urbandale, IA 50322. Phone: +15153340505. | https://dingalinged-cpu.github.io/registry/c/halling-wellness-center-urbandale/
+1. Halling Wellness Center | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Halling Wellness Center is a chiropractor in Urbandale, IA at 2535 106th Street, Urbandale, IA 50322. Phone: +15153340505. | https://dingalinged-cpu.github.io/registry/c/halling-wellness-center-urbandale/
 2. Yost Family Chiropractic | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Yost Family Chiropractic is a chiropractor in Urbandale, IA at 3993 100th Street, Urbandale, IA 50322. | https://dingalinged-cpu.github.io/registry/c/yost-family-chiropractic-urbandale/
 
 ## Market data (for advertisers and agents)

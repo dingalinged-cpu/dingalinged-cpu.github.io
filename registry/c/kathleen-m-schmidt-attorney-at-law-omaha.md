@@ -13,7 +13,7 @@ Kathleen M. Schmidt Attorney at Law is a lawyer in Omaha, NE at 11725 Arbor Stre
 - Website: https://www.familylawneb.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 32% of lawyers in Omaha, NE, #4 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 32% of lawyers in Omaha, NE, #4 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

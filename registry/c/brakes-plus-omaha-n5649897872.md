@@ -13,7 +13,7 @@ Brakes Plus is an auto repair shop in Omaha, NE at 12110 West Dodge Road, Omaha,
 - Website: https://www.brakesplus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00;Sa 08:00-17:00
-- Pulse Score: 49/100 — Building — top 71% of auto repair shops in Omaha, NE, #55 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 70% of auto repair shops in Omaha, NE, #54 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

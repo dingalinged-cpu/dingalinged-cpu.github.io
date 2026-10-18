@@ -13,7 +13,7 @@ Copeland Heating, Air Conditioning, Plumbing, and Electrical Repair Services is 
 - Website: https://copelandairtexas.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Dallas–Fort Worth, #2 of 2 HVAC contractors in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.4/100 — Unrated (not enough evidence yet) — top 100% of HVAC contractors in Dallas–Fort Worth, #2 of 2 HVAC contractors in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

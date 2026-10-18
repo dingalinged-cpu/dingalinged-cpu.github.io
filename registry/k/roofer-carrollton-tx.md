@@ -6,7 +6,7 @@ Also answers: roofer in Carrollton, TX; roofer near me (Carrollton, TX); best ro
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Results Roofing | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Results Roofing is a roofer in Carrollton, TX at 2828 E Trinity Mls Rd #212, Carrollton, TX 75006. Phone: +12143015533. Website: https://resultsroofing.com/. | https://dingalinged-cpu.github.io/registry/c/results-roofing-carrollton/
+1. Results Roofing | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Results Roofing is a roofer in Carrollton, TX at 2828 E Trinity Mls Rd #212, Carrollton, TX 75006. Phone: +12143015533. Website: https://resultsroofing.com/. | https://dingalinged-cpu.github.io/registry/c/results-roofing-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer carrollton tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

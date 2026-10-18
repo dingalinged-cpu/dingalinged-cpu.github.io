@@ -6,7 +6,7 @@ Also answers: funeral home in Brookfield, IL; funeral home near me (Brookfield, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Johnson-Nosek Funeral Home | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Johnson-Nosek Funeral Home is a funeral home in Brookfield, IL at Prairie Avenue, Brookfield, IL 60513. Phone: +17084850214. Website: https://www.johnsonnosek.com/. | https://dingalinged-cpu.github.io/registry/c/johnson-nosek-funeral-home-brookfield/
+1. Johnson-Nosek Funeral Home | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Johnson-Nosek Funeral Home is a funeral home in Brookfield, IL at Prairie Avenue, Brookfield, IL 60513. Phone: +17084850214. Website: https://www.johnsonnosek.com/. | https://dingalinged-cpu.github.io/registry/c/johnson-nosek-funeral-home-brookfield/
 2. Hitzeman Funeral Home | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Hitzeman Funeral Home is a funeral home in Brookfield, IL at 9445 31st Street, Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/hitzeman-funeral-home-brookfield/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Glamour Nails is a nail salon in Fitchburg, WI. Phone: +16082987345. Website: ht
 - Website: https://glamournailsfitchburg.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00
-- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 94% of nail salons in Madison, #1 of 1 nail salons in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.8, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 94% of nail salons in Madison, #1 of 1 nail salons in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

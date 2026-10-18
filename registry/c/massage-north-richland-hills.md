@@ -13,7 +13,7 @@ Massage is a massage studio in North Richland Hills, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.3/100 — Building — top 83% of massage studios in Dallas–Fort Worth, #3 of 4 massage studios in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 42.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 83% of massage studios in Dallas–Fort Worth, #3 of 4 massage studios in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Tom's Tailor is a tailor in Saint Paul, MN at 672 Grand Avenue, Saint Paul, MN 5
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su off
-- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of tailors in Minneapolis–St. Paul, #3 of 10 tailors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of tailors in Minneapolis–St. Paul, #3 of 10 tailors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

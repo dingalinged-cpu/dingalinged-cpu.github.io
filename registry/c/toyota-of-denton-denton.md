@@ -13,7 +13,7 @@ Toyota of Denton is an used car dealer in Denton, TX at 4100 South Interstate 35
 - Website: https://www.toyotaofdenton.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 86% of used car dealers in Dallas–Fort Worth, #14 of 18 used car dealers in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 86% of used car dealers in Dallas–Fort Worth, #14 of 18 used car dealers in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

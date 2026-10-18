@@ -13,7 +13,7 @@ Meinecke House is an assisted living facility in Milwaukee, WI at 2374 North 6th
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 42% of assisted living facilitys in Milwaukee, #10 of 13 assisted living facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 42% of assisted living facilitys in Milwaukee, #10 of 13 assisted living facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Cinnaholic is a bakery in Pearland, TX. Website: https://locations.cinnaholic.co
 - Website: https://locations.cinnaholic.com/ll/us/tx/pearland/39/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.2/100 — Building — top 94% of bakerys in Houston, #4 of 4 bakerys in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 93% of bakerys in Houston, #4 of 4 bakerys in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

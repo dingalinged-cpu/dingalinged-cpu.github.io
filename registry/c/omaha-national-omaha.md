@@ -13,7 +13,7 @@ Omaha National is an insurance agent in Omaha, NE at 9110 West Dodge Road, Omaha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 26% of insurance agents in Omaha, NE, #6 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 26% of insurance agents in Omaha, NE, #6 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

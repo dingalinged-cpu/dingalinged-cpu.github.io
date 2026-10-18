@@ -13,7 +13,7 @@ Brew City Locksmith is a locksmith in Milwaukee, WI. Phone: +14143507777. Websit
 - Website: https://sites.google.com/site/brewcitylocksmith
 - Email: brewcitylocksmith@gmail.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 38% of locksmiths in Milwaukee, #2 of 5 locksmiths in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 38% of locksmiths in Milwaukee, #2 of 5 locksmiths in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

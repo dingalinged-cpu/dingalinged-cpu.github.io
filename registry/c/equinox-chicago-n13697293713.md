@@ -13,7 +13,7 @@ Equinox is a gym in Chicago, IL at 201 North Sangamon Street, Chicago, IL. Phone
 - Website: https://www.equinox.com/clubs/chicago/fulton-market
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-22:00; Fr 05:00-21:00; Sa-Su 07:00-19:00
-- Pulse Score: 49.7/100 — Building — top 46% of gyms in Chicago, #83 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 46% of gyms in Chicago, #82 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

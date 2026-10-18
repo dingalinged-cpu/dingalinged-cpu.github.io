@@ -13,7 +13,7 @@ HelpSystems is an IT support company in Ashland, NE at 103 South 14th Street, As
 - Website: https://goanywhere.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 40% of IT support companys in Omaha, NE, #1 of 1 IT support companys in Ashland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 40% of IT support companys in Omaha, NE, #1 of 1 IT support companys in Ashland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Heartland Family Health and Chiropractic Clinic is a chiropractor in Fremont, NE
 - Website: https://www.heartlandchiropracticfremont.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 30% of chiropractors in Omaha, NE, #1 of 2 chiropractors in Fremont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 30% of chiropractors in Omaha, NE, #1 of 2 chiropractors in Fremont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

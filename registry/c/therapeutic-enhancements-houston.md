@@ -13,7 +13,7 @@ Therapeutic Enhancements is a therapy practice in Houston, TX at 21902 State Hwy
 - Website: https://therapeuticenhancements.net/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:30-19:30; Sa 10:30-14:30
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 16% of therapy practices in Houston, #4 of 21 therapy practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 16% of therapy practices in Houston, #4 of 21 therapy practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

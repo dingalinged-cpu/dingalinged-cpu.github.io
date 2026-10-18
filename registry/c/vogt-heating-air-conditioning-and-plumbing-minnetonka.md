@@ -13,7 +13,7 @@ VOGT Heating, Air Conditioning & Plumbing is a HVAC contractor in Minnetonka, MN
 - Website: https://www.vogtheating.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 87% of HVAC contractors in Minneapolis–St. Paul, #1 of 1 HVAC contractors in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 47.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 87% of HVAC contractors in Minneapolis–St. Paul, #1 of 1 HVAC contractors in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

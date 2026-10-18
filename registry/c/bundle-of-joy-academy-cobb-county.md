@@ -13,7 +13,7 @@ Bundle of Joy Academy is a daycare in Cobb County, GA at 2145 Barnes Mill Road N
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
-- Pulse Score: 62.8/100 — Good — top 13% of daycares in Atlanta, #4 of 9 daycares in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 13% of daycares in Atlanta, #4 of 9 daycares in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: physical therapy in Houston, TX; physical therapy near me (Houston
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Therapy at The Zone | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Therapy at The Zone is a physical therapy clinic in Houston, TX at 10371 Stella Link Road, Houston, TX 77025. Phone: +18323041093. Website: https://www.therapyatthezone.com/. | https://dingalinged-cpu.github.io/registry/c/therapy-at-the-zone-houston/
-2. Unify Physical Therapy | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Unify Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/unify-physical-therapy-houston/
+2. Unify Physical Therapy | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Unify Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/unify-physical-therapy-houston/
 3. Kingwood Occupational and Physical Therapy | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Kingwood Occupational and Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/kingwood-occupational-and-physical-therapy-houston/
 4. Physical Therapy | Organic #4 | Pulse Score 41.5/100 (Unrated, #4 in city) | Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/physical-therapy-houston/
 

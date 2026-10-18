@@ -13,7 +13,7 @@ Glitter Nail Salon & Nail Academy is a nail salon in Oak Park, IL at 912 Madison
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 41% of nail salons in Chicago, #1 of 1 nail salons in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 40% of nail salons in Chicago, #1 of 1 nail salons in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

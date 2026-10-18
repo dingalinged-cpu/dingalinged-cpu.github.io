@@ -6,8 +6,8 @@ Also answers: physical therapy in Madison, WI; physical therapy near me (Madison
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Equilibrium Psychotherapy | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Equilibrium Psychotherapy is a physical therapy clinic in Madison, WI at Seminole Highway, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/equilibrium-psychotherapy-madison/
-2. Stellar Rehabilitation | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Stellar Rehabilitation is a physical therapy clinic in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/stellar-rehabilitation-madison/
+1. Equilibrium Psychotherapy | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Equilibrium Psychotherapy is a physical therapy clinic in Madison, WI at Seminole Highway, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/equilibrium-psychotherapy-madison/
+2. Stellar Rehabilitation | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Stellar Rehabilitation is a physical therapy clinic in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/stellar-rehabilitation-madison/
 3. Athletico Physical Therapy | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Athletico Physical Therapy is a physical therapy clinic in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-madison/
 4. Fyzical | Organic #4 | Pulse Score 42.2/100 (Unrated, #4 in city) | Fyzical is a physical therapy clinic in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/fyzical-madison/
 

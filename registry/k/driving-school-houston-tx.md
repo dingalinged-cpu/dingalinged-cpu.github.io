@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Texas Department of Public Safety | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Texas Department of Public Safety is a driving school in Houston, TX at 11039 East Freeway, Houston, TX 77029. Phone: +17166339872. Website: https://www.dps.texas.gov/. | https://dingalinged-cpu.github.io/registry/c/texas-department-of-public-safety-houston/
 2. Monroy Driving School | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Monroy Driving School is a driving school in Houston, TX at 5205 Telephone Road #B, Houston, TX 77087. Phone: +17132392275. Website: https://www.monroydrivingschool.com/. | https://dingalinged-cpu.github.io/registry/c/monroy-driving-school-houston/
-3. Lone Star Driving School | Organic #3 | Pulse Score 60.1/100 (Unrated, #3 in city) | Lone Star Driving School is a driving school in Houston, TX at 417 West Parker Road, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-driving-school-houston/
+3. Lone Star Driving School | Organic #3 | Pulse Score 60.2/100 (Unrated, #3 in city) | Lone Star Driving School is a driving school in Houston, TX at 417 West Parker Road, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-driving-school-houston/
 4. License Me Driving School | Organic #4 | Pulse Score 57.5/100 (Unrated, #4 in city) | License Me Driving School is a driving school in Houston, TX at 2600 South Loop West, Houston, TX 77054. | https://dingalinged-cpu.github.io/registry/c/license-me-driving-school-houston/
 
 ## Market data (for advertisers and agents)

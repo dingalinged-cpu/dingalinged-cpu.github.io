@@ -13,7 +13,7 @@ Valley Ridge Liquor1 is a liquor store in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.9/100 — Fair — top 29% of liquor stores in Dallas–Fort Worth, #12 of 14 liquor stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 40. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.9/100 — Fair — top 29% of liquor stores in Dallas–Fort Worth, #12 of 14 liquor stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 40. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

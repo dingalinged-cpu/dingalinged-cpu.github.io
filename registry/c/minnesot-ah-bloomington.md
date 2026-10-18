@@ -13,7 +13,7 @@ Minnesot-ah! is a gift shop in Bloomington, MN at 157 East Broadway, Bloomington
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:30; Sa 09:30-21:30; Su 11:00-19:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 24% of gift shops in Minneapolis–St. Paul, #3 of 15 gift shops in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 26% of gift shops in Minneapolis–St. Paul, #3 of 15 gift shops in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

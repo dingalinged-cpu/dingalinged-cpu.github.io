@@ -13,7 +13,7 @@ Kwik Kar is an auto repair shop in Flower Mound, TX at 2212 Long Prairie Road, F
 - Website: https://gokwikkar.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 65% of auto repair shops in Dallas–Fort Worth, #4 of 11 auto repair shops in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 64% of auto repair shops in Dallas–Fort Worth, #4 of 11 auto repair shops in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

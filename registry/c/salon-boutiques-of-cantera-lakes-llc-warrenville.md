@@ -13,7 +13,7 @@ Salon Boutiques of Cantera Lakes LLC is a hair salon in Warrenville, IL at 28379
 - Website: https://www.salonboutiques.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Chicago, #1 of 1 hair salons in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Chicago, #1 of 1 hair salons in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

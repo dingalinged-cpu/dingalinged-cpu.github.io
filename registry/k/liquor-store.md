@@ -1,4 +1,4 @@
-The top unpaid liquor store listing for the United States is Sprayberry Bottle Shop (a liquor store in Marietta, GA at 2692 Sandy Plains Road Northeast, Marietta, GA 30066. Phone: +17709737073. Website: https://www.sprayberrybottleshop.com/). 1071 liquor store businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for the United States is Sprayberry Bottle Shop (a liquor store in Marietta, GA at 2692 Sandy Plains Road Northeast, Marietta, GA 30066. Phone: +17709737073. Website: https://www.sprayberrybottleshop.com/). 1171 liquor store businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in the United States?
 
@@ -34,30 +34,30 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 26. Pour 'n More Liquor | Organic #26 | Pulse Score 63.4/100 (Good, #1 in city) | Pour 'n More Liquor is a liquor store in Houston, TX at 3406 North Shepherd Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/pour-n-more-liquor-houston/
 27. Spec's Liquor | Organic #27 | Pulse Score 63.4/100 (Good, #1 in city) | Spec's Liquor is a liquor store in Seabrook, TX at 3126 East NASA Parkway, Seabrook, TX 77586. Phone: +12813265127. Website: https://www.specsonline.com/. | https://dingalinged-cpu.github.io/registry/c/specs-liquor-seabrook/
 28. Total Wine & More | Organic #28 | Pulse Score 63.4/100 (Good, #2 in city) | Total Wine & More is a liquor store in Houston, TX at 12516 Memorial Drive, Houston, TX 77024. Phone: +17138277060. Website: https://www.totalwine.com/store-info/texas-memorial/517. | https://dingalinged-cpu.github.io/registry/c/total-wine-and-more-houston/
-29. Tosa Liquor | Organic #29 | Pulse Score 63.2/100 (Good, #2 in city) | Tosa Liquor is a liquor store in Wauwatosa, WI at 6607 West North Avenue, Wauwatosa, WI 53213. Phone: +14147746900. | https://dingalinged-cpu.github.io/registry/c/tosa-liquor-wauwatosa/
-30. Ingersoll Wine & Spirits | Organic #30 | Pulse Score 63.2/100 (Unrated, #1 in city) | Ingersoll Wine & Spirits is a liquor store in Des Moines, IA at 536 35th Street, Des Moines, IA 50312. Phone: +15153279191. Website: https://www.ingersollwine.com/. | https://dingalinged-cpu.github.io/registry/c/ingersoll-wine-and-spirits-des-moines/
-31. Kenny 18 Bottleshop | Organic #31 | Pulse Score 63.2/100 (Unrated, #7 in city) | Kenny 18 Bottleshop is a liquor store in Atlanta, GA at 1989 Hosea L Williams Drive Southeast #C, Atlanta, GA 30317. Phone: +14047481264. Website: https://www.kenny18.com/. | https://dingalinged-cpu.github.io/registry/c/kenny-18-bottleshop-atlanta/
-32. Royal Liquor | Organic #32 | Pulse Score 63.2/100 (Unrated, #2 in city) | Royal Liquor is a liquor store in Alpharetta, GA at 4305 State Bridge Road, Alpharetta, GA 30022. Phone: +17704423800. Website: https://www.royalliquorstore.com/. | https://dingalinged-cpu.github.io/registry/c/royal-liquor-alpharetta/
-33. Charlie's Beer, Wine & Spirits | Organic #33 | Pulse Score 63.1/100 (Good, #4 in city) | Charlie's Beer, Wine & Spirits is a liquor store in Cobb County, GA at 4862 Canton Road Northeast, Cobb County, GA. Phone: +16784038553. | https://dingalinged-cpu.github.io/registry/c/charlies-beer-wine-and-spirits-cobb-county/
-34. Spec's Liqours | Organic #34 | Pulse Score 63/100 (Good, #3 in city) | Spec's Liqours is a liquor store in Houston, TX at 12901 Queensbury Lane, Houston, TX 77079. Website: https://www.specsonline.com/cgi-bin/showmap?store=49. | https://dingalinged-cpu.github.io/registry/c/specs-liqours-houston/
-35. AppleJack's Liquor | Organic #35 | Pulse Score 63/100 (Unrated, #1 in city) | AppleJack's Liquor is a liquor store in Irving, TX at 8704 Cypress Waters Blvd, #100, Irving, TX 75063. Phone: +12144846747. Website: https://applejacksliquor.com/. | https://dingalinged-cpu.github.io/registry/c/applejacks-liquor-irving/
-36. Liquor Pot | Organic #36 | Pulse Score 63/100 (Unrated, #1 in city) | Liquor Pot is a liquor store in Pearland, TX at 160 South Main Street, Pearland, TX 77581. Phone: +17138751008. | https://dingalinged-cpu.github.io/registry/c/liquor-pot-pearland/
-37. Val Mar Spirits & Fine Wines | Organic #37 | Pulse Score 63/100 (Unrated, #4 in city) | Val Mar Spirits & Fine Wines is a liquor store in Houston, TX at 2240 Navigation Boulevard #500, Houston, TX 77003. | https://dingalinged-cpu.github.io/registry/c/val-mar-spirits-and-fine-wines-houston/
-38. The House of Glunz | Organic #38 | Pulse Score 63/100 (Unrated, #1 in city) | The House of Glunz is a liquor store in Chicago, IL at 1206 North Wells Street, Chicago, IL 60610. Phone: +13126423000. Website: https://www.thehouseofglunz.com/. | https://dingalinged-cpu.github.io/registry/c/the-house-of-glunz-chicago/
-39. Charlie's II Beer Wine & Spirits | Organic #39 | Pulse Score 62.9/100 (Good, #5 in city) | Charlie's II Beer Wine & Spirits is a liquor store in Cobb County, GA at 5080 Bells Ferry Road Northwest, Cobb County, GA. Phone: +17709261677. Website: https://charliestwo.com/store/bz_charlies2. | https://dingalinged-cpu.github.io/registry/c/charlies-ii-beer-wine-and-spirits-cobb-county/
-40. Green's Package Store | Organic #40 | Pulse Score 62.9/100 (Good, #8 in city) | Green's Package Store is a liquor store in Atlanta, GA at 737 Ponce de Leon Avenue Northeast, Atlanta, GA. Phone: +14048721109. Website: https://greensbeverages.com/. | https://dingalinged-cpu.github.io/registry/c/greens-package-store-atlanta/
-41. Shotz Liquor | Organic #41 | Pulse Score 62.9/100 (Good, #1 in city) | Shotz Liquor is a liquor store in Lewisville, TX at 1310 West Main Street, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/shotz-liquor-lewisville/
-42. 1st Grand Avenue Liquors | Organic #42 | Pulse Score 62.9/100 (Unrated, #4 in city) | 1st Grand Avenue Liquors is a liquor store in Saint Paul, MN at 918 Grand Avenue, Saint Paul, MN 55105. Phone: +16512277039. Website: https://www.1stgrandaveliquors.com/. | https://dingalinged-cpu.github.io/registry/c/1st-grand-avenue-liquors-saint-paul/
-43. Stelios Bottles & Bites | Organic #43 | Pulse Score 62.9/100 (Unrated, #2 in city) | Stelios Bottles & Bites is a liquor store in Chicago, IL at 19 South Morgan Street, Chicago, IL 60607. Phone: +13122919272. Website: https://steliosbottlesandbites.com/. | https://dingalinged-cpu.github.io/registry/c/stelios-bottles-and-bites-chicago/
-44. Gem City Wine & Spirits | Organic #44 | Pulse Score 62.9/100 (Unrated, #6 in city) | Gem City Wine & Spirits is a liquor store in Marietta, GA at 350 South Fairground Street Southeast, Marietta, GA 30060. Phone: +17704362489. Website: https://gemcityws.com/. | https://dingalinged-cpu.github.io/registry/c/gem-city-wine-and-spirits-marietta/
-45. Liquor Guys | Organic #45 | Pulse Score 62.8/100 (Unrated, #3 in city) | Liquor Guys is a liquor store in Wauwatosa, WI at 11728 West North Avenue, Wauwatosa, WI 53226. Phone: +14146161829. Website: https://liquorguys.com/i. | https://dingalinged-cpu.github.io/registry/c/liquor-guys-wauwatosa/
-46. Waterford Wines & Spirits | Organic #46 | Pulse Score 62.8/100 (Unrated, #1 in city) | Waterford Wines & Spirits is a liquor store in Milwaukee, WI at 2120 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142319393. Website: https://waterfordwine.com/. | https://dingalinged-cpu.github.io/registry/c/waterford-wines-and-spirits-milwaukee/
-47. Smith Beer & Liquor Mart | Organic #47 | Pulse Score 62.7/100 (Unrated, #2 in city) | Smith Beer & Liquor Mart is a liquor store in Milwaukee, WI at 1413 East Brady Street, Milwaukee, WI 53202. Phone: +14142728310. | https://dingalinged-cpu.github.io/registry/c/smith-beer-and-liquor-mart-milwaukee/
-48. Dylan's Liquor Store | Organic #48 | Pulse Score 62.7/100 (Unrated, #1 in city) | Dylan's Liquor Store is a liquor store in The Woodlands, TX at 8000 Research Forest Drive #120, The Woodlands, TX 77382. Phone: +13463312157. Website: https://www.dylansliquor.net/. | https://dingalinged-cpu.github.io/registry/c/dylans-liquor-store-the-woodlands/
-49. Toni's Liquors | Organic #49 | Pulse Score 62.7/100 (Unrated, #1 in city) | Toni's Liquors is a liquor store in Skokie, IL at 4033 Old Orchard Road, Skokie, IL 60076. Phone: +18476730045. Website: https://toniswinesliquorsbeer.com/. | https://dingalinged-cpu.github.io/registry/c/tonis-liquors-skokie/
-50. Elite Package | Organic #50 | Pulse Score 62.6/100 (Good, #7 in city) | Elite Package is a liquor store in Marietta, GA at 2789 Delk Road Southeast, Marietta, GA 30067. Phone: +17709510311. | https://dingalinged-cpu.github.io/registry/c/elite-package-marietta/
+29. D's Liquors | Organic #29 | Pulse Score 63.3/100 (Good, #1 in city) | D's Liquors is a liquor store in Edgerton, KS at 107 East Morgan Street, Edgerton, KS 66021. Phone: +19138826341. Website: https://www.facebook.com/Ds-Liquor-125596508181056. | https://dingalinged-cpu.github.io/registry/c/ds-liquors-edgerton/
+30. Tosa Liquor | Organic #30 | Pulse Score 63.2/100 (Good, #2 in city) | Tosa Liquor is a liquor store in Wauwatosa, WI at 6607 West North Avenue, Wauwatosa, WI 53213. Phone: +14147746900. | https://dingalinged-cpu.github.io/registry/c/tosa-liquor-wauwatosa/
+31. Ingersoll Wine & Spirits | Organic #31 | Pulse Score 63.2/100 (Unrated, #1 in city) | Ingersoll Wine & Spirits is a liquor store in Des Moines, IA at 536 35th Street, Des Moines, IA 50312. Phone: +15153279191. Website: https://www.ingersollwine.com/. | https://dingalinged-cpu.github.io/registry/c/ingersoll-wine-and-spirits-des-moines/
+32. Kenny 18 Bottleshop | Organic #32 | Pulse Score 63.2/100 (Unrated, #7 in city) | Kenny 18 Bottleshop is a liquor store in Atlanta, GA at 1989 Hosea L Williams Drive Southeast #C, Atlanta, GA 30317. Phone: +14047481264. Website: https://www.kenny18.com/. | https://dingalinged-cpu.github.io/registry/c/kenny-18-bottleshop-atlanta/
+33. Royal Liquor | Organic #33 | Pulse Score 63.2/100 (Unrated, #2 in city) | Royal Liquor is a liquor store in Alpharetta, GA at 4305 State Bridge Road, Alpharetta, GA 30022. Phone: +17704423800. Website: https://www.royalliquorstore.com/. | https://dingalinged-cpu.github.io/registry/c/royal-liquor-alpharetta/
+34. Charlie's Beer, Wine & Spirits | Organic #34 | Pulse Score 63.1/100 (Good, #4 in city) | Charlie's Beer, Wine & Spirits is a liquor store in Cobb County, GA at 4862 Canton Road Northeast, Cobb County, GA. Phone: +16784038553. | https://dingalinged-cpu.github.io/registry/c/charlies-beer-wine-and-spirits-cobb-county/
+35. Spec's Liqours | Organic #35 | Pulse Score 63/100 (Good, #3 in city) | Spec's Liqours is a liquor store in Houston, TX at 12901 Queensbury Lane, Houston, TX 77079. Website: https://www.specsonline.com/cgi-bin/showmap?store=49. | https://dingalinged-cpu.github.io/registry/c/specs-liqours-houston/
+36. AppleJack's Liquor | Organic #36 | Pulse Score 63/100 (Unrated, #1 in city) | AppleJack's Liquor is a liquor store in Irving, TX at 8704 Cypress Waters Blvd, #100, Irving, TX 75063. Phone: +12144846747. Website: https://applejacksliquor.com/. | https://dingalinged-cpu.github.io/registry/c/applejacks-liquor-irving/
+37. Liquor Pot | Organic #37 | Pulse Score 63/100 (Unrated, #1 in city) | Liquor Pot is a liquor store in Pearland, TX at 160 South Main Street, Pearland, TX 77581. Phone: +17138751008. | https://dingalinged-cpu.github.io/registry/c/liquor-pot-pearland/
+38. Val Mar Spirits & Fine Wines | Organic #38 | Pulse Score 63/100 (Unrated, #4 in city) | Val Mar Spirits & Fine Wines is a liquor store in Houston, TX at 2240 Navigation Boulevard #500, Houston, TX 77003. | https://dingalinged-cpu.github.io/registry/c/val-mar-spirits-and-fine-wines-houston/
+39. Big Al's Liquor & Wine | Organic #39 | Pulse Score 63/100 (Unrated, #1 in city) | Big Al's Liquor & Wine is a liquor store in Belton, MO at 17217 South US Highway 71, Belton, MO 64012. Phone: +18163188112. Website: https://m.facebook.com/pages/big-als-liquor-wine/108612405895456. | https://dingalinged-cpu.github.io/registry/c/big-als-liquor-and-wine-belton/
+40. The House of Glunz | Organic #40 | Pulse Score 63/100 (Unrated, #1 in city) | The House of Glunz is a liquor store in Chicago, IL at 1206 North Wells Street, Chicago, IL 60610. Phone: +13126423000. Website: https://www.thehouseofglunz.com/. | https://dingalinged-cpu.github.io/registry/c/the-house-of-glunz-chicago/
+41. Charlie's II Beer Wine & Spirits | Organic #41 | Pulse Score 62.9/100 (Good, #5 in city) | Charlie's II Beer Wine & Spirits is a liquor store in Cobb County, GA at 5080 Bells Ferry Road Northwest, Cobb County, GA. Phone: +17709261677. Website: https://charliestwo.com/store/bz_charlies2. | https://dingalinged-cpu.github.io/registry/c/charlies-ii-beer-wine-and-spirits-cobb-county/
+42. Green's Package Store | Organic #42 | Pulse Score 62.9/100 (Good, #8 in city) | Green's Package Store is a liquor store in Atlanta, GA at 737 Ponce de Leon Avenue Northeast, Atlanta, GA. Phone: +14048721109. Website: https://greensbeverages.com/. | https://dingalinged-cpu.github.io/registry/c/greens-package-store-atlanta/
+43. Shotz Liquor | Organic #43 | Pulse Score 62.9/100 (Good, #1 in city) | Shotz Liquor is a liquor store in Lewisville, TX at 1310 West Main Street, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/shotz-liquor-lewisville/
+44. 1st Grand Avenue Liquors | Organic #44 | Pulse Score 62.9/100 (Unrated, #4 in city) | 1st Grand Avenue Liquors is a liquor store in Saint Paul, MN at 918 Grand Avenue, Saint Paul, MN 55105. Phone: +16512277039. Website: https://www.1stgrandaveliquors.com/. | https://dingalinged-cpu.github.io/registry/c/1st-grand-avenue-liquors-saint-paul/
+45. Stelios Bottles & Bites | Organic #45 | Pulse Score 62.9/100 (Unrated, #2 in city) | Stelios Bottles & Bites is a liquor store in Chicago, IL at 19 South Morgan Street, Chicago, IL 60607. Phone: +13122919272. Website: https://steliosbottlesandbites.com/. | https://dingalinged-cpu.github.io/registry/c/stelios-bottles-and-bites-chicago/
+46. Gem City Wine & Spirits | Organic #46 | Pulse Score 62.9/100 (Unrated, #6 in city) | Gem City Wine & Spirits is a liquor store in Marietta, GA at 350 South Fairground Street Southeast, Marietta, GA 30060. Phone: +17704362489. Website: https://gemcityws.com/. | https://dingalinged-cpu.github.io/registry/c/gem-city-wine-and-spirits-marietta/
+47. Smith Beer & Liquor Mart | Organic #47 | Pulse Score 62.8/100 (Unrated, #1 in city) | Smith Beer & Liquor Mart is a liquor store in Milwaukee, WI at 1413 East Brady Street, Milwaukee, WI 53202. Phone: +14142728310. | https://dingalinged-cpu.github.io/registry/c/smith-beer-and-liquor-mart-milwaukee/
+48. Brown Bag Liquor | Organic #48 | Pulse Score 62.8/100 (Unrated, #1 in city) | Brown Bag Liquor is a liquor store in Olathe, KS at 1078 West Santa Fe Street, Olathe, KS 66061. Phone: +19137640816. Website: https://brownbagliquor.com/. | https://dingalinged-cpu.github.io/registry/c/brown-bag-liquor-olathe/
+49. Liquor Guys | Organic #49 | Pulse Score 62.8/100 (Unrated, #3 in city) | Liquor Guys is a liquor store in Wauwatosa, WI at 11728 West North Avenue, Wauwatosa, WI 53226. Phone: +14146161829. Website: https://liquorguys.com/i. | https://dingalinged-cpu.github.io/registry/c/liquor-guys-wauwatosa/
+50. Waterford Wines & Spirits | Organic #50 | Pulse Score 62.8/100 (Unrated, #2 in city) | Waterford Wines & Spirits is a liquor store in Milwaukee, WI at 2120 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142319393. Website: https://waterfordwine.com/. | https://dingalinged-cpu.github.io/registry/c/waterford-wines-and-spirits-milwaukee/
 
-## More liquor store listings (1071 total; top 50 unpaid shown)
+## More liquor store listings (1171 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/liquor-store.jsonl
 - Chicago, IL: 124 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-chicago-il/
 - Houston, TX: 86 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-houston-tx/
@@ -68,18 +68,23 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Dallas, TX: 27 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-dallas-tx/
 - Saint Paul, MN: 27 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-saint-paul-mn/
 - Madison, WI: 25 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-madison-wi/
+- Kansas City, MO: 23 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-kansas-city-mo/
 - Plano, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-plano-tx/
 - Cobb County, GA: 14 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-cobb-county-ga/
 - Lewisville, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-lewisville-tx/
 - Marietta, GA: 13 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-marietta-ga/
+- Overland Park, KS: 12 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-overland-park-ks/
 - Gary, IN: 12 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-gary-in/
 - Mckinney, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-mckinney-tx/
+- Kansas City, KS: 8 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-kansas-city-ks/
+- Olathe, KS: 8 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-olathe-ks/
 - Wauwatosa, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-wauwatosa-wi/
 - Omaha, NE: 8 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-omaha-ne/
 - Smyrna, GA: 7 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-smyrna-ga/
 - Dekalb County, GA: 7 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-dekalb-county-ga/
 - Kennesaw, GA: 7 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-kennesaw-ga/
 - Des Plaines, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-des-plaines-il/
+- Shawnee, KS: 7 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-shawnee-ks/
 - Denton, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-denton-tx/
 - Humble, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-humble-tx/
 - Saint Louis Park, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-saint-louis-park-mn/
@@ -92,6 +97,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - West Des Moines, IA: 6 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-west-des-moines-ia/
 - Arlington Heights, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-arlington-heights-il/
 - Bolingbrook, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-bolingbrook-il/
+- Lenexa, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-lenexa-ks/
 - Fort Bend County, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-fort-bend-county-tx/
 - Katy, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-katy-tx/
 - Conroe, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-conroe-tx/
@@ -122,6 +128,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Homer Glen, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-homer-glen-il/
 - Countryside, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-countryside-il/
 - Palatine, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-palatine-il/
+- Lansing, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-lansing-ks/
 - Deer Park, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-deer-park-tx/
 - Little Elm, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-little-elm-tx/
 - Euless, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-euless-tx/
@@ -141,6 +148,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Coon Rapids, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-coon-rapids-mn/
 - Oak Creek, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-oak-creek-wi/
 - Fitchburg, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-fitchburg-wi/
+- Independence, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-independence-mo/
 - Ankeny, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-ankeny-ia/
 - Brookhaven, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-brookhaven-ga/
 - Hapeville, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-hapeville-ga/
@@ -168,6 +176,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Oak Lawn, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-oak-lawn-il/
 - Lisle, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-lisle-il/
 - New Lenox, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-new-lenox-il/
+- Leavenworth, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-leavenworth-ks/
+- Basehor, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-basehor-ks/
+- Leawood, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-leawood-ks/
+- De Soto, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-de-soto-ks/
+- Gardner, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-gardner-ks/
+- Bonner Springs, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-bonner-springs-ks/
 - Richmond, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-richmond-tx/
 - Kaufman, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-kaufman-tx/
 - Royse City, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-royse-city-tx/
@@ -206,6 +220,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Middleton, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-middleton-wi/
 - Glendale, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-glendale-wi/
 - Brookfield, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-brookfield-wi/
+- Parkville, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-parkville-mo/
+- Peculiar, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-peculiar-mo/
+- Liberty, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-liberty-mo/
 - Indianola, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-indianola-ia/
 - Powder Springs, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-powder-springs-ga/
 - Bartow County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-bartow-county-ga/
@@ -256,6 +273,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Westmont, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-westmont-il/
 - Glenview, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-glenview-il/
 - Northbrook, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-northbrook-il/
+- Edgerton, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-edgerton-ks/
+- Merriam, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-merriam-ks/
+- Prairie Village, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-prairie-village-ks/
+- Mission, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-mission-ks/
 - Trophy Club, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-trophy-club-tx/
 - Hitchcock, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-hitchcock-tx/
 - Mesquite, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-mesquite-tx/
@@ -343,6 +364,16 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Mount Horeb, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-mount-horeb-wi/
 - Maple Bluff, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-maple-bluff-wi/
 - Waterford, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-waterford-wi/
+- Belton, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-belton-mo/
+- Gladstone, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-gladstone-mo/
+- Northmoor, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-northmoor-mo/
+- Grandview, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-grandview-mo/
+- Lathrop, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-lathrop-mo/
+- Kearney, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-kearney-mo/
+- Raymore, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-raymore-mo/
+- Lee'S Summit, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-lees-summit-mo/
+- Weston, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-weston-mo/
+- Platte City, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-platte-city-mo/
 - Ashland, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-ashland-ne/
 - Blair, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-blair-ne/
 - Bellevue, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/liquor-store-bellevue-ne/
@@ -363,7 +394,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1071
+- Registry businesses competing: 1171
 - Equivalent Google Ads cost per month: ~$52,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

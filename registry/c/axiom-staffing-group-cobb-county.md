@@ -13,7 +13,7 @@ Axiom Staffing Group is a staffing agency in Cobb County, GA at Paces Ferry Road
 - Website: https://www.axiomstaffing.com/branches/staffing-agencies-vinings-ga/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 37% of staffing agencys in Atlanta, #3 of 8 staffing agencys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 37% of staffing agencys in Atlanta, #3 of 8 staffing agencys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

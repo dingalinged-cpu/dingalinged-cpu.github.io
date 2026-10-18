@@ -13,7 +13,7 @@ Momentum Design Group is an architect in Saint Paul, MN at 2550 University Avenu
 - Website: https://mdgarchitects.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 12% of architects in Minneapolis–St. Paul, #1 of 5 architects in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 12% of architects in Minneapolis–St. Paul, #1 of 5 architects in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

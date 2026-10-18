@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Clive Car Wash | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Clive Car Wash is a car wash in Clive, IA at 8505 University Boulevard, Clive, IA 50325. | https://dingalinged-cpu.github.io/registry/c/clive-car-wash-clive/
 2. Laser Car Wash | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Laser Car Wash is a car wash in Clive, IA at 2195 Northwest 159th Street, Clive, IA 50325. | https://dingalinged-cpu.github.io/registry/c/laser-car-wash-clive/
 3. Tidal Wave Auto Spa | Organic #3 | Pulse Score 51.5/100 (Fair, #3 in city) | Tidal Wave Auto Spa is a car wash in Clive, IA at 11410 Forest Avenue, Clive, IA 50325. Phone: +17069380991. Website: https://www.tidalwaveautospa.com/location/clive-ia/. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-clive/
-4. Mister Car Wash | Organic #4 | Pulse Score 45.7/100 (Building, #4 in city) | Mister Car Wash is a car wash in Clive, IA at 8727 University Avenue, Clive, IA 50325. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-clive/
+4. Mister Car Wash | Organic #4 | Pulse Score 45.8/100 (Building, #4 in city) | Mister Car Wash is a car wash in Clive, IA at 8727 University Avenue, Clive, IA 50325. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash clive ia | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

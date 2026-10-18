@@ -6,8 +6,8 @@ Also answers: architect in Addison, TX; architect near me (Addison, TX); best ar
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. OnWorks | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | OnWorks is an architect in Addison, TX at 5048 Spectrum Drive, Addison, TX 75001. Phone: +19728247710. Website: https://www.onworks.design/. | https://dingalinged-cpu.github.io/registry/c/onworks-addison/
-2. MPI Architects | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | MPI Architects is an architect in Addison, TX at 4949 Addison Circle, Addison, TX 75001. Website: https://www.mpiarch.com/. | https://dingalinged-cpu.github.io/registry/c/mpi-architects-addison/
+1. OnWorks | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | OnWorks is an architect in Addison, TX at 5048 Spectrum Drive, Addison, TX 75001. Phone: +19728247710. Website: https://www.onworks.design/. | https://dingalinged-cpu.github.io/registry/c/onworks-addison/
+2. MPI Architects | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | MPI Architects is an architect in Addison, TX at 4949 Addison Circle, Addison, TX 75001. Website: https://www.mpiarch.com/. | https://dingalinged-cpu.github.io/registry/c/mpi-architects-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect addison tx | category: Home services - Design | industry benchmark: Home & Home Improvement

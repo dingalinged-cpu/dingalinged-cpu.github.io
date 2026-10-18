@@ -6,7 +6,7 @@ Also answers: martial arts in Woodstock, GA; martial arts near me (Woodstock, GA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TaeKwonDo Survive | Organic #1 | Pulse Score 60.2/100 (Good, #1 in city) | TaeKwonDo Survive is a martial arts school in Woodstock, GA at 9740 Main Street, Woodstock, GA. Phone: +14043978573. | https://dingalinged-cpu.github.io/registry/c/taekwondo-survive-woodstock/
+1. TaeKwonDo Survive | Organic #1 | Pulse Score 60.1/100 (Good, #1 in city) | TaeKwonDo Survive is a martial arts school in Woodstock, GA at 9740 Main Street, Woodstock, GA. Phone: +14043978573. | https://dingalinged-cpu.github.io/registry/c/taekwondo-survive-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts woodstock ga | category: Fitness | industry benchmark: Health & Fitness

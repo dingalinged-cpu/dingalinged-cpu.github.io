@@ -13,7 +13,7 @@ Colony Ridge is a real estate agency in New Caney, TX at 23938 Farm to Market Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 40% of real estate agencys in Houston, #1 of 1 real estate agencys in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 40% of real estate agencys in Houston, #1 of 1 real estate agencys in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

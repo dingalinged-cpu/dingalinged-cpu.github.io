@@ -13,7 +13,7 @@ Auto Source of Texas is an used car dealer in Richardson, TX at 640 South Centra
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 24% of used car dealers in Dallas–Fort Worth, #2 of 2 used car dealers in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 24% of used car dealers in Dallas–Fort Worth, #2 of 2 used car dealers in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: flooring companies in Des Plaines, IL; flooring companies near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. P & C Hardwood Flooring Inc. | Organic #1 | Pulse Score 60/100 (Good, #1 in city) | P & C Hardwood Flooring Inc. is a flooring company in Des Plaines, IL at 2775 Scott Street, Des Plaines, IL 60018. Phone: +18472747715. Website: https://pchardwoodflooring.com/. | https://dingalinged-cpu.github.io/registry/c/p-and-c-hardwood-flooring-inc-des-plaines/
+1. P & C Hardwood Flooring Inc. | Organic #1 | Pulse Score 59.9/100 (Fair, #1 in city) | P & C Hardwood Flooring Inc. is a flooring company in Des Plaines, IL at 2775 Scott Street, Des Plaines, IL 60018. Phone: +18472747715. Website: https://pchardwoodflooring.com/. | https://dingalinged-cpu.github.io/registry/c/p-and-c-hardwood-flooring-inc-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies des plaines il | category: Home services - Flooring | industry benchmark: Home & Home Improvement

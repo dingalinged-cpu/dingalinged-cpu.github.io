@@ -6,9 +6,9 @@ Also answers: florist in Omaha, NE; florist near me (Omaha, NE); best florist Om
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lillian's Flowers | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Lillian's Flowers is a florist in Omaha, NE at 3521 Leavenworth Street, Omaha, NE. Phone: +14023456202. Website: https://lilliansflowers.placeweb.site/. | https://dingalinged-cpu.github.io/registry/c/lillians-flowers-omaha/
+1. Lillian's Flowers | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Lillian's Flowers is a florist in Omaha, NE at 3521 Leavenworth Street, Omaha, NE. Phone: +14023456202. Website: https://lilliansflowers.placeweb.site/. | https://dingalinged-cpu.github.io/registry/c/lillians-flowers-omaha/
 2. Dundee Florist | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Dundee Florist is a florist in Omaha, NE at North 50th Street, Omaha, NE 68132. | https://dingalinged-cpu.github.io/registry/c/dundee-florist-omaha/
-3. All Seasons Floral | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | All Seasons Floral is a florist in Omaha, NE at 2563 South 171st Court, Omaha, NE 68130. | https://dingalinged-cpu.github.io/registry/c/all-seasons-floral-omaha/
+3. All Seasons Floral | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | All Seasons Floral is a florist in Omaha, NE at 2563 South 171st Court, Omaha, NE 68130. | https://dingalinged-cpu.github.io/registry/c/all-seasons-floral-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist omaha ne | category: Events & weddings | industry benchmark: Personal Services

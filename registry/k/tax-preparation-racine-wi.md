@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Jackson Hewitt | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in Racine, WI at 3719 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-racine/
 3. Liberty Tax | Organic #3 | Pulse Score 42.9/100 (Building, #3 in city) | Liberty Tax is a tax preparation service in Racine, WI at 1504 State Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-racine/
 4. H&R Block | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | H&R Block is a tax preparation service in Racine, WI at 3900 Erie Street #B, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-racine/
-5. H&R Block | Organic #5 | Pulse Score 41.2/100 (Building, #5 in city) | H&R Block is a tax preparation service in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-racine-n9928129232/
+5. H&R Block | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | H&R Block is a tax preparation service in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-racine-n9928129232/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation racine wi | category: Professional & financial services | industry benchmark: Finance & Insurance

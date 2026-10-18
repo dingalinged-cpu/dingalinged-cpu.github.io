@@ -13,7 +13,7 @@
 - Website: https://www.12amagency.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 40% of marketing agencys in Dallas–Fort Worth, #2 of 7 marketing agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 40% of marketing agencys in Dallas–Fort Worth, #2 of 7 marketing agencys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Solidcore is a gym in Houston, TX at 600 North Shepherd Drive #490, Houston, TX 
 - Website: https://www.solidcore.co/tx/houston/the-heights/
 - Email: theheights@solidcore.co
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.7/100 — Building — top 52% of gyms in Houston, #39 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 52% of gyms in Houston, #38 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

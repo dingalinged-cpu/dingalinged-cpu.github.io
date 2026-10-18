@@ -6,7 +6,7 @@ Also answers: coworking space in Allen, TX; coworking space near me (Allen, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caddo Office Reimagined | Organic #1 | Pulse Score 46.5/100 (Unrated, #1 in city) | Caddo Office Reimagined is a coworking space in Allen, TX at 550 South Watters Road, Allen, TX 75013. Phone: +12143965305. Website: https://caddooffices.com/locations/allen-office-spaces/. | https://dingalinged-cpu.github.io/registry/c/caddo-office-reimagined-allen/
+1. Caddo Office Reimagined | Organic #1 | Pulse Score 46.6/100 (Unrated, #1 in city) | Caddo Office Reimagined is a coworking space in Allen, TX at 550 South Watters Road, Allen, TX 75013. Phone: +12143965305. Website: https://caddooffices.com/locations/allen-office-spaces/. | https://dingalinged-cpu.github.io/registry/c/caddo-office-reimagined-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space allen tx | category: real_estate | industry benchmark: Real Estate

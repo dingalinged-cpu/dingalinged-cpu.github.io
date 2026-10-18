@@ -13,7 +13,7 @@ Loving Touch Daycare is a daycare in Cobb County, GA at 2145 Roswell Road #180, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-19:00; Sa-Su off
-- Pulse Score: 62.3/100 — Good — top 15% of daycares in Atlanta, #5 of 9 daycares in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 15% of daycares in Atlanta, #5 of 9 daycares in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

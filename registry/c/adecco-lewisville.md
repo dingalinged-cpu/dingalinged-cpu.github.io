@@ -13,7 +13,7 @@ Adecco is a staffing agency in Lewisville, TX. Phone: +19723163200. Website: htt
 - Website: https://www.adeccousa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-12:00,13:00-17:00; Sa-Su closed; PH closed
-- Pulse Score: 52.7/100 — Fair — top 92% of staffing agencys in Dallas–Fort Worth, #3 of 3 staffing agencys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 46.5, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.7/100 — Fair — top 92% of staffing agencys in Dallas–Fort Worth, #3 of 3 staffing agencys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 46.5, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

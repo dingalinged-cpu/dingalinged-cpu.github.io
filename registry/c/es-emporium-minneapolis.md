@@ -13,7 +13,7 @@ E's Emporium is a gift shop in Minneapolis, MN at 3911 Minnehaha Avenue, Minneap
 - Website: https://www.es-emporium.com/
 - Email: n/a
 - Opening hours (OSM syntax): Fr-Su 11:00-15:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 28% of gift shops in Minneapolis–St. Paul, #10 of 20 gift shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 23% of gift shops in Minneapolis–St. Paul, #10 of 20 gift shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

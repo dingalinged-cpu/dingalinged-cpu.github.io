@@ -6,9 +6,9 @@ Also answers: roofer in Chicago, IL; roofer near me (Chicago, IL); best roofer C
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heritage Contractors | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Heritage Contractors is a roofer in Chicago, IL at 10800 South Campbell Avenue, Chicago, IL 60655. Phone: +17738870268. Website: https://www.heritagecontractors.net/. | https://dingalinged-cpu.github.io/registry/c/heritage-contractors-chicago/
+1. Heritage Contractors | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Heritage Contractors is a roofer in Chicago, IL at 10800 South Campbell Avenue, Chicago, IL 60655. Phone: +17738870268. Website: https://www.heritagecontractors.net/. | https://dingalinged-cpu.github.io/registry/c/heritage-contractors-chicago/
 2. Stewart Roofing | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Stewart Roofing is a roofer in Chicago, IL at 361 East 115th Street, Chicago, IL 60628. | https://dingalinged-cpu.github.io/registry/c/stewart-roofing-chicago/
-3. Becker Roofing Company | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Becker Roofing Company is a roofer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/becker-roofing-company-chicago/
+3. Becker Roofing Company | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Becker Roofing Company is a roofer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/becker-roofing-company-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer chicago il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

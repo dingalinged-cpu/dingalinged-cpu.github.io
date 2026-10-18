@@ -13,7 +13,7 @@ Valley Family Dentistry is a dentist in Valley, NE at 121 West 2nd Street, Valle
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 44% of dentists in Omaha, NE, #1 of 1 dentists in Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 44% of dentists in Omaha, NE, #1 of 1 dentists in Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The UPS Store is a printing service in Marietta, GA at 2900 Delk Road Southeast,
 - Website: https://locations.theupsstore.com/ga/marietta/2900-delk-rd-se
 - Email: store1584@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 10:00-18:00
-- Pulse Score: 51.6/100 — Fair — top 22% of printing services in Atlanta, #2 of 7 printing services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 66.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.7/100 — Fair — top 22% of printing services in Atlanta, #2 of 7 printing services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 66.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Buzy Beez Childcare & Development is a daycare in Milwaukee, WI at 7860 West App
 - Website: https://www.buzybeezchildcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 16% of daycares in Milwaukee, #11 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of daycares in Milwaukee, #12 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Wozny Tax Company is an accountant in Mokena, IL at 9400 Bormet Drive #Ste 7
 - Website: https://woznytaxco.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 29% of accountants in Chicago, #1 of 1 accountants in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 29% of accountants in Chicago, #1 of 1 accountants in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

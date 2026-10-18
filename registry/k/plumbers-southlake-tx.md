@@ -6,7 +6,7 @@ Also answers: plumbers in Southlake, TX; plumbers near me (Southlake, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Larry Stinson Plumbing & Water Heater Repair | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Larry Stinson Plumbing & Water Heater Repair is a plumber in Southlake, TX at 1725 East Southlake Boulevard #295, Southlake, TX 76092. Phone: +18176704359. Website: https://www.larrystinsonplumbing.com/north/. | https://dingalinged-cpu.github.io/registry/c/larry-stinson-plumbing-and-water-heater-repair-southlake/
+1. Larry Stinson Plumbing & Water Heater Repair | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Larry Stinson Plumbing & Water Heater Repair is a plumber in Southlake, TX at 1725 East Southlake Boulevard #295, Southlake, TX 76092. Phone: +18176704359. Website: https://www.larrystinsonplumbing.com/north/. | https://dingalinged-cpu.github.io/registry/c/larry-stinson-plumbing-and-water-heater-repair-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers southlake tx | category: Home Services | industry benchmark: Home & Home Improvement

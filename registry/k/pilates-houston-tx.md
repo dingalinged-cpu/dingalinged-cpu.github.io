@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Citizen Pilates | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Citizen Pilates is a pilates studio in Houston, TX at 940 Heights Boulevard, Houston, TX 77008. | https://dingalinged-cpu.github.io/registry/c/citizen-pilates-houston-w1069661909/
 4. Defy Pilates | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Defy Pilates is a pilates studio in Houston, TX at 3620 Katy Freeway #A, Houston, TX 77007. | https://dingalinged-cpu.github.io/registry/c/defy-pilates-houston/
 5. Club Pilates | Organic #5 | Pulse Score 50.5/100 (Fair, #5 in city) | Club Pilates is a pilates studio in Houston, TX at 5535 Memorial Drive #J, Houston, TX 77007. Phone: +17139553595. Website: https://www.clubpilates.com/location/ricemilitary. | https://dingalinged-cpu.github.io/registry/c/club-pilates-houston/
-6. Club Pilates | Organic #6 | Pulse Score 41.2/100 (Building, #6 in city) | Club Pilates is a pilates studio in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/club-pilates-houston-n10022962909/
+6. Club Pilates | Organic #6 | Pulse Score 41.1/100 (Building, #6 in city) | Club Pilates is a pilates studio in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/club-pilates-houston-n10022962909/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates houston tx | category: Fitness | industry benchmark: Health & Fitness

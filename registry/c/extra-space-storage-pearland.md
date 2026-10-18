@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Pearland, TX at 9809 West Broa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 54% of self-storage facilitys in Houston, #1 of 2 self-storage facilitys in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 54% of self-storage facilitys in Houston, #1 of 2 self-storage facilitys in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

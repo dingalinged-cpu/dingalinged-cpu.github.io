@@ -13,7 +13,7 @@ Spring Forest Deli and Catering is a caterer in Willow Springs, IL at Archer Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-17:00; Fr 10:00-18:00; Sa 10:00-16:00
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 36% of caterers in Chicago, #1 of 1 caterers in Willow Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 36% of caterers in Chicago, #1 of 1 caterers in Willow Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 51.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Crystal, MN at 5580 West Broadway Avenue, Crystal, M
 - Website: https://www.anytimefitness.com/gyms/194/crystal-mn-55428/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 51.1/100 — Fair — top 40% of gyms in Minneapolis–St. Paul, #1 of 2 gyms in Crystal (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 68.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 39% of gyms in Minneapolis–St. Paul, #1 of 2 gyms in Crystal (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 68.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

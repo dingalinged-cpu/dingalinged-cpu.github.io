@@ -7,7 +7,7 @@ Also answers: tailor in West Des Moines, IA; tailor near me (West Des Moines, IA
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Jung Tailor | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Jung Tailor is a tailor in West Des Moines, IA at 5966 Ashworth Road, West Des Moines, IA 50266. | https://dingalinged-cpu.github.io/registry/c/jung-tailor-west-des-moines/
-2. Jordan Creek Alterations | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Jordan Creek Alterations is a tailor in West Des Moines, IA. | https://dingalinged-cpu.github.io/registry/c/jordan-creek-alterations-west-des-moines/
+2. Jordan Creek Alterations | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Jordan Creek Alterations is a tailor in West Des Moines, IA. | https://dingalinged-cpu.github.io/registry/c/jordan-creek-alterations-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor west des moines ia | category: Professional & financial services | industry benchmark: Finance & Insurance

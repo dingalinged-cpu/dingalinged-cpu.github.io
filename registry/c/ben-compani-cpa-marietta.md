@@ -13,7 +13,7 @@ Ben Compani, CPA is an accountant in Marietta, GA at 1371 Powers Ferry Road Sout
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.9/100 — Good — top 15% of accountants in Atlanta, #2 of 2 accountants in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 15% of accountants in Atlanta, #2 of 2 accountants in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

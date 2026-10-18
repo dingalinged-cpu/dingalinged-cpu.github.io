@@ -13,7 +13,7 @@ Gretna Chiropractic Center is a chiropractor in Gretna, NE at 826 Village Square
 - Website: https://www.gretnachiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 59% of chiropractors in Omaha, NE, #2 of 2 chiropractors in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 59% of chiropractors in Omaha, NE, #2 of 2 chiropractors in Gretna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

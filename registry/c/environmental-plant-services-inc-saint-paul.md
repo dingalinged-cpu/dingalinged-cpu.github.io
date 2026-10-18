@@ -13,7 +13,7 @@ Environmental Plant Services, Inc. is a business consultant in Saint Paul, MN at
 - Website: https://www.eps.vg/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 34% of business consultants in Minneapolis–St. Paul, #4 of 9 business consultants in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 34% of business consultants in Minneapolis–St. Paul, #4 of 9 business consultants in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

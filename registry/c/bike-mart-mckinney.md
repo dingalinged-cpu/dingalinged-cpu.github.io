@@ -13,7 +13,7 @@ Bike Mart is a bike shop in McKinney, TX at 9040 Falcon View Drive, McKinney, TX
 - Website: https://bikemart.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 12:00-17:00
-- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 89% of bike shops in Dallas–Fort Worth, #2 of 2 bike shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.4/100 — Unrated (not enough evidence yet) — top 86% of bike shops in Dallas–Fort Worth, #2 of 2 bike shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

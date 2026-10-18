@@ -13,7 +13,7 @@ Veterinary Clinic is a veterinarian in Bellevue Second IV Precinct, NE at 403 Bu
 - Website: https://offutt.tricare.mil/Health-Services/Other/Veterinary-Services
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 32% of veterinarians in Omaha, NE, #1 of 1 veterinarians in Bellevue Second IV Precinct (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 32% of veterinarians in Omaha, NE, #1 of 1 veterinarians in Bellevue Second IV Precinct (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

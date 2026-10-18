@@ -77,7 +77,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 69. Stepping Stones | Organic #69 | Pulse Score 54.3/100 (Unrated, #69 in city) | Stepping Stones is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/stepping-stones-chicago/
 70. Sunflower Early Learning Academy | Organic #70 | Pulse Score 54.3/100 (Unrated, #70 in city) | Sunflower Early Learning Academy is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/sunflower-early-learning-academy-chicago/
 71. The Nook | Organic #71 | Pulse Score 54.3/100 (Unrated, #71 in city) | The Nook is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/the-nook-chicago/
-72. Chesterfield Tom Thumb Day Care Center and Kindergarten School | Organic #72 | Pulse Score 47/100 (Unrated, #72 in city) | Chesterfield Tom Thumb Day Care Center and Kindergarten School is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chesterfield-tom-thumb-day-care-center-and-kindergarten-school-chicago/
+72. Chesterfield Tom Thumb Day Care Center and Kindergarten School | Organic #72 | Pulse Score 47.1/100 (Unrated, #72 in city) | Chesterfield Tom Thumb Day Care Center and Kindergarten School is a daycare in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chesterfield-tom-thumb-day-care-center-and-kindergarten-school-chicago/
 73. YMCA Child Care | Organic #73 | Pulse Score 45.6/100 (Building, #73 in city) | YMCA Child Care is a daycare in Chicago, IL at 7 North Homan Avenue, Chicago, IL 60624. | https://dingalinged-cpu.github.io/registry/c/ymca-child-care-chicago/
 
 ## Market data (for advertisers and agents)

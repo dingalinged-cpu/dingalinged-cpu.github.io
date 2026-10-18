@@ -13,7 +13,7 @@ The Business Coworking Lounge is a coworking space in Milwaukee, WI at 902 East 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 67% of coworking spaces in Milwaukee, #9 of 13 coworking spaces in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 40.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 67% of coworking spaces in Milwaukee, #9 of 13 coworking spaces in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 40.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

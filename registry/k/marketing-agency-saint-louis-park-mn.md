@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. JT Mega Food Advertising | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | JT Mega Food Advertising is a marketing agency in Saint Louis Park, MN at 4020 Minnetonka Boulevard, Saint Louis Park, MN 55416. Phone: +19529291370. Website: https://jtmega.com/. | https://dingalinged-cpu.github.io/registry/c/jt-mega-food-advertising-saint-louis-park/
 2. Right Turn Recruiting, Inc (RTR) | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Right Turn Recruiting, Inc (RTR) is a marketing agency in Saint Louis Park, MN at 7825 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +18777437888. Website: https://www.rightturnrecruiting.com/. | https://dingalinged-cpu.github.io/registry/c/right-turn-recruiting-inc-rtr-saint-louis-park/
-3. Mars Advertising | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Mars Advertising is a marketing agency in Saint Louis Park, MN at 5050 36th Street West, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/mars-advertising-saint-louis-park/
+3. Mars Advertising | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Mars Advertising is a marketing agency in Saint Louis Park, MN at 5050 36th Street West, Saint Louis Park, MN 55416. | https://dingalinged-cpu.github.io/registry/c/mars-advertising-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency saint louis park mn | category: Professional & financial services | industry benchmark: Finance & Insurance

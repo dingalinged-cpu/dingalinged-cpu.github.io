@@ -6,7 +6,7 @@ Also answers: attorney in South Milwaukee, WI; attorney near me (South Milwaukee
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eberhardy & Eberhardy, LLP | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Eberhardy & Eberhardy, LLP is a lawyer in South Milwaukee, WI at 2211 10th Avenue #Suite B, South Milwaukee, WI 53172. Phone: +14147441283. Website: https://eberhardylaw.com/. | https://dingalinged-cpu.github.io/registry/c/eberhardy-and-eberhardy-llp-south-milwaukee/
+1. Eberhardy & Eberhardy, LLP | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Eberhardy & Eberhardy, LLP is a lawyer in South Milwaukee, WI at 2211 10th Avenue #Suite B, South Milwaukee, WI 53172. Phone: +14147441283. Website: https://eberhardylaw.com/. | https://dingalinged-cpu.github.io/registry/c/eberhardy-and-eberhardy-llp-south-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney south milwaukee wi | category: professional_legal | industry benchmark: Attorneys & Legal Services

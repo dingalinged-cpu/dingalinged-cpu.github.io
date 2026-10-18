@@ -6,7 +6,7 @@ Also answers: hvac repair in Little Canada, MN; hvac repair near me (Little Cana
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aquarius Home Services | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Aquarius Home Services is a HVAC contractor in Little Canada, MN at 3182 Country Drive, Little Canada, MN 55117. Phone: +18887419025. Website: https://aquariushomeservices.com/. | https://dingalinged-cpu.github.io/registry/c/aquarius-home-services-little-canada/
+1. Aquarius Home Services | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Aquarius Home Services is a HVAC contractor in Little Canada, MN at 3182 Country Drive, Little Canada, MN 55117. Phone: +18887419025. Website: https://aquariushomeservices.com/. | https://dingalinged-cpu.github.io/registry/c/aquarius-home-services-little-canada/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair little canada mn | category: Home services - HVAC | industry benchmark: Home & Home Improvement

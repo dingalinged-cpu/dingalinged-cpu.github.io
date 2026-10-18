@@ -1,0 +1,24 @@
+treats unleashed is a pet store in Olathe, KS at Olathe, KS, Olathe, KS 66062.
+
+# treats unleashed
+
+- Category: pet store
+- Services: pet store
+- Address: Olathe, KS, Olathe, KS 66062
+- City: Olathe
+- State: KS
+- ZIP: 66062
+- Coordinates: 38.911219, -94.7605333
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 09:00-18:00
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 17% of pet stores in Kansas City, MO, #2 of 5 pet stores in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 48. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/treats-unleashed-olathe/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/treats-unleashed-olathe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/2203158114 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

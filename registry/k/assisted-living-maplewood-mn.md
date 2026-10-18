@@ -7,7 +7,7 @@ Also answers: assisted living in Maplewood, MN; assisted living near me (Maplewo
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The Homestead at Maplewood | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | The Homestead at Maplewood is an assisted living facility in Maplewood, MN at 1890 Sherren Avenue East, Maplewood, MN 55109. Phone: +16517703959. Website: https://www.voaseniorliving.org/communities/the-homestead-at-maplewood/. | https://dingalinged-cpu.github.io/registry/c/the-homestead-at-maplewood-maplewood/
-2. Maple Hill Senior Living | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Maple Hill Senior Living is an assisted living facility in Maplewood, MN at 3030 Southlawn Drive, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/maple-hill-senior-living-maplewood/
+2. Maple Hill Senior Living | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Maple Hill Senior Living is an assisted living facility in Maplewood, MN at 3030 Southlawn Drive, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/maple-hill-senior-living-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living maplewood mn | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

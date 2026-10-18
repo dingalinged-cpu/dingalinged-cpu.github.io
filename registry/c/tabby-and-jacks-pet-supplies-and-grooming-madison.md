@@ -13,7 +13,7 @@ Tabby & Jack's Pet Supplies and Grooming is a pet store in Madison, WI at 1892 E
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:100; Su 10:00-17:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 20% of pet stores in Madison, #1 of 12 pet stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 20% of pet stores in Madison, #1 of 12 pet stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

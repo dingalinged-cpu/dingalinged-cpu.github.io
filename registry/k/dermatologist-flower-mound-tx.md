@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Flower Mound Dermatology | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Flower Mound Dermatology is a dermatologist in Flower Mound, TX at 3821 Long Prairie Road #100, Flower Mound, TX. Phone: +19722212784. | https://dingalinged-cpu.github.io/registry/c/flower-mound-dermatology-flower-mound/
 2. U.S. Dermatology Partners | Organic #2 | Pulse Score 61.3/100 (Good, #2 in city) | U.S. Dermatology Partners is a dermatologist in Flower Mound, TX. Phone: +19729859003. | https://dingalinged-cpu.github.io/registry/c/u-s-dermatology-partners-flower-mound-n12974696506/
-3. McGuiness Dermatology | Organic #3 | Pulse Score 58.1/100 (Fair, #3 in city) | McGuiness Dermatology is a dermatologist in Flower Mound, TX at 4471 Long Prairie Road #100, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/mcguiness-dermatology-flower-mound/
-4. Skin Care Body Contouring Laser Center | Organic #4 | Pulse Score 56.5/100 (Fair, #4 in city) | Skin Care Body Contouring Laser Center is a dermatologist in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/skin-care-body-contouring-laser-center-flower-mound/
+3. McGuiness Dermatology | Organic #3 | Pulse Score 58.2/100 (Fair, #3 in city) | McGuiness Dermatology is a dermatologist in Flower Mound, TX at 4471 Long Prairie Road #100, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/mcguiness-dermatology-flower-mound/
+4. Skin Care Body Contouring Laser Center | Organic #4 | Pulse Score 56.6/100 (Fair, #4 in city) | Skin Care Body Contouring Laser Center is a dermatologist in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/skin-care-body-contouring-laser-center-flower-mound/
 5. U.S. Dermatology Partners | Organic #5 | Pulse Score 55.3/100 (Fair, #5 in city) | U.S. Dermatology Partners is a dermatologist in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/u-s-dermatology-partners-flower-mound/
 
 ## Market data (for advertisers and agents)

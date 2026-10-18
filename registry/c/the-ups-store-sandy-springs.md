@@ -13,7 +13,7 @@ The UPS Store is a printing service in Sandy Springs, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.3/100 — Building — top 60% of printing services in Atlanta, #1 of 1 printing services in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 48. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 60% of printing services in Atlanta, #1 of 1 printing services in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

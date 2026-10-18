@@ -6,7 +6,7 @@ Also answers: chiropractor in Blair, NE; chiropractor near me (Blair, NE); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hansen Chiropractic Wellness Center | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Hansen Chiropractic Wellness Center is a chiropractor in Blair, NE at 1454 Colfax Street, Blair, NE 68008. Phone: +14024263663. Website: https://www.hansenwellnesscenter.com/. | https://dingalinged-cpu.github.io/registry/c/hansen-chiropractic-wellness-center-blair/
+1. Hansen Chiropractic Wellness Center | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Hansen Chiropractic Wellness Center is a chiropractor in Blair, NE at 1454 Colfax Street, Blair, NE 68008. Phone: +14024263663. Website: https://www.hansenwellnesscenter.com/. | https://dingalinged-cpu.github.io/registry/c/hansen-chiropractic-wellness-center-blair/
 2. Blair Chiropractic Centre | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Blair Chiropractic Centre is a chiropractor in Blair, NE at 1729 Washington Street, Blair, NE 68008. Phone: +14024264443. Website: https://www.blairchiropracticcentre.com/. | https://dingalinged-cpu.github.io/registry/c/blair-chiropractic-centre-blair/
 
 ## Market data (for advertisers and agents)

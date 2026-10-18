@@ -7,7 +7,7 @@ Also answers: used cars for sale in Kennesaw, GA; used cars for sale near me (Ke
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Leader Auto Sales | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Leader Auto Sales is an used car dealer in Kennesaw, GA at 2653 Cobb Parkway, Kennesaw, GA. Phone: +17704250785. Website: https://www.leaderas.com/. | https://dingalinged-cpu.github.io/registry/c/leader-auto-sales-kennesaw/
-2. CarMax | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | CarMax is an used car dealer in Kennesaw, GA at 1215 Barrett Parkway, Kennesaw, GA. Website: https://www.carmax.com/stores/7103. | https://dingalinged-cpu.github.io/registry/c/carmax-kennesaw/
+2. CarMax | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | CarMax is an used car dealer in Kennesaw, GA at 1215 Barrett Parkway, Kennesaw, GA. Website: https://www.carmax.com/stores/7103. | https://dingalinged-cpu.github.io/registry/c/carmax-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale kennesaw ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

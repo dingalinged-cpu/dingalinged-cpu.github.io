@@ -1,4 +1,4 @@
-The top unpaid car wash listing for the United States is Take 5 Car Wash (a car wash in Cedar Hill, TX at 204 East Belt Line Road, Cedar Hill, TX 75104). 1260 car wash businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for the United States is Take 5 Car Wash (a car wash in Cedar Hill, TX at 204 East Belt Line Road, Cedar Hill, TX 75104). 1364 car wash businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in the United States?
 
@@ -57,7 +57,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 49. Big Dan's Car Wash | Organic #49 | Pulse Score 62.5/100 (Unrated, #3 in city) | Big Dan's Car Wash is a car wash in Kennesaw, GA at 3150 Blue Springs Road, Kennesaw, GA 30144. Phone: +17707623748. Website: https://bigdanscarwash.com/. | https://dingalinged-cpu.github.io/registry/c/big-dans-car-wash-kennesaw/
 50. Cowboy Express Car Wash | Organic #50 | Pulse Score 62.5/100 (Unrated, #1 in city) | Cowboy Express Car Wash is a car wash in Keller, TX at 1655 Keller Parkway, Keller, TX. Phone: +18172104110. Website: https://cowboycw.com/. | https://dingalinged-cpu.github.io/registry/c/cowboy-express-car-wash-keller/
 
-## More car wash listings (1260 total; top 50 unpaid shown)
+## More car wash listings (1364 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/car-wash.jsonl
 - Chicago, IL: 75 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-chicago-il/
 - Houston, TX: 68 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-houston-tx/
@@ -66,6 +66,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Milwaukee, WI: 23 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-milwaukee-wi/
 - Cobb County, GA: 21 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-cobb-county-ga/
 - Omaha, NE: 21 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-omaha-ne/
+- Kansas City, MO: 17 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-kansas-city-mo/
 - Mckinney, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-mckinney-tx/
 - Denton, TX: 15 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-denton-tx/
 - Marietta, GA: 15 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-marietta-ga/
@@ -76,6 +77,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Mesquite, TX: 12 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-mesquite-tx/
 - Naperville, IL: 12 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-naperville-il/
 - Council Bluffs, IA: 12 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-council-bluffs-ia/
+- Overland Park, KS: 12 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-overland-park-ks/
 - Bellevue, NE: 11 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-bellevue-ne/
 - Urbandale, IA: 10 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-urbandale-ia/
 - Lewisville, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-lewisville-tx/
@@ -93,9 +95,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Mokena, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-mokena-il/
 - Homer Glen, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-homer-glen-il/
 - Lombard, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-lombard-il/
+- Blue Springs, MO: 7 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-blue-springs-mo/
 - Minneapolis, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-minneapolis-mn/
 - Des Plaines, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-des-plaines-il/
 - Racine, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-racine-wi/
+- Kansas City, KS: 6 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-kansas-city-ks/
+- Shawnee, KS: 6 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-shawnee-ks/
 - Roseville, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-roseville-mn/
 - Grand Prairie, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-grand-prairie-tx/
 - Richardson, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-richardson-tx/
@@ -114,7 +119,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Bolingbrook, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-bolingbrook-il/
 - Buffalo Grove, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-buffalo-grove-il/
 - Grimes, IA: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-grimes-ia/
+- Independence, MO: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-independence-mo/
 - Mount Pleasant, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-mount-pleasant-wi/
+- Lenexa, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-lenexa-ks/
 - Chanhassen, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-chanhassen-mn/
 - Eden Prairie, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-eden-prairie-mn/
 - Eagan, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-eagan-mn/
@@ -145,10 +152,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Clive, IA: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-clive-ia/
 - Dyer, IN: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-dyer-in/
 - Munster, IN: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-munster-in/
+- Liberty, MO: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-liberty-mo/
 - Fitchburg, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-fitchburg-wi/
 - Sun Prairie, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-sun-prairie-wi/
 - Greenfield, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-greenfield-wi/
 - Papillion, NE: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-papillion-ne/
+- Olathe, KS: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-olathe-ks/
 - Shoreview, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-shoreview-mn/
 - Maple Grove, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-maple-grove-mn/
 - Brooklyn Park, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-brooklyn-park-mn/
@@ -183,6 +192,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Hobart, IN: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-hobart-in/
 - Merrillville, IN: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-merrillville-in/
 - Hammond, IN: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-hammond-in/
+- Lee'S Summit, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-lees-summit-mo/
+- Platte City, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-platte-city-mo/
+- Smithville, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-smithville-mo/
 - West Bend, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-west-bend-wi/
 - Franklin, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-franklin-wi/
 - Middleton, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-middleton-wi/
@@ -191,6 +203,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Waukesha, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-waukesha-wi/
 - Wauwatosa, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-wauwatosa-wi/
 - La Vista, NE: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-la-vista-ne/
+- Leavenworth, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-leavenworth-ks/
 - Shakopee, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-shakopee-mn/
 - Crystal, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-crystal-mn/
 - Minnetonka, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-minnetonka-mn/
@@ -253,6 +266,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Griffith, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-griffith-in/
 - Schererville, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-schererville-in/
 - East Chicago, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-east-chicago-in/
+- Excelsior Springs, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-excelsior-springs-mo/
+- Gladstone, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-gladstone-mo/
 - Caledonia, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-caledonia-wi/
 - Mequon, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-mequon-wi/
 - Village Of Pewaukee, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-village-of-pewaukee-wi/
@@ -261,6 +276,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Evansville, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-evansville-wi/
 - Gretna, NE: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-gretna-ne/
 - Chicago Precinct, NE: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-chicago-precinct-ne/
+- Gardner, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-gardner-ks/
+- Basehor, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-basehor-ks/
+- De Soto, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-de-soto-ks/
+- Bonner Springs, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-bonner-springs-ks/
 - West Saint Paul, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-west-saint-paul-mn/
 - White Bear Lake, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-white-bear-lake-mn/
 - Bloomington, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-bloomington-mn/
@@ -376,6 +395,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Waukee, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-waukee-ia/
 - Highland, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-highland-in/
 - Lake County, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-lake-county-in/
+- Platte Woods, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-platte-woods-mo/
+- Belton, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-belton-mo/
+- Grain Valley, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-grain-valley-mo/
+- Kearney, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-kearney-mo/
+- North Kansas City, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-north-kansas-city-mo/
+- Harrisonville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-harrisonville-mo/
+- Peculiar, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-peculiar-mo/
+- Lathrop, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-lathrop-mo/
+- Pleasant Hill, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-pleasant-hill-mo/
 - Mount Horeb, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-mount-horeb-wi/
 - Cedarburg, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-cedarburg-wi/
 - Glendale, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-glendale-wi/
@@ -411,6 +439,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Yutan, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-yutan-ne/
 - Blair, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-blair-ne/
 - Richland Iv Precinct, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-richland-iv-precinct-ne/
+- Lansing, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-lansing-ks/
+- Johnson County, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-johnson-county-ks/
+- Merriam, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-merriam-ks/
+- Mission, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-mission-ks/
+- Louisburg, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-louisburg-ks/
 - Centerville, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-centerville-mn/
 - Golden Valley, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-golden-valley-mn/
 - Anoka, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/car-wash-anoka-mn/
@@ -435,7 +468,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1260
+- Registry businesses competing: 1364
 - Equivalent Google Ads cost per month: ~$440,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -13,7 +13,7 @@ Backlund Plumbing is a plumber in Omaha, NE at 6215 Grover Street, Omaha, NE 681
 - Website: https://backlundplumbing.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 50% of plumbers in Omaha, NE, #1 of 2 plumbers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 50% of plumbers in Omaha, NE, #1 of 2 plumbers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

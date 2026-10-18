@@ -13,7 +13,7 @@ Kids R First Academy is a preschool in Marietta, GA at 1485 South Marietta Parkw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 49% of preschools in Atlanta, #8 of 14 preschools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 49% of preschools in Atlanta, #8 of 14 preschools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

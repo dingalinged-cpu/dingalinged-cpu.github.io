@@ -13,7 +13,7 @@ Steinhafels Mattress and Bedding Store is a mattress store in Madison, WI at 733
 - Website: https://www.steinhafels.com/locations/west-towne-mattress
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.8/100 — Fair — top 10% of mattress stores in Madison, #1 of 8 mattress stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Fair — top 10% of mattress stores in Madison, #1 of 8 mattress stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

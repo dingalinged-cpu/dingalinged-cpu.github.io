@@ -13,7 +13,7 @@ RJ Harris Photography is a photographer in Milwaukee, WI at 8201 West Capitol Dr
 - Website: https://www.rjharrisphotography.com/
 - Email: info@rjharrisphotography.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Fair — top 62% of photographers in Milwaukee, #3 of 4 photographers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Fair — top 62% of photographers in Milwaukee, #3 of 4 photographers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Despacho Latino Tax | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Despacho Latino Tax is a tax preparation service in West Allis, WI at 5726 West National Avenue, West Allis, WI 53214. Phone: +14145170390. Website: https://despacholatino.com/. | https://dingalinged-cpu.github.io/registry/c/despacho-latino-tax-west-allis/
 2. Jackson Hewitt | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in West Allis, WI at 6714 West Greenfield Avenue, West Allis, WI 53214. Phone: +12622071883. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/wi/west-allis/6714-w-greenfield-ave/19995. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-west-allis/
-3. H&R Block | Organic #3 | Pulse Score 41.2/100 (Building, #3 in city) | H&R Block is a tax preparation service in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-west-allis/
+3. H&R Block | Organic #3 | Pulse Score 41.3/100 (Building, #3 in city) | H&R Block is a tax preparation service in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer west allis wi | category: professional_accounting | industry benchmark: Business Services

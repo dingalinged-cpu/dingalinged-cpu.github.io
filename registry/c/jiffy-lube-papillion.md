@@ -13,7 +13,7 @@ jiffy lube is an auto repair shop in Papillion, NE at 925 North Adams Street, Pa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 87% of auto repair shops in Omaha, NE, #11 of 13 auto repair shops in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 86% of auto repair shops in Omaha, NE, #11 of 13 auto repair shops in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: marketing agency in Addison, TX; marketing agency near me (Addison
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Globe Runner | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Globe Runner is a marketing agency in Addison, TX at 4900 Airport Parkway #Unit 486, Addison, TX 75001. Phone: +19725380260. Website: https://globerunner.com/. | https://dingalinged-cpu.github.io/registry/c/globe-runner-addison/
+1. Globe Runner | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Globe Runner is a marketing agency in Addison, TX at 4900 Airport Parkway #Unit 486, Addison, TX 75001. Phone: +19725380260. Website: https://globerunner.com/. | https://dingalinged-cpu.github.io/registry/c/globe-runner-addison/
 2. Trilogy Marketing | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Trilogy Marketing is a marketing agency in Addison, TX at 4961 Addison Circle, Addison, TX 75001. Website: https://www.trilogymktg.com/. | https://dingalinged-cpu.github.io/registry/c/trilogy-marketing-addison/
 
 ## Market data (for advertisers and agents)

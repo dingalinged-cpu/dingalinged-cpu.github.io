@@ -13,7 +13,7 @@ All Star Daycare And Preschool is a daycare in Des Moines, IA at 1408 East Court
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 38% of daycares in Des Moines, IA, #3 of 4 daycares in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 46.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 38% of daycares in Des Moines, IA, #3 of 4 daycares in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 46.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

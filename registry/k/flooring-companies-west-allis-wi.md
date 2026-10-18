@@ -6,7 +6,7 @@ Also answers: flooring companies in West Allis, WI; flooring companies near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LL Flooring | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | LL Flooring is a flooring company in West Allis, WI at 6740 West Greenfield Avenue, West Allis, WI 53214. Phone: +14143860425. Website: https://www.llflooring.com/stores/wi/west-allis/6740-west-greenfield-ave. | https://dingalinged-cpu.github.io/registry/c/ll-flooring-west-allis/
+1. LL Flooring | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | LL Flooring is a flooring company in West Allis, WI at 6740 West Greenfield Avenue, West Allis, WI 53214. Phone: +14143860425. Website: https://www.llflooring.com/stores/wi/west-allis/6740-west-greenfield-ave. | https://dingalinged-cpu.github.io/registry/c/ll-flooring-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies west allis wi | category: Home services - Flooring | industry benchmark: Home & Home Improvement

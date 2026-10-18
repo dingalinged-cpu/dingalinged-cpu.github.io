@@ -6,9 +6,9 @@ Also answers: heating and air in West Allis, WI; heating and air near me (West A
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. West Allis Heating & Air Conditioning | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | West Allis Heating & Air Conditioning is a HVAC contractor in West Allis, WI at 1827 South 76th Street, West Allis, WI 53214. Phone: +14145432800. Website: https://westallisheating.com/. | https://dingalinged-cpu.github.io/registry/c/west-allis-heating-and-air-conditioning-west-allis/
+1. West Allis Heating & Air Conditioning | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | West Allis Heating & Air Conditioning is a HVAC contractor in West Allis, WI at 1827 South 76th Street, West Allis, WI 53214. Phone: +14145432800. Website: https://westallisheating.com/. | https://dingalinged-cpu.github.io/registry/c/west-allis-heating-and-air-conditioning-west-allis/
 2. Fennig Plumbing, Heating and Air Conditioning | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Fennig Plumbing, Heating and Air Conditioning is a HVAC contractor in West Allis, WI at 1701 South 68th Street, West Allis, WI 53214. Phone: +14147717744. Website: https://fennigphc.com/. | https://dingalinged-cpu.github.io/registry/c/fennig-plumbing-heating-and-air-conditioning-west-allis/
-3. Tempco Heating & Air Conditioning | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Tempco Heating & Air Conditioning is a HVAC contractor in West Allis, WI. Phone: +14147715248. | https://dingalinged-cpu.github.io/registry/c/tempco-heating-and-air-conditioning-west-allis/
+3. Tempco Heating & Air Conditioning | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Tempco Heating & Air Conditioning is a HVAC contractor in West Allis, WI. Phone: +14147715248. | https://dingalinged-cpu.github.io/registry/c/tempco-heating-and-air-conditioning-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air west allis wi | category: Home Services | industry benchmark: Home & Home Improvement

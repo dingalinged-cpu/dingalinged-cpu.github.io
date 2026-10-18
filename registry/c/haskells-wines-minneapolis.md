@@ -13,7 +13,7 @@ Haskell's Wines is a liquor store in Minneapolis, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 11:00-18:00
-- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 36% of liquor stores in Minneapolis–St. Paul, #20 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 52.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 36% of liquor stores in Minneapolis–St. Paul, #20 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

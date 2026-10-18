@@ -6,7 +6,7 @@ Also answers: movers in Newport, MN; movers near me (Newport, MN); best movers N
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wilson Lines | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Wilson Lines is a moving company in Newport, MN at 2131 2nd Avenue, Newport, MN 55055. | https://dingalinged-cpu.github.io/registry/c/wilson-lines-newport/
+1. Wilson Lines | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Wilson Lines is a moving company in Newport, MN at 2131 2nd Avenue, Newport, MN 55055. | https://dingalinged-cpu.github.io/registry/c/wilson-lines-newport/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers newport mn | category: Home services - Moving | industry benchmark: Home & Home Improvement

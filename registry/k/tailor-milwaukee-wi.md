@@ -11,7 +11,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 3. Blest By Campuzano | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Blest By Campuzano is a tailor in Milwaukee, WI at 2926 West Forest Home Avenue, Milwaukee, WI 53215. Phone: +14142266770. Website: https://blestbycampuzano.com/. | https://dingalinged-cpu.github.io/registry/c/blest-by-campuzano-milwaukee/
 4. Salous Men's Wear & Tailoring | Organic #4 | Pulse Score 59.7/100 (Unrated, #4 in city) | Salous Men's Wear & Tailoring is a tailor in Milwaukee, WI at 3861 South 60th Street, Milwaukee, WI 53220. Phone: +14145450766. | https://dingalinged-cpu.github.io/registry/c/salous-mens-wear-and-tailoring-milwaukee/
 5. Anna’s Custom Tailoring | Organic #5 | Pulse Score 59.4/100 (Unrated, #5 in city) | Anna’s Custom Tailoring is a tailor in Milwaukee, WI. Phone: +14142249633. Website: https://annastailoring.com/. | https://dingalinged-cpu.github.io/registry/c/anna-s-custom-tailoring-milwaukee/
-6. Tailor Choice | Organic #6 | Pulse Score 58.6/100 (Unrated, #6 in city) | Tailor Choice is a tailor in Milwaukee, WI at 1689 North Humboldt Avenue, Milwaukee, WI 53202. Phone: +14142770866. | https://dingalinged-cpu.github.io/registry/c/tailor-choice-milwaukee/
+6. Tailor Choice | Organic #6 | Pulse Score 58.7/100 (Unrated, #6 in city) | Tailor Choice is a tailor in Milwaukee, WI at 1689 North Humboldt Avenue, Milwaukee, WI 53202. Phone: +14142770866. | https://dingalinged-cpu.github.io/registry/c/tailor-choice-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor milwaukee wi | category: Professional & financial services | industry benchmark: Finance & Insurance

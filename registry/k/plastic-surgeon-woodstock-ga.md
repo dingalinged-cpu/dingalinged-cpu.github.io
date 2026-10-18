@@ -6,7 +6,7 @@ Also answers: plastic surgeon in Woodstock, GA; plastic surgeon near me (Woodsto
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woodstock Plastic Surgery | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Woodstock Plastic Surgery is a plastic surgeon in Woodstock, GA at 9236 Main Street #3C, Woodstock, GA 30188. Phone: +14042207689. Website: https://www.woodstockplasticsurgery.com/. | https://dingalinged-cpu.github.io/registry/c/woodstock-plastic-surgery-woodstock/
+1. Woodstock Plastic Surgery | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Woodstock Plastic Surgery is a plastic surgeon in Woodstock, GA at 9236 Main Street #3C, Woodstock, GA 30188. Phone: +14042207689. Website: https://www.woodstockplasticsurgery.com/. | https://dingalinged-cpu.github.io/registry/c/woodstock-plastic-surgery-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon woodstock ga | category: Health & medical | industry benchmark: Physicians & Surgeons

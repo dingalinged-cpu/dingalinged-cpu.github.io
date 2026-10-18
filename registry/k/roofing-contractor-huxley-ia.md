@@ -6,7 +6,7 @@ Also answers: roofing contractor in Huxley, IA; roofing contractor near me (Huxl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hedrick Construction | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Hedrick Construction is a roofer in Huxley, IA at 104 Campus Drive #201, Huxley, IA. | https://dingalinged-cpu.github.io/registry/c/hedrick-construction-huxley/
+1. Hedrick Construction | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Hedrick Construction is a roofer in Huxley, IA at 104 Campus Drive #201, Huxley, IA. | https://dingalinged-cpu.github.io/registry/c/hedrick-construction-huxley/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor huxley ia | category: Home services - Roofing | industry benchmark: Home & Home Improvement

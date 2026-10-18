@@ -13,7 +13,7 @@ StorageMart is a self-storage facility in Omaha, NE at 9815 Redick Avenue, Omaha
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47/100 — Building — top 66% of self-storage facilitys in Omaha, NE, #12 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 66% of self-storage facilitys in Omaha, NE, #12 of 15 self-storage facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

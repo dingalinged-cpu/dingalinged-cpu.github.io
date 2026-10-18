@@ -13,7 +13,7 @@ The Tile Shop is a flooring company in Cobb County, GA at 162 Barrett Parkway, C
 - Website: https://www.tileshop.com/store-locator/marietta/
 - Email: 048manager@tileshop.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 10:00-17:00
-- Pulse Score: 62.4/100 — Good — top 20% of flooring companys in Atlanta, #2 of 6 flooring companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 68% of flooring companys in Atlanta, #4 of 6 flooring companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

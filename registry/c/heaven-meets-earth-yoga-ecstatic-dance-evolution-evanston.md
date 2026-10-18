@@ -13,7 +13,7 @@ Heaven Meets Earth  YOGA, Ecstatic Dance Evolution is a yoga studio in Evanston,
 - Website: https://www.heavenmeetsearthyoga.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 23% of yoga studios in Chicago, #1 of 1 yoga studios in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 23% of yoga studios in Chicago, #1 of 1 yoga studios in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

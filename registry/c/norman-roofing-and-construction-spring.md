@@ -13,7 +13,7 @@ Norman Roofing and Construction is a roofer in Spring, TX at 3234 Spring Stuebne
 - Website: https://norman.construction/
 - Email: info@norman.construction
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 44% of roofers in Houston, #3 of 3 roofers in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 44% of roofers in Houston, #3 of 3 roofers in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

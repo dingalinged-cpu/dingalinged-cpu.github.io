@@ -13,7 +13,7 @@ Orange Pocket is a gift shop in Harris County, TX at 23015 Colonial Parkway #B20
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 15% of gift shops in Houston, #1 of 9 gift shops in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 15% of gift shops in Houston, #1 of 9 gift shops in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

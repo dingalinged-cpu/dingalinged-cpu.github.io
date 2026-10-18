@@ -13,7 +13,7 @@ Interlachen Barber Shop is a barber shop in Edina, MN.
 - Website: n/a
 - Email: maryleslie.333@gmail.com
 - Opening hours (OSM syntax): "by appointment only"
-- Pulse Score: 62.1/100 — Good — top 17% of barber shops in Minneapolis–St. Paul, #1 of 2 barber shops in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 17% of barber shops in Minneapolis–St. Paul, #1 of 2 barber shops in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

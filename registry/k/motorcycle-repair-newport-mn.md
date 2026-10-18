@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Newport, MN; motorcycle repair near me (Newpo
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Parts Hub | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Parts Hub is a motorcycle repair shop in Newport, MN at 1668 Hastings Avenue, Newport, MN 55055. | https://dingalinged-cpu.github.io/registry/c/parts-hub-newport/
+1. Parts Hub | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Parts Hub is a motorcycle repair shop in Newport, MN at 1668 Hastings Avenue, Newport, MN 55055. | https://dingalinged-cpu.github.io/registry/c/parts-hub-newport/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair newport mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

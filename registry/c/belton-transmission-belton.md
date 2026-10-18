@@ -1,0 +1,24 @@
+Belton Transmission is an auto repair shop in Belton, MO.
+
+# Belton Transmission
+
+- Category: auto repair
+- Services: auto repair, mechanic
+- Address: Belton, MO
+- City: Belton
+- State: MO
+- ZIP: n/a
+- Coordinates: 38.819851, -94.533947
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 43% of auto repair shops in Kansas City, MO, #2 of 5 auto repair shops in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/belton-transmission-belton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/belton-transmission-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/574195323 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -6,9 +6,9 @@ Also answers: thrift store in Bellevue, NE; thrift store near me (Bellevue, NE);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. River City Consignments | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | River City Consignments is a thrift store in Bellevue, NE at 600 72nd St, Bellevue, NE 68114. | https://dingalinged-cpu.github.io/registry/c/river-city-consignments-bellevue/
+1. River City Consignments | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | River City Consignments is a thrift store in Bellevue, NE at 600 72nd St, Bellevue, NE 68114. | https://dingalinged-cpu.github.io/registry/c/river-city-consignments-bellevue/
 2. New Life Thrift | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | New Life Thrift is a thrift store in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/new-life-thrift-bellevue/
-3. Habitat for Humanity ReStore | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | Habitat for Humanity ReStore is a thrift store in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-bellevue/
+3. Habitat for Humanity ReStore | Organic #3 | Pulse Score 45/100 (Building, #3 in city) | Habitat for Humanity ReStore is a thrift store in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-bellevue/
 4. Goodwill | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | Goodwill is a thrift store in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/goodwill-bellevue/
 5. The Salvation Army | Organic #5 | Pulse Score 42.6/100 (Building, #5 in city) | The Salvation Army is a thrift store in Bellevue, NE. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-bellevue/
 

@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.2/100 — Building — top 100% of pilates studios in Houston, #6 of 6 pilates studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 36.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.1/100 — Building — top 100% of pilates studios in Houston, #6 of 6 pilates studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 36.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

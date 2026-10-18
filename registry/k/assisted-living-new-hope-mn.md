@@ -6,7 +6,7 @@ Also answers: assisted living in New Hope, MN; assisted living near me (New Hope
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woodlake at New Hope | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Woodlake at New Hope is an assisted living facility in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/woodlake-at-new-hope-new-hope/
+1. Woodlake at New Hope | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Woodlake at New Hope is an assisted living facility in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/woodlake-at-new-hope-new-hope/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living new hope mn | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

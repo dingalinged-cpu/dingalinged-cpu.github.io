@@ -13,7 +13,7 @@ Goodyear is an auto repair shop in Madison, WI at 608 East Washington Avenue, Ma
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.3/100 — Building — top 76% of auto repair shops in Madison, #41 of 59 auto repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 52.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 76% of auto repair shops in Madison, #41 of 59 auto repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

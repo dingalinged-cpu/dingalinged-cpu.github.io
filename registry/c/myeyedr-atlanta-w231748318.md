@@ -13,7 +13,7 @@ MyEyeDr. is an eye care practice in Atlanta, GA at 2549 Piedmont Road NE #120, A
 - Website: https://www.myeyedr.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 87% of eye care practices in Atlanta, #3 of 3 eye care practices in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 87% of eye care practices in Atlanta, #3 of 3 eye care practices in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

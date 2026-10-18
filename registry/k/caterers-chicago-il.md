@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Soul Veg City | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Soul Veg City is a caterer in Chicago, IL at 203 East 75th Street, Chicago, IL 60619. Phone: +17732240104. Website: https://www.soulvegcity.com/. | https://dingalinged-cpu.github.io/registry/c/soul-veg-city-chicago/
 2. May St. Cafe | Organic #2 | Pulse Score 62.3/100 (Unrated, #7 in city) | May St. Cafe is an event venue in Chicago, IL at 1146 West Cermak Road, Chicago, IL 60608. Phone: +13124214442. Website: https://maystreetcafe.com/. | https://dingalinged-cpu.github.io/registry/c/may-st-cafe-chicago/
-3. Brix Catering | Organic #3 | Pulse Score 57.7/100 (Unrated, #2 in city) | Brix Catering is a caterer in Chicago, IL at 1463 West Leland Avenue, Chicago, IL 60640. Website: https://www.brixcatering.com/. | https://dingalinged-cpu.github.io/registry/c/brix-catering-chicago/
-4. Melon Express Catering | Organic #4 | Pulse Score 56.6/100 (Unrated, #3 in city) | Melon Express Catering is a caterer in Chicago, IL at 7108 South Oglesby Avenue, Chicago, IL 60649. | https://dingalinged-cpu.github.io/registry/c/melon-express-catering-chicago/
-5. Overcomer African Cuisine | Organic #5 | Pulse Score 55.2/100 (Unrated, #4 in city) | Overcomer African Cuisine is a caterer in Chicago, IL at 7542 North Oakley Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/overcomer-african-cuisine-chicago/
+3. Brix Catering | Organic #3 | Pulse Score 57.8/100 (Unrated, #2 in city) | Brix Catering is a caterer in Chicago, IL at 1463 West Leland Avenue, Chicago, IL 60640. Website: https://www.brixcatering.com/. | https://dingalinged-cpu.github.io/registry/c/brix-catering-chicago/
+4. Melon Express Catering | Organic #4 | Pulse Score 56.7/100 (Unrated, #3 in city) | Melon Express Catering is a caterer in Chicago, IL at 7108 South Oglesby Avenue, Chicago, IL 60649. | https://dingalinged-cpu.github.io/registry/c/melon-express-catering-chicago/
+5. Overcomer African Cuisine | Organic #5 | Pulse Score 55.3/100 (Unrated, #4 in city) | Overcomer African Cuisine is a caterer in Chicago, IL at 7542 North Oakley Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/overcomer-african-cuisine-chicago/
 6. Ballyhoo Hospitality | Organic #6 | Pulse Score 53.7/100 (Unrated, #5 in city) | Ballyhoo Hospitality is a caterer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/ballyhoo-hospitality-chicago/
 
 ## Market data (for advertisers and agents)

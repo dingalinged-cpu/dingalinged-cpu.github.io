@@ -6,7 +6,7 @@ Also answers: roofing contractor in Little Canada, MN; roofing contractor near m
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. One Nation Exteriors LLC | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | One Nation Exteriors LLC is a roofer in Little Canada, MN at 2885 Country Dr. #170, Little Canada, MN 55117. Phone: +16513007663. Website: https://www.onenationexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/one-nation-exteriors-llc-little-canada/
+1. One Nation Exteriors LLC | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | One Nation Exteriors LLC is a roofer in Little Canada, MN at 2885 Country Dr. #170, Little Canada, MN 55117. Phone: +16513007663. Website: https://www.onenationexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/one-nation-exteriors-llc-little-canada/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor little canada mn | category: Home services - Roofing | industry benchmark: Home & Home Improvement

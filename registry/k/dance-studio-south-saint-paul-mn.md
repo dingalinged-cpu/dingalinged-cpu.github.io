@@ -6,7 +6,7 @@ Also answers: dance studio in South Saint Paul, MN; dance studio near me (South 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. rhythm and shoes | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | rhythm and shoes is a dance studio in South Saint Paul, MN at 1515, South Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/rhythm-and-shoes-south-saint-paul/
+1. rhythm and shoes | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | rhythm and shoes is a dance studio in South Saint Paul, MN at 1515, South Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/rhythm-and-shoes-south-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio south saint paul mn | category: Fitness | industry benchmark: Health & Fitness

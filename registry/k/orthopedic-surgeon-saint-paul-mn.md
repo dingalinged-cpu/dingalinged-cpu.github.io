@@ -6,7 +6,7 @@ Also answers: orthopedic surgeon in Saint Paul, MN; orthopedic surgeon near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HealthPartners Specialty Center 435 Building | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | HealthPartners Specialty Center 435 Building is a podiatrist in Saint Paul, MN at 435 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/435-specialty-center/. | https://dingalinged-cpu.github.io/registry/c/healthpartners-specialty-center-435-building-saint-paul/
+1. HealthPartners Specialty Center 435 Building | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | HealthPartners Specialty Center 435 Building is a podiatrist in Saint Paul, MN at 435 Phalen Boulevard, Saint Paul, MN 55130. Phone: +16512547400. Website: https://www.healthpartners.com/care/find/location/centers/healthpartners/st-paul/435-specialty-center/. | https://dingalinged-cpu.github.io/registry/c/healthpartners-specialty-center-435-building-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon saint paul mn | category: Health & medical | industry benchmark: Physicians & Surgeons

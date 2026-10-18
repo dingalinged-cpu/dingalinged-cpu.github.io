@@ -13,7 +13,7 @@ Glow Green Studios is a business consultant in Atlanta, GA at 8735 Dunwoody Plac
 - Website: https://glowgreenstudios.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Fr 10:00-20:00
-- Pulse Score: 62.6/100 — Good — top 8% of business consultants in Atlanta, #1 of 7 business consultants in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 8% of business consultants in Atlanta, #1 of 7 business consultants in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

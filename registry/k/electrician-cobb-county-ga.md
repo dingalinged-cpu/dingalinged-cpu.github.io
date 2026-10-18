@@ -6,8 +6,8 @@ Also answers: electrician in Cobb County, GA; electrician near me (Cobb County, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mister Sparky | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | Mister Sparky is an electrician in Cobb County, GA at 2064 Canton Road Northeast, Cobb County, GA. Phone: +14049025369. Website: https://www.mistersparky.com/atlanta/. | https://dingalinged-cpu.github.io/registry/c/mister-sparky-cobb-county/
-2. DMCI Electrical Corp. | Organic #2 | Pulse Score 60.3/100 (Good, #2 in city) | DMCI Electrical Corp. is an electrician in Cobb County, GA at 1655 Canton Road Northeast, Cobb County, GA. Phone: +16785177111. Website: https://www.dmcielectric.com/. | https://dingalinged-cpu.github.io/registry/c/dmci-electrical-corp-cobb-county/
+1. Mister Sparky | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Mister Sparky is an electrician in Cobb County, GA at 2064 Canton Road Northeast, Cobb County, GA. Phone: +14049025369. Website: https://www.mistersparky.com/atlanta/. | https://dingalinged-cpu.github.io/registry/c/mister-sparky-cobb-county/
+2. DMCI Electrical Corp. | Organic #2 | Pulse Score 60.4/100 (Good, #2 in city) | DMCI Electrical Corp. is an electrician in Cobb County, GA at 1655 Canton Road Northeast, Cobb County, GA. Phone: +16785177111. Website: https://www.dmcielectric.com/. | https://dingalinged-cpu.github.io/registry/c/dmci-electrical-corp-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician cobb county ga | category: Home services - Electrical | industry benchmark: Home & Home Improvement

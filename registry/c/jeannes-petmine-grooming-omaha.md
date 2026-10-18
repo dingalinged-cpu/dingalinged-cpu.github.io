@@ -13,7 +13,7 @@ Jeanne's Petmine Grooming is a dog groomer in Omaha, NE at 3707 South 67th Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 34% of dog groomers in Omaha, NE, #1 of 5 dog groomers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 34% of dog groomers in Omaha, NE, #1 of 5 dog groomers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

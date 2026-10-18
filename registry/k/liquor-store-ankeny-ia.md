@@ -7,7 +7,7 @@ Also answers: liquor store in Ankeny, IA; liquor store near me (Ankeny, IA); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Liquor Lovers | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Liquor Lovers is a liquor store in Ankeny, IA at 1510 South Ankeny Boulevard #107/108, Ankeny, IA 50023. Phone: +15156558030. | https://dingalinged-cpu.github.io/registry/c/liquor-lovers-ankeny/
-2. Hy-Vee Wine and Spirits | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Hy-Vee Wine and Spirits is a liquor store in Ankeny, IA. | https://dingalinged-cpu.github.io/registry/c/hy-vee-wine-and-spirits-ankeny/
+2. Hy-Vee Wine and Spirits | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Hy-Vee Wine and Spirits is a liquor store in Ankeny, IA. | https://dingalinged-cpu.github.io/registry/c/hy-vee-wine-and-spirits-ankeny/
 3. Spirit Avenue | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Spirit Avenue is a liquor store in Ankeny, IA. | https://dingalinged-cpu.github.io/registry/c/spirit-avenue-ankeny/
 
 ## Market data (for advertisers and agents)

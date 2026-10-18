@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Sonny's Liquor & Cigars | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Sonny's Liquor & Cigars is a liquor store in Katy, TX at 20041 Katy Freeway, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/sonnys-liquor-and-cigars-katy/
 3. Big Bottle Liquor Store | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Big Bottle Liquor Store is a liquor store in Katy, TX at 24020 Clay Road, Katy, TX 77493. | https://dingalinged-cpu.github.io/registry/c/big-bottle-liquor-store-katy/
 4. Katy Wine & Spirits | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Katy Wine & Spirits is a liquor store in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/katy-wine-and-spirits-katy/
-5. Spec's | Organic #5 | Pulse Score 47/100 (Building, #5 in city) | Spec's is a liquor store in Katy, TX at 1743 North Fry Road, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/specs-katy/
+5. Spec's | Organic #5 | Pulse Score 47.1/100 (Building, #5 in city) | Spec's is a liquor store in Katy, TX at 1743 North Fry Road, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/specs-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store katy tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

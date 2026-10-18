@@ -13,7 +13,7 @@ The Forum at Memorial Woods is an assisted living facility in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 78% of assisted living facilitys in Houston, #24 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 38.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.7/100 — Unrated (not enough evidence yet) — top 78% of assisted living facilitys in Houston, #24 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 38.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

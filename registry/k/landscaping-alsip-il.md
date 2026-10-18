@@ -6,7 +6,7 @@ Also answers: landscaping in Alsip, IL; landscaping near me (Alsip, IL); best la
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunnyview Landscaping | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Sunnyview Landscaping is a landscaping company in Alsip, IL at 11154 South Lawler Avenue, Alsip, IL 60803. Phone: +17082641680. Website: https://www.sunnyviewlandscaping.shop/. | https://dingalinged-cpu.github.io/registry/c/sunnyview-landscaping-alsip/
+1. Sunnyview Landscaping | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Sunnyview Landscaping is a landscaping company in Alsip, IL at 11154 South Lawler Avenue, Alsip, IL 60803. Phone: +17082641680. Website: https://www.sunnyviewlandscaping.shop/. | https://dingalinged-cpu.github.io/registry/c/sunnyview-landscaping-alsip/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping alsip il | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

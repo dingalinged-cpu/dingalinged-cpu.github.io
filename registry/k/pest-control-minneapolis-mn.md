@@ -6,7 +6,7 @@ Also answers: pest control in Minneapolis, MN; pest control near me (Minneapolis
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Abra Kadabra Environmental Services | Organic #1 | Pulse Score 55.7/100 (Fair, #1 in city) | Abra Kadabra Environmental Services is a pest control company in Minneapolis, MN. Phone: +17635370330. Website: https://abrakadabraenvironmental.com/. | https://dingalinged-cpu.github.io/registry/c/abra-kadabra-environmental-services-minneapolis/
+1. Abra Kadabra Environmental Services | Organic #1 | Pulse Score 55.5/100 (Fair, #1 in city) | Abra Kadabra Environmental Services is a pest control company in Minneapolis, MN. Phone: +17635370330. Website: https://abrakadabraenvironmental.com/. | https://dingalinged-cpu.github.io/registry/c/abra-kadabra-environmental-services-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: pest control minneapolis mn | category: Home services - Pest control | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Be's Professional Services is an accountant in Duncanville, TX at 1536 South Cla
 - Website: https://www.besprofessionalservices.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 33% of accountants in Dallas–Fort Worth, #1 of 1 accountants in Duncanville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 33% of accountants in Dallas–Fort Worth, #1 of 1 accountants in Duncanville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

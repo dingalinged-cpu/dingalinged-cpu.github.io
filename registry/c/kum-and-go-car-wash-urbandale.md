@@ -13,7 +13,7 @@ Kum & Go Car Wash is a car wash in Urbandale, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 59% of car washes in Des Moines, IA, #5 of 10 car washes in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 40.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 57% of car washes in Des Moines, IA, #4 of 10 car washes in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 40.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

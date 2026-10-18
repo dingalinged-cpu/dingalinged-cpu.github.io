@@ -6,7 +6,7 @@ Also answers: tire shop in Ankeny, IA; tire shop near me (Ankeny, IA); best tire
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | Discount Tire is a tire shop in Ankeny, IA at 902 SE Oralabor Rd, Ankeny, IA 50021. Phone: +15153186753. Website: https://www.discounttire.com/store/ia/ankeny/s/2355?y_source=1_MTAyNjA3NjgxNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D. | https://dingalinged-cpu.github.io/registry/c/discount-tire-ankeny/
+1. Discount Tire | Organic #1 | Pulse Score 49.5/100 (Building, #1 in city) | Discount Tire is a tire shop in Ankeny, IA at 902 SE Oralabor Rd, Ankeny, IA 50021. Phone: +15153186753. Website: https://www.discounttire.com/store/ia/ankeny/s/2355?y_source=1_MTAyNjA3NjgxNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D. | https://dingalinged-cpu.github.io/registry/c/discount-tire-ankeny/
 2. Big O Tires | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Big O Tires is a tire shop in Ankeny, IA at 2605 Southeast Delaware Avenue, Ankeny, IA 50021. Website: https://www.bigotires.com/. | https://dingalinged-cpu.github.io/registry/c/big-o-tires-ankeny/
 3. Tires Plus | Organic #3 | Pulse Score 41.5/100 (Building, #3 in city) | Tires Plus is a tire shop in Ankeny, IA. | https://dingalinged-cpu.github.io/registry/c/tires-plus-ankeny/
 

@@ -13,7 +13,7 @@ Celebrity Ballroom Dance Studios is a dance studio in Cobb County, GA at 2727 Ca
 - Website: https://www.celebrityballroomdance.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:30-21:00; Fr 10:30-21:00
-- Pulse Score: 63.1/100 — Good — top 10% of dance studios in Atlanta, #2 of 9 dance studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 10% of dance studios in Atlanta, #2 of 9 dance studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

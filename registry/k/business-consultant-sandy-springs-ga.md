@@ -6,7 +6,7 @@ Also answers: business consultant in Sandy Springs, GA; business consultant near
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Glow Green Studios | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Glow Green Studios is a business consultant in Atlanta, GA at 8735 Dunwoody Place #12002, Atlanta, GA 30350. Phone: +16783228468. Website: https://glowgreenstudios.com/. | https://dingalinged-cpu.github.io/registry/c/glow-green-studios-atlanta/
+1. Glow Green Studios | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Glow Green Studios is a business consultant in Atlanta, GA at 8735 Dunwoody Place #12002, Atlanta, GA 30350. Phone: +16783228468. Website: https://glowgreenstudios.com/. | https://dingalinged-cpu.github.io/registry/c/glow-green-studios-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant sandy springs ga | category: b2b_services | industry benchmark: Business Services

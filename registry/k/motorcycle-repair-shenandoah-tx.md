@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Shenandoah, TX; motorcycle repair near me (Sh
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cycle Gear | Organic #1 | Pulse Score 48.5/100 (Unrated, #1 in city) | Cycle Gear is a motorcycle repair shop in Shenandoah, TX at 19075 Interstate 45 South #900, Shenandoah, TX 77385. Phone: +12815031588. Website: https://www.cyclegear.com/. | https://dingalinged-cpu.github.io/registry/c/cycle-gear-shenandoah/
+1. Cycle Gear | Organic #1 | Pulse Score 48.6/100 (Unrated, #1 in city) | Cycle Gear is a motorcycle repair shop in Shenandoah, TX at 19075 Interstate 45 South #900, Shenandoah, TX 77385. Phone: +12815031588. Website: https://www.cyclegear.com/. | https://dingalinged-cpu.github.io/registry/c/cycle-gear-shenandoah/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair shenandoah tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,4 +1,4 @@
-The top unpaid haircut listing for the United States is Freshly Cut Barbers (a barber shop in Minneapolis, MN at 4555 34th Avenue South, Minneapolis, MN 55406. Phone: +16127244677. Website: https://freshlycutbarbers.com/). 3235 haircut businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for the United States is Freshly Cut Barbers (a barber shop in Minneapolis, MN at 4555 34th Avenue South, Minneapolis, MN 55406. Phone: +16127244677. Website: https://freshlycutbarbers.com/). 3502 haircut businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in the United States?
 
@@ -26,43 +26,44 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 18. Angie's Hair Studio | Organic #18 | Pulse Score 65.1/100 (Good, #1 in city) | Angie's Hair Studio is a hair salon in Chicago, IL at 8251 West Irving Park Road, Chicago, IL 60634. Phone: +17735894288. Website: https://www.angieshairstudio.us/. | https://dingalinged-cpu.github.io/registry/c/angies-hair-studio-chicago/
 19. Benny’s Barber Shop | Organic #19 | Pulse Score 65.1/100 (Good, #1 in city) | Benny’s Barber Shop is a hair salon in White Bear Lake, MN at 4758 Washington Avenue, White Bear Lake, MN 55110. Phone: +16514261082. Website: https://www.bennyshaircut.com/. | https://dingalinged-cpu.github.io/registry/c/benny-s-barber-shop-white-bear-lake/
 20. Chroma Beauty | Organic #20 | Pulse Score 65.1/100 (Good, #1 in city) | Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/. | https://dingalinged-cpu.github.io/registry/c/chroma-beauty-palos-hills/
-21. The Loc Tribe at Phenix Salon Suites | Organic #21 | Pulse Score 65.1/100 (Good, #1 in city) | The Loc Tribe at Phenix Salon Suites is a hair salon in Arlington, TX at 536 West Randol Mill Road #150, Arlington, TX 76011. Phone: +13373546614. Website: https://www.theloctribe.org/. | https://dingalinged-cpu.github.io/registry/c/the-loc-tribe-at-phenix-salon-suites-arlington/
-22. Wolfin Barber Shop | Organic #22 | Pulse Score 65.1/100 (Good, #1 in city) | Wolfin Barber Shop is a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/wolfin-barber-shop-flower-mound/
-23. Yumi Nguyen Beauty | Organic #23 | Pulse Score 65.1/100 (Good, #2 in city) | Yumi Nguyen Beauty is a hair salon in Katy, TX at 1227 Grand Boulevard West #B206, Katy, TX 77449. Phone: +18503324354. Website: https://yumi-hair.square.site/. | https://dingalinged-cpu.github.io/registry/c/yumi-nguyen-beauty-katy/
-24. BarberNation Barber Shop | Organic #24 | Pulse Score 65/100 (Good, #2 in city) | BarberNation Barber Shop is a hair salon in Cobb County, GA at 3595 Canton Road #322, Cobb County, GA. Phone: +16784082620. Website: https://www.vagaro.com/barbernationbarbershop. | https://dingalinged-cpu.github.io/registry/c/barbernation-barber-shop-cobb-county/
-25. Glitter & Geeks Salon | Organic #25 | Pulse Score 65/100 (Good, #3 in city) | Glitter & Geeks Salon is a hair salon in Cobb County, GA at 2615 Canton Road, Cobb County, GA. Phone: +14042680186. Website: https://glitterandgeeks.glossgenius.com/. | https://dingalinged-cpu.github.io/registry/c/glitter-and-geeks-salon-cobb-county/
-26. Blissful Beauty HTX | Organic #26 | Pulse Score 65/100 (Good, #2 in city) | Blissful Beauty HTX is a hair salon in Houston, TX at 3100 Richmond Avenue #103-1, Houston, TX 77098. Phone: +17133771330. Website: https://blissfulbeauty-htx.square.site/. | https://dingalinged-cpu.github.io/registry/c/blissful-beauty-htx-houston/
-27. Born Cutterz Barbershop | Organic #27 | Pulse Score 65/100 (Good, #1 in city) | Born Cutterz Barbershop is a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/. | https://dingalinged-cpu.github.io/registry/c/born-cutterz-barbershop-humble/
-28. Curl Revolution Salon | Organic #28 | Pulse Score 65/100 (Good, #1 in city) | Curl Revolution Salon is a hair salon in Frisco, TX at 9200 Lebanon Road #40-241, Frisco, TX 75035. Phone: +12147075554. Website: https://curlrevolution.com/. | https://dingalinged-cpu.github.io/registry/c/curl-revolution-salon-frisco/
-29. Extravagant Techniques | Organic #29 | Pulse Score 65/100 (Good, #1 in city) | Extravagant Techniques is a hair salon in Rockwall, TX at 1901 South Goliad Street #3, Rockwall, TX 75087. Phone: +19727226887. Website: https://etbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/extravagant-techniques-rockwall/
-30. Glynnis Neal at Pura Vida Salon | Organic #30 | Pulse Score 65/100 (Good, #2 in city) | Glynnis Neal at Pura Vida Salon is a hair salon in Dallas, TX at 3324 McKinney Avenue #180, Dallas, TX 75204. Phone: +12143788889. Website: https://glynnis-neal-in-dallas.square.site/. | https://dingalinged-cpu.github.io/registry/c/glynnis-neal-at-pura-vida-salon-dallas/
-31. Lace Me by J Lacy | Organic #31 | Pulse Score 65/100 (Good, #3 in city) | Lace Me by J Lacy is a hair salon in Dallas, TX at 9100 North Central Expressway #190, Dallas, TX 75231. Phone: +12146132903. Website: https://www.salonlaceme.com/. | https://dingalinged-cpu.github.io/registry/c/lace-me-by-j-lacy-dallas/
-32. Gino's Classic Barbers | Organic #32 | Pulse Score 64.9/100 (Good, #1 in city) | Gino's Classic Barbers is a barber shop in Atlanta, GA at 1170 Crescent Avenue Northeast #P2, Atlanta, GA 30309. Phone: +16788200070. Website: https://www.ginosclassicbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/ginos-classic-barbers-atlanta/
-33. Intrigue Salon | Organic #33 | Pulse Score 64.9/100 (Good, #3 in city) | Intrigue Salon is a hair salon in Marietta, GA at 1314 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709773696. Website: https://intriguesalon.com/. | https://dingalinged-cpu.github.io/registry/c/intrigue-salon-marietta/
-34. Caviar Hair Studio | Organic #34 | Pulse Score 64.9/100 (Good, #3 in city) | Caviar Hair Studio is a hair salon in Atlanta, GA at 1 Moreland Avenue Southeast #B, Atlanta, GA. Phone: +14045002687. Website: https://caviarhairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/caviar-hair-studio-atlanta/
-35. The B Stands for Hair | Organic #35 | Pulse Score 64.9/100 (Good, #4 in city) | The B Stands for Hair is a hair salon in Atlanta, GA at 1700 Peachtree Street Northeast, Atlanta, GA 30303. Phone: +17085735630. Website: https://tbsfh.square.site/. | https://dingalinged-cpu.github.io/registry/c/the-b-stands-for-hair-atlanta/
-36. Chris Nelson Hair - Le Blanc Salon Studios | Organic #36 | Pulse Score 64.8/100 (Good, #1 in city) | Chris Nelson Hair - Le Blanc Salon Studios is a hair salon in Omaha, NE at 2820 South 123rd Court #307, Omaha, NE 68144. Phone: +14022499065. Website: https://leblancsalons.com/. | https://dingalinged-cpu.github.io/registry/c/chris-nelson-hair-le-blanc-salon-studios-omaha/
-37. Debonair Grooming Club | Organic #37 | Pulse Score 64.8/100 (Good, #1 in city) | Debonair Grooming Club is a barber shop in Plano, TX at 3131 Custer Road #193, Plano, TX 75075. Phone: +12149919940. Website: https://debonairgroomingclub.square.site/. | https://dingalinged-cpu.github.io/registry/c/debonair-grooming-club-plano/
-38. Off The Top | Organic #38 | Pulse Score 64.8/100 (Good, #1 in city) | Off The Top is a barber shop in Webster, TX at 578 El Dorado Boulevard, Webster, TX 77598. Phone: +12819546101. Website: https://www.off-the-top-barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/off-the-top-webster/
-39. Area 4 Salon | Organic #39 | Pulse Score 64.7/100 (Good, #5 in city) | Area 4 Salon is a hair salon in Atlanta, GA at 1536 Piedmont Road Northeast #E, Atlanta, GA. Phone: +16787053572. Website: https://www.area4hairsalon.net/. | https://dingalinged-cpu.github.io/registry/c/area-4-salon-atlanta/
-40. Coil and Bloom at Image Studios | Organic #40 | Pulse Score 64.6/100 (Good, #2 in city) | Coil and Bloom at Image Studios is a hair salon in Chicago, IL at 460 West Chicago Avenue #135, Chicago, IL 60654. Phone: +12246318979. Website: https://coilandbloom.com/. | https://dingalinged-cpu.github.io/registry/c/coil-and-bloom-at-image-studios-chicago/
-41. G4 Studio Barber | Organic #41 | Pulse Score 64.6/100 (Good, #1 in city) | G4 Studio Barber is a barber shop in Houston, TX at 10301 Northwest Freeway #307, Houston, TX 77092. Phone: +13463228428. Website: https://www.g4studiobarber.com/. | https://dingalinged-cpu.github.io/registry/c/g4-studio-barber-houston/
-42. Hair Project Salon | Organic #42 | Pulse Score 64.6/100 (Good, #3 in city) | Hair Project Salon is a hair salon in Houston, TX at 2795 Katy Freeway Frontage Road #250, Houston, TX 77007. Phone: +18324723388. Website: https://hairprojectsalon.com/. | https://dingalinged-cpu.github.io/registry/c/hair-project-salon-houston/
-43. Oliver+james | Organic #43 | Pulse Score 64.6/100 (Good, #2 in city) | Oliver+james is a hair salon in Des Moines, IA at 1417 Walnut Street #Suite C, Des Moines, IA 50309. Phone: +15152826495. Website: https://www.oliverjamessalon.com/. | https://dingalinged-cpu.github.io/registry/c/oliver-james-des-moines/
-44. Select Barbers | Organic #44 | Pulse Score 64.6/100 (Good, #1 in city) | Select Barbers is a barber shop in Frisco, TX at 2693 Preston Road #37, Frisco, TX 75034. Phone: +12142476182. Website: https://www.selectbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/select-barbers-frisco/
-45. Northbrook Barber Shop | Organic #45 | Pulse Score 64.6/100 (Good, #1 in city) | Northbrook Barber Shop is a hair salon in Northbrook, IL at 1519 Shermer Road, Northbrook, IL 60062. Phone: +18472723880. Website: https://www.northbrookbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/northbrook-barber-shop-northbrook/
-46. Bob's Barber Shop | Organic #46 | Pulse Score 64.5/100 (Good, #2 in city) | Bob's Barber Shop is a hair salon in Milwaukee, WI. Phone: +14142883924. Website: https://www.facebook.com/pg/marquettebobsbarbershop/. | https://dingalinged-cpu.github.io/registry/c/bobs-barber-shop-milwaukee/
-47. Bink Suites Frisco | Organic #47 | Pulse Score 64.5/100 (Good, #2 in city) | Bink Suites Frisco is a barber shop in Frisco, TX at 4740 Eldorado Parkway #244, Frisco, TX 75035. Phone: +12145644930. Website: https://binkfrisco.com/. | https://dingalinged-cpu.github.io/registry/c/bink-suites-frisco-frisco/
-48. Loty Beauty Retreat | Organic #48 | Pulse Score 64.5/100 (Good, #1 in city) | Loty Beauty Retreat is a hair salon in Sugar Land, TX at 3356 State Highway 6 South, Sugar Land, TX 77478. Phone: +12813025539. Website: https://www.lotybeautyretreat.com/. | https://dingalinged-cpu.github.io/registry/c/loty-beauty-retreat-sugar-land/
-49. Bob Steele Salon | Organic #49 | Pulse Score 64.4/100 (Good, #4 in city) | Bob Steele Salon is a hair salon in Cobb County, GA at 2960 Shallowford Road Northeast, Cobb County, GA. Phone: +14043902757. Website: https://www.bobsteele.com/eastcobbstylists. | https://dingalinged-cpu.github.io/registry/c/bob-steele-salon-cobb-county/
-50. Grayscale Barbershop | Organic #50 | Pulse Score 64.4/100 (Good, #1 in city) | Grayscale Barbershop is a barber shop in Katy, TX at 19909 Morton Road #800, Katy, TX 77449. Phone: +18329744986. Website: https://grayscalebarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/grayscale-barbershop-katy/
+21. Glynnis Neal at Pura Vida Salon | Organic #21 | Pulse Score 65.1/100 (Good, #2 in city) | Glynnis Neal at Pura Vida Salon is a hair salon in Dallas, TX at 3324 McKinney Avenue #180, Dallas, TX 75204. Phone: +12143788889. Website: https://glynnis-neal-in-dallas.square.site/. | https://dingalinged-cpu.github.io/registry/c/glynnis-neal-at-pura-vida-salon-dallas/
+22. Style Me Up Hair Salon | Organic #22 | Pulse Score 65.1/100 (Good, #1 in city) | Style Me Up Hair Salon is a hair salon in Overland Park, KS at 6917 West 135th Street #B-33 Ste 201, Overland Park, KS 66223. Phone: +19139333410. Website: https://stylemeuphair.salon/. | https://dingalinged-cpu.github.io/registry/c/style-me-up-hair-salon-overland-park/
+23. The Loc Tribe at Phenix Salon Suites | Organic #23 | Pulse Score 65.1/100 (Good, #1 in city) | The Loc Tribe at Phenix Salon Suites is a hair salon in Arlington, TX at 536 West Randol Mill Road #150, Arlington, TX 76011. Phone: +13373546614. Website: https://www.theloctribe.org/. | https://dingalinged-cpu.github.io/registry/c/the-loc-tribe-at-phenix-salon-suites-arlington/
+24. Wolfin Barber Shop | Organic #24 | Pulse Score 65.1/100 (Good, #1 in city) | Wolfin Barber Shop is a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/wolfin-barber-shop-flower-mound/
+25. Yumi Nguyen Beauty | Organic #25 | Pulse Score 65.1/100 (Good, #2 in city) | Yumi Nguyen Beauty is a hair salon in Katy, TX at 1227 Grand Boulevard West #B206, Katy, TX 77449. Phone: +18503324354. Website: https://yumi-hair.square.site/. | https://dingalinged-cpu.github.io/registry/c/yumi-nguyen-beauty-katy/
+26. Good Times Barbershop | Organic #26 | Pulse Score 65/100 (Good, #1 in city) | Good Times Barbershop is a barber shop in Kearney, MO at 117 East Washington Street, Kearney, MO 64060. Phone: +18168731509. Website: https://goodtimesbarbershop466.resurva.com/. | https://dingalinged-cpu.github.io/registry/c/good-times-barbershop-kearney/
+27. BarberNation Barber Shop | Organic #27 | Pulse Score 65/100 (Good, #2 in city) | BarberNation Barber Shop is a hair salon in Cobb County, GA at 3595 Canton Road #322, Cobb County, GA. Phone: +16784082620. Website: https://www.vagaro.com/barbernationbarbershop. | https://dingalinged-cpu.github.io/registry/c/barbernation-barber-shop-cobb-county/
+28. Glitter & Geeks Salon | Organic #28 | Pulse Score 65/100 (Good, #3 in city) | Glitter & Geeks Salon is a hair salon in Cobb County, GA at 2615 Canton Road, Cobb County, GA. Phone: +14042680186. Website: https://glitterandgeeks.glossgenius.com/. | https://dingalinged-cpu.github.io/registry/c/glitter-and-geeks-salon-cobb-county/
+29. Blissful Beauty HTX | Organic #29 | Pulse Score 65/100 (Good, #2 in city) | Blissful Beauty HTX is a hair salon in Houston, TX at 3100 Richmond Avenue #103-1, Houston, TX 77098. Phone: +17133771330. Website: https://blissfulbeauty-htx.square.site/. | https://dingalinged-cpu.github.io/registry/c/blissful-beauty-htx-houston/
+30. Born Cutterz Barbershop | Organic #30 | Pulse Score 65/100 (Good, #1 in city) | Born Cutterz Barbershop is a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/. | https://dingalinged-cpu.github.io/registry/c/born-cutterz-barbershop-humble/
+31. Curl Revolution Salon | Organic #31 | Pulse Score 65/100 (Good, #1 in city) | Curl Revolution Salon is a hair salon in Frisco, TX at 9200 Lebanon Road #40-241, Frisco, TX 75035. Phone: +12147075554. Website: https://curlrevolution.com/. | https://dingalinged-cpu.github.io/registry/c/curl-revolution-salon-frisco/
+32. Extravagant Techniques | Organic #32 | Pulse Score 65/100 (Good, #1 in city) | Extravagant Techniques is a hair salon in Rockwall, TX at 1901 South Goliad Street #3, Rockwall, TX 75087. Phone: +19727226887. Website: https://etbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/extravagant-techniques-rockwall/
+33. Lace Me by J Lacy | Organic #33 | Pulse Score 65/100 (Good, #3 in city) | Lace Me by J Lacy is a hair salon in Dallas, TX at 9100 North Central Expressway #190, Dallas, TX 75231. Phone: +12146132903. Website: https://www.salonlaceme.com/. | https://dingalinged-cpu.github.io/registry/c/lace-me-by-j-lacy-dallas/
+34. Gino's Classic Barbers | Organic #34 | Pulse Score 64.9/100 (Good, #1 in city) | Gino's Classic Barbers is a barber shop in Atlanta, GA at 1170 Crescent Avenue Northeast #P2, Atlanta, GA 30309. Phone: +16788200070. Website: https://www.ginosclassicbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/ginos-classic-barbers-atlanta/
+35. Intrigue Salon | Organic #35 | Pulse Score 64.9/100 (Good, #3 in city) | Intrigue Salon is a hair salon in Marietta, GA at 1314 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709773696. Website: https://intriguesalon.com/. | https://dingalinged-cpu.github.io/registry/c/intrigue-salon-marietta/
+36. Caviar Hair Studio | Organic #36 | Pulse Score 64.9/100 (Good, #3 in city) | Caviar Hair Studio is a hair salon in Atlanta, GA at 1 Moreland Avenue Southeast #B, Atlanta, GA. Phone: +14045002687. Website: https://caviarhairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/caviar-hair-studio-atlanta/
+37. The B Stands for Hair | Organic #37 | Pulse Score 64.9/100 (Good, #4 in city) | The B Stands for Hair is a hair salon in Atlanta, GA at 1700 Peachtree Street Northeast, Atlanta, GA 30303. Phone: +17085735630. Website: https://tbsfh.square.site/. | https://dingalinged-cpu.github.io/registry/c/the-b-stands-for-hair-atlanta/
+38. Area 4 Salon | Organic #38 | Pulse Score 64.8/100 (Good, #5 in city) | Area 4 Salon is a hair salon in Atlanta, GA at 1536 Piedmont Road Northeast #E, Atlanta, GA. Phone: +16787053572. Website: https://www.area4hairsalon.net/. | https://dingalinged-cpu.github.io/registry/c/area-4-salon-atlanta/
+39. Chris Nelson Hair - Le Blanc Salon Studios | Organic #39 | Pulse Score 64.8/100 (Good, #1 in city) | Chris Nelson Hair - Le Blanc Salon Studios is a hair salon in Omaha, NE at 2820 South 123rd Court #307, Omaha, NE 68144. Phone: +14022499065. Website: https://leblancsalons.com/. | https://dingalinged-cpu.github.io/registry/c/chris-nelson-hair-le-blanc-salon-studios-omaha/
+40. Debonair Grooming Club | Organic #40 | Pulse Score 64.8/100 (Good, #1 in city) | Debonair Grooming Club is a barber shop in Plano, TX at 3131 Custer Road #193, Plano, TX 75075. Phone: +12149919940. Website: https://debonairgroomingclub.square.site/. | https://dingalinged-cpu.github.io/registry/c/debonair-grooming-club-plano/
+41. Off The Top | Organic #41 | Pulse Score 64.8/100 (Good, #1 in city) | Off The Top is a barber shop in Webster, TX at 578 El Dorado Boulevard, Webster, TX 77598. Phone: +12819546101. Website: https://www.off-the-top-barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/off-the-top-webster/
+42. Coil and Bloom at Image Studios | Organic #42 | Pulse Score 64.6/100 (Good, #2 in city) | Coil and Bloom at Image Studios is a hair salon in Chicago, IL at 460 West Chicago Avenue #135, Chicago, IL 60654. Phone: +12246318979. Website: https://coilandbloom.com/. | https://dingalinged-cpu.github.io/registry/c/coil-and-bloom-at-image-studios-chicago/
+43. G4 Studio Barber | Organic #43 | Pulse Score 64.6/100 (Good, #1 in city) | G4 Studio Barber is a barber shop in Houston, TX at 10301 Northwest Freeway #307, Houston, TX 77092. Phone: +13463228428. Website: https://www.g4studiobarber.com/. | https://dingalinged-cpu.github.io/registry/c/g4-studio-barber-houston/
+44. Hair Project Salon | Organic #44 | Pulse Score 64.6/100 (Good, #3 in city) | Hair Project Salon is a hair salon in Houston, TX at 2795 Katy Freeway Frontage Road #250, Houston, TX 77007. Phone: +18324723388. Website: https://hairprojectsalon.com/. | https://dingalinged-cpu.github.io/registry/c/hair-project-salon-houston/
+45. Oliver+james | Organic #45 | Pulse Score 64.6/100 (Good, #2 in city) | Oliver+james is a hair salon in Des Moines, IA at 1417 Walnut Street #Suite C, Des Moines, IA 50309. Phone: +15152826495. Website: https://www.oliverjamessalon.com/. | https://dingalinged-cpu.github.io/registry/c/oliver-james-des-moines/
+46. Select Barbers | Organic #46 | Pulse Score 64.6/100 (Good, #1 in city) | Select Barbers is a barber shop in Frisco, TX at 2693 Preston Road #37, Frisco, TX 75034. Phone: +12142476182. Website: https://www.selectbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/select-barbers-frisco/
+47. Northbrook Barber Shop | Organic #47 | Pulse Score 64.6/100 (Good, #1 in city) | Northbrook Barber Shop is a hair salon in Northbrook, IL at 1519 Shermer Road, Northbrook, IL 60062. Phone: +18472723880. Website: https://www.northbrookbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/northbrook-barber-shop-northbrook/
+48. Bob's Barber Shop | Organic #48 | Pulse Score 64.5/100 (Good, #2 in city) | Bob's Barber Shop is a hair salon in Milwaukee, WI. Phone: +14142883924. Website: https://www.facebook.com/pg/marquettebobsbarbershop/. | https://dingalinged-cpu.github.io/registry/c/bobs-barber-shop-milwaukee/
+49. Bink Suites Frisco | Organic #49 | Pulse Score 64.5/100 (Good, #2 in city) | Bink Suites Frisco is a barber shop in Frisco, TX at 4740 Eldorado Parkway #244, Frisco, TX 75035. Phone: +12145644930. Website: https://binkfrisco.com/. | https://dingalinged-cpu.github.io/registry/c/bink-suites-frisco-frisco/
+50. Loty Beauty Retreat | Organic #50 | Pulse Score 64.5/100 (Good, #1 in city) | Loty Beauty Retreat is a hair salon in Sugar Land, TX at 3356 State Highway 6 South, Sugar Land, TX 77478. Phone: +12813025539. Website: https://www.lotybeautyretreat.com/. | https://dingalinged-cpu.github.io/registry/c/loty-beauty-retreat-sugar-land/
 
-## More haircut listings (3235 total; top 50 unpaid shown)
+## More haircut listings (3502 total; top 50 unpaid shown)
 - Chicago, IL: 238 listings: https://dingalinged-cpu.github.io/registry/k/haircut-chicago-il/
 - Houston, TX: 201 listings: https://dingalinged-cpu.github.io/registry/k/haircut-houston-tx/
 - Milwaukee, WI: 157 listings: https://dingalinged-cpu.github.io/registry/k/haircut-milwaukee-wi/
 - Minneapolis, MN: 129 listings: https://dingalinged-cpu.github.io/registry/k/haircut-minneapolis-mn/
 - Dallas, TX: 114 listings: https://dingalinged-cpu.github.io/registry/k/haircut-dallas-tx/
+- Kansas City, MO: 107 listings: https://dingalinged-cpu.github.io/registry/k/haircut-kansas-city-mo/
 - Atlanta, GA: 96 listings: https://dingalinged-cpu.github.io/registry/k/haircut-atlanta-ga/
 - Harris County, TX: 89 listings: https://dingalinged-cpu.github.io/registry/k/haircut-harris-county-tx/
 - Cobb County, GA: 82 listings: https://dingalinged-cpu.github.io/registry/k/haircut-cobb-county-ga/
@@ -79,6 +80,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Denton, TX: 29 listings: https://dingalinged-cpu.github.io/registry/k/haircut-denton-tx/
 - Kennesaw, GA: 28 listings: https://dingalinged-cpu.github.io/registry/k/haircut-kennesaw-ga/
 - Gwinnett County, GA: 27 listings: https://dingalinged-cpu.github.io/registry/k/haircut-gwinnett-county-ga/
+- Overland Park, KS: 26 listings: https://dingalinged-cpu.github.io/registry/k/haircut-overland-park-ks/
 - Richardson, TX: 25 listings: https://dingalinged-cpu.github.io/registry/k/haircut-richardson-tx/
 - Plano, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/haircut-plano-tx/
 - Carrollton, TX: 24 listings: https://dingalinged-cpu.github.io/registry/k/haircut-carrollton-tx/
@@ -91,6 +93,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - The Woodlands, TX: 19 listings: https://dingalinged-cpu.github.io/registry/k/haircut-the-woodlands-tx/
 - Gary, IN: 18 listings: https://dingalinged-cpu.github.io/registry/k/haircut-gary-in/
 - Katy, TX: 17 listings: https://dingalinged-cpu.github.io/registry/k/haircut-katy-tx/
+- Kansas City, KS: 17 listings: https://dingalinged-cpu.github.io/registry/k/haircut-kansas-city-ks/
 - Wauwatosa, WI: 17 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wauwatosa-wi/
 - Brookfield, IL: 17 listings: https://dingalinged-cpu.github.io/registry/k/haircut-brookfield-il/
 - Mesquite, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mesquite-tx/
@@ -104,6 +107,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Sun Prairie, WI: 13 listings: https://dingalinged-cpu.github.io/registry/k/haircut-sun-prairie-wi/
 - Arlington Heights, IL: 13 listings: https://dingalinged-cpu.github.io/registry/k/haircut-arlington-heights-il/
 - Des Plaines, IL: 13 listings: https://dingalinged-cpu.github.io/registry/k/haircut-des-plaines-il/
+- Independence, MO: 13 listings: https://dingalinged-cpu.github.io/registry/k/haircut-independence-mo/
 - Bellevue, NE: 13 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bellevue-ne/
 - Edina, MN: 12 listings: https://dingalinged-cpu.github.io/registry/k/haircut-edina-mn/
 - Eden Prairie, MN: 12 listings: https://dingalinged-cpu.github.io/registry/k/haircut-eden-prairie-mn/
@@ -112,6 +116,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Dekalb County, GA: 12 listings: https://dingalinged-cpu.github.io/registry/k/haircut-dekalb-county-ga/
 - Rockwall, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/haircut-rockwall-tx/
 - Cedar Hill, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/haircut-cedar-hill-tx/
+- Olathe, KS: 11 listings: https://dingalinged-cpu.github.io/registry/k/haircut-olathe-ks/
 - Council Bluffs, IA: 11 listings: https://dingalinged-cpu.github.io/registry/k/haircut-council-bluffs-ia/
 - Sugar Land, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-sugar-land-tx/
 - Fort Bend County, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/haircut-fort-bend-county-tx/
@@ -131,6 +136,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Niles, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-niles-il/
 - New Lenox, IL: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-new-lenox-il/
 - Peachtree Corners, GA: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-peachtree-corners-ga/
+- Kearney, MO: 9 listings: https://dingalinged-cpu.github.io/registry/k/haircut-kearney-mo/
 - Richmond, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-richmond-tx/
 - Irving, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-irving-tx/
 - Southlake, TX: 8 listings: https://dingalinged-cpu.github.io/registry/k/haircut-southlake-tx/
@@ -153,6 +159,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Coon Rapids, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-coon-rapids-mn/
 - West Saint Paul, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-west-saint-paul-mn/
 - Plymouth, MN: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-plymouth-mn/
+- Lenexa, KS: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lenexa-ks/
 - Evansville, WI: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-evansville-wi/
 - Wheaton, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-wheaton-il/
 - Orland Hills, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-orland-hills-il/
@@ -162,9 +169,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Douglasville, GA: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-douglasville-ga/
 - Johnston, IA: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-johnston-ia/
 - Clive, IA: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-clive-ia/
+- Belton, MO: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-belton-mo/
+- Lee'S Summit, MO: 7 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lees-summit-mo/
 - Roanoke, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-roanoke-tx/
 - Coppell, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-coppell-tx/
 - Rogers, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-rogers-mn/
+- Leavenworth, KS: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-leavenworth-ks/
+- Shawnee, KS: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-shawnee-ks/
 - West Allis, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-west-allis-wi/
 - Greenfield, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-greenfield-wi/
 - Mount Pleasant, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mount-pleasant-wi/
@@ -177,6 +188,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Westchester, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-westchester-il/
 - Lilburn, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lilburn-ga/
 - Clayton County, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-clayton-county-ga/
+- Blue Springs, MO: 6 listings: https://dingalinged-cpu.github.io/registry/k/haircut-blue-springs-mo/
 - Stafford, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-stafford-tx/
 - Royse City, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-royse-city-tx/
 - Allen, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/haircut-allen-tx/
@@ -231,6 +243,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Acworth, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-acworth-ga/
 - Paulding County, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-paulding-county-ga/
 - Suwanee, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-suwanee-ga/
+- Gladstone, MO: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-gladstone-mo/
+- Liberty, MO: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-liberty-mo/
 - Papillion, NE: 4 listings: https://dingalinged-cpu.github.io/registry/k/haircut-papillion-ne/
 - Pasadena, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-pasadena-tx/
 - Galveston County, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-galveston-county-tx/
@@ -246,6 +260,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Champlin, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-champlin-mn/
 - Chanhassen, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-chanhassen-mn/
 - Richfield, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-richfield-mn/
+- Lansing, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lansing-ks/
+- Leawood, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-leawood-ks/
 - Verona, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-verona-wi/
 - Town Of Norway, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-town-of-norway-wi/
 - Monona, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-monona-wi/
@@ -265,6 +281,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Jonesboro, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-jonesboro-ga/
 - Grimes, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-grimes-ia/
 - Indianola, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-indianola-ia/
+- Weston, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-weston-mo/
+- Riverside, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/haircut-riverside-mo/
 - Sachse, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-sachse-tx/
 - Magnolia, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-magnolia-tx/
 - South Houston, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-south-houston-tx/
@@ -284,6 +302,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Shorewood, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-mn/
 - Inver Grove Heights, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-inver-grove-heights-mn/
 - Shoreview, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-shoreview-mn/
+- De Soto, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-de-soto-ks/
+- Mission, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-mission-ks/
+- Prairie Village, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-prairie-village-ks/
+- Gardner, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-gardner-ks/
+- Merriam, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-merriam-ks/
 - Saint Francis, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-saint-francis-wi/
 - Fox Point, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-fox-point-wi/
 - Shorewood Hills, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-shorewood-hills-wi/
@@ -319,6 +342,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Coweta County, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-coweta-county-ga/
 - Sugar Hill, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-sugar-hill-ga/
 - Glenwood, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-glenwood-ia/
+- Platte City, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-platte-city-mo/
+- Northmoor, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-northmoor-mo/
 - Gretna, NE: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-gretna-ne/
 - La Vista, NE: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-la-vista-ne/
 - Schererville, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/haircut-schererville-in/
@@ -373,6 +398,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Tonka Bay, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-tonka-bay-mn/
 - Excelsior, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-excelsior-mn/
 - Chaska, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-chaska-mn/
+- Roeland Park, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-roeland-park-ks/
+- Grandview, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-grandview-ks/
+- Westwood, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-westwood-ks/
 - Yorkville, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-yorkville-wi/
 - West Milwaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-west-milwaukee-wi/
 - Bayside, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bayside-wi/
@@ -436,6 +464,16 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Huxley, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-huxley-ia/
 - Granger, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-granger-ia/
 - Waukee, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-waukee-ia/
+- Lawson, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-lawson-mo/
+- Parkville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-parkville-mo/
+- Excelsior Springs, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-excelsior-springs-mo/
+- Grain Valley, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-grain-valley-mo/
+- Harrisonville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-harrisonville-mo/
+- Smithville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-smithville-mo/
+- North Kansas City, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-north-kansas-city-mo/
+- Raytown, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-raytown-mo/
+- Grandview, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-grandview-mo/
+- Peculiar, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-peculiar-mo/
 - Bellevue Second Iv Precinct, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-bellevue-second-iv-precinct-ne/
 - Plattsmouth Precinct, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-plattsmouth-precinct-ne/
 - Plattsmouth, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/haircut-plattsmouth-ne/
@@ -452,7 +490,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 3235
+- Registry businesses competing: 3502
 - Equivalent Google Ads cost per month: ~$97,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

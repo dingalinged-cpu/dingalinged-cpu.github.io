@@ -13,7 +13,7 @@ My Little Geniuses is a preschool in Cobb County, GA at 1096 Allgood Road Northe
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Pulse Score: 59.9/100 — Fair — top 24% of preschools in Atlanta, #4 of 12 preschools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Fair — top 24% of preschools in Atlanta, #4 of 12 preschools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

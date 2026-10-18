@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. LeMaster Law Firm | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | LeMaster Law Firm is a lawyer in Tomball, TX at 203 Raymond St., Tomball, TX 77375. Phone: +18323567983. Website: https://www.lemasterlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/lemaster-law-firm-tomball/
 2. The Shepherd Law Firm | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | The Shepherd Law Firm is a lawyer in Tomball, TX at 1302 Rudel Drive, Tomball, TX 77375. Phone: +12813578900. Website: https://shepherdlaw.yolasite.com/. | https://dingalinged-cpu.github.io/registry/c/the-shepherd-law-firm-tomball/
-3. Sammons & Berry P.C. Attorneys At Law | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Sammons & Berry P.C. Attorneys At Law is a lawyer in Tomball, TX. Phone: +18005191440. Website: https://railroadasbestosclaims.com/. | https://dingalinged-cpu.github.io/registry/c/sammons-and-berry-p-c-attorneys-at-law-tomball/
+3. Sammons & Berry P.C. Attorneys At Law | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Sammons & Berry P.C. Attorneys At Law is a lawyer in Tomball, TX. Phone: +18005191440. Website: https://railroadasbestosclaims.com/. | https://dingalinged-cpu.github.io/registry/c/sammons-and-berry-p-c-attorneys-at-law-tomball/
 4. Troup & Bruce | Organic #4 | Pulse Score 53.5/100 (Unrated, #4 in city) | Troup & Bruce is a lawyer in Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/troup-and-bruce-tomball/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ F45 Training is a gym in Chicago, IL at 1730 West Fullerton Avenue #4, Chicago, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 78% of gyms in Chicago, #142 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 78% of gyms in Chicago, #141 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

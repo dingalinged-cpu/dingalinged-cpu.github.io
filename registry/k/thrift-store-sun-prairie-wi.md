@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. The Wire Basket | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | The Wire Basket is a thrift store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/the-wire-basket-sun-prairie/
 2. Saint Vincent de Paul Thrift Store | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Saint Vincent de Paul Thrift Store is a thrift store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-sun-prairie/
-3. Goodwill | Organic #3 | Pulse Score 47/100 (Building, #3 in city) | Goodwill is a thrift store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/goodwill-sun-prairie/
+3. Goodwill | Organic #3 | Pulse Score 47.1/100 (Building, #3 in city) | Goodwill is a thrift store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/goodwill-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store sun prairie wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Community Tire Sales & Service is a tire shop in Milwaukee, WI at 102 West North
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62/100 — Good — top 20% of tire shops in Milwaukee, #3 of 11 tire shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Good — top 20% of tire shops in Milwaukee, #3 of 11 tire shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

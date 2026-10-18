@@ -13,7 +13,7 @@ High Performance Elite is a gym in Cobb County, GA at 2217 Roswell Road #124, Co
 - Website: https://www.highperformanceelite.com/
 - Email: info@hpstsolutions.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.8/100 — Good — top 10% of gyms in Atlanta, #9 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 10% of gyms in Atlanta, #8 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

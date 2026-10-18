@@ -13,7 +13,7 @@ Leos Tattoo is a tattoo shop in Royse City, TX at 509 South Elm Street, Royse Ci
 - Website: https://www.leostattooroysecity.com/
 - Email: Leopittore231@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 15% of tattoo shops in Dallas–Fort Worth, #1 of 1 tattoo shops in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 13% of tattoo shops in Dallas–Fort Worth, #1 of 1 tattoo shops in Royse City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

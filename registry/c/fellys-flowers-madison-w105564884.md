@@ -13,7 +13,7 @@ Felly's Flowers is a florist in Madison, WI at 205 East Broadway, Madison, WI 53
 - Website: https://www.fellys.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 87% of florists in Madison, #7 of 9 florists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Unrated (not enough evidence yet) — top 87% of florists in Madison, #7 of 9 florists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.7, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

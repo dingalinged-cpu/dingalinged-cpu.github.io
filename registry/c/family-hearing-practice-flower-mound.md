@@ -13,7 +13,7 @@ Family Hearing Practice is an audiologist in Flower Mound, TX at 4491 Long Prair
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Fair — top 80% of audiologists in Dallas–Fort Worth, #1 of 1 audiologists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Fair — top 80% of audiologists in Dallas–Fort Worth, #1 of 1 audiologists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 43.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

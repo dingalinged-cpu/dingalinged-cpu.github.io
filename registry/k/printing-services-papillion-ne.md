@@ -7,7 +7,7 @@ Also answers: printing services in Papillion, NE; printing services near me (Pap
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The UPS Store | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | The UPS Store is a printing service in Papillion, NE at 7202 Giles Road #4, Papillion, NE 68046. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-papillion/
-2. FedEx Office | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | FedEx Office is a printing service in Papillion, NE at 11425 South 72nd Street #107, Papillion, NE 68046. | https://dingalinged-cpu.github.io/registry/c/fedex-office-papillion/
+2. FedEx Office | Organic #2 | Pulse Score 41.6/100 (Building, #2 in city) | FedEx Office is a printing service in Papillion, NE at 11425 South 72nd Street #107, Papillion, NE 68046. | https://dingalinged-cpu.github.io/registry/c/fedex-office-papillion/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services papillion ne | category: Professional & financial services | industry benchmark: Finance & Insurance

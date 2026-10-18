@@ -6,7 +6,7 @@ Also answers: roofing contractor in New Brighton, MN; roofing contractor near me
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Apple Exteriors | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Apple Exteriors is a roofer in New Brighton, MN at 151 Silver Lake Road Northwest #111, New Brighton, MN. Phone: +16513627753. Website: https://appleexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/apple-exteriors-new-brighton/
+1. Apple Exteriors | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Apple Exteriors is a roofer in New Brighton, MN at 151 Silver Lake Road Northwest #111, New Brighton, MN. Phone: +16513627753. Website: https://appleexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/apple-exteriors-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor new brighton mn | category: Home services - Roofing | industry benchmark: Home & Home Improvement

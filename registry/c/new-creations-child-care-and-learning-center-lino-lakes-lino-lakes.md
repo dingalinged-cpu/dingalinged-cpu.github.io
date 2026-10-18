@@ -13,7 +13,7 @@ New Creations Child Care & Learning Center | Lino Lakes is a daycare in Lino Lak
 - Website: https://www.newcreationschildcare.com/lino-lakes
 - Email: Marketing@newcreationschildcare.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Pulse Score: 53/100 — Unrated (not enough evidence yet) — top 81% of daycares in Minneapolis–St. Paul, #1 of 1 daycares in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53/100 — Unrated (not enough evidence yet) — top 81% of daycares in Minneapolis–St. Paul, #1 of 1 daycares in Lino Lakes (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

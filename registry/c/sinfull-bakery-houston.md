@@ -13,7 +13,7 @@ Sinfull Bakery is a bakery in Houston, TX at 1714 Webster Street, Houston, TX 77
 - Website: https://www.sinfullbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00; Sa 08:00-16:00; Su 09:00-16:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 16% of bakerys in Houston, #12 of 75 bakerys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 16% of bakerys in Houston, #12 of 75 bakerys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

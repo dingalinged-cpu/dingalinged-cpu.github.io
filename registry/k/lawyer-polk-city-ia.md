@@ -6,7 +6,7 @@ Also answers: lawyer in Polk City, IA; lawyer near me (Polk City, IA); best lawy
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Letsch Law Firm | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Letsch Law Firm is a lawyer in Polk City, IA at 302 West Broadway Street #9, Polk City, IA 50226. Phone: +15159862810. Website: https://www.letschlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/letsch-law-firm-polk-city/
+1. Letsch Law Firm | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Letsch Law Firm is a lawyer in Polk City, IA at 302 West Broadway Street #9, Polk City, IA 50226. Phone: +15159862810. Website: https://www.letschlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/letsch-law-firm-polk-city/
 2. Alan Anderson Law Firm | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Alan Anderson Law Firm is a lawyer in Polk City, IA. | https://dingalinged-cpu.github.io/registry/c/alan-anderson-law-firm-polk-city/
 
 ## Market data (for advertisers and agents)

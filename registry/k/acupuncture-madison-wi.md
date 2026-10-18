@@ -6,8 +6,8 @@ Also answers: acupuncture in Madison, WI; acupuncture near me (Madison, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heartpath Acupuncture Center | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Heartpath Acupuncture Center is an acupuncture clinic in Madison, WI. Phone: +16082807999. Website: https://heartpathacupuncturemadison.com/. | https://dingalinged-cpu.github.io/registry/c/heartpath-acupuncture-center-madison/
-2. Atwood Acupuncture Center | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Atwood Acupuncture Center is an acupuncture clinic in Madison, WI at 111 South 1st Street #170, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/atwood-acupuncture-center-madison/
+1. Heartpath Acupuncture Center | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Heartpath Acupuncture Center is an acupuncture clinic in Madison, WI. Phone: +16082807999. Website: https://heartpathacupuncturemadison.com/. | https://dingalinged-cpu.github.io/registry/c/heartpath-acupuncture-center-madison/
+2. Atwood Acupuncture Center | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Atwood Acupuncture Center is an acupuncture clinic in Madison, WI at 111 South 1st Street #170, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/atwood-acupuncture-center-madison/
 3. Red Sage Health | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Red Sage Health is an acupuncture clinic in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/red-sage-health-madison/
 4. Dr Zhou's Acupuncture Clinic | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Dr Zhou's Acupuncture Clinic is an acupuncture clinic in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/dr-zhous-acupuncture-clinic-madison/
 

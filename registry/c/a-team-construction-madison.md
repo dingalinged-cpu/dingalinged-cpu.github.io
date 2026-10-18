@@ -13,7 +13,7 @@ A-Team Construction is a roofer in Madison, WI. Website: https://ateamunlimited.
 - Website: https://ateamunlimited.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa open "by appointment"; Su closed
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 67% of roofers in Madison, #2 of 3 roofers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 44.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 67% of roofers in Madison, #2 of 3 roofers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 44.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

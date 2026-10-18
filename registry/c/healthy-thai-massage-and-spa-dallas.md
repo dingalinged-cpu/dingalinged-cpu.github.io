@@ -13,7 +13,7 @@ Healthy Thai Massage & Spa is a massage studio in Dallas, TX at 19129 Preston Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-21:00; PH closed
-- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 28% of massage studios in Dallas–Fort Worth, #5 of 33 massage studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 28% of massage studios in Dallas–Fort Worth, #5 of 33 massage studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

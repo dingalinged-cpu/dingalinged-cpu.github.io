@@ -6,7 +6,7 @@ Also answers: urgent care in Burr Ridge, IL; urgent care near me (Burr Ridge, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Loyola Center for Health at Burr Ridge | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Loyola Center for Health at Burr Ridge is an urgent care clinic in Burr Ridge, IL at 6800 North Frontage Road, Burr Ridge, IL 60527. Phone: +18885847888. Website: https://www.loyolamedicine.org/locations/loyola-center-health-burr-ridge. | https://dingalinged-cpu.github.io/registry/c/loyola-center-for-health-at-burr-ridge-burr-ridge/
+1. Loyola Center for Health at Burr Ridge | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Loyola Center for Health at Burr Ridge is an urgent care clinic in Burr Ridge, IL at 6800 North Frontage Road, Burr Ridge, IL 60527. Phone: +18885847888. Website: https://www.loyolamedicine.org/locations/loyola-center-health-burr-ridge. | https://dingalinged-cpu.github.io/registry/c/loyola-center-for-health-at-burr-ridge-burr-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care burr ridge il | category: Health & medical | industry benchmark: Physicians & Surgeons

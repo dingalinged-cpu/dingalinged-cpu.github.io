@@ -13,7 +13,7 @@ CareerForce is a staffing agency in Saint Paul, MN at 540 Fairview Avenue North 
 - Website: https://www.careerforcemn.com/saintpaul
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 21% of staffing agencys in Minneapolis–St. Paul, #1 of 4 staffing agencys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 21% of staffing agencys in Minneapolis–St. Paul, #1 of 4 staffing agencys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

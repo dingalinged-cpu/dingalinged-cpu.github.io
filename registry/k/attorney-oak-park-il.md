@@ -6,7 +6,7 @@ Also answers: attorney in Oak Park, IL; attorney near me (Oak Park, IL); best at
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wakenight & Associates, P.C. | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Wakenight & Associates, P.C. is a lawyer in Oak Park, IL at 1100 Lake Street #120, Oak Park, IL 60301. Phone: +17084809651. Website: https://wakenightdivorceattorney.com/. | https://dingalinged-cpu.github.io/registry/c/wakenight-and-associates-p-c-oak-park/
+1. Wakenight & Associates, P.C. | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Wakenight & Associates, P.C. is a lawyer in Oak Park, IL at 1100 Lake Street #120, Oak Park, IL 60301. Phone: +17084809651. Website: https://wakenightdivorceattorney.com/. | https://dingalinged-cpu.github.io/registry/c/wakenight-and-associates-p-c-oak-park/
 2. Peter Francis Geraci | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Peter Francis Geraci is a lawyer in Oak Park, IL at 7015 West North Avenue, Oak Park, IL 60302. Website: https://www.infotapes.com/. | https://dingalinged-cpu.github.io/registry/c/peter-francis-geraci-oak-park/
 3. Coplan + Crane | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Coplan + Crane is a lawyer in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/coplan-crane-oak-park/
 

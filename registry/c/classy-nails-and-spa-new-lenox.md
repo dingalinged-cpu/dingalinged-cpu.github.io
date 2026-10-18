@@ -13,7 +13,7 @@ Classy Nails & Spa is a nail salon in New Lenox, IL at 645 East Lincoln Highway,
 - Website: https://classynails.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 87% of nail salons in Chicago, #3 of 3 nail salons in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Unrated (not enough evidence yet) — top 86% of nail salons in Chicago, #3 of 3 nail salons in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Kashi City is a gift shop in Plano, TX at 3320 K Avenue #M115, Plano, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 16% of gift shops in Dallas–Fort Worth, #2 of 4 gift shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 16% of gift shops in Dallas–Fort Worth, #2 of 4 gift shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

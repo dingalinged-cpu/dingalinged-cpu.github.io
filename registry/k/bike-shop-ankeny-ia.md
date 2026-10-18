@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Kyle's Bikes | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Kyle's Bikes is a bike shop in Ankeny, IA at 825 East 1st Street, Ankeny, IA 50021. Website: https://www.bikecountry.com/. | https://dingalinged-cpu.github.io/registry/c/kyles-bikes-ankeny-w37481953/
 2. RynoVelo Bike Shop | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | RynoVelo Bike Shop is a bike shop in Ankeny, IA at 604 Southwest 3rd Street, Ankeny, IA 50023. Website: https://www.rynovelo.com/. | https://dingalinged-cpu.github.io/registry/c/rynovelo-bike-shop-ankeny/
-3. Kyle's Bikes | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Kyle's Bikes is a bike shop in Ankeny, IA. | https://dingalinged-cpu.github.io/registry/c/kyles-bikes-ankeny/
+3. Kyle's Bikes | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Kyle's Bikes is a bike shop in Ankeny, IA. | https://dingalinged-cpu.github.io/registry/c/kyles-bikes-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop ankeny ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Merrill Axle and Wheel Services is an auto repair shop in Des Moines, IA at 1403
 - Website: https://merrillaxleandwheel.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.8/100 — Good — top 3% of auto repair shops in Des Moines, IA, #3 of 49 auto repair shops in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 3% of auto repair shops in Des Moines, IA, #3 of 49 auto repair shops in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

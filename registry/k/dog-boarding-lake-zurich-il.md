@@ -6,7 +6,7 @@ Also answers: dog boarding in Lake Zurich, IL; dog boarding near me (Lake Zurich
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oakview Pet Resort | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Oakview Pet Resort is a dog boarding facility in Lake Zurich, IL. Website: https://www.oakviewpetresort.com/. | https://dingalinged-cpu.github.io/registry/c/oakview-pet-resort-lake-zurich/
+1. Oakview Pet Resort | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Oakview Pet Resort is a dog boarding facility in Lake Zurich, IL. Website: https://www.oakviewpetresort.com/. | https://dingalinged-cpu.github.io/registry/c/oakview-pet-resort-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding lake zurich il | category: Pets | industry benchmark: Animals & Pets

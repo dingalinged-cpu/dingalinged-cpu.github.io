@@ -13,7 +13,7 @@ Salons by JC is a skin care studio in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-19:00; Sa 08:00-17:00; PH closed; Mo open "By appointment only"
-- Pulse Score: 43.9/100 — Building — top 87% of skin care studios in Dallas–Fort Worth, #3 of 3 skin care studios in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 43.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 87% of skin care studios in Dallas–Fort Worth, #3 of 3 skin care studios in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 43.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

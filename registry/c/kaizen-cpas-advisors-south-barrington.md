@@ -13,7 +13,7 @@ Kaizen CPAs + Advisors is an accountant in South Barrington, IL at 166 Executive
 - Website: https://www.kaizencpas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 95% of accountants in Chicago, #1 of 1 accountants in South Barrington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.2/100 — Unrated (not enough evidence yet) — top 95% of accountants in Chicago, #1 of 1 accountants in South Barrington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.5, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

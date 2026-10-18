@@ -1,0 +1,24 @@
+Ninja360 Digital Media is a photographer in Gladstone, MO. Phone: +18168259847. Website: https://www.ninja-360.com/.
+
+# Ninja360 Digital Media
+
+- Category: photographer
+- Services: photographer
+- Address: Gladstone, MO
+- City: Gladstone
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.2207833, -94.5416856
+- Phone: +18168259847
+- Website: https://www.ninja-360.com/
+- Email: info@ninja-360.com
+- Opening hours (OSM syntax): Mo-Fr 08:00-17:00
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 29% of photographers in Kansas City, MO, #1 of 1 photographers in Gladstone (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ninja360-digital-media-gladstone/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ninja360-digital-media-gladstone.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/9864668885 (license ODbL-1.0); source data as of 2026-05-31
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

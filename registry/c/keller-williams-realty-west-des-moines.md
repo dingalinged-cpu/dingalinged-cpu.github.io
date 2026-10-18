@@ -13,7 +13,7 @@ Keller Williams Realty is a real estate agency in West Des Moines, IA at 4001 We
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.1/100 — Building — top 82% of real estate agencys in Des Moines, IA, #8 of 8 real estate agencys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 82% of real estate agencys in Des Moines, IA, #8 of 8 real estate agencys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

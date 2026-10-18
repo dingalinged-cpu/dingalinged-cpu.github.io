@@ -13,7 +13,7 @@ Second Glance is a thrift store in North Richland Hills, TX at 6308 Rufe Snow Dr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 00:00-17:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 20% of thrift stores in Dallas–Fort Worth, #1 of 2 thrift stores in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 19% of thrift stores in Dallas–Fort Worth, #1 of 2 thrift stores in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

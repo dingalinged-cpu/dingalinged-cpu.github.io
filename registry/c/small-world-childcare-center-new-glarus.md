@@ -13,7 +13,7 @@ Small World Childcare Center is a daycare in New Glarus, WI at 107 2nd Street, N
 - Website: https://www.smallworldchildcare.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of daycares in Madison, #1 of 1 daycares in New Glarus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 16% of daycares in Madison, #1 of 1 daycares in New Glarus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

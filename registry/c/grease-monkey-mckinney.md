@@ -13,7 +13,7 @@ Grease Monkey is an auto repair shop in McKinney, TX at 7249 South Custer Road, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.9/100 — Building — top 90% of auto repair shops in Dallas–Fort Worth, #22 of 24 auto repair shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 43.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.9/100 — Building — top 89% of auto repair shops in Dallas–Fort Worth, #22 of 24 auto repair shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 43.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

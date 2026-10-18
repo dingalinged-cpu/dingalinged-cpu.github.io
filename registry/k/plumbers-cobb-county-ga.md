@@ -6,9 +6,9 @@ Also answers: plumbers in Cobb County, GA; plumbers near me (Cobb County, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rooter Pro Plumbing | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | Rooter Pro Plumbing is a plumber in Cobb County, GA at 840 Pine Manor Northeast, Cobb County, GA. Phone: +17702992627. Website: https://www.rooterproplumbingga.com/. | https://dingalinged-cpu.github.io/registry/c/rooter-pro-plumbing-cobb-county/
-2. Plumb Doctor | Organic #2 | Pulse Score 60.2/100 (Good, #2 in city) | Plumb Doctor is a plumber in Cobb County, GA at 747 Chance Road, Cobb County, GA. Phone: +17709128922. Website: https://plumbdoctorga.com/. | https://dingalinged-cpu.github.io/registry/c/plumb-doctor-cobb-county/
-3. Superior Plumbing | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Superior Plumbing is a plumber in Cobb County, GA at 3991 Royal Drive Northwest, Cobb County, GA. Phone: +17704227586. Website: https://www.superiorplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/superior-plumbing-cobb-county/
+1. Rooter Pro Plumbing | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | Rooter Pro Plumbing is a plumber in Cobb County, GA at 840 Pine Manor Northeast, Cobb County, GA. Phone: +17702992627. Website: https://www.rooterproplumbingga.com/. | https://dingalinged-cpu.github.io/registry/c/rooter-pro-plumbing-cobb-county/
+2. Plumb Doctor | Organic #2 | Pulse Score 60.3/100 (Good, #2 in city) | Plumb Doctor is a plumber in Cobb County, GA at 747 Chance Road, Cobb County, GA. Phone: +17709128922. Website: https://plumbdoctorga.com/. | https://dingalinged-cpu.github.io/registry/c/plumb-doctor-cobb-county/
+3. Superior Plumbing | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | Superior Plumbing is a plumber in Cobb County, GA at 3991 Royal Drive Northwest, Cobb County, GA. Phone: +17704227586. Website: https://www.superiorplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/superior-plumbing-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers cobb county ga | category: Home Services | industry benchmark: Home & Home Improvement

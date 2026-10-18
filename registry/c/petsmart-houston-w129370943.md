@@ -13,7 +13,7 @@ PetSmart is a pet store in Houston, TX at 9718 Katy Freeway, Houston, TX 77055. 
 - Website: https://www.petsmart.com/stores/us/tx/houston-store1766.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Pulse Score: 45.6/100 — Building — top 65% of pet stores in Houston, #30 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 65% of pet stores in Houston, #30 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 51.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

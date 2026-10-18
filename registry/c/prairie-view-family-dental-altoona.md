@@ -13,7 +13,7 @@ Prairie View Family Dental is a dentist in Altoona, IA at 3219 8th Street Southw
 - Website: https://www.prairieviewfamilydental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-17:00; Th 07:00-16:00
-- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 6% of dentists in Des Moines, IA, #1 of 3 dentists in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 6% of dentists in Des Moines, IA, #1 of 3 dentists in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

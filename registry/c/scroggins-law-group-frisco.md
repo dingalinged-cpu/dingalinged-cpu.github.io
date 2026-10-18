@@ -13,7 +13,7 @@ Scroggins Law Group is a lawyer in Frisco, TX at 2500 Legacy Drive #250, Frisco,
 - Website: https://www.scrogginslawgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 54% of lawyers in Dallas–Fort Worth, #5 of 10 lawyers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 50.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 54% of lawyers in Dallas–Fort Worth, #5 of 10 lawyers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

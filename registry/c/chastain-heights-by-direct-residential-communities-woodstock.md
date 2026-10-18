@@ -13,7 +13,7 @@ Chastain Heights by Direct Residential Communities is a real estate agency in Wo
 - Website: https://www.directresidentialcommunities.com/new-homes/woodstock/chastain-heights/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 40% of real estate agencys in Atlanta, #3 of 5 real estate agencys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 39% of real estate agencys in Atlanta, #3 of 5 real estate agencys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

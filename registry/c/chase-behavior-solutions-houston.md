@@ -13,7 +13,7 @@ Chase Behavior Solutions is a therapy practice in Houston, TX at 23836 Highway 5
 - Website: https://chasebehavior.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 52.8/100 — Unrated (not enough evidence yet) — top 62% of therapy practices in Houston, #13 of 21 therapy practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 44.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.8/100 — Unrated (not enough evidence yet) — top 62% of therapy practices in Houston, #13 of 21 therapy practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

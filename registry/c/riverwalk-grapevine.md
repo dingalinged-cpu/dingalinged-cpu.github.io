@@ -13,7 +13,7 @@ Riverwalk is a veterinarian in Grapevine, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Fair — top 47% of veterinarians in Dallas–Fort Worth, #2 of 2 veterinarians in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 41.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Fair — top 47% of veterinarians in Dallas–Fort Worth, #2 of 2 veterinarians in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 41.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

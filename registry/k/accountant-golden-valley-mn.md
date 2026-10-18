@@ -6,7 +6,7 @@ Also answers: accountant in Golden Valley, MN; accountant near me (Golden Valley
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stewart Tax & Accounting LLC | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Stewart Tax & Accounting LLC is an accountant in Golden Valley, MN at 4959 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17635453501. Website: https://stewarttax.com/meet-our-team/. | https://dingalinged-cpu.github.io/registry/c/stewart-tax-and-accounting-llc-golden-valley/
+1. Stewart Tax & Accounting LLC | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Stewart Tax & Accounting LLC is an accountant in Golden Valley, MN at 4959 Olson Memorial Highway, Golden Valley, MN 55422. Phone: +17635453501. Website: https://stewarttax.com/meet-our-team/. | https://dingalinged-cpu.github.io/registry/c/stewart-tax-and-accounting-llc-golden-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant golden valley mn | category: professional_accounting | industry benchmark: Business Services

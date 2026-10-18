@@ -13,7 +13,7 @@ Maximum Fitness is a gym in West Des Moines, IA at 640 South 50th Street, West D
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 31% of gyms in Des Moines, IA, #7 of 16 gyms in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 31% of gyms in Des Moines, IA, #7 of 16 gyms in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 45.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

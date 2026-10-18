@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in North Richland Hills, TX at 8187 Precinct Li
 - Website: https://store.vioc.com/tx/northrichlandhills/oil-change-070070.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Building — top 72% of auto repair shops in Dallas–Fort Worth, #7 of 9 auto repair shops in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 72% of auto repair shops in Dallas–Fort Worth, #6 of 9 auto repair shops in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

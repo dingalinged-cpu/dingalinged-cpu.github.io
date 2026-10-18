@@ -1,4 +1,4 @@
-The top unpaid gym listing for the United States is Club Pilates (a gym in Dallas, TX. Phone: +14699074260. Website: https://www.clubpilates.com/location/northdallas). 1700 gym businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for the United States is Club Pilates (a gym in Dallas, TX. Phone: +14699074260. Website: https://www.clubpilates.com/location/northdallas). 1811 gym businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in the United States?
 
@@ -32,32 +32,32 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 24. Pilsen’s Gym | Organic #24 | Pulse Score 63.6/100 (Unrated, #1 in city) | Pilsen’s Gym is a gym in Chicago, IL at 1820 South Bishop Street, Chicago, IL 60608. Phone: +13124918700. Website: https://www.pilsensgym.com/. | https://dingalinged-cpu.github.io/registry/c/pilsen-s-gym-chicago/
 25. Elite Edge Gym | Organic #25 | Pulse Score 63.5/100 (Good, #2 in city) | Elite Edge Gym is a gym in Des Moines, IA at 4233 Fleur Drive, Des Moines, IA 50321. Phone: +15155288676. Website: https://eliteedgegym.com/locations/south-des-moines/. | https://dingalinged-cpu.github.io/registry/c/elite-edge-gym-des-moines/
 26. Define Private Training | Organic #26 | Pulse Score 63.4/100 (Good, #1 in city) | Define Private Training is a gym in Frisco, TX at 2552 Stonebrook Parkway #375, Frisco, TX 75034. Phone: +12144582399. Website: https://www.defineprivatetraining.com/. | https://dingalinged-cpu.github.io/registry/c/define-private-training-frisco/
-27. One Last Rep Fitness | Organic #27 | Pulse Score 63.4/100 (Unrated, #1 in city) | One Last Rep Fitness is a gym in Polk City, IA at 110 West Van Dorn Street #G, Polk City, IA 50226. Phone: +17127908888. Website: https://www.onemorerepfitness.com/. | https://dingalinged-cpu.github.io/registry/c/one-last-rep-fitness-polk-city/
-28. Sheraton Stonebriar Gym | Organic #28 | Pulse Score 63.4/100 (Unrated, #2 in city) | Sheraton Stonebriar Gym is a gym in Frisco, TX at 5444 State Highway 121, Frisco, TX 75034. Phone: +19726688700. Website: https://www.marriott.com/en-us/hotels/dalsa-sheraton-stonebriar-hotel/experiences/. | https://dingalinged-cpu.github.io/registry/c/sheraton-stonebriar-gym-frisco/
-29. Solcana Fitness | Organic #29 | Pulse Score 63.4/100 (Unrated, #1 in city) | Solcana Fitness is a gym in Minneapolis, MN at 3016 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16128080252. Website: https://www.solcanafitness.com/. | https://dingalinged-cpu.github.io/registry/c/solcana-fitness-minneapolis/
-30. The Lift Pilates | Organic #30 | Pulse Score 63.2/100 (Good, #1 in city) | The Lift Pilates is a gym in Fox Point, WI at 383 West Brown Deer Road #B, Fox Point, WI 53217. Phone: +14147518200. Website: https://theliftpilates.com/. | https://dingalinged-cpu.github.io/registry/c/the-lift-pilates-fox-point/
-31. Kôr Fitness and Performance - KFP CrossFit | Organic #31 | Pulse Score 63.1/100 (Good, #1 in city) | Kôr Fitness and Performance - KFP CrossFit is a gym in Newport, MN at 862 12th Street, Newport, MN 55055. Phone: +16514096519. Website: https://korfitnessandperformance.com/. | https://dingalinged-cpu.github.io/registry/c/k-r-fitness-and-performance-kfp-crossfit-newport/
-32. Knuckleheads Boxing & Family Fitness | Organic #32 | Pulse Score 63.1/100 (Good, #2 in city) | Knuckleheads Boxing & Family Fitness is a gym in Chicago, IL at 633 South Plymouth Court, Chicago, IL 60605. Phone: +17732422065. Website: https://knuckleheadsboxing.com/. | https://dingalinged-cpu.github.io/registry/c/knuckleheads-boxing-and-family-fitness-chicago/
-33. DW Fit | Organic #33 | Pulse Score 63.1/100 (Good, #1 in city) | DW Fit is a gym in Roswell, GA at 4750 Alabama Road #120, Roswell, GA. Phone: +14048038407. Website: https://www.dwfitnow.com/. | https://dingalinged-cpu.github.io/registry/c/dw-fit-roswell/
-34. Iron Tribe Fitness | Organic #34 | Pulse Score 63/100 (Good, #5 in city) | Iron Tribe Fitness is a gym in Cobb County, GA at 4719 Lower Roswell Road Northeast, Cobb County, GA. Phone: +17709717797. Website: https://irontribefitness.com/stores/east-cobb/. | https://dingalinged-cpu.github.io/registry/c/iron-tribe-fitness-cobb-county/
-35. Urban Body Fitness | Organic #35 | Pulse Score 63/100 (Good, #2 in city) | Urban Body Fitness is a gym in Atlanta, GA at 500 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +14048851499. Website: https://urbanbodyfitness.com/. | https://dingalinged-cpu.github.io/registry/c/urban-body-fitness-atlanta/
-36. Carden's Classic Gym | Organic #36 | Pulse Score 62.9/100 (Good, #4 in city) | Carden's Classic Gym is a gym in Marietta, GA at 1800 Lower Roswell Road Southeast, Marietta, GA. Phone: +17702624629. Website: https://cardinsclassicgym.com/. | https://dingalinged-cpu.github.io/registry/c/cardens-classic-gym-marietta/
-37. Club 4 Fitness | Organic #37 | Pulse Score 62.9/100 (Good, #2 in city) | Club 4 Fitness is a gym in Flower Mound, TX. Phone: +14693900101. Website: https://www.club4fitness.com/. | https://dingalinged-cpu.github.io/registry/c/club-4-fitness-flower-mound/
-38. Iron Dragon RTS | Organic #38 | Pulse Score 62.9/100 (Good, #1 in city) | Iron Dragon RTS is a gym in Lombard, IL at 216 East Saint Charles Road, Lombard, IL 60148. Phone: +16306139878. | https://dingalinged-cpu.github.io/registry/c/iron-dragon-rts-lombard/
-39. Right Fit Gym | Organic #39 | Pulse Score 62.9/100 (Unrated, #1 in city) | Right Fit Gym is a gym in Willowbrook, IL at 7101 S. Adams Street #7, Willowbrook, IL 60527. Phone: +16308504050. Website: https://www.right-fit.com/. | https://dingalinged-cpu.github.io/registry/c/right-fit-gym-willowbrook/
-40. Georgia Fencing Academy | Organic #40 | Pulse Score 62.8/100 (Good, #6 in city) | Georgia Fencing Academy is a gym in Cobb County, GA at 2520 Shallowford Road Northeast #J, Cobb County, GA. Phone: +17703667633. Website: https://www.gafencingac.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-fencing-academy-cobb-county/
-41. Pilates Advantage | Organic #41 | Pulse Score 62.8/100 (Unrated, #3 in city) | Pilates Advantage is a gym in Chicago, IL at 4027 North Broadway, Chicago, IL 60613. Phone: +17732977442. Website: https://thepilatesadvantage.com/. | https://dingalinged-cpu.github.io/registry/c/pilates-advantage-chicago/
-42. Elevate Athletics | Organic #42 | Pulse Score 62.8/100 (Unrated, #3 in city) | Elevate Athletics is a gym in Houston, TX at 5909B Beverly Hill Street, Houston, TX 77057. Phone: +18328889429. Website: https://www.elevate-athletics.com/. | https://dingalinged-cpu.github.io/registry/c/elevate-athletics-houston/
-43. Carl E. Sanders Family YMCA at Buckhead | Organic #43 | Pulse Score 62.7/100 (Good, #3 in city) | Carl E. Sanders Family YMCA at Buckhead is a gym in Atlanta, GA at 1160 Moores Mill Road, Atlanta, GA. Phone: +14043509292. Website: https://ymcaatlanta.org/locations/carl-e-sanders-family-ymca-buckhead. | https://dingalinged-cpu.github.io/registry/c/carl-e-sanders-family-ymca-at-buckhead-atlanta/
-44. RPM Fitness | Organic #44 | Pulse Score 62.7/100 (Good, #4 in city) | RPM Fitness is a gym in Atlanta, GA at 600 Peachtree Street Northeast, Atlanta, GA. Phone: +14048744584. Website: https://www.rpmboap.com/. | https://dingalinged-cpu.github.io/registry/c/rpm-fitness-atlanta/
-45. Chicago Elite Fitness | Organic #45 | Pulse Score 62.7/100 (Unrated, #4 in city) | Chicago Elite Fitness is a gym in Chicago, IL at 2577 West Armitage Avenue, Chicago, IL 60647. Phone: +13128151577. Website: https://chicagoelitefitness.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-elite-fitness-chicago/
-46. Koach Allstars | Organic #46 | Pulse Score 62.7/100 (Unrated, #3 in city) | Koach Allstars is a gym in Des Moines, IA at 6263 Northeast Industry Drive #Suite 1, Des Moines, IA 50313. Phone: +15155203153. Website: https://www.koachallstars.com/. | https://dingalinged-cpu.github.io/registry/c/koach-allstars-des-moines/
-47. Monkey Bar Gymnasium | Organic #47 | Pulse Score 62.6/100 (Unrated, #3 in city) | Monkey Bar Gymnasium is a gym in Milwaukee, WI at 173 North Milwaukee Street, Milwaukee, WI 53202. Phone: +14143955070. Website: https://www.monkeybargymmilwaukee.com/. | https://dingalinged-cpu.github.io/registry/c/monkey-bar-gymnasium-milwaukee/
-48. The Iron Rack | Organic #48 | Pulse Score 62.6/100 (Unrated, #1 in city) | The Iron Rack is a gym in McKinney, TX at 400 North Central Expressway #102, McKinney, TX 75070. Phone: +18067871824. Website: https://the-iron-rack.com/. | https://dingalinged-cpu.github.io/registry/c/the-iron-rack-mckinney/
-49. Peak 365 Fitness | Organic #49 | Pulse Score 62.6/100 (Unrated, #5 in city) | Peak 365 Fitness is a gym in Marietta, GA at 91 Church Street, Marietta, GA 30060. Phone: +16784038716. Website: https://www.peak365fitness.com/. | https://dingalinged-cpu.github.io/registry/c/peak-365-fitness-marietta/
-50. Envision Complete Fitness | Organic #50 | Pulse Score 62.6/100 (Unrated, #1 in city) | Envision Complete Fitness is a gym in Trophy Club, TX at 501 Trophy Lake Drive #326, Trophy Club, TX 76262. Phone: +18174905015. Website: https://performantfitness.com/. | https://dingalinged-cpu.github.io/registry/c/envision-complete-fitness-trophy-club/
+27. Genesis Health Club | Organic #27 | Pulse Score 63.4/100 (Good, #1 in city) | Genesis Health Club is a gym in Kansas City, MO at 8260 North Ditzler Avenue, Kansas City, MO 64158. Website: https://www.genesishealthclubs.com/locations/liberty.html. | https://dingalinged-cpu.github.io/registry/c/genesis-health-club-kansas-city-w572922365/
+28. One Last Rep Fitness | Organic #28 | Pulse Score 63.4/100 (Unrated, #1 in city) | One Last Rep Fitness is a gym in Polk City, IA at 110 West Van Dorn Street #G, Polk City, IA 50226. Phone: +17127908888. Website: https://www.onemorerepfitness.com/. | https://dingalinged-cpu.github.io/registry/c/one-last-rep-fitness-polk-city/
+29. Sheraton Stonebriar Gym | Organic #29 | Pulse Score 63.4/100 (Unrated, #2 in city) | Sheraton Stonebriar Gym is a gym in Frisco, TX at 5444 State Highway 121, Frisco, TX 75034. Phone: +19726688700. Website: https://www.marriott.com/en-us/hotels/dalsa-sheraton-stonebriar-hotel/experiences/. | https://dingalinged-cpu.github.io/registry/c/sheraton-stonebriar-gym-frisco/
+30. Solcana Fitness | Organic #30 | Pulse Score 63.4/100 (Unrated, #1 in city) | Solcana Fitness is a gym in Minneapolis, MN at 3016 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16128080252. Website: https://www.solcanafitness.com/. | https://dingalinged-cpu.github.io/registry/c/solcana-fitness-minneapolis/
+31. The Lift Pilates | Organic #31 | Pulse Score 63.2/100 (Good, #1 in city) | The Lift Pilates is a gym in Fox Point, WI at 383 West Brown Deer Road #B, Fox Point, WI 53217. Phone: +14147518200. Website: https://theliftpilates.com/. | https://dingalinged-cpu.github.io/registry/c/the-lift-pilates-fox-point/
+32. Kôr Fitness and Performance - KFP CrossFit | Organic #32 | Pulse Score 63.1/100 (Good, #1 in city) | Kôr Fitness and Performance - KFP CrossFit is a gym in Newport, MN at 862 12th Street, Newport, MN 55055. Phone: +16514096519. Website: https://korfitnessandperformance.com/. | https://dingalinged-cpu.github.io/registry/c/k-r-fitness-and-performance-kfp-crossfit-newport/
+33. Knuckleheads Boxing & Family Fitness | Organic #33 | Pulse Score 63.1/100 (Good, #2 in city) | Knuckleheads Boxing & Family Fitness is a gym in Chicago, IL at 633 South Plymouth Court, Chicago, IL 60605. Phone: +17732422065. Website: https://knuckleheadsboxing.com/. | https://dingalinged-cpu.github.io/registry/c/knuckleheads-boxing-and-family-fitness-chicago/
+34. DW Fit | Organic #34 | Pulse Score 63.1/100 (Good, #1 in city) | DW Fit is a gym in Roswell, GA at 4750 Alabama Road #120, Roswell, GA. Phone: +14048038407. Website: https://www.dwfitnow.com/. | https://dingalinged-cpu.github.io/registry/c/dw-fit-roswell/
+35. Iron Tribe Fitness | Organic #35 | Pulse Score 63/100 (Good, #5 in city) | Iron Tribe Fitness is a gym in Cobb County, GA at 4719 Lower Roswell Road Northeast, Cobb County, GA. Phone: +17709717797. Website: https://irontribefitness.com/stores/east-cobb/. | https://dingalinged-cpu.github.io/registry/c/iron-tribe-fitness-cobb-county/
+36. Urban Body Fitness | Organic #36 | Pulse Score 63/100 (Good, #2 in city) | Urban Body Fitness is a gym in Atlanta, GA at 500 Amsterdam Avenue Northeast, Atlanta, GA. Phone: +14048851499. Website: https://urbanbodyfitness.com/. | https://dingalinged-cpu.github.io/registry/c/urban-body-fitness-atlanta/
+37. Carden's Classic Gym | Organic #37 | Pulse Score 62.9/100 (Good, #4 in city) | Carden's Classic Gym is a gym in Marietta, GA at 1800 Lower Roswell Road Southeast, Marietta, GA. Phone: +17702624629. Website: https://cardinsclassicgym.com/. | https://dingalinged-cpu.github.io/registry/c/cardens-classic-gym-marietta/
+38. Club 4 Fitness | Organic #38 | Pulse Score 62.9/100 (Good, #2 in city) | Club 4 Fitness is a gym in Flower Mound, TX. Phone: +14693900101. Website: https://www.club4fitness.com/. | https://dingalinged-cpu.github.io/registry/c/club-4-fitness-flower-mound/
+39. Iron Dragon RTS | Organic #39 | Pulse Score 62.9/100 (Good, #1 in city) | Iron Dragon RTS is a gym in Lombard, IL at 216 East Saint Charles Road, Lombard, IL 60148. Phone: +16306139878. | https://dingalinged-cpu.github.io/registry/c/iron-dragon-rts-lombard/
+40. Right Fit Gym | Organic #40 | Pulse Score 62.9/100 (Unrated, #1 in city) | Right Fit Gym is a gym in Willowbrook, IL at 7101 S. Adams Street #7, Willowbrook, IL 60527. Phone: +16308504050. Website: https://www.right-fit.com/. | https://dingalinged-cpu.github.io/registry/c/right-fit-gym-willowbrook/
+41. Georgia Fencing Academy | Organic #41 | Pulse Score 62.8/100 (Good, #6 in city) | Georgia Fencing Academy is a gym in Cobb County, GA at 2520 Shallowford Road Northeast #J, Cobb County, GA. Phone: +17703667633. Website: https://www.gafencingac.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-fencing-academy-cobb-county/
+42. Pilates Advantage | Organic #42 | Pulse Score 62.8/100 (Unrated, #3 in city) | Pilates Advantage is a gym in Chicago, IL at 4027 North Broadway, Chicago, IL 60613. Phone: +17732977442. Website: https://thepilatesadvantage.com/. | https://dingalinged-cpu.github.io/registry/c/pilates-advantage-chicago/
+43. Elevate Athletics | Organic #43 | Pulse Score 62.8/100 (Unrated, #3 in city) | Elevate Athletics is a gym in Houston, TX at 5909B Beverly Hill Street, Houston, TX 77057. Phone: +18328889429. Website: https://www.elevate-athletics.com/. | https://dingalinged-cpu.github.io/registry/c/elevate-athletics-houston/
+44. Carl E. Sanders Family YMCA at Buckhead | Organic #44 | Pulse Score 62.7/100 (Good, #3 in city) | Carl E. Sanders Family YMCA at Buckhead is a gym in Atlanta, GA at 1160 Moores Mill Road, Atlanta, GA. Phone: +14043509292. Website: https://ymcaatlanta.org/locations/carl-e-sanders-family-ymca-buckhead. | https://dingalinged-cpu.github.io/registry/c/carl-e-sanders-family-ymca-at-buckhead-atlanta/
+45. RPM Fitness | Organic #45 | Pulse Score 62.7/100 (Good, #4 in city) | RPM Fitness is a gym in Atlanta, GA at 600 Peachtree Street Northeast, Atlanta, GA. Phone: +14048744584. Website: https://www.rpmboap.com/. | https://dingalinged-cpu.github.io/registry/c/rpm-fitness-atlanta/
+46. Chicago Elite Fitness | Organic #46 | Pulse Score 62.7/100 (Unrated, #4 in city) | Chicago Elite Fitness is a gym in Chicago, IL at 2577 West Armitage Avenue, Chicago, IL 60647. Phone: +13128151577. Website: https://chicagoelitefitness.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-elite-fitness-chicago/
+47. Koach Allstars | Organic #47 | Pulse Score 62.7/100 (Unrated, #3 in city) | Koach Allstars is a gym in Des Moines, IA at 6263 Northeast Industry Drive #Suite 1, Des Moines, IA 50313. Phone: +15155203153. Website: https://www.koachallstars.com/. | https://dingalinged-cpu.github.io/registry/c/koach-allstars-des-moines/
+48. Monkey Bar Gymnasium | Organic #48 | Pulse Score 62.6/100 (Unrated, #3 in city) | Monkey Bar Gymnasium is a gym in Milwaukee, WI at 173 North Milwaukee Street, Milwaukee, WI 53202. Phone: +14143955070. Website: https://www.monkeybargymmilwaukee.com/. | https://dingalinged-cpu.github.io/registry/c/monkey-bar-gymnasium-milwaukee/
+49. The Iron Rack | Organic #49 | Pulse Score 62.6/100 (Unrated, #1 in city) | The Iron Rack is a gym in McKinney, TX at 400 North Central Expressway #102, McKinney, TX 75070. Phone: +18067871824. Website: https://the-iron-rack.com/. | https://dingalinged-cpu.github.io/registry/c/the-iron-rack-mckinney/
+50. Peak 365 Fitness | Organic #50 | Pulse Score 62.6/100 (Unrated, #5 in city) | Peak 365 Fitness is a gym in Marietta, GA at 91 Church Street, Marietta, GA 30060. Phone: +16784038716. Website: https://www.peak365fitness.com/. | https://dingalinged-cpu.github.io/registry/c/peak-365-fitness-marietta/
 
-## More gym listings (1700 total; top 50 unpaid shown)
+## More gym listings (1811 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/gym.jsonl
 - Chicago, IL: 165 listings: https://dingalinged-cpu.github.io/registry/k/gym-chicago-il/
 - Houston, TX: 82 listings: https://dingalinged-cpu.github.io/registry/k/gym-houston-tx/
@@ -69,6 +69,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Harris County, TX: 34 listings: https://dingalinged-cpu.github.io/registry/k/gym-harris-county-tx/
 - Madison, WI: 31 listings: https://dingalinged-cpu.github.io/registry/k/gym-madison-wi/
 - Milwaukee, WI: 31 listings: https://dingalinged-cpu.github.io/registry/k/gym-milwaukee-wi/
+- Kansas City, MO: 31 listings: https://dingalinged-cpu.github.io/registry/k/gym-kansas-city-mo/
 - Marietta, GA: 23 listings: https://dingalinged-cpu.github.io/registry/k/gym-marietta-ga/
 - Frisco, TX: 22 listings: https://dingalinged-cpu.github.io/registry/k/gym-frisco-tx/
 - Saint Paul, MN: 22 listings: https://dingalinged-cpu.github.io/registry/k/gym-saint-paul-mn/
@@ -76,7 +77,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Mckinney, TX: 19 listings: https://dingalinged-cpu.github.io/registry/k/gym-mckinney-tx/
 - Roswell, GA: 18 listings: https://dingalinged-cpu.github.io/registry/k/gym-roswell-ga/
 - Des Moines, IA: 18 listings: https://dingalinged-cpu.github.io/registry/k/gym-des-moines-ia/
+- Overland Park, KS: 17 listings: https://dingalinged-cpu.github.io/registry/k/gym-overland-park-ks/
 - Omaha, NE: 17 listings: https://dingalinged-cpu.github.io/registry/k/gym-omaha-ne/
+- Olathe, KS: 16 listings: https://dingalinged-cpu.github.io/registry/k/gym-olathe-ks/
 - Edina, MN: 16 listings: https://dingalinged-cpu.github.io/registry/k/gym-edina-mn/
 - West Des Moines, IA: 16 listings: https://dingalinged-cpu.github.io/registry/k/gym-west-des-moines-ia/
 - Naperville, IL: 14 listings: https://dingalinged-cpu.github.io/registry/k/gym-naperville-il/
@@ -126,6 +129,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Peachtree Corners, GA: 6 listings: https://dingalinged-cpu.github.io/registry/k/gym-peachtree-corners-ga/
 - Eden Prairie, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/gym-eden-prairie-mn/
 - West Saint Paul, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/gym-west-saint-paul-mn/
+- Lee'S Summit, MO: 6 listings: https://dingalinged-cpu.github.io/registry/k/gym-lees-summit-mo/
 - Lombard, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-lombard-il/
 - Niles, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-niles-il/
 - Skokie, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-skokie-il/
@@ -141,10 +145,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Westmont, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-westmont-il/
 - Northbrook, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-northbrook-il/
 - Glenview, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-glenview-il/
+- Lenexa, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-lenexa-ks/
+- Shawnee, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-shawnee-ks/
 - Lewisville, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-lewisville-tx/
 - Cedar Hill, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-cedar-hill-tx/
 - Coppell, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-coppell-tx/
 - Dekalb County, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-dekalb-county-ga/
+- Liberty, MO: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-liberty-mo/
+- Blue Springs, MO: 5 listings: https://dingalinged-cpu.github.io/registry/k/gym-blue-springs-mo/
 - Mount Prospect, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/gym-mount-prospect-il/
 - Highland Park, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/gym-highland-park-il/
 - Oak Lawn, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/gym-oak-lawn-il/
@@ -163,6 +171,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Bloomington, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/gym-bloomington-mn/
 - Minnetonka, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/gym-minnetonka-mn/
 - White Bear Lake, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/gym-white-bear-lake-mn/
+- Independence, MO: 4 listings: https://dingalinged-cpu.github.io/registry/k/gym-independence-mo/
 - Brookfield, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-brookfield-il/
 - Des Plaines, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-des-plaines-il/
 - Homer Glen, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-homer-glen-il/
@@ -175,6 +184,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Matteson, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-matteson-il/
 - Melrose Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-melrose-park-il/
 - New Lenox, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-new-lenox-il/
+- Leavenworth, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-leavenworth-ks/
 - Trophy Club, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-trophy-club-tx/
 - Fulshear, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-fulshear-tx/
 - Highland Village, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-highland-village-tx/
@@ -202,6 +212,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Grimes, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-grimes-ia/
 - Waukee, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-waukee-ia/
 - Papillion, NE: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-papillion-ne/
+- North Kansas City, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/gym-north-kansas-city-mo/
 - Riverwoods, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-riverwoods-il/
 - Rolling Meadows, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-rolling-meadows-il/
 - North Riverside, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-north-riverside-il/
@@ -219,6 +230,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Libertyville, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-libertyville-il/
 - Oak Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-oak-park-il/
 - Lemont Township, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-lemont-township-il/
+- Leawood, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-leawood-ks/
+- Kansas City, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-kansas-city-ks/
 - Mansfield, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-mansfield-tx/
 - Farmers Branch, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-farmers-branch-tx/
 - Little Elm, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-little-elm-tx/
@@ -265,6 +278,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Indianola, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-indianola-ia/
 - Johnston, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-johnston-ia/
 - Polk City, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-polk-city-ia/
+- Parkville, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-parkville-mo/
+- Smithville, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/gym-smithville-mo/
 - Glen Ellyn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-glen-ellyn-il/
 - Bannockburn, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-bannockburn-il/
 - Bensenville, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-bensenville-il/
@@ -311,6 +326,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - La Grange Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-la-grange-park-il/
 - Bedford Park, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-bedford-park-il/
 - Willow Springs, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-willow-springs-il/
+- Prairie Village, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-prairie-village-ks/
+- Lansing, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-lansing-ks/
+- Mission, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-mission-ks/
 - Fairview, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-fairview-tx/
 - Santa Fe, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-santa-fe-tx/
 - Stafford, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-stafford-tx/
@@ -406,6 +424,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Elkhorn Precinct, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-elkhorn-precinct-ne/
 - Bellevue Second Iv Precinct, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-bellevue-second-iv-precinct-ne/
 - Richland Vii Precinct, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-richland-vii-precinct-ne/
+- Gladstone, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-gladstone-mo/
+- Belton, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/gym-belton-mo/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym | category: Fitness | industry benchmark: Health & Fitness
@@ -414,7 +434,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Google Keyword Planner top-of-page bid for 'gym near me': $1.67-$6.14 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
 - Ad competition: medium (Google Keyword Planner competition index (advertiser density))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1700
+- Registry businesses competing: 1811
 - Equivalent Google Ads cost per month: ~$220,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

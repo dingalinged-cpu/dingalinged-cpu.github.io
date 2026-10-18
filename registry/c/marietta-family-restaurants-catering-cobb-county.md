@@ -13,7 +13,7 @@ Marietta Family Restaurants Catering is a caterer in Cobb County, GA at 3205 Can
 - Website: https://mariettafamilycatering.com/
 - Email: n/a
 - Opening hours (OSM syntax): 09:00-18:00
-- Pulse Score: 56.8/100 — Fair — top 65% of caterers in Atlanta, #4 of 5 caterers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 47.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Fair — top 65% of caterers in Atlanta, #4 of 5 caterers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

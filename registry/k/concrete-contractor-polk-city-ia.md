@@ -6,7 +6,7 @@ Also answers: concrete contractor in Polk City, IA; concrete contractor near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Polk City Masonic Center | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Polk City Masonic Center is a concrete contractor in Polk City, IA at 106 South 3rd Street, Polk City, IA 50226. | https://dingalinged-cpu.github.io/registry/c/polk-city-masonic-center-polk-city/
+1. Polk City Masonic Center | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Polk City Masonic Center is a concrete contractor in Polk City, IA at 106 South 3rd Street, Polk City, IA 50226. | https://dingalinged-cpu.github.io/registry/c/polk-city-masonic-center-polk-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor polk city ia | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

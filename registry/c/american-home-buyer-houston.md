@@ -13,7 +13,7 @@ American Home Buyer is a real estate agency in Houston, TX at 2223 Mangum Road #
 - Website: https://www.americanhomebuyer.us/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 33% of real estate agencys in Houston, #10 of 25 real estate agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 33% of real estate agencys in Houston, #10 of 25 real estate agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

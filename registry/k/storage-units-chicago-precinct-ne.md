@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Victory Lane | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Victory Lane is a self-storage facility in Chicago Precinct, NE. | https://dingalinged-cpu.github.io/registry/c/victory-lane-chicago-precinct/
 2. Up and Coming storage Rental Placeholder | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Up and Coming storage Rental Placeholder is a self-storage facility in Chicago Precinct, NE. | https://dingalinged-cpu.github.io/registry/c/up-and-coming-storage-rental-placeholder-chicago-precinct/
-3. Dino's Storage | Organic #3 | Pulse Score 47.5/100 (Unrated, #11 in city) | Dino's Storage is a self-storage facility in Omaha, NE at 4876 South 192nd Street, Omaha, NE 68135. | https://dingalinged-cpu.github.io/registry/c/dinos-storage-omaha-w703239671/
+3. Dino's Storage | Organic #3 | Pulse Score 47.4/100 (Unrated, #11 in city) | Dino's Storage is a self-storage facility in Omaha, NE at 4876 South 192nd Street, Omaha, NE 68135. | https://dingalinged-cpu.github.io/registry/c/dinos-storage-omaha-w703239671/
 4. Public Storage | Organic #4 | Pulse Score 42.9/100 (Building, #3 in city) | Public Storage is a self-storage facility in Chicago Precinct, NE. | https://dingalinged-cpu.github.io/registry/c/public-storage-chicago-precinct/
 5. Public Storage | Organic #5 | Pulse Score 42.9/100 (Building, #4 in city) | Public Storage is a self-storage facility in Chicago Precinct, NE. | https://dingalinged-cpu.github.io/registry/c/public-storage-chicago-precinct-w1159848498/
 

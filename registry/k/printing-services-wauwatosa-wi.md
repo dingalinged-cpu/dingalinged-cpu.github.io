@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Promolux | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Promolux is a printing service in Wauwatosa, WI at 6027 West Vliet Street, Wauwatosa, WI 53213. Website: https://epromolux.com/. | https://dingalinged-cpu.github.io/registry/c/promolux-wauwatosa/
 2. FedEx Office | Organic #2 | Pulse Score 50.7/100 (Fair, #2 in city) | FedEx Office is a printing service in Wauwatosa, WI at 829 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14144533506. Website: https://local.fedex.com/en-us/wi/milwaukee/office-0436?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT. | https://dingalinged-cpu.github.io/registry/c/fedex-office-wauwatosa/
-3. Minuteman Press | Organic #3 | Pulse Score 46.5/100 (Building, #3 in city) | Minuteman Press is a printing service in Wauwatosa, WI at 6407 West North Avenue, Wauwatosa, WI 53213. Phone: +14142579500. | https://dingalinged-cpu.github.io/registry/c/minuteman-press-wauwatosa/
-4. The UPS Store | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | The UPS Store is a printing service in Wauwatosa, WI. Website: https://wauwatosa-wi-5739.theupsstorelocal.com/. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-wauwatosa/
+3. Minuteman Press | Organic #3 | Pulse Score 46.6/100 (Building, #3 in city) | Minuteman Press is a printing service in Wauwatosa, WI at 6407 West North Avenue, Wauwatosa, WI 53213. Phone: +14142579500. | https://dingalinged-cpu.github.io/registry/c/minuteman-press-wauwatosa/
+4. The UPS Store | Organic #4 | Pulse Score 43.9/100 (Building, #4 in city) | The UPS Store is a printing service in Wauwatosa, WI. Website: https://wauwatosa-wi-5739.theupsstorelocal.com/. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services wauwatosa wi | category: Professional & financial services | industry benchmark: Finance & Insurance

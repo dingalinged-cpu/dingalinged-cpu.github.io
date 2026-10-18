@@ -13,7 +13,7 @@ CycleBar is a gym in Deerfield, IL at 190 North Waukegan Road, Deerfield, IL 600
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.8/100 — Building — top 78% of gyms in Chicago, #3 of 3 gyms in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 77% of gyms in Chicago, #3 of 3 gyms in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

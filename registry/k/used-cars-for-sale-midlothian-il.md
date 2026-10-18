@@ -6,7 +6,7 @@ Also answers: used cars for sale in Midlothian, IL; used cars for sale near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DriveTime | Organic #1 | Pulse Score 43.5/100 (Building, #1 in city) | DriveTime is an used car dealer in Midlothian, IL at 14500 South Cicero Avenue, Midlothian, IL 60445. | https://dingalinged-cpu.github.io/registry/c/drivetime-midlothian/
+1. DriveTime | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | DriveTime is an used car dealer in Midlothian, IL at 14500 South Cicero Avenue, Midlothian, IL 60445. | https://dingalinged-cpu.github.io/registry/c/drivetime-midlothian/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale midlothian il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

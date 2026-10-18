@@ -13,7 +13,7 @@ Petco is a pet store in Spring, TX at 19507 North Freeway #700, Spring, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.7/100 — Building — top 83% of pet stores in Houston, #6 of 6 pet stores in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 44. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.7/100 — Building — top 83% of pet stores in Houston, #6 of 6 pet stores in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

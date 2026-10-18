@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Studio Fusco | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Studio Fusco is a printing service in Indianola, IA. Phone: +15154420204. Website: https://studious.co/. | https://dingalinged-cpu.github.io/registry/c/studio-fusco-indianola/
 2. Design Ink | Organic #2 | Pulse Score 53.7/100 (Unrated, #2 in city) | Design Ink is a printing service in Indianola, IA. | https://dingalinged-cpu.github.io/registry/c/design-ink-indianola/
-3. The UPS Store | Organic #3 | Pulse Score 44/100 (Building, #3 in city) | The UPS Store is a printing service in Indianola, IA at 1214 North Jefferson Way, Indianola, IA 50125. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-indianola/
+3. The UPS Store | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | The UPS Store is a printing service in Indianola, IA at 1214 North Jefferson Way, Indianola, IA 50125. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-indianola/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services indianola ia | category: Professional & financial services | industry benchmark: Finance & Insurance

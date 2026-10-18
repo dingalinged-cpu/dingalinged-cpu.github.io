@@ -13,7 +13,7 @@ The Coven is a coworking space in Saint Paul, MN at 165 Western Avenue North ##8
 - Website: https://www.thecoven.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 58% of coworking spaces in Minneapolis–St. Paul, #4 of 4 coworking spaces in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 58% of coworking spaces in Minneapolis–St. Paul, #4 of 4 coworking spaces in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

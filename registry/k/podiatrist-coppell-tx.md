@@ -7,7 +7,7 @@ Also answers: podiatrist in Coppell, TX; podiatrist near me (Coppell, TX); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Texas Regional Foot & Ankle Clinics | Organic #1 | Pulse Score 66.2/100 (Good, #1 in city) | Texas Regional Foot & Ankle Clinics is a podiatrist in Coppell, TX at 660 North MacArthur Boulevard #100, Coppell, TX. Phone: +14697420406. Website: https://www.texasfootclinic.com/. | https://dingalinged-cpu.github.io/registry/c/texas-regional-foot-and-ankle-clinics-coppell/
-2. Graff Foot Ankle & Wound Care | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Graff Foot Ankle & Wound Care is a podiatrist in Coppell, TX at 456 West State Highway 121 #140, Coppell, TX 75019. | https://dingalinged-cpu.github.io/registry/c/graff-foot-ankle-and-wound-care-coppell/
+2. Graff Foot Ankle & Wound Care | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Graff Foot Ankle & Wound Care is a podiatrist in Coppell, TX at 456 West State Highway 121 #140, Coppell, TX 75019. | https://dingalinged-cpu.github.io/registry/c/graff-foot-ankle-and-wound-care-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist coppell tx | category: Health & medical | industry benchmark: Physicians & Surgeons

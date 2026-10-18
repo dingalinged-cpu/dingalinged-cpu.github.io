@@ -13,7 +13,7 @@ West Washington Self Storage is a self-storage facility in Madison, WI at 615 We
 - Website: https://www.selfstoragemadison.com/
 - Email: n/a
 - Opening hours (OSM syntax): We 13:30-16:30; Sa 12:00-16:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of self-storage facilitys in Madison, #1 of 6 self-storage facilitys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of self-storage facilitys in Madison, #1 of 6 self-storage facilitys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

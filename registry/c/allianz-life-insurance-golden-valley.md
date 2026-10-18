@@ -13,7 +13,7 @@ Allianz Life Insurance is an insurance agent in Golden Valley, MN at 5701 Golden
 - Website: https://www.allianzlife.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 63% of insurance agents in Minneapolis–St. Paul, #3 of 4 insurance agents in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 63% of insurance agents in Minneapolis–St. Paul, #3 of 4 insurance agents in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

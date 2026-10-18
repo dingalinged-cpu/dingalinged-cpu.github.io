@@ -13,7 +13,7 @@ Texas Select Staffing is a staffing agency in Rockwall, TX at 955 Ralph Hall Par
 - Website: https://www.texasselectstaffing.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 35% of staffing agencys in Dallas–Fort Worth, #1 of 1 staffing agencys in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 35% of staffing agencys in Dallas–Fort Worth, #1 of 1 staffing agencys in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Floor & Decor is a flooring company in West Des Moines, IA at 1400 22nd Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 88% of flooring companys in Des Moines, IA, #1 of 1 flooring companys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 88% of flooring companys in Des Moines, IA, #1 of 1 flooring companys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

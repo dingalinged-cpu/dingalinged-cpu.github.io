@@ -13,7 +13,7 @@ Thurston DeShaw Funeral Home is a funeral home in Andover, MN at 13817 Jay Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 49% of funeral homes in Minneapolis–St. Paul, #1 of 1 funeral homes in Andover (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 49% of funeral homes in Minneapolis–St. Paul, #1 of 1 funeral homes in Andover (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

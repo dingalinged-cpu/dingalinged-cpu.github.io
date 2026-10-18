@@ -13,7 +13,7 @@ Sun Tan City is a tanning salon in Johnston, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 100% of tanning salons in Des Moines, IA, #1 of 1 tanning salons in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 39.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 100% of tanning salons in Des Moines, IA, #1 of 1 tanning salons in Johnston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 39.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

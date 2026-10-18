@@ -6,7 +6,7 @@ Also answers: chiropractor in Vernon Hills, IL; chiropractor near me (Vernon Hil
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aligned Modern Health | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Aligned Modern Health is a chiropractor in Vernon Hills, IL at 925 North Milwaukee Avenue #300, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/aligned-modern-health-vernon-hills/
+1. Aligned Modern Health | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Aligned Modern Health is a chiropractor in Vernon Hills, IL at 925 North Milwaukee Avenue #300, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/aligned-modern-health-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor vernon hills il | category: Health & medical | industry benchmark: Physicians & Surgeons

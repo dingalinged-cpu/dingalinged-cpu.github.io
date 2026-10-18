@@ -13,7 +13,7 @@ Premier Group Flooring & Supply is a flooring company in Marietta, GA at 1818 Lo
 - Website: https://premiergroupga.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-17:30; Sa 07:00-13:00
-- Pulse Score: 64/100 — Good — top 8% of flooring companys in Atlanta, #2 of 6 flooring companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.5, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 8% of flooring companys in Atlanta, #2 of 6 flooring companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.5, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Action Behavior Therapy is a therapy practice in Colleyville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 68% of therapy practices in Dallas–Fort Worth, #2 of 2 therapy practices in Colleyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 39.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 66% of therapy practices in Dallas–Fort Worth, #2 of 2 therapy practices in Colleyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 39.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Digital Scientists is an IT support company in Alpharetta, GA at 21 South Main S
 - Website: https://digitalscientists.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 61.8/100 — Good — top 20% of IT support companys in Atlanta, #1 of 2 IT support companys in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 20% of IT support companys in Atlanta, #1 of 2 IT support companys in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

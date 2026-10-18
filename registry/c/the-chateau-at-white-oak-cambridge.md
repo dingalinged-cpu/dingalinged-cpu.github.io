@@ -13,7 +13,7 @@ The Chateau at White Oak is an event venue in Cambridge, IA at 15065 Northeast W
 - Website: https://www.whiteoakchateau.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 39% of event venues in Des Moines, IA, #1 of 1 event venues in Cambridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 39% of event venues in Des Moines, IA, #1 of 1 event venues in Cambridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

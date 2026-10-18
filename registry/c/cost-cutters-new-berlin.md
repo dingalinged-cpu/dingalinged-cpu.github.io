@@ -13,7 +13,7 @@ Cost Cutters is a hair salon in New Berlin, WI at 15431 West National Avenue, Ne
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 84% of hair salons in Milwaukee, #3 of 6 hair salons in New Berlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 47.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 83% of hair salons in Milwaukee, #3 of 6 hair salons in New Berlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 47.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

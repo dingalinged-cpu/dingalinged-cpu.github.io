@@ -7,7 +7,7 @@ Also answers: pediatrician in Flower Mound, TX; pediatrician near me (Flower Mou
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Childrens Health Urgent Care | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Childrens Health Urgent Care is a pediatrician in Flower Mound, TX. Phone: +19726456767. | https://dingalinged-cpu.github.io/registry/c/childrens-health-urgent-care-flower-mound/
-2. 18 and Under MD | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | 18 and Under MD is a pediatrician in Flower Mound, TX at 3041 Churchill Drive, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/18-and-under-md-flower-mound/
+2. 18 and Under MD | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | 18 and Under MD is a pediatrician in Flower Mound, TX at 3041 Churchill Drive, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/18-and-under-md-flower-mound/
 3. ABC pediatrics | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | ABC pediatrics is a pediatrician in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/abc-pediatrics-flower-mound/
 4. Cook Children's Pediatrics | Organic #4 | Pulse Score 50.1/100 (Fair, #4 in city) | Cook Children's Pediatrics is a pediatrician in Flower Mound, TX at 4001 Long Prairie Rd #140, Flower Mound, TX. Phone: +19726912388. | https://dingalinged-cpu.github.io/registry/c/cook-childrens-pediatrics-flower-mound/
 

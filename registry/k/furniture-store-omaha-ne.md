@@ -15,7 +15,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 7. NFM | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | NFM is a furniture store in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/nfm-omaha/
 8. Shepard's Buisness Interiors | Organic #8 | Pulse Score 54.4/100 (Unrated, #8 in city) | Shepard's Buisness Interiors is a furniture store in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/shepards-buisness-interiors-omaha/
 9. Ethan Allen | Organic #9 | Pulse Score 47.1/100 (Building, #9 in city) | Ethan Allen is a furniture store in Omaha, NE at 10720 Pacific Street, Omaha, NE 68114. Phone: +14023932669. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-omaha/
-10. Aaron's | Organic #10 | Pulse Score 44.5/100 (Building, #10 in city) | Aaron's is a furniture store in Omaha, NE at 6404 North 73rd Plaza, Omaha, NE 68122. | https://dingalinged-cpu.github.io/registry/c/aarons-omaha/
+10. Aaron's | Organic #10 | Pulse Score 44.6/100 (Building, #10 in city) | Aaron's is a furniture store in Omaha, NE at 6404 North 73rd Plaza, Omaha, NE 68122. | https://dingalinged-cpu.github.io/registry/c/aarons-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store omaha ne | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

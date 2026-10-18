@@ -13,7 +13,7 @@ Peachtree Petals is a florist in Atlanta, GA at 1450 West Peachtree Street North
 - Website: https://www.peachtreepetals.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-15:00; Sa-Su off
-- Pulse Score: 63/100 — Good — top 15% of florists in Atlanta, #1 of 8 florists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 18% of florists in Atlanta, #2 of 8 florists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

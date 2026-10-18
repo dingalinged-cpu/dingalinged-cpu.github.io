@@ -13,7 +13,7 @@ Indian American Cultural Center is an event venue in Merrillville, IN at 8605 Me
 - Website: https://www.iacc-nwindiana.org/
 - Email: info@iacc-nwindiana.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of event venues in Chicago, #1 of 2 event venues in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of event venues in Chicago, #1 of 2 event venues in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

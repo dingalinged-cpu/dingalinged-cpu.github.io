@@ -13,7 +13,7 @@ Planet Fitness is a gym in Vernon Hills, IL at 413 North Milwaukee Avenue, Verno
 - Website: https://www.planetfitness.com/gyms/vernon-hills-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.7/100 — Building — top 56% of gyms in Chicago, #4 of 5 gyms in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 55% of gyms in Chicago, #4 of 5 gyms in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

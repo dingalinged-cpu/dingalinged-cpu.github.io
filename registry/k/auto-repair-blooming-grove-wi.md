@@ -6,7 +6,7 @@ Also answers: auto repair in Blooming Grove, WI; auto repair near me (Blooming G
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meineke | Organic #1 | Pulse Score 47/100 (Building, #39 in city) | Meineke is an auto repair shop in Madison, WI at 4008 Milwaukee Street, Madison, WI 53716. | https://dingalinged-cpu.github.io/registry/c/meineke-madison/
+1. Meineke | Organic #1 | Pulse Score 47/100 (Building, #40 in city) | Meineke is an auto repair shop in Madison, WI at 4008 Milwaukee Street, Madison, WI 53716. | https://dingalinged-cpu.github.io/registry/c/meineke-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair blooming grove wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

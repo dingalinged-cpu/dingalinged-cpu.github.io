@@ -5,12 +5,12 @@ Keyword market for Fairway, KS: 1 service keywords with search volume, CPC and s
 Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
 
 ## By monthly searches
-1. dentist fairway ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#dentist-fairway-ks
+1. dentist fairway ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-fairway-ks/
 
 ## By CPC
-1. dentist fairway ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#dentist-fairway-ks
+1. dentist fairway ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-fairway-ks/
 
 ## By value (searches x CPC)
-1. dentist fairway ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#dentist-fairway-ks
+1. dentist fairway ks | searches/mo 12,000 (est) | CPC $4.70 | value $56,000 | Google Ads equiv $3,100/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-fairway-ks/
 
 All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

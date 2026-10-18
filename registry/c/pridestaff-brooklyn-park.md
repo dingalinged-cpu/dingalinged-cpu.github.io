@@ -13,7 +13,7 @@ PrideStaff is a staffing agency in Brooklyn Park, MN at 4634 85th Avenue North, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 92% of staffing agencys in Minneapolis–St. Paul, #2 of 2 staffing agencys in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 92% of staffing agencys in Minneapolis–St. Paul, #2 of 2 staffing agencys in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

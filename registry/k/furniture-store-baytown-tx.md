@@ -7,7 +7,7 @@ Also answers: furniture store in Baytown, TX; furniture store near me (Baytown, 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. EZ A Furniture | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | EZ A Furniture is a furniture store in Baytown, TX at 4611 Garth Road, Baytown, TX. | https://dingalinged-cpu.github.io/registry/c/ez-a-furniture-baytown/
-2. Aaron's | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | Aaron's is a furniture store in Baytown, TX. Website: https://locations.aarons.com/us/tx/baytown/5151-garth-rd. | https://dingalinged-cpu.github.io/registry/c/aarons-baytown/
+2. Aaron's | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Aaron's is a furniture store in Baytown, TX. Website: https://locations.aarons.com/us/tx/baytown/5151-garth-rd. | https://dingalinged-cpu.github.io/registry/c/aarons-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store baytown tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

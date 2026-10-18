@@ -1,0 +1,24 @@
+Belton Veterniary Center is a veterinarian in Belton, MO at 1001 East North Avenue, Belton, MO 64012.
+
+# Belton Veterniary Center
+
+- Category: vet
+- Services: vet
+- Address: 1001 East North Avenue, Belton, MO 64012
+- City: Belton
+- State: MO
+- ZIP: 64012
+- Coordinates: 38.81329, -94.5182953
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 44% of veterinarians in Kansas City, MO, #1 of 2 veterinarians in Belton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/belton-veterniary-center-belton/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/belton-veterniary-center-belton.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/564806210 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

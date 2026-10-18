@@ -13,7 +13,7 @@ LA Fitness is a gym in Chicago, IL at 4677 North Elston Avenue, Chicago, IL 6063
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.4/100 — Building — top 52% of gyms in Chicago, #92 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 52% of gyms in Chicago, #91 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

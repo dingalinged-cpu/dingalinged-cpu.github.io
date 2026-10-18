@@ -13,7 +13,7 @@ Holmes Invest Corp. is a real estate agency in Houston, TX at 3663 North Sam Hou
 - Website: https://holmesinvestcorp.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of real estate agencys in Houston, #4 of 25 real estate agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of real estate agencys in Houston, #4 of 25 real estate agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

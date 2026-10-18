@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Saint Louis Park, MN at 3976 Zarthan Aven
 - Website: https://www.edwardjones.com/us-en
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 66% of financial advisors in Minneapolis–St. Paul, #3 of 3 financial advisors in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 63% of financial advisors in Minneapolis–St. Paul, #3 of 3 financial advisors in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

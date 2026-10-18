@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Sugar Land, TX at 15890 Southwest Freeway #300,
 - Website: https://www.orangetheory.com/en-us/locations/texas/sugar-land/15890-southwest-freeway-suite-300
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.8/100 — Building — top 51% of gyms in Houston, #4 of 9 gyms in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 50% of gyms in Houston, #4 of 9 gyms in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

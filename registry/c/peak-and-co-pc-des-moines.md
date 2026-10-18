@@ -13,7 +13,7 @@ Peak & Co. PC is an accountant in Des Moines, IA. Website: https://peakcpa.com/.
 - Website: https://peakcpa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 100% of accountants in Des Moines, IA, #3 of 3 accountants in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 41.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 100% of accountants in Des Moines, IA, #3 of 3 accountants in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 41.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Sew Simple is a tailor in Minneapolis, MN at 2424 Nicollet Avenue South, Minneap
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 11:00-19:00
-- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 54% of tailors in Minneapolis–St. Paul, #6 of 10 tailors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 54% of tailors in Minneapolis–St. Paul, #6 of 10 tailors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ State Farm is an insurance agent in Papillion, NE at 609 Olson Drive #4, Papilli
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.4/100 — Building — top 60% of insurance agents in Omaha, NE, #2 of 2 insurance agents in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 60% of insurance agents in Omaha, NE, #2 of 2 insurance agents in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

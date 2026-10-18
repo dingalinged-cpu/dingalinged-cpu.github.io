@@ -6,7 +6,7 @@ Also answers: haircut in Baytown, TX; haircut near me (Baytown, TX); best haircu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baytown Barber Shop | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Baytown Barber Shop is a barber shop in Baytown, TX at 4810 North Main Street, Baytown, TX 77521. Phone: +18329264175. | https://dingalinged-cpu.github.io/registry/c/baytown-barber-shop-baytown/
+1. Baytown Barber Shop | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Baytown Barber Shop is a barber shop in Baytown, TX at 4810 North Main Street, Baytown, TX 77521. Phone: +18329264175. | https://dingalinged-cpu.github.io/registry/c/baytown-barber-shop-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut baytown tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

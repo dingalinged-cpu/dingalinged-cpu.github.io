@@ -13,7 +13,7 @@ Darkside Tan is a tanning salon in Mequon, WI. Website: https://www.facebook.com
 - Website: https://www.facebook.com/darksidetanmequon/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60/100 — Good — top 32% of tanning salons in Milwaukee, #1 of 1 tanning salons in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Good — top 32% of tanning salons in Milwaukee, #1 of 1 tanning salons in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

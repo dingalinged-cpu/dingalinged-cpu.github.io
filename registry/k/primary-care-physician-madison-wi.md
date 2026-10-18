@@ -7,7 +7,7 @@ Also answers: primary care physician in Madison, WI; primary care physician near
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. SSM Health Dean Medical Group | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | SSM Health Dean Medical Group is a family medicine practice in Madison, WI at 1313 Fish Hatchery Road, Madison, WI. Phone: +16082528000. | https://dingalinged-cpu.github.io/registry/c/ssm-health-dean-medical-group-madison/
-2. UW Health Arboretum Clinic | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | UW Health Arboretum Clinic is a family medicine practice in Madison, WI at 1102 South Park Street, Madison, WI 53715. | https://dingalinged-cpu.github.io/registry/c/uw-health-arboretum-clinic-madison/
+2. UW Health Arboretum Clinic | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | UW Health Arboretum Clinic is a family medicine practice in Madison, WI at 1102 South Park Street, Madison, WI 53715. | https://dingalinged-cpu.github.io/registry/c/uw-health-arboretum-clinic-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician madison wi | category: Health & medical | industry benchmark: Physicians & Surgeons

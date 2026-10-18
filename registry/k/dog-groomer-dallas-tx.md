@@ -12,11 +12,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Woody's Pet Grooming | Organic #4 | Pulse Score 57.9/100 (Unrated, #4 in city) | Woody's Pet Grooming is a dog groomer in Dallas, TX. Phone: +12142383039. | https://dingalinged-cpu.github.io/registry/c/woodys-pet-grooming-dallas/
 5. Fur Bébé | Organic #5 | Pulse Score 57/100 (Unrated, #5 in city) | Fur Bébé is a dog groomer in Dallas, TX. Website: https://www.furbebedallas.com/. | https://dingalinged-cpu.github.io/registry/c/fur-b-b-dallas/
 6. Heritage Pet Salon | Organic #6 | Pulse Score 56.3/100 (Unrated, #6 in city) | Heritage Pet Salon is a dog groomer in Dallas, TX at 19129 Preston Road #110, Dallas, TX 75252. | https://dingalinged-cpu.github.io/registry/c/heritage-pet-salon-dallas/
-7. White Rock Pet Grooming | Organic #7 | Pulse Score 55.5/100 (Unrated, #7 in city) | White Rock Pet Grooming is a dog groomer in Dallas, TX at 9777 Ferguson Road #103, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/white-rock-pet-grooming-dallas/
+7. White Rock Pet Grooming | Organic #7 | Pulse Score 55.4/100 (Unrated, #7 in city) | White Rock Pet Grooming is a dog groomer in Dallas, TX at 9777 Ferguson Road #103, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/white-rock-pet-grooming-dallas/
 8. Happy Tails | Organic #8 | Pulse Score 55.3/100 (Unrated, #5 in city) | Happy Tails is a dog boarding facility in Dallas, TX at 10121 East Northwest Highway, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/happy-tails-dallas/
 9. Dog & Cat Grooming | Organic #9 | Pulse Score 54.5/100 (Unrated, #8 in city) | Dog & Cat Grooming is a dog groomer in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/dog-and-cat-grooming-dallas/
 10. Wagmaster | Organic #10 | Pulse Score 54.5/100 (Unrated, #9 in city) | Wagmaster is a dog groomer in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/wagmaster-dallas/
-11. petbar | Organic #11 | Pulse Score 49/100 (Unrated, #10 in city) | petbar is a dog groomer in Dallas, TX at 6465 East Mockingbird Lane, Dallas, TX. Phone: +12147300063. Website: https://www.petbarinc.com/locations/dallas-lakewood/. | https://dingalinged-cpu.github.io/registry/c/petbar-dallas/
+11. petbar | Organic #11 | Pulse Score 49.1/100 (Unrated, #10 in city) | petbar is a dog groomer in Dallas, TX at 6465 East Mockingbird Lane, Dallas, TX. Phone: +12147300063. Website: https://www.petbarinc.com/locations/dallas-lakewood/. | https://dingalinged-cpu.github.io/registry/c/petbar-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer dallas tx | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Irving, TX. Website: https://palmbeachtan.c
 - Website: https://palmbeachtan.com/locations/TX/Irving-North-MacArthur-Boulevard
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 58% of tanning salons in Dallas–Fort Worth, #1 of 1 tanning salons in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 58% of tanning salons in Dallas–Fort Worth, #1 of 1 tanning salons in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Huxley, IA. Phone: +15155974766. Website: https://ww
 - Website: https://www.anytimefitness.com/gyms/1962/huxley-ia-50124/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 71% of gyms in Des Moines, IA, #2 of 2 gyms in Huxley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 71% of gyms in Des Moines, IA, #2 of 2 gyms in Huxley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

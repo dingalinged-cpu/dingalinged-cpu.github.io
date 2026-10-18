@@ -13,7 +13,7 @@ Launch is a marketing agency in Atlanta, GA at 195 Arizona Avenue Northeast, Atl
 - Website: https://launchxd.com/
 - Email: info@launchxd.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 36% of marketing agencys in Atlanta, #5 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 36% of marketing agencys in Atlanta, #5 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

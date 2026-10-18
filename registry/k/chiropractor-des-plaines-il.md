@@ -6,7 +6,7 @@ Also answers: chiropractor in Des Plaines, IL; chiropractor near me (Des Plaines
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jacobs Chiropractic Clinic | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Jacobs Chiropractic Clinic is a chiropractor in Des Plaines, IL at 658 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/jacobs-chiropractic-clinic-des-plaines/
+1. Jacobs Chiropractic Clinic | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Jacobs Chiropractic Clinic is a chiropractor in Des Plaines, IL at 658 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/jacobs-chiropractic-clinic-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor des plaines il | category: Health & medical | industry benchmark: Physicians & Surgeons

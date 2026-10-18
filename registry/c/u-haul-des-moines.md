@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Des Moines, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.3/100 — Building — top 95% of self-storage facilitys in Des Moines, IA, #4 of 4 self-storage facilitys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 41.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 95% of self-storage facilitys in Des Moines, IA, #4 of 4 self-storage facilitys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 41.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

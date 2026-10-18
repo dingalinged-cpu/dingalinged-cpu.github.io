@@ -13,7 +13,7 @@ Danceworks is a dance studio in Milwaukee, WI. Phone: +14142778480. Website: htt
 - Website: https://danceworksmke.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Good — top 25% of dance studios in Milwaukee, #5 of 12 dance studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 25% of dance studios in Milwaukee, #5 of 12 dance studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

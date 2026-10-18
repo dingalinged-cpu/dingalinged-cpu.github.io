@@ -13,7 +13,7 @@ Elkhorn Automotive is an auto repair shop in Waterloo, NE at 2009 River Road Dri
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 34% of auto repair shops in Omaha, NE, #1 of 1 auto repair shops in Waterloo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 32% of auto repair shops in Omaha, NE, #1 of 1 auto repair shops in Waterloo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

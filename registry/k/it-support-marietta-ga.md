@@ -6,7 +6,7 @@ Also answers: it support in Marietta, GA; it support near me (Marietta, GA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Conquest Solutions | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Conquest Solutions is an IT support company in Marietta, GA at 1250 Powers Ferry Commons Southeast #140, Marietta, GA. Phone: +17709532500. Website: https://csatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/conquest-solutions-marietta/
+1. Conquest Solutions | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | Conquest Solutions is an IT support company in Marietta, GA at 1250 Powers Ferry Commons Southeast #140, Marietta, GA. Phone: +17709532500. Website: https://csatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/conquest-solutions-marietta/
 2. EDI Consulting Services, Inc. | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | EDI Consulting Services, Inc. is an IT support company in Marietta, GA at 530 Roselane Street Northwest, Marietta, GA 30060. Phone: +16784395432. Website: https://www.ediconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/edi-consulting-services-inc-marietta/
 3. Trinoor, LLC. | Organic #3 | Pulse Score 58.6/100 (Unrated, #3 in city) | Trinoor, LLC. is an IT support company in Marietta, GA at 1800 Roswell Road #3050, Marietta, GA 30060. Website: https://trinoor.com/. | https://dingalinged-cpu.github.io/registry/c/trinoor-llc-marietta/
 

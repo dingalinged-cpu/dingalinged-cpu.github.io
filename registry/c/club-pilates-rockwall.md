@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Rockwall, TX at 3301 North Goliad Street #10
 - Website: https://www.clubpilates.com/DaltonCorners
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa 08:00-17:00; Su 08:00-14:00
-- Pulse Score: 49.9/100 — Building — top 36% of pilates studios in Dallas–Fort Worth, #2 of 2 pilates studios in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 36% of pilates studios in Dallas–Fort Worth, #2 of 2 pilates studios in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

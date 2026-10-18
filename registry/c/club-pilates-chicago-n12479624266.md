@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Chicago, IL at 907 West Madison Street, Chic
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Building — top 58% of pilates studios in Chicago, #5 of 8 pilates studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 58% of pilates studios in Chicago, #5 of 8 pilates studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 50.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

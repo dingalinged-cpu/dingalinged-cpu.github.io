@@ -13,7 +13,7 @@ The Bike Union is a bike shop in Omaha, NE at 1818 Dodge Street, Omaha, NE. Phon
 - Website: https://www.thebikeunion.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00; Sa 09:00-16:00; Su 09:00-13:00
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 24% of bike shops in Omaha, NE, #4 of 12 bike shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 24% of bike shops in Omaha, NE, #4 of 12 bike shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

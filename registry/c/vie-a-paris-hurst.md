@@ -13,7 +13,7 @@ Vie A Paris is a bakery in Hurst, TX at 954 Melbourne Road, Hurst, TX 76053.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 09:00-15:00
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 30% of bakerys in Dallas–Fort Worth, #2 of 3 bakerys in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 30% of bakerys in Dallas–Fort Worth, #2 of 3 bakerys in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

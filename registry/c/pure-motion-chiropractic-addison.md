@@ -13,7 +13,7 @@ Pure Motion Chiropractic is a chiropractor in Addison, TX at 15046 Beltway Drive
 - Website: https://puremotiondallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 43% of chiropractors in Dallas–Fort Worth, #2 of 2 chiropractors in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 43% of chiropractors in Dallas–Fort Worth, #2 of 2 chiropractors in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

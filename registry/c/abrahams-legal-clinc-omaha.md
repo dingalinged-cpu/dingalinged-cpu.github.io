@@ -13,7 +13,7 @@ Abrahams Legal Clinc is a lawyer in Omaha, NE at 2133 Cass Street, Omaha, NE 681
 - Website: https://law.creighton.edu/clinics/abrahams-legal-clinic
 - Email: clinic@creighton.edu
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 7% of lawyers in Omaha, NE, #1 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 7% of lawyers in Omaha, NE, #1 of 9 lawyers in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

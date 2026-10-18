@@ -6,7 +6,7 @@ Also answers: landscaping in Polk County, IA; landscaping near me (Polk County, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bob Lenc Landscaping | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Bob Lenc Landscaping is a landscaping company in Polk County, IA at 5430 Lower Beaver Road, Polk County, IA 50310. | https://dingalinged-cpu.github.io/registry/c/bob-lenc-landscaping-polk-county/
+1. Bob Lenc Landscaping | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Bob Lenc Landscaping is a landscaping company in Polk County, IA at 5430 Lower Beaver Road, Polk County, IA 50310. | https://dingalinged-cpu.github.io/registry/c/bob-lenc-landscaping-polk-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping polk county ia | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

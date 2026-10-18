@@ -13,7 +13,7 @@ Galbraith Carnahan Architects is an architect in Wauwatosa, WI at 6404 West Nort
 - Website: https://www.galbraithcarnahan.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 60% of architects in Milwaukee, #3 of 4 architects in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 60% of architects in Milwaukee, #3 of 4 architects in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

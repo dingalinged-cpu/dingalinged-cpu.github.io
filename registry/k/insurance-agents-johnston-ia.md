@@ -6,7 +6,7 @@ Also answers: insurance agents in Johnston, IA; insurance agents near me (Johnst
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm Insurance Agent | Organic #1 | Pulse Score 48/100 (Building, #1 in city) | State Farm Insurance Agent is an insurance agent in Johnston, IA at 5441 Northwest 86th Street #100, Johnston, IA 50131. Phone: +15152235566. Website: https://glennwaterhouse.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-insurance-agent-johnston/
+1. State Farm Insurance Agent | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | State Farm Insurance Agent is an insurance agent in Johnston, IA at 5441 Northwest 86th Street #100, Johnston, IA 50131. Phone: +15152235566. Website: https://glennwaterhouse.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-insurance-agent-johnston/
 2. American Family Insurance | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | American Family Insurance is an insurance agent in Johnston, IA. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-johnston/
 
 ## Market data (for advertisers and agents)

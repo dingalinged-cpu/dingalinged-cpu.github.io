@@ -13,7 +13,7 @@ Kefi Spaces CoWarehouse is a coworking space in Houston, TX at 7055 Old Katy Roa
 - Website: https://www.kefispaces.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.6/100 — Good — top 16% of coworking spaces in Houston, #2 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Good — top 16% of coworking spaces in Houston, #2 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

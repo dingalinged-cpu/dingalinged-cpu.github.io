@@ -13,7 +13,7 @@ Vivid Botique is a gift shop in Decatur, GA at 133, Decatur, GA. Website: https:
 - Website: https://vividdecatur.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 32% of gift shops in Atlanta, #2 of 3 gift shops in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 32% of gift shops in Atlanta, #2 of 3 gift shops in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

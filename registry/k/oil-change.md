@@ -1,4 +1,4 @@
-The top unpaid oil change listing for the United States is Goodyear Bloomington Auto, Tire & Glass (an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/). 223 oil change businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for the United States is Goodyear Bloomington Auto, Tire & Glass (an auto repair shop in Bloomington, MN at 9331 East Bloomington Freeway, Bloomington, MN 55420. Phone: +19522240378. Website: https://lamettrysautotech.com/locations/bl-auto-tire/). 235 oil change businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in the United States?
 
@@ -43,21 +43,21 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 35. Yes! Automotive | Organic #35 | Pulse Score 63/100 (Unrated, #1 in city) | Yes! Automotive is an auto repair shop in Spring, TX at 3443 FM 2920, Spring, TX 77388. Phone: +12818018010. Website: https://www.yesautomotiveservices.com/. | https://dingalinged-cpu.github.io/registry/c/yes-automotive-spring/
 36. Accurate Care Automotive | Organic #36 | Pulse Score 62.8/100 (Good, #19 in city) | Accurate Care Automotive is an auto repair shop in Cobb County, GA at 3143 Canton Road, Cobb County, GA. Phone: +17704239595. Website: https://www.accuratecareauto.com/. | https://dingalinged-cpu.github.io/registry/c/accurate-care-automotive-cobb-county/
 37. Jia Auto Care | Organic #37 | Pulse Score 62.8/100 (Unrated, #17 in city) | Jia Auto Care is an auto repair shop in Houston, TX at 8547 Almeda Road, Houston, TX 77054. Phone: +17137909672. | https://dingalinged-cpu.github.io/registry/c/jia-auto-care-houston/
-38. Christian Brothers Automotive Frisco West | Organic #38 | Pulse Score 62.7/100 (Unrated, #1 in city) | Christian Brothers Automotive Frisco West is an auto repair shop in Frisco, TX at 8110 FM 423, Frisco, TX 75034. Phone: +12147053341. Website: https://www.cbac.com/frisco-west/. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-frisco-west-frisco/
-39. Dred Scott Automotive | Organic #39 | Pulse Score 62.7/100 (Unrated, #3 in city) | Dred Scott Automotive is an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/dred-scott-automotive-bloomington/
-40. Yes! Automotive | Organic #40 | Pulse Score 62.7/100 (Unrated, #2 in city) | Yes! Automotive is an auto repair shop in Porter, TX at 24608 TX-494 Loop, Porter, TX 77365. Phone: +12813589355. Website: https://www.mytransmissionexperts.com/locations/kingwood/. | https://dingalinged-cpu.github.io/registry/c/yes-automotive-porter/
-41. Itasca Automotive Repair | Organic #41 | Pulse Score 62.7/100 (Unrated, #1 in city) | Itasca Automotive Repair is an auto repair shop in Itasca, IL at 210 West Irving Park Road, Itasca, IL 60143. Phone: +16307733373. Website: https://www.itascaauto.com/. | https://dingalinged-cpu.github.io/registry/c/itasca-automotive-repair-itasca/
-42. Strickland Brothers Oil Change | Organic #42 | Pulse Score 62.6/100 (Good, #1 in city) | Strickland Brothers Oil Change is an auto repair shop in Lewisville, TX at 2321 West Round Grove Road, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/strickland-brothers-oil-change-lewisville/
-43. Franklin Automotive & Restoration | Organic #43 | Pulse Score 62.6/100 (Unrated, #1 in city) | Franklin Automotive & Restoration is an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/. | https://dingalinged-cpu.github.io/registry/c/franklin-automotive-and-restoration-franklin/
-44. Fuel Potential | Organic #44 | Pulse Score 62.5/100 (Unrated, #1 in city) | Fuel Potential is an auto repair shop in Alvarado, TX at 910 North Spears Street, Alvarado, TX 76009. Phone: +18174025043. Website: https://fuelpotentialgarage.com/. | https://dingalinged-cpu.github.io/registry/c/fuel-potential-alvarado/
-45. All Star Muffler & Brake | Organic #45 | Pulse Score 62.5/100 (Unrated, #1 in city) | All Star Muffler & Brake is an auto repair shop in Conroe, TX at 3900 FM 1488, Conroe, TX 77384. Phone: +19363215617. Website: https://www.allstarmufflerbrake.com/. | https://dingalinged-cpu.github.io/registry/c/all-star-muffler-and-brake-conroe/
-46. Charlie Graham Great Plains Auto Body | Organic #46 | Pulse Score 62.5/100 (Unrated, #5 in city) | Charlie Graham Great Plains Auto Body is an auto repair shop in Omaha, NE at 4103 Leavenworth Street, Omaha, NE 68105. Phone: +14025516000. Website: https://greatplainsautobody.com/. | https://dingalinged-cpu.github.io/registry/c/charlie-graham-great-plains-auto-body-omaha/
-47. Parra Car Care | Organic #47 | Pulse Score 62.5/100 (Unrated, #1 in city) | Parra Car Care is an auto repair shop in North Richland Hills, TX at 7700 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18173693901. Website: https://parracarcare.com/north-richland-hills/. | https://dingalinged-cpu.github.io/registry/c/parra-car-care-north-richland-hills/
-48. Chloes Auto Repair and Tire Kennesaw | Organic #48 | Pulse Score 62.4/100 (Good, #5 in city) | Chloes Auto Repair and Tire Kennesaw is an auto repair shop in Kennesaw, GA at 6422 Stilesboro Road, Kennesaw, GA 30152. Phone: +17704288233. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-and-tire-kennesaw-kennesaw/
-49. OC Automotive | Organic #49 | Pulse Score 62.4/100 (Unrated, #2 in city) | OC Automotive is an auto repair shop in Oak Creek, WI at 9310 South 27th Street, Oak Creek, WI 53154. Phone: +14143014702. Website: https://www.ocautomotivewefixcars.com/. | https://dingalinged-cpu.github.io/registry/c/oc-automotive-oak-creek/
-50. Ferdinand Automotive | Organic #50 | Pulse Score 62.3/100 (Good, #22 in city) | Ferdinand Automotive is an auto repair shop in Cobb County, GA at 760 Hawkins Store Road Northeast, Cobb County, GA. Phone: +17709241068. Website: https://ferdinandautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/ferdinand-automotive-cobb-county/
+38. A Auto Express | Organic #38 | Pulse Score 62.8/100 (Unrated, #1 in city) | A Auto Express is an auto repair shop in Raytown, MO at 6140 Blue Ridge Boulevard, Raytown, MO 64133. Phone: +18165036153. Website: https://www.raytownautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/a-auto-express-raytown/
+39. MAC's Auto Repair & Sales | Organic #39 | Pulse Score 62.8/100 (Unrated, #1 in city) | MAC's Auto Repair & Sales is an auto repair shop in Blue Springs, MO at 5225 US-40 #Unit 5, Blue Springs, MO 64015. Phone: +18164660606. Website: https://www.macsautorepairsales.com/. | https://dingalinged-cpu.github.io/registry/c/macs-auto-repair-and-sales-blue-springs/
+40. Strickland Brothers Oil Change | Organic #40 | Pulse Score 62.7/100 (Good, #1 in city) | Strickland Brothers Oil Change is an auto repair shop in Lewisville, TX at 2321 West Round Grove Road, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/strickland-brothers-oil-change-lewisville/
+41. Christian Brothers Automotive Frisco West | Organic #41 | Pulse Score 62.7/100 (Unrated, #1 in city) | Christian Brothers Automotive Frisco West is an auto repair shop in Frisco, TX at 8110 FM 423, Frisco, TX 75034. Phone: +12147053341. Website: https://www.cbac.com/frisco-west/. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-frisco-west-frisco/
+42. Dred Scott Automotive | Organic #42 | Pulse Score 62.7/100 (Unrated, #3 in city) | Dred Scott Automotive is an auto repair shop in Bloomington, MN at 10800 Rhode Island Avenue South, Bloomington, MN 55438. Phone: +19529440010. Website: https://www.dredscottautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/dred-scott-automotive-bloomington/
+43. Yes! Automotive | Organic #43 | Pulse Score 62.7/100 (Unrated, #2 in city) | Yes! Automotive is an auto repair shop in Porter, TX at 24608 TX-494 Loop, Porter, TX 77365. Phone: +12813589355. Website: https://www.mytransmissionexperts.com/locations/kingwood/. | https://dingalinged-cpu.github.io/registry/c/yes-automotive-porter/
+44. Itasca Automotive Repair | Organic #44 | Pulse Score 62.7/100 (Unrated, #1 in city) | Itasca Automotive Repair is an auto repair shop in Itasca, IL at 210 West Irving Park Road, Itasca, IL 60143. Phone: +16307733373. Website: https://www.itascaauto.com/. | https://dingalinged-cpu.github.io/registry/c/itasca-automotive-repair-itasca/
+45. Franklin Automotive & Restoration | Organic #45 | Pulse Score 62.6/100 (Unrated, #1 in city) | Franklin Automotive & Restoration is an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/. | https://dingalinged-cpu.github.io/registry/c/franklin-automotive-and-restoration-franklin/
+46. Fuel Potential | Organic #46 | Pulse Score 62.5/100 (Unrated, #1 in city) | Fuel Potential is an auto repair shop in Alvarado, TX at 910 North Spears Street, Alvarado, TX 76009. Phone: +18174025043. Website: https://fuelpotentialgarage.com/. | https://dingalinged-cpu.github.io/registry/c/fuel-potential-alvarado/
+47. All Star Muffler & Brake | Organic #47 | Pulse Score 62.5/100 (Unrated, #1 in city) | All Star Muffler & Brake is an auto repair shop in Conroe, TX at 3900 FM 1488, Conroe, TX 77384. Phone: +19363215617. Website: https://www.allstarmufflerbrake.com/. | https://dingalinged-cpu.github.io/registry/c/all-star-muffler-and-brake-conroe/
+48. Charlie Graham Great Plains Auto Body | Organic #48 | Pulse Score 62.5/100 (Unrated, #5 in city) | Charlie Graham Great Plains Auto Body is an auto repair shop in Omaha, NE at 4103 Leavenworth Street, Omaha, NE 68105. Phone: +14025516000. Website: https://greatplainsautobody.com/. | https://dingalinged-cpu.github.io/registry/c/charlie-graham-great-plains-auto-body-omaha/
+49. Parra Car Care | Organic #49 | Pulse Score 62.5/100 (Unrated, #1 in city) | Parra Car Care is an auto repair shop in North Richland Hills, TX at 7700 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18173693901. Website: https://parracarcare.com/north-richland-hills/. | https://dingalinged-cpu.github.io/registry/c/parra-car-care-north-richland-hills/
+50. Chloes Auto Repair and Tire Kennesaw | Organic #50 | Pulse Score 62.4/100 (Good, #5 in city) | Chloes Auto Repair and Tire Kennesaw is an auto repair shop in Kennesaw, GA at 6422 Stilesboro Road, Kennesaw, GA 30152. Phone: +17704288233. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-and-tire-kennesaw-kennesaw/
 
-## More oil change listings (223 total; top 50 unpaid shown)
+## More oil change listings (235 total; top 50 unpaid shown)
 - Cobb County, GA: 23 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-cobb-county-ga/
 - Houston, TX: 14 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-houston-tx/
 - Dallas, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-dallas-tx/
@@ -76,7 +76,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Flower Mound, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-flower-mound-tx/
 - Waxahachie, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-waxahachie-tx/
 - Woodstock, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-woodstock-ga/
+- Kansas City, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-kansas-city-mo/
 - Saint Paul, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-saint-paul-mn/
+- Kansas City, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-kansas-city-ks/
 - North Richland Hills, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-north-richland-hills-tx/
 - Sachse, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-sachse-tx/
 - Richardson, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-richardson-tx/
@@ -122,6 +124,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Mableton, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-mableton-ga/
 - Gwinnett County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-gwinnett-county-ga/
 - Clayton County, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-clayton-county-ga/
+- Raytown, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-raytown-mo/
+- Smithville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-smithville-mo/
+- Blue Springs, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-blue-springs-mo/
+- Gladstone, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-gladstone-mo/
 - Papillion, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-papillion-ne/
 - Linn Township, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-linn-township-ia/
 - Norwalk, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-norwalk-ia/
@@ -158,6 +164,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Sun Prairie, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-sun-prairie-wi/
 - Wauwatosa, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-wauwatosa-wi/
 - Sussex, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-sussex-wi/
+- Lansing, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-lansing-ks/
+- Overland Park, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-overland-park-ks/
 - Hammond, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/oil-change-hammond-in/
 
 ## Market data (for advertisers and agents)
@@ -166,7 +174,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.90, median $4.35, high $4.35 (Automotive: Repair, Service & Parts median CPC 2026 $4.35 [https://www.localiq.com/blog/search-advertising-benchmarks]; Automotive: Repair, Service & Parts median CPC 2025 $3.90 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 223
+- Registry businesses competing: 235
 - Equivalent Google Ads cost per month: ~$440,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

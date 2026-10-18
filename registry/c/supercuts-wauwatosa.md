@@ -13,7 +13,7 @@ Supercuts is a hair salon in Wauwatosa, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.8/100 — Building — top 100% of hair salons in Milwaukee, #16 of 16 hair salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 39.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.8/100 — Building — top 99% of hair salons in Milwaukee, #16 of 16 hair salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 39.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

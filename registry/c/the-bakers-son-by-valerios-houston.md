@@ -13,7 +13,7 @@ The Baker's Son By Valerio's is a bakery in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 48% of bakerys in Houston, #38 of 75 bakerys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 45.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 47% of bakerys in Houston, #37 of 75 bakerys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 45.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

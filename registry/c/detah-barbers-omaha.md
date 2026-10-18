@@ -13,7 +13,7 @@ Detah Barbers is a barber shop in Omaha, NE at 4383 Izard Street, Omaha, NE 6810
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu 10:30-16:00; We-Sa 09:00-19:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Omaha, NE, #2 of 2 barber shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 100% of barber shops in Omaha, NE, #2 of 2 barber shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

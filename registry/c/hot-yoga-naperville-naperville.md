@@ -13,7 +13,7 @@ Hot Yoga Naperville is a yoga studio in Naperville, IL at 400 South Main Street,
 - Website: https://www.hotyoganaperville.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 17% of yoga studios in Chicago, #2 of 3 yoga studios in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 17% of yoga studios in Chicago, #2 of 3 yoga studios in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pre-Paid Legal Services, Inc. is a lawyer in Des Moines, IA at 922 42nd Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 39% of lawyers in Des Moines, IA, #10 of 17 lawyers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 39% of lawyers in Des Moines, IA, #10 of 17 lawyers in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

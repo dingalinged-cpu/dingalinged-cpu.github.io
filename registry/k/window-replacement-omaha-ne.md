@@ -6,7 +6,7 @@ Also answers: window replacement in Omaha, NE; window replacement near me (Omaha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Automotive Appearance Mr. Tintz | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Automotive Appearance Mr. Tintz is a window installer in Omaha, NE at 3325 South 66th Avenue Circle, Omaha, NE 68106. Phone: +14023999292. Website: https://mrtintz.com/. | https://dingalinged-cpu.github.io/registry/c/automotive-appearance-mr-tintz-omaha/
+1. Automotive Appearance Mr. Tintz | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Automotive Appearance Mr. Tintz is a window installer in Omaha, NE at 3325 South 66th Avenue Circle, Omaha, NE 68106. Phone: +14023999292. Website: https://mrtintz.com/. | https://dingalinged-cpu.github.io/registry/c/automotive-appearance-mr-tintz-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement omaha ne | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

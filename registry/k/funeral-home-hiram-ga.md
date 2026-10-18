@@ -6,7 +6,7 @@ Also answers: funeral home in Hiram, GA; funeral home near me (Hiram, GA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clark Funeral Home | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Clark Funeral Home is a funeral home in Hiram, GA at 4373 Atlanta Highway, Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/clark-funeral-home-hiram/
+1. Clark Funeral Home | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Clark Funeral Home is a funeral home in Hiram, GA at 4373 Atlanta Highway, Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/clark-funeral-home-hiram/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home hiram ga | category: Professional & financial services | industry benchmark: Finance & Insurance

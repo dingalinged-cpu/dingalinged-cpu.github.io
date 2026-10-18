@@ -1,4 +1,4 @@
-The top unpaid printing services listing for the United States is The Bitter Buffalo (a printing service in Minneapolis, MN at 4557 34th Avenue South, Minneapolis, MN 55406. Website: https://www.thebitterbuffalo.com/). 584 printing services businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for the United States is The Bitter Buffalo (a printing service in Minneapolis, MN at 4557 34th Avenue South, Minneapolis, MN 55406. Website: https://www.thebitterbuffalo.com/). 624 printing services businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in the United States?
 
@@ -32,37 +32,38 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 24. Pak Mail | Organic #24 | Pulse Score 61.3/100 (Unrated, #1 in city) | Pak Mail is a printing service in Atlanta, GA at 300 Peachtree Street Northeast #CS2, Atlanta, GA. Phone: +14042281314. Website: https://www.pakmail.com/stores/pak-mail-atlanta. | https://dingalinged-cpu.github.io/registry/c/pak-mail-atlanta/
 25. PostNet | Organic #25 | Pulse Score 61.3/100 (Unrated, #1 in city) | PostNet is a printing service in Roanoke, TX at 1224 North US Highway 377 #Suite 303, Roanoke, TX 76262. Phone: +18175678023. Website: https://locations.postnet.com/tx/roanoke/1224-us-377. | https://dingalinged-cpu.github.io/registry/c/postnet-roanoke/
 26. Visual Expressions Graphic Design & Printing, Inc. | Organic #26 | Pulse Score 61.1/100 (Unrated, #3 in city) | Visual Expressions Graphic Design & Printing, Inc. is a printing service in Minneapolis, MN at 4009 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127291649. Website: https://printve.com/. | https://dingalinged-cpu.github.io/registry/c/visual-expressions-graphic-design-and-printing-inc-minneapolis/
-27. The Goodie Shop | Organic #27 | Pulse Score 61/100 (Good, #3 in city) | The Goodie Shop is a printing service in Chicago, IL at 2100 South Pulaski Road, Chicago, IL 60623. Website: https://www.facebook.com/thegoodieshop2100/. | https://dingalinged-cpu.github.io/registry/c/the-goodie-shop-chicago/
-28. LDI Reproprinting Center | Organic #28 | Pulse Score 60.9/100 (Unrated, #2 in city) | LDI Reproprinting Center is a printing service in Norcross, GA at 3030 Business Park Drive ##A, Norcross, GA 30071. Phone: +17702631010. Website: https://ldigwinnett.com/. | https://dingalinged-cpu.github.io/registry/c/ldi-reproprinting-center-norcross/
-29. Personal Print Services | Organic #29 | Pulse Score 60.7/100 (Unrated, #1 in city) | Personal Print Services is a printing service in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/personal-print-services-flower-mound/
-30. Weber Printing | Organic #30 | Pulse Score 60.5/100 (Unrated, #4 in city) | Weber Printing is a printing service in Milwaukee, WI at 3048 North 34th Street, Milwaukee, WI 53210. Phone: +14144442970. Website: https://www.printweber.com/. | https://dingalinged-cpu.github.io/registry/c/weber-printing-milwaukee/
-31. Kwik-Print | Organic #31 | Pulse Score 60.5/100 (Unrated, #1 in city) | Kwik-Print is a printing service in Itasca, IL at 206 West Irving Park Road, Itasca, IL 60143. Phone: +16307733225. Website: https://www.kwikprint8.com/. | https://dingalinged-cpu.github.io/registry/c/kwik-print-itasca/
-32. Screen Door Studio | Organic #32 | Pulse Score 60.3/100 (Unrated, #1 in city) | Screen Door Studio is a printing service in Madison, WI. Phone: +16082552660. Website: https://screendoorprinting.com/. | https://dingalinged-cpu.github.io/registry/c/screen-door-studio-madison/
-33. Modern Press | Organic #33 | Pulse Score 60/100 (Unrated, #1 in city) | Modern Press is a printing service in New Brighton, MN at 808 1st Street Southwest, New Brighton, MN. Phone: +16516334000. Website: https://superprinter.com/. | https://dingalinged-cpu.github.io/registry/c/modern-press-new-brighton/
-34. Kwik Kopy Business Solutions | Organic #34 | Pulse Score 59.9/100 (Unrated, #1 in city) | Kwik Kopy Business Solutions is a printing service in Spring, TX at 1010 Spring Cypress Road, Spring, TX 77373. Phone: +12813537977. Website: https://www.kkspring.com/. | https://dingalinged-cpu.github.io/registry/c/kwik-kopy-business-solutions-spring/
-35. Addison Circle Post | Organic #35 | Pulse Score 59.6/100 (Unrated, #1 in city) | Addison Circle Post is a printing service in Addison, TX at 5015 Addison Circle, Addison, TX 75001. Phone: +19728519196. Website: https://www.addisoncirclepost.com/. | https://dingalinged-cpu.github.io/registry/c/addison-circle-post-addison/
-36. Hott Off the Press Printing & Marketing | Organic #36 | Pulse Score 59.6/100 (Unrated, #2 in city) | Hott Off the Press Printing & Marketing is a printing service in Des Moines, IA at 1330 Keosauqua Way, Des Moines, IA 50309. Phone: +15152435309. Website: https://www.hottoffthepress.com/. | https://dingalinged-cpu.github.io/registry/c/hott-off-the-press-printing-and-marketing-des-moines/
-37. Pressing On Towards The Mark | Organic #37 | Pulse Score 59.5/100 (Unrated, #2 in city) | Pressing On Towards The Mark is a printing service in West Allis, WI at 6127 West Mitchell Street, West Allis, WI 53214. Phone: +14143211444. Website: https://www.pressing-on.com/. | https://dingalinged-cpu.github.io/registry/c/pressing-on-towards-the-mark-west-allis/
-38. Studio Fusco | Organic #38 | Pulse Score 59.5/100 (Unrated, #1 in city) | Studio Fusco is a printing service in Indianola, IA. Phone: +15154420204. Website: https://studious.co/. | https://dingalinged-cpu.github.io/registry/c/studio-fusco-indianola/
-39. Bolger | Organic #39 | Pulse Score 59.4/100 (Unrated, #1 in city) | Bolger is a printing service in Saint Paul, MN at 3301 Como Avenue, Saint Paul, MN 55108. Phone: +16516456311. Website: https://bolgerinc.com/. | https://dingalinged-cpu.github.io/registry/c/bolger-saint-paul/
-40. Insty-Prints | Organic #40 | Pulse Score 59.4/100 (Unrated, #1 in city) | Insty-Prints is a printing service in Monona, WI at 4301 Monona Drive, Monona, WI 53716. Phone: +16085097279. Website: https://insty-printsmonona.com/. | https://dingalinged-cpu.github.io/registry/c/insty-prints-monona/
-41. Linhoff Photo + The Print Refinery | Organic #41 | Pulse Score 59.4/100 (Unrated, #1 in city) | Linhoff Photo + The Print Refinery is a printing service in Saint Louis Park, MN at 4811 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529277333. Website: https://www.linhoff.com/. | https://dingalinged-cpu.github.io/registry/c/linhoff-photo-the-print-refinery-saint-louis-park/
-42. Zip Printing & Copy Shop | Organic #42 | Pulse Score 59.4/100 (Unrated, #2 in city) | Zip Printing & Copy Shop is a printing service in Saint Louis Park, MN at 4950 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529202113. Website: https://www.zipcopyshop.com/. | https://dingalinged-cpu.github.io/registry/c/zip-printing-and-copy-shop-saint-louis-park/
-43. A to Z Printing & Signs | Organic #43 | Pulse Score 59.2/100 (Unrated, #1 in city) | A to Z Printing & Signs is a printing service in Richardson, TX at 100 East Main Street, Richardson, TX 75081. Website: https://www.printa2z.com/. | https://dingalinged-cpu.github.io/registry/c/a-to-z-printing-and-signs-richardson/
-44. Epicast Printing | Organic #44 | Pulse Score 59/100 (Unrated, #2 in city) | Epicast Printing is a printing service in Houston, TX at 611 East Parker Road, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/epicast-printing-houston/
-45. KeeKopy Printing | Organic #45 | Pulse Score 58.8/100 (Unrated, #2 in city) | KeeKopy Printing is a printing service in Addison, TX at 15072 Beltway Drive, Addison, TX 75001. Phone: +19722333048. | https://dingalinged-cpu.github.io/registry/c/keekopy-printing-addison/
-46. Publication Printing of NE | Organic #46 | Pulse Score 58.8/100 (Unrated, #1 in city) | Publication Printing of NE is a printing service in Waterloo, NE at 208 3rd Street, Waterloo, NE 68069. Website: https://www.pubprinting.com/. | https://dingalinged-cpu.github.io/registry/c/publication-printing-of-ne-waterloo/
-47. Postal + Copy Center | Organic #47 | Pulse Score 58.8/100 (Unrated, #3 in city) | Postal + Copy Center is a printing service in Houston, TX at 9668 Westheimer Road #Ste 200, Houston, TX 77063. | https://dingalinged-cpu.github.io/registry/c/postal-copy-center-houston/
-48. IIT Campus Business Center | Organic #48 | Pulse Score 58.7/100 (Unrated, #4 in city) | IIT Campus Business Center is a printing service in Chicago, IL at 3201 South State Street, Chicago, IL 60616. | https://dingalinged-cpu.github.io/registry/c/iit-campus-business-center-chicago/
-49. Bay View Printing Co. | Organic #49 | Pulse Score 58.6/100 (Unrated, #5 in city) | Bay View Printing Co. is a printing service in Milwaukee, WI at 2702 South Howell Avenue, Milwaukee, WI 53207. Website: https://bayviewprintingco.com/. | https://dingalinged-cpu.github.io/registry/c/bay-view-printing-co-milwaukee/
-50. Promolux | Organic #50 | Pulse Score 58.6/100 (Unrated, #1 in city) | Promolux is a printing service in Wauwatosa, WI at 6027 West Vliet Street, Wauwatosa, WI 53213. Website: https://epromolux.com/. | https://dingalinged-cpu.github.io/registry/c/promolux-wauwatosa/
+27. J&J Printing | Organic #27 | Pulse Score 61.1/100 (Unrated, #1 in city) | J&J Printing is a printing service in Lenexa, KS at 16701 West 116th Street, Lenexa, KS 66219. Phone: +19134914774. Website: https://www.jjprint.com/. | https://dingalinged-cpu.github.io/registry/c/j-and-j-printing-lenexa/
+28. The Goodie Shop | Organic #28 | Pulse Score 61/100 (Good, #3 in city) | The Goodie Shop is a printing service in Chicago, IL at 2100 South Pulaski Road, Chicago, IL 60623. Website: https://www.facebook.com/thegoodieshop2100/. | https://dingalinged-cpu.github.io/registry/c/the-goodie-shop-chicago/
+29. LDI Reproprinting Center | Organic #29 | Pulse Score 60.9/100 (Unrated, #2 in city) | LDI Reproprinting Center is a printing service in Norcross, GA at 3030 Business Park Drive ##A, Norcross, GA 30071. Phone: +17702631010. Website: https://ldigwinnett.com/. | https://dingalinged-cpu.github.io/registry/c/ldi-reproprinting-center-norcross/
+30. Personal Print Services | Organic #30 | Pulse Score 60.7/100 (Unrated, #1 in city) | Personal Print Services is a printing service in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/personal-print-services-flower-mound/
+31. Weber Printing | Organic #31 | Pulse Score 60.5/100 (Unrated, #4 in city) | Weber Printing is a printing service in Milwaukee, WI at 3048 North 34th Street, Milwaukee, WI 53210. Phone: +14144442970. Website: https://www.printweber.com/. | https://dingalinged-cpu.github.io/registry/c/weber-printing-milwaukee/
+32. Kwik-Print | Organic #32 | Pulse Score 60.5/100 (Unrated, #1 in city) | Kwik-Print is a printing service in Itasca, IL at 206 West Irving Park Road, Itasca, IL 60143. Phone: +16307733225. Website: https://www.kwikprint8.com/. | https://dingalinged-cpu.github.io/registry/c/kwik-print-itasca/
+33. Screen Door Studio | Organic #33 | Pulse Score 60.4/100 (Unrated, #1 in city) | Screen Door Studio is a printing service in Madison, WI. Phone: +16082552660. Website: https://screendoorprinting.com/. | https://dingalinged-cpu.github.io/registry/c/screen-door-studio-madison/
+34. Copier Shop | Organic #34 | Pulse Score 60.1/100 (Unrated, #1 in city) | Copier Shop is a printing service in Kansas City, MO at 7711 North Oak Trafficway ##B, Kansas City, MO 64118. Phone: +18164367600. Website: https://www.copiershop.net/. | https://dingalinged-cpu.github.io/registry/c/copier-shop-kansas-city/
+35. Modern Press | Organic #35 | Pulse Score 60/100 (Unrated, #1 in city) | Modern Press is a printing service in New Brighton, MN at 808 1st Street Southwest, New Brighton, MN. Phone: +16516334000. Website: https://superprinter.com/. | https://dingalinged-cpu.github.io/registry/c/modern-press-new-brighton/
+36. Kwik Kopy Business Solutions | Organic #36 | Pulse Score 59.9/100 (Unrated, #1 in city) | Kwik Kopy Business Solutions is a printing service in Spring, TX at 1010 Spring Cypress Road, Spring, TX 77373. Phone: +12813537977. Website: https://www.kkspring.com/. | https://dingalinged-cpu.github.io/registry/c/kwik-kopy-business-solutions-spring/
+37. Hott Off the Press Printing & Marketing | Organic #37 | Pulse Score 59.7/100 (Unrated, #2 in city) | Hott Off the Press Printing & Marketing is a printing service in Des Moines, IA at 1330 Keosauqua Way, Des Moines, IA 50309. Phone: +15152435309. Website: https://www.hottoffthepress.com/. | https://dingalinged-cpu.github.io/registry/c/hott-off-the-press-printing-and-marketing-des-moines/
+38. Addison Circle Post | Organic #38 | Pulse Score 59.6/100 (Unrated, #1 in city) | Addison Circle Post is a printing service in Addison, TX at 5015 Addison Circle, Addison, TX 75001. Phone: +19728519196. Website: https://www.addisoncirclepost.com/. | https://dingalinged-cpu.github.io/registry/c/addison-circle-post-addison/
+39. Pressing On Towards The Mark | Organic #39 | Pulse Score 59.5/100 (Unrated, #2 in city) | Pressing On Towards The Mark is a printing service in West Allis, WI at 6127 West Mitchell Street, West Allis, WI 53214. Phone: +14143211444. Website: https://www.pressing-on.com/. | https://dingalinged-cpu.github.io/registry/c/pressing-on-towards-the-mark-west-allis/
+40. Studio Fusco | Organic #40 | Pulse Score 59.5/100 (Unrated, #1 in city) | Studio Fusco is a printing service in Indianola, IA. Phone: +15154420204. Website: https://studious.co/. | https://dingalinged-cpu.github.io/registry/c/studio-fusco-indianola/
+41. Bolger | Organic #41 | Pulse Score 59.4/100 (Unrated, #1 in city) | Bolger is a printing service in Saint Paul, MN at 3301 Como Avenue, Saint Paul, MN 55108. Phone: +16516456311. Website: https://bolgerinc.com/. | https://dingalinged-cpu.github.io/registry/c/bolger-saint-paul/
+42. Insty-Prints | Organic #42 | Pulse Score 59.4/100 (Unrated, #1 in city) | Insty-Prints is a printing service in Monona, WI at 4301 Monona Drive, Monona, WI 53716. Phone: +16085097279. Website: https://insty-printsmonona.com/. | https://dingalinged-cpu.github.io/registry/c/insty-prints-monona/
+43. Linhoff Photo + The Print Refinery | Organic #43 | Pulse Score 59.4/100 (Unrated, #1 in city) | Linhoff Photo + The Print Refinery is a printing service in Saint Louis Park, MN at 4811 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529277333. Website: https://www.linhoff.com/. | https://dingalinged-cpu.github.io/registry/c/linhoff-photo-the-print-refinery-saint-louis-park/
+44. Zip Printing & Copy Shop | Organic #44 | Pulse Score 59.4/100 (Unrated, #2 in city) | Zip Printing & Copy Shop is a printing service in Saint Louis Park, MN at 4950 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +19529202113. Website: https://www.zipcopyshop.com/. | https://dingalinged-cpu.github.io/registry/c/zip-printing-and-copy-shop-saint-louis-park/
+45. A to Z Printing & Signs | Organic #45 | Pulse Score 59.2/100 (Unrated, #1 in city) | A to Z Printing & Signs is a printing service in Richardson, TX at 100 East Main Street, Richardson, TX 75081. Website: https://www.printa2z.com/. | https://dingalinged-cpu.github.io/registry/c/a-to-z-printing-and-signs-richardson/
+46. Epicast Printing | Organic #46 | Pulse Score 59/100 (Unrated, #2 in city) | Epicast Printing is a printing service in Houston, TX at 611 East Parker Road, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/epicast-printing-houston/
+47. KeeKopy Printing | Organic #47 | Pulse Score 58.8/100 (Unrated, #2 in city) | KeeKopy Printing is a printing service in Addison, TX at 15072 Beltway Drive, Addison, TX 75001. Phone: +19722333048. | https://dingalinged-cpu.github.io/registry/c/keekopy-printing-addison/
+48. Publication Printing of NE | Organic #48 | Pulse Score 58.8/100 (Unrated, #1 in city) | Publication Printing of NE is a printing service in Waterloo, NE at 208 3rd Street, Waterloo, NE 68069. Website: https://www.pubprinting.com/. | https://dingalinged-cpu.github.io/registry/c/publication-printing-of-ne-waterloo/
+49. Postal + Copy Center | Organic #49 | Pulse Score 58.8/100 (Unrated, #3 in city) | Postal + Copy Center is a printing service in Houston, TX at 9668 Westheimer Road #Ste 200, Houston, TX 77063. | https://dingalinged-cpu.github.io/registry/c/postal-copy-center-houston/
+50. KC Print Shop | Organic #50 | Pulse Score 58.7/100 (Unrated, #2 in city) | KC Print Shop is a printing service in Kansas City, MO at 5541 Troost Avenue, Kansas City, MO 64110. Website: https://www.kcprintshop.net/. | https://dingalinged-cpu.github.io/registry/c/kc-print-shop-kansas-city/
 
-## More printing services listings (584 total; top 50 unpaid shown)
+## More printing services listings (624 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/printing-services.jsonl
 - Chicago, IL: 67 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-chicago-il/
 - Houston, TX: 36 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-houston-tx/
 - Dallas, TX: 20 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-dallas-tx/
 - Milwaukee, WI: 16 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-milwaukee-wi/
+- Kansas City, MO: 15 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-kansas-city-mo/
 - Madison, WI: 12 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-madison-wi/
 - Minneapolis, MN: 12 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-minneapolis-mn/
 - Atlanta, GA: 12 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-atlanta-ga/
@@ -83,6 +84,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Omaha, NE: 5 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-omaha-ne/
 - Roswell, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-roswell-ga/
 - Smyrna, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-smyrna-ga/
+- Overland Park, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-overland-park-ks/
 - Flower Mound, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-flower-mound-tx/
 - The Woodlands, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-the-woodlands-tx/
 - Wauwatosa, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-wauwatosa-wi/
@@ -104,11 +106,14 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Vernon Hills, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-vernon-hills-il/
 - Mount Prospect, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-mount-prospect-il/
 - Brookfield, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-brookfield-il/
+- Independence, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-independence-mo/
 - Tucker, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-tucker-ga/
 - Brookhaven, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-brookhaven-ga/
 - Indianola, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-indianola-ia/
 - Urbandale, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-urbandale-ia/
 - West Des Moines, IA: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-west-des-moines-ia/
+- Lenexa, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-lenexa-ks/
+- Mission, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-mission-ks/
 - Allen, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-allen-tx/
 - Cedar Hill, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-cedar-hill-tx/
 - Colleyville, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-colleyville-tx/
@@ -154,6 +159,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Buffalo Grove, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-buffalo-grove-il/
 - Tinley Park, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-tinley-park-il/
 - Wilmette, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-wilmette-il/
+- Belton, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-belton-mo/
+- Lee'S Summit, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-lees-summit-mo/
 - Woodstock, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-woodstock-ga/
 - Forest Park, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-forest-park-ga/
 - Peachtree Corners, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-peachtree-corners-ga/
@@ -249,6 +256,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Wheeling, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-wheeling-il/
 - Will County, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-will-county-il/
 - Winnetka, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-winnetka-il/
+- Gladstone, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-gladstone-mo/
+- Blue Springs, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-blue-springs-mo/
+- Liberty, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-liberty-mo/
 - Fayetteville, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-fayetteville-ga/
 - Mcdonough, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-mcdonough-ga/
 - Peachtree City, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-peachtree-city-ga/
@@ -266,6 +276,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Tyrone, GA: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-tyrone-ga/
 - Ankeny, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-ankeny-ia/
 - Johnston, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-johnston-ia/
+- Gardner, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-gardner-ks/
+- Lansing, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-lansing-ks/
+- Leawood, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-leawood-ks/
+- Shawnee, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-shawnee-ks/
 - Gary, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-gary-in/
 - Munster, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-munster-in/
 - Dyer, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/printing-services-dyer-in/
@@ -276,7 +290,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 584
+- Registry businesses competing: 624
 - Equivalent Google Ads cost per month: ~$11,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

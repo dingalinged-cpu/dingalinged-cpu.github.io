@@ -6,7 +6,7 @@ Also answers: marketing agency in Edina, MN; marketing agency near me (Edina, MN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. IAN Inc. | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | IAN Inc. is a marketing agency in Edina, MN at 3948 West 50th Street #Suite 212, Edina, MN 55424. Phone: +19529156065. Website: https://ianinc.net/. | https://dingalinged-cpu.github.io/registry/c/ian-inc-edina/
+1. IAN Inc. | Organic #1 | Pulse Score 62.5/100 (Good, #1 in city) | IAN Inc. is a marketing agency in Edina, MN at 3948 West 50th Street #Suite 212, Edina, MN 55424. Phone: +19529156065. Website: https://ianinc.net/. | https://dingalinged-cpu.github.io/registry/c/ian-inc-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency edina mn | category: Professional & financial services | industry benchmark: Finance & Insurance

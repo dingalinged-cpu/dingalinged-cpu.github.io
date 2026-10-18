@@ -13,7 +13,7 @@ Pemberton Personal Injury Law Firm is a lawyer in Madison, WI at 5609 Medical Ci
 - Website: https://pembertonpi.com/wisconsin-personal-injury-lawyers/madison-personal-injury-lawyer/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 38% of lawyers in Madison, #5 of 12 lawyers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 38% of lawyers in Madison, #5 of 12 lawyers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: used cars for sale in Des Plaines, IL; used cars for sale near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hertz Car Sales | Organic #1 | Pulse Score 43.5/100 (Building, #1 in city) | Hertz Car Sales is an used car dealer in Des Plaines, IL at 2174 Mannheim Road, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/hertz-car-sales-des-plaines/
+1. Hertz Car Sales | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | Hertz Car Sales is an used car dealer in Des Plaines, IL at 2174 Mannheim Road, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/hertz-car-sales-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale des plaines il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

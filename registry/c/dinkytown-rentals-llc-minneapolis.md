@@ -13,7 +13,7 @@ Dinkytown Rentals, LLC is a property management company in Minneapolis, MN at 11
 - Website: https://www.dinkytownrentals.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
-- Pulse Score: 63.2/100 — Good — top 15% of property management companys in Minneapolis–St. Paul, #2 of 9 property management companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 15% of property management companys in Minneapolis–St. Paul, #2 of 9 property management companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 65. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

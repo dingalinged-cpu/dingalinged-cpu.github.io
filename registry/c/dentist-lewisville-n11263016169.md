@@ -13,7 +13,7 @@ Dentist is a dentist in Lewisville, TX at 1328 West Main Street, Lewisville, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-17:00; Tu-We 09:00-17:00; PH closed; Th-Fr,Su closed; Sa 09:00-15:00
-- Pulse Score: 49.3/100 — Building — top 90% of dentists in Dallas–Fort Worth, #29 of 32 dentists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 89% of dentists in Dallas–Fort Worth, #29 of 32 dentists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

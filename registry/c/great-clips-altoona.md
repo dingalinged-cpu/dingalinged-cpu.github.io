@@ -13,7 +13,7 @@ Great Clips is a hair salon in Altoona, IA at 550 36th Avenue Southwest, Altoona
 - Website: https://www.greatclips.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 74% of hair salons in Des Moines, IA, #3 of 5 hair salons in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 73% of hair salons in Des Moines, IA, #3 of 5 hair salons in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

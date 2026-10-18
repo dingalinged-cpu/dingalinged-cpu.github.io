@@ -10,8 +10,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Macy's Furniture Gallery | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Macy's Furniture Gallery is a furniture store in Edina, MN at 7235 France Avenue South, Edina, MN 55435. Phone: +19528962160. Website: https://www.macys.com/stores/mn/edina/southdale-furniture-and-mattress-gallery_234.html. | https://dingalinged-cpu.github.io/registry/c/macys-furniture-gallery-edina/
 3. LoveSac | Organic #3 | Pulse Score 45.5/100 (Building, #3 in city) | LoveSac is a furniture store in Edina, MN. Website: https://www.lovesac.com/showroomlocator/50th-and-france. | https://dingalinged-cpu.github.io/registry/c/lovesac-edina/
 4. Ethan Allen | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Ethan Allen is a furniture store in Edina, MN at 7101 France Avenue South #Suite 116, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-edina/
-5. west elm | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | west elm is a furniture store in Edina, MN at West 27th Street, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/west-elm-edina/
-6. La-Z-Boy | Organic #6 | Pulse Score 43.9/100 (Building, #6 in city) | La-Z-Boy is a furniture store in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-edina/
+5. La-Z-Boy | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | La-Z-Boy is a furniture store in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-edina/
+6. west elm | Organic #6 | Pulse Score 44/100 (Building, #6 in city) | west elm is a furniture store in Edina, MN at West 27th Street, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/west-elm-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store edina mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

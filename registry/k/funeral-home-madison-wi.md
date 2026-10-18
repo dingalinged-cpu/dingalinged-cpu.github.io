@@ -8,9 +8,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Cress Funeral & Cremation Services | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Cress Funeral & Cremation Services is a funeral home in Madison, WI at 3610 Speedway Road, Madison, WI 53705. Phone: +16082383434. Website: https://www.cressfuneralservice.com/. | https://dingalinged-cpu.github.io/registry/c/cress-funeral-and-cremation-services-madison/
 2. Ryan Funeral Home | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Ryan Funeral Home is a funeral home in Madison, WI at 6728 Mader Drive, Madison, WI 53719. Phone: +16082741000. Website: https://www.ryanfuneralservice.com/. | https://dingalinged-cpu.github.io/registry/c/ryan-funeral-home-madison/
-3. Cress Funeral Home | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Cress Funeral Home is a funeral home in Madison, WI at East Washington Avenue, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cress-funeral-home-madison/
-4. Cress Center | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Cress Center is a funeral home in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cress-center-madison/
-5. Joyce Ryan Funeral Home | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Joyce Ryan Funeral Home is a funeral home in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/joyce-ryan-funeral-home-madison/
+3. Cress Funeral Home | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Cress Funeral Home is a funeral home in Madison, WI at East Washington Avenue, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cress-funeral-home-madison/
+4. Cress Center | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Cress Center is a funeral home in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cress-center-madison/
+5. Joyce Ryan Funeral Home | Organic #5 | Pulse Score 55/100 (Unrated, #5 in city) | Joyce Ryan Funeral Home is a funeral home in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/joyce-ryan-funeral-home-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home madison wi | category: Professional & financial services | industry benchmark: Finance & Insurance

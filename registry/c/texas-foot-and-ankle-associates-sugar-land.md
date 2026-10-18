@@ -13,7 +13,7 @@ Texas Foot & Ankle Associates is a podiatrist in Sugar Land, TX at 3143 State Hi
 - Website: https://doctors.wellmedhealthcare.com/locations/details/12623
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su off
-- Pulse Score: 62.6/100 — Good — top 15% of podiatrists in Houston, #1 of 1 podiatrists in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 15% of podiatrists in Houston, #1 of 1 podiatrists in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

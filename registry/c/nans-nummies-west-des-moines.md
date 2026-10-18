@@ -13,7 +13,7 @@ Nan's Nummies is a bakery in West Des Moines, IA at 501 Elm Street, West Des Moi
 - Website: https://nansnummies.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:30; Su 12:00-18:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of bakerys in Des Moines, IA, #1 of 4 bakerys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of bakerys in Des Moines, IA, #1 of 4 bakerys in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

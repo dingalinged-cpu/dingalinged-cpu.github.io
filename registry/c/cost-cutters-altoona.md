@@ -13,7 +13,7 @@ Cost Cutters is a hair salon in Altoona, IA at 301 Center Place Southwest #B, Al
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-15:00; PH closed
-- Pulse Score: 47/100 — Building — top 76% of hair salons in Des Moines, IA, #4 of 5 hair salons in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 75% of hair salons in Des Moines, IA, #4 of 5 hair salons in Altoona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

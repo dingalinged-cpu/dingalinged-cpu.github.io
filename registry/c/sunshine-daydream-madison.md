@@ -13,7 +13,7 @@ Sunshine Daydream is a gift shop in Madison, WI at 619 State Street, Madison, WI
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 11:00-21:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 12% of gift shops in Madison, #2 of 14 gift shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 12% of gift shops in Madison, #2 of 14 gift shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

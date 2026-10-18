@@ -7,7 +7,7 @@ Also answers: car wash in Fitchburg, WI; car wash near me (Fitchburg, WI); best 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Auto Spa Car Wash-Fitchburg/Madison | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Auto Spa Car Wash-Fitchburg/Madison is a car wash in Fitchburg, WI at 5328 Verona Road, Fitchburg, WI 53711. | https://dingalinged-cpu.github.io/registry/c/auto-spa-car-wash-fitchburg-madison-fitchburg/
-2. Kwik Trip | Organic #2 | Pulse Score 50.9/100 (Fair, #2 in city) | Kwik Trip is a car wash in Fitchburg, WI. Website: https://www.kwiktrip.com/locator/store?id=1166. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-fitchburg-w1137841027/
+2. Kwik Trip | Organic #2 | Pulse Score 50.8/100 (Fair, #2 in city) | Kwik Trip is a car wash in Fitchburg, WI. Website: https://www.kwiktrip.com/locator/store?id=1166. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-fitchburg-w1137841027/
 3. Kwik Trip | Organic #3 | Pulse Score 42.7/100 (Building, #3 in city) | Kwik Trip is a car wash in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-fitchburg/
 4. Take 5 Car Wash | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Take 5 Car Wash is a car wash in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/take-5-car-wash-fitchburg/
 

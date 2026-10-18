@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Mount Horeb, WI at 1209 Springdale Street, Mount Hor
 - Website: https://www.anytimefitness.com/gyms/2424/mount-horeb-wi-53572/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 50.8/100 — Fair — top 57% of gyms in Madison, #1 of 1 gyms in Mount Horeb (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 67.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 57% of gyms in Madison, #1 of 1 gyms in Mount Horeb (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 67.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

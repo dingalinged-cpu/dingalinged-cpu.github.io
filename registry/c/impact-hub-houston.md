@@ -13,7 +13,7 @@ Impact Hub is a coworking space in Houston, TX at 4201 Main Street #L055-C, Hous
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.1/100 — Building — top 85% of coworking spaces in Houston, #9 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 85% of coworking spaces in Houston, #9 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: phone repair in Niles, IL; phone repair near me (Niles, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | Organic #1 | Pulse Score 41.5/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Niles, IL. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-niles/
+1. uBreakiFix | Organic #1 | Pulse Score 41.6/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Niles, IL. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair niles il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

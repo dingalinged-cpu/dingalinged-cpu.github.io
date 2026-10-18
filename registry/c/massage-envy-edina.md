@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Edina, MN at 7101 France Avenue South, Edina
 - Website: https://www.massageenvy.com/clinics/MN/Edina-.aspx
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-22:00
-- Pulse Score: 49.1/100 — Building — top 79% of massage studios in Minneapolis–St. Paul, #4 of 4 massage studios in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 79% of massage studios in Minneapolis–St. Paul, #4 of 4 massage studios in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

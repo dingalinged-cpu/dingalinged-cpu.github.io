@@ -13,7 +13,7 @@ Results PT is a physical therapy clinic in Spring, TX at 6600 Spring Stuebner Ro
 - Website: https://www.resultspt.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 83% of physical therapy clinics in Houston, #3 of 3 physical therapy clinics in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 77% of physical therapy clinics in Houston, #3 of 3 physical therapy clinics in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

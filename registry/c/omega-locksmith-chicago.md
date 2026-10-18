@@ -13,7 +13,7 @@ Omega Locksmith is a locksmith in Chicago, IL at 4346 West 51st Street, Chicago,
 - Website: https://www.omegalocksmith.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 56% of locksmiths in Chicago, #7 of 10 locksmiths in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 56% of locksmiths in Chicago, #7 of 10 locksmiths in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

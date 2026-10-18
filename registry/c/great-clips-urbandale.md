@@ -13,7 +13,7 @@ Great Clips is a hair salon in Urbandale, IA at 11129 Plum Drive, Urbandale, IA 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 81% of hair salons in Des Moines, IA, #13 of 15 hair salons in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 80% of hair salons in Des Moines, IA, #13 of 15 hair salons in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

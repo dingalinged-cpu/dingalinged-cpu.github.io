@@ -13,7 +13,7 @@ Mary Best Design is an interior designer in Shorewood, WI at 2219 East Capitol D
 - Website: https://www.marybestdesigns.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Good — top 50% of interior designers in Milwaukee, #1 of 1 interior designers in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Good — top 50% of interior designers in Milwaukee, #1 of 1 interior designers in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

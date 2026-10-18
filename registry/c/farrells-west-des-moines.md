@@ -13,7 +13,7 @@ Farrell's is a gym in West Des Moines, IA at 1905 E P True Parkway, West Des Moi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 19% of gyms in Des Moines, IA, #1 of 16 gyms in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 45.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 19% of gyms in Des Moines, IA, #1 of 16 gyms in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 45.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

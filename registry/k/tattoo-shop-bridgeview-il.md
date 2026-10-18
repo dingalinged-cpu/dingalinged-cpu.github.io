@@ -6,7 +6,7 @@ Also answers: tattoo shop in Bridgeview, IL; tattoo shop near me (Bridgeview, IL
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marc'D Up Tattoo & Piercing Studio | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Marc'D Up Tattoo & Piercing Studio is a tattoo shop in Bridgeview, IL at 8520 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085813985. | https://dingalinged-cpu.github.io/registry/c/marcd-up-tattoo-and-piercing-studio-bridgeview/
+1. Marc'D Up Tattoo & Piercing Studio | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Marc'D Up Tattoo & Piercing Studio is a tattoo shop in Bridgeview, IL at 8520 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085813985. | https://dingalinged-cpu.github.io/registry/c/marcd-up-tattoo-and-piercing-studio-bridgeview/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop bridgeview il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

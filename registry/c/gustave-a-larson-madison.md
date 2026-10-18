@@ -13,7 +13,7 @@ Gustave A Larson is a HVAC contractor in Madison, WI at 4537 Pflaum Road, Madiso
 - Website: https://www.galarson.com/locations
 - Email: larson.madison@galarson.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 20% of HVAC contractors in Madison, #1 of 2 HVAC contractors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 20% of HVAC contractors in Madison, #1 of 2 HVAC contractors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

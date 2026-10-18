@@ -13,7 +13,7 @@ Avant Garde Piercing is a piercing studio in West Allis, WI at 7201 West Greenfi
 - Website: https://www.agpiercing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 11:00-21:00; Su,Mo off
-- Pulse Score: 62.8/100 — Good — top 50% of piercing studios in Milwaukee, #1 of 1 piercing studios in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 50% of piercing studios in Milwaukee, #1 of 1 piercing studios in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

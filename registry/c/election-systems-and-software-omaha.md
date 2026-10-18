@@ -13,7 +13,7 @@ Election Systems and Software is an IT support company in Omaha, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 100% of IT support companys in Omaha, NE, #3 of 3 IT support companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 39. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 100% of IT support companys in Omaha, NE, #3 of 3 IT support companys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 39. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

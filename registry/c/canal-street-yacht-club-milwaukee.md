@@ -13,7 +13,7 @@ Canal Street Yacht Club is an event venue in Milwaukee, WI at 1200 West Canal St
 - Website: https://www.canalstreetyachtclub.com/
 - Email: manager@twistedfisherman.com
 - Opening hours (OSM syntax): May-Sep
-- Pulse Score: 64.9/100 — Good — top 7% of event venues in Milwaukee, #4 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 66.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65/100 — Good — top 7% of event venues in Milwaukee, #4 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

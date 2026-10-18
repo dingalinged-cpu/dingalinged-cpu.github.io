@@ -7,7 +7,7 @@ Also answers: plumbers in Ankeny, IA; plumbers near me (Ankeny, IA); best plumbe
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Premier Plumbing | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Premier Plumbing is a plumber in Ankeny, IA at 121 Southeast Shurfine Drive, Ankeny, IA 50021. Phone: +15159650714. Website: https://www.premierplumbing.org/. | https://dingalinged-cpu.github.io/registry/c/premier-plumbing-ankeny/
-2. Priority Plumbing | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Priority Plumbing is a plumber in Ankeny, IA at 905 Southwest Ordnance Road #Suite F, Ankeny, IA 50023. Phone: +15152433509. Website: https://www.priorityplumbingco.com/. | https://dingalinged-cpu.github.io/registry/c/priority-plumbing-ankeny/
+2. Priority Plumbing | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Priority Plumbing is a plumber in Ankeny, IA at 905 Southwest Ordnance Road #Suite F, Ankeny, IA 50023. Phone: +15152433509. Website: https://www.priorityplumbingco.com/. | https://dingalinged-cpu.github.io/registry/c/priority-plumbing-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers ankeny ia | category: Home Services | industry benchmark: Home & Home Improvement

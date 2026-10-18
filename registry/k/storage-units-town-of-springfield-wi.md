@@ -6,7 +6,7 @@ Also answers: storage units in Town Of Springfield, WI; storage units near me (T
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Schneider Storage | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Schneider Storage is a self-storage facility in Town of Springfield, WI at 6814 Schneider Road, Town of Springfield, WI. | https://dingalinged-cpu.github.io/registry/c/schneider-storage-town-of-springfield/
+1. Schneider Storage | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Schneider Storage is a self-storage facility in Town of Springfield, WI at 6814 Schneider Road, Town of Springfield, WI. | https://dingalinged-cpu.github.io/registry/c/schneider-storage-town-of-springfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units town of springfield wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

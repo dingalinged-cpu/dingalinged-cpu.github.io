@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Silva Academy Brazilian Jiu-Jitsu | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Silva Academy Brazilian Jiu-Jitsu is a martial arts school in Lewisville, TX at 2488 Meadowglen Drive #201, Lewisville, TX. Phone: +14693229616. Website: https://www.silvaacademy.com/. | https://dingalinged-cpu.github.io/registry/c/silva-academy-brazilian-jiu-jitsu-lewisville/
 2. Kim's USA Taekwondo | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Kim's USA Taekwondo is a martial arts school in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/kims-usa-taekwondo-lewisville/
-3. Kenpo Karate | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Kenpo Karate is a martial arts school in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/kenpo-karate-lewisville/
+3. Kenpo Karate | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | Kenpo Karate is a martial arts school in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/kenpo-karate-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts lewisville tx | category: Fitness | industry benchmark: Health & Fitness

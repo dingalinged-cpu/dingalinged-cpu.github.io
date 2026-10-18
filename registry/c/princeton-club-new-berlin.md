@@ -13,7 +13,7 @@ Princeton Club is a yoga studio in New Berlin, WI. Website: https://www.princeto
 - Website: https://www.princetonclubnewberlin.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 43.4/100 — Unrated (not enough evidence yet) — top 100% of yoga studios in Milwaukee, #1 of 1 yoga studios in New Berlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 44. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 100% of yoga studios in Milwaukee, #1 of 1 yoga studios in New Berlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

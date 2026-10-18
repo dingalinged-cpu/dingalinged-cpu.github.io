@@ -13,7 +13,7 @@ Thelen Plumbing, Heating & Air is a HVAC contractor in Minneapolis, MN at 427 No
 - Website: https://thelenmechanical.com/
 - Email: info@thelenmechanical.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:30
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 23% of HVAC contractors in Minneapolis–St. Paul, #2 of 3 HVAC contractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 19% of HVAC contractors in Minneapolis–St. Paul, #1 of 3 HVAC contractors in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

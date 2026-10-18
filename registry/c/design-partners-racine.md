@@ -13,7 +13,7 @@ Design Partners is a graphic designer in Racine, WI at 338 Main Street, Racine, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 100% of graphic designers in Milwaukee, #2 of 2 graphic designers in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 42.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 100% of graphic designers in Milwaukee, #2 of 2 graphic designers in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

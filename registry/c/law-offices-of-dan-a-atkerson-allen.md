@@ -13,7 +13,7 @@ Law Offices Of Dan A. Atkerson is a lawyer in Allen, TX at 1025 Arches Park Driv
 - Website: https://www.atkersonlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Dallas–Fort Worth, #1 of 2 lawyers in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 50.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Dallas–Fort Worth, #1 of 2 lawyers in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

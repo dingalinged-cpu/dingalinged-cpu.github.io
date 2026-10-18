@@ -13,7 +13,7 @@ MGM Auto Sales is an used car dealer in Shakopee, MN at 804 1st Avenue East, Sha
 - Website: https://www.wheels-and-dealsmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 6% of used car dealers in Minneapolis–St. Paul, #1 of 1 used car dealers in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 6% of used car dealers in Minneapolis–St. Paul, #1 of 1 used car dealers in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

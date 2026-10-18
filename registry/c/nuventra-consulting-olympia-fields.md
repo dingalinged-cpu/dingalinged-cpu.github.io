@@ -13,7 +13,7 @@ Nuventra Consulting is a business consultant in Olympia Fields, IL at 20200 Gove
 - Website: https://www.nuventraconsulting.com/
 - Email: info@nuventraconsulting.com
 - Opening hours (OSM syntax): Mo,Tu,Fr 19:00-22:30; Sa 10:00-18:00; Su 12:00-20:00
-- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 8% of business consultants in Chicago, #1 of 1 business consultants in Olympia Fields (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 8% of business consultants in Chicago, #1 of 1 business consultants in Olympia Fields (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

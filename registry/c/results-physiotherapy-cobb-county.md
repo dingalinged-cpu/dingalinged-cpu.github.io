@@ -13,7 +13,7 @@ Results Physiotherapy is a physical therapy clinic in Cobb County, GA at 3460 Sa
 - Website: https://www.resultspt.com/results-physiotherapy-sandy-plains-ga
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:00-16:00; Tu 09:00-18:00; We 07:00-16:00; Th 09:00-18:00; Fr 07:00-16:00; Sa off; Su off
-- Pulse Score: 47.1/100 — Building — top 63% of physical therapy clinics in Atlanta, #7 of 10 physical therapy clinics in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 63% of physical therapy clinics in Atlanta, #7 of 10 physical therapy clinics in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

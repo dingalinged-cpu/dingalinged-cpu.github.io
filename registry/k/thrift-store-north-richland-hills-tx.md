@@ -6,7 +6,7 @@ Also answers: thrift store in North Richland Hills, TX; thrift store near me (No
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Second Glance | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Second Glance is a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909. | https://dingalinged-cpu.github.io/registry/c/second-glance-north-richland-hills/
+1. Second Glance | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Second Glance is a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909. | https://dingalinged-cpu.github.io/registry/c/second-glance-north-richland-hills/
 2. Leukemia Texas Donation Center | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Leukemia Texas Donation Center is a thrift store in North Richland Hills, TX at 6702 Davis Boulevard, North Richland Hills, TX 76182. Website: https://leukemiatexas.org/haltom-thrift/. | https://dingalinged-cpu.github.io/registry/c/leukemia-texas-donation-center-north-richland-hills/
 
 ## Market data (for advertisers and agents)

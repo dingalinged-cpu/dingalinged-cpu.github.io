@@ -1,4 +1,4 @@
-The top unpaid storage units listing for the United States is East Bank Storage (a self-storage facility in Milwaukee, WI at 2025 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14143743600. Website: https://eastbankstorage.com/downtown-milwaukee/). 1087 storage units businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for the United States is East Bank Storage (a self-storage facility in Milwaukee, WI at 2025 North Doctor Martin Luther King Junior Drive, Milwaukee, WI 53212. Phone: +14143743600. Website: https://eastbankstorage.com/downtown-milwaukee/). 1159 storage units businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in the United States?
 
@@ -55,9 +55,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 47. All American Self-Storage | Organic #47 | Pulse Score 62.1/100 (Unrated, #1 in city) | All American Self-Storage is a self-storage facility in Saint Paul, MN at 670 Pelham Boulevard, Saint Paul, MN 55114. Phone: +16517724494. Website: https://www.allamericanself-storage.com/. | https://dingalinged-cpu.github.io/registry/c/all-american-self-storage-saint-paul/
 48. Freeway Mini Storage | Organic #48 | Pulse Score 62.1/100 (Unrated, #1 in city) | Freeway Mini Storage is a self-storage facility in Forest Lake, MN at 14474 West Freeway Drive, Forest Lake, MN 55025. Phone: +16519829999. Website: https://www.freewayministorage.com/. | https://dingalinged-cpu.github.io/registry/c/freeway-mini-storage-forest-lake/
 49. Lake Region Storage | Organic #49 | Pulse Score 62.1/100 (Unrated, #2 in city) | Lake Region Storage is a self-storage facility in Saint Paul, MN at 606 Vandalia Street, Saint Paul, MN 55114. Phone: +16516474400. Website: https://st-paul.lakeregionstorage.com/. | https://dingalinged-cpu.github.io/registry/c/lake-region-storage-saint-paul/
-50. Stephen's Self-Storage | Organic #50 | Pulse Score 62.1/100 (Unrated, #1 in city) | Stephen's Self-Storage is a self-storage facility in Oakdale, MN at 5698 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517773122. Website: https://stephensself-storage.com/. | https://dingalinged-cpu.github.io/registry/c/stephens-self-storage-oakdale/
+50. Smart Storage | Organic #50 | Pulse Score 62.1/100 (Unrated, #1 in city) | Smart Storage is a self-storage facility in Lenexa, KS at 8600 Maurer Road, Lenexa, KS 66219. Phone: +19134049377. Website: https://www.absolutemgmt.com/storage-locations/ks/lenexa/smart-storage-lenexa. | https://dingalinged-cpu.github.io/registry/c/smart-storage-lenexa/
 
-## More storage units listings (1087 total; top 50 unpaid shown)
+## More storage units listings (1159 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/storage-units.jsonl
 - Chicago, IL: 108 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-chicago-il/
 - Houston, TX: 81 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-houston-tx/
@@ -68,11 +68,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Milwaukee, WI: 20 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-milwaukee-wi/
 - Dekalb County, GA: 19 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-dekalb-county-ga/
 - Atlanta, GA: 18 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-atlanta-ga/
+- Kansas City, MO: 16 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-kansas-city-mo/
 - Omaha, NE: 15 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-omaha-ne/
 - Gwinnett County, GA: 14 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-gwinnett-county-ga/
 - Mesquite, TX: 13 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-mesquite-tx/
 - Saint Paul, MN: 13 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-saint-paul-mn/
 - Mckinney, TX: 11 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-mckinney-tx/
+- Shawnee, KS: 11 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-shawnee-ks/
 - Minneapolis, MN: 11 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-minneapolis-mn/
 - Denton, TX: 10 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-denton-tx/
 - Lewisville, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-lewisville-tx/
@@ -94,6 +96,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Mansfield, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-mansfield-tx/
 - Rosenberg, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-rosenberg-tx/
 - Madison, WI: 6 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-madison-wi/
+- Olathe, KS: 6 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-olathe-ks/
+- Independence, MO: 6 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-independence-mo/
 - Garland, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-garland-tx/
 - Chicago Precinct, NE: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-chicago-precinct-ne/
 - Douglasville, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-douglasville-ga/
@@ -101,6 +105,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Stonecrest, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-stonecrest-ga/
 - Forest Park, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-forest-park-ga/
 - Racine, WI: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-racine-wi/
+- Lenexa, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-lenexa-ks/
 - Ankeny, IA: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-ankeny-ia/
 - Eagan, MN: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-eagan-mn/
 - Bolingbrook, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-bolingbrook-il/
@@ -150,6 +155,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Mcdonough, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-mcdonough-ga/
 - Caledonia, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-caledonia-wi/
 - Fitchburg, WI: 3 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-fitchburg-wi/
+- Leavenworth, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-leavenworth-ks/
 - Brooklyn Park, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-brooklyn-park-mn/
 - Bloomington, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-bloomington-mn/
 - Crystal, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-crystal-mn/
@@ -197,8 +203,15 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Union Grove, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-union-grove-wi/
 - West Allis, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-west-allis-wi/
 - Town Of Middleton, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-town-of-middleton-wi/
+- Lansing, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-lansing-ks/
+- Merriam, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-merriam-ks/
+- Overland Park, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-overland-park-ks/
 - Elkhart, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-elkhart-ia/
 - West Des Moines, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-west-des-moines-ia/
+- Liberty, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-liberty-mo/
+- Buckner, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-buckner-mo/
+- Blue Springs, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-blue-springs-mo/
+- Belton, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-belton-mo/
 - Shorewood, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-shorewood-mn/
 - Rockford, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-rockford-mn/
 - White Bear Lake, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-white-bear-lake-mn/
@@ -291,12 +304,23 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Waunakee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-waunakee-wi/
 - Village Of Pewaukee, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-village-of-pewaukee-wi/
 - Wauwatosa, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-wauwatosa-wi/
+- Spring Hill, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-spring-hill-ks/
+- Basehor, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-basehor-ks/
+- Kansas City, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-kansas-city-ks/
+- Grandview, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-grandview-ks/
 - Polk City, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-polk-city-ia/
 - Huxley, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-huxley-ia/
 - Grimes, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-grimes-ia/
 - Urbandale, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-urbandale-ia/
 - Altoona, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-altoona-ia/
 - Council Bluffs, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-council-bluffs-ia/
+- Oak Grove, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-oak-grove-mo/
+- Excelsior Springs, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-excelsior-springs-mo/
+- Clay County, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-clay-county-mo/
+- Ferrelview, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-ferrelview-mo/
+- Gladstone, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-gladstone-mo/
+- Platte City, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-platte-city-mo/
+- Smithville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-smithville-mo/
 - Saint Bonifacius, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-saint-bonifacius-mn/
 - South Saint Paul, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-south-saint-paul-mn/
 - Chaska, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/storage-units-chaska-mn/
@@ -373,7 +397,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $7.85, median $8.33, high $8.33 (Home & Home Improvement median CPC 2026 $8.33 [https://www.localiq.com/blog/search-advertising-benchmarks]; Home & Home Improvement median CPC 2025 $7.85 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: high (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 1087
+- Registry businesses competing: 1159
 - Equivalent Google Ads cost per month: ~$120,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

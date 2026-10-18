@@ -13,7 +13,7 @@ United Installers Plumbing is a plumber in Douglasville, GA at 2112 Britt Road, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 65% of plumbers in Atlanta, #1 of 2 plumbers in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 49.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 65% of plumbers in Atlanta, #1 of 2 plumbers in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 49.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

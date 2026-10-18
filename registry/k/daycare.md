@@ -1,4 +1,4 @@
-The top unpaid daycare listing for the United States is Denton City County Day School (a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/). 593 daycare businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for the United States is Denton City County Day School (a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/). 648 daycare businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in the United States?
 
@@ -29,35 +29,35 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 21. iLearn Center | Organic #21 | Pulse Score 63.1/100 (Unrated, #4 in city) | iLearn Center is a daycare in Chicago, IL at 1801 West Chicago Avenue, Chicago, IL. Phone: +13128889983. Website: https://www.ilearncenter.com/. | https://dingalinged-cpu.github.io/registry/c/ilearn-center-chicago/
 22. Bertha Alyce Early Childhood School | Organic #22 | Pulse Score 63.1/100 (Unrated, #3 in city) | Bertha Alyce Early Childhood School is a daycare in Houston, TX at 5601 South Braeswood Boulevard, Houston, TX 77096. Phone: +17135517200. Website: https://www.erjcchouston.org/bertha-alyce-early-childhood-school/. | https://dingalinged-cpu.github.io/registry/c/bertha-alyce-early-childhood-school-houston/
 23. Kids Land Learning Center | Organic #23 | Pulse Score 63.1/100 (Unrated, #1 in city) | Kids Land Learning Center is a daycare in Milwaukee, WI at 7918 West Capitol Drive, Milwaukee, WI 53222. Phone: +14147633194. | https://dingalinged-cpu.github.io/registry/c/kids-land-learning-center-milwaukee/
-24. Montessori Gifted Prep | Organic #24 | Pulse Score 63/100 (Unrated, #5 in city) | Montessori Gifted Prep is a daycare in Chicago, IL at 2200 West Giddings Street, Chicago, IL 60625. Phone: +17732937794. Website: https://www.montessorigiftedprep.org/. | https://dingalinged-cpu.github.io/registry/c/montessori-gifted-prep-chicago/
-25. Bundle of Joy Academy | Organic #25 | Pulse Score 62.8/100 (Good, #4 in city) | Bundle of Joy Academy is a daycare in Cobb County, GA at 2145 Barnes Mill Road Northeast, Cobb County, GA 30062. Phone: +17705653933. | https://dingalinged-cpu.github.io/registry/c/bundle-of-joy-academy-cobb-county/
-26. Grandma's House | Organic #26 | Pulse Score 62.8/100 (Unrated, #1 in city) | Grandma's House is a daycare in Wauwatosa, WI at 6119 West Vliet Street, Wauwatosa, WI 53213. Phone: +14144757605. Website: https://grandmashouse.org/center/highland-center/. | https://dingalinged-cpu.github.io/registry/c/grandmas-house-wauwatosa/
-27. Lois Lovable Lullabies Childcare | Organic #27 | Pulse Score 62.8/100 (Unrated, #2 in city) | Lois Lovable Lullabies Childcare is a daycare in Milwaukee, WI at 6132 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14147633240. Website: https://www.loislovablelullabies.com/. | https://dingalinged-cpu.github.io/registry/c/lois-lovable-lullabies-childcare-milwaukee/
-28. TenderCare Christian Child Care | Organic #28 | Pulse Score 62.8/100 (Unrated, #3 in city) | TenderCare Christian Child Care is a daycare in Milwaukee, WI at 5229 West Capitol Drive, Milwaukee, WI 53216. Phone: +14144478396. Website: https://tendercarechristian.org/. | https://dingalinged-cpu.github.io/registry/c/tendercare-christian-child-care-milwaukee/
-29. Promiseland Learning Center | Organic #29 | Pulse Score 62.8/100 (Unrated, #6 in city) | Promiseland Learning Center is a daycare in Chicago, IL at 6203-6205 West Montrose Avenue, Chicago, IL. Phone: +17736856121. Website: https://promiselandlearning.com/. | https://dingalinged-cpu.github.io/registry/c/promiseland-learning-center-chicago/
-30. Apple Tree Christian Academy | Organic #30 | Pulse Score 62.7/100 (Unrated, #1 in city) | Apple Tree Christian Academy is a daycare in Dallas, TX at 2726 West Illinois Avenue, Dallas, TX 75233. Phone: +12143300413. Website: https://www.appletreechristian.com/. | https://dingalinged-cpu.github.io/registry/c/apple-tree-christian-academy-dallas/
-31. Little Tyke Creative Child Care | Organic #31 | Pulse Score 62.7/100 (Unrated, #1 in city) | Little Tyke Creative Child Care is a daycare in North Richland Hills, TX at 6700 Smithfield Road, North Richland Hills, TX 76182. Phone: +18172815783. Website: https://littletykechildcare.com/locations/little-tyke-north-richland-hills-watauga-tx/. | https://dingalinged-cpu.github.io/registry/c/little-tyke-creative-child-care-north-richland-hills/
-32. SOS Center | Organic #32 | Pulse Score 62.7/100 (Unrated, #4 in city) | SOS Center is a daycare in Milwaukee, WI at 4620 West North Avenue, Milwaukee, WI 53208. Phone: +14144499964. Website: https://soscenterinc.org/. | https://dingalinged-cpu.github.io/registry/c/sos-center-milwaukee/
-33. TLC Learning Center, Inc. | Organic #33 | Pulse Score 62.7/100 (Unrated, #1 in city) | TLC Learning Center, Inc. is a daycare in Lodi, WI at N1544 Sunset Dr, Lodi, WI 53555. Phone: +16085925006. Website: https://tlclearningcenterwi.com/. | https://dingalinged-cpu.github.io/registry/c/tlc-learning-center-inc-lodi/
-34. Childrens Lighthouse Learning Centers | Organic #34 | Pulse Score 62.7/100 (Unrated, #1 in city) | Childrens Lighthouse Learning Centers is a daycare in Frisco, TX at 10660 Eldorado Parkway, Frisco, TX. Phone: +14692521767. Website: https://childrenslighthouse.com/frisco. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-learning-centers-frisco/
-35. KIDS USA Montessori Inc. | Organic #35 | Pulse Score 62.6/100 (Unrated, #1 in city) | KIDS USA Montessori Inc. is a daycare in Plano, TX at 6205 Coit Road #118, Plano, TX 75024. Phone: +19727864869. Website: https://kidsusamontessori.org/. | https://dingalinged-cpu.github.io/registry/c/kids-usa-montessori-inc-plano/
-36. Tierra Encantada | Organic #36 | Pulse Score 62.6/100 (Unrated, #1 in city) | Tierra Encantada is a daycare in Minneapolis, MN at 4012 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127220509. Website: https://www.tierraencantada.com/hiawatha. | https://dingalinged-cpu.github.io/registry/c/tierra-encantada-minneapolis/
-37. Little People Learning Tree, LLC | Organic #37 | Pulse Score 62.5/100 (Unrated, #4 in city) | Little People Learning Tree, LLC is a daycare in Houston, TX at 457 Pickering Street, Houston, TX 77091. Phone: +17136940066. Website: https://littlepeopleslearningtree.com/. | https://dingalinged-cpu.github.io/registry/c/little-people-learning-tree-llc-houston/
-38. Big Adventures Learning Center | Organic #38 | Pulse Score 62.4/100 (Unrated, #5 in city) | Big Adventures Learning Center is a daycare in Milwaukee, WI at 3829 West North Avenue, Milwaukee, WI 53208. Phone: +14145732032. | https://dingalinged-cpu.github.io/registry/c/big-adventures-learning-center-milwaukee/
-39. A Mother's Heart Learning Center | Organic #39 | Pulse Score 62.4/100 (Unrated, #1 in city) | A Mother's Heart Learning Center is a daycare in West Allis, WI at 1700 South 60th Street, West Allis, WI 53214. Phone: +14143778007. Website: https://amhlc-wi.com/. | https://dingalinged-cpu.github.io/registry/c/a-mothers-heart-learning-center-west-allis/
-40. Future Scholar Christian Academy | Organic #40 | Pulse Score 62.4/100 (Unrated, #6 in city) | Future Scholar Christian Academy is a daycare in Milwaukee, WI at 6401 West Capitol Drive, Milwaukee, WI 53216. Phone: +14145443164. Website: https://www.futurescholarca.com/. | https://dingalinged-cpu.github.io/registry/c/future-scholar-christian-academy-milwaukee/
-41. Pinebrook KinderCare | Organic #41 | Pulse Score 62.4/100 (Unrated, #5 in city) | Pinebrook KinderCare is a daycare in Houston, TX at 4422 Clear Lake City Boulevard, Houston, TX 77059. Phone: +12814611822. Website: https://www.kindercare.com/our-centers/houston/tx/000584/. | https://dingalinged-cpu.github.io/registry/c/pinebrook-kindercare-houston/
-42. Loving Touch Daycare | Organic #42 | Pulse Score 62.3/100 (Good, #5 in city) | Loving Touch Daycare is a daycare in Cobb County, GA at 2145 Roswell Road #180, Cobb County, GA. Phone: +14046201200. | https://dingalinged-cpu.github.io/registry/c/loving-touch-daycare-cobb-county/
-43. Exceed World Academy | Organic #43 | Pulse Score 62.2/100 (Good, #6 in city) | Exceed World Academy is a daycare in Cobb County, GA at 803 Brackett Road Northeast, Cobb County, GA. Phone: +17705289575. Website: https://exceedworldacademy.com/. | https://dingalinged-cpu.github.io/registry/c/exceed-world-academy-cobb-county/
-44. Child's World Academic Inc. | Organic #44 | Pulse Score 62.2/100 (Unrated, #7 in city) | Child's World Academic Inc. is a daycare in Chicago, IL at 6730 South Indiana Avenue, Chicago, IL 60637. Phone: +17732244147. Website: https://childsworldacademic.com/. | https://dingalinged-cpu.github.io/registry/c/childs-world-academic-inc-chicago/
-45. Houston Heights Day Care | Organic #45 | Pulse Score 62.2/100 (Unrated, #6 in city) | Houston Heights Day Care is a daycare in Houston, TX at 902 West 8th Street, Houston, TX 77007. Phone: +18327867112. Website: https://www.houstonheightsxlentcare.net/. | https://dingalinged-cpu.github.io/registry/c/houston-heights-day-care-houston/
-46. Innovators Trilingual Academy | Organic #46 | Pulse Score 62.2/100 (Unrated, #1 in city) | Innovators Trilingual Academy is a daycare in Smyrna, GA at 2590 Atlanta Rd SE, Smyrna, GA 30080. Phone: +17709545771. Website: https://tri-school.com/. | https://dingalinged-cpu.github.io/registry/c/innovators-trilingual-academy-smyrna/
-47. Kinder Academy Daycare | Organic #47 | Pulse Score 62.2/100 (Unrated, #8 in city) | Kinder Academy Daycare is a daycare in Chicago, IL at 5939 West Irving Park Road, Chicago, IL 60634. Phone: +17739992466. Website: https://kinderusa.net/. | https://dingalinged-cpu.github.io/registry/c/kinder-academy-daycare-chicago/
-48. East Dallas Developmental Center | Organic #48 | Pulse Score 62.2/100 (Unrated, #2 in city) | East Dallas Developmental Center is a daycare in Dallas, TX at 2010 Skillman Street, Dallas, TX. Phone: +12148217766. Website: https://www.eddc.net/. | https://dingalinged-cpu.github.io/registry/c/east-dallas-developmental-center-dallas/
-49. Pattys Childcare Center II | Organic #49 | Pulse Score 62.2/100 (Unrated, #1 in city) | Pattys Childcare Center II is a daycare in Omaha, NE at 4110 South 13th Street, Omaha, NE 68107. Website: https://pattyschildcarepapillion.com/. | https://dingalinged-cpu.github.io/registry/c/pattys-childcare-center-ii-omaha/
-50. KLA Schools | Organic #50 | Pulse Score 62.1/100 (Unrated, #1 in city) | KLA Schools is a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville. | https://dingalinged-cpu.github.io/registry/c/kla-schools-naperville/
+24. Little Wonders Christian Daycare | Organic #24 | Pulse Score 63/100 (Unrated, #1 in city) | Little Wonders Christian Daycare is a daycare in Olathe, KS at 659 North Somerset Terrace #C, Olathe, KS 66062. Phone: +19133933035. Website: https://lwcdaycareks.com/. | https://dingalinged-cpu.github.io/registry/c/little-wonders-christian-daycare-olathe/
+25. Montessori Gifted Prep | Organic #25 | Pulse Score 63/100 (Unrated, #5 in city) | Montessori Gifted Prep is a daycare in Chicago, IL at 2200 West Giddings Street, Chicago, IL 60625. Phone: +17732937794. Website: https://www.montessorigiftedprep.org/. | https://dingalinged-cpu.github.io/registry/c/montessori-gifted-prep-chicago/
+26. Grandma's House | Organic #26 | Pulse Score 62.9/100 (Unrated, #1 in city) | Grandma's House is a daycare in Wauwatosa, WI at 6119 West Vliet Street, Wauwatosa, WI 53213. Phone: +14144757605. Website: https://grandmashouse.org/center/highland-center/. | https://dingalinged-cpu.github.io/registry/c/grandmas-house-wauwatosa/
+27. Lois Lovable Lullabies Childcare | Organic #27 | Pulse Score 62.9/100 (Unrated, #2 in city) | Lois Lovable Lullabies Childcare is a daycare in Milwaukee, WI at 6132 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14147633240. Website: https://www.loislovablelullabies.com/. | https://dingalinged-cpu.github.io/registry/c/lois-lovable-lullabies-childcare-milwaukee/
+28. TenderCare Christian Child Care | Organic #28 | Pulse Score 62.9/100 (Unrated, #3 in city) | TenderCare Christian Child Care is a daycare in Milwaukee, WI at 5229 West Capitol Drive, Milwaukee, WI 53216. Phone: +14144478396. Website: https://tendercarechristian.org/. | https://dingalinged-cpu.github.io/registry/c/tendercare-christian-child-care-milwaukee/
+29. Bundle of Joy Academy | Organic #29 | Pulse Score 62.8/100 (Good, #4 in city) | Bundle of Joy Academy is a daycare in Cobb County, GA at 2145 Barnes Mill Road Northeast, Cobb County, GA 30062. Phone: +17705653933. | https://dingalinged-cpu.github.io/registry/c/bundle-of-joy-academy-cobb-county/
+30. Promiseland Learning Center | Organic #30 | Pulse Score 62.8/100 (Unrated, #6 in city) | Promiseland Learning Center is a daycare in Chicago, IL at 6203-6205 West Montrose Avenue, Chicago, IL. Phone: +17736856121. Website: https://promiselandlearning.com/. | https://dingalinged-cpu.github.io/registry/c/promiseland-learning-center-chicago/
+31. Apple Tree Christian Academy | Organic #31 | Pulse Score 62.7/100 (Unrated, #1 in city) | Apple Tree Christian Academy is a daycare in Dallas, TX at 2726 West Illinois Avenue, Dallas, TX 75233. Phone: +12143300413. Website: https://www.appletreechristian.com/. | https://dingalinged-cpu.github.io/registry/c/apple-tree-christian-academy-dallas/
+32. Little Tyke Creative Child Care | Organic #32 | Pulse Score 62.7/100 (Unrated, #1 in city) | Little Tyke Creative Child Care is a daycare in North Richland Hills, TX at 6700 Smithfield Road, North Richland Hills, TX 76182. Phone: +18172815783. Website: https://littletykechildcare.com/locations/little-tyke-north-richland-hills-watauga-tx/. | https://dingalinged-cpu.github.io/registry/c/little-tyke-creative-child-care-north-richland-hills/
+33. SOS Center | Organic #33 | Pulse Score 62.7/100 (Unrated, #4 in city) | SOS Center is a daycare in Milwaukee, WI at 4620 West North Avenue, Milwaukee, WI 53208. Phone: +14144499964. Website: https://soscenterinc.org/. | https://dingalinged-cpu.github.io/registry/c/sos-center-milwaukee/
+34. TLC Learning Center, Inc. | Organic #34 | Pulse Score 62.7/100 (Unrated, #1 in city) | TLC Learning Center, Inc. is a daycare in Lodi, WI at N1544 Sunset Dr, Lodi, WI 53555. Phone: +16085925006. Website: https://tlclearningcenterwi.com/. | https://dingalinged-cpu.github.io/registry/c/tlc-learning-center-inc-lodi/
+35. Childrens Lighthouse Learning Centers | Organic #35 | Pulse Score 62.7/100 (Unrated, #1 in city) | Childrens Lighthouse Learning Centers is a daycare in Frisco, TX at 10660 Eldorado Parkway, Frisco, TX. Phone: +14692521767. Website: https://childrenslighthouse.com/frisco. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-learning-centers-frisco/
+36. KIDS USA Montessori Inc. | Organic #36 | Pulse Score 62.6/100 (Unrated, #1 in city) | KIDS USA Montessori Inc. is a daycare in Plano, TX at 6205 Coit Road #118, Plano, TX 75024. Phone: +19727864869. Website: https://kidsusamontessori.org/. | https://dingalinged-cpu.github.io/registry/c/kids-usa-montessori-inc-plano/
+37. Tierra Encantada | Organic #37 | Pulse Score 62.6/100 (Unrated, #1 in city) | Tierra Encantada is a daycare in Minneapolis, MN at 4012 Minnehaha Avenue, Minneapolis, MN 55406. Phone: +16127220509. Website: https://www.tierraencantada.com/hiawatha. | https://dingalinged-cpu.github.io/registry/c/tierra-encantada-minneapolis/
+38. Little People Learning Tree, LLC | Organic #38 | Pulse Score 62.5/100 (Unrated, #4 in city) | Little People Learning Tree, LLC is a daycare in Houston, TX at 457 Pickering Street, Houston, TX 77091. Phone: +17136940066. Website: https://littlepeopleslearningtree.com/. | https://dingalinged-cpu.github.io/registry/c/little-people-learning-tree-llc-houston/
+39. Big Adventures Learning Center | Organic #39 | Pulse Score 62.4/100 (Unrated, #5 in city) | Big Adventures Learning Center is a daycare in Milwaukee, WI at 3829 West North Avenue, Milwaukee, WI 53208. Phone: +14145732032. | https://dingalinged-cpu.github.io/registry/c/big-adventures-learning-center-milwaukee/
+40. A Mother's Heart Learning Center | Organic #40 | Pulse Score 62.4/100 (Unrated, #1 in city) | A Mother's Heart Learning Center is a daycare in West Allis, WI at 1700 South 60th Street, West Allis, WI 53214. Phone: +14143778007. Website: https://amhlc-wi.com/. | https://dingalinged-cpu.github.io/registry/c/a-mothers-heart-learning-center-west-allis/
+41. Future Scholar Christian Academy | Organic #41 | Pulse Score 62.4/100 (Unrated, #6 in city) | Future Scholar Christian Academy is a daycare in Milwaukee, WI at 6401 West Capitol Drive, Milwaukee, WI 53216. Phone: +14145443164. Website: https://www.futurescholarca.com/. | https://dingalinged-cpu.github.io/registry/c/future-scholar-christian-academy-milwaukee/
+42. Pinebrook KinderCare | Organic #42 | Pulse Score 62.4/100 (Unrated, #5 in city) | Pinebrook KinderCare is a daycare in Houston, TX at 4422 Clear Lake City Boulevard, Houston, TX 77059. Phone: +12814611822. Website: https://www.kindercare.com/our-centers/houston/tx/000584/. | https://dingalinged-cpu.github.io/registry/c/pinebrook-kindercare-houston/
+43. Loving Touch Daycare | Organic #43 | Pulse Score 62.3/100 (Good, #5 in city) | Loving Touch Daycare is a daycare in Cobb County, GA at 2145 Roswell Road #180, Cobb County, GA. Phone: +14046201200. | https://dingalinged-cpu.github.io/registry/c/loving-touch-daycare-cobb-county/
+44. Pattys Childcare Center II | Organic #44 | Pulse Score 62.3/100 (Unrated, #1 in city) | Pattys Childcare Center II is a daycare in Omaha, NE at 4110 South 13th Street, Omaha, NE 68107. Website: https://pattyschildcarepapillion.com/. | https://dingalinged-cpu.github.io/registry/c/pattys-childcare-center-ii-omaha/
+45. Exceed World Academy | Organic #45 | Pulse Score 62.2/100 (Good, #6 in city) | Exceed World Academy is a daycare in Cobb County, GA at 803 Brackett Road Northeast, Cobb County, GA. Phone: +17705289575. Website: https://exceedworldacademy.com/. | https://dingalinged-cpu.github.io/registry/c/exceed-world-academy-cobb-county/
+46. Child's World Academic Inc. | Organic #46 | Pulse Score 62.2/100 (Unrated, #7 in city) | Child's World Academic Inc. is a daycare in Chicago, IL at 6730 South Indiana Avenue, Chicago, IL 60637. Phone: +17732244147. Website: https://childsworldacademic.com/. | https://dingalinged-cpu.github.io/registry/c/childs-world-academic-inc-chicago/
+47. Houston Heights Day Care | Organic #47 | Pulse Score 62.2/100 (Unrated, #6 in city) | Houston Heights Day Care is a daycare in Houston, TX at 902 West 8th Street, Houston, TX 77007. Phone: +18327867112. Website: https://www.houstonheightsxlentcare.net/. | https://dingalinged-cpu.github.io/registry/c/houston-heights-day-care-houston/
+48. Innovators Trilingual Academy | Organic #48 | Pulse Score 62.2/100 (Unrated, #1 in city) | Innovators Trilingual Academy is a daycare in Smyrna, GA at 2590 Atlanta Rd SE, Smyrna, GA 30080. Phone: +17709545771. Website: https://tri-school.com/. | https://dingalinged-cpu.github.io/registry/c/innovators-trilingual-academy-smyrna/
+49. Kinder Academy Daycare | Organic #49 | Pulse Score 62.2/100 (Unrated, #8 in city) | Kinder Academy Daycare is a daycare in Chicago, IL at 5939 West Irving Park Road, Chicago, IL 60634. Phone: +17739992466. Website: https://kinderusa.net/. | https://dingalinged-cpu.github.io/registry/c/kinder-academy-daycare-chicago/
+50. East Dallas Developmental Center | Organic #50 | Pulse Score 62.2/100 (Unrated, #2 in city) | East Dallas Developmental Center is a daycare in Dallas, TX at 2010 Skillman Street, Dallas, TX. Phone: +12148217766. Website: https://www.eddc.net/. | https://dingalinged-cpu.github.io/registry/c/east-dallas-developmental-center-dallas/
 
-## More daycare listings (593 total; top 50 unpaid shown)
+## More daycare listings (648 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/daycare.jsonl
 - Chicago, IL: 73 listings: https://dingalinged-cpu.github.io/registry/k/daycare-chicago-il/
 - Milwaukee, WI: 72 listings: https://dingalinged-cpu.github.io/registry/k/daycare-milwaukee-wi/
@@ -67,6 +67,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Dallas, TX: 16 listings: https://dingalinged-cpu.github.io/registry/k/daycare-dallas-tx/
 - Madison, WI: 14 listings: https://dingalinged-cpu.github.io/registry/k/daycare-madison-wi/
 - Omaha, NE: 14 listings: https://dingalinged-cpu.github.io/registry/k/daycare-omaha-ne/
+- Kansas City, MO: 12 listings: https://dingalinged-cpu.github.io/registry/k/daycare-kansas-city-mo/
 - Cobb County, GA: 9 listings: https://dingalinged-cpu.github.io/registry/k/daycare-cobb-county-ga/
 - Mesquite, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/daycare-mesquite-tx/
 - Fitchburg, WI: 8 listings: https://dingalinged-cpu.github.io/registry/k/daycare-fitchburg-wi/
@@ -79,6 +80,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Oak Park, IL: 5 listings: https://dingalinged-cpu.github.io/registry/k/daycare-oak-park-il/
 - Arlington, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/daycare-arlington-tx/
 - Fort Bend County, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/daycare-fort-bend-county-tx/
+- Shawnee, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/daycare-shawnee-ks/
+- Olathe, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/daycare-olathe-ks/
+- Overland Park, KS: 5 listings: https://dingalinged-cpu.github.io/registry/k/daycare-overland-park-ks/
 - Naperville, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-naperville-il/
 - Evansville, WI: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-evansville-wi/
 - Forney, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/daycare-forney-tx/
@@ -96,6 +100,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Frisco, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-frisco-tx/
 - North Richland Hills, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-north-richland-hills-tx/
 - Sunnyvale, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-sunnyvale-tx/
+- Lenexa, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-lenexa-ks/
+- Leavenworth, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-leavenworth-ks/
+- Blue Springs, MO: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-blue-springs-mo/
 - Shakopee, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-shakopee-mn/
 - Rockford, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/daycare-rockford-mn/
 - Clayton County, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-clayton-county-ga/
@@ -123,10 +130,16 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Irving, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-irving-tx/
 - Trophy Club, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-trophy-club-tx/
 - Sachse, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-sachse-tx/
+- Lansing, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-lansing-ks/
+- Gardner, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-gardner-ks/
+- Leawood, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-leawood-ks/
+- Kansas City, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-kansas-city-ks/
 - Grimes, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-grimes-ia/
 - Ankeny, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-ankeny-ia/
 - Glenwood, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-glenwood-ia/
 - West Des Moines, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-west-des-moines-ia/
+- Grain Valley, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-grain-valley-mo/
+- Platte City, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-platte-city-mo/
 - Eden Prairie, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-eden-prairie-mn/
 - Edina, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-edina-mn/
 - Hugo, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/daycare-hugo-mn/
@@ -220,12 +233,19 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Fort Worth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-fort-worth-tx/
 - Addison, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-addison-tx/
 - Corinth, TX: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-corinth-tx/
+- Prairie Village, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-prairie-village-ks/
 - Johnston, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-johnston-ia/
 - Urbandale, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-urbandale-ia/
 - Carlisle, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-carlisle-ia/
 - Elkhart, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-elkhart-ia/
 - Huxley, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-huxley-ia/
 - Polk City, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-polk-city-ia/
+- Gladstone, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-gladstone-mo/
+- Liberty, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-liberty-mo/
+- Independence, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-independence-mo/
+- Smithville, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-smithville-mo/
+- Buckner, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-buckner-mo/
+- Lee'S Summit, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-lees-summit-mo/
 - Rogers, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-rogers-mn/
 - Mahtomedi, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-mahtomedi-mn/
 - Plymouth, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/daycare-plymouth-mn/
@@ -258,7 +278,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.81, median $4.81, high $6.23 (Education & Instruction median CPC 2026 $4.81 [https://www.localiq.com/blog/search-advertising-benchmarks]; Education & Instruction median CPC 2025 $6.23 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 593
+- Registry businesses competing: 648
 - Equivalent Google Ads cost per month: ~$61,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -13,7 +13,7 @@ Gold Leaf Landscape is a landscaping company in Kennesaw, GA at 1983 Old 41 High
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 69% of landscaping companys in Atlanta, #1 of 1 landscaping companys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 69% of landscaping companys in Atlanta, #1 of 1 landscaping companys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 45.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

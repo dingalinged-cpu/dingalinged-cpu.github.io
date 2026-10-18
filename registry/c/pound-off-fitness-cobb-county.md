@@ -13,7 +13,7 @@ Pound Off .Fitness is a gym in Cobb County, GA at 4672 Sandy Plains Road Northea
 - Website: n/a
 - Email: Info@poundoff.fitness
 - Opening hours (OSM syntax): Mo-Fr 05:30-08:00,12:00-13:00; Sa 08:00-12:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 16% of gyms in Atlanta, #12 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 15% of gyms in Atlanta, #11 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: funeral home in Homer Glen, IL; funeral home near me (Homer Glen, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Modell Funeral Home | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Modell Funeral Home is a funeral home in Homer Glen, IL at 12641 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/modell-funeral-home-homer-glen/
+1. Modell Funeral Home | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Modell Funeral Home is a funeral home in Homer Glen, IL at 12641 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/modell-funeral-home-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home homer glen il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ FedEx Office is a printing service in Papillion, NE at 11425 South 72nd Street #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.5/100 — Building — top 88% of printing services in Omaha, NE, #2 of 2 printing services in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.1, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.6/100 — Building — top 88% of printing services in Omaha, NE, #2 of 2 printing services in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.1, Trust 49. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

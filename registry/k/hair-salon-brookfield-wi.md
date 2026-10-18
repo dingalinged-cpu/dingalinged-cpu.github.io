@@ -9,12 +9,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Cheveux Salon | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Cheveux Salon is a hair salon in Brookfield, WI at 2425 North 124th Street, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/cheveux-salon-brookfield/
 2. From Hair On | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | From Hair On is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/from-hair-on-brookfield/
 3. Pigtails and Crewcuts | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Pigtails and Crewcuts is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/pigtails-and-crewcuts-brookfield/
-4. Salon Suites | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Salon Suites is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/salon-suites-brookfield/
-5. Great Clips | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | Great Clips is a hair salon in Brookfield, WI at 12455 West Capitol Drive #D, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookfield-n10828078159/
-6. Men's Hair House | Organic #6 | Pulse Score 43/100 (Unrated, #6 in city) | Men's Hair House is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-brookfield/
-7. Great Clips | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | Great Clips is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookfield/
-8. Sport Clips | Organic #8 | Pulse Score 41.8/100 (Building, #8 in city) | Sport Clips is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-brookfield/
-9. Supercuts | Organic #9 | Pulse Score 41.8/100 (Building, #9 in city) | Supercuts is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-brookfield/
+4. Great Clips | Organic #4 | Pulse Score 44/100 (Building, #4 in city) | Great Clips is a hair salon in Brookfield, WI at 12455 West Capitol Drive #D, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookfield-n10828078159/
+5. Men's Hair House | Organic #5 | Pulse Score 43/100 (Unrated, #5 in city) | Men's Hair House is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-brookfield/
+6. Great Clips | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | Great Clips is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookfield/
+7. Sport Clips | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | Sport Clips is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-brookfield/
+8. Supercuts | Organic #8 | Pulse Score 41.8/100 (Building, #8 in city) | Supercuts is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-brookfield/
+9. Salon Suites | Organic #9 | Pulse Score 41.3/100 (Unrated, #9 in city) | Salon Suites is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/salon-suites-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon brookfield wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

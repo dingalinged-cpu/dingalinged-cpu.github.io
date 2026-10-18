@@ -13,7 +13,7 @@ Banfield Pet Hospital is a veterinarian in Frisco, TX at 5399 Warren Parkway, Fr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 97% of veterinarians in Dallas–Fort Worth, #21 of 21 veterinarians in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 97% of veterinarians in Dallas–Fort Worth, #21 of 21 veterinarians in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

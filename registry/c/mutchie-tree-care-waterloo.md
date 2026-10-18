@@ -13,7 +13,7 @@ Mutchie Tree Care is a landscaping company in Waterloo, NE at 2701 River Road Dr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 40% of landscaping companys in Omaha, NE, #1 of 2 landscaping companys in Waterloo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 40% of landscaping companys in Omaha, NE, #1 of 2 landscaping companys in Waterloo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

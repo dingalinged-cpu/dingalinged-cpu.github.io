@@ -13,7 +13,7 @@ AAMCO is an auto repair shop in Omaha, NE at 5254 South 133rd Court, Omaha, NE 6
 - Website: https://www.aamco-omahawest.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 7:30-18:00
-- Pulse Score: 49.1/100 — Building — top 69% of auto repair shops in Omaha, NE, #53 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 68% of auto repair shops in Omaha, NE, #52 of 81 auto repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

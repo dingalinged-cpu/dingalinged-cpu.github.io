@@ -13,7 +13,7 @@ Great Clips is a hair salon in Watauga, TX at 6801 Rufe Snow Drive #204, Watauga
 - Website: https://salons.greatclips.com/us/tx/watauga/6801-rufe-snow-dr
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-18:00
-- Pulse Score: 48.9/100 — Building — top 77% of hair salons in Dallas–Fort Worth, #2 of 2 hair salons in Watauga (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 77% of hair salons in Dallas–Fort Worth, #2 of 2 hair salons in Watauga (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

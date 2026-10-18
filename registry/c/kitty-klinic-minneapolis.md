@@ -13,7 +13,7 @@ Kitty Klinic is a veterinarian in Minneapolis, MN at 3447 Lyndale Avenue South, 
 - Website: https://www.kittyklinicmpls.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-18:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 34% of veterinarians in Minneapolis–St. Paul, #11 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 34% of veterinarians in Minneapolis–St. Paul, #11 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

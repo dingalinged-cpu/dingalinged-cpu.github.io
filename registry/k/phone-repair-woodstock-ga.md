@@ -6,7 +6,7 @@ Also answers: phone repair in Woodstock, GA; phone repair near me (Woodstock, GA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cell Phone Repair | Organic #1 | Pulse Score 42.8/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-woodstock/
+1. Cell Phone Repair | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair woodstock ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

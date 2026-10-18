@@ -13,7 +13,7 @@ FedEx Office is a printing service in Greenfield, WI at 8807 Sura Lane, Greenfie
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.6/100 — Building — top 88% of printing services in Milwaukee, #2 of 2 printing services in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 47.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 88% of printing services in Milwaukee, #2 of 2 printing services in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

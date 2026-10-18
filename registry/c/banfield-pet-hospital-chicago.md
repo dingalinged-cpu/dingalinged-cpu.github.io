@@ -13,7 +13,7 @@ Banfield Pet Hospital is a veterinarian in Chicago, IL at 1415 North Kingsbury S
 - Website: https://www.banfield.com/veterinarians/il/chicago/slp
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.9/100 — Building — top 88% of veterinarians in Chicago, #44 of 51 veterinarians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 86% of veterinarians in Chicago, #44 of 51 veterinarians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

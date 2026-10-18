@@ -6,8 +6,8 @@ Also answers: roofer in Cobb County, GA; roofer near me (Cobb County, GA); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sadler Roofing | Organic #1 | Pulse Score 59.6/100 (Fair, #1 in city) | Sadler Roofing is a roofer in Cobb County, GA at 826 Blackwell Road, Cobb County, GA. Phone: +17705141199. Website: https://www.sadlerroofing.net/. | https://dingalinged-cpu.github.io/registry/c/sadler-roofing-cobb-county/
-2. Bird's Eye Roofing | Organic #2 | Pulse Score 59/100 (Fair, #2 in city) | Bird's Eye Roofing is a roofer in Cobb County, GA at 4618 Woodstock Road, Cobb County, GA. Phone: +17707443358. Website: https://www.birdseyeroofing.com/. | https://dingalinged-cpu.github.io/registry/c/birds-eye-roofing-cobb-county/
+1. Sadler Roofing | Organic #1 | Pulse Score 59.7/100 (Fair, #1 in city) | Sadler Roofing is a roofer in Cobb County, GA at 826 Blackwell Road, Cobb County, GA. Phone: +17705141199. Website: https://www.sadlerroofing.net/. | https://dingalinged-cpu.github.io/registry/c/sadler-roofing-cobb-county/
+2. Bird's Eye Roofing | Organic #2 | Pulse Score 59.1/100 (Fair, #2 in city) | Bird's Eye Roofing is a roofer in Cobb County, GA at 4618 Woodstock Road, Cobb County, GA. Phone: +17707443358. Website: https://www.birdseyeroofing.com/. | https://dingalinged-cpu.github.io/registry/c/birds-eye-roofing-cobb-county/
 3. Rhino Restoration of Georgia | Organic #3 | Pulse Score 58.8/100 (Fair, #3 in city) | Rhino Restoration of Georgia is a roofer in Cobb County, GA at 4016 Canton Road Northeast, Cobb County, GA. Phone: +16785900190. Website: https://rhino-roofs.com/. | https://dingalinged-cpu.github.io/registry/c/rhino-restoration-of-georgia-cobb-county/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Dale R. Rose, PLLC is a lawyer in McKinney, TX at 201 West Virginia Street #204,
 - Website: https://roseknowslaw.com/
 - Email: dale@roseknowslaw.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Dallas–Fort Worth, #1 of 1 lawyers in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 40% of lawyers in Dallas–Fort Worth, #1 of 1 lawyers in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The House Buy is a real estate agency in Kennedale, TX at 204 Pine Meadow Dr, Ap
 - Website: https://johnhonegger.exprealty.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00, Su 13:00-17:00
-- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of real estate agencys in Dallas–Fort Worth, #1 of 1 real estate agencys in Kennedale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 14% of real estate agencys in Dallas–Fort Worth, #1 of 1 real estate agencys in Kennedale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

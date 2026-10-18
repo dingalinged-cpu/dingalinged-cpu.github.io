@@ -13,7 +13,7 @@ Vivid Window Tinting is an auto repair shop in Madison, WI at 4618 Tompkins Driv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63.6/100 — Good — top 3% of auto repair shops in Madison, #3 of 59 auto repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 3% of auto repair shops in Madison, #3 of 59 auto repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

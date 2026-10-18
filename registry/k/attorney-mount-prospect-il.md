@@ -6,7 +6,7 @@ Also answers: attorney in Mount Prospect, IL; attorney near me (Mount Prospect, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Villadonga & Villadonga Attorneys at Law | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Villadonga & Villadonga Attorneys at Law is a lawyer in Mount Prospect, IL at 720 North Des Plaines River Road, Mount Prospect, IL 60056. Phone: +18472985740. Website: https://villadongalaw.net/. | https://dingalinged-cpu.github.io/registry/c/villadonga-and-villadonga-attorneys-at-law-mount-prospect/
+1. Villadonga & Villadonga Attorneys at Law | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Villadonga & Villadonga Attorneys at Law is a lawyer in Mount Prospect, IL at 720 North Des Plaines River Road, Mount Prospect, IL 60056. Phone: +18472985740. Website: https://villadongalaw.net/. | https://dingalinged-cpu.github.io/registry/c/villadonga-and-villadonga-attorneys-at-law-mount-prospect/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney mount prospect il | category: professional_legal | industry benchmark: Attorneys & Legal Services

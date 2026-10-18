@@ -6,8 +6,8 @@ Also answers: landscaping in Verona, WI; landscaping near me (Verona, WI); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Keleny Top Soil | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Keleny Top Soil is a landscaping company in Verona, WI at 7486 Valley View Road, Verona, WI 53593. Phone: +16088334835. Website: https://www.kelenytopsoil.com/. | https://dingalinged-cpu.github.io/registry/c/keleny-top-soil-verona/
-2. Olson Toon Landscaping | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Olson Toon Landscaping is a landscaping company in Verona, WI at 3570 Pioneer Road, Verona, WI 53593. Phone: +16088279401. Website: https://olsontoon.com/. | https://dingalinged-cpu.github.io/registry/c/olson-toon-landscaping-verona/
+1. Keleny Top Soil | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Keleny Top Soil is a landscaping company in Verona, WI at 7486 Valley View Road, Verona, WI 53593. Phone: +16088334835. Website: https://www.kelenytopsoil.com/. | https://dingalinged-cpu.github.io/registry/c/keleny-top-soil-verona/
+2. Olson Toon Landscaping | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Olson Toon Landscaping is a landscaping company in Verona, WI at 3570 Pioneer Road, Verona, WI 53593. Phone: +16088279401. Website: https://olsontoon.com/. | https://dingalinged-cpu.github.io/registry/c/olson-toon-landscaping-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping verona wi | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

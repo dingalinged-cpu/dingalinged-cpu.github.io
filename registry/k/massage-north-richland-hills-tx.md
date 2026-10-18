@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Happy Feet | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Happy Feet is a massage studio in North Richland Hills, TX at 6242 Rufe Snow Drive #288, North Richland Hills, TX. Phone: +18173933523. | https://dingalinged-cpu.github.io/registry/c/happy-feet-north-richland-hills/
 2. Chi Kung Foot Spa | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Chi Kung Foot Spa is a massage studio in North Richland Hills, TX at 8415 Davis Boulevard #317, North Richland Hills, TX 76182. | https://dingalinged-cpu.github.io/registry/c/chi-kung-foot-spa-north-richland-hills/
-3. Massage | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Massage is a massage studio in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/massage-north-richland-hills/
+3. Massage | Organic #3 | Pulse Score 45.2/100 (Building, #3 in city) | Massage is a massage studio in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/massage-north-richland-hills/
 4. Hand & Stone Massage and Facial Spa | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Hand & Stone Massage and Facial Spa is a massage studio in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-north-richland-hills/
 
 ## Market data (for advertisers and agents)

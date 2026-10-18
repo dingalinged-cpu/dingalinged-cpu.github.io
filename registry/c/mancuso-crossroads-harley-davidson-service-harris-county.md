@@ -13,7 +13,7 @@ Mancuso Crossroads Harley-Davidson Service is a motorcycle repair shop in Harris
 - Website: https://www.mancusocrossroads.com/we-repair-your-harley-davidson-motorcycle-with-certified-technicians--service
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 09:00-18:00
-- Pulse Score: 45.2/100 — Building — top 100% of motorcycle repair shops in Houston, #2 of 2 motorcycle repair shops in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 100% of motorcycle repair shops in Houston, #2 of 2 motorcycle repair shops in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: car wash in Crestwood, IL; car wash near me (Crestwood, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Delta Sonic Car Wash | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Delta Sonic Car Wash is a car wash in Crestwood, IL at 13700 Cicero Avenue, Crestwood, IL 60418. Website: https://deltasoniccarwash.com/location/crestwood-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-crestwood/
+1. Delta Sonic Car Wash | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Delta Sonic Car Wash is a car wash in Crestwood, IL at 13700 Cicero Avenue, Crestwood, IL 60418. Website: https://deltasoniccarwash.com/location/crestwood-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-crestwood/
 2. Citgo | Organic #2 | Pulse Score 44.8/100 (Unrated, #2 in city) | Citgo is a car wash in Crestwood, IL at 13830 Pulaski Road, Crestwood, IL 60418. | https://dingalinged-cpu.github.io/registry/c/citgo-crestwood/
 
 ## Market data (for advertisers and agents)

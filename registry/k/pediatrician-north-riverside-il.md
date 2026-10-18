@@ -6,8 +6,8 @@ Also answers: pediatrician in North Riverside, IL; pediatrician near me (North R
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MP Pediatrics | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | MP Pediatrics is a pediatrician in North Riverside, IL at 7222 Cermak Road #504, North Riverside, IL 60546. Website: https://mppediatrics.com/our-locations. | https://dingalinged-cpu.github.io/registry/c/mp-pediatrics-north-riverside/
-2. Smart Moves Pediatrics | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Smart Moves Pediatrics is a pediatrician in North Riverside, IL. Website: https://smartmovespediatrics.com/. | https://dingalinged-cpu.github.io/registry/c/smart-moves-pediatrics-north-riverside/
+1. MP Pediatrics | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | MP Pediatrics is a pediatrician in North Riverside, IL at 7222 Cermak Road #504, North Riverside, IL 60546. Website: https://mppediatrics.com/our-locations. | https://dingalinged-cpu.github.io/registry/c/mp-pediatrics-north-riverside/
+2. Smart Moves Pediatrics | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Smart Moves Pediatrics is a pediatrician in North Riverside, IL. Website: https://smartmovespediatrics.com/. | https://dingalinged-cpu.github.io/registry/c/smart-moves-pediatrics-north-riverside/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician north riverside il | category: Health & medical | industry benchmark: Physicians & Surgeons

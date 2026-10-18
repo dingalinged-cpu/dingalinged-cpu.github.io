@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in McKinney, TX at 2909 Lake Forest Drive, McK
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-21:00 Sa 09:00-19:00 Su 10:00-19:00
-- Pulse Score: 47.6/100 — Building — top 43% of tanning salons in Dallas–Fort Worth, #2 of 2 tanning salons in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 43% of tanning salons in Dallas–Fort Worth, #2 of 2 tanning salons in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

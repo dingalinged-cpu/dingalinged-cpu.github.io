@@ -7,7 +7,7 @@ Also answers: printing services in Dekalb County, GA; printing services near me 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. The UPS Store | Organic #1 | Pulse Score 50.5/100 (Fair, #1 in city) | The UPS Store is a printing service in DeKalb County, GA at 2566 Shallowford Road Northeast #104, DeKalb County, GA 30345. Phone: +14046386443. Website: https://locations.theupsstore.com/ga/atlanta/2566-shallowford-rd. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-dekalb-county/
-2. FedEx Office | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | FedEx Office is a printing service in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/fedex-office-dekalb-county/
+2. FedEx Office | Organic #2 | Pulse Score 44.1/100 (Building, #2 in city) | FedEx Office is a printing service in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/fedex-office-dekalb-county/
 3. Northlake Station Atlanta Post Office | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | Northlake Station Atlanta Post Office is a printing service in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/northlake-station-atlanta-post-office-dekalb-county/
 4. The UPS Store | Organic #4 | Pulse Score 42.2/100 (Unrated, #4 in city) | The UPS Store is a printing service in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-dekalb-county-n13237603628/
 

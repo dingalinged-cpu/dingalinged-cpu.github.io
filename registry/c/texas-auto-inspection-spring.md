@@ -13,7 +13,7 @@ Texas Auto Inspection is a vehicle inspection station in Spring, TX at 4638 FM 2
 - Website: https://texasautoinspectio.wixsite.com/website-1
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 17% of vehicle inspection stations in Houston, #1 of 1 vehicle inspection stations in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 17% of vehicle inspection stations in Houston, #1 of 1 vehicle inspection stations in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

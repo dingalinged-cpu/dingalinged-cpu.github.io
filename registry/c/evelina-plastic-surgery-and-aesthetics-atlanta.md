@@ -13,7 +13,7 @@ Evelina Plastic Surgery and Aesthetics is a plastic surgeon in Atlanta, GA at 98
 - Website: https://www.evelinaplasticsurgery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-16:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 29% of plastic surgeons in Atlanta, #2 of 8 plastic surgeons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 29% of plastic surgeons in Atlanta, #2 of 8 plastic surgeons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

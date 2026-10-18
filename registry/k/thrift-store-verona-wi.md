@@ -6,7 +6,7 @@ Also answers: thrift store in Verona, WI; thrift store near me (Verona, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UW SWAP | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | UW SWAP is a thrift store in Verona, WI at 1061 Thousand Oaks Trail, Verona, WI 53593. Website: https://swap.wisc.edu/. | https://dingalinged-cpu.github.io/registry/c/uw-swap-verona/
+1. UW SWAP | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | UW SWAP is a thrift store in Verona, WI at 1061 Thousand Oaks Trail, Verona, WI 53593. Website: https://swap.wisc.edu/. | https://dingalinged-cpu.github.io/registry/c/uw-swap-verona/
 2. Saint Vincent de Paul Thrift Store | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | Saint Vincent de Paul Thrift Store is a thrift store in Verona, WI at 513 West Verona Avenue, Verona, WI 53593. Phone: +16088484500. Website: https://svdpmadison.org/shop/verona/. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-verona/
 3. Goodwill | Organic #3 | Pulse Score 48.8/100 (Building, #3 in city) | Goodwill is a thrift store in Verona, WI at 118 South Main Street, Verona, WI 53593. Website: https://goodwillscwi.org/locations/verona/. | https://dingalinged-cpu.github.io/registry/c/goodwill-verona/
 

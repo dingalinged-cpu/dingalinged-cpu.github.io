@@ -13,7 +13,7 @@ Advantage Remodeling and Roofing is a roofer in Allen, TX at 450 Century Parkway
 - Website: https://advantageremodelingandroofing.com/roofing-company-in-allen-tx/
 - Email: info@advantageremodelingandroofing.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-16:00
-- Pulse Score: 62.9/100 — Good — top 5% of roofers in Dallas–Fort Worth, #1 of 2 roofers in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 5% of roofers in Dallas–Fort Worth, #1 of 2 roofers in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

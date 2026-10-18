@@ -6,7 +6,7 @@ Also answers: funeral home in Park Ridge, IL; funeral home near me (Park Ridge, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nelson Funeral Home | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Nelson Funeral Home is a funeral home in Park Ridge, IL at 820 Talcott Road, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/nelson-funeral-home-park-ridge/
+1. Nelson Funeral Home | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Nelson Funeral Home is a funeral home in Park Ridge, IL at 820 Talcott Road, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/nelson-funeral-home-park-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home park ridge il | category: Professional & financial services | industry benchmark: Finance & Insurance

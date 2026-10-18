@@ -13,7 +13,7 @@ Greenscape Innovations, LLC is a landscaping company in The Woodlands, TX at 150
 - Website: https://www.greenscapeinnovationsllc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00; Sa 08:00-17:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of landscaping companys in Houston, #1 of 1 landscaping companys in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 34% of landscaping companys in Houston, #1 of 1 landscaping companys in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

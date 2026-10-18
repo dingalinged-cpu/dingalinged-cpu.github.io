@@ -7,9 +7,9 @@ Also answers: music lessons in Omaha, NE; music lessons near me (Omaha, NE); bes
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Adkins Guitar & Music Lessons | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Adkins Guitar & Music Lessons is a music school in Omaha, NE at 6969 Grover Street, Omaha, NE 68106. Phone: +14024294172. Website: https://omahaguitarandmusiclessons.com/. | https://dingalinged-cpu.github.io/registry/c/adkins-guitar-and-music-lessons-omaha/
-2. Omaha Conservatory of Music | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Omaha Conservatory of Music is a music school in Omaha, NE at 7023 Cass Street, Omaha, NE 68132. Phone: +14029324978. Website: https://omahacm.org/. | https://dingalinged-cpu.github.io/registry/c/omaha-conservatory-of-music-omaha/
+2. Omaha Conservatory of Music | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Omaha Conservatory of Music is a music school in Omaha, NE at 7023 Cass Street, Omaha, NE 68132. Phone: +14029324978. Website: https://omahacm.org/. | https://dingalinged-cpu.github.io/registry/c/omaha-conservatory-of-music-omaha/
 3. Sing Omaha Studios | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Sing Omaha Studios is a music school in Omaha, NE at 8438 Park Drive, Omaha, NE 68127. | https://dingalinged-cpu.github.io/registry/c/sing-omaha-studios-omaha/
-4. Crash Bang Boom Omaha | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Crash Bang Boom Omaha is a music school in Omaha, NE. Website: https://crashbangboomomaha.com/. | https://dingalinged-cpu.github.io/registry/c/crash-bang-boom-omaha-omaha/
+4. Crash Bang Boom Omaha | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Crash Bang Boom Omaha is a music school in Omaha, NE. Website: https://crashbangboomomaha.com/. | https://dingalinged-cpu.github.io/registry/c/crash-bang-boom-omaha-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons omaha ne | category: Education & childcare | industry benchmark: Education & Instruction

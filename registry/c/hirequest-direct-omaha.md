@@ -13,7 +13,7 @@ HireQuest Direct is a staffing agency in Omaha, NE at 5822 Center Street, Omaha,
 - Website: https://hirequest.com/
 - Email: info@hirequestllc.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00; Sa 12:00-16:00
-- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 25% of staffing agencys in Omaha, NE, #1 of 4 staffing agencys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 25% of staffing agencys in Omaha, NE, #1 of 4 staffing agencys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

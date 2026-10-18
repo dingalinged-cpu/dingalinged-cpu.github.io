@@ -13,7 +13,7 @@ Lynch Funeral Home is a funeral home in Caddo Mills, TX at 2203 Gilmer Street, C
 - Website: https://www.lynchfuneralservice.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 31% of funeral homes in Dallas–Fort Worth, #1 of 1 funeral homes in Caddo Mills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 31% of funeral homes in Dallas–Fort Worth, #1 of 1 funeral homes in Caddo Mills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

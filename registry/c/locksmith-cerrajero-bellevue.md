@@ -13,7 +13,7 @@ Locksmith Cerrajero is a locksmith in Bellevue, NE. Phone: +14029999273.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 67% of locksmiths in Omaha, NE, #1 of 1 locksmiths in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 67% of locksmiths in Omaha, NE, #1 of 1 locksmiths in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ All Season Emission is a vehicle inspection station in Atlanta, GA at 157 North 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Fair — top 44% of vehicle inspection stations in Atlanta, #1 of 3 vehicle inspection stations in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Fair — top 44% of vehicle inspection stations in Atlanta, #1 of 3 vehicle inspection stations in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 47.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

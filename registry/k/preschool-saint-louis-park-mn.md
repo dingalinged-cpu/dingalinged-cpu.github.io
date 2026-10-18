@@ -6,7 +6,7 @@ Also answers: preschool in Saint Louis Park, MN; preschool near me (Saint Louis 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Horizon Academy | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | New Horizon Academy is a preschool in Saint Louis Park, MN at 2460 State Highway 100, Saint Louis Park, MN 55416. Phone: +19526812658. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-saint-louis-park/
+1. New Horizon Academy | Organic #1 | Pulse Score 47.2/100 (Building, #1 in city) | New Horizon Academy is a preschool in Saint Louis Park, MN at 2460 State Highway 100, Saint Louis Park, MN 55416. Phone: +19526812658. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-saint-louis-park/
 2. Primrose School of St. Louis Park West | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Primrose School of St. Louis Park West is a preschool in Saint Louis Park, MN at 8955 36th Street West, Saint Louis Park, MN 55426. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-st-louis-park-west-saint-louis-park/
 
 ## Market data (for advertisers and agents)

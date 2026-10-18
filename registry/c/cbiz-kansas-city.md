@@ -1,0 +1,24 @@
+CBIZ is an accountant in Kansas City, MO at 700 West 47th Street, Kansas City, MO 64112.
+
+# CBIZ
+
+- Category: accountant
+- Services: accountant, accounting services
+- Address: 700 West 47th Street, Kansas City, MO 64112
+- City: Kansas City
+- State: MO
+- ZIP: 64112
+- Coordinates: 39.0427956, -94.5949816
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 47% of accountants in Kansas City, MO, #4 of 6 accountants in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/cbiz-kansas-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/cbiz-kansas-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/330099469 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

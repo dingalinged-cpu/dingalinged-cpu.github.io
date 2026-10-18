@@ -13,7 +13,7 @@ Neighbor Interiors is an interior designer in Southlake, TX at 325 Miron Drive #
 - Website: https://www.neighborinteriors.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 63/100 — Good — top 100% of interior designers in Dallas–Fort Worth, #1 of 1 interior designers in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 64.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 100% of interior designers in Dallas–Fort Worth, #1 of 1 interior designers in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

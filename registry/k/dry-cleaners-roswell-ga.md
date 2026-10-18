@@ -9,11 +9,11 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Mountain Park Superior Cleaners | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Mountain Park Superior Cleaners is a dry cleaner in Roswell, GA at 4750 Alabama Road #119, Roswell, GA. Phone: +17706428322. | https://dingalinged-cpu.github.io/registry/c/mountain-park-superior-cleaners-roswell/
 2. Prestige Dry Cleaners | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Prestige Dry Cleaners is a dry cleaner in Alpharetta, GA at 2850 Holcomb Bridge Road #100, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/prestige-dry-cleaners-alpharetta/
 3. Ellard Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #2 in city) | Ellard Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/ellard-cleaners-roswell/
-4. Pride Cleaners | Organic #4 | Pulse Score 54.8/100 (Unrated, #3 in city) | Pride Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/pride-cleaners-roswell/
-5. Pro Cleaners | Organic #5 | Pulse Score 46.8/100 (Building, #4 in city) | Pro Cleaners is a dry cleaner in Roswell, GA at 270 Rucker Road, Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/pro-cleaners-roswell/
-6. Kay Cleaners | Organic #6 | Pulse Score 45.8/100 (Unrated, #5 in city) | Kay Cleaners is a dry cleaner in Roswell, GA at 2300 Holcomb Bridge Road #400, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-roswell/
-7. Martinizing Dry Cleaning | Organic #7 | Pulse Score 45.3/100 (Building, #6 in city) | Martinizing Dry Cleaning is a dry cleaner in Roswell, GA at 1570 Holcomb Bridge Road #908, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/martinizing-dry-cleaning-roswell/
-8. Kay Cleaners | Organic #8 | Pulse Score 43.1/100 (Unrated, #7 in city) | Kay Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-roswell-n7968552820/
+4. Pro Cleaners | Organic #4 | Pulse Score 46.8/100 (Building, #3 in city) | Pro Cleaners is a dry cleaner in Roswell, GA at 270 Rucker Road, Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/pro-cleaners-roswell/
+5. Kay Cleaners | Organic #5 | Pulse Score 45.8/100 (Unrated, #4 in city) | Kay Cleaners is a dry cleaner in Roswell, GA at 2300 Holcomb Bridge Road #400, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-roswell/
+6. Martinizing Dry Cleaning | Organic #6 | Pulse Score 45.3/100 (Building, #5 in city) | Martinizing Dry Cleaning is a dry cleaner in Roswell, GA at 1570 Holcomb Bridge Road #908, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/martinizing-dry-cleaning-roswell/
+7. Kay Cleaners | Organic #7 | Pulse Score 43.1/100 (Unrated, #6 in city) | Kay Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-roswell-n7968552820/
+8. Pride Cleaners | Organic #8 | Pulse Score 42/100 (Unrated, #7 in city) | Pride Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/pride-cleaners-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners roswell ga | category: Professional & financial services | industry benchmark: Finance & Insurance

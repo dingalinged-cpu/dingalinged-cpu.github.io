@@ -13,7 +13,7 @@ WW Studio is a therapy practice in Lombard, IL at 471 East Roosevelt Road, Lomba
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.7/100 — Building — top 96% of therapy practices in Chicago, #1 of 1 therapy practices in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 41.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.7/100 — Building — top 96% of therapy practices in Chicago, #1 of 1 therapy practices in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 41.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

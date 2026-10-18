@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. A1 Driving Schools | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | A1 Driving Schools is a driving school in Marietta, GA at 1477 Roswell Road #500, Marietta, GA. Phone: +17702122372. Website: https://a1drivingschools.com/locations/marietta/. | https://dingalinged-cpu.github.io/registry/c/a1-driving-schools-marietta/
 2. The Milner Driving School | Organic #2 | Pulse Score 63/100 (Good, #2 in city) | The Milner Driving School is a driving school in Marietta, GA at 255 Village Parkway Northeast #530, Marietta, GA 30067. Phone: +17709849003. Website: https://milnerdrivingschool.com/. | https://dingalinged-cpu.github.io/registry/c/the-milner-driving-school-marietta/
-3. North Georgia D.U.I. School | Organic #3 | Pulse Score 61.4/100 (Good, #3 in city) | North Georgia D.U.I. School is a driving school in Marietta, GA at 1000 Cobb Parkway North #A1, Marietta, GA. Phone: +17709190033. Website: https://www.northgaduischool.com/. | https://dingalinged-cpu.github.io/registry/c/north-georgia-d-u-i-school-marietta/
+3. North Georgia D.U.I. School | Organic #3 | Pulse Score 61.5/100 (Good, #3 in city) | North Georgia D.U.I. School is a driving school in Marietta, GA at 1000 Cobb Parkway North #A1, Marietta, GA. Phone: +17709190033. Website: https://www.northgaduischool.com/. | https://dingalinged-cpu.github.io/registry/c/north-georgia-d-u-i-school-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school marietta ga | category: Education & childcare | industry benchmark: Education & Instruction

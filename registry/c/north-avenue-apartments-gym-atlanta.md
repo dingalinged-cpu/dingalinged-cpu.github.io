@@ -13,7 +13,7 @@ North Avenue Apartments Gym is a gym in Atlanta, GA at 120 North Avenue, Atlanta
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 25% of gyms in Atlanta, #15 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 47. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 24% of gyms in Atlanta, #15 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 47. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

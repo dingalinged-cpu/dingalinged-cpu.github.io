@@ -6,7 +6,7 @@ Also answers: plumbing services in Osseo, MN; plumbing services near me (Osseo, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tim's Quality Plumbing, Heating, & Cooling | Organic #1 | Pulse Score 62.5/100 (Good, #1 in city) | Tim's Quality Plumbing, Heating, & Cooling is a plumber in Osseo, MN at 225 County Road 81 Service Road West, Osseo, MN 55369. Phone: +16128277951. Website: https://timsqualityplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/tims-quality-plumbing-heating-and-cooling-osseo/
+1. Tim's Quality Plumbing, Heating, & Cooling | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Tim's Quality Plumbing, Heating, & Cooling is a plumber in Osseo, MN at 225 County Road 81 Service Road West, Osseo, MN 55369. Phone: +16128277951. Website: https://timsqualityplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/tims-quality-plumbing-heating-and-cooling-osseo/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services osseo mn | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

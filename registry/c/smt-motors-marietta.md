@@ -13,7 +13,7 @@ SMT Motors is an used car dealer in Marietta, GA at 1795 Roswell Road, Marietta,
 - Website: https://www.smtmotorsga.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off
-- Pulse Score: 63.3/100 — Good — top 15% of used car dealers in Atlanta, #9 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 15% of used car dealers in Atlanta, #9 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

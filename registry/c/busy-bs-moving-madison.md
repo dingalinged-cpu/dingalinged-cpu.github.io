@@ -13,7 +13,7 @@ Busy B's Moving is a moving company in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 67% of moving companys in Madison, #2 of 3 moving companys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 38.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 67% of moving companys in Madison, #2 of 3 moving companys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 39. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

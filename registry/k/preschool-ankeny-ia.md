@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Cadence Academy | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Cadence Academy is a preschool in Ankeny, IA at 225 East 1st Street, Ankeny, IA 50021. Website: https://cadence-academy.com/. | https://dingalinged-cpu.github.io/registry/c/cadence-academy-ankeny/
 2. The Treehouse | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | The Treehouse is a preschool in Ankeny, IA at 205 Northwest 18th Street, Ankeny, IA 50023. | https://dingalinged-cpu.github.io/registry/c/the-treehouse-ankeny/
-3. Childtime | Organic #3 | Pulse Score 48.5/100 (Building, #3 in city) | Childtime is a preschool in Ankeny, IA at 718 Northeast Grant Street, Ankeny, IA 50021. Website: https://www.childtime.com/. | https://dingalinged-cpu.github.io/registry/c/childtime-ankeny/
+3. Childtime | Organic #3 | Pulse Score 48.4/100 (Building, #3 in city) | Childtime is a preschool in Ankeny, IA at 718 Northeast Grant Street, Ankeny, IA 50021. Website: https://www.childtime.com/. | https://dingalinged-cpu.github.io/registry/c/childtime-ankeny/
 4. Ankeny KinderCare | Organic #4 | Pulse Score 46.7/100 (Building, #4 in city) | Ankeny KinderCare is a preschool in Ankeny, IA at 3055 North Ankeny Boulevard, Ankeny, IA 50021. | https://dingalinged-cpu.github.io/registry/c/ankeny-kindercare-ankeny/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Ombibulous is a liquor store in Minneapolis, MN at 949 East Hennepin Avenue, Min
 - Website: https://ombibulousmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 21% of liquor stores in Minneapolis–St. Paul, #13 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 26% of liquor stores in Minneapolis–St. Paul, #14 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

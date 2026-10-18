@@ -13,7 +13,7 @@ Salawdeh Law Office is a lawyer in Wauwatosa, WI at 7119 West North Avenue, Wauw
 - Website: https://www.salawdehlaw.com/
 - Email: rebecca@salawdehlaw.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 31% of lawyers in Milwaukee, #2 of 7 lawyers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 31% of lawyers in Milwaukee, #2 of 7 lawyers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

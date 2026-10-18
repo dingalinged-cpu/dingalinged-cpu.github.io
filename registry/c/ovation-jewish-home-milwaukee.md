@@ -13,7 +13,7 @@ Ovation Jewish Home is an assisted living facility in Milwaukee, WI at 1414 Nort
 - Website: https://ovation.org/communities/ovation-jewish-home/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 21% of assisted living facilitys in Milwaukee, #6 of 13 assisted living facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 21% of assisted living facilitys in Milwaukee, #6 of 13 assisted living facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

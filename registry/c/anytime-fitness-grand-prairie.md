@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Grand Prairie, TX at 2360 West Camp Wisdom Road #190
 - Website: https://anytimefitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 50.9/100 — Fair — top 44% of gyms in Dallas–Fort Worth, #2 of 6 gyms in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 43% of gyms in Dallas–Fort Worth, #2 of 6 gyms in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

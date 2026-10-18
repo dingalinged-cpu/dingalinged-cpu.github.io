@@ -13,7 +13,7 @@ RPM Powersports is a motorcycle repair shop in Omaha, NE at 5105 Center Street, 
 - Website: https://rpmpowersportsomaha.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-16:00
-- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 100% of motorcycle repair shops in Omaha, NE, #1 of 1 motorcycle repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 100% of motorcycle repair shops in Omaha, NE, #1 of 1 motorcycle repair shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

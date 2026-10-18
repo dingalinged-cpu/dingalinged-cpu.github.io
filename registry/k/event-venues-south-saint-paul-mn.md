@@ -6,7 +6,7 @@ Also answers: event venues in South Saint Paul, MN; event venues near me (South 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Escalon | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Escalon is an event venue in South Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/escalon-south-saint-paul/
+1. Escalon | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Escalon is an event venue in South Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/escalon-south-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues south saint paul mn | category: Events & weddings | industry benchmark: Personal Services

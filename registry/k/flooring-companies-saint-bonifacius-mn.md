@@ -6,7 +6,7 @@ Also answers: flooring companies in Saint Bonifacius, MN; flooring companies nea
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gregg Floor Covering | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Gregg Floor Covering is a flooring company in Saint Bonifacius, MN at 4117 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461170. | https://dingalinged-cpu.github.io/registry/c/gregg-floor-covering-saint-bonifacius/
+1. Gregg Floor Covering | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Gregg Floor Covering is a flooring company in Saint Bonifacius, MN at 4117 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461170. | https://dingalinged-cpu.github.io/registry/c/gregg-floor-covering-saint-bonifacius/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies saint bonifacius mn | category: Home services - Flooring | industry benchmark: Home & Home Improvement

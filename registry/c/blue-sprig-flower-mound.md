@@ -13,7 +13,7 @@ Blue Sprig is a therapy practice in Flower Mound, TX at 4491 Long Prairie Road #
 - Website: https://www.bluesprigautism.com/centers/texas/bluesprig-flower-mound/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 60.5/100 — Good — top 19% of therapy practices in Dallas–Fort Worth, #2 of 7 therapy practices in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Good — top 19% of therapy practices in Dallas–Fort Worth, #2 of 7 therapy practices in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

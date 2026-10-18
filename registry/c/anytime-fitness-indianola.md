@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Indianola, IA at 402 North Jefferson Way, Indianola,
 - Website: https://www.anytimefitness.com/gyms/502/indianola-ia-50125/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Building — top 57% of gyms in Des Moines, IA, #2 of 2 gyms in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 57% of gyms in Des Moines, IA, #2 of 2 gyms in Indianola (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

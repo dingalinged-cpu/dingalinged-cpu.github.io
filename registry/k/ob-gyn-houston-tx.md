@@ -7,7 +7,7 @@ Also answers: ob gyn in Houston, TX; ob gyn near me (Houston, TX); best ob gyn H
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Dr. Now's Office | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Dr. Now's Office is an OB-GYN practice in Houston, TX at 4009 Bellaire Boulevard #K, Houston, TX 77025. Phone: +17136616262. Website: https://drnowfoundation.com/. | https://dingalinged-cpu.github.io/registry/c/dr-nows-office-houston/
-2. Advanced STD Testing & Treatment Clinic | Organic #2 | Pulse Score 56.1/100 (Unrated, #6 in city) | Advanced STD Testing & Treatment Clinic is a dermatologist in Houston, TX at 6306 Gulfton St #STE 203D, Houston, TX 77081. | https://dingalinged-cpu.github.io/registry/c/advanced-std-testing-and-treatment-clinic-houston/
+2. Advanced STD Testing & Treatment Clinic | Organic #2 | Pulse Score 56.2/100 (Unrated, #6 in city) | Advanced STD Testing & Treatment Clinic is a dermatologist in Houston, TX at 6306 Gulfton St #STE 203D, Houston, TX 77081. | https://dingalinged-cpu.github.io/registry/c/advanced-std-testing-and-treatment-clinic-houston/
 3. Dr. Xydas Women's Center Ob/Gyn | Organic #3 | Pulse Score 53.4/100 (Unrated, #2 in city) | Dr. Xydas Women's Center Ob/Gyn is an OB-GYN practice in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/dr-xydas-womens-center-ob-gyn-houston/
 
 ## Market data (for advertisers and agents)

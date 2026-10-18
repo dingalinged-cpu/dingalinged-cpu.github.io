@@ -6,7 +6,7 @@ Also answers: car wash in Joliet, IL; car wash near me (Joliet, IL); best car wa
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Delta Sonic Car Wash | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Delta Sonic Car Wash is a car wash in Joliet, IL at 1812 West Jefferson Street, Joliet, IL 60435. Website: https://deltasoniccarwash.com/location/joliet-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-joliet/
+1. Delta Sonic Car Wash | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Delta Sonic Car Wash is a car wash in Joliet, IL at 1812 West Jefferson Street, Joliet, IL 60435. Website: https://deltasoniccarwash.com/location/joliet-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-joliet/
 2. Shell | Organic #2 | Pulse Score 42/100 (Building, #2 in city) | Shell is a car wash in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/shell-joliet/
 
 ## Market data (for advertisers and agents)

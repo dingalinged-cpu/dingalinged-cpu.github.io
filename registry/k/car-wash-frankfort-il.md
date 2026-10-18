@@ -6,7 +6,7 @@ Also answers: car wash in Frankfort, IL; car wash near me (Frankfort, IL); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Speedy Wash | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Speedy Wash is a car wash in Frankfort, IL at 22310 South La Grange Road, Frankfort, IL 60423. Website: https://www.speedway.com/locations/IL/Frankfort/22310-South-La-Grange-Road. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-frankfort-w1348997487/
+1. Speedy Wash | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Speedy Wash is a car wash in Frankfort, IL at 22310 South La Grange Road, Frankfort, IL 60423. Website: https://www.speedway.com/locations/IL/Frankfort/22310-South-La-Grange-Road. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-frankfort-w1348997487/
 2. Speedy Wash | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Speedy Wash is a car wash in Frankfort, IL at 11151 Lincoln Highway, Frankfort, IL 60423. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-frankfort/
 3. BP | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | BP is a car wash in Frankfort, IL. | https://dingalinged-cpu.github.io/registry/c/bp-frankfort/
 

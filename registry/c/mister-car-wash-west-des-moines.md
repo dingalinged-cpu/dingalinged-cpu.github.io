@@ -13,7 +13,7 @@ Mister Car Wash is a car wash in West Des Moines, IA at 102 South Jordan Creek P
 - Website: https://mistercarwash.com/store/jordan-creek/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 08:00-18:00
-- Pulse Score: 49.6/100 — Building — top 69% of car washes in Des Moines, IA, #6 of 9 car washes in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 68% of car washes in Des Moines, IA, #6 of 9 car washes in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

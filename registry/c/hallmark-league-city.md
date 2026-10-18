@@ -13,7 +13,7 @@ Hallmark is a gift shop in League City, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 87% of gift shops in Houston, #1 of 1 gift shops in League City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 42.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 87% of gift shops in Houston, #1 of 1 gift shops in League City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 42.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

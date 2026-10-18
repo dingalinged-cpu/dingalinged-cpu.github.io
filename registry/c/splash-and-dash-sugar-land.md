@@ -13,7 +13,7 @@ Splash and Dash is a dog groomer in Sugar Land, TX at 13513 University Boulevard
 - Website: https://splashanddashfordogs.com/sugarland/
 - Email: sarahw@sd4d.com
 - Opening hours (OSM syntax): Mo,Su off; Tu-Sa 08:00-16:00
-- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 21% of dog groomers in Houston, #1 of 2 dog groomers in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 21% of dog groomers in Houston, #1 of 2 dog groomers in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Euro Atlanta is an event venue in Marietta, GA at 1265 Powers Ferry Road Southea
 - Website: https://euroatlanta.com/
 - Email: euroatl305@gmail.com
 - Opening hours (OSM syntax): Mo,Su off; Tu-Th 18:00-02:00; Fr-Sa 18:00-03:00
-- Pulse Score: 65.2/100 — Good — top 4% of event venues in Atlanta, #1 of 11 event venues in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.2, Trust 64.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 4% of event venues in Atlanta, #1 of 11 event venues in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.3, Trust 64.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: dog groomer in Allen, TX; dog groomer near me (Allen, TX); best do
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Mutt Puddle | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | The Mutt Puddle is a dog groomer in Allen, TX at 190 East Stacy Road #1612, Allen, TX. | https://dingalinged-cpu.github.io/registry/c/the-mutt-puddle-allen/
+1. The Mutt Puddle | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | The Mutt Puddle is a dog groomer in Allen, TX at 190 East Stacy Road #1612, Allen, TX. | https://dingalinged-cpu.github.io/registry/c/the-mutt-puddle-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer allen tx | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ Lab651 is a business consultant in Saint Paul, MN at 550 Vandalia Street ##224, 
 - Website: https://lab651.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 63.8/100 — Good — top 5% of business consultants in Minneapolis–St. Paul, #1 of 9 business consultants in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 66.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 5% of business consultants in Minneapolis–St. Paul, #1 of 9 business consultants in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 66.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

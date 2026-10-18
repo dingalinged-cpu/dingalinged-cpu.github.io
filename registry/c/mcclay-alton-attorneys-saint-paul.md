@@ -13,7 +13,7 @@ McClay-Alton, Attorneys is a lawyer in Saint Paul, MN at 951 Grand Avenue, Saint
 - Website: https://www.mcclay-alton.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 71% of lawyers in Minneapolis–St. Paul, #16 of 20 lawyers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 71% of lawyers in Minneapolis–St. Paul, #16 of 20 lawyers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 44.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

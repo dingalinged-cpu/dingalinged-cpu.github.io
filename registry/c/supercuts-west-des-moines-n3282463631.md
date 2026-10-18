@@ -13,7 +13,7 @@ Supercuts is a hair salon in West Des Moines, IA at 1271 8th Street, West Des Mo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 89% of hair salons in Des Moines, IA, #30 of 32 hair salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 88% of hair salons in Des Moines, IA, #29 of 32 hair salons in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

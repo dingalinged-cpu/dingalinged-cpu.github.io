@@ -13,7 +13,7 @@ west elm is a furniture store in Des Moines, IA at 219 East Grand Avenue #101, D
 - Website: https://www.westelm.com/stores/us-ia-des-moines
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.1/100 — Building — top 80% of furniture stores in Des Moines, IA, #16 of 19 furniture stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 77% of furniture stores in Des Moines, IA, #16 of 19 furniture stores in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

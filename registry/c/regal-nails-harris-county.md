@@ -13,7 +13,7 @@ Regal Nails is a nail salon in Harris County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 98% of nail salons in Houston, #46 of 49 nail salons in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 41.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 97% of nail salons in Houston, #46 of 49 nail salons in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 41.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

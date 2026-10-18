@@ -6,7 +6,7 @@ Also answers: audiologist in Flower Mound, TX; audiologist near me (Flower Mound
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Family Hearing Practice | Organic #1 | Pulse Score 57.8/100 (Fair, #1 in city) | Family Hearing Practice is an audiologist in Flower Mound, TX at 4491 Long Prairie Road #400, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/family-hearing-practice-flower-mound/
+1. Family Hearing Practice | Organic #1 | Pulse Score 57.7/100 (Fair, #1 in city) | Family Hearing Practice is an audiologist in Flower Mound, TX at 4491 Long Prairie Road #400, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/family-hearing-practice-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist flower mound tx | category: Health & medical | industry benchmark: Physicians & Surgeons

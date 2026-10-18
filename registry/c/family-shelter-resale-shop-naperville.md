@@ -13,7 +13,7 @@ Family Shelter Resale Shop is a thrift store in Naperville, IL at 1512 Naper Bou
 - Website: https://www.metrofamily.org/the-family-shelter-service-resale-shop-in-naperville-is-re-opening-as-of-monday-august-10/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We, Fr, Sa 10:00-12:00, 13:00-16:00
-- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 12% of thrift stores in Chicago, #1 of 2 thrift stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 12% of thrift stores in Chicago, #1 of 2 thrift stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

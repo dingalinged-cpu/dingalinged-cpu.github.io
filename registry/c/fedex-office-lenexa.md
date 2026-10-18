@@ -1,0 +1,24 @@
+FedEx Office is a printing service in Lenexa, KS.
+
+# FedEx Office
+
+- Category: printing services
+- Services: printing services
+- Address: Lenexa, KS
+- City: Lenexa
+- State: KS
+- ZIP: n/a
+- Coordinates: 38.9279551, -94.7416688
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 42.3/100 — Building — top 98% of printing services in Kansas City, MO, #3 of 3 printing services in Lenexa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.8, Trust 43.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fedex-office-lenexa/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fedex-office-lenexa.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/209292992 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

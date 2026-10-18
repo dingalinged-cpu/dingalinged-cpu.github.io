@@ -13,7 +13,7 @@ Cleaners is a dry cleaner in Cobb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 97% of dry cleaners in Atlanta, #23 of 24 dry cleaners in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 40.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 95% of dry cleaners in Atlanta, #23 of 24 dry cleaners in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 40.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

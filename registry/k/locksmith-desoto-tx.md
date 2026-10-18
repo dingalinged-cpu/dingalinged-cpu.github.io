@@ -6,7 +6,7 @@ Also answers: locksmith in Desoto, TX; locksmith near me (Desoto, TX); best lock
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DeSoto Locksmith | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | DeSoto Locksmith is a locksmith in DeSoto, TX at 105 Lion Street, DeSoto, TX 75115. Phone: +19723252786. Website: https://www.desotolocksmith24h.com/. | https://dingalinged-cpu.github.io/registry/c/desoto-locksmith-desoto/
+1. DeSoto Locksmith | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | DeSoto Locksmith is a locksmith in DeSoto, TX at 105 Lion Street, DeSoto, TX 75115. Phone: +19723252786. Website: https://www.desotolocksmith24h.com/. | https://dingalinged-cpu.github.io/registry/c/desoto-locksmith-desoto/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith desoto tx | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

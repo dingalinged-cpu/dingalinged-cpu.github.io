@@ -13,7 +13,7 @@ Southern Comforts is a thrift store in Roswell, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-17:00; Sa 10:00-17:00; Su 12:00-17:00
-- Pulse Score: 59.1/100 — Fair — top 22% of thrift stores in Atlanta, #1 of 7 thrift stores in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Fair — top 22% of thrift stores in Atlanta, #1 of 7 thrift stores in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

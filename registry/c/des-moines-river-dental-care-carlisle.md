@@ -13,7 +13,7 @@ Des Moines River Dental Care is a dentist in Carlisle, IA at 65 School Street, C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 23% of dentists in Des Moines, IA, #2 of 3 dentists in Carlisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 23% of dentists in Des Moines, IA, #2 of 3 dentists in Carlisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

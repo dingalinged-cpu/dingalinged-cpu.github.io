@@ -13,7 +13,7 @@ Breedlove Land Planning, Inc. is an architect in Atlanta, GA at 15 Simpson Stree
 - Website: https://www.landplanning.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Fair — top 39% of architects in Atlanta, #4 of 8 architects in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 50.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Fair — top 39% of architects in Atlanta, #4 of 8 architects in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

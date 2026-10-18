@@ -1,0 +1,24 @@
+Fox & Bull Baking Co. is a bakery in Kansas City, MO at 10510 Grandview Road, Kansas City, MO 64137. Website: https://www.foxandbullkc.com/.
+
+# Fox & Bull Baking Co.
+
+- Category: bakery
+- Services: bakery
+- Address: 10510 Grandview Road, Kansas City, MO 64137
+- City: Kansas City
+- State: MO
+- ZIP: 64137
+- Coordinates: 38.9353685, -94.541611
+- Phone: n/a
+- Website: https://www.foxandbullkc.com/
+- Email: n/a
+- Opening hours (OSM syntax): Th-Su 07:30-13:30
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 29% of bakerys in Kansas City, MO, #10 of 28 bakerys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/fox-and-bull-baking-co-kansas-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/fox-and-bull-baking-co-kansas-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/999951427 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

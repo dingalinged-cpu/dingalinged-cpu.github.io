@@ -6,7 +6,7 @@ Also answers: flooring companies in Madison, WI; flooring companies near me (Mad
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Madison Hardwood Floors | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Madison Hardwood Floors is a flooring company in Madison, WI at 2562 East Johnson Street, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/madison-hardwood-floors-madison/
+1. Madison Hardwood Floors | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Madison Hardwood Floors is a flooring company in Madison, WI at 2562 East Johnson Street, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/madison-hardwood-floors-madison/
 2. LL Flooring | Organic #2 | Pulse Score 43/100 (Building, #2 in city) | LL Flooring is a flooring company in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/ll-flooring-madison/
 
 ## Market data (for advertisers and agents)

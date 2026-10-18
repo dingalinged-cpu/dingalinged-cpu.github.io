@@ -13,7 +13,7 @@ Nicole's Dog Gone Cute Grooming is a dog groomer in Roswell, GA at 4750 Alabama 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-14:00
-- Pulse Score: 61.2/100 — Good — top 28% of dog groomers in Atlanta, #2 of 2 dog groomers in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.3, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Good — top 28% of dog groomers in Atlanta, #2 of 2 dog groomers in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

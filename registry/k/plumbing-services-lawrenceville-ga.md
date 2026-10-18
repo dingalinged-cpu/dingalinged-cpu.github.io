@@ -6,7 +6,7 @@ Also answers: plumbing services in Lawrenceville, GA; plumbing services near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Drain Genie Plumbing & Drains | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Drain Genie Plumbing & Drains is a plumber in Lawrenceville, GA at 2490 Waterford Park Drive, Lawrenceville, GA 30044. Phone: +14044843003. Website: https://draingenie.net/. | https://dingalinged-cpu.github.io/registry/c/drain-genie-plumbing-and-drains-lawrenceville/
+1. Drain Genie Plumbing & Drains | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Drain Genie Plumbing & Drains is a plumber in Lawrenceville, GA at 2490 Waterford Park Drive, Lawrenceville, GA 30044. Phone: +14044843003. Website: https://draingenie.net/. | https://dingalinged-cpu.github.io/registry/c/drain-genie-plumbing-and-drains-lawrenceville/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services lawrenceville ga | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

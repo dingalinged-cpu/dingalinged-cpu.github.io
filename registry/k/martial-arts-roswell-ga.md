@@ -7,7 +7,7 @@ Also answers: martial arts in Roswell, GA; martial arts near me (Roswell, GA); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Invictus Star Martial Arts - Tae Kown Do | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Invictus Star Martial Arts - Tae Kown Do is a martial arts school in Roswell, GA at 4750 Alabama Road #112, Roswell, GA. Phone: +17708371603. Website: https://www.invictusstar.com/. | https://dingalinged-cpu.github.io/registry/c/invictus-star-martial-arts-tae-kown-do-roswell/
-2. Aikido Martial Arts | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Aikido Martial Arts is a martial arts school in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/aikido-martial-arts-roswell/
+2. Aikido Martial Arts | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Aikido Martial Arts is a martial arts school in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/aikido-martial-arts-roswell/
 3. Atlanta Krav Maga and Fitness | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Atlanta Krav Maga and Fitness is a martial arts school in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-krav-maga-and-fitness-roswell/
 
 ## Market data (for advertisers and agents)

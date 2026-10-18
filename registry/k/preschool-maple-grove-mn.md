@@ -8,8 +8,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Yellow Brick Road | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Yellow Brick Road is a preschool in Maple Grove, MN at 9745 Revere Lane North, Maple Grove, MN 55369. Phone: +16129273232. Website: https://www.ybrecdc.org/. | https://dingalinged-cpu.github.io/registry/c/yellow-brick-road-maple-grove/
 2. KinderCare | Organic #2 | Pulse Score 49.6/100 (Building, #2 in city) | KinderCare is a preschool in Maple Grove, MN at 13380 Grove Drive North, Maple Grove, MN 55369. Phone: +17634209200. Website: https://www.kindercare.com/our-centers/maple-grove/mn/301287. | https://dingalinged-cpu.github.io/registry/c/kindercare-maple-grove/
-3. Casa de Corazón | Organic #3 | Pulse Score 47.8/100 (Unrated, #3 in city) | Casa de Corazón is a preschool in Maple Grove, MN at 8351 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17634163992. Website: https://casaearlylearning.com/. | https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-maple-grove/
-4. Tutor Time of Maple Grove | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Tutor Time of Maple Grove is a preschool in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/tutor-time-of-maple-grove-maple-grove/
+3. Casa de Corazón | Organic #3 | Pulse Score 47.7/100 (Unrated, #3 in city) | Casa de Corazón is a preschool in Maple Grove, MN at 8351 Elm Creek Boulevard, Maple Grove, MN 55369. Phone: +17634163992. Website: https://casaearlylearning.com/. | https://dingalinged-cpu.github.io/registry/c/casa-de-coraz-n-maple-grove/
+4. Tutor Time of Maple Grove | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Tutor Time of Maple Grove is a preschool in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/tutor-time-of-maple-grove-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool maple grove mn | category: Education & childcare | industry benchmark: Education & Instruction

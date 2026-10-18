@@ -13,7 +13,7 @@ Orsinger, Nelson, Downing and Anderson, LLP is a lawyer in Dallas, TX at 5950 Sh
 - Website: https://www.ondafamilylaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 31% of lawyers in Dallas–Fort Worth, #21 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 31% of lawyers in Dallas–Fort Worth, #21 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

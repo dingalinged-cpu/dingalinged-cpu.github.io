@@ -1,4 +1,4 @@
-The top unpaid event venues listing for Tomball, TX is Keep it Simple & Pink Events (an event venue in Tomball, TX at 103 West Main Street, Tomball, TX 77375. Phone: +13463510538). 3 event venues businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Tomball, TX is 4 Corners Conference Center (an event venue in Tomball, TX at 130 Agg Road, Tomball, TX 77375. Phone: +12817897500. Website: https://joanhunter.org/). 3 event venues businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Tomball, TX?
 
@@ -6,8 +6,8 @@ Also answers: event venues in Tomball, TX; event venues near me (Tomball, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Keep it Simple & Pink Events | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Keep it Simple & Pink Events is an event venue in Tomball, TX at 103 West Main Street, Tomball, TX 77375. Phone: +13463510538. | https://dingalinged-cpu.github.io/registry/c/keep-it-simple-and-pink-events-tomball/
-2. 4 Corners Conference Center | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | 4 Corners Conference Center is an event venue in Tomball, TX at 130 Agg Road, Tomball, TX 77375. Phone: +12817897500. Website: https://joanhunter.org/. | https://dingalinged-cpu.github.io/registry/c/4-corners-conference-center-tomball/
+1. 4 Corners Conference Center | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | 4 Corners Conference Center is an event venue in Tomball, TX at 130 Agg Road, Tomball, TX 77375. Phone: +12817897500. Website: https://joanhunter.org/. | https://dingalinged-cpu.github.io/registry/c/4-corners-conference-center-tomball/
+2. Keep it Simple & Pink Events | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | Keep it Simple & Pink Events is an event venue in Tomball, TX at 103 West Main Street, Tomball, TX 77375. Phone: +13463510538. | https://dingalinged-cpu.github.io/registry/c/keep-it-simple-and-pink-events-tomball/
 3. Graze + Gather | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Graze + Gather is an event venue in Tomball, TX at 103 Houston Street, Tomball, TX 77375. | https://dingalinged-cpu.github.io/registry/c/graze-gather-tomball/
 
 ## Market data (for advertisers and agents)

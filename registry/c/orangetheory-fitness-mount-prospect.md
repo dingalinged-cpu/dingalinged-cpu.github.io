@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Mount Prospect, IL at 1032 Center Drive, Mount 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Building — top 75% of gyms in Chicago, #2 of 4 gyms in Mount Prospect (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 74% of gyms in Chicago, #2 of 4 gyms in Mount Prospect (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ KinderCare is a daycare in North Oaks, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 100% of daycares in Minneapolis–St. Paul, #1 of 1 daycares in North Oaks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 40.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42/100 — Unrated (not enough evidence yet) — top 99% of daycares in Minneapolis–St. Paul, #1 of 1 daycares in North Oaks (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 40.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Rejuva is a plastic surgeon in South Barrington, IL at 100 West Higgins Road, So
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 88% of plastic surgeons in Chicago, #1 of 1 plastic surgeons in South Barrington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 43.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 88% of plastic surgeons in Chicago, #1 of 1 plastic surgeons in South Barrington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 43.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

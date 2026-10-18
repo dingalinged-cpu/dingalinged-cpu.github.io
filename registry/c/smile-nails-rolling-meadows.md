@@ -13,7 +13,7 @@ Smile Nails is a nail salon in Rolling Meadows, IL at 1919 South Plum Grove Road
 - Website: https://fb.com/smilenailsandspa
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:30; Sa 09:00-18:00; Su 10:00-18:00
-- Pulse Score: 64.7/100 — Good — top 1% of nail salons in Chicago, #1 of 1 nail salons in Rolling Meadows (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 1% of nail salons in Chicago, #1 of 1 nail salons in Rolling Meadows (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.5, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

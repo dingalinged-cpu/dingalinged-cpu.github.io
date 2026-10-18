@@ -13,7 +13,7 @@ Langer Real Estate is a real estate agency in West Saint Paul, MN at 1540 Humbol
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 53% of real estate agencys in Minneapolis–St. Paul, #2 of 2 real estate agencys in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 53% of real estate agencys in Minneapolis–St. Paul, #2 of 2 real estate agencys in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

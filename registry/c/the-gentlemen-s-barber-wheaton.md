@@ -13,7 +13,7 @@ The Gentlemen’s Barber is a barber shop in Wheaton, IL at 128 West Willow Aven
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-17:00; Sa 09:00-13:00
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 46% of barber shops in Chicago, #1 of 1 barber shops in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 51.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 46% of barber shops in Chicago, #1 of 1 barber shops in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

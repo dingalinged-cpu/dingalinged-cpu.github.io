@@ -13,7 +13,7 @@ National Tire and Battery is an auto repair shop in Houston, TX at 13171 Northwe
 - Website: https://www.ntb.com/store/tx/houston/13171-northwest-fwy-77040/4472
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 73% of auto repair shops in Houston, #170 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 72% of auto repair shops in Houston, #168 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

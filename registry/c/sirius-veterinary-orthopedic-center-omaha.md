@@ -13,7 +13,7 @@ Sirius Veterinary Orthopedic Center is a veterinarian in Omaha, NE at 3125 South
 - Website: https://siriusvet.com/
 - Email: info@siriusvet.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of veterinarians in Omaha, NE, #1 of 13 veterinarians in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of veterinarians in Omaha, NE, #1 of 13 veterinarians in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

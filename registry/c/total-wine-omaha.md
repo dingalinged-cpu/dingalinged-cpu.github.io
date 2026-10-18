@@ -13,7 +13,7 @@ Total Wine is a liquor store in Omaha, NE at 1220 S 71st Street #Suite A, Omaha,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-22:00
-- Pulse Score: 48.8/100 — Building — top 79% of liquor stores in Omaha, NE, #6 of 8 liquor stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 79% of liquor stores in Omaha, NE, #6 of 8 liquor stores in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

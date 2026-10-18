@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. AÉNL Agency | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | AÉNL Agency is a marketing agency in Plano, TX at 5830 Granite Parkway #100-301, Plano, TX 75024. Phone: +14243549774. Website: https://aenlagency.co/. | https://dingalinged-cpu.github.io/registry/c/a-nl-agency-plano/
 2. Austin Bryant Consulting | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Austin Bryant Consulting is a marketing agency in Plano, TX at 2 Eastvale Pl, Plano, TX 75074. Phone: +19724767161. Website: https://austinbryantconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/austin-bryant-consulting-plano/
-3. MoreThanSEO | Organic #3 | Pulse Score 59.5/100 (Fair, #3 in city) | MoreThanSEO is a marketing agency in Plano, TX at 8920 Coit Road, Plano, TX 75024. Website: https://www.morethanseo.com/. | https://dingalinged-cpu.github.io/registry/c/morethanseo-plano/
+3. MoreThanSEO | Organic #3 | Pulse Score 59.6/100 (Fair, #3 in city) | MoreThanSEO is a marketing agency in Plano, TX at 8920 Coit Road, Plano, TX 75024. Website: https://www.morethanseo.com/. | https://dingalinged-cpu.github.io/registry/c/morethanseo-plano/
 4. UMI | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | UMI is a marketing agency in Plano, TX at 1081 Ohio Drive, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/umi-plano/
 5. Alpha Graphics | Organic #5 | Pulse Score 40.7/100 (Unrated, #5 in city) | Alpha Graphics is a marketing agency in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/alpha-graphics-plano/
 

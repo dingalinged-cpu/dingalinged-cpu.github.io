@@ -13,7 +13,7 @@ National Tire and Battery is an auto repair shop in Grapevine, TX at 202 East St
 - Website: https://www.ntb.com/store/tx/grapevine/202-e-state-highway-114-76051/4465
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 73% of auto repair shops in Dallas–Fort Worth, #6 of 8 auto repair shops in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 73% of auto repair shops in Dallas–Fort Worth, #5 of 8 auto repair shops in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

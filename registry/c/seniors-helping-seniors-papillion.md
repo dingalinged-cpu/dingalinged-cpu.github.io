@@ -13,7 +13,7 @@ Seniors Helping Seniors is an assisted living facility in Papillion, NE at 1401 
 - Website: https://www.seniorcaregreateromaha.com/
 - Email: tarrence@shsomaha.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 20% of assisted living facilitys in Omaha, NE, #1 of 1 assisted living facilitys in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 20% of assisted living facilitys in Omaha, NE, #1 of 1 assisted living facilitys in Papillion (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

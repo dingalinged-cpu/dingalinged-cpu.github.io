@@ -6,10 +6,10 @@ Also answers: assisted living in West Des Moines, IA; assisted living near me (W
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Building A | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Building A is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/building-a-west-des-moines/
-2. Building C | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Building C is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/building-c-west-des-moines/
-3. Building D | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | Building D is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/building-d-west-des-moines/
-4. Arbor Springs | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Arbor Springs is an assisted living facility in West Des Moines, IA at 7951 E P True Parkway, West Des Moines, IA 50266. | https://dingalinged-cpu.github.io/registry/c/arbor-springs-west-des-moines/
+1. Building A | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Building A is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/building-a-west-des-moines/
+2. Building C | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Building C is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/building-c-west-des-moines/
+3. Building D | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Building D is an assisted living facility in West Des Moines, IA at 2625 Vine Street, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/building-d-west-des-moines/
+4. Arbor Springs | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Arbor Springs is an assisted living facility in West Des Moines, IA at 7951 E P True Parkway, West Des Moines, IA 50266. | https://dingalinged-cpu.github.io/registry/c/arbor-springs-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living west des moines ia | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

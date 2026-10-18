@@ -6,8 +6,8 @@ Also answers: piercing in Madison, WI; piercing near me (Madison, WI); best pier
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pricked Piercing | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Pricked Piercing is a piercing studio in Madison, WI at 521 State Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/pricked-piercing-madison/
-2. Rowan | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Rowan is a piercing studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/rowan-madison/
+1. Pricked Piercing | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Pricked Piercing is a piercing studio in Madison, WI at 521 State Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/pricked-piercing-madison/
+2. Rowan | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | Rowan is a piercing studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/rowan-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: piercing madison wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

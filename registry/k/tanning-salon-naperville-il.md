@@ -6,7 +6,7 @@ Also answers: tanning salon in Naperville, IL; tanning salon near me (Naperville
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Unlimited Tan | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Unlimited Tan is a tanning salon in Naperville, IL at 2048 Aurora Avenue #104, Naperville, IL 60540. Phone: +16306373333. Website: https://www.unlimitedtan.com/locations/naperville. | https://dingalinged-cpu.github.io/registry/c/unlimited-tan-naperville/
+1. Unlimited Tan | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Unlimited Tan is a tanning salon in Naperville, IL at 2048 Aurora Avenue #104, Naperville, IL 60540. Phone: +16306373333. Website: https://www.unlimitedtan.com/locations/naperville. | https://dingalinged-cpu.github.io/registry/c/unlimited-tan-naperville/
 2. L.A. TAN | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | L.A. TAN is a tanning salon in Naperville, IL at 1539 North Aurora Road #103, Naperville, IL 60563. Phone: +16305484519. Website: https://latan.com/locations/1539-n-aurora-rd/. | https://dingalinged-cpu.github.io/registry/c/l-a-tan-naperville/
 
 ## Market data (for advertisers and agents)

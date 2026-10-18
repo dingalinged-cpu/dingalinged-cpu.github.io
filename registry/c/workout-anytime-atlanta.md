@@ -13,7 +13,7 @@ Workout Anytime is a gym in Atlanta, GA at 1715 Howell Mill Road Northwest #B1, 
 - Website: https://workoutanytime.com/location/buckhead/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.8/100 — Building — top 56% of gyms in Atlanta, #28 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 55% of gyms in Atlanta, #28 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

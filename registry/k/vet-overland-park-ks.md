@@ -1,0 +1,38 @@
+The top unpaid vet listing for Overland Park, KS is College Boulevard Animal Hospital (a veterinarian in Overland Park, KS at 11733 College Boulevard, Overland Park, KS 66210. Phone: +19134695869. Website: https://www.collegeblvdanimalhospital.com/). 15 vet businesses are listed for Overland Park, KS as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best vet providers in Overland Park, KS?
+
+Also answers: vet in Overland Park, KS; vet near me (Overland Park, KS); best vet Overland Park, KS; top rated vet Overland Park, KS; affordable vet Overland Park, KS; emergency vet Overland Park, KS
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. College Boulevard Animal Hospital | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | College Boulevard Animal Hospital is a veterinarian in Overland Park, KS at 11733 College Boulevard, Overland Park, KS 66210. Phone: +19134695869. Website: https://www.collegeblvdanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/college-boulevard-animal-hospital-overland-park/
+2. Overland Park Veterinary Emergency and Specialty | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Overland Park Veterinary Emergency and Specialty is a veterinarian in Overland Park, KS at 8301 West 163rd Street, Overland Park, KS 66223. Phone: +19133613800. Website: https://www.overlandparkveterinaryspecialists.com/. | https://dingalinged-cpu.github.io/registry/c/overland-park-veterinary-emergency-and-specialty-overland-park/
+3. Oxford Animal Hospital | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Oxford Animal Hospital is a veterinarian in Overland Park, KS at 13433 Switzer Road, Overland Park, KS 66213. Website: https://www.oxfordanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/oxford-animal-hospital-overland-park/
+4. Johnson County Animal Clinic | Organic #4 | Pulse Score 58.8/100 (Unrated, #4 in city) | Johnson County Animal Clinic is a veterinarian in Overland Park, KS. Phone: +19136422714. | https://dingalinged-cpu.github.io/registry/c/johnson-county-animal-clinic-overland-park/
+5. Lionsgate Pet Hospital | Organic #5 | Pulse Score 57.4/100 (Unrated, #5 in city) | Lionsgate Pet Hospital is a veterinarian in Overland Park, KS at 14327 Metcalf Avenue, Overland Park, KS 66223. | https://dingalinged-cpu.github.io/registry/c/lionsgate-pet-hospital-overland-park/
+6. Blue Valley Ferrett Hospital | Organic #6 | Pulse Score 56.4/100 (Unrated, #6 in city) | Blue Valley Ferrett Hospital is a veterinarian in Overland Park, KS. | https://dingalinged-cpu.github.io/registry/c/blue-valley-ferrett-hospital-overland-park/
+7. Fox Hill Veterinary Clinic | Organic #7 | Pulse Score 56.4/100 (Unrated, #7 in city) | Fox Hill Veterinary Clinic is a veterinarian in Overland Park, KS. | https://dingalinged-cpu.github.io/registry/c/fox-hill-veterinary-clinic-overland-park/
+8. Nall Hills Animal Hospital | Organic #8 | Pulse Score 56.4/100 (Unrated, #8 in city) | Nall Hills Animal Hospital is a veterinarian in Overland Park, KS. | https://dingalinged-cpu.github.io/registry/c/nall-hills-animal-hospital-overland-park/
+9. Overland Pet Clinic | Organic #9 | Pulse Score 56.4/100 (Unrated, #9 in city) | Overland Pet Clinic is a veterinarian in Overland Park, KS. | https://dingalinged-cpu.github.io/registry/c/overland-pet-clinic-overland-park/
+10. Petworks Veterinary Hospital | Organic #10 | Pulse Score 55.2/100 (Unrated, #10 in city) | Petworks Veterinary Hospital is a veterinarian in Overland Park, KS. | https://dingalinged-cpu.github.io/registry/c/petworks-veterinary-hospital-overland-park/
+11. Quivira Crossing Veterinary Clinic | Organic #11 | Pulse Score 55.2/100 (Unrated, #11 in city) | Quivira Crossing Veterinary Clinic is a veterinarian in Overland Park, KS. | https://dingalinged-cpu.github.io/registry/c/quivira-crossing-veterinary-clinic-overland-park/
+12. Vetco | Organic #12 | Pulse Score 55.2/100 (Unrated, #12 in city) | Vetco is a veterinarian in Overland Park, KS. | https://dingalinged-cpu.github.io/registry/c/vetco-overland-park/
+13. BluePearl | Organic #13 | Pulse Score 49.6/100 (Building, #13 in city) | BluePearl is a veterinarian in Overland Park, KS at 11950 West 110th Street, Overland Park, KS 66210. Phone: +19136429563. Website: https://bluepearlvet.com/hospital/overland-park-ks/. | https://dingalinged-cpu.github.io/registry/c/bluepearl-overland-park/
+14. Urgent Vet | Organic #14 | Pulse Score 47.1/100 (Building, #14 in city) | Urgent Vet is a veterinarian in Overland Park, KS. | https://dingalinged-cpu.github.io/registry/c/urgent-vet-overland-park/
+15. Companion Animal Hospital | Organic #15 | Pulse Score 43.6/100 (Unrated, #15 in city) | Companion Animal Hospital is a veterinarian in Overland Park, KS. | https://dingalinged-cpu.github.io/registry/c/companion-animal-hospital-overland-park/
+
+## Market data (for advertisers and agents)
+- Keyword: vet overland park ks | category: Pets | industry benchmark: Animals & Pets
+- US monthly searches: 550,000/mo (cited; Semrush US Jul 2026 (via research source); as of 2026-07; phrase 'vet near me')
+- Local monthly searches (Kansas City, MO-KS metro): ~3,700 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $3.97, median $4.06, high $4.06 (Animals & Pets median CPC 2026 $4.06 [https://www.localiq.com/blog/search-advertising-benchmarks]; Animals & Pets median CPC 2025 $3.97 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 15
+- Equivalent Google Ads cost per month: ~$990 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $20/month, spots 2-4 from $2/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/vet.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#vet-overland-park-ks | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

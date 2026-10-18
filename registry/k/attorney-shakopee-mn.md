@@ -6,7 +6,7 @@ Also answers: attorney in Shakopee, MN; attorney near me (Shakopee, MN); best at
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Langemo Law | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Langemo Law is a lawyer in Shakopee, MN at 120 Fuller Street South #Suite 120, Shakopee, MN 55379. Phone: +19525560056. | https://dingalinged-cpu.github.io/registry/c/langemo-law-shakopee/
+1. Langemo Law | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Langemo Law is a lawyer in Shakopee, MN at 120 Fuller Street South #Suite 120, Shakopee, MN 55379. Phone: +19525560056. | https://dingalinged-cpu.github.io/registry/c/langemo-law-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney shakopee mn | category: professional_legal | industry benchmark: Attorneys & Legal Services

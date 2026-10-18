@@ -13,7 +13,7 @@ State Farm Insurance - Kim Nybo is an insurance agent in Minneapolis, MN at 2724
 - Website: https://www.statefarm.com/agent/us/mn/minneapolis/kim-nybo-418147603ak
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 49.5/100 — Building — top 48% of insurance agents in Minneapolis–St. Paul, #6 of 13 insurance agents in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 48% of insurance agents in Minneapolis–St. Paul, #6 of 13 insurance agents in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

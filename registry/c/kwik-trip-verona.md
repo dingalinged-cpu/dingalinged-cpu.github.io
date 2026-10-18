@@ -13,7 +13,7 @@ Kwik Trip is a car wash in Verona, WI at 2145 County Highway PB, Verona, WI 5359
 - Website: https://www.kwiktrip.com/locator/store?id=456
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 51.4/100 — Fair — top 42% of car washes in Madison, #1 of 2 car washes in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 68.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 42% of car washes in Madison, #1 of 2 car washes in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 68.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

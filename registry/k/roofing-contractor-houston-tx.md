@@ -6,8 +6,8 @@ Also answers: roofing contractor in Houston, TX; roofing contractor near me (Hou
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amstill Roofing | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Amstill Roofing is a roofer in Houston, TX at 14125 Memorial Drive, Houston, TX 77079. Phone: +12816128747. Website: https://amstillroofing.com/houston-roofing. | https://dingalinged-cpu.github.io/registry/c/amstill-roofing-houston/
-2. TrueWorks Roofing | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | TrueWorks Roofing is a roofer in Houston, TX at 8566 Katy Fwy #Suite 122, Houston, TX 77024. Phone: +17139037663. Website: https://www.trueworksroofing.com/. | https://dingalinged-cpu.github.io/registry/c/trueworks-roofing-houston/
+1. Amstill Roofing | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Amstill Roofing is a roofer in Houston, TX at 14125 Memorial Drive, Houston, TX 77079. Phone: +12816128747. Website: https://amstillroofing.com/houston-roofing. | https://dingalinged-cpu.github.io/registry/c/amstill-roofing-houston/
+2. TrueWorks Roofing | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | TrueWorks Roofing is a roofer in Houston, TX at 8566 Katy Fwy #Suite 122, Houston, TX 77024. Phone: +17139037663. Website: https://www.trueworksroofing.com/. | https://dingalinged-cpu.github.io/registry/c/trueworks-roofing-houston/
 3. New Image Roofing | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | New Image Roofing is a roofer in Houston, TX at 2450 Louisiana Street #400, Houston, TX 77006. Phone: +18324217474. Website: https://www.newimageroofing.net/. | https://dingalinged-cpu.github.io/registry/c/new-image-roofing-houston/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ Five Star Flooring is a flooring company in Harris County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 64% of flooring companys in Houston, #2 of 4 flooring companys in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 40.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 64% of flooring companys in Houston, #2 of 4 flooring companys in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 40.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

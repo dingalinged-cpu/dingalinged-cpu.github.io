@@ -1,0 +1,52 @@
+The top unpaid nail salon listing for Kansas City, MO is Q Nails & Spa (a nail salon in Kansas City, MO at 6994 Northwest 83rd Terrace, Kansas City, MO 64152. Phone: +18167419444. Website: https://qnailsandspa.net/). 28 nail salon businesses are listed for Kansas City, MO as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best nail salon providers in Kansas City, MO?
+
+Also answers: nail salon in Kansas City, MO; nail salon near me (Kansas City, MO); best nail salon Kansas City, MO; top rated nail salon Kansas City, MO; affordable nail salon Kansas City, MO; emergency nail salon Kansas City, MO
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Q Nails & Spa | Organic #1 | Pulse Score 61.4/100 (Unrated, #2 in city) | Q Nails & Spa is a nail salon in Kansas City, MO at 6994 Northwest 83rd Terrace, Kansas City, MO 64152. Phone: +18167419444. Website: https://qnailsandspa.net/. | https://dingalinged-cpu.github.io/registry/c/q-nails-and-spa-kansas-city/
+2. Rosy Nails | Organic #2 | Pulse Score 60.6/100 (Good, #3 in city) | Rosy Nails is a nail salon in Kansas City, MO. Website: https://www.facebook.com/rosynailskc/. | https://dingalinged-cpu.github.io/registry/c/rosy-nails-kansas-city/
+3. Nails & Beyond | Organic #3 | Pulse Score 60.2/100 (Unrated, #4 in city) | Nails & Beyond is a nail salon in Kansas City, MO at 9184 N Skyview Ave, Kansas City, MO 64154. Phone: +18164925088. | https://dingalinged-cpu.github.io/registry/c/nails-and-beyond-kansas-city/
+4. Aspen Salon and Spa | Organic #4 | Pulse Score 59.6/100 (Unrated, #5 in city) | Aspen Salon and Spa is a nail salon in Kansas City, MO at 8250 North Booth Avenue, Kansas City, MO 64158. Website: https://aspensalonandspa.com/newsite/locations/sc.html. | https://dingalinged-cpu.github.io/registry/c/aspen-salon-and-spa-kansas-city/
+5. CiCi Nails and Spa | Organic #5 | Pulse Score 59.6/100 (Unrated, #6 in city) | CiCi Nails and Spa is a nail salon in Kansas City, MO at 8302 North Oxford Avenue, Kansas City, MO 64158. Website: https://www.cicinailsandspakc.com/contact. | https://dingalinged-cpu.github.io/registry/c/cici-nails-and-spa-kansas-city/
+6. Envy Nails and Spa | Organic #6 | Pulse Score 59.6/100 (Unrated, #7 in city) | Envy Nails and Spa is a nail salon in Kansas City, MO at 124 East Missouri Avenue, Kansas City, MO 64106. Website: https://envynailsandspakansas.com/. | https://dingalinged-cpu.github.io/registry/c/envy-nails-and-spa-kansas-city/
+7. American Nails | Organic #7 | Pulse Score 57.4/100 (Unrated, #8 in city) | American Nails is a nail salon in Kansas City, MO at 506 NW Englewood Rd, Kansas City, MO 64118. | https://dingalinged-cpu.github.io/registry/c/american-nails-kansas-city/
+8. Current Salon | Organic #8 | Pulse Score 57.4/100 (Unrated, #9 in city) | Current Salon is a nail salon in Kansas City, MO at 6451 North Cosby Avenue, Kansas City, MO 64151. | https://dingalinged-cpu.github.io/registry/c/current-salon-kansas-city/
+9. L'acqua Nails & Lashes | Organic #9 | Pulse Score 57.4/100 (Unrated, #10 in city) | L'acqua Nails & Lashes is a nail salon in Kansas City, MO at 4155 North Mulberry Drive, Kansas City, MO 64116. | https://dingalinged-cpu.github.io/registry/c/lacqua-nails-and-lashes-kansas-city/
+10. My Bliss Nails & Spa | Organic #10 | Pulse Score 57.4/100 (Unrated, #11 in city) | My Bliss Nails & Spa is a nail salon in Kansas City, MO at 9753 North Cedar Avenue, Kansas City, MO 64157. | https://dingalinged-cpu.github.io/registry/c/my-bliss-nails-and-spa-kansas-city/
+11. THE NAILS & LASHES | Organic #11 | Pulse Score 57.4/100 (Unrated, #12 in city) | THE NAILS & LASHES is a nail salon in Kansas City, MO at 10438 Northeast Cookingham Drive, Kansas City, MO 64157. | https://dingalinged-cpu.github.io/registry/c/the-nails-and-lashes-kansas-city/
+12. Ten & Two | Organic #12 | Pulse Score 57.2/100 (Unrated, #13 in city) | Ten & Two is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/ten-and-two-kansas-city/
+13. Element Nails Bar | Organic #13 | Pulse Score 55.1/100 (Unrated, #14 in city) | Element Nails Bar is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/element-nails-bar-kansas-city/
+14. Foxy Nails | Organic #14 | Pulse Score 55.1/100 (Unrated, #15 in city) | Foxy Nails is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/foxy-nails-kansas-city/
+15. Good Nails | Organic #15 | Pulse Score 55.1/100 (Unrated, #16 in city) | Good Nails is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/good-nails-kansas-city/
+16. Maysy's Nails & Spa | Organic #16 | Pulse Score 55.1/100 (Unrated, #17 in city) | Maysy's Nails & Spa is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/maysys-nails-and-spa-kansas-city/
+17. Mindy's Nails & Spa | Organic #17 | Pulse Score 55.1/100 (Unrated, #18 in city) | Mindy's Nails & Spa is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/mindys-nails-and-spa-kansas-city/
+18. Nail and Spa | Organic #18 | Pulse Score 55.1/100 (Unrated, #19 in city) | Nail and Spa is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/nail-and-spa-kansas-city/
+19. Nail Fantasy | Organic #19 | Pulse Score 55.1/100 (Unrated, #21 in city) | Nail Fantasy is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/nail-fantasy-kansas-city/
+20. Plaza Nails | Organic #20 | Pulse Score 55.1/100 (Unrated, #22 in city) | Plaza Nails is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/plaza-nails-kansas-city/
+21. Sassy Nails | Organic #21 | Pulse Score 55.1/100 (Unrated, #23 in city) | Sassy Nails is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/sassy-nails-kansas-city/
+22. The Nail Lounge | Organic #22 | Pulse Score 55.1/100 (Unrated, #24 in city) | The Nail Lounge is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/the-nail-lounge-kansas-city/
+23. Top Line Nail | Organic #23 | Pulse Score 55.1/100 (Unrated, #25 in city) | Top Line Nail is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/top-line-nail-kansas-city/
+24. Polished | Organic #24 | Pulse Score 50.7/100 (Fair, #26 in city) | Polished is a nail salon in Kansas City, MO at 1221 Main Street, Kansas City, MO 64105. Phone: +18162212888. Website: https://polishedkc.com/index.html. | https://dingalinged-cpu.github.io/registry/c/polished-kansas-city/
+25. Salon Suites | Organic #25 | Pulse Score 47.1/100 (Building, #27 in city) | Salon Suites is a nail salon in Kansas City, MO at 3911 Main Street, Kansas City, MO. Phone: +18165178052. | https://dingalinged-cpu.github.io/registry/c/salon-suites-kansas-city/
+26. Nails Spa | Organic #26 | Pulse Score 46.9/100 (Building, #28 in city) | Nails Spa is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/nails-spa-kansas-city/
+27. Luxury Nails | Organic #27 | Pulse Score 44.6/100 (Unrated, #29 in city) | Luxury Nails is a nail salon in Kansas City, MO at 4201 East Blue Parkway #B, Kansas City, MO 64130. | https://dingalinged-cpu.github.io/registry/c/luxury-nails-kansas-city/
+28. USA Nails | Organic #28 | Pulse Score 42.4/100 (Unrated, #30 in city) | USA Nails is a nail salon in Kansas City, MO. | https://dingalinged-cpu.github.io/registry/c/usa-nails-kansas-city/
+
+## Market data (for advertisers and agents)
+- Keyword: nail salon kansas city mo | category: Personal care & beauty | industry benchmark: Beauty & Personal Care
+- US monthly searches: 1,000,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'nail salon')
+- Local monthly searches (Kansas City, MO-KS metro): ~6,600 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $4.62, median $4.62, high $5.70 (Beauty & Personal Care median CPC 2026 $4.62 [https://www.localiq.com/blog/search-advertising-benchmarks]; Beauty & Personal Care median CPC 2025 $5.70 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'nail salon': $0.61-$2.10 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: low (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 28
+- Equivalent Google Ads cost per month: ~$230 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/nail-salon.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#nail-salon-kansas-city-mo | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Ellis Air Conditioning and Heating is a HVAC contractor in Cedar Hill, TX at 536
 - Website: https://www.ellisac.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 39% of HVAC contractors in Dallas–Fort Worth, #1 of 1 HVAC contractors in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 39% of HVAC contractors in Dallas–Fort Worth, #1 of 1 HVAC contractors in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

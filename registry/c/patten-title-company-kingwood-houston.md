@@ -13,7 +13,7 @@ Patten Title Company - Kingwood is an insurance agent in Houston, TX at 2815 Wes
 - Website: https://patten.com/kingwood/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 59.6/100 — Fair — top 13% of insurance agents in Houston, #12 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 13% of insurance agents in Houston, #12 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

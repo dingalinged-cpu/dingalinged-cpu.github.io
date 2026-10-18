@@ -6,11 +6,11 @@ Also answers: funeral home in Harris County, TX; funeral home near me (Harris Co
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brookside Funeral Home | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Brookside Funeral Home is a funeral home in Harris County, TX at 13747 Eastex Freeway, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brookside-funeral-home-harris-county/
-2. American Heritage Funeral Home | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | American Heritage Funeral Home is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/american-heritage-funeral-home-harris-county/
-3. Luke's Memorial Mortitary | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Luke's Memorial Mortitary is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lukes-memorial-mortitary-harris-county/
-4. Schmidt Funeral Homes | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Schmidt Funeral Homes is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/schmidt-funeral-homes-harris-county/
-5. Veterans Funeral Services | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Veterans Funeral Services is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/veterans-funeral-services-harris-county/
+1. Brookside Funeral Home | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Brookside Funeral Home is a funeral home in Harris County, TX at 13747 Eastex Freeway, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brookside-funeral-home-harris-county/
+2. American Heritage Funeral Home | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | American Heritage Funeral Home is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/american-heritage-funeral-home-harris-county/
+3. Luke's Memorial Mortitary | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Luke's Memorial Mortitary is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lukes-memorial-mortitary-harris-county/
+4. Schmidt Funeral Homes | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Schmidt Funeral Homes is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/schmidt-funeral-homes-harris-county/
+5. Veterans Funeral Services | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Veterans Funeral Services is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/veterans-funeral-services-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home harris county tx | category: Professional & financial services | industry benchmark: Finance & Insurance

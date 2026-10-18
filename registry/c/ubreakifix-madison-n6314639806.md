@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Madison, WI at 6118 Mineral Point Road, Mad
 - Website: https://www.ubreakifix.com/locations/madison
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
-- Pulse Score: 50.2/100 — Fair — top 50% of phone repair shops in Madison, #1 of 2 phone repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 66.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 50% of phone repair shops in Madison, #1 of 2 phone repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

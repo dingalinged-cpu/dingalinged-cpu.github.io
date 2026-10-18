@@ -1,0 +1,24 @@
+Sola Salons is a nail salon in Olathe, KS at 12517 Rogers Road, Olathe, KS 66062.
+
+# Sola Salons
+
+- Category: nail salon
+- Services: nail salon, facial
+- Address: 12517 Rogers Road, Olathe, KS 66062
+- City: Olathe
+- State: KS
+- ZIP: 66062
+- Coordinates: 38.903126, -94.7803171
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 45.4/100 — Building — top 90% of nail salons in Kansas City, MO, #7 of 7 nail salons in Olathe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/sola-salons-olathe/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/sola-salons-olathe.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/758297840 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Key 2 Fitness Personal Training is a gym in Cobb County, GA at 2635 Sandy Plains
 - Website: https://www.key2fitnesstraining.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.5/100 — Good — top 16% of gyms in Atlanta, #13 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Good — top 15% of gyms in Atlanta, #12 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

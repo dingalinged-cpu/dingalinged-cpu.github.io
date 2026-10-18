@@ -13,7 +13,7 @@ Brownstone Law is a lawyer in Dallas, TX at 5706 East Mockingbird Lane, Dallas, 
 - Website: https://www.brownstonelaw.com/appellate-lawyer/texas-appeals/dallas-texas-appeal-lawyers/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.5/100 — Building — top 100% of lawyers in Dallas–Fort Worth, #48 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 50.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 100% of lawyers in Dallas–Fort Worth, #48 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Goodwill is a thrift store in Franklin, WI at 6941 South Riverwood Boulevard, Fr
 - Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/franklin-store-and-donation-center
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 09:00-19:00
-- Pulse Score: 49.6/100 — Building — top 48% of thrift stores in Milwaukee, #1 of 2 thrift stores in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 48% of thrift stores in Milwaukee, #1 of 2 thrift stores in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

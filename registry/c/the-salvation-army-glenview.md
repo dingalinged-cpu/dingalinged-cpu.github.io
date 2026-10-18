@@ -13,7 +13,7 @@ The Salvation Army is a thrift store in Glenview, IL at 9840 Milwaukee Avenue, G
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 86% of thrift stores in Chicago, #3 of 3 thrift stores in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.4, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 86% of thrift stores in Chicago, #3 of 3 thrift stores in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.5, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

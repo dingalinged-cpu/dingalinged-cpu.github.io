@@ -13,7 +13,7 @@ Mean Machine Cycle Parts is a motorcycle repair shop in Elkhart, IA at 462 West 
 - Website: https://meanmachinecycleparts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Su 09:00-12:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 100% of motorcycle repair shops in Des Moines, IA, #1 of 1 motorcycle repair shops in Elkhart (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 100% of motorcycle repair shops in Des Moines, IA, #1 of 1 motorcycle repair shops in Elkhart (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Vesper is a dermatologist in Chicago, IL at 3916 North Broadway, Chicago, IL 606
 - Website: https://vesperchi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 10:00-15:00; Su off
-- Pulse Score: 61.8/100 — Good — top 20% of dermatologists in Chicago, #2 of 5 dermatologists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Good — top 20% of dermatologists in Chicago, #2 of 5 dermatologists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 63.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

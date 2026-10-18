@@ -13,7 +13,7 @@ Shear Madness is a hair salon in Racine, WI at 232 Main Street, Racine, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 69% of hair salons in Milwaukee, #9 of 14 hair salons in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.3/100 — Unrated (not enough evidence yet) — top 94% of hair salons in Milwaukee, #14 of 14 hair salons in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

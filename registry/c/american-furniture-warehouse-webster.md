@@ -13,7 +13,7 @@ American Furniture Warehouse is a furniture store in Webster, TX at 21501 Gulf F
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 15% of furniture stores in Houston, #1 of 2 furniture stores in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 15% of furniture stores in Houston, #1 of 2 furniture stores in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

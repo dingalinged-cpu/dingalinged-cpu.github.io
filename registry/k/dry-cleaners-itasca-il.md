@@ -6,7 +6,7 @@ Also answers: dry cleaners in Itasca, IL; dry cleaners near me (Itasca, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Itasca Cleaners | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Itasca Cleaners is a dry cleaner in Itasca, IL at 110 West Center Street, Itasca, IL 60143. Phone: +16302851300. | https://dingalinged-cpu.github.io/registry/c/itasca-cleaners-itasca/
+1. Itasca Cleaners | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Itasca Cleaners is a dry cleaner in Itasca, IL at 110 West Center Street, Itasca, IL 60143. Phone: +16302851300. | https://dingalinged-cpu.github.io/registry/c/itasca-cleaners-itasca/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners itasca il | category: Professional & financial services | industry benchmark: Finance & Insurance

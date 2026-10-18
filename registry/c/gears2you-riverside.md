@@ -13,7 +13,7 @@ Gears2You is a bike shop in Riverside, IL at 90 Bloomingbank Road, Riverside, IL
 - Website: https://www.gears2you.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 51% of bike shops in Chicago, #1 of 1 bike shops in Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 50% of bike shops in Chicago, #1 of 1 bike shops in Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

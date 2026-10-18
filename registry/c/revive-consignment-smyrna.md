@@ -13,7 +13,7 @@ Revive Consignment is a thrift store in Smyrna, GA at 2514 Cobb Parkway South, S
 - Website: https://reviveconsignment.com/smyrna
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:30; Sa 10:00-19:00
-- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of thrift stores in Atlanta, #1 of 7 thrift stores in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 17% of thrift stores in Atlanta, #1 of 7 thrift stores in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

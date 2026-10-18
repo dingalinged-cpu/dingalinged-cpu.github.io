@@ -13,7 +13,7 @@ CPA John H. Evans is an accountant in Lewisville, TX at 605 East Southwest Parkw
 - Website: n/a
 - Email: jevans1@hotmail.com
 - Opening hours (OSM syntax): Mo-Fr open "By appointment only"; PH closed
-- Pulse Score: 61.5/100 — Good — top 20% of accountants in Dallas–Fort Worth, #1 of 5 accountants in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Good — top 20% of accountants in Dallas–Fort Worth, #1 of 5 accountants in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,8 +6,8 @@ Also answers: assisted living in Grimes, IA; assisted living near me (Grimes, IA
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grimes Crossing | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Grimes Crossing is an assisted living facility in Grimes, IA. | https://dingalinged-cpu.github.io/registry/c/grimes-crossing-grimes/
-2. Kennybrook Village | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Kennybrook Village is an assisted living facility in Grimes, IA. | https://dingalinged-cpu.github.io/registry/c/kennybrook-village-grimes/
+1. Grimes Crossing | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Grimes Crossing is an assisted living facility in Grimes, IA. | https://dingalinged-cpu.github.io/registry/c/grimes-crossing-grimes/
+2. Kennybrook Village | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Kennybrook Village is an assisted living facility in Grimes, IA. | https://dingalinged-cpu.github.io/registry/c/kennybrook-village-grimes/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living grimes ia | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

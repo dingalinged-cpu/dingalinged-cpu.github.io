@@ -6,7 +6,7 @@ Also answers: hvac repair in Wauconda, IL; hvac repair near me (Wauconda, IL); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Temp | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | All Temp is a HVAC contractor in Wauconda, IL at 124 East Liberty Street, Wauconda, IL 60084. Phone: +18475269082. Website: https://alltemp.net/. | https://dingalinged-cpu.github.io/registry/c/all-temp-wauconda/
+1. All Temp | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | All Temp is a HVAC contractor in Wauconda, IL at 124 East Liberty Street, Wauconda, IL 60084. Phone: +18475269082. Website: https://alltemp.net/. | https://dingalinged-cpu.github.io/registry/c/all-temp-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair wauconda il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

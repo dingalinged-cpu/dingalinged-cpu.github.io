@@ -13,7 +13,7 @@ N-Step Dance Academy is a dance studio in Forsyth County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 81% of dance studios in Atlanta, #1 of 1 dance studios in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 39.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 81% of dance studios in Atlanta, #1 of 1 dance studios in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 39.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

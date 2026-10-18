@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in DeKalb County, GA. Website: https://www.ed
 - Website: https://www.ediblearrangements.com/stores/2101-n-decatur-rd-decatur-ga-30033
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 80% of gift shops in Atlanta, #1 of 2 gift shops in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 80% of gift shops in Atlanta, #1 of 2 gift shops in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Complexxions Skin Lab | Organic #2 | Pulse Score 60.3/100 (Unrated, #1 in city) | Complexxions Skin Lab is a spa in Houston, TX at 2855 Mangum Road, Houston, TX 77092. Website: https://www.complexxionsskinlab.com/. | https://dingalinged-cpu.github.io/registry/c/complexxions-skin-lab-houston/
 3. Conservatory Day Spa & Salon | Organic #3 | Pulse Score 57.3/100 (Unrated, #2 in city) | Conservatory Day Spa & Salon is a spa in Houston, TX at 2665 Royal Forest Drive, Houston, TX 77339. Phone: +12813593300. Website: https://conservatorydayspa.com/. | https://dingalinged-cpu.github.io/registry/c/conservatory-day-spa-and-salon-houston/
 4. Perfect 10 Spa | Organic #4 | Pulse Score 56.1/100 (Unrated, #3 in city) | Perfect 10 Spa is a spa in Houston, TX at 5161 San Felipe Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/perfect-10-spa-houston/
-5. Phenix Salon Suites | Organic #5 | Pulse Score 52.2/100 (Fair, #98 in city) | Phenix Salon Suites is a nail salon in Houston, TX. Phone: +17133489732. Website: https://phenixsalonsuites.com/locations-detail/?id=331. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-houston/
+5. Phenix Salon Suites | Organic #5 | Pulse Score 52.2/100 (Fair, #97 in city) | Phenix Salon Suites is a nail salon in Houston, TX. Phone: +17133489732. Website: https://phenixsalonsuites.com/locations-detail/?id=331. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa houston tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,0 +1,24 @@
+Reactor Design is a marketing agency in Kansas City, MO at 1817 Grand Boulevard, Kansas City, MO 64108. Website: https://www.reactor.design/.
+
+# Reactor Design
+
+- Category: marketing agency
+- Services: marketing agency
+- Address: 1817 Grand Boulevard, Kansas City, MO 64108
+- City: Kansas City
+- State: MO
+- ZIP: 64108
+- Coordinates: 39.0910901, -94.5810941
+- Phone: n/a
+- Website: https://www.reactor.design/
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 63% of marketing agencys in Kansas City, MO, #6 of 10 marketing agencys in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 47. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/reactor-design-kansas-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/reactor-design-kansas-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/13908662337 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

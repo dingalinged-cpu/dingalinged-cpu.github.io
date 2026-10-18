@@ -13,7 +13,7 @@ Huggins Honda is an used car dealer in North Richland Hills, TX at 7551 Northeas
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-21:00; Sa 08:30-20:00; Su off
-- Pulse Score: 48.9/100 — Building — top 78% of used car dealers in Dallas–Fort Worth, #1 of 1 used car dealers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 78% of used car dealers in Dallas–Fort Worth, #1 of 1 used car dealers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

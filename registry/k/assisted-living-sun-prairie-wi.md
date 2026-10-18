@@ -6,8 +6,8 @@ Also answers: assisted living in Sun Prairie, WI; assisted living near me (Sun P
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Perspective | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | New Perspective is an assisted living facility in Sun Prairie, WI at 222 South Bristol Street, Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/new-perspective-sun-prairie/
-2. Sun Prairie Senior Living | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Sun Prairie Senior Living is an assisted living facility in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/sun-prairie-senior-living-sun-prairie/
+1. New Perspective | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | New Perspective is an assisted living facility in Sun Prairie, WI at 222 South Bristol Street, Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/new-perspective-sun-prairie/
+2. Sun Prairie Senior Living | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Sun Prairie Senior Living is an assisted living facility in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/sun-prairie-senior-living-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living sun prairie wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

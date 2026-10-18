@@ -13,7 +13,7 @@ East Dental Family Dentistry is a dentist in Saint Paul, MN at 1346 Payne Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 40% of dentists in Minneapolis–St. Paul, #14 of 29 dentists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 40% of dentists in Minneapolis–St. Paul, #14 of 29 dentists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

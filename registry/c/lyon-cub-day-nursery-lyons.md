@@ -13,7 +13,7 @@ Lyon Cub Day Nursery is a daycare in Lyons, IL at 4262 Joliet Avenue, Lyons, IL 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 31% of daycares in Chicago, #1 of 1 daycares in Lyons (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 31% of daycares in Chicago, #1 of 1 daycares in Lyons (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

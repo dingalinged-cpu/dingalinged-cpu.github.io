@@ -6,8 +6,8 @@ Also answers: assisted living in Town Of West Bend, WI; assisted living near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cedar Community-Cedar Lake Campus | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Cedar Community-Cedar Lake Campus is an assisted living facility in West Bend, WI at 5595 County Road Z, West Bend, WI 53095. | https://dingalinged-cpu.github.io/registry/c/cedar-community-cedar-lake-campus-west-bend/
-2. Cedar Community-Cedar Run Campus | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Cedar Community-Cedar Run Campus is an assisted living facility in West Bend, WI at 6090 Scenic Drive, West Bend, WI 53095. | https://dingalinged-cpu.github.io/registry/c/cedar-community-cedar-run-campus-west-bend/
+1. Cedar Community-Cedar Lake Campus | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Cedar Community-Cedar Lake Campus is an assisted living facility in West Bend, WI at 5595 County Road Z, West Bend, WI 53095. | https://dingalinged-cpu.github.io/registry/c/cedar-community-cedar-lake-campus-west-bend/
+2. Cedar Community-Cedar Run Campus | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Cedar Community-Cedar Run Campus is an assisted living facility in West Bend, WI at 6090 Scenic Drive, West Bend, WI 53095. | https://dingalinged-cpu.github.io/registry/c/cedar-community-cedar-run-campus-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living town of west bend wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

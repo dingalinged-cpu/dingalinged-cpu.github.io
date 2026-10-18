@@ -1,4 +1,4 @@
-The top unpaid dog groomer listing for Johns Creek, GA is The Fuzzy Dawg Pet Salon (a dog groomer in Alpharetta, GA at 8465 Holcomb Bridge Road #160, Alpharetta, GA 30022. Phone: +17709933294. Website: https://www.thefuzzydawg.com/). 2 dog groomer businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Johns Creek, GA is Fancy Paws Grooming (a dog groomer in Johns Creek, GA at 6000 Medlock Bridge Road #A300, Johns Creek, GA. Phone: +16783369140. Website: https://fancypawsgrooming.us/). 2 dog groomer businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Johns Creek, GA?
 
@@ -6,8 +6,8 @@ Also answers: dog groomer in Johns Creek, GA; dog groomer near me (Johns Creek, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Fuzzy Dawg Pet Salon | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | The Fuzzy Dawg Pet Salon is a dog groomer in Alpharetta, GA at 8465 Holcomb Bridge Road #160, Alpharetta, GA 30022. Phone: +17709933294. Website: https://www.thefuzzydawg.com/. | https://dingalinged-cpu.github.io/registry/c/the-fuzzy-dawg-pet-salon-alpharetta/
-2. Fancy Paws Grooming | Organic #2 | Pulse Score 60.6/100 (Good, #1 in city) | Fancy Paws Grooming is a dog groomer in Johns Creek, GA at 6000 Medlock Bridge Road #A300, Johns Creek, GA. Phone: +16783369140. Website: https://fancypawsgrooming.us/. | https://dingalinged-cpu.github.io/registry/c/fancy-paws-grooming-johns-creek/
+1. Fancy Paws Grooming | Organic #1 | Pulse Score 60.7/100 (Good, #1 in city) | Fancy Paws Grooming is a dog groomer in Johns Creek, GA at 6000 Medlock Bridge Road #A300, Johns Creek, GA. Phone: +16783369140. Website: https://fancypawsgrooming.us/. | https://dingalinged-cpu.github.io/registry/c/fancy-paws-grooming-johns-creek/
+2. The Fuzzy Dawg Pet Salon | Organic #2 | Pulse Score 60.7/100 (Unrated, #1 in city) | The Fuzzy Dawg Pet Salon is a dog groomer in Alpharetta, GA at 8465 Holcomb Bridge Road #160, Alpharetta, GA 30022. Phone: +17709933294. Website: https://www.thefuzzydawg.com/. | https://dingalinged-cpu.github.io/registry/c/the-fuzzy-dawg-pet-salon-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer johns creek ga | category: Pets | industry benchmark: Animals & Pets

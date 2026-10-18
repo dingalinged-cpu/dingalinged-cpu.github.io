@@ -13,7 +13,7 @@ Delta Printing Corp is a printing service in Milwaukee, WI at 3247 West Vliet St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 30% of printing services in Milwaukee, #8 of 16 printing services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 47.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 30% of printing services in Milwaukee, #8 of 16 printing services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

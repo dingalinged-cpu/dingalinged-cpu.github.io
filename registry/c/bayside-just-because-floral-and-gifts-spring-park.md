@@ -13,7 +13,7 @@ Bayside Just Because...Floral and Gifts is a florist in Spring Park, MN at 4310 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 52% of florists in Minneapolis–St. Paul, #1 of 1 florists in Spring Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 52% of florists in Minneapolis–St. Paul, #1 of 1 florists in Spring Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 50.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Watermere at the Preserve Apartments is an assisted living facility in North Ric
 - Website: https://www.integratedseniorlifestyles.com/senior-living/tx/north-richland-hills/davis-blvd/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 69% of assisted living facilitys in Dallas–Fort Worth, #2 of 2 assisted living facilitys in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 42.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 69% of assisted living facilitys in Dallas–Fort Worth, #2 of 2 assisted living facilitys in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Lake Forest, IL at 722 North Bank Lane, Lake
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Building — top 69% of pilates studios in Chicago, #1 of 1 pilates studios in Lake Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 46.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 69% of pilates studios in Chicago, #1 of 1 pilates studios in Lake Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.2, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 41.7/100 — Building — top 96% of tanning salons in Dallas–Fort Worth, #2 of 2 tanning salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 38.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.7/100 — Building — top 96% of tanning salons in Dallas–Fort Worth, #2 of 2 tanning salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 38.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

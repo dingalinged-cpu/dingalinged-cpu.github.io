@@ -1,0 +1,24 @@
+Little Angels Preschool is a daycare in Kansas City, KS.
+
+# Little Angels Preschool
+
+- Category: daycare
+- Services: daycare
+- Address: Kansas City, KS
+- City: Kansas City
+- State: KS
+- ZIP: n/a
+- Coordinates: 39.0504138, -94.6175823
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 62% of daycares in Kansas City, MO, #9 of 14 daycares in Kansas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/little-angels-preschool-kansas-city/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/little-angels-preschool-kansas-city.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/11469928745 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

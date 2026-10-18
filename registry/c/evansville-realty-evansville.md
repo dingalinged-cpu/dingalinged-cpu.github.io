@@ -13,7 +13,7 @@ Evansville Realty is a real estate agency in Evansville, WI. Phone: +16088826200
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Fair — top 31% of real estate agencys in Madison, #2 of 4 real estate agencys in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Fair — top 34% of real estate agencys in Madison, #2 of 4 real estate agencys in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

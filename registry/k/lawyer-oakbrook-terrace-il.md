@@ -6,7 +6,7 @@ Also answers: lawyer in Oakbrook Terrace, IL; lawyer near me (Oakbrook Terrace, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sever Storey, LLP | Organic #1 | Pulse Score 59.8/100 (Unrated, #3 in city) | Sever Storey, LLP is a lawyer in Oak Brook, IL at 18W140 Butterfield Road #1500, Oak Brook, IL 60181. Phone: +13126460840. Website: https://landownerattorneys.com/. | https://dingalinged-cpu.github.io/registry/c/sever-storey-llp-oak-brook/
+1. Sever Storey, LLP | Organic #1 | Pulse Score 59.9/100 (Unrated, #2 in city) | Sever Storey, LLP is a lawyer in Oak Brook, IL at 18W140 Butterfield Road #1500, Oak Brook, IL 60181. Phone: +13126460840. Website: https://landownerattorneys.com/. | https://dingalinged-cpu.github.io/registry/c/sever-storey-llp-oak-brook/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer oakbrook terrace il | category: Legal | industry benchmark: Attorneys & Legal Services

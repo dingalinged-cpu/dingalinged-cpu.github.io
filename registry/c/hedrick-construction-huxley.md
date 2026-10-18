@@ -13,7 +13,7 @@ Hedrick Construction is a roofer in Huxley, IA at 104 Campus Drive #201, Huxley,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 75% of roofers in Des Moines, IA, #1 of 1 roofers in Huxley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 40.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 50% of roofers in Des Moines, IA, #1 of 1 roofers in Huxley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 40.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

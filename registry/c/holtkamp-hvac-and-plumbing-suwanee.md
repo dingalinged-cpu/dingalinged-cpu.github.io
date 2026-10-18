@@ -13,7 +13,7 @@ Holtkamp HVAC & Plumbing is a HVAC contractor in Suwanee, GA at 60 Old Peachtree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 88% of HVAC contractors in Atlanta, #1 of 1 HVAC contractors in Suwanee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 41.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 88% of HVAC contractors in Atlanta, #1 of 1 HVAC contractors in Suwanee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 41.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Dayton Wine And Spirits is a liquor store in Dayton, MN at 18640 Robinson Street
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 48% of liquor stores in Minneapolis–St. Paul, #1 of 1 liquor stores in Dayton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 48% of liquor stores in Minneapolis–St. Paul, #1 of 1 liquor stores in Dayton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 49. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Spring, TX at 5921 FM 2920 #D, Spring,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Building — top 75% of tax preparation services in Houston, #3 of 3 tax preparation services in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 75% of tax preparation services in Houston, #3 of 3 tax preparation services in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Success On The Spectrum is a therapy practice in Peachtree Corners, GA at 4046 W
 - Website: https://successonthespectrum.com/location/Peachtree-Corners/
 - Email: PeachtreeCorners@SuccessOnTheSpectrum.com
 - Opening hours (OSM syntax): Mon to Friday : 8am to 4pm
-- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 50% of therapy practices in Atlanta, #1 of 1 therapy practices in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 50% of therapy practices in Atlanta, #1 of 1 therapy practices in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

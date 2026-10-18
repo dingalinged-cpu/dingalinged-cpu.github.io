@@ -6,8 +6,8 @@ Also answers: flooring companies in Omaha, NE; flooring companies near me (Omaha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rains Hardwood Floors | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Rains Hardwood Floors is a flooring company in Omaha, NE at 6638 B Street, Omaha, NE 68106. Phone: +14023442340. Website: https://rainswoodfloors.com/. | https://dingalinged-cpu.github.io/registry/c/rains-hardwood-floors-omaha/
-2. Floor & Decor | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | Floor & Decor is a flooring company in Omaha, NE at 350 Rose Blumkin Drive, Omaha, NE 68114. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-omaha/
+1. Rains Hardwood Floors | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Rains Hardwood Floors is a flooring company in Omaha, NE at 6638 B Street, Omaha, NE 68106. Phone: +14023442340. Website: https://rainswoodfloors.com/. | https://dingalinged-cpu.github.io/registry/c/rains-hardwood-floors-omaha/
+2. Floor & Decor | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | Floor & Decor is a flooring company in Omaha, NE at 350 Rose Blumkin Drive, Omaha, NE 68114. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies omaha ne | category: Home services - Flooring | industry benchmark: Home & Home Improvement

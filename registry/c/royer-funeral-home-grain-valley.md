@@ -1,0 +1,24 @@
+Royer Funeral Home is a funeral home in Grain Valley, MO.
+
+# Royer Funeral Home
+
+- Category: funeral home
+- Services: funeral home
+- Address: Grain Valley, MO
+- City: Grain Valley
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.010667, -94.2160097
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Kansas City, MO, #1 of 1 funeral homes in Grain Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 41.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/royer-funeral-home-grain-valley/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/royer-funeral-home-grain-valley.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/499411475 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

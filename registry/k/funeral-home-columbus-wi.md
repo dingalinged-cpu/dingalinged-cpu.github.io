@@ -6,7 +6,7 @@ Also answers: funeral home in Columbus, WI; funeral home near me (Columbus, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jensen funeral & cremation | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Jensen funeral & cremation is a funeral home in Columbus, WI. | https://dingalinged-cpu.github.io/registry/c/jensen-funeral-and-cremation-columbus/
+1. Jensen funeral & cremation | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Jensen funeral & cremation is a funeral home in Columbus, WI. | https://dingalinged-cpu.github.io/registry/c/jensen-funeral-and-cremation-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home columbus wi | category: Professional & financial services | industry benchmark: Finance & Insurance

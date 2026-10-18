@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Marietta, GA at 3000 Windy Hill Road #156, Mari
 - Website: https://www.orangetheory.com/en-us/locations/georgia/marietta/3000-windy-hill-road-suite-156/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa-Su 10:00-15:00
-- Pulse Score: 50.9/100 — Fair — top 52% of gyms in Atlanta, #15 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 64.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 50% of gyms in Atlanta, #14 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 64.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

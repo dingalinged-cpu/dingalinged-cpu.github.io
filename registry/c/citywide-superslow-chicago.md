@@ -13,7 +13,7 @@ CityWide SuperSlow is a gym in Chicago, IL at 1901 North Clybourn Avenue #201, C
 - Website: https://citywidesuperslow.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 9% of gyms in Chicago, #20 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 9% of gyms in Chicago, #20 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

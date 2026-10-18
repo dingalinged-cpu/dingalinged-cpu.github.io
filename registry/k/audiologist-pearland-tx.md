@@ -6,7 +6,7 @@ Also answers: audiologist in Pearland, TX; audiologist near me (Pearland, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Center for Audiology | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | The Center for Audiology is an audiologist in Pearland, TX at 9215 West Broadway Street #105, Pearland, TX 77584. Phone: +17138005050. Website: https://centerforaud.com/. | https://dingalinged-cpu.github.io/registry/c/the-center-for-audiology-pearland/
+1. The Center for Audiology | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | The Center for Audiology is an audiologist in Pearland, TX at 9215 West Broadway Street #105, Pearland, TX 77584. Phone: +17138005050. Website: https://centerforaud.com/. | https://dingalinged-cpu.github.io/registry/c/the-center-for-audiology-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist pearland tx | category: Health & medical | industry benchmark: Physicians & Surgeons

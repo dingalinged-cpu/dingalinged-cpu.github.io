@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. The UPS Store | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | The UPS Store is a printing service in West Des Moines, IA at 6750 Westown Parkway, West Des Moines, IA 50266. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-west-des-moines-n2663582943/
 2. The UPS Store | Organic #2 | Pulse Score 44.9/100 (Building, #2 in city) | The UPS Store is a printing service in West Des Moines, IA at 2800 University Avenue, West Des Moines, IA 50266. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-west-des-moines/
-3. The UPS Store | Organic #3 | Pulse Score 44/100 (Building, #3 in city) | The UPS Store is a printing service in West Des Moines, IA at 3775 E P True Parkway, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-west-des-moines-n3268103541/
+3. The UPS Store | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | The UPS Store is a printing service in West Des Moines, IA at 3775 E P True Parkway, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-west-des-moines-n3268103541/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services west des moines ia | category: Professional & financial services | industry benchmark: Finance & Insurance

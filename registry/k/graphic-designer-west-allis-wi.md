@@ -6,8 +6,8 @@ Also answers: graphic designer in West Allis, WI; graphic designer near me (West
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MKE Graphics | Organic #1 | Pulse Score 60.8/100 (Good, #1 in city) | MKE Graphics is a graphic designer in West Allis, WI at 7629 West Beloit Road, West Allis, WI 53219. Phone: +14149352882. Website: https://mke-graphics.com/contact-us. | https://dingalinged-cpu.github.io/registry/c/mke-graphics-west-allis/
-2. Magenta Printing | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Magenta Printing is a graphic designer in West Allis, WI at 9234 West Oklahoma Avenue, West Allis, WI 53227. | https://dingalinged-cpu.github.io/registry/c/magenta-printing-west-allis/
+1. MKE Graphics | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | MKE Graphics is a graphic designer in West Allis, WI at 7629 West Beloit Road, West Allis, WI 53219. Phone: +14149352882. Website: https://mke-graphics.com/contact-us. | https://dingalinged-cpu.github.io/registry/c/mke-graphics-west-allis/
+2. Magenta Printing | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Magenta Printing is a graphic designer in West Allis, WI at 9234 West Oklahoma Avenue, West Allis, WI 53227. | https://dingalinged-cpu.github.io/registry/c/magenta-printing-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer west allis wi | category: professional_marketing | industry benchmark: Business Services

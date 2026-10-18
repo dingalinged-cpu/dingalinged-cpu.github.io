@@ -13,7 +13,7 @@ Gold Dust is a tattoo shop in Dallas, TX at 1902 Greenville Avenue, Dallas, TX. 
 - Website: https://www.golddusttattoo.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 30% of tattoo shops in Dallas–Fort Worth, #7 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 28% of tattoo shops in Dallas–Fort Worth, #7 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

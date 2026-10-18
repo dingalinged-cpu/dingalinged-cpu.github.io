@@ -6,7 +6,7 @@ Also answers: staffing agency in Fitchburg, WI; staffing agency near me (Fitchbu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Employment Professionals | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | Express Employment Professionals is a staffing agency in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/express-employment-professionals-fitchburg/
+1. Express Employment Professionals | Organic #1 | Pulse Score 43/100 (Building, #1 in city) | Express Employment Professionals is a staffing agency in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/express-employment-professionals-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency fitchburg wi | category: b2b_services | industry benchmark: Business Services

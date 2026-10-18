@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Minnesota Kali Group | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Minnesota Kali Group is a martial arts school in Minneapolis, MN at 4532 Chicago Avenue, Minneapolis, MN. Phone: +16128216800. Website: https://www.mnkali.com/. | https://dingalinged-cpu.github.io/registry/c/minnesota-kali-group-minneapolis/
 3. World Martial Arts Center | Organic #3 | Pulse Score 60.6/100 (Unrated, #3 in city) | World Martial Arts Center is a martial arts school in Minneapolis, MN at 2913 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16128238233. Website: https://www.wmacenter.com/. | https://dingalinged-cpu.github.io/registry/c/world-martial-arts-center-minneapolis/
 4. Movement Arts Center | Organic #4 | Pulse Score 58.7/100 (Unrated, #4 in city) | Movement Arts Center is a martial arts school in Minneapolis, MN at 2209 East Franklin Avenue, Minneapolis, MN 55404. | https://dingalinged-cpu.github.io/registry/c/movement-arts-center-minneapolis/
-5. National Karate | Organic #5 | Pulse Score 43.6/100 (Unrated, #5 in city) | National Karate is a martial arts school in Minneapolis, MN at 4608 Nicollet Avenue, Minneapolis, MN 55419. | https://dingalinged-cpu.github.io/registry/c/national-karate-minneapolis/
+5. National Karate | Organic #5 | Pulse Score 43.5/100 (Unrated, #5 in city) | National Karate is a martial arts school in Minneapolis, MN at 4608 Nicollet Avenue, Minneapolis, MN 55419. | https://dingalinged-cpu.github.io/registry/c/national-karate-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts minneapolis mn | category: Fitness | industry benchmark: Health & Fitness

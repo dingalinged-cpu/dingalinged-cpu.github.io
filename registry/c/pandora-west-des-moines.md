@@ -13,7 +13,7 @@ Pandora is a jewelry store in West Des Moines, IA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.7/100 — Building — top 94% of jewelry stores in Des Moines, IA, #13 of 14 jewelry stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 41. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.7/100 — Building — top 94% of jewelry stores in Des Moines, IA, #13 of 14 jewelry stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 41. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

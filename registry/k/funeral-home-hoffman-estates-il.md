@@ -6,7 +6,7 @@ Also answers: funeral home in Hoffman Estates, IL; funeral home near me (Hoffman
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Morizzo Funeral Home | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Morizzo Funeral Home is a funeral home in Hoffman Estates, IL at 2550 Hassell Road, Hoffman Estates, IL 60169. | https://dingalinged-cpu.github.io/registry/c/morizzo-funeral-home-hoffman-estates/
+1. Morizzo Funeral Home | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Morizzo Funeral Home is a funeral home in Hoffman Estates, IL at 2550 Hassell Road, Hoffman Estates, IL 60169. | https://dingalinged-cpu.github.io/registry/c/morizzo-funeral-home-hoffman-estates/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home hoffman estates il | category: Professional & financial services | industry benchmark: Finance & Insurance

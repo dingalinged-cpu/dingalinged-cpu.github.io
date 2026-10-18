@@ -13,7 +13,7 @@ Winmo is a marketing agency in Atlanta, GA at 3098 Piedmont Road Northeast #200,
 - Website: https://www.winmo.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 65% of marketing agencys in Atlanta, #8 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 51.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 65% of marketing agencys in Atlanta, #8 of 10 marketing agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

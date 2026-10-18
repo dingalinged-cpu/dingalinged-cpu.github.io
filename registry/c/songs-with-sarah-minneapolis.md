@@ -13,7 +13,7 @@ Songs with Sarah is a music school in Minneapolis, MN at 404 East 48th Street, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 75% of music schools in Minneapolis–St. Paul, #5 of 5 music schools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 42. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 75% of music schools in Minneapolis–St. Paul, #5 of 5 music schools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 42. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

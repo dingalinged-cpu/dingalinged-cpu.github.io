@@ -13,7 +13,7 @@ Shinin' Brightly Electric LLC is an electrician in White Bear Lake, MN at 2130 1
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 56% of electricians in Minneapolis–St. Paul, #1 of 2 electricians in White Bear Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 56% of electricians in Minneapolis–St. Paul, #1 of 2 electricians in White Bear Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 50.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

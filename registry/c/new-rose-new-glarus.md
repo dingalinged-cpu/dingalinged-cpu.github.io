@@ -13,7 +13,7 @@ New Rose is a gift shop in New Glarus, WI at 523 1st Street, New Glarus, WI 5357
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 37% of gift shops in Madison, #5 of 9 gift shops in New Glarus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 37% of gift shops in Madison, #5 of 9 gift shops in New Glarus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

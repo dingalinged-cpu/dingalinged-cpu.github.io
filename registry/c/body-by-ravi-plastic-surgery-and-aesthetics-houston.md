@@ -13,7 +13,7 @@ Body By Ravi Plastic Surgery & Aesthetics is a plastic surgeon in Houston, TX at
 - Website: https://www.bodybyravi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 30% of plastic surgeons in Houston, #3 of 13 plastic surgeons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 30% of plastic surgeons in Houston, #3 of 13 plastic surgeons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

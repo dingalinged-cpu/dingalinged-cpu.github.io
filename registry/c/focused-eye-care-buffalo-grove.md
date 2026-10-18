@@ -13,7 +13,7 @@ Focused Eye Care is an eye care practice in Buffalo Grove, IL. Phone: +184724381
 - Website: https://focusedeyecarebg.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 37% of eye care practices in Chicago, #1 of 1 eye care practices in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 37% of eye care practices in Chicago, #1 of 1 eye care practices in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pierschbacher Funeral Homes is a funeral home in Milo, IA at 201 Walnut Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 25% of funeral homes in Des Moines, IA, #1 of 1 funeral homes in Milo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 25% of funeral homes in Des Moines, IA, #1 of 1 funeral homes in Milo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

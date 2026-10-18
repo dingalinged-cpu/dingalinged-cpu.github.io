@@ -6,7 +6,7 @@ Also answers: therapist in Urbandale, IA; therapist near me (Urbandale, IA); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WW Studio | Organic #1 | Pulse Score 43.5/100 (Building, #1 in city) | WW Studio is a therapy practice in Urbandale, IA at 2809 100th Street, Urbandale, IA 50322. | https://dingalinged-cpu.github.io/registry/c/ww-studio-urbandale/
+1. WW Studio | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | WW Studio is a therapy practice in Urbandale, IA at 2809 100th Street, Urbandale, IA 50322. | https://dingalinged-cpu.github.io/registry/c/ww-studio-urbandale/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist urbandale ia | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

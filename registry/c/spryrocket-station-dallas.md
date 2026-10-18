@@ -13,7 +13,7 @@ Spryrocket Station is a coworking space in Dallas, TX at 3723 Greenville Avenue,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 43% of coworking spaces in Dallas–Fort Worth, #7 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 40.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 43% of coworking spaces in Dallas–Fort Worth, #7 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 40.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

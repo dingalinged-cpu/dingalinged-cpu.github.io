@@ -13,7 +13,7 @@ Lone Star Cremation is a funeral home in Mansfield, TX at 1804 Owen Court, Mansf
 - Website: https://www.lonestarcremation.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 13% of funeral homes in Dallas–Fort Worth, #1 of 1 funeral homes in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 13% of funeral homes in Dallas–Fort Worth, #1 of 1 funeral homes in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

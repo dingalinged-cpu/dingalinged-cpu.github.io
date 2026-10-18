@@ -13,7 +13,7 @@ United Insurance Agencies & Affordable Auto Insurance is an insurance agent in O
 - Website: https://uiagencies.com/
 - Email: contact.us4ins@uiagencies.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 4% of insurance agents in Omaha, NE, #1 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 4% of insurance agents in Omaha, NE, #1 of 21 insurance agents in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

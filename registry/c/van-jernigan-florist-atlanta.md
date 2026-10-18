@@ -13,7 +13,7 @@ Van Jernigan Florist is a florist in Atlanta, GA at 1529 Piedmont Road Northeast
 - Website: https://www.vjflorist.com/
 - Email: vannjerniganflorist@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa 10:00-14:00; Su off
-- Pulse Score: 63/100 — Good — top 18% of florists in Atlanta, #2 of 8 florists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 15% of florists in Atlanta, #1 of 8 florists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

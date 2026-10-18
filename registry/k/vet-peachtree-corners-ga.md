@@ -7,7 +7,7 @@ Also answers: vet in Peachtree Corners, GA; vet near me (Peachtree Corners, GA);
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Medlock Bridge Veterinary Hospital | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Medlock Bridge Veterinary Hospital is a veterinarian in Peachtree Corners, GA at 5155 South Old Peachtree Road, Peachtree Corners, GA 30092. | https://dingalinged-cpu.github.io/registry/c/medlock-bridge-veterinary-hospital-peachtree-corners/
-2. Peachtree Corners Animal Clinic | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Peachtree Corners Animal Clinic is a veterinarian in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-corners-animal-clinic-peachtree-corners/
+2. Peachtree Corners Animal Clinic | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Peachtree Corners Animal Clinic is a veterinarian in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-corners-animal-clinic-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet peachtree corners ga | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ Yecks Tire and Auto is an auto repair shop in Bellevue, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 66% of auto repair shops in Omaha, NE, #8 of 11 auto repair shops in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 64% of auto repair shops in Omaha, NE, #8 of 11 auto repair shops in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 40.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

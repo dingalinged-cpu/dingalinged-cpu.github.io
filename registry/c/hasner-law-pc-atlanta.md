@@ -13,7 +13,7 @@ Hasner Law PC is a lawyer in Atlanta, GA at 2839 Paces Ferry Road SE #1050, Atla
 - Website: https://www.hasnerlaw.com/atlanta-personal-injury-lawyer
 - Email: contact@hasnerlaw.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 10% of lawyers in Atlanta, #5 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 10% of lawyers in Atlanta, #5 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

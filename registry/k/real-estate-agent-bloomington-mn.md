@@ -7,7 +7,7 @@ Also answers: real estate agent in Bloomington, MN; real estate agent near me (B
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Whetstone Land | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Whetstone Land is a real estate agency in Minneapolis, MN at 5123 West 98th Street, Minneapolis, MN 55437. Phone: +17043255263. Website: https://whetstoneland.com/. | https://dingalinged-cpu.github.io/registry/c/whetstone-land-minneapolis/
-2. BuySelf Realty, Inc. | Organic #2 | Pulse Score 57.8/100 (Unrated, #1 in city) | BuySelf Realty, Inc. is a real estate agency in Bloomington, MN at 8053 East Bloomington Freeway #Suite 275, Bloomington, MN 55420. Website: https://buyselfrealty.com/. | https://dingalinged-cpu.github.io/registry/c/buyself-realty-inc-bloomington/
+2. BuySelf Realty, Inc. | Organic #2 | Pulse Score 57.9/100 (Unrated, #1 in city) | BuySelf Realty, Inc. is a real estate agency in Bloomington, MN at 8053 East Bloomington Freeway #Suite 275, Bloomington, MN 55420. Website: https://buyselfrealty.com/. | https://dingalinged-cpu.github.io/registry/c/buyself-realty-inc-bloomington/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent bloomington mn | category: Professional & financial services | industry benchmark: Finance & Insurance

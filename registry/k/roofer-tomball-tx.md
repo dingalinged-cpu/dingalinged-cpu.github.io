@@ -7,7 +7,7 @@ Also answers: roofer in Tomball, TX; roofer near me (Tomball, TX); best roofer T
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Roof Top Innovations | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Roof Top Innovations is a roofer in Tomball, TX at 311 North Sycamore Street, Tomball, TX 77375. Phone: +12813517663. Website: https://rooftopinnovations.com/. | https://dingalinged-cpu.github.io/registry/c/roof-top-innovations-tomball/
-2. BlackHorse Roofing & Construction LLC | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | BlackHorse Roofing & Construction LLC is a roofer in Tomball, TX at 24445 Tomball Parkway #100, Tomball, TX 77375. Phone: +18328007404. Website: https://blackhorseroofingandconstruction.com/. | https://dingalinged-cpu.github.io/registry/c/blackhorse-roofing-and-construction-llc-tomball/
+2. BlackHorse Roofing & Construction LLC | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | BlackHorse Roofing & Construction LLC is a roofer in Tomball, TX at 24445 Tomball Parkway #100, Tomball, TX 77375. Phone: +18328007404. Website: https://blackhorseroofingandconstruction.com/. | https://dingalinged-cpu.github.io/registry/c/blackhorse-roofing-and-construction-llc-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer tomball tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

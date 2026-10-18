@@ -13,7 +13,7 @@ Eagleknit is a coworking space in Milwaukee, WI at 507 South 2nd Street, Milwauk
 - Website: https://www.eagleknitmke.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 47% of coworking spaces in Milwaukee, #6 of 13 coworking spaces in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 47% of coworking spaces in Milwaukee, #6 of 13 coworking spaces in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 46.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

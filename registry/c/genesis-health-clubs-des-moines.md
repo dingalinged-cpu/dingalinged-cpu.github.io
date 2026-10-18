@@ -13,7 +13,7 @@ Genesis Health Clubs is a gym in Des Moines, IA at 10930 Hickman Road, Des Moine
 - Website: https://www.genesishealthclubs.com/locations/hickman-road.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-22:30; Fr 05:00-21:00; Sa-Su 07:15-20:00
-- Pulse Score: 52.4/100 — Fair — top 44% of gyms in Des Moines, IA, #10 of 18 gyms in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 46.8, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 46% of gyms in Des Moines, IA, #11 of 18 gyms in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

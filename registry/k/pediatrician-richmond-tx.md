@@ -6,8 +6,8 @@ Also answers: pediatrician in Richmond, TX; pediatrician near me (Richmond, TX);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Family Pediatric Group | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Texas Family Pediatric Group is a pediatrician in Richmond, TX at 18440 West Airport Boulevard #350, Richmond, TX 77407. Phone: +12812408374. Website: https://www.texaspeds.com/. | https://dingalinged-cpu.github.io/registry/c/texas-family-pediatric-group-richmond/
-2. Pediatricz Now | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Pediatricz Now is a pediatrician in Richmond, TX at 10321 West Grand Parkway South #130, Richmond, TX 77407. Phone: +18328109025. | https://dingalinged-cpu.github.io/registry/c/pediatricz-now-richmond/
+1. Texas Family Pediatric Group | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Texas Family Pediatric Group is a pediatrician in Richmond, TX at 18440 West Airport Boulevard #350, Richmond, TX 77407. Phone: +12812408374. Website: https://www.texaspeds.com/. | https://dingalinged-cpu.github.io/registry/c/texas-family-pediatric-group-richmond/
+2. Pediatricz Now | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Pediatricz Now is a pediatrician in Richmond, TX at 10321 West Grand Parkway South #130, Richmond, TX 77407. Phone: +18328109025. | https://dingalinged-cpu.github.io/registry/c/pediatricz-now-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician richmond tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Travel Brands Group is a marketing agency in Chicago, IL at 332 South Michigan A
 - Website: https://travelbrandsgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 52.8/100 — Fair — top 100% of marketing agencys in Chicago, #8 of 8 marketing agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 34.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.8/100 — Fair — top 100% of marketing agencys in Chicago, #8 of 8 marketing agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 35.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Buttered Tin is a bakery in Saint Paul, MN at 237 7th Street East, Saint Pau
 - Website: https://www.thebutteredtin.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-15:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 35% of bakerys in Minneapolis–St. Paul, #7 of 19 bakerys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 35% of bakerys in Minneapolis–St. Paul, #7 of 19 bakerys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

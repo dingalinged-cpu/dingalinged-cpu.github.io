@@ -13,7 +13,7 @@ Freewheel Bike is a bike shop in Eagan, MN at 1275 Promenade Place, Eagan, MN 55
 - Website: https://www.freewheelbike.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00
-- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 93% of bike shops in Minneapolis–St. Paul, #1 of 2 bike shops in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 50.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 93% of bike shops in Minneapolis–St. Paul, #1 of 2 bike shops in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 50.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

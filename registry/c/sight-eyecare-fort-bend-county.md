@@ -13,7 +13,7 @@ SIGHT Eyecare is an eye care practice in Fort Bend County, TX at 11020 Harlem Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Good — top 25% of eye care practices in Houston, #1 of 2 eye care practices in Fort Bend County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 25% of eye care practices in Houston, #1 of 2 eye care practices in Fort Bend County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Iowa Realty is a real estate agency in Des Moines, IA at 3521 Beaver Avenue, Des
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 72% of real estate agencys in Des Moines, IA, #4 of 4 real estate agencys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 72% of real estate agencys in Des Moines, IA, #4 of 4 real estate agencys in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

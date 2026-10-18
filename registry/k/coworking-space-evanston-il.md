@@ -6,8 +6,8 @@ Also answers: coworking space in Evanston, IL; coworking space near me (Evanston
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 818 Coworking | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | 818 Coworking is a coworking space in Evanston, IL at 818 Lake Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/818-coworking-evanston/
-2. The Garage | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | The Garage is a coworking space in Evanston, IL at 2311 Campus Drive, Evanston, IL 60208. Website: https://thegarage.northwestern.edu/. | https://dingalinged-cpu.github.io/registry/c/the-garage-evanston/
+1. 818 Coworking | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | 818 Coworking is a coworking space in Evanston, IL at 818 Lake Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/818-coworking-evanston/
+2. The Garage | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | The Garage is a coworking space in Evanston, IL at 2311 Campus Drive, Evanston, IL 60208. Website: https://thegarage.northwestern.edu/. | https://dingalinged-cpu.github.io/registry/c/the-garage-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space evanston il | category: real_estate | industry benchmark: Real Estate

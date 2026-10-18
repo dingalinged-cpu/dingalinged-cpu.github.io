@@ -6,7 +6,7 @@ Also answers: facial in Eden Prairie, MN; facial near me (Eden Prairie, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | Organic #1 | Pulse Score 46.4/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Eden Prairie, MN at 12591 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +16516155595. Website: https://www.ulta.com/stores/eden-prairie-mn-1648. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-eden-prairie/
+1. Ulta Beauty | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Eden Prairie, MN at 12591 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +16516155595. Website: https://www.ulta.com/stores/eden-prairie-mn-1648. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial eden prairie mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

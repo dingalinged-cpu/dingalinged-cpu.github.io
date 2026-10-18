@@ -9,7 +9,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Twinkle Star Dance Academy | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Twinkle Star Dance Academy is a dance studio in Plano, TX at 3400 Preston Road #225, Plano, TX 75093. Phone: +14698401445. Website: https://twinklestardancers.com/plano. | https://dingalinged-cpu.github.io/registry/c/twinkle-star-dance-academy-plano/
 2. Gotta Dance | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Gotta Dance is a dance studio in Plano, TX at 3131 Custer Road, Plano, TX 75075. Website: https://gottadanceplano.com/. | https://dingalinged-cpu.github.io/registry/c/gotta-dance-plano/
 3. KJ Dance | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | KJ Dance is a dance studio in Plano, TX at 4017 Preston Road #546, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/kj-dance-plano/
-4. Nritya Dance | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Nritya Dance is a dance studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/nritya-dance-plano/
+4. Nritya Dance | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Nritya Dance is a dance studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/nritya-dance-plano/
 5. Dance Vision | Organic #5 | Pulse Score 47.7/100 (Unrated, #5 in city) | Dance Vision is a dance studio in Plano, TX at 5813 Preston Road #560, Plano, TX 75093. Website: https://www.dancevisionplano.com/. | https://dingalinged-cpu.github.io/registry/c/dance-vision-plano/
 
 ## Market data (for advertisers and agents)

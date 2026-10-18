@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Decatur Package Store | Organic #1 | Pulse Score 60.1/100 (Good, #1 in city) | Decatur Package Store is a liquor store in DeKalb County, GA at 1220 Clairmont Road, DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/decatur-package-store-dekalb-county/
 2. ABC Package Store | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | ABC Package Store is a liquor store in DeKalb County, GA. Phone: +16785158661. | https://dingalinged-cpu.github.io/registry/c/abc-package-store-dekalb-county/
-3. Dekalb Bottle House | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Dekalb Bottle House is a liquor store in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/dekalb-bottle-house-dekalb-county/
+3. Dekalb Bottle House | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Dekalb Bottle House is a liquor store in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/dekalb-bottle-house-dekalb-county/
 4. Big John's Package | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Big John's Package is a liquor store in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/big-johns-package-dekalb-county/
 5. C&T Package Store | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | C&T Package Store is a liquor store in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/c-and-t-package-store-dekalb-county/
 6. CD Package Store | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | CD Package Store is a liquor store in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/cd-package-store-dekalb-county/

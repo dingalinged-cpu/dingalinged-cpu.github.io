@@ -13,7 +13,7 @@ Walmart Auto Center is an auto repair shop in North Richland Hills, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 56% of auto repair shops in Dallas–Fort Worth, #2 of 9 auto repair shops in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 39.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.4/100 — Unrated (not enough evidence yet) — top 100% of auto repair shops in Dallas–Fort Worth, #9 of 9 auto repair shops in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.5, Trust 39.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

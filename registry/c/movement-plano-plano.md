@@ -13,7 +13,7 @@ Movement Plano is a yoga studio in Plano, TX at 525 Talbert Dr, Plano, TX 75093.
 - Website: https://movementgyms.com/plano/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-22:00; Sa 09:00-22:00; Su 09:00-19:00
-- Pulse Score: 64.3/100 — Good — top 5% of yoga studios in Dallas–Fort Worth, #1 of 3 yoga studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 68. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 5% of yoga studios in Dallas–Fort Worth, #1 of 3 yoga studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 68.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

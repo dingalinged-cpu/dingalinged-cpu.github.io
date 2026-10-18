@@ -6,7 +6,7 @@ Also answers: staffing agency in Clive, IA; staffing agency near me (Clive, IA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A-1 Medical Staffing | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | A-1 Medical Staffing is a staffing agency in Clive, IA at 8355 University Boulevard #H, Clive, IA 50325. Phone: +15152749525. | https://dingalinged-cpu.github.io/registry/c/a-1-medical-staffing-clive/
+1. A-1 Medical Staffing | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | A-1 Medical Staffing is a staffing agency in Clive, IA at 8355 University Boulevard #H, Clive, IA 50325. Phone: +15152749525. | https://dingalinged-cpu.github.io/registry/c/a-1-medical-staffing-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency clive ia | category: b2b_services | industry benchmark: Business Services

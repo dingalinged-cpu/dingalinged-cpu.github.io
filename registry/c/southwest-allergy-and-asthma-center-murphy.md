@@ -13,7 +13,7 @@ Southwest Allergy & Asthma Center is an allergist in Murphy, TX at 703 FM 544 #1
 - Website: https://swallergy.com/locations/murphy/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-13:00; Mo-Th 14:00-17:00
-- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of allergists in Dallas–Fort Worth, #1 of 1 allergists in Murphy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of allergists in Dallas–Fort Worth, #1 of 1 allergists in Murphy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

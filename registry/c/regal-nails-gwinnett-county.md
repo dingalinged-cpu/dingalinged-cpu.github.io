@@ -13,7 +13,7 @@ Regal Nails is a nail salon in Gwinnett County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Building — top 95% of nail salons in Atlanta, #6 of 6 nail salons in Gwinnett County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.4/100 — Building — top 94% of nail salons in Atlanta, #6 of 6 nail salons in Gwinnett County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

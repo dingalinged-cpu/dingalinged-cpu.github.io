@@ -13,7 +13,7 @@ Magenta Printing is a graphic designer in West Allis, WI at 9234 West Oklahoma A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 67% of graphic designers in Milwaukee, #2 of 2 graphic designers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 67% of graphic designers in Milwaukee, #2 of 2 graphic designers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ ABC Dental is a dentist in Chicago, IL at 4608 West Diversey Avenue, Chicago, IL
 - Website: https://abcdentalchicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Pulse Score: 50.2/100 — Fair — top 93% of dentists in Chicago, #136 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 93% of dentists in Chicago, #135 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

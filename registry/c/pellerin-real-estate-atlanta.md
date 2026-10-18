@@ -13,7 +13,7 @@ Pellerin Real Estate is a real estate agency in Atlanta, GA at 1040 Grant Circle
 - Website: https://www.pellerinrealestate.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 53% of real estate agencys in Atlanta, #13 of 16 real estate agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 48.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 53% of real estate agencys in Atlanta, #13 of 16 real estate agencys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 48.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

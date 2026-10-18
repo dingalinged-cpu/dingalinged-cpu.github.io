@@ -13,7 +13,7 @@ Legacy Grooming is a dog groomer in Frisco, TX at 8756 Teel Pkwy ##318, Frisco, 
 - Website: https://legacygrooming.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 23% of dog groomers in Dallas–Fort Worth, #1 of 5 dog groomers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 23% of dog groomers in Dallas–Fort Worth, #1 of 5 dog groomers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Kim Injury Law, P.C. is a lawyer in Atlanta, GA at 3550 Lenox Road Northeast ##1
 - Website: https://www.kiminjurylaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Atlanta, #26 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Atlanta, #26 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Furs Gonna Fly is a dog groomer in Marietta, GA at 2323 Shallowford Road Northea
 - Website: https://www.fursgonnafly.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-16:00; Tu-Sa 08:00-16:00; Su off
-- Pulse Score: 59.9/100 — Fair — top 46% of dog groomers in Atlanta, #3 of 3 dog groomers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 52.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Fair — top 46% of dog groomers in Atlanta, #3 of 3 dog groomers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

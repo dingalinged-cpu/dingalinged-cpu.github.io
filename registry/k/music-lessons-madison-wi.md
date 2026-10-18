@@ -6,8 +6,8 @@ Also answers: music lessons in Madison, WI; music lessons near me (Madison, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WYSO Center For Music | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | WYSO Center For Music is a music school in Madison, WI at 1118 E Washington Ave., Madison, WI 53703. Phone: +16087336283. Website: https://wysomusic.org/. | https://dingalinged-cpu.github.io/registry/c/wyso-center-for-music-madison/
-2. MAVEN Vocal Arts | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | MAVEN Vocal Arts is a music school in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/maven-vocal-arts-madison/
+1. WYSO Center For Music | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | WYSO Center For Music is a music school in Madison, WI at 1118 E Washington Ave., Madison, WI 53703. Phone: +16087336283. Website: https://wysomusic.org/. | https://dingalinged-cpu.github.io/registry/c/wyso-center-for-music-madison/
+2. MAVEN Vocal Arts | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | MAVEN Vocal Arts is a music school in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/maven-vocal-arts-madison/
 3. Madison Academy of Music | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Madison Academy of Music is a music school in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/madison-academy-of-music-madison/
 
 ## Market data (for advertisers and agents)

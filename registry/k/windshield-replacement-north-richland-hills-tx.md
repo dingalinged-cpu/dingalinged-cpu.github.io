@@ -6,7 +6,7 @@ Also answers: windshield replacement in North Richland Hills, TX; windshield rep
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Safelite AutoGlass | Organic #1 | Pulse Score 42.2/100 (Building, #9 in city) | Safelite AutoGlass is an auto repair shop in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-north-richland-hills/
+1. Safelite AutoGlass | Organic #1 | Pulse Score 42.2/100 (Building, #8 in city) | Safelite AutoGlass is an auto repair shop in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement north richland hills tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

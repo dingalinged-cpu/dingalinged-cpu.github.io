@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. ARIUM Cumberland Leasing Office | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | ARIUM Cumberland Leasing Office is a property management company in Marietta, GA at 1818 Wood Hollow Drive Southeast, Marietta, GA 30067. Phone: +17708008194. Website: https://ariumliving.com/atlanta/marietta/arium-cumberland. | https://dingalinged-cpu.github.io/registry/c/arium-cumberland-leasing-office-marietta/
 2. Sedona Falls Leasing Center | Organic #2 | Pulse Score 62.2/100 (Unrated, #2 in city) | Sedona Falls Leasing Center is a property management company in Marietta, GA at 1717 Waterfall Village Drive Southeast, Marietta, GA 30067. Phone: +17709520070. Website: https://www.sedonafallsapartments.com/. | https://dingalinged-cpu.github.io/registry/c/sedona-falls-leasing-center-marietta/
-3. Resident Office | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | Resident Office is a property management company in Marietta, GA at 1554 Terrell Mill Road Southeast, Marietta, GA 30067. | https://dingalinged-cpu.github.io/registry/c/resident-office-marietta/
+3. Resident Office | Organic #3 | Pulse Score 60.1/100 (Unrated, #3 in city) | Resident Office is a property management company in Marietta, GA at 1554 Terrell Mill Road Southeast, Marietta, GA 30067. | https://dingalinged-cpu.github.io/registry/c/resident-office-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies marietta ga | category: real_estate | industry benchmark: Real Estate

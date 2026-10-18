@@ -13,7 +13,7 @@ Rejuvenation Spa is a spa in Madison, WI. Phone: +16088317546. Website: https://
 - Website: https://rejuvenationspa.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-20:00; Th 09:00-19:00; Fr,Sa 09:00-17:00
-- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of spas in Madison, #1 of 3 spas in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 50% of spas in Madison, #1 of 3 spas in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

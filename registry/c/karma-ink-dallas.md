@@ -13,7 +13,7 @@ Karma Ink is a tattoo shop in Dallas, TX at 2252 Gus Thomasson Road, Dallas, TX.
 - Website: https://karmainkdfw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.1/100 — Good — top 22% of tattoo shops in Dallas–Fort Worth, #6 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 20% of tattoo shops in Dallas–Fort Worth, #6 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

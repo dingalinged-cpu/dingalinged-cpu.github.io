@@ -8,7 +8,7 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 
 ## By CPC
-1. bike shop sugar creek mo | searches/mo 930 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $340/mo | our featured min $10/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#bike-shop-sugar-creek-mo
+1. bike shop sugar creek mo | searches/mo 930 (est) | CPC $4.14 | value $3,900 | Google Ads equiv $340/mo | our featured min $10/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/bike-shop-sugar-creek-mo/
 
 ## By value (searches x CPC)
 

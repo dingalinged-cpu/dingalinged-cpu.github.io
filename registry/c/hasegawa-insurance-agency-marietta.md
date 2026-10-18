@@ -13,7 +13,7 @@ Hasegawa Insurance Agency is an insurance agent in Marietta, GA at 1513 Johnson 
 - Website: https://hasegawainsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 15% of insurance agents in Atlanta, #2 of 10 insurance agents in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 15% of insurance agents in Atlanta, #2 of 10 insurance agents in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

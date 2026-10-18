@@ -6,7 +6,7 @@ Also answers: motorcycle repair in Omaha, NE; motorcycle repair near me (Omaha, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RPM Powersports | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | RPM Powersports is a motorcycle repair shop in Omaha, NE at 5105 Center Street, Omaha, NE 68106. Phone: +14026573653. Website: https://rpmpowersportsomaha.com/. | https://dingalinged-cpu.github.io/registry/c/rpm-powersports-omaha/
+1. RPM Powersports | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | RPM Powersports is a motorcycle repair shop in Omaha, NE at 5105 Center Street, Omaha, NE 68106. Phone: +14026573653. Website: https://rpmpowersportsomaha.com/. | https://dingalinged-cpu.github.io/registry/c/rpm-powersports-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair omaha ne | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

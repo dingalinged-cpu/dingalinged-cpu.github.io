@@ -13,7 +13,7 @@ Caddo Mills Fox Wash is a car wash in Caddo Mills, TX at 2007 Gilmer Street, Cad
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 38% of car washes in Dallas–Fort Worth, #1 of 1 car washes in Caddo Mills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 37% of car washes in Dallas–Fort Worth, #1 of 1 car washes in Caddo Mills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 46.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

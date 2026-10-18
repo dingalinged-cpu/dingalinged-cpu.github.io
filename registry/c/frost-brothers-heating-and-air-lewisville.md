@@ -13,7 +13,7 @@ Frost Brothers Heating & Air is a HVAC contractor in Lewisville, TX at 320 Smith
 - Website: https://www.frostac.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 62% of HVAC contractors in Dallas–Fort Worth, #4 of 4 HVAC contractors in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 62% of HVAC contractors in Dallas–Fort Worth, #4 of 4 HVAC contractors in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

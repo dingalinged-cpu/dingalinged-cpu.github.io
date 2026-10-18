@@ -13,7 +13,7 @@ The Barre Code is a gym in Omaha, NE at 5002 Dodge Street #301, Omaha, NE 68132.
 - Website: https://thebarrecode.com/studio/dundee/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 57% of gyms in Omaha, NE, #7 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 57% of gyms in Omaha, NE, #7 of 17 gyms in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

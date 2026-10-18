@@ -13,7 +13,7 @@ Insulators Local 22 is a HVAC contractor in Pasadena, TX at 2210 Wichita Street,
 - Website: https://insulatorslocal22.org/
 - Email: awl22@insulators.org
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00; Sa 07:00-12:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of HVAC contractors in Houston, #1 of 2 HVAC contractors in Pasadena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of HVAC contractors in Houston, #1 of 2 HVAC contractors in Pasadena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

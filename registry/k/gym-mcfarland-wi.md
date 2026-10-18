@@ -6,7 +6,7 @@ Also answers: gym in Mcfarland, WI; gym near me (Mcfarland, WI); best gym Mcfarl
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Anytime Fitness is a gym in McFarland, WI at 5802 County Highway B, McFarland, WI 53558. Phone: +16088388111. Website: https://www.anytimefitness.com/gyms/594/mcfarland-wi-53558/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-mcfarland/
+1. Anytime Fitness | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | Anytime Fitness is a gym in McFarland, WI at 5802 County Highway B, McFarland, WI 53558. Phone: +16088388111. Website: https://www.anytimefitness.com/gyms/594/mcfarland-wi-53558/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-mcfarland/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym mcfarland wi | category: Fitness | industry benchmark: Health & Fitness

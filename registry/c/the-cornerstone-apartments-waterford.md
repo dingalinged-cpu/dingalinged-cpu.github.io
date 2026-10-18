@@ -13,7 +13,7 @@ The Cornerstone Apartments is a property management company in Waterford, WI at 
 - Website: https://the-cornerstone-apartments.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 08:30-17:00; Fr 13:30-17:00; Mo,We "by appointment"; Sa,Su off
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 36% of property management companys in Milwaukee, #2 of 3 property management companys in Waterford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 36% of property management companys in Milwaukee, #2 of 3 property management companys in Waterford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

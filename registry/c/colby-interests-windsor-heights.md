@@ -13,7 +13,7 @@ Colby Interests is a real estate agency in Windsor Heights, IA at 6579 Universit
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 19% of real estate agencys in Des Moines, IA, #1 of 2 real estate agencys in Windsor Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 19% of real estate agencys in Des Moines, IA, #1 of 2 real estate agencys in Windsor Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

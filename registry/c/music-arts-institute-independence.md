@@ -1,0 +1,24 @@
+Music/Arts Institute is a music school in Independence, MO.
+
+# Music/Arts Institute
+
+- Category: music lessons
+- Services: music lessons
+- Address: Independence, MO
+- City: Independence
+- State: MO
+- ZIP: n/a
+- Coordinates: 39.0807881, -94.4111947
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 100% of music schools in Kansas City, MO, #1 of 1 music schools in Independence (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 40.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/music-arts-institute-independence/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/music-arts-institute-independence.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1125295004 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ Ellestad Camacho Funeral Home is a funeral home in Black Earth, WI at 1710 Cente
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 47% of funeral homes in Madison, #1 of 1 funeral homes in Black Earth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 47% of funeral homes in Madison, #1 of 1 funeral homes in Black Earth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 50.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

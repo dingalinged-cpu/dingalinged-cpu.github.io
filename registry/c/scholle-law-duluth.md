@@ -13,7 +13,7 @@ Scholle Law is a lawyer in Duluth, GA at 6340 Sugarloaf Parkway #150, Duluth, GA
 - Website: https://www.schollelaw.com/locations/duluth
 - Email: admin@schollelaw.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 96% of lawyers in Atlanta, #3 of 3 lawyers in Duluth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 96% of lawyers in Atlanta, #3 of 3 lawyers in Duluth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

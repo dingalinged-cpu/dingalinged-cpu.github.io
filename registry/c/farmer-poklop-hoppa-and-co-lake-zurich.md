@@ -13,7 +13,7 @@ Farmer, Poklop, Hoppa & Co is an accountant in Lake Zurich, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 82% of accountants in Chicago, #2 of 3 accountants in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 39.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 82% of accountants in Chicago, #2 of 3 accountants in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 39.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

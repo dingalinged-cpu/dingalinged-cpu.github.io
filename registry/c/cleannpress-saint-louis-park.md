@@ -13,7 +13,7 @@ Clean'n'Press is a dry cleaner in Saint Louis Park, MN at 4716 Excelsior Bouleva
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 81% of dry cleaners in Minneapolis–St. Paul, #5 of 5 dry cleaners in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.9/100 — Unrated (not enough evidence yet) — top 81% of dry cleaners in Minneapolis–St. Paul, #5 of 5 dry cleaners in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 47.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

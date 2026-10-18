@@ -1,4 +1,4 @@
-The top unpaid flooring companies listing for Countryside, IL is The Tile Shop (a flooring company in Countryside, IL). 2 flooring companies businesses are listed for Countryside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Countryside, IL is Floor & Decor (a flooring company in Countryside, IL). 2 flooring companies businesses are listed for Countryside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Countryside, IL?
 
@@ -6,8 +6,8 @@ Also answers: flooring companies in Countryside, IL; flooring companies near me 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Tile Shop | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | The Tile Shop is a flooring company in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/the-tile-shop-countryside/
-2. Floor & Decor | Organic #2 | Pulse Score 41.8/100 (Building, #2 in city) | Floor & Decor is a flooring company in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-countryside/
+1. Floor & Decor | Organic #1 | Pulse Score 41.8/100 (Building, #1 in city) | Floor & Decor is a flooring company in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-countryside/
+2. The Tile Shop | Organic #2 | Pulse Score 41.4/100 (Unrated, #2 in city) | The Tile Shop is a flooring company in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/the-tile-shop-countryside/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies countryside il | category: Home services - Flooring | industry benchmark: Home & Home Improvement

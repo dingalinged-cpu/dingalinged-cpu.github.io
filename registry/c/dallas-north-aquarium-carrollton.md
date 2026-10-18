@@ -13,7 +13,7 @@ Dallas North Aquarium is a pet store in Carrollton, TX at 2910 E Trinity Mills R
 - Website: https://dallasnorthaquarium.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-18:00
-- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 4% of pet stores in Dallas–Fort Worth, #1 of 8 pet stores in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 4% of pet stores in Dallas–Fort Worth, #1 of 8 pet stores in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

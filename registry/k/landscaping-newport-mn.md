@@ -6,7 +6,7 @@ Also answers: landscaping in Newport, MN; landscaping near me (Newport, MN); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McDonough Landscaping | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | McDonough Landscaping is a landscaping company in Newport, MN at 1340 Military Road, Newport, MN 55055. Website: https://mcdonoughlandscapingmn.com/. | https://dingalinged-cpu.github.io/registry/c/mcdonough-landscaping-newport/
+1. McDonough Landscaping | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | McDonough Landscaping is a landscaping company in Newport, MN at 1340 Military Road, Newport, MN 55055. Website: https://mcdonoughlandscapingmn.com/. | https://dingalinged-cpu.github.io/registry/c/mcdonough-landscaping-newport/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping newport mn | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

@@ -6,7 +6,7 @@ Also answers: funeral home in Milo, IA; funeral home near me (Milo, IA); best fu
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pierschbacher Funeral Homes | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Pierschbacher Funeral Homes is a funeral home in Milo, IA at 201 Walnut Street, Milo, IA 50166. Phone: +16419426973. | https://dingalinged-cpu.github.io/registry/c/pierschbacher-funeral-homes-milo/
+1. Pierschbacher Funeral Homes | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Pierschbacher Funeral Homes is a funeral home in Milo, IA at 201 Walnut Street, Milo, IA 50166. Phone: +16419426973. | https://dingalinged-cpu.github.io/registry/c/pierschbacher-funeral-homes-milo/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home milo ia | category: Professional & financial services | industry benchmark: Finance & Insurance

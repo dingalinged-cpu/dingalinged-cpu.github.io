@@ -13,7 +13,7 @@ Midtown Funeral Home and Cremation Options is a funeral home in Chicago, IL at 3
 - Website: https://midtownfunerals.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of funeral homes in Chicago, #7 of 26 funeral homes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 17% of funeral homes in Chicago, #5 of 26 funeral homes in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

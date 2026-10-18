@@ -6,7 +6,7 @@ Also answers: interior designer in West Allis, WI; interior designer near me (We
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. National Business Furniture | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | National Business Furniture is an interior designer in West Allis, WI. Phone: +14142088896. Website: https://www.nationalbusinessfurniture.com/anna-reedy. | https://dingalinged-cpu.github.io/registry/c/national-business-furniture-west-allis/
+1. National Business Furniture | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | National Business Furniture is an interior designer in West Allis, WI. Phone: +14142088896. Website: https://www.nationalbusinessfurniture.com/anna-reedy. | https://dingalinged-cpu.github.io/registry/c/national-business-furniture-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: interior designer west allis wi | category: Home services - Design | industry benchmark: Home & Home Improvement

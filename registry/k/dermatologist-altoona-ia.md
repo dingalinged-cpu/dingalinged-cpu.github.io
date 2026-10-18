@@ -6,7 +6,7 @@ Also answers: dermatologist in Altoona, IA; dermatologist near me (Altoona, IA);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RC Dermatology | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | RC Dermatology is a dermatologist in Altoona, IA at 3053 8th Street Southwest #200, Altoona, IA 50009. Phone: +15153807348. Website: https://www.radiantcomplexions.com/locations/altoona. | https://dingalinged-cpu.github.io/registry/c/rc-dermatology-altoona/
+1. RC Dermatology | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | RC Dermatology is a dermatologist in Altoona, IA at 3053 8th Street Southwest #200, Altoona, IA 50009. Phone: +15153807348. Website: https://www.radiantcomplexions.com/locations/altoona. | https://dingalinged-cpu.github.io/registry/c/rc-dermatology-altoona/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist altoona ia | category: Health & medical | industry benchmark: Physicians & Surgeons

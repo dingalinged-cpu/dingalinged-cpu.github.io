@@ -13,7 +13,7 @@ Blue Beacon is a car wash in Council Bluffs, IA. Website: https://bluebeacon.com
 - Website: https://bluebeacon.com/locations/listing/council-bluffs
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 49.8/100 — Building — top 74% of car washes in Omaha, NE, #9 of 12 car washes in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 74% of car washes in Omaha, NE, #9 of 12 car washes in Council Bluffs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: pediatrician in Garland, TX; pediatrician near me (Garland, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Spurs Pediatric Urgent Care | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Little Spurs Pediatric Urgent Care is a pediatrician in Garland, TX at 6520 North President George Bush Highway #100, Garland, TX 75044. Phone: +19725329967. Website: https://littlespurspedi.com/location/garland-clinic/. | https://dingalinged-cpu.github.io/registry/c/little-spurs-pediatric-urgent-care-garland/
+1. Little Spurs Pediatric Urgent Care | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Little Spurs Pediatric Urgent Care is a pediatrician in Garland, TX at 6520 North President George Bush Highway #100, Garland, TX 75044. Phone: +19725329967. Website: https://littlespurspedi.com/location/garland-clinic/. | https://dingalinged-cpu.github.io/registry/c/little-spurs-pediatric-urgent-care-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician garland tx | category: Health & medical | industry benchmark: Physicians & Surgeons

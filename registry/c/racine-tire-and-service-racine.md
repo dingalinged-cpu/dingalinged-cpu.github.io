@@ -13,7 +13,7 @@ Racine Tire and Service is a tire shop in Racine, WI at 2210 Lathrop Avenue, Rac
 - Website: https://racinetireandservice.com/
 - Email: kurtpeterson93@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00, Sa-Su 10:00-16:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 10% of tire shops in Milwaukee, #1 of 1 tire shops in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 10% of tire shops in Milwaukee, #1 of 1 tire shops in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

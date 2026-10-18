@@ -6,7 +6,7 @@ Also answers: driving school in Minneapolis, MN; driving school near me (Minneap
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alamo Driving School | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Alamo Driving School is a driving school in Minneapolis, MN at 2109 Nicollet Avenue #106, Minneapolis, MN 55404. Phone: +16128740697. Website: https://www.alamodrivingschool.com/. | https://dingalinged-cpu.github.io/registry/c/alamo-driving-school-minneapolis/
+1. Alamo Driving School | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | Alamo Driving School is a driving school in Minneapolis, MN at 2109 Nicollet Avenue #106, Minneapolis, MN 55404. Phone: +16128740697. Website: https://www.alamodrivingschool.com/. | https://dingalinged-cpu.github.io/registry/c/alamo-driving-school-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school minneapolis mn | category: Education & childcare | industry benchmark: Education & Instruction

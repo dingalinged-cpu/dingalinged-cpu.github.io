@@ -13,7 +13,7 @@ BODYROK is a pilates studio in Atlanta, GA at 1221 Peachtree Street Northeast #1
 - Website: https://bodyrok.com/studio/atlanta/
 - Email: colonysquare@bodyrok.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48.2/100 — Building — top 55% of pilates studios in Atlanta, #2 of 2 pilates studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.9, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 55% of pilates studios in Atlanta, #2 of 2 pilates studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.9, Trust 51.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

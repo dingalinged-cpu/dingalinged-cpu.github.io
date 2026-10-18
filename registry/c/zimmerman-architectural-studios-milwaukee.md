@@ -13,7 +13,7 @@ Zimmerman Architectural Studios is an architect in Milwaukee, WI. Phone: +141447
 - Website: n/a
 - Email: info@zastudios.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Fair — top 65% of architects in Milwaukee, #10 of 15 architects in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 43.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Fair — top 65% of architects in Milwaukee, #10 of 15 architects in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 44.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

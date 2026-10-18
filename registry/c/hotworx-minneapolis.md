@@ -13,7 +13,7 @@ HotWorx is a gym in Minneapolis, MN at 401 1st Avenue Northeast #C, Minneapolis,
 - Website: https://www.hotworx.net/studio/minneapolis-northeast
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.1/100 — Building — top 70% of gyms in Minneapolis–St. Paul, #36 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 71% of gyms in Minneapolis–St. Paul, #37 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

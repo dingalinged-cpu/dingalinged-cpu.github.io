@@ -13,7 +13,7 @@ Darlene's Flowers & Gifts is a gift shop in Houston, TX at 10570 Northwest Freew
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.5/100 — Good — top 6% of gift shops in Houston, #1 of 62 gift shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 6% of gift shops in Houston, #1 of 62 gift shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

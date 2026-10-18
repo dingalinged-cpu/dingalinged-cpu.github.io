@@ -7,9 +7,9 @@ Also answers: tattoo shop in Lewisville, TX; tattoo shop near me (Lewisville, TX
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Aura Tattoo Studios | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Aura Tattoo Studios is a tattoo shop in Lewisville, TX at 880 Hebron Parkway #130, Lewisville, TX 75057. Phone: +12142225364. Website: https://www.auratattoostudios.com/. | https://dingalinged-cpu.github.io/registry/c/aura-tattoo-studios-lewisville/
-2. Rebel Muse Tattoo | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | Rebel Muse Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724209666. Website: https://www.rebelmusetattoo.com/. | https://dingalinged-cpu.github.io/registry/c/rebel-muse-tattoo-lewisville/
-3. Love Hate Tattoos | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Love Hate Tattoos is a tattoo shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/love-hate-tattoos-lewisville/
-4. Tattoo | Organic #4 | Pulse Score 49.8/100 (Building, #4 in city) | Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724363450. Website: https://www.abettertattoo.com/. | https://dingalinged-cpu.github.io/registry/c/tattoo-lewisville/
+2. Love Hate Tattoos | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Love Hate Tattoos is a tattoo shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/love-hate-tattoos-lewisville/
+3. Tattoo | Organic #3 | Pulse Score 49.8/100 (Building, #3 in city) | Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724363450. Website: https://www.abettertattoo.com/. | https://dingalinged-cpu.github.io/registry/c/tattoo-lewisville/
+4. Rebel Muse Tattoo | Organic #4 | Pulse Score 49.3/100 (Building, #4 in city) | Rebel Muse Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724209666. Website: https://www.rebelmusetattoo.com/. | https://dingalinged-cpu.github.io/registry/c/rebel-muse-tattoo-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

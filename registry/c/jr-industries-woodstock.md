@@ -13,7 +13,7 @@ JR Industries is a flooring company in Woodstock, GA at 9872 Main Street #B, Woo
 - Website: https://www.jrindustries.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00
-- Pulse Score: 63.3/100 — Good — top 12% of flooring companys in Atlanta, #1 of 1 flooring companys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 12% of flooring companys in Atlanta, #1 of 1 flooring companys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

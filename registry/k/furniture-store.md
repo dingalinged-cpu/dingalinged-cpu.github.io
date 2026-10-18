@@ -1,4 +1,4 @@
-The top unpaid furniture store listing for the United States is Harrian (a furniture store in Minneapolis, MN at 3537 West 44th Street, Minneapolis, MN 55410. Phone: +16129229224. Website: https://www.harriann.com/). 893 furniture store businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for the United States is Harrian (a furniture store in Minneapolis, MN at 3537 West 44th Street, Minneapolis, MN 55410. Phone: +16129229224. Website: https://www.harriann.com/). 959 furniture store businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in the United States?
 
@@ -34,35 +34,36 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 26. Cubicle Gurus | Organic #26 | Pulse Score 63.1/100 (Unrated, #1 in city) | Cubicle Gurus is a furniture store in Haltom City, TX at 6400 Midway Road, Haltom City, TX 76117. Phone: +18178795851. Website: https://cubiclegurus.com/. | https://dingalinged-cpu.github.io/registry/c/cubicle-gurus-haltom-city/
 27. Casual Image Furniture | Organic #27 | Pulse Score 63/100 (Good, #3 in city) | Casual Image Furniture is a furniture store in Cobb County, GA at 1893 Piedmont Road Northeast, Cobb County, GA 30066. Phone: +17709715605. Website: https://www.casualimage.com/. | https://dingalinged-cpu.github.io/registry/c/casual-image-furniture-cobb-county/
 28. Leather Creations | Organic #28 | Pulse Score 63/100 (Good, #4 in city) | Leather Creations is a furniture store in Cobb County, GA at 1155 Ernest W. Barrett Parkway Northwest #208, Cobb County, GA. Phone: +17704851561. Website: https://www.leathercreationsfurniture.com/. | https://dingalinged-cpu.github.io/registry/c/leather-creations-cobb-county/
-29. Matthews Furniture + Design | Organic #29 | Pulse Score 62.9/100 (Good, #2 in city) | Matthews Furniture + Design is a furniture store in Atlanta, GA at 1240 West Paces Ferry Road Northwest, Atlanta, GA. Phone: +14042378271. Website: https://www.mathewsfurniture.com/. | https://dingalinged-cpu.github.io/registry/c/matthews-furniture-design-atlanta/
-30. Cream City Restoration | Organic #30 | Pulse Score 62.9/100 (Unrated, #5 in city) | Cream City Restoration is a furniture store in Milwaukee, WI at 201 North Water Street, Milwaukee, WI 53202. Phone: +14143234100. Website: https://www.creamcityrestoration.com/. | https://dingalinged-cpu.github.io/registry/c/cream-city-restoration-milwaukee/
-31. Colder's Furniture and Appliances | Organic #31 | Pulse Score 62.9/100 (Unrated, #1 in city) | Colder's Furniture and Appliances is a furniture store in Oak Creek, WI at 9725 South 13th Street, Oak Creek, WI 53154. Phone: +14144761574. Website: https://www.colders.com/. | https://dingalinged-cpu.github.io/registry/c/colders-furniture-and-appliances-oak-creek/
-32. Aaron Furniture | Organic #32 | Pulse Score 62.9/100 (Unrated, #1 in city) | Aaron Furniture is a furniture store in Gary, IN at 4835 West 45th Avenue, Gary, IN 46408. Phone: +12198380852. Website: https://aaronfurniturein.com/. | https://dingalinged-cpu.github.io/registry/c/aaron-furniture-gary/
-33. Marjen Furniture of Chicago | Organic #33 | Pulse Score 62.9/100 (Unrated, #1 in city) | Marjen Furniture of Chicago is a furniture store in Chicago, IL at 1536 West Devon Avenue, Chicago, IL 60660. Phone: +17733386636. Website: https://marjenofchicago.com/. | https://dingalinged-cpu.github.io/registry/c/marjen-furniture-of-chicago-chicago/
-34. Suite Dreams Bedrooms & Stuff for Kids | Organic #34 | Pulse Score 62.9/100 (Unrated, #1 in city) | Suite Dreams Bedrooms & Stuff for Kids is a furniture store in Windsor Heights, IA at 803 73rd Street, Windsor Heights, IA 50324. Phone: +15152232337. Website: https://www.suitedreamsforkids.com/. | https://dingalinged-cpu.github.io/registry/c/suite-dreams-bedrooms-and-stuff-for-kids-windsor-heights/
-35. James Furniture & Mattress Deals | Organic #35 | Pulse Score 62.8/100 (Unrated, #1 in city) | James Furniture & Mattress Deals is a furniture store in Duluth, GA at 3750 Venture Drive #150A, Duluth, GA 30096. Phone: +17704955855. Website: https://jfurnituredeals.com/. | https://dingalinged-cpu.github.io/registry/c/james-furniture-and-mattress-deals-duluth/
-36. James Furniture & Mattress Deals | Organic #36 | Pulse Score 62.8/100 (Unrated, #2 in city) | James Furniture & Mattress Deals is a furniture store in Norcross, GA at 5211 Jimmy Carter Boulevard, Norcross, GA 30093. Phone: +17704470336. Website: https://www.jamesfurnituredeals.com/. | https://dingalinged-cpu.github.io/registry/c/james-furniture-and-mattress-deals-norcross/
-37. Buy Wholesale Cabinents | Organic #37 | Pulse Score 62.8/100 (Unrated, #1 in city) | Buy Wholesale Cabinents is a furniture store in Irving, TX at Luke Street, Irving, TX 75061. Phone: +18882166277. Website: https://buywholesalecabinets.com/. | https://dingalinged-cpu.github.io/registry/c/buy-wholesale-cabinents-irving/
-38. MidInMod | Organic #38 | Pulse Score 62.8/100 (Unrated, #1 in city) | MidInMod is a furniture store in Katy, TX at 605 South Mason Road, Katy, TX 77450. Phone: +12813872734. Website: https://midinmod.com/. | https://dingalinged-cpu.github.io/registry/c/midinmod-katy/
-39. Home Zone | Organic #39 | Pulse Score 62.7/100 (Good, #1 in city) | Home Zone is a furniture store in Lewisville, TX at 997 Valley Ridge Boulevard, Lewisville, TX. Website: https://homezonefurniture.com/. | https://dingalinged-cpu.github.io/registry/c/home-zone-lewisville/
-40. NFM Main Furniture & Flooring Store | Organic #40 | Pulse Score 62.7/100 (Unrated, #1 in city) | NFM Main Furniture & Flooring Store is a furniture store in Omaha, NE at 700 South 72nd Street, Omaha, NE 68114. Phone: +14023976100. | https://dingalinged-cpu.github.io/registry/c/nfm-main-furniture-and-flooring-store-omaha/
-41. Highcroft | Organic #41 | Pulse Score 62.7/100 (Unrated, #1 in city) | Highcroft is a furniture store in Wayzata, MN at 770 Lake Street East, Wayzata, MN 55391. Phone: +19527465826. Website: https://www.highcrofthome.com/. | https://dingalinged-cpu.github.io/registry/c/highcroft-wayzata/
-42. International Design Center | Organic #42 | Pulse Score 62.7/100 (Unrated, #1 in city) | International Design Center is a furniture store in Edina, MN at 7035 Washington Avenue South, Edina, MN 55439. Phone: +16123413441. Website: https://www.idcmn.com/. | https://dingalinged-cpu.github.io/registry/c/international-design-center-edina/
-43. New Uses | Organic #43 | Pulse Score 62.7/100 (Unrated, #2 in city) | New Uses is a furniture store in Maple Grove, MN at 13777 Grove Drive North, Maple Grove, MN 55311. Phone: +17632734917. Website: https://www.newuses.com/maple-grove-mn/. | https://dingalinged-cpu.github.io/registry/c/new-uses-maple-grove/
-44. Paul Weise Furniture | Organic #44 | Pulse Score 62.6/100 (Unrated, #6 in city) | Paul Weise Furniture is a furniture store in Milwaukee, WI at 1534 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142761300. Website: https://www.paulweise.com/. | https://dingalinged-cpu.github.io/registry/c/paul-weise-furniture-milwaukee/
-45. Charter Furniture Rental | Organic #45 | Pulse Score 62.6/100 (Unrated, #2 in city) | Charter Furniture Rental is a furniture store in Addison, TX at 4181 Centurion Way, Addison, TX 75001. Phone: +19723853204. Website: https://charterfurnituresolutions.com/rental/. | https://dingalinged-cpu.github.io/registry/c/charter-furniture-rental-addison/
-46. Palm Casual Patio Furniture | Organic #46 | Pulse Score 62.5/100 (Good, #2 in city) | Palm Casual Patio Furniture is a furniture store in Kennesaw, GA at 2206 Cobb Parkway, Kennesaw, GA. Phone: +17707798902. Website: https://palmcasual.com/. | https://dingalinged-cpu.github.io/registry/c/palm-casual-patio-furniture-kennesaw/
-47. Southern Comforts Consignments | Organic #47 | Pulse Score 62.5/100 (Good, #2 in city) | Southern Comforts Consignments is a furniture store in Roswell, GA at 4750 Alabama Road #109, Roswell, GA. Phone: +17706456001. Website: https://www.southerncomforts.com/. | https://dingalinged-cpu.github.io/registry/c/southern-comforts-consignments-roswell/
-48. Woodbine Furniture | Organic #48 | Pulse Score 62.5/100 (Unrated, #1 in city) | Woodbine Furniture is a furniture store in North Richland Hills, TX at 8509 Davis Boulevard #200, North Richland Hills, TX 76182. Phone: +18175140372. Website: https://www.woodbinefurniture.com/north-richland-hills-tx-handcrafted-american-furniture. | https://dingalinged-cpu.github.io/registry/c/woodbine-furniture-north-richland-hills/
-49. Texas Furniture Outlet | Organic #49 | Pulse Score 62.5/100 (Unrated, #1 in city) | Texas Furniture Outlet is a furniture store in Mesquite, TX at 3129 I-30 #Ste A, Mesquite, TX 75150. Phone: +19726817632. Website: https://texasfurnitureoutlet.com/. | https://dingalinged-cpu.github.io/registry/c/texas-furniture-outlet-mesquite/
-50. Mr. Furniture Outlet | Organic #50 | Pulse Score 62.4/100 (Good, #5 in city) | Mr. Furniture Outlet is a furniture store in Cobb County, GA at 2316 Canton Road, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/mr-furniture-outlet-cobb-county/
+29. OK Furniture | Organic #29 | Pulse Score 63/100 (Good, #1 in city) | OK Furniture is a furniture store in Kansas City, MO at 2600 East Truman Road, Kansas City, MO 64127. | https://dingalinged-cpu.github.io/registry/c/ok-furniture-kansas-city/
+30. Matthews Furniture + Design | Organic #30 | Pulse Score 62.9/100 (Good, #2 in city) | Matthews Furniture + Design is a furniture store in Atlanta, GA at 1240 West Paces Ferry Road Northwest, Atlanta, GA. Phone: +14042378271. Website: https://www.mathewsfurniture.com/. | https://dingalinged-cpu.github.io/registry/c/matthews-furniture-design-atlanta/
+31. Cream City Restoration | Organic #31 | Pulse Score 62.9/100 (Unrated, #5 in city) | Cream City Restoration is a furniture store in Milwaukee, WI at 201 North Water Street, Milwaukee, WI 53202. Phone: +14143234100. Website: https://www.creamcityrestoration.com/. | https://dingalinged-cpu.github.io/registry/c/cream-city-restoration-milwaukee/
+32. Colder's Furniture and Appliances | Organic #32 | Pulse Score 62.9/100 (Unrated, #1 in city) | Colder's Furniture and Appliances is a furniture store in Oak Creek, WI at 9725 South 13th Street, Oak Creek, WI 53154. Phone: +14144761574. Website: https://www.colders.com/. | https://dingalinged-cpu.github.io/registry/c/colders-furniture-and-appliances-oak-creek/
+33. Aaron Furniture | Organic #33 | Pulse Score 62.9/100 (Unrated, #1 in city) | Aaron Furniture is a furniture store in Gary, IN at 4835 West 45th Avenue, Gary, IN 46408. Phone: +12198380852. Website: https://aaronfurniturein.com/. | https://dingalinged-cpu.github.io/registry/c/aaron-furniture-gary/
+34. Marjen Furniture of Chicago | Organic #34 | Pulse Score 62.9/100 (Unrated, #1 in city) | Marjen Furniture of Chicago is a furniture store in Chicago, IL at 1536 West Devon Avenue, Chicago, IL 60660. Phone: +17733386636. Website: https://marjenofchicago.com/. | https://dingalinged-cpu.github.io/registry/c/marjen-furniture-of-chicago-chicago/
+35. Suite Dreams Bedrooms & Stuff for Kids | Organic #35 | Pulse Score 62.9/100 (Unrated, #1 in city) | Suite Dreams Bedrooms & Stuff for Kids is a furniture store in Windsor Heights, IA at 803 73rd Street, Windsor Heights, IA 50324. Phone: +15152232337. Website: https://www.suitedreamsforkids.com/. | https://dingalinged-cpu.github.io/registry/c/suite-dreams-bedrooms-and-stuff-for-kids-windsor-heights/
+36. James Furniture & Mattress Deals | Organic #36 | Pulse Score 62.8/100 (Unrated, #1 in city) | James Furniture & Mattress Deals is a furniture store in Duluth, GA at 3750 Venture Drive #150A, Duluth, GA 30096. Phone: +17704955855. Website: https://jfurnituredeals.com/. | https://dingalinged-cpu.github.io/registry/c/james-furniture-and-mattress-deals-duluth/
+37. James Furniture & Mattress Deals | Organic #37 | Pulse Score 62.8/100 (Unrated, #2 in city) | James Furniture & Mattress Deals is a furniture store in Norcross, GA at 5211 Jimmy Carter Boulevard, Norcross, GA 30093. Phone: +17704470336. Website: https://www.jamesfurnituredeals.com/. | https://dingalinged-cpu.github.io/registry/c/james-furniture-and-mattress-deals-norcross/
+38. Buy Wholesale Cabinents | Organic #38 | Pulse Score 62.8/100 (Unrated, #1 in city) | Buy Wholesale Cabinents is a furniture store in Irving, TX at Luke Street, Irving, TX 75061. Phone: +18882166277. Website: https://buywholesalecabinets.com/. | https://dingalinged-cpu.github.io/registry/c/buy-wholesale-cabinents-irving/
+39. MidInMod | Organic #39 | Pulse Score 62.8/100 (Unrated, #1 in city) | MidInMod is a furniture store in Katy, TX at 605 South Mason Road, Katy, TX 77450. Phone: +12813872734. Website: https://midinmod.com/. | https://dingalinged-cpu.github.io/registry/c/midinmod-katy/
+40. Home Zone | Organic #40 | Pulse Score 62.7/100 (Good, #1 in city) | Home Zone is a furniture store in Lewisville, TX at 997 Valley Ridge Boulevard, Lewisville, TX. Website: https://homezonefurniture.com/. | https://dingalinged-cpu.github.io/registry/c/home-zone-lewisville/
+41. NFM Main Furniture & Flooring Store | Organic #41 | Pulse Score 62.7/100 (Unrated, #1 in city) | NFM Main Furniture & Flooring Store is a furniture store in Omaha, NE at 700 South 72nd Street, Omaha, NE 68114. Phone: +14023976100. | https://dingalinged-cpu.github.io/registry/c/nfm-main-furniture-and-flooring-store-omaha/
+42. Fortune Furnishing | Organic #42 | Pulse Score 62.7/100 (Unrated, #1 in city) | Fortune Furnishing is a furniture store in Overland Park, KS at 10021 West 75th Street, Overland Park, KS 66204. Phone: +19139998993. Website: https://fortunefurnishingkc.com/. | https://dingalinged-cpu.github.io/registry/c/fortune-furnishing-overland-park/
+43. Furniture Mall Of Kansas | Organic #43 | Pulse Score 62.7/100 (Unrated, #1 in city) | Furniture Mall Of Kansas is a furniture store in Olathe, KS at 2125 East Kansas City Road, Olathe, KS 66061. Phone: +19138398654. Website: https://www.thefurnituremall.com/. | https://dingalinged-cpu.github.io/registry/c/furniture-mall-of-kansas-olathe/
+44. Highcroft | Organic #44 | Pulse Score 62.7/100 (Unrated, #1 in city) | Highcroft is a furniture store in Wayzata, MN at 770 Lake Street East, Wayzata, MN 55391. Phone: +19527465826. Website: https://www.highcrofthome.com/. | https://dingalinged-cpu.github.io/registry/c/highcroft-wayzata/
+45. International Design Center | Organic #45 | Pulse Score 62.7/100 (Unrated, #1 in city) | International Design Center is a furniture store in Edina, MN at 7035 Washington Avenue South, Edina, MN 55439. Phone: +16123413441. Website: https://www.idcmn.com/. | https://dingalinged-cpu.github.io/registry/c/international-design-center-edina/
+46. New Uses | Organic #46 | Pulse Score 62.7/100 (Unrated, #2 in city) | New Uses is a furniture store in Maple Grove, MN at 13777 Grove Drive North, Maple Grove, MN 55311. Phone: +17632734917. Website: https://www.newuses.com/maple-grove-mn/. | https://dingalinged-cpu.github.io/registry/c/new-uses-maple-grove/
+47. Paul Weise Furniture | Organic #47 | Pulse Score 62.6/100 (Unrated, #6 in city) | Paul Weise Furniture is a furniture store in Milwaukee, WI at 1534 North Farwell Avenue, Milwaukee, WI 53202. Phone: +14142761300. Website: https://www.paulweise.com/. | https://dingalinged-cpu.github.io/registry/c/paul-weise-furniture-milwaukee/
+48. Charter Furniture Rental | Organic #48 | Pulse Score 62.6/100 (Unrated, #2 in city) | Charter Furniture Rental is a furniture store in Addison, TX at 4181 Centurion Way, Addison, TX 75001. Phone: +19723853204. Website: https://charterfurnituresolutions.com/rental/. | https://dingalinged-cpu.github.io/registry/c/charter-furniture-rental-addison/
+49. Palm Casual Patio Furniture | Organic #49 | Pulse Score 62.5/100 (Good, #2 in city) | Palm Casual Patio Furniture is a furniture store in Kennesaw, GA at 2206 Cobb Parkway, Kennesaw, GA. Phone: +17707798902. Website: https://palmcasual.com/. | https://dingalinged-cpu.github.io/registry/c/palm-casual-patio-furniture-kennesaw/
+50. Southern Comforts Consignments | Organic #50 | Pulse Score 62.5/100 (Good, #2 in city) | Southern Comforts Consignments is a furniture store in Roswell, GA at 4750 Alabama Road #109, Roswell, GA. Phone: +17706456001. Website: https://www.southerncomforts.com/. | https://dingalinged-cpu.github.io/registry/c/southern-comforts-consignments-roswell/
 
-## More furniture store listings (893 total; top 50 unpaid shown)
+## More furniture store listings (959 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/furniture-store.jsonl
 - Houston, TX: 77 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-houston-tx/
 - Chicago, IL: 57 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-chicago-il/
 - Dallas, TX: 30 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-dallas-tx/
 - Milwaukee, WI: 30 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-milwaukee-wi/
+- Kansas City, MO: 28 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-kansas-city-mo/
 - Atlanta, GA: 27 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-atlanta-ga/
 - Des Moines, IA: 19 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-des-moines-ia/
 - Harris County, TX: 18 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-harris-county-tx/
@@ -90,6 +91,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Sugar Land, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-sugar-land-tx/
 - Wauwatosa, WI: 7 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-wauwatosa-wi/
 - Vernon Hills, IL: 7 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-vernon-hills-il/
+- Overland Park, KS: 7 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-overland-park-ks/
 - Irving, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-irving-tx/
 - Grapevine, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-grapevine-tx/
 - Mesquite, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-mesquite-tx/
@@ -100,6 +102,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Merrillville, IN: 6 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-merrillville-in/
 - Downers Grove, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-downers-grove-il/
 - Schaumburg, IL: 6 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-schaumburg-il/
+- Kansas City, KS: 6 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-kansas-city-ks/
 - Edina, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-edina-mn/
 - Douglasville, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-douglasville-ga/
 - Stonecrest, GA: 5 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-stonecrest-ga/
@@ -126,6 +129,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Bolingbrook, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-bolingbrook-il/
 - Evanston, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-evanston-il/
 - Lombard, IL: 4 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-lombard-il/
+- Lenexa, KS: 4 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-lenexa-ks/
 - Maplewood, MN: 4 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-maplewood-mn/
 - Clayton County, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-clayton-county-ga/
 - Dunwoody, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-dunwoody-ga/
@@ -140,6 +144,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Burbank, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-burbank-il/
 - Naperville, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-naperville-il/
 - Deer Park, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-deer-park-il/
+- Merriam, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-merriam-ks/
 - Roswell, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-roswell-ga/
 - Forest Park, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-forest-park-ga/
 - Jonesboro, GA: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-jonesboro-ga/
@@ -173,6 +178,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - South Barrington, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-south-barrington-il/
 - Niles, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-niles-il/
 - Oak Lawn, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-oak-lawn-il/
+- Leavenworth, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-leavenworth-ks/
+- Olathe, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-olathe-ks/
+- Leawood, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-leawood-ks/
+- Gladstone, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-gladstone-mo/
+- Weston, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-weston-mo/
+- Lee'S Summit, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-lees-summit-mo/
+- Liberty, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-liberty-mo/
 - Albertville, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-albertville-mn/
 - Eagan, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-eagan-mn/
 - Fridley, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-fridley-mn/
@@ -256,6 +268,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Homewood, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-homewood-il/
 - Arlington Heights, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-arlington-heights-il/
 - Wilmette, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-wilmette-il/
+- Shawnee, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-shawnee-ks/
+- Oakview, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-oakview-mo/
+- Belton, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-belton-mo/
+- Blue Springs, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-blue-springs-mo/
 - Waterloo, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-waterloo-ne/
 - Papillion, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-papillion-ne/
 - Springfield, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/furniture-store-springfield-ne/
@@ -281,7 +297,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 893
+- Registry businesses competing: 959
 - Equivalent Google Ads cost per month: ~$52,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $50/month, spots 2-4 from $5/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -89,8 +89,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 81. Uno Mas Liquor | Organic #81 | Pulse Score 45.9/100 (Unrated, #81 in city) | Uno Mas Liquor is a liquor store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/uno-mas-liquor-houston/
 82. Spec's | Organic #82 | Pulse Score 45.6/100 (Building, #82 in city) | Spec's is a liquor store in Houston, TX at 22508 Tomball Parkway, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/specs-houston-n8494850016/
 83. Spec's | Organic #83 | Pulse Score 45.4/100 (Building, #83 in city) | Spec's is a liquor store in Houston, TX at 3902 Bissonnet Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/specs-houston-n2333730800/
-84. Zipps Liquor | Organic #84 | Pulse Score 43.5/100 (Unrated, #84 in city) | Zipps Liquor is a liquor store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/zipps-liquor-houston/
-85. Spec's | Organic #85 | Pulse Score 43.4/100 (Building, #85 in city) | Spec's is a liquor store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/specs-houston-n1563343282/
+84. Spec's | Organic #84 | Pulse Score 43.5/100 (Building, #84 in city) | Spec's is a liquor store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/specs-houston-n1563343282/
+85. Zipps Liquor | Organic #85 | Pulse Score 43.5/100 (Unrated, #85 in city) | Zipps Liquor is a liquor store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/zipps-liquor-houston/
 86. Star Liquor | Organic #86 | Pulse Score 42.4/100 (Unrated, #86 in city) | Star Liquor is a liquor store in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/star-liquor-houston/
 
 ## Market data (for advertisers and agents)

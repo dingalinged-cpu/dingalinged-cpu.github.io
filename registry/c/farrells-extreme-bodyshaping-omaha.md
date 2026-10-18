@@ -13,7 +13,7 @@ Farrell's Extreme Bodyshaping is a martial arts school in Omaha, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.2/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Omaha, NE, #3 of 3 martial arts schools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.1/100 — Unrated (not enough evidence yet) — top 100% of martial arts schools in Omaha, NE, #3 of 3 martial arts schools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 40.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

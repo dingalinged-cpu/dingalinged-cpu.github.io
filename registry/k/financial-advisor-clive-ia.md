@@ -6,7 +6,7 @@ Also answers: financial advisor in Clive, IA; financial advisor near me (Clive, 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | Organic #1 | Pulse Score 43/100 (Building, #1 in city) | Edward Jones is a financial advisor in Clive, IA at 1100 73rd Street, Clive, IA 50324. | https://dingalinged-cpu.github.io/registry/c/edward-jones-clive/
+1. Edward Jones | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | Edward Jones is a financial advisor in Clive, IA at 1100 73rd Street, Clive, IA 50324. | https://dingalinged-cpu.github.io/registry/c/edward-jones-clive/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor clive ia | category: Professional & financial services | industry benchmark: Finance & Insurance

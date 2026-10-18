@@ -13,7 +13,7 @@ World Finance is a financial advisor in Douglasville, GA. Website: https://www.l
 - Website: https://www.loansbyworld.com/branches/branch-184
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.6/100 — Building — top 63% of financial advisors in Atlanta, #2 of 2 financial advisors in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.6/100 — Building — top 63% of financial advisors in Atlanta, #2 of 2 financial advisors in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

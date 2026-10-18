@@ -6,7 +6,7 @@ Also answers: funeral home in Whiting, IN; funeral home near me (Whiting, IN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baran Funeral Home | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Baran Funeral Home is a funeral home in Whiting, IN at 1235 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/baran-funeral-home-whiting/
+1. Baran Funeral Home | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Baran Funeral Home is a funeral home in Whiting, IN at 1235 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/baran-funeral-home-whiting/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home whiting in | category: Professional & financial services | industry benchmark: Finance & Insurance

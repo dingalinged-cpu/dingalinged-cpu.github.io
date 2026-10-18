@@ -13,7 +13,7 @@ Free Bikes 4 Kidz is a bike shop in Atlanta, GA at 680 Murphy Avenue Southwest #
 - Website: https://fb4katl.org/
 - Email: volunteer@fb4katl.org
 - Opening hours (OSM syntax): "by appointment"
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 37% of bike shops in Atlanta, #7 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 40% of bike shops in Atlanta, #7 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

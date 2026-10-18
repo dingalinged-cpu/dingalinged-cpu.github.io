@@ -13,7 +13,7 @@ Night Light pediatric urgent care is a podiatrist in Pearland, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 100% of podiatrists in Houston, #1 of 1 podiatrists in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 39.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 100% of podiatrists in Houston, #1 of 1 podiatrists in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 39.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

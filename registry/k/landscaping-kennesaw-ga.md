@@ -6,7 +6,7 @@ Also answers: landscaping in Kennesaw, GA; landscaping near me (Kennesaw, GA); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gold Leaf Landscape | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Gold Leaf Landscape is a landscaping company in Kennesaw, GA at 1983 Old 41 Highway Northwest, Kennesaw, GA. Phone: +16782901311. | https://dingalinged-cpu.github.io/registry/c/gold-leaf-landscape-kennesaw/
+1. Gold Leaf Landscape | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Gold Leaf Landscape is a landscaping company in Kennesaw, GA at 1983 Old 41 Highway Northwest, Kennesaw, GA. Phone: +16782901311. | https://dingalinged-cpu.github.io/registry/c/gold-leaf-landscape-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping kennesaw ga | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

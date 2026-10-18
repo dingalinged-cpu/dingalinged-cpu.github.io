@@ -13,7 +13,7 @@ Barrett Accounting & Tax LLC is an accountant in Lake Zurich, IL. Phone: +184755
 - Website: https://barrettaccountingandtax.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 35% of accountants in Chicago, #1 of 3 accountants in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 51.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 35% of accountants in Chicago, #1 of 3 accountants in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

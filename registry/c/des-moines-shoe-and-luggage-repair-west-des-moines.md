@@ -13,7 +13,7 @@ Des Moines Shoe & Luggage Repair is a shoe repair in West Des Moines, IA at 204 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00; Sa 08:00-12:00
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 50% of shoe repairs in Des Moines, IA, #1 of 1 shoe repairs in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 50% of shoe repairs in Des Moines, IA, #1 of 1 shoe repairs in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Nikka Corporation is a flooring company in Marietta, GA at 2427 Canton Road, Mar
 - Website: https://nikkacorp.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.7/100 — Fair — top 40% of flooring companys in Atlanta, #4 of 6 flooring companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 36% of flooring companys in Atlanta, #4 of 6 flooring companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 51.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

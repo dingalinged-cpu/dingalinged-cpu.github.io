@@ -13,7 +13,7 @@ PHS Locksmith is a locksmith in Oak Park, IL at 6810 West Roosevelt Road, Oak Pa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 78% of locksmiths in Chicago, #1 of 1 locksmiths in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 78% of locksmiths in Chicago, #1 of 1 locksmiths in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 43.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Solterra Landscape is a landscaping company in Cobb County, GA at 308 Wallace Ro
 - Website: https://www.solterralandscape.com/
 - Email: info@solterralandscape.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 09:00-12:00; Su off
-- Pulse Score: 63.6/100 — Good — top 7% of landscaping companys in Atlanta, #1 of 5 landscaping companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 7% of landscaping companys in Atlanta, #1 of 5 landscaping companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

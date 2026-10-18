@@ -13,7 +13,7 @@ Carnation Auto Spa is a car wash in Dallas, TX at 6140 East Mockingbird Lane, Da
 - Website: https://carnationautospa.com/carnation-locations/dallas-mockingbird/
 - Email: hello@carnationautospa.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-20:00; Su 08:00-19:00
-- Pulse Score: 51/100 — Unrated (not enough evidence yet) — top 65% of car washes in Dallas–Fort Worth, #11 of 27 car washes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Unrated (not enough evidence yet) — top 64% of car washes in Dallas–Fort Worth, #11 of 27 car washes in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: landscaping in Magnolia, TX; landscaping near me (Magnolia, TX); b
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Outdoor Perfection Landscaping | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Outdoor Perfection Landscaping is a landscaping company in Magnolia, TX at 27612 FM 2978 Road, Magnolia, TX 77354. Phone: +19363011158. Website: https://oplawns.com/. | https://dingalinged-cpu.github.io/registry/c/outdoor-perfection-landscaping-magnolia/
-2. TNT Stump Grinding | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | TNT Stump Grinding is a landscaping company in Magnolia, TX at 402 Monarch Oaks Drive, Magnolia, TX. Phone: +19362324622. Website: https://a-tntstumpgrinding.com/. | https://dingalinged-cpu.github.io/registry/c/tnt-stump-grinding-magnolia/
+2. TNT Stump Grinding | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | TNT Stump Grinding is a landscaping company in Magnolia, TX at 402 Monarch Oaks Drive, Magnolia, TX. Phone: +19362324622. Website: https://a-tntstumpgrinding.com/. | https://dingalinged-cpu.github.io/registry/c/tnt-stump-grinding-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping magnolia tx | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

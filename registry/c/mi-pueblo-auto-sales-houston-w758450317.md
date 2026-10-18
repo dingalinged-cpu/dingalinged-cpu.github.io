@@ -13,7 +13,7 @@ Mi Pueblo Auto Sales is an used car dealer in Houston, TX at 5411 Airline Drive,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 40% of used car dealers in Houston, #18 of 46 used car dealers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 46.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 41% of used car dealers in Houston, #19 of 46 used car dealers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 46.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

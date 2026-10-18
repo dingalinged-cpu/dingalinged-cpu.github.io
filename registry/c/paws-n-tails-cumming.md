@@ -13,7 +13,7 @@ Paws N Tails is a dog groomer in Cumming, GA at 3020 Old Atlanta Road #Ste 500, 
 - Website: https://pawsntailsga.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 08:00-17:00
-- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 31% of dog groomers in Atlanta, #1 of 1 dog groomers in Cumming (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 31% of dog groomers in Atlanta, #1 of 1 dog groomers in Cumming (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

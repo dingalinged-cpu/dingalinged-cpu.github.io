@@ -13,7 +13,7 @@ Maple Leaf Lawn Care & Pest Control is a pest control company in Cobb County, GA
 - Website: https://www.mapleleaflawnandpest.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 73% of pest control companys in Atlanta, #3 of 5 pest control companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.9/100 — Unrated (not enough evidence yet) — top 73% of pest control companys in Atlanta, #3 of 5 pest control companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ East Towne Ballrooms is a dance studio in Milwaukee, WI. Phone: +14142711002. We
 - Website: https://www.easttowneballrooms.com/
 - Email: etent@mindspring.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of dance studios in Milwaukee, #3 of 12 dance studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of dance studios in Milwaukee, #3 of 12 dance studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Eberhardy & Eberhardy, LLP is a lawyer in South Milwaukee, WI at 2211 10th Avenu
 - Website: https://eberhardylaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 45% of lawyers in Milwaukee, #1 of 1 lawyers in South Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Milwaukee, #1 of 1 lawyers in South Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 50.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

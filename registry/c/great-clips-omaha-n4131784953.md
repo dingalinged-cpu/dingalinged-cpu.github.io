@@ -13,7 +13,7 @@ Great Clips is a hair salon in Omaha, NE at North 108th Street, Omaha, NE 68164.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.1/100 — Building — top 79% of hair salons in Omaha, NE, #45 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 78% of hair salons in Omaha, NE, #44 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

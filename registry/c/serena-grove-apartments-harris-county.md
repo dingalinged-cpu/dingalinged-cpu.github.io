@@ -13,7 +13,7 @@ Serena Grove Apartments is a property management company in Harris County, TX at
 - Website: https://www.villaserenacommunities.com/serena-grove-i
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-18:00; Tu,Th 10:00-18:00; Sa 10:00-17:00; Su 13:00-17:00
-- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 30% of property management companys in Houston, #1 of 6 property management companys in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 30% of property management companys in Houston, #1 of 6 property management companys in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Naperville, IL at 1567 North Aurora Ro
 - Website: https://www.hrblock.com/local-tax-offices/illinois/naperville/1567-n-aurora-rd-ste-103/13185/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00, Sa 09:00-17:00, Su 12:00-16:00
-- Pulse Score: 50.3/100 — Fair — top 20% of tax preparation services in Chicago, #2 of 2 tax preparation services in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 65.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 20% of tax preparation services in Chicago, #2 of 2 tax preparation services in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 65.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

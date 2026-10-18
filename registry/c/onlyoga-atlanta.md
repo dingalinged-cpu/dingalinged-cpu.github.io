@@ -13,7 +13,7 @@ onlYoga is a yoga studio in Atlanta, GA at 1201 Peachtree Street Northeast #110,
 - Website: https://www.onlyoga.com/
 - Email: classes@onlyoga.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.6/100 — Good — top 17% of yoga studios in Atlanta, #1 of 9 yoga studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 17% of yoga studios in Atlanta, #1 of 9 yoga studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

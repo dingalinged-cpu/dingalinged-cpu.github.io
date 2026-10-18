@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Cedar Hill, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Building — top 93% of massage studios in Dallas–Fort Worth, #5 of 5 massage studios in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 40.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.4/100 — Building — top 93% of massage studios in Dallas–Fort Worth, #5 of 5 massage studios in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 40.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

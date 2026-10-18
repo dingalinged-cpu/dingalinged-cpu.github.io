@@ -13,7 +13,7 @@ KATS Airbrush Tanning Studios is a tanning salon in Saint Louis Park, MN at 6510
 - Website: https://katsairbrushtanning.com/home
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 11% of tanning salons in Minneapolis–St. Paul, #1 of 2 tanning salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 11% of tanning salons in Minneapolis–St. Paul, #1 of 2 tanning salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

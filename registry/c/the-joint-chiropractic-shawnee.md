@@ -1,0 +1,24 @@
+The Joint Chiropractic is a chiropractor in Shawnee, KS at 15832 Shawnee Mission Parkway, Shawnee, KS 66217. Phone: +19133476260. Website: https://www.thejoint.com/kansas/shawnee/shawnee-34009.
+
+# The Joint Chiropractic
+
+- Category: chiropractor
+- Services: chiropractor
+- Address: 15832 Shawnee Mission Parkway, Shawnee, KS 66217
+- City: Shawnee
+- State: KS
+- ZIP: 66217
+- Coordinates: 39.0092437, -94.769823
+- Phone: +19133476260
+- Website: https://www.thejoint.com/kansas/shawnee/shawnee-34009
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-14:00,14:45-17:00; Sa 10:00-17:00; Su Off
+- Pulse Score: 48.5/100 — Building — top 100% of chiropractors in Kansas City, MO, #4 of 4 chiropractors in Shawnee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-shawnee/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/the-joint-chiropractic-shawnee.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/1448156772 (license ODbL-1.0); source data as of 2026-06-01
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

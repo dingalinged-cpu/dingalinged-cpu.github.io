@@ -13,7 +13,7 @@ Letsch Law Firm is a lawyer in Polk City, IA at 302 West Broadway Street #9, Pol
 - Website: https://www.letschlawfirm.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 20% of lawyers in Des Moines, IA, #1 of 2 lawyers in Polk City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of lawyers in Des Moines, IA, #1 of 2 lawyers in Polk City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

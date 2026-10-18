@@ -13,7 +13,7 @@ CorePower Yoga is a yoga studio in Chicago, IL at 158 West Washington Street, Ch
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.4/100 — Building — top 82% of yoga studios in Chicago, #23 of 27 yoga studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 84% of yoga studios in Chicago, #24 of 27 yoga studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

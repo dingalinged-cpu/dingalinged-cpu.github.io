@@ -13,7 +13,7 @@ Ronald McDonald ® Children's Hospital is an assisted living facility in Maywood
 - Website: https://www.loyolamedicine.org/locations/ronald-mcdonald-%C2%AE-childrens-hospital
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 6% of assisted living facilitys in Chicago, #1 of 2 assisted living facilitys in Maywood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 6% of assisted living facilitys in Chicago, #1 of 2 assisted living facilitys in Maywood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

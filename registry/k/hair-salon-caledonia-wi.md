@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Sandy's Hair Country | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Sandy's Hair Country is a hair salon in Caledonia, WI at 3108 Six Mile Road, Caledonia, WI. | https://dingalinged-cpu.github.io/registry/c/sandys-hair-country-caledonia/
 2. The Junction Room | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | The Junction Room is a hair salon in Caledonia, WI. | https://dingalinged-cpu.github.io/registry/c/the-junction-room-caledonia/
-3. Cost Cutters | Organic #3 | Pulse Score 42.8/100 (Building, #14 in city) | Cost Cutters is a hair salon in Racine, WI at 5131 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-racine/
+3. Cost Cutters | Organic #3 | Pulse Score 42.8/100 (Building, #13 in city) | Cost Cutters is a hair salon in Racine, WI at 5131 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon caledonia wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

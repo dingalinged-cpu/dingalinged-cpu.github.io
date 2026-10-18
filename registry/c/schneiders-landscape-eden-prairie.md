@@ -13,7 +13,7 @@ Schneider's Landscape is a landscaping company in Eden Prairie, MN at 16051 Berg
 - Website: https://schneiderslandscape.com/
 - Email: info@schneiderslandscape.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Pulse Score: 63.8/100 — Good — top 17% of landscaping companys in Minneapolis–St. Paul, #1 of 1 landscaping companys in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 67.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 17% of landscaping companys in Minneapolis–St. Paul, #1 of 1 landscaping companys in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 67.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

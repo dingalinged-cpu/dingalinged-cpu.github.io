@@ -13,7 +13,7 @@ Shani O. Brooks P.C. Attorneys at Law is a lawyer in Atlanta, GA at 1100 Peachtr
 - Website: https://shanibrookslaw.com/
 - Email: info@shanibrookslaw.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Pulse Score: 61.1/100 — Good — top 17% of lawyers in Atlanta, #9 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 17% of lawyers in Atlanta, #9 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

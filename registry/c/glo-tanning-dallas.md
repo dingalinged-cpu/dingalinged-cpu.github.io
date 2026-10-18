@@ -13,7 +13,7 @@ Glo Tanning is a tanning salon in Dallas, TX at 9440 Garland Road #186, Dallas, 
 - Website: https://www.glotanning.com/location/casa-linda-dallas-tx/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 67% of tanning salons in Dallas–Fort Worth, #1 of 2 tanning salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 50. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 62% of tanning salons in Dallas–Fort Worth, #1 of 2 tanning salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

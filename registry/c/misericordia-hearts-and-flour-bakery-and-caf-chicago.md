@@ -13,7 +13,7 @@ Misericordia Hearts & Flour Bakery and Café is a bakery in Chicago, IL at 6130 
 - Website: https://www.misericordia.com/restaurant-stores/hearts-flour-bakery-and-cafe/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-16:00; Sa 07:00-16:00; Su 07:00-14:00
-- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of bakerys in Chicago, #13 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of bakerys in Chicago, #13 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

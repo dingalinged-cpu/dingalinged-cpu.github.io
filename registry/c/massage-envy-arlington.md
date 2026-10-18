@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Arlington, TX at North Collins Street, Arlin
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.8/100 — Building — top 85% of massage studios in Dallas–Fort Worth, #3 of 3 massage studios in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 85% of massage studios in Dallas–Fort Worth, #3 of 3 massage studios in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

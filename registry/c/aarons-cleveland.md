@@ -13,7 +13,7 @@ Aaron's is a furniture store in Cleveland, TX at 1721 East Houston Street, Cleve
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46/100 — Building — top 70% of furniture stores in Houston, #2 of 2 furniture stores in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46/100 — Building — top 70% of furniture stores in Houston, #2 of 2 furniture stores in Cleveland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

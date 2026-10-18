@@ -13,7 +13,7 @@ Diversified Wealth Management LLC is a financial advisor in Saint Louis Park, MN
 - Website: https://www.diversifiedwealthmanagement.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 18% of financial advisors in Minneapolis–St. Paul, #1 of 3 financial advisors in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 18% of financial advisors in Minneapolis–St. Paul, #1 of 3 financial advisors in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

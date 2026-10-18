@@ -13,7 +13,7 @@ Hurst's Fielder Baker Funeral Home is a funeral home in Farmersville, TX. Websit
 - Website: https://hfbfuneral.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Good — top 34% of funeral homes in Dallas–Fort Worth, #1 of 1 funeral homes in Farmersville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Good — top 34% of funeral homes in Dallas–Fort Worth, #1 of 1 funeral homes in Farmersville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

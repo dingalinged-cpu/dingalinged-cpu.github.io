@@ -13,7 +13,7 @@ Palen Kimball LLC is a HVAC contractor in Saint Paul, MN at 1717 University Aven
 - Website: https://www.palenkimball.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 91% of HVAC contractors in Minneapolis–St. Paul, #7 of 9 HVAC contractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 38.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.3/100 — Unrated (not enough evidence yet) — top 91% of HVAC contractors in Minneapolis–St. Paul, #7 of 9 HVAC contractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 39. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

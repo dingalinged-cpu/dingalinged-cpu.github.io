@@ -13,7 +13,7 @@ Apple Roofing is a roofer in Urbandale, IA at 3934 Northwest Urbandale Drive, Ur
 - Website: https://appleroof.com/des-moines/
 - Email: info@appleroof.com
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 48.5/100 — Building — top 100% of roofers in Des Moines, IA, #2 of 2 roofers in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 100% of roofers in Des Moines, IA, #2 of 2 roofers in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.6, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Prestige Texas Properties is a real estate agency in Carrollton, TX at 2550 E Tr
 - Website: https://housesolutionshq.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 16% of real estate agencys in Dallas–Fort Worth, #1 of 1 real estate agencys in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 16% of real estate agencys in Dallas–Fort Worth, #1 of 1 real estate agencys in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

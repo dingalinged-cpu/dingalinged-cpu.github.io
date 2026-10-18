@@ -13,7 +13,7 @@ Dave's Barbershop is a hair salon in Des Moines, IA at 1445 29th Street, Des Moi
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 56% of hair salons in Des Moines, IA, #27 of 34 hair salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 55% of hair salons in Des Moines, IA, #27 of 34 hair salons in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Haute Dog is a dog groomer in White Bear Lake, MN at 995 Wildwood Road, White Be
 - Website: https://www.hautedogspa.com/whitebear
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 08:00-16:00
-- Pulse Score: 61.4/100 — Good — top 28% of dog groomers in Minneapolis–St. Paul, #1 of 3 dog groomers in White Bear Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 28% of dog groomers in Minneapolis–St. Paul, #1 of 3 dog groomers in White Bear Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

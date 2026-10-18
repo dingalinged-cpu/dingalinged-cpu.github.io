@@ -13,7 +13,7 @@ Physio is a physical therapy clinic in Cobb County, GA. Website: https://www.phy
 - Website: https://www.physiopt.com/contact/find-a-location/ga/kennesaw/kennesaw-town-center/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 76% of physical therapy clinics in Atlanta, #9 of 10 physical therapy clinics in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 45.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Unrated (not enough evidence yet) — top 76% of physical therapy clinics in Atlanta, #9 of 10 physical therapy clinics in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Tiffany's Dessert Bar is a bakery in Glendale, WI at 460 West Silver Spring Driv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 61% of bakerys in Milwaukee, #1 of 1 bakerys in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 61% of bakerys in Milwaukee, #1 of 1 bakerys in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -12,7 +12,7 @@
    {
     "keyword": "event venues edgerton ks",
     "slug": "event-venues-edgerton-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#event-venues-edgerton-ks",
+    "url": "https://dingalinged-cpu.github.io/registry/k/event-venues-edgerton-ks/",
     "us_monthly_searches": 220000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 1500,
@@ -21,13 +21,13 @@
     "search_value_index_usd": 11000,
     "equivalent_google_ads_cost_month_usd": 830,
     "featured_spot_min_usd": 20,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
     "keyword": "gift shop edgerton ks",
     "slug": "gift-shop-edgerton-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#gift-shop-edgerton-ks",
+    "url": "https://dingalinged-cpu.github.io/registry/k/gift-shop-edgerton-ks/",
     "us_monthly_searches": 18000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 120,
@@ -36,13 +36,13 @@
     "search_value_index_usd": 500,
     "equivalent_google_ads_cost_month_usd": 44.0,
     "featured_spot_min_usd": 10,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    },
    {
     "keyword": "liquor store edgerton ks",
     "slug": "liquor-store-edgerton-ks",
-    "url": "https://dingalinged-cpu.github.io/registry/view/market.html#liquor-store-edgerton-ks",
+    "url": "https://dingalinged-cpu.github.io/registry/k/liquor-store-edgerton-ks/",
     "us_monthly_searches": 140000,
     "us_volume_method": "estimate",
     "local_monthly_searches_est": 930,
@@ -51,7 +51,7 @@
     "search_value_index_usd": 3900,
     "equivalent_google_ads_cost_month_usd": 340,
     "featured_spot_min_usd": 10,
-    "registry_competitors": 0,
+    "registry_competitors": 1,
     "ranked_by": "by_cpc"
    }
   ],

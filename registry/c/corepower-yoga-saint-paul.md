@@ -13,7 +13,7 @@ CorePower Yoga is a yoga studio in Saint Paul, MN. Phone: +16512251096. Website:
 - Website: https://www.corepoweryoga.com/yoga-studios/minnesota/st-paul/grand-avenuest-paul
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 45.9/100 — Building — top 90% of yoga studios in Minneapolis–St. Paul, #7 of 7 yoga studios in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46/100 — Building — top 90% of yoga studios in Minneapolis–St. Paul, #7 of 7 yoga studios in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 51.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

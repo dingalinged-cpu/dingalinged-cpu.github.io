@@ -13,7 +13,7 @@ Linden Hills Bike Shop is a bike shop in Minneapolis, MN at 3308 West 44th Stree
 - Website: https://www.lindenhillsbikeshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): We,Su 11:00-17:00; Th-Sa 11:00-19:00
-- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 58% of bike shops in Minneapolis–St. Paul, #14 of 15 bike shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 45.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 58% of bike shops in Minneapolis–St. Paul, #14 of 15 bike shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

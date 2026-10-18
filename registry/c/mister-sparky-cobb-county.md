@@ -13,7 +13,7 @@ Mister Sparky is an electrician in Cobb County, GA at 2064 Canton Road Northeast
 - Website: https://www.mistersparky.com/atlanta/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Pulse Score: 61.5/100 — Good — top 24% of electricians in Atlanta, #1 of 2 electricians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 24% of electricians in Atlanta, #1 of 2 electricians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

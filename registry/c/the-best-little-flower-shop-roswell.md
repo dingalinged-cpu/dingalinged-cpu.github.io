@@ -13,7 +13,7 @@ The Best Little Flower Shop is a florist in Roswell, GA at 10800 Alpharetta High
 - Website: https://www.bestlittleflowershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of florists in Atlanta, #1 of 1 florists in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 50% of florists in Atlanta, #1 of 1 florists in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

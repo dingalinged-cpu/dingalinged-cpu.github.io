@@ -13,7 +13,7 @@ Ashlee's Creative Arts Academy is a dance studio in Polk City, IA at 101 South 2
 - Website: https://www.ashleescreativeartsacademy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 16:00-20:00
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 36% of dance studios in Des Moines, IA, #2 of 2 dance studios in Polk City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 36% of dance studios in Des Moines, IA, #2 of 2 dance studios in Polk City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

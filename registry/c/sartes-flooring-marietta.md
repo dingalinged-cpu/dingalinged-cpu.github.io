@@ -13,7 +13,7 @@ Sartes Flooring is a flooring company in Marietta, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 56% of flooring companys in Atlanta, #6 of 6 flooring companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 43.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 52% of flooring companys in Atlanta, #6 of 6 flooring companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 43.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Brilliant Electric Heating & Cooling is a HVAC contractor in Niles, IL at 7501 N
 - Website: https://callbrilliant.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 43% of HVAC contractors in Chicago, #1 of 1 HVAC contractors in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 43% of HVAC contractors in Chicago, #1 of 1 HVAC contractors in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 50. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

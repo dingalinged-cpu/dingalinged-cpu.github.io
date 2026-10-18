@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43/100 — Building — top 78% of tax preparation services in Madison, #11 of 13 tax preparation services in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43/100 — Building — top 78% of tax preparation services in Madison, #11 of 13 tax preparation services in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 44.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

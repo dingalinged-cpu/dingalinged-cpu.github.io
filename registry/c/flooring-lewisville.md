@@ -13,7 +13,7 @@ Flooring is a flooring company in Lewisville, TX at 2680 Denton Tap Road #105, L
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:30; Sa 10:00-16:00; Su off
-- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 23% of flooring companys in Dallas–Fort Worth, #2 of 4 flooring companys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 23% of flooring companys in Dallas–Fort Worth, #2 of 4 flooring companys in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

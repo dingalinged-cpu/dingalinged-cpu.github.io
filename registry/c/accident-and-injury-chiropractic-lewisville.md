@@ -13,7 +13,7 @@ Accident & Injury Chiropractic is a chiropractor in Lewisville, TX. Phone: +1972
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 09:30-13:00,14:00-18:30; Th 13:30-18:30; Sa 09:00-12:00; PH closed
-- Pulse Score: 62/100 — Good — top 12% of chiropractors in Dallas–Fort Worth, #2 of 10 chiropractors in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Good — top 12% of chiropractors in Dallas–Fort Worth, #2 of 10 chiropractors in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

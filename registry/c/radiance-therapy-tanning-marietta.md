@@ -13,7 +13,7 @@ Radiance Therapy Tanning is a tanning salon in Marietta, GA at 2100 Roswell Road
 - Website: https://radiancetherapytanning.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:30-20:00; Sa 10:30-19:00; Su 12:00-16:00
-- Pulse Score: 64.4/100 — Good — top 15% of tanning salons in Atlanta, #2 of 2 tanning salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 15% of tanning salons in Atlanta, #2 of 2 tanning salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 65. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

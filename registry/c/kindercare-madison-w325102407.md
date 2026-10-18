@@ -13,7 +13,7 @@ KinderCare is a preschool in Madison, WI at 7126 Old Sauk Road, Madison, WI 5371
 - Website: https://www.kindercare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
-- Pulse Score: 49.4/100 — Building — top 50% of preschools in Madison, #7 of 11 preschools in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 50% of preschools in Madison, #7 of 11 preschools in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

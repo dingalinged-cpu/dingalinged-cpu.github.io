@@ -6,8 +6,8 @@ Also answers: assisted living in North Richland Hills, TX; assisted living near 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Villas on Bear Creek | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Villas on Bear Creek is an assisted living facility in North Richland Hills, TX at 8009 Davis Boulevard, North Richland Hills, TX 76182. | https://dingalinged-cpu.github.io/registry/c/villas-on-bear-creek-north-richland-hills/
-2. Watermere at the Preserve Apartments | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Watermere at the Preserve Apartments is an assisted living facility in North Richland Hills, TX. Website: https://www.integratedseniorlifestyles.com/senior-living/tx/north-richland-hills/davis-blvd/. | https://dingalinged-cpu.github.io/registry/c/watermere-at-the-preserve-apartments-north-richland-hills/
+1. Villas on Bear Creek | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Villas on Bear Creek is an assisted living facility in North Richland Hills, TX at 8009 Davis Boulevard, North Richland Hills, TX 76182. | https://dingalinged-cpu.github.io/registry/c/villas-on-bear-creek-north-richland-hills/
+2. Watermere at the Preserve Apartments | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Watermere at the Preserve Apartments is an assisted living facility in North Richland Hills, TX. Website: https://www.integratedseniorlifestyles.com/senior-living/tx/north-richland-hills/davis-blvd/. | https://dingalinged-cpu.github.io/registry/c/watermere-at-the-preserve-apartments-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living north richland hills tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

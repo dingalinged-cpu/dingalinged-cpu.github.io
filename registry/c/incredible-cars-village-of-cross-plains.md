@@ -13,7 +13,7 @@ Incredible Cars is an used car dealer in Village of Cross Plains, WI at 2563 Mai
 - Website: n/a
 - Email: sales@buyincrediblecars.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 23% of used car dealers in Madison, #1 of 1 used car dealers in Village of Cross Plains (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 23% of used car dealers in Madison, #1 of 1 used car dealers in Village of Cross Plains (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

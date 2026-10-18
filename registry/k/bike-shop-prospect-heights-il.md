@@ -6,7 +6,7 @@ Also answers: bike shop in Prospect Heights, IL; bike shop near me (Prospect Hei
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Village CycleSport | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Village CycleSport is a bike shop in Prospect Heights, IL at 1326 N. Rand Rd., Prospect Heights, IL 60004. Website: https://www.villagecyclesport.com/. | https://dingalinged-cpu.github.io/registry/c/village-cyclesport-prospect-heights/
+1. Village CycleSport | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Village CycleSport is a bike shop in Prospect Heights, IL at 1326 N. Rand Rd., Prospect Heights, IL 60004. Website: https://www.villagecyclesport.com/. | https://dingalinged-cpu.github.io/registry/c/village-cyclesport-prospect-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop prospect heights il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

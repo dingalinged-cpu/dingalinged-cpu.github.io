@@ -13,7 +13,7 @@ The UPS Store is a printing service in Dallas, TX at 9540 Garland Road #381, Dal
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.1/100 — Building — top 78% of printing services in Dallas–Fort Worth, #16 of 20 printing services in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 45. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 79% of printing services in Dallas–Fort Worth, #16 of 20 printing services in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28, Trust 45.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Tiny's Milk & Cookies is a bakery in West University Place, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 82% of bakerys in Houston, #1 of 1 bakerys in West University Place (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 41.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 81% of bakerys in Houston, #1 of 1 bakerys in West University Place (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 41.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

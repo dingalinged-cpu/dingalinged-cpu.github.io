@@ -13,7 +13,7 @@ Caledonia Veterinary Clinic is a veterinarian in Caledonia, WI at 4338, Caledoni
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 79% of veterinarians in Milwaukee, #1 of 2 veterinarians in Caledonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 79% of veterinarians in Milwaukee, #1 of 2 veterinarians in Caledonia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 40.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

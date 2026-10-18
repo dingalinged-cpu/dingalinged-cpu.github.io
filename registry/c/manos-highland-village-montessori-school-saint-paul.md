@@ -13,7 +13,7 @@ Mano's Highland Village Montessori School is a preschool in Saint Paul, MN at 18
 - Website: https://www.highlandvillagemontessorichildcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 11% of preschools in Minneapolis–St. Paul, #1 of 9 preschools in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 11% of preschools in Minneapolis–St. Paul, #1 of 9 preschools in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

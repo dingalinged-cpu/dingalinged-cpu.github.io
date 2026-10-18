@@ -6,7 +6,7 @@ Also answers: tailor in Omaha, NE; tailor near me (Omaha, NE); best tailor Omaha
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Maple Tailors & Cleaners | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Maple Tailors & Cleaners is a tailor in Omaha, NE at 11111 Emmet Street, Omaha, NE 68164. Phone: +14025713773. Website: https://mapletailorsandcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/maple-tailors-and-cleaners-omaha/
+1. Maple Tailors & Cleaners | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Maple Tailors & Cleaners is a tailor in Omaha, NE at 11111 Emmet Street, Omaha, NE 68164. Phone: +14025713773. Website: https://mapletailorsandcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/maple-tailors-and-cleaners-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor omaha ne | category: Professional & financial services | industry benchmark: Finance & Insurance

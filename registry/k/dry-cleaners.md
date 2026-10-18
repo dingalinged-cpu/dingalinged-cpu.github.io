@@ -1,4 +1,4 @@
-The top unpaid dry cleaners listing for the United States is US Cleaners (a dry cleaner in New Berlin, WI at 3616 South Moorland Road, New Berlin, WI 53151. Phone: +12627821188). 742 dry cleaners businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for the United States is US Cleaners (a dry cleaner in New Berlin, WI at 3616 South Moorland Road, New Berlin, WI 53151. Phone: +12627821188). 779 dry cleaners businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in the United States?
 
@@ -24,8 +24,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 16. Oaks Cleaners | Organic #16 | Pulse Score 64/100 (Unrated, #1 in city) | Oaks Cleaners is a dry cleaner in Arlington, TX at 1112 North Fielder Road, Arlington, TX 76012. Phone: +18172748729. Website: https://www.oakscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/oaks-cleaners-arlington/
 17. Wildcat Cleaners | Organic #17 | Pulse Score 64/100 (Unrated, #1 in city) | Wildcat Cleaners is a dry cleaner in Dallas, TX at 9330 Lookout Point #166, Dallas, TX 75231. Phone: +19728509444. Website: https://wildcatcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/wildcat-cleaners-dallas/
 18. TC Cleaners | Organic #18 | Pulse Score 63.9/100 (Unrated, #1 in city) | TC Cleaners is a dry cleaner in Kingwood, TX at 25639 Eastex Freeway #105, Kingwood, TX 77339. Phone: +12813546201. | https://dingalinged-cpu.github.io/registry/c/tc-cleaners-kingwood/
-19. Dapper Cleaners & Alterations | Organic #19 | Pulse Score 63.8/100 (Unrated, #1 in city) | Dapper Cleaners & Alterations is a dry cleaner in McKinney, TX at 9245 Virginia Parkway #600, McKinney, TX. Phone: +12148428147. Website: https://www.dappercleaner.com/. | https://dingalinged-cpu.github.io/registry/c/dapper-cleaners-and-alterations-mckinney/
-20. Bond One Hour Cleaners & Laundry | Organic #20 | Pulse Score 63.7/100 (Unrated, #2 in city) | Bond One Hour Cleaners & Laundry is a dry cleaner in Arlington, TX at 138 South Bowen Road, Arlington, TX 76012. Phone: +18172770121. | https://dingalinged-cpu.github.io/registry/c/bond-one-hour-cleaners-and-laundry-arlington/
+19. Bond One Hour Cleaners & Laundry | Organic #19 | Pulse Score 63.8/100 (Unrated, #2 in city) | Bond One Hour Cleaners & Laundry is a dry cleaner in Arlington, TX at 138 South Bowen Road, Arlington, TX 76012. Phone: +18172770121. | https://dingalinged-cpu.github.io/registry/c/bond-one-hour-cleaners-and-laundry-arlington/
+20. Dapper Cleaners & Alterations | Organic #20 | Pulse Score 63.8/100 (Unrated, #1 in city) | Dapper Cleaners & Alterations is a dry cleaner in McKinney, TX at 9245 Virginia Parkway #600, McKinney, TX. Phone: +12148428147. Website: https://www.dappercleaner.com/. | https://dingalinged-cpu.github.io/registry/c/dapper-cleaners-and-alterations-mckinney/
 21. Fabric Touch Cleaners | Organic #21 | Pulse Score 63.6/100 (Good, #1 in city) | Fabric Touch Cleaners is a dry cleaner in Woodstock, GA at 2990 Eagle Drive #112, Woodstock, GA. Phone: +17709268399. | https://dingalinged-cpu.github.io/registry/c/fabric-touch-cleaners-woodstock/
 22. Mr. Cleaners | Organic #22 | Pulse Score 63.6/100 (Good, #1 in city) | Mr. Cleaners is a dry cleaner in Cherokee County, GA at 5505 Bells Ferry Road #100, Cherokee County, GA. Phone: +17705170300. | https://dingalinged-cpu.github.io/registry/c/mr-cleaners-cherokee-county/
 23. Four Seasons Dry Cleaners and Laundry | Organic #23 | Pulse Score 63.6/100 (Unrated, #1 in city) | Four Seasons Dry Cleaners and Laundry is a dry cleaner in Carrollton, TX at North Josey Lane, Carrollton, TX. Phone: +19724461446. Website: https://www.dallasweclean.com/. | https://dingalinged-cpu.github.io/registry/c/four-seasons-dry-cleaners-and-laundry-carrollton/
@@ -52,12 +52,12 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 44. Spring Dry Cleaners | Organic #44 | Pulse Score 62.7/100 (Good, #3 in city) | Spring Dry Cleaners is a dry cleaner in Marietta, GA at 1362 Terrell Mill Road Southeast, Marietta, GA 30067. Phone: +17709161004. | https://dingalinged-cpu.github.io/registry/c/spring-dry-cleaners-marietta/
 45. P-D-Q Dry Clean City | Organic #45 | Pulse Score 62.7/100 (Unrated, #1 in city) | P-D-Q Dry Clean City is a dry cleaner in North Richland Hills, TX at 8401 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18175037788. | https://dingalinged-cpu.github.io/registry/c/p-d-q-dry-clean-city-north-richland-hills/
 46. Stan Cleaners | Organic #46 | Pulse Score 62.7/100 (Unrated, #3 in city) | Stan Cleaners is a dry cleaner in Houston, TX at 3808 North Shepherd Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/stan-cleaners-houston/
-47. Division Cleaners | Organic #47 | Pulse Score 62.7/100 (Unrated, #8 in city) | Division Cleaners is a dry cleaner in Chicago, IL at 1508 West Division Street, Chicago, IL 60642. Phone: +17736986208. | https://dingalinged-cpu.github.io/registry/c/division-cleaners-chicago/
-48. Burbank Cleaners & Alterations | Organic #48 | Pulse Score 62.6/100 (Unrated, #4 in city) | Burbank Cleaners & Alterations is a dry cleaner in Houston, TX at 101 Tidwell Road #B, Houston, TX 77076. | https://dingalinged-cpu.github.io/registry/c/burbank-cleaners-and-alterations-houston/
-49. Chicago Wedding Dress Cleaners | Organic #49 | Pulse Score 62.6/100 (Unrated, #1 in city) | Chicago Wedding Dress Cleaners is a dry cleaner in Naperville, IL at 1809 Wehrli Road, Naperville, IL 60565. Phone: +16304450603. Website: https://chicagoweddingdresscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-wedding-dress-cleaners-naperville/
-50. Klinke Cleaners - Monroe | Organic #50 | Pulse Score 62.6/100 (Unrated, #1 in city) | Klinke Cleaners - Monroe is a dry cleaner in Madison, WI at 2502 Monroe Street, Madison, WI 53711. Phone: +16082335099. Website: https://klinkecleaners.com/locations/madison-area/monroe-street/. | https://dingalinged-cpu.github.io/registry/c/klinke-cleaners-monroe-madison/
+47. Nature's Touch Cleaners | Organic #47 | Pulse Score 62.7/100 (Unrated, #1 in city) | Nature's Touch Cleaners is a dry cleaner in Lenexa, KS at 10117 Stevenson Street, Lenexa, KS 66220. Phone: +19137801877. Website: https://www.naturestouchkc.com/. | https://dingalinged-cpu.github.io/registry/c/natures-touch-cleaners-lenexa/
+48. Nature's Touch Cleaners | Organic #48 | Pulse Score 62.7/100 (Unrated, #1 in city) | Nature's Touch Cleaners is a dry cleaner in Overland Park, KS at 8073 West 159th Street, Overland Park, KS 66223. Phone: +19138318989. Website: https://www.naturestouchkc.com/locations. | https://dingalinged-cpu.github.io/registry/c/natures-touch-cleaners-overland-park/
+49. Division Cleaners | Organic #49 | Pulse Score 62.7/100 (Unrated, #8 in city) | Division Cleaners is a dry cleaner in Chicago, IL at 1508 West Division Street, Chicago, IL 60642. Phone: +17736986208. | https://dingalinged-cpu.github.io/registry/c/division-cleaners-chicago/
+50. Burbank Cleaners & Alterations | Organic #50 | Pulse Score 62.6/100 (Unrated, #4 in city) | Burbank Cleaners & Alterations is a dry cleaner in Houston, TX at 101 Tidwell Road #B, Houston, TX 77076. | https://dingalinged-cpu.github.io/registry/c/burbank-cleaners-and-alterations-houston/
 
-## More dry cleaners listings (742 total; top 50 unpaid shown)
+## More dry cleaners listings (779 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/dry-cleaners.jsonl
 - Chicago, IL: 97 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-chicago-il/
 - Houston, TX: 69 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-houston-tx/
@@ -65,6 +65,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Harris County, TX: 27 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-harris-county-tx/
 - Cobb County, GA: 24 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-cobb-county-ga/
 - Atlanta, GA: 24 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-atlanta-ga/
+- Kansas City, MO: 17 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-kansas-city-mo/
 - Milwaukee, WI: 16 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-milwaukee-wi/
 - Minneapolis, MN: 13 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-minneapolis-mn/
 - Marietta, GA: 11 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-marietta-ga/
@@ -113,6 +114,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - La Grange, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-la-grange-il/
 - Downers Grove, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-downers-grove-il/
 - Brookfield, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-brookfield-il/
+- Shawnee, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-shawnee-ks/
+- Lenexa, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-lenexa-ks/
+- Overland Park, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-overland-park-ks/
 - Eden Prairie, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-eden-prairie-mn/
 - Corinth, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-corinth-tx/
 - Forney, TX: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-forney-tx/
@@ -136,6 +140,9 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Middleton, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-middleton-wi/
 - Sun Prairie, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-sun-prairie-wi/
 - Glendale, WI: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-glendale-wi/
+- Kansas City, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-kansas-city-ks/
+- Olathe, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-olathe-ks/
+- Prairie Village, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-prairie-village-ks/
 - Chanhassen, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-chanhassen-mn/
 - West Saint Paul, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-west-saint-paul-mn/
 - Chaska, MN: 2 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-chaska-mn/
@@ -239,6 +246,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Town Of Middleton, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-town-of-middleton-wi/
 - Franklin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-franklin-wi/
 - New Berlin, WI: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-new-berlin-wi/
+- Lansing, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-lansing-ks/
 - Eagan, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-eagan-mn/
 - Vadnais Heights, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-vadnais-heights-mn/
 - Tonka Bay, MN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-tonka-bay-mn/
@@ -256,6 +264,10 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Johnston, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-johnston-ia/
 - Urbandale, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-urbandale-ia/
 - Clive, IA: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-clive-ia/
+- Gladstone, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-gladstone-mo/
+- Platte City, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-platte-city-mo/
+- Belton, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-belton-mo/
+- Independence, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-independence-mo/
 - Schererville, IN: 1 listings: https://dingalinged-cpu.github.io/registry/k/dry-cleaners-schererville-in/
 
 ## Market data (for advertisers and agents)
@@ -264,7 +276,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $3.39, median $3.39, high $3.46 (Finance & Insurance median CPC 2026 $3.39 [https://www.localiq.com/blog/search-advertising-benchmarks]; Finance & Insurance median CPC 2025 $3.46 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: low (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 742
+- Registry businesses competing: 779
 - Equivalent Google Ads cost per month: ~$62,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -6,7 +6,7 @@ Also answers: roofing contractor in Minnetonka, MN; roofing contractor near me (
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. eRoof | Organic #1 | Pulse Score 61.2/100 (Good, #1 in city) | eRoof is a roofer in Minnetonka, MN at 5909 Baker Road #570, Minnetonka, MN 55345. Phone: +16123544490. Website: https://eroofquote.com/. | https://dingalinged-cpu.github.io/registry/c/eroof-minnetonka/
+1. eRoof | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | eRoof is a roofer in Minnetonka, MN at 5909 Baker Road #570, Minnetonka, MN 55345. Phone: +16123544490. Website: https://eroofquote.com/. | https://dingalinged-cpu.github.io/registry/c/eroof-minnetonka/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor minnetonka mn | category: Home services - Roofing | industry benchmark: Home & Home Improvement

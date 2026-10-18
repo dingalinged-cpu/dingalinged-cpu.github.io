@@ -9,8 +9,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 1. Triple Check Electric | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Triple Check Electric is an electrician in Omaha, NE at 11909 Arbor Street, Omaha, NE 68144. Phone: +14024313025. Website: https://www.calltriplecheck.com/. | https://dingalinged-cpu.github.io/registry/c/triple-check-electric-omaha/
 2. Schnackel Engineers Inc. | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Schnackel Engineers Inc. is an electrician in Omaha, NE at 3035 South 72nd Street, Omaha, NE 68124. Phone: +14023917680. Website: https://schnackel.com/. | https://dingalinged-cpu.github.io/registry/c/schnackel-engineers-inc-omaha/
 3. Thompson | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Thompson is an electrician in Omaha, NE at 3505 South 61st Avenue, Omaha, NE 68106. Phone: +14028919480. Website: https://www.thompsonknows.com/. | https://dingalinged-cpu.github.io/registry/c/thompson-omaha/
-4. Aurora Technology Inc. | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Aurora Technology Inc. is an electrician in Omaha, NE at 3720 Aurora Drive, Omaha, NE 68134. | https://dingalinged-cpu.github.io/registry/c/aurora-technology-inc-omaha/
-5. Electric Machinery Service | Organic #5 | Pulse Score 53.9/100 (Unrated, #5 in city) | Electric Machinery Service is an electrician in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/electric-machinery-service-omaha/
+4. Aurora Technology Inc. | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Aurora Technology Inc. is an electrician in Omaha, NE at 3720 Aurora Drive, Omaha, NE 68134. | https://dingalinged-cpu.github.io/registry/c/aurora-technology-inc-omaha/
+5. Electric Machinery Service | Organic #5 | Pulse Score 54/100 (Unrated, #5 in city) | Electric Machinery Service is an electrician in Omaha, NE. | https://dingalinged-cpu.github.io/registry/c/electric-machinery-service-omaha/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician omaha ne | category: Home services - Electrical | industry benchmark: Home & Home Improvement

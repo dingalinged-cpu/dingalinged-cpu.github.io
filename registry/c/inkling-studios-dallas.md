@@ -13,7 +13,7 @@ Inkling Studios is a tattoo shop in Dallas, TX at 4116 Live Oak Street, Dallas, 
 - Website: https://inklingtattoo.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 41% of tattoo shops in Dallas–Fort Worth, #10 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 39% of tattoo shops in Dallas–Fort Worth, #10 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 52.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Historic Hollywood Cemetary, Inc. is a funeral home in Houston, TX at 3506 North
 - Website: n/a
 - Email: info@hhcemetery.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 24% of funeral homes in Houston, #3 of 10 funeral homes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 24% of funeral homes in Houston, #3 of 10 funeral homes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

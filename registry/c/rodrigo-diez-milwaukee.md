@@ -13,7 +13,7 @@ Rodrigo Diez is a tax preparation service in Milwaukee, WI at 830 West Historic 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 26% of tax preparation services in Milwaukee, #8 of 24 tax preparation services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 46.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 26% of tax preparation services in Milwaukee, #8 of 24 tax preparation services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 46.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

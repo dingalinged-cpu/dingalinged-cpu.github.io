@@ -13,7 +13,7 @@ Caddo Office Reimagined is a coworking space in Allen, TX at 550 South Watters R
 - Website: https://caddooffices.com/locations/allen-office-spaces/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Unrated (not enough evidence yet) — top 97% of coworking spaces in Dallas–Fort Worth, #1 of 1 coworking spaces in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.1, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 97% of coworking spaces in Dallas–Fort Worth, #1 of 1 coworking spaces in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

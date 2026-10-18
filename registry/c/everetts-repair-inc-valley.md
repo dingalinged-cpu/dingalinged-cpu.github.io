@@ -13,7 +13,7 @@ Everett's Repair Inc. is an auto repair shop in Valley, NE at 207 East Valley St
 - Website: https://www.everettsauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 25% of auto repair shops in Omaha, NE, #1 of 1 auto repair shops in Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 24% of auto repair shops in Omaha, NE, #1 of 1 auto repair shops in Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

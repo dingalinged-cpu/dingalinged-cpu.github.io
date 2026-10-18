@@ -13,7 +13,7 @@ Ovation Chai Point is an assisted living facility in Milwaukee, WI at 1400 North
 - Website: https://ovation.org/communities/ovation-chai-point/
 - Email: info@ovation.org
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 64.8/100 — Good — top 7% of assisted living facilitys in Milwaukee, #2 of 13 assisted living facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 7% of assisted living facilitys in Milwaukee, #2 of 13 assisted living facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 66.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -6,7 +6,7 @@ Also answers: therapist in Ankeny, IA; therapist near me (Ankeny, IA); best ther
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ankeny Family Counseling | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Ankeny Family Counseling is a therapy practice in Ankeny, IA at 1850 Southwest Plaza Shops Lane #Suite D, Ankeny, IA 50023. Phone: +15155081150. Website: https://ankenyfamilycounseling.com/. | https://dingalinged-cpu.github.io/registry/c/ankeny-family-counseling-ankeny/
+1. Ankeny Family Counseling | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Ankeny Family Counseling is a therapy practice in Ankeny, IA at 1850 Southwest Plaza Shops Lane #Suite D, Ankeny, IA 50023. Phone: +15155081150. Website: https://ankenyfamilycounseling.com/. | https://dingalinged-cpu.github.io/registry/c/ankeny-family-counseling-ankeny/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist ankeny ia | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

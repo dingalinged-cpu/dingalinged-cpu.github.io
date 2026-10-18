@@ -7,7 +7,7 @@ Also answers: physical therapy in Eagan, MN; physical therapy near me (Eagan, MN
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Joy | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Joy is a physical therapy clinic in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/joy-eagan/
-2. viverant | Organic #2 | Pulse Score 43.3/100 (Unrated, #2 in city) | viverant is a physical therapy clinic in Eagan, MN at 3365 #100, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/viverant-eagan/
+2. viverant | Organic #2 | Pulse Score 43.4/100 (Unrated, #2 in city) | viverant is a physical therapy clinic in Eagan, MN at 3365 #100, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/viverant-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy eagan mn | category: Health & medical | industry benchmark: Physicians & Surgeons

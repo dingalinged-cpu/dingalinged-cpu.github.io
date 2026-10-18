@@ -13,7 +13,7 @@ Falk Legal Group is a lawyer in Milwaukee, WI at 1037 North Astor Street, Milwau
 - Website: https://falklegal.com/
 - Email: info@falklegal.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62.6/100 — Good — top 3% of lawyers in Milwaukee, #2 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 4% of lawyers in Milwaukee, #3 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

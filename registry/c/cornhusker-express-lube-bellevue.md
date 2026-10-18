@@ -13,7 +13,7 @@ Cornhusker Express Lube is an auto repair shop in Bellevue, NE.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 10:00-16:00
-- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 50% of auto repair shops in Omaha, NE, #2 of 11 auto repair shops in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 48% of auto repair shops in Omaha, NE, #2 of 11 auto repair shops in Bellevue (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

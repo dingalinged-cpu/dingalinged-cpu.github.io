@@ -13,7 +13,7 @@ Mr. Electric is an electrician in Naperville, IL at 1750 Ogden Avenue, Napervill
 - Website: https://mrelectric.com/naperville/naperville
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.4/100 — Building — top 100% of electricians in Chicago, #1 of 1 electricians in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 100% of electricians in Chicago, #1 of 1 electricians in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

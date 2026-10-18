@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Lickbike.com | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Lickbike.com is a bike shop in Oak Park, IL at 310 Lake Street #B, Oak Park, IL 60302. Phone: +17083832130. Website: https://www.lickbike.com/. | https://dingalinged-cpu.github.io/registry/c/lickbike-com-oak-park/
 3. Element Multisport | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Element Multisport is a bike shop in Oak Park, IL at 1101 Chicago Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/element-multisport-oak-park/
 4. Bikefix | Organic #4 | Pulse Score 46.6/100 (Unrated, #4 in city) | Bikefix is a bike shop in Oak Park, IL at 310 Lake Street #A, Oak Park, IL 60302. Phone: +17084458760. Website: https://bikefixinc.com/. | https://dingalinged-cpu.github.io/registry/c/bikefix-oak-park/
-5. Wheel & Sprocket | Organic #5 | Pulse Score 45.6/100 (Unrated, #5 in city) | Wheel & Sprocket is a bike shop in Oak Park, IL at 1118 Westgate Street, Oak Park, IL 60301. Website: https://wheelandsprocket.com/. | https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-oak-park/
+5. Wheel & Sprocket | Organic #5 | Pulse Score 45.7/100 (Unrated, #5 in city) | Wheel & Sprocket is a bike shop in Oak Park, IL at 1118 Westgate Street, Oak Park, IL 60301. Website: https://wheelandsprocket.com/. | https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop oak park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

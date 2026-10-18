@@ -13,7 +13,7 @@ Taylormade Kitchens is a cabinet maker in Naperville, IL at 1007 West Ogden Aven
 - Website: https://www.kitchensbytaylormade.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 62/100 — Good — top 100% of cabinet makers in Chicago, #1 of 1 cabinet makers in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Good — top 100% of cabinet makers in Chicago, #1 of 1 cabinet makers in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

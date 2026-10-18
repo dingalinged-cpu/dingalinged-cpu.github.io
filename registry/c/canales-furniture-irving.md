@@ -13,7 +13,7 @@ Canales Furniture is a furniture store in Irving, TX at 3560 West Airport Freewa
 - Website: https://www.canalesfurnitureusa.com/
 - Email: marketing@canalesfurniture.com
 - Opening hours (OSM syntax): Mo-Su 08:00-22:00
-- Pulse Score: 52.1/100 — Unrated (not enough evidence yet) — top 53% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.1/100 — Unrated (not enough evidence yet) — top 52% of furniture stores in Dallas–Fort Worth, #4 of 6 furniture stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

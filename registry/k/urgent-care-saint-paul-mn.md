@@ -6,7 +6,7 @@ Also answers: urgent care in Saint Paul, MN; urgent care near me (Saint Paul, MN
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Healthpartners Como | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Healthpartners Como is an urgent care clinic in Saint Paul, MN at 2500 Como Avenue, Saint Paul, MN 55108. | https://dingalinged-cpu.github.io/registry/c/healthpartners-como-saint-paul/
+1. Healthpartners Como | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Healthpartners Como is an urgent care clinic in Saint Paul, MN at 2500 Como Avenue, Saint Paul, MN 55108. | https://dingalinged-cpu.github.io/registry/c/healthpartners-como-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care saint paul mn | category: Health & medical | industry benchmark: Physicians & Surgeons

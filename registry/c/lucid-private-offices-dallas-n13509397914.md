@@ -13,7 +13,7 @@ Lucid Private Offices is a coworking space in Dallas, TX at 4131 North Central E
 - Website: https://www.lucidprivateoffices.com/texas/dallas/4131-n-central-expressway/
 - Email: Workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Pulse Score: 48.6/100 — Building — top 77% of coworking spaces in Dallas–Fort Worth, #12 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 77% of coworking spaces in Dallas–Fort Worth, #12 of 13 coworking spaces in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ B & L Liquors is a liquor store in Wheeling, IL at 767 West Dundee Road, Wheelin
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su-Mo 10:00-21:00
-- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 12% of liquor stores in Chicago, #1 of 3 liquor stores in Wheeling (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 12% of liquor stores in Chicago, #1 of 3 liquor stores in Wheeling (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

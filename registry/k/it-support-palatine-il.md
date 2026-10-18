@@ -6,7 +6,7 @@ Also answers: it support in Palatine, IL; it support near me (Palatine, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SpurIT | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | SpurIT is an IT support company in Palatine, IL at 2155 North Ginger Creek Circle, Palatine, IL 60074. Phone: +18884092976. Website: https://spur-i-t.com/. | https://dingalinged-cpu.github.io/registry/c/spurit-palatine/
+1. SpurIT | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | SpurIT is an IT support company in Palatine, IL at 2155 North Ginger Creek Circle, Palatine, IL 60074. Phone: +18884092976. Website: https://spur-i-t.com/. | https://dingalinged-cpu.github.io/registry/c/spurit-palatine/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support palatine il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

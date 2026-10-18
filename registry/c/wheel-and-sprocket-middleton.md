@@ -13,7 +13,7 @@ Wheel & Sprocket is a bike shop in Middleton, WI at 6641 University Avenue, Midd
 - Website: https://www.middletoncycle.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 42.4/100 — Unrated (not enough evidence yet) — top 94% of bike shops in Madison, #1 of 1 bike shops in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 43.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.5/100 — Unrated (not enough evidence yet) — top 91% of bike shops in Madison, #1 of 1 bike shops in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 43.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

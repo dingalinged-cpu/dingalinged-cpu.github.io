@@ -6,7 +6,7 @@ Also answers: plumbers in West Allis, WI; plumbers near me (West Allis, WI); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gene Wagner Plumbing | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | Gene Wagner Plumbing is a plumber in West Allis, WI at 2017 South 60th Street, West Allis, WI 53219. Phone: +14145419217. Website: https://www.genewagnerplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/gene-wagner-plumbing-west-allis/
+1. Gene Wagner Plumbing | Organic #1 | Pulse Score 62.2/100 (Good, #1 in city) | Gene Wagner Plumbing is a plumber in West Allis, WI at 2017 South 60th Street, West Allis, WI 53219. Phone: +14145419217. Website: https://www.genewagnerplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/gene-wagner-plumbing-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers west allis wi | category: Home Services | industry benchmark: Home & Home Improvement

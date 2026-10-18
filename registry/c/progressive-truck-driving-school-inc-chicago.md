@@ -13,7 +13,7 @@ Progressive Truck Driving School Inc. is a driving school in Chicago, IL at 5538
 - Website: https://cdltruck.com/
 - Email: mrousey@smithsolomon.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00
-- Pulse Score: 65.6/100 — Good — top 4% of driving schools in Chicago, #1 of 12 driving schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 68.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.6/100 — Good — top 4% of driving schools in Chicago, #1 of 12 driving schools in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 68.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

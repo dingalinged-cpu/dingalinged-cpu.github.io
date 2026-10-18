@@ -13,7 +13,7 @@ Ponderosa Cyclery is a bike shop in Omaha, NE at 3901 Leavenworth Street, Omaha,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): TU-FR 13:00-18:00 SA 12:00-16:00
-- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 36% of bike shops in Omaha, NE, #5 of 12 bike shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 36% of bike shops in Omaha, NE, #5 of 12 bike shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Howard Law is a lawyer in Cobb County, GA at 3740 Canton Road Northeast, Cobb Co
 - Website: https://ghowardlaw.com/
 - Email: ghoward@ghowardlaw.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.7/100 — Fair — top 53% of lawyers in Atlanta, #2 of 3 lawyers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.8/100 — Fair — top 50% of lawyers in Atlanta, #2 of 3 lawyers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

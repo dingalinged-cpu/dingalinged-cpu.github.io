@@ -13,7 +13,7 @@ Inspection Pit is a vehicle inspection station in Rosemont, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 86% of vehicle inspection stations in Chicago, #1 of 1 vehicle inspection stations in Rosemont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 86% of vehicle inspection stations in Chicago, #1 of 1 vehicle inspection stations in Rosemont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 41.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

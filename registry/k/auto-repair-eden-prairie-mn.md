@@ -6,7 +6,7 @@ Also answers: auto repair in Eden Prairie, MN; auto repair near me (Eden Prairie
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tesla Collision | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Tesla Collision is an auto repair shop in Eden Prairie, MN. Phone: +16124467980. Website: https://www.tesla.com/findus/location/bodyshop/edenprairiecollision. | https://dingalinged-cpu.github.io/registry/c/tesla-collision-eden-prairie/
+1. Tesla Collision | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Tesla Collision is an auto repair shop in Eden Prairie, MN. Phone: +16124467980. Website: https://www.tesla.com/findus/location/bodyshop/edenprairiecollision. | https://dingalinged-cpu.github.io/registry/c/tesla-collision-eden-prairie/
 2. Bobby & Steve's Auto World | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Bobby & Steve's Auto World is an auto repair shop in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/bobby-and-steves-auto-world-eden-prairie/
 3. LaMettry's | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | LaMettry's is an auto repair shop in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/lamettrys-eden-prairie/
 4. Matt's Auto Service | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Matt's Auto Service is an auto repair shop in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/matts-auto-service-eden-prairie/

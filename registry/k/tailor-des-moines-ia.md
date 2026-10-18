@@ -6,7 +6,7 @@ Also answers: tailor in Des Moines, IA; tailor near me (Des Moines, IA); best ta
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alterations & Custom Made by Tran | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Alterations & Custom Made by Tran is a tailor in Des Moines, IA at 4201 Chamberlain Avenue, Des Moines, IA 50312. Phone: +15152746854. | https://dingalinged-cpu.github.io/registry/c/alterations-and-custom-made-by-tran-des-moines/
+1. Alterations & Custom Made by Tran | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Alterations & Custom Made by Tran is a tailor in Des Moines, IA at 4201 Chamberlain Avenue, Des Moines, IA 50312. Phone: +15152746854. | https://dingalinged-cpu.github.io/registry/c/alterations-and-custom-made-by-tran-des-moines/
 2. D&K Tailor | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | D&K Tailor is a tailor in Des Moines, IA at 2651 Beaver Avenue, Des Moines, IA 50310. | https://dingalinged-cpu.github.io/registry/c/d-and-k-tailor-des-moines/
 3. Lou's Tailoring | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Lou's Tailoring is a tailor in Des Moines, IA at 2608 Beaver Avenue, Des Moines, IA 50310. | https://dingalinged-cpu.github.io/registry/c/lous-tailoring-des-moines/
 

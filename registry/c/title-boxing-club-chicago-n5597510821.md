@@ -13,7 +13,7 @@ TITLE Boxing Club is a gym in Chicago, IL at 1355 North Milwaukee Avenue, Chicag
 - Website: https://titleboxingclub.com/chicago-wicker-park-il/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.5/100 — Building — top 62% of gyms in Chicago, #110 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 62% of gyms in Chicago, #109 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

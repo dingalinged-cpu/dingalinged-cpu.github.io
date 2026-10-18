@@ -10,7 +10,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Kensington School of Glenview | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Kensington School of Glenview is a preschool in Glenview, IL at 2160 Chestnut Avenue, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/kensington-school-of-glenview-glenview/
 3. Children's Land Learning Center | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Children's Land Learning Center is a preschool in Glenview, IL at 222 Greenwood Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/childrens-land-learning-center-glenview/
 4. Knowledge Beginnings | Organic #4 | Pulse Score 48.9/100 (Building, #4 in city) | Knowledge Beginnings is a preschool in Glenview, IL at 2401 Compass Road, Glenview, IL 60026. Phone: +18477290204. | https://dingalinged-cpu.github.io/registry/c/knowledge-beginnings-glenview/
-5. Crème de la Crème | Organic #5 | Pulse Score 45.9/100 (Unrated, #5 in city) | Crème de la Crème is a preschool in Glenview, IL at 2401 Patriot Boulevard, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-glenview/
+5. Crème de la Crème | Organic #5 | Pulse Score 44.8/100 (Unrated, #5 in city) | Crème de la Crème is a preschool in Glenview, IL at 2401 Patriot Boulevard, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool glenview il | category: Education & childcare | industry benchmark: Education & Instruction

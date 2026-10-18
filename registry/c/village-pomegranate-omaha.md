@@ -13,7 +13,7 @@ Village Pomegranate is a gift shop in Omaha, NE. Website: https://www.facebook.c
 - Website: https://www.facebook.com/villagepomegranateomaha/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.6/100 — Good — top 23% of gift shops in Omaha, NE, #2 of 15 gift shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 23% of gift shops in Omaha, NE, #2 of 15 gift shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

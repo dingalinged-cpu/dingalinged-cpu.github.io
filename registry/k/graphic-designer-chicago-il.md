@@ -6,10 +6,10 @@ Also answers: graphic designer in Chicago, IL; graphic designer near me (Chicago
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GQ Designs | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | GQ Designs is a graphic designer in Chicago, IL at 4223 West Lake Street, Chicago, IL 60624. Phone: +17085015718. Website: https://www.gqdesignit.com/. | https://dingalinged-cpu.github.io/registry/c/gq-designs-chicago/
+1. GQ Designs | Organic #1 | Pulse Score 65.5/100 (Good, #1 in city) | GQ Designs is a graphic designer in Chicago, IL at 4223 West Lake Street, Chicago, IL 60624. Phone: +17085015718. Website: https://www.gqdesignit.com/. | https://dingalinged-cpu.github.io/registry/c/gq-designs-chicago/
 2. Chicago Printworks | Organic #2 | Pulse Score 61/100 (Good, #2 in city) | Chicago Printworks is a graphic designer in Chicago, IL at 2811 West Fulton Street, Chicago, IL 60612. Phone: +13129432202. Website: https://www.chicagoprintworks.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-printworks-chicago/
-3. R T Digital Printing Supply | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | R T Digital Printing Supply is a graphic designer in Chicago, IL at 6241 West Touhy Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/r-t-digital-printing-supply-chicago/
-4. ConCa | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | ConCa is a graphic designer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/conca-chicago/
+3. R T Digital Printing Supply | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | R T Digital Printing Supply is a graphic designer in Chicago, IL at 6241 West Touhy Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/r-t-digital-printing-supply-chicago/
+4. ConCa | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | ConCa is a graphic designer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/conca-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer chicago il | category: professional_marketing | industry benchmark: Business Services

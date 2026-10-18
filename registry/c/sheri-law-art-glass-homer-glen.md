@@ -13,7 +13,7 @@ Sheri Law Art Glass is a window installer in Homer Glen, IL at 12551 West 159th 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 79% of window installers in Chicago, #1 of 1 window installers in Homer Glen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 44.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 79% of window installers in Chicago, #1 of 1 window installers in Homer Glen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

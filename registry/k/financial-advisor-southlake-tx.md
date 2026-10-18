@@ -10,8 +10,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 2. Falcon Holdings | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Falcon Holdings is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/falcon-holdings-southlake/
 3. Trinity Investments | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Trinity Investments is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/trinity-investments-southlake/
 4. Fidelity Investments | Organic #4 | Pulse Score 43.7/100 (Building, #4 in city) | Fidelity Investments is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/fidelity-investments-southlake/
-5. Charles Schwab | Organic #5 | Pulse Score 41.9/100 (Building, #5 in city) | Charles Schwab is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-southlake/
-6. TD Ameritrade | Organic #6 | Pulse Score 41.9/100 (Building, #6 in city) | TD Ameritrade is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/td-ameritrade-southlake/
+5. Charles Schwab | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | Charles Schwab is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-southlake/
+6. TD Ameritrade | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | TD Ameritrade is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/td-ameritrade-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor southlake tx | category: Professional & financial services | industry benchmark: Finance & Insurance

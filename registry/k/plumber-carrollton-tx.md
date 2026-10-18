@@ -6,7 +6,7 @@ Also answers: plumber in Carrollton, TX; plumber near me (Carrollton, TX); best 
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jim's Plumbing Now | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Jim's Plumbing Now is a plumber in Carrollton, TX at 2418 Marsh Lane #106, Carrollton, TX 75006. Phone: +19722365892. Website: https://www.jimsplumbingnow.com/. | https://dingalinged-cpu.github.io/registry/c/jims-plumbing-now-carrollton/
+1. Jim's Plumbing Now | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Jim's Plumbing Now is a plumber in Carrollton, TX at 2418 Marsh Lane #106, Carrollton, TX 75006. Phone: +19722365892. Website: https://www.jimsplumbingnow.com/. | https://dingalinged-cpu.github.io/registry/c/jims-plumbing-now-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber carrollton tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Good Company Tattoo Studio is a tattoo shop in Dallas, TX at 10835 Ferguson Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 71% of tattoo shops in Dallas–Fort Worth, #14 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 69% of tattoo shops in Dallas–Fort Worth, #14 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

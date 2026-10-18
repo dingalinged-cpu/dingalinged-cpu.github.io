@@ -6,7 +6,7 @@ Also answers: attorney in Maple Grove, MN; attorney near me (Maple Grove, MN); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. S Jankowski Law Office | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | S Jankowski Law Office is a lawyer in Maple Grove, MN at 11670 Fountains Drive North #200, Maple Grove, MN 55369. Phone: +17635873785. Website: https://sjankowskilaw.com/criminal-defense-attorney-maple-grove. | https://dingalinged-cpu.github.io/registry/c/s-jankowski-law-office-maple-grove/
+1. S Jankowski Law Office | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | S Jankowski Law Office is a lawyer in Maple Grove, MN at 11670 Fountains Drive North #200, Maple Grove, MN 55369. Phone: +17635873785. Website: https://sjankowskilaw.com/criminal-defense-attorney-maple-grove. | https://dingalinged-cpu.github.io/registry/c/s-jankowski-law-office-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney maple grove mn | category: professional_legal | industry benchmark: Attorneys & Legal Services

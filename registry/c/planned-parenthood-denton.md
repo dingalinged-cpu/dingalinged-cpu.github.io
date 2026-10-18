@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Denton, TX at 2436 South Interstate 
 - Website: https://www.plannedparenthood.org/health-center/texas/denton/76205/denton-health-center-2190-91620
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 91% of therapy practices in Dallas–Fort Worth, #2 of 2 therapy practices in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Unrated (not enough evidence yet) — top 89% of therapy practices in Dallas–Fort Worth, #2 of 2 therapy practices in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

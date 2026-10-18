@@ -7,7 +7,7 @@ Also answers: bike shop in West Des Moines, IA; bike shop near me (West Des Moin
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Bike World | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Bike World is a bike shop in West Des Moines, IA at 5003 E P True Parkway, West Des Moines, IA 50265. | https://dingalinged-cpu.github.io/registry/c/bike-world-west-des-moines/
-2. ERIK'S - Bike Board Ski | Organic #2 | Pulse Score 45.7/100 (Unrated, #2 in city) | ERIK'S - Bike Board Ski is a bike shop in West Des Moines, IA at 950 1st Street, West Des Moines, IA 50265. Phone: +15152772636. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-west-des-moines/
+2. ERIK'S - Bike Board Ski | Organic #2 | Pulse Score 45.8/100 (Unrated, #2 in city) | ERIK'S - Bike Board Ski is a bike shop in West Des Moines, IA at 950 1st Street, West Des Moines, IA 50265. Phone: +15152772636. | https://dingalinged-cpu.github.io/registry/c/eriks-bike-board-ski-west-des-moines/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop west des moines ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

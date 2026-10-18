@@ -7,7 +7,7 @@ Also answers: music lessons in Rockwall, TX; music lessons near me (Rockwall, TX
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Rockwall School of Music | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Rockwall School of Music is a music school in Rockwall, TX at 1920 Mims Road, Rockwall, TX 75032. Phone: +19727226874. Website: https://www.rockwallmusic.com/. | https://dingalinged-cpu.github.io/registry/c/rockwall-school-of-music-rockwall/
-2. School of Rock | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | School of Rock is a music school in Rockwall, TX at 2014 South Goliad Street #122, Rockwall, TX 75087. Phone: +14693141300. Website: https://www.schoolofrock.com/locations/rockwall. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-rockwall/
+2. School of Rock | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | School of Rock is a music school in Rockwall, TX at 2014 South Goliad Street #122, Rockwall, TX 75087. Phone: +14693141300. Website: https://www.schoolofrock.com/locations/rockwall. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons rockwall tx | category: Education & childcare | industry benchmark: Education & Instruction

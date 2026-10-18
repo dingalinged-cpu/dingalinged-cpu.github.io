@@ -13,7 +13,7 @@ Great Clips is a hair salon in Omaha, NE at 5022 Underwood Avenue, Omaha, NE 681
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 08:00-17:00; Su 10:00-16:00
-- Pulse Score: 48.8/100 — Building — top 69% of hair salons in Omaha, NE, #41 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 68% of hair salons in Omaha, NE, #40 of 53 hair salons in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

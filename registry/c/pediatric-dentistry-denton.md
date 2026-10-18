@@ -13,7 +13,7 @@ Pediatric Dentistry is a dentist in Denton, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-13:00
-- Pulse Score: 46/100 — Building — top 92% of dentists in Dallas–Fort Worth, #27 of 29 dentists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46/100 — Building — top 92% of dentists in Dallas–Fort Worth, #26 of 29 dentists in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

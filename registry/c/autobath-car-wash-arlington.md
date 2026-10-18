@@ -13,7 +13,7 @@ Autobath Car Wash is a car wash in Arlington, TX at 4302 Little Road, Arlington,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-19:00; Su 08:00-18:00
-- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 7% of car washes in Dallas–Fort Worth, #1 of 8 car washes in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 6% of car washes in Dallas–Fort Worth, #1 of 8 car washes in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

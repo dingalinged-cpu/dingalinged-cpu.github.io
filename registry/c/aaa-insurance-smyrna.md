@@ -13,7 +13,7 @@ AAA Insurance is an insurance agent in Smyrna, GA at 1125 Concord Road Southeast
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
-- Pulse Score: 46.8/100 — Building — top 57% of insurance agents in Atlanta, #7 of 9 insurance agents in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 57% of insurance agents in Atlanta, #7 of 9 insurance agents in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Fast Jewelry Repair is a jewelry store in Denton, TX at 2430 South Interstate 35
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 25% of jewelry stores in Dallas–Fort Worth, #4 of 4 jewelry stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 25% of jewelry stores in Dallas–Fort Worth, #4 of 4 jewelry stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

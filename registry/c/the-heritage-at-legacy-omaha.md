@@ -13,7 +13,7 @@ The Heritage at Legacy is an assisted living facility in Omaha, NE at 2961 South
 - Website: https://www.heritage-communities.com/senior-living/ne/omaha/heritage-at-legacy/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 90% of assisted living facilitys in Omaha, NE, #4 of 4 assisted living facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 49.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 90% of assisted living facilitys in Omaha, NE, #4 of 4 assisted living facilitys in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Dallas, TX at 7150 Skillman Street #
 - Website: https://www.thejoint.com/texas/dallas/lake-highlands-28027
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 47.1/100 — Building — top 89% of chiropractors in Dallas–Fort Worth, #14 of 16 chiropractors in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 89% of chiropractors in Dallas–Fort Worth, #14 of 16 chiropractors in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

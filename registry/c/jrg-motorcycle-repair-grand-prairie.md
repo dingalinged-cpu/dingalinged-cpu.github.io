@@ -13,7 +13,7 @@ JRG Motorcycle Repair is a motorcycle repair shop in Grand Prairie, TX at 1921 C
 - Website: n/a
 - Email: progomez.racing@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 10:00-19:00; Sa 10:00-16:00
-- Pulse Score: 62.3/100 — Good — top 25% of motorcycle repair shops in Dallas–Fort Worth, #1 of 1 motorcycle repair shops in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 25% of motorcycle repair shops in Dallas–Fort Worth, #1 of 1 motorcycle repair shops in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

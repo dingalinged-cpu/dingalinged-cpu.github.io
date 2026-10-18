@@ -13,7 +13,7 @@ Dr. Pan is a podiatrist in Houston, TX at 9896 Bellaire Boulevard, Houston, TX 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 86% of podiatrists in Houston, #3 of 3 podiatrists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 43.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 86% of podiatrists in Houston, #3 of 3 podiatrists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 43.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

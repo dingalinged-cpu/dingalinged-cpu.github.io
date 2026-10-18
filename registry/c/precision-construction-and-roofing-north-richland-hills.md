@@ -13,7 +13,7 @@ Precision Construction & Roofing is a roofer in North Richland Hills, TX at 7605
 - Website: https://precisionconstructionandroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 55% of roofers in Dallas–Fort Worth, #4 of 6 roofers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 55% of roofers in Dallas–Fort Worth, #4 of 6 roofers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

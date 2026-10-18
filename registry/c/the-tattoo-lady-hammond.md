@@ -13,7 +13,7 @@ The Tattoo Lady is a tattoo shop in Hammond, IN at 6817 Kennedy Avenue, Hammond,
 - Website: https://www.thetattoolady.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 12:00-20:00; Sa 12:00-21:00; Su 12:00-18:00
-- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 18% of tattoo shops in Chicago, #1 of 2 tattoo shops in Hammond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 18% of tattoo shops in Chicago, #1 of 2 tattoo shops in Hammond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Woods Hollow Children's Center is a daycare in Fitchburg, WI at 5740 Research Pa
 - Website: https://www.woodshollow.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 34% of daycares in Madison, #3 of 8 daycares in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 34% of daycares in Madison, #3 of 8 daycares in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

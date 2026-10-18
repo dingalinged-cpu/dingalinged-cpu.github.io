@@ -13,7 +13,7 @@ University Station Clinic is an eye care practice in Madison, WI at 2880 Univers
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 19% of eye care practices in Madison, #2 of 4 eye care practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 50.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 19% of eye care practices in Madison, #2 of 4 eye care practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 50.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

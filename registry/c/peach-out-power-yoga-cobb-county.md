@@ -13,7 +13,7 @@ Peach Out Power Yoga is a yoga studio in Cobb County, GA at 3162 Johnson Ferry R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 58.3/100 — Fair — top 55% of yoga studios in Atlanta, #2 of 3 yoga studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 47. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Fair — top 55% of yoga studios in Atlanta, #2 of 3 yoga studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

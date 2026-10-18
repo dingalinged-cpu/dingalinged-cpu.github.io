@@ -13,7 +13,7 @@ PT Plus is a physical therapy clinic in West Bend, WI. Website: https://ptplus.c
 - Website: https://ptplus.com/project/west-bend/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 36% of physical therapy clinics in Milwaukee, #1 of 1 physical therapy clinics in West Bend (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 36% of physical therapy clinics in Milwaukee, #1 of 1 physical therapy clinics in West Bend (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.8, Trust 47.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Village Discount Outlet is a thrift store in Chicago, IL at 2040;2032 North Milw
 - Website: https://villagediscountoutlet.com/locations/milwaukee-chicago/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Chicago, #30 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 50% of thrift stores in Chicago, #30 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

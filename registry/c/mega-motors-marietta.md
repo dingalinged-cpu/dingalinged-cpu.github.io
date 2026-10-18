@@ -13,7 +13,7 @@ Mega Motors is an used car dealer in Marietta, GA at 562 Cobb Parkway North, Mar
 - Website: https://www.megamotorsga.com/
 - Email: misagh@megamotorsga.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off
-- Pulse Score: 63.8/100 — Good — top 8% of used car dealers in Atlanta, #5 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 8% of used car dealers in Atlanta, #5 of 24 used car dealers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

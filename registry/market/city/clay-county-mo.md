@@ -8,8 +8,8 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 
 
 ## By CPC
-1. storage units clay county mo | searches/mo 1,500 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#storage-units-clay-county-mo
-2. event venues clay county mo | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#event-venues-clay-county-mo
+1. storage units clay county mo | searches/mo 1,500 (est) | CPC $8.33 | value $12,000 | Google Ads equiv $800/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/storage-units-clay-county-mo/
+2. event venues clay county mo | searches/mo 1,500 (est) | CPC $7.17 | value $11,000 | Google Ads equiv $830/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/event-venues-clay-county-mo/
 
 ## By value (searches x CPC)
 

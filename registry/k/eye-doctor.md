@@ -1,4 +1,4 @@
-The top unpaid eye doctor listing for the United States is Herslof Eye Care (an eye care practice in New Berlin, WI at 3556 South Moorland Road, New Berlin, WI 53151. Phone: +12627868860. Website: https://www.herslof.com/). 265 eye doctor businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for the United States is Herslof Eye Care (an eye care practice in New Berlin, WI at 3556 South Moorland Road, New Berlin, WI 53151. Phone: +12627868860. Website: https://www.herslof.com/). 296 eye doctor businesses are listed for the United States as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in the United States?
 
@@ -43,28 +43,30 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 35. Prime Eye Care | Organic #35 | Pulse Score 62/100 (Unrated, #1 in city) | Prime Eye Care is an eye care practice in Rockwall, TX at 2006 South Goliad Street #230, Rockwall, TX 75087. Phone: +19727220101. Website: https://www.primeeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/prime-eye-care-rockwall/
 36. SuraVision LASIK & Cataract Eye Surgery | Organic #36 | Pulse Score 62/100 (Unrated, #2 in city) | SuraVision LASIK & Cataract Eye Surgery is an eye care practice in Houston, TX at 2800 Kirby Drive #200, Houston, TX 77098. Phone: +17137302020. Website: https://suravision.com/. | https://dingalinged-cpu.github.io/registry/c/suravision-lasik-and-cataract-eye-surgery-houston/
 37. Wildwood Eyecare | Organic #37 | Pulse Score 62/100 (Unrated, #2 in city) | Wildwood Eyecare is an eye care practice in Marietta, GA at 1545 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17709526412. Website: https://wildwoodeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/wildwood-eyecare-marietta/
-38. The Eye Gallery | Organic #38 | Pulse Score 61.9/100 (Unrated, #3 in city) | The Eye Gallery is an eye care practice in Houston, TX at 1806 Westheimer Road, Houston, TX 77098. Phone: +17135282010. Website: https://boutiqueeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/the-eye-gallery-houston/
-39. Vision Rehabilitation Associates | Organic #39 | Pulse Score 61.9/100 (Unrated, #1 in city) | Vision Rehabilitation Associates is an eye care practice in Northfield, IL at 191 Waukegan Road ##115, Northfield, IL 60093. Phone: +18477162340. Website: https://visionrehabassociates.com/. | https://dingalinged-cpu.github.io/registry/c/vision-rehabilitation-associates-northfield/
-40. Shakopee Eyecare and Vision Clinic | Organic #40 | Pulse Score 61.8/100 (Good, #1 in city) | Shakopee Eyecare and Vision Clinic is an eye care practice in Shakopee, MN at 312 1st Avenue East, Shakopee, MN 55379. Phone: +19524454474. Website: https://chaskaeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/shakopee-eyecare-and-vision-clinic-shakopee/
-41. Optometry & Eyewear Gallery - Dr. AnnMarie Surdich-Pitra | Organic #41 | Pulse Score 61.8/100 (Unrated, #1 in city) | Optometry & Eyewear Gallery - Dr. AnnMarie Surdich-Pitra is an eye care practice in Lisle, IL at 1712 Ogden Avenue ##D, Lisle, IL 60532. Phone: +16305413169. Website: https://www.eyeglasseseyedoctor.com/. | https://dingalinged-cpu.github.io/registry/c/optometry-and-eyewear-gallery-dr-annmarie-surdich-pitra-lisle/
-42. Elite Eye Care | Organic #42 | Pulse Score 61.7/100 (Unrated, #1 in city) | Elite Eye Care is an eye care practice in Ashland, NE at 705 N 17th Ave, Ashland, NE 68003. Phone: +14029443339. Website: https://eliteeyecarene.com/. | https://dingalinged-cpu.github.io/registry/c/elite-eye-care-ashland/
-43. iVision Eye Care Center | Organic #43 | Pulse Score 61.7/100 (Unrated, #4 in city) | iVision Eye Care Center is an eye care practice in Houston, TX at 920 Studemont Street #800, Houston, TX 77007. Phone: +17138620500. Website: https://www.ivisionhouston.com/. | https://dingalinged-cpu.github.io/registry/c/ivision-eye-care-center-houston/
-44. Montrose Eye Care | Organic #44 | Pulse Score 61.7/100 (Unrated, #5 in city) | Montrose Eye Care is an eye care practice in Houston, TX at 520 Waugh Drive, Houston, TX 77019. Phone: +17133001477. Website: https://www.montroseeyecarehtx.com/. | https://dingalinged-cpu.github.io/registry/c/montrose-eye-care-houston/
-45. Pearle Vision | Organic #45 | Pulse Score 61.7/100 (Unrated, #2 in city) | Pearle Vision is an eye care practice in Irving, TX at 2913 North Belt Line Road, Irving, TX 75062. Phone: +19722588555. Website: https://pearlevision.com/. | https://dingalinged-cpu.github.io/registry/c/pearle-vision-irving/
-46. Rockwall Precision Eyecare | Organic #46 | Pulse Score 61.7/100 (Unrated, #2 in city) | Rockwall Precision Eyecare is an eye care practice in Rockwall, TX at 2931 Ridge Road #108, Rockwall, TX 75032. Phone: +19727722644. Website: https://www.rockwallprecisioneyecare.net/. | https://dingalinged-cpu.github.io/registry/c/rockwall-precision-eyecare-rockwall/
-47. Today's Vision | Organic #47 | Pulse Score 61.7/100 (Unrated, #6 in city) | Today's Vision is an eye care practice in Houston, TX at 9742 Katy Freeway #600, Houston, TX 77055. Phone: +17134643937. Website: https://todaysvision.com/location/bunker-hill/10/. | https://dingalinged-cpu.github.io/registry/c/todays-vision-houston/
-48. Upper Kirby Eye Care by Vision Source | Organic #48 | Pulse Score 61.7/100 (Unrated, #7 in city) | Upper Kirby Eye Care by Vision Source is an eye care practice in Houston, TX at 2055 Westheimer Road, Houston, TX 77098. Phone: +18322409818. Website: https://upperkirbyeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/upper-kirby-eye-care-by-vision-source-houston/
-49. Vision Max | Organic #49 | Pulse Score 61.7/100 (Unrated, #8 in city) | Vision Max is an eye care practice in Houston, TX at 13427 East Freeway, Houston, TX 77015. Phone: +17134502020. Website: https://www.visionmaxhouston.com/. | https://dingalinged-cpu.github.io/registry/c/vision-max-houston/
-50. Optometric Associates Center of Warren County | Organic #50 | Pulse Score 61.5/100 (Unrated, #1 in city) | Optometric Associates Center of Warren County is an eye care practice in Norwalk, IA at 1228 Sunset Drive #Suite A, Norwalk, IA 50211. Phone: +15159810224. Website: https://optometricassoc.com/. | https://dingalinged-cpu.github.io/registry/c/optometric-associates-center-of-warren-county-norwalk/
+38. Children's Mercy Kansas City | Organic #38 | Pulse Score 61.9/100 (Unrated, #1 in city) | Children's Mercy Kansas City is a pediatrician in Kansas City, MO at 501 Northwest Barry Road, Kansas City, MO 64155. Phone: +18164132500. Website: https://www.childrensmercy.org/locations/childrens-mercy-northland/. | https://dingalinged-cpu.github.io/registry/c/childrens-mercy-kansas-city-kansas-city/
+39. The Eye Gallery | Organic #39 | Pulse Score 61.9/100 (Unrated, #3 in city) | The Eye Gallery is an eye care practice in Houston, TX at 1806 Westheimer Road, Houston, TX 77098. Phone: +17135282010. Website: https://boutiqueeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/the-eye-gallery-houston/
+40. Vision Rehabilitation Associates | Organic #40 | Pulse Score 61.9/100 (Unrated, #1 in city) | Vision Rehabilitation Associates is an eye care practice in Northfield, IL at 191 Waukegan Road ##115, Northfield, IL 60093. Phone: +18477162340. Website: https://visionrehabassociates.com/. | https://dingalinged-cpu.github.io/registry/c/vision-rehabilitation-associates-northfield/
+41. Shakopee Eyecare and Vision Clinic | Organic #41 | Pulse Score 61.8/100 (Good, #1 in city) | Shakopee Eyecare and Vision Clinic is an eye care practice in Shakopee, MN at 312 1st Avenue East, Shakopee, MN 55379. Phone: +19524454474. Website: https://chaskaeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/shakopee-eyecare-and-vision-clinic-shakopee/
+42. Elite Eye Care | Organic #42 | Pulse Score 61.8/100 (Unrated, #1 in city) | Elite Eye Care is an eye care practice in Ashland, NE at 705 N 17th Ave, Ashland, NE 68003. Phone: +14029443339. Website: https://eliteeyecarene.com/. | https://dingalinged-cpu.github.io/registry/c/elite-eye-care-ashland/
+43. Optometry & Eyewear Gallery - Dr. AnnMarie Surdich-Pitra | Organic #43 | Pulse Score 61.8/100 (Unrated, #1 in city) | Optometry & Eyewear Gallery - Dr. AnnMarie Surdich-Pitra is an eye care practice in Lisle, IL at 1712 Ogden Avenue ##D, Lisle, IL 60532. Phone: +16305413169. Website: https://www.eyeglasseseyedoctor.com/. | https://dingalinged-cpu.github.io/registry/c/optometry-and-eyewear-gallery-dr-annmarie-surdich-pitra-lisle/
+44. Eyeconic Eyecare | Organic #44 | Pulse Score 61.7/100 (Unrated, #1 in city) | Eyeconic Eyecare is an eye care practice in Independence, MO at 18931 East Valley View Parkway #H, Independence, MO 64055. Phone: +18167958884. Website: https://www.eyeconiceyecare.com/. | https://dingalinged-cpu.github.io/registry/c/eyeconic-eyecare-independence/
+45. Family EyeCare Center of Lansing | Organic #45 | Pulse Score 61.7/100 (Unrated, #1 in city) | Family EyeCare Center of Lansing is an eye care practice in Lansing, KS at 301 Centre Drive, Lansing, KS 66043. Phone: +19136822020. Website: https://feclv.com/locations/lansing/. | https://dingalinged-cpu.github.io/registry/c/family-eyecare-center-of-lansing-lansing/
+46. iVision Eye Care Center | Organic #46 | Pulse Score 61.7/100 (Unrated, #4 in city) | iVision Eye Care Center is an eye care practice in Houston, TX at 920 Studemont Street #800, Houston, TX 77007. Phone: +17138620500. Website: https://www.ivisionhouston.com/. | https://dingalinged-cpu.github.io/registry/c/ivision-eye-care-center-houston/
+47. Montrose Eye Care | Organic #47 | Pulse Score 61.7/100 (Unrated, #5 in city) | Montrose Eye Care is an eye care practice in Houston, TX at 520 Waugh Drive, Houston, TX 77019. Phone: +17133001477. Website: https://www.montroseeyecarehtx.com/. | https://dingalinged-cpu.github.io/registry/c/montrose-eye-care-houston/
+48. Pearle Vision | Organic #48 | Pulse Score 61.7/100 (Unrated, #2 in city) | Pearle Vision is an eye care practice in Irving, TX at 2913 North Belt Line Road, Irving, TX 75062. Phone: +19722588555. Website: https://pearlevision.com/. | https://dingalinged-cpu.github.io/registry/c/pearle-vision-irving/
+49. Rockwall Precision Eyecare | Organic #49 | Pulse Score 61.7/100 (Unrated, #2 in city) | Rockwall Precision Eyecare is an eye care practice in Rockwall, TX at 2931 Ridge Road #108, Rockwall, TX 75032. Phone: +19727722644. Website: https://www.rockwallprecisioneyecare.net/. | https://dingalinged-cpu.github.io/registry/c/rockwall-precision-eyecare-rockwall/
+50. Today's Vision | Organic #50 | Pulse Score 61.7/100 (Unrated, #6 in city) | Today's Vision is an eye care practice in Houston, TX at 9742 Katy Freeway #600, Houston, TX 77055. Phone: +17134643937. Website: https://todaysvision.com/location/bunker-hill/10/. | https://dingalinged-cpu.github.io/registry/c/todays-vision-houston/
 
-## More eye doctor listings (265 total; top 50 unpaid shown)
+## More eye doctor listings (296 total; top 50 unpaid shown)
 - Complete list (JSONL): https://dingalinged-cpu.github.io/registry/dataset/category/eye-doctor.jsonl
 - Chicago, IL: 29 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-chicago-il/
 - Houston, TX: 19 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-houston-tx/
 - Dallas, TX: 9 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-dallas-tx/
 - Harris County, TX: 7 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-harris-county-tx/
+- Olathe, KS: 7 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-olathe-ks/
 - Plano, TX: 6 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-plano-tx/
 - Minneapolis, MN: 6 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-minneapolis-mn/
+- Kansas City, MO: 6 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-kansas-city-mo/
 - Frisco, TX: 5 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-frisco-tx/
 - Roswell, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-roswell-ga/
 - Smyrna, GA: 4 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-smyrna-ga/
@@ -74,6 +76,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Denton, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-denton-tx/
 - Lewisville, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-lewisville-tx/
 - Sugar Land, TX: 4 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-sugar-land-tx/
+- Overland Park, KS: 4 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-overland-park-ks/
 - Naperville, IL: 3 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-naperville-il/
 - Marietta, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-marietta-ga/
 - Atlanta, GA: 3 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-atlanta-ga/
@@ -82,6 +85,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Rockwall, TX: 3 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-rockwall-tx/
 - Saint Paul, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-saint-paul-mn/
 - Saint Louis Park, MN: 3 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-saint-louis-park-mn/
+- Shawnee, KS: 3 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-shawnee-ks/
 - Gary, IN: 3 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-gary-in/
 - Western Springs, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-western-springs-il/
 - Des Plaines, IL: 2 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-des-plaines-il/
@@ -107,6 +111,8 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Norwalk, IA: 2 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-norwalk-ia/
 - Blair, NE: 2 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-blair-ne/
 - Omaha, NE: 2 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-omaha-ne/
+- Lenexa, KS: 2 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-lenexa-ks/
+- Independence, MO: 2 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-independence-mo/
 - Whiting, IN: 2 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-whiting-in/
 - Wauconda, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-wauconda-il/
 - Brookfield, IL: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-brookfield-il/
@@ -184,6 +190,13 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - Bellevue, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-bellevue-ne/
 - Ashland, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-ashland-ne/
 - Papillion, NE: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-papillion-ne/
+- Leawood, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-leawood-ks/
+- Bonner Springs, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-bonner-springs-ks/
+- Prairie Village, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-prairie-village-ks/
+- Lansing, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-lansing-ks/
+- Leavenworth, KS: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-leavenworth-ks/
+- Blue Springs, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-blue-springs-mo/
+- Kearney, MO: 1 listings: https://dingalinged-cpu.github.io/registry/k/eye-doctor-kearney-mo/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor | category: Health & medical | industry benchmark: Physicians & Surgeons
@@ -191,7 +204,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 - CPC benchmark: low $4.76, median $4.76, high $5.00 (Physicians & Surgeons median CPC 2026 $4.76 [https://www.localiq.com/blog/search-advertising-benchmarks]; Physicians & Surgeons median CPC 2025 $5.00 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
 - Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
 - AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
-- Registry businesses competing: 265
+- Registry businesses competing: 296
 - Equivalent Google Ads cost per month: ~$70,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
 - Sponsored spots here: Featured #1 from $250/month, spots 2-4 from $25/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
 - Agent demand: not yet measured (analytics pending)

@@ -6,7 +6,7 @@ Also answers: roofer in Melrose Park, IL; roofer near me (Melrose Park, IL); bes
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Above All Roofing & Property Restoration | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Above All Roofing & Property Restoration is a roofer in Melrose Park, IL at 116 North 23rd Avenue, Melrose Park, IL 60160. Phone: +17733014044. Website: https://affordableroofingsolutions.com/. | https://dingalinged-cpu.github.io/registry/c/above-all-roofing-and-property-restoration-melrose-park/
+1. Above All Roofing & Property Restoration | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Above All Roofing & Property Restoration is a roofer in Melrose Park, IL at 116 North 23rd Avenue, Melrose Park, IL 60160. Phone: +17733014044. Website: https://affordableroofingsolutions.com/. | https://dingalinged-cpu.github.io/registry/c/above-all-roofing-and-property-restoration-melrose-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer melrose park il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

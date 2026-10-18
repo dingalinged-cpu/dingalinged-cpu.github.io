@@ -13,7 +13,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 5. Thomas Printworks | Organic #5 | Pulse Score 46.8/100 (Unrated, #5 in city) | Thomas Printworks is a printing service in Richardson, TX at 600 N. Central Expressway, Richardson, TX 75080. Phone: +19722317161. | https://dingalinged-cpu.github.io/registry/c/thomas-printworks-richardson/
 6. The UPS Store | Organic #6 | Pulse Score 44.6/100 (Unrated, #6 in city) | The UPS Store is a printing service in Richardson, TX at 819 West Arapaho Road #24-B, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-richardson-n10052929802/
 7. FedEx Office | Organic #7 | Pulse Score 43.7/100 (Building, #7 in city) | FedEx Office is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-richardson/
-8. FedEx Office | Organic #8 | Pulse Score 43/100 (Building, #8 in city) | FedEx Office is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-richardson-n13658692820/
+8. FedEx Office | Organic #8 | Pulse Score 43.1/100 (Building, #8 in city) | FedEx Office is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-richardson-n13658692820/
 9. The UPS Store | Organic #9 | Pulse Score 43/100 (Building, #9 in city) | The UPS Store is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-richardson-n10069711495/
 10. FedEx Office | Organic #10 | Pulse Score 42.9/100 (Building, #10 in city) | FedEx Office is a printing service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-richardson-n13191783735/
 

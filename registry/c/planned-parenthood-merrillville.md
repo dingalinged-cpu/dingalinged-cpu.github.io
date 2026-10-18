@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Merrillville, IN at 8645 Connecticut
 - Website: https://www.plannedparenthood.org/health-center/indiana/merrillville/46410/merrillville-health-center-2923-91810
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Fr 09:00-17:00; We 08:00-16:00; Th 11:00-19:00; Sa 09:00-16:00
-- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 72% of therapy practices in Chicago, #2 of 2 therapy practices in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 72% of therapy practices in Chicago, #2 of 2 therapy practices in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -7,7 +7,7 @@ Also answers: assisted living in Naperville, IL; assisted living near me (Naperv
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Sunrise of Naperville North | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Sunrise of Naperville North is an assisted living facility in Naperville, IL at 535 West Ogden Avenue, Naperville, IL 60563. Phone: +17085127902. Website: https://www.sunriseseniorliving.com/communities/sunrise-of-naperville-north. | https://dingalinged-cpu.github.io/registry/c/sunrise-of-naperville-north-naperville/
-2. StoryPoint | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | StoryPoint is an assisted living facility in Naperville, IL at 504 North River Road, Naperville, IL 60563. Phone: +16304466812. Website: https://www.storypoint.com/community/naperville-il/. | https://dingalinged-cpu.github.io/registry/c/storypoint-naperville/
+2. StoryPoint | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | StoryPoint is an assisted living facility in Naperville, IL at 504 North River Road, Naperville, IL 60563. Phone: +16304466812. Website: https://www.storypoint.com/community/naperville-il/. | https://dingalinged-cpu.github.io/registry/c/storypoint-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living naperville il | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

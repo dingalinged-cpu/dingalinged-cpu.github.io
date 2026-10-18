@@ -6,7 +6,7 @@ Also answers: eye doctor in West Allis, WI; eye doctor near me (West Allis, WI);
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Knight Vision  & Glaucoma Specialists | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Knight Vision  & Glaucoma Specialists is an eye care practice in West Allis, WI at 7300 West Greenfield Avenue, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/knight-vision-and-glaucoma-specialists-west-allis/
+1. Knight Vision  & Glaucoma Specialists | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Knight Vision  & Glaucoma Specialists is an eye care practice in West Allis, WI at 7300 West Greenfield Avenue, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/knight-vision-and-glaucoma-specialists-west-allis/
 2. Wisconsin Vision | Organic #2 | Pulse Score 41.3/100 (Unrated, #2 in city) | Wisconsin Vision is an eye care practice in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/wisconsin-vision-west-allis/
 
 ## Market data (for advertisers and agents)

@@ -12,7 +12,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 4. Atlas Spas & Swim Spas | Organic #4 | Pulse Score 55.7/100 (Unrated, #3 in city) | Atlas Spas & Swim Spas is a spa in Plano, TX at 4801 West Park Boulevard #448, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/atlas-spas-and-swim-spas-plano/
 5. City Salon Suites & Spa | Organic #5 | Pulse Score 55.7/100 (Unrated, #4 in city) | City Salon Suites & Spa is a spa in Plano, TX at 5813 Preston Road #554, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/city-salon-suites-and-spa-plano/
 6. M Spa & Beauty | Organic #6 | Pulse Score 55.7/100 (Unrated, #5 in city) | M Spa & Beauty is a spa in Plano, TX at 308 Coit Road #200, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/m-spa-and-beauty-plano/
-7. The Woodhouse | Organic #7 | Pulse Score 55.3/100 (Unrated, #6 in city) | The Woodhouse is a spa in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-woodhouse-plano/
+7. The Woodhouse | Organic #7 | Pulse Score 55.2/100 (Unrated, #6 in city) | The Woodhouse is a spa in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-woodhouse-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa plano tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Sky Nails Spa is a nail salon in Cypress, TX at 12361 Barker Cypress Rd, #600, C
 - Website: https://skynailsspacypress.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00, Su 11:00-18:30
-- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 90% of nail salons in Houston, #2 of 2 nail salons in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 89% of nail salons in Houston, #2 of 2 nail salons in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ James Armstrong Plumbing Mesquite is a plumber in Mesquite, TX at 15330 Lyndon B
 - Website: https://www.jamesarmstrongplumbing.com/
 - Email: armstrongplumbingjames@outlook.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
-- Pulse Score: 64.1/100 — Good — top 12% of plumbers in Dallas–Fort Worth, #1 of 6 plumbers in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 67.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 12% of plumbers in Dallas–Fort Worth, #1 of 6 plumbers in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 67.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

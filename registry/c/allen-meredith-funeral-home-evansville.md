@@ -13,7 +13,7 @@ Allen-Meredith Funeral Home is a funeral home in Evansville, WI at 103 West Main
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 40% of funeral homes in Madison, #2 of 2 funeral homes in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 40% of funeral homes in Madison, #2 of 2 funeral homes in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

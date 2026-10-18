@@ -6,7 +6,7 @@ Also answers: financial advisor in Royse City, TX; financial advisor near me (Ro
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Modern Woodsmen | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Modern Woodsmen is a financial advisor in Royse City, TX at 118 East Main Street #107, Royse City, TX 75189. Website: https://reps.modernwoodmen.org/rjohnson/. | https://dingalinged-cpu.github.io/registry/c/modern-woodsmen-royse-city/
+1. Modern Woodsmen | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Modern Woodsmen is a financial advisor in Royse City, TX at 118 East Main Street #107, Royse City, TX 75189. Website: https://reps.modernwoodmen.org/rjohnson/. | https://dingalinged-cpu.github.io/registry/c/modern-woodsmen-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor royse city tx | category: Professional & financial services | industry benchmark: Finance & Insurance

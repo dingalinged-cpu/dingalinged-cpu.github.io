@@ -6,7 +6,7 @@ Also answers: property management companies in Johnston, IA; property management
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Winwood Apartments | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Winwood Apartments is a property management company in Johnston, IA at 6301 Meadow Crest Drive, Johnston, IA 50131. Phone: +15156668459. Website: https://www.winwoodapartments.com/. | https://dingalinged-cpu.github.io/registry/c/winwood-apartments-johnston/
+1. Winwood Apartments | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Winwood Apartments is a property management company in Johnston, IA at 6301 Meadow Crest Drive, Johnston, IA 50131. Phone: +15156668459. Website: https://www.winwoodapartments.com/. | https://dingalinged-cpu.github.io/registry/c/winwood-apartments-johnston/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies johnston ia | category: real_estate | industry benchmark: Real Estate

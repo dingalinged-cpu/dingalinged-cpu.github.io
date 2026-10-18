@@ -13,7 +13,7 @@ Collier Hall is an event venue in Atlanta, GA at 1881 Howell Mill Road Northwest
 - Website: https://www.westmidtownvenues.com/collier-hall-atlanta-event-venue
 - Email: events@collierhall.com
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 63/100 — Good — top 18% of event venues in Atlanta, #6 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.2, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 18% of event venues in Atlanta, #6 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.3, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

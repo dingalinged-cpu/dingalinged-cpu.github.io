@@ -8,7 +8,7 @@ Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid
 
 1. Village Periodontics and Implant Dentistry | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Village Periodontics and Implant Dentistry is a dentist in Highland Village, TX at 2820 Village Parkway, Highland Village, TX. Phone: +19729662500. | https://dingalinged-cpu.github.io/registry/c/village-periodontics-and-implant-dentistry-highland-village/
 2. Highland Village Dental | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Highland Village Dental is a dentist in Highland Village, TX. | https://dingalinged-cpu.github.io/registry/c/highland-village-dental-highland-village/
-3. Dental Depot | Organic #3 | Pulse Score 50.6/100 (Unrated, #3 in city) | Dental Depot is a dentist in Highland Village, TX at 2460 Justin Rd, Highland Village, TX 75077. Phone: +19724497014. Website: https://dentaldepotdfw.com/locations/highland-village/. | https://dingalinged-cpu.github.io/registry/c/dental-depot-highland-village/
+3. Dental Depot | Organic #3 | Pulse Score 49.5/100 (Unrated, #3 in city) | Dental Depot is a dentist in Highland Village, TX at 2460 Justin Rd, Highland Village, TX 75077. Phone: +19724497014. Website: https://dentaldepotdfw.com/locations/highland-village/. | https://dingalinged-cpu.github.io/registry/c/dental-depot-highland-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist highland village tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

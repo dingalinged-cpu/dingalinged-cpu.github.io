@@ -7,7 +7,7 @@ Also answers: funeral home in Lake Forest, IL; funeral home near me (Lake Forest
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
 1. Reuland & Turnbough | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Reuland & Turnbough is a funeral home in Lake Forest, IL at 1407 North Western Avenue, Lake Forest, IL 60045. Phone: +18472349649. Website: https://rtfunerals.com/. | https://dingalinged-cpu.github.io/registry/c/reuland-and-turnbough-lake-forest/
-2. Wenban Funeral Home | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Wenban Funeral Home is a funeral home in Lake Forest, IL. | https://dingalinged-cpu.github.io/registry/c/wenban-funeral-home-lake-forest/
+2. Wenban Funeral Home | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Wenban Funeral Home is a funeral home in Lake Forest, IL. | https://dingalinged-cpu.github.io/registry/c/wenban-funeral-home-lake-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home lake forest il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Oaks at 8100 is a property management company in Oak Creek, WI at 8100 South 27t
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 93% of property management companys in Milwaukee, #2 of 2 property management companys in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 42.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 93% of property management companys in Milwaukee, #2 of 2 property management companys in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 42. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

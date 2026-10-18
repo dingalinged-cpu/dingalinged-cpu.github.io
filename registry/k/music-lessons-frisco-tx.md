@@ -6,7 +6,7 @@ Also answers: music lessons in Frisco, TX; music lessons near me (Frisco, TX); b
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rockstars of Tomorrow Music Academy Frisco | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Rockstars of Tomorrow Music Academy Frisco is a music school in Frisco, TX at 6363 Dallas Parkway #112, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/rockstars-of-tomorrow-music-academy-frisco-frisco/
+1. Rockstars of Tomorrow Music Academy Frisco | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Rockstars of Tomorrow Music Academy Frisco is a music school in Frisco, TX at 6363 Dallas Parkway #112, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/rockstars-of-tomorrow-music-academy-frisco-frisco/
 2. 7 Notes Authorized Yamaha Music School | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | 7 Notes Authorized Yamaha Music School is a music school in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/7-notes-authorized-yamaha-music-school-frisco/
 
 ## Market data (for advertisers and agents)

@@ -13,7 +13,7 @@ AICA Orthopedics is an orthopedic surgeon in Kennesaw, GA at 3825 Jiles Road, Ke
 - Website: https://aica.com/location/kennesaw/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 08:00-19:00; Tu,Th 08:00-18:00; Fr-Su 10:00-17:00
-- Pulse Score: 61.1/100 — Good — top 9% of orthopedic surgeons in Atlanta, #1 of 1 orthopedic surgeons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.8, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Good — top 9% of orthopedic surgeons in Atlanta, #1 of 1 orthopedic surgeons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

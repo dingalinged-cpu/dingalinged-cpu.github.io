@@ -6,7 +6,7 @@ Also answers: plumbers in The Woodlands, TX; plumbers near me (The Woodlands, TX
 
 Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Plumbing 365, Drain Cleaning & Repair | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in The Woodlands, TX at 25420 Kuykendahl Rd, Suite B200-236, The Woodlands, TX 77375. Phone: +17134877943. Website: https://www.anytimeplumbing365.com/emergency-plumbing-repairs/. | https://dingalinged-cpu.github.io/registry/c/anytime-plumbing-365-drain-cleaning-and-repair-the-woodlands/
+1. Anytime Plumbing 365, Drain Cleaning & Repair | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in The Woodlands, TX at 25420 Kuykendahl Rd, Suite B200-236, The Woodlands, TX 77375. Phone: +17134877943. Website: https://www.anytimeplumbing365.com/emergency-plumbing-repairs/. | https://dingalinged-cpu.github.io/registry/c/anytime-plumbing-365-drain-cleaning-and-repair-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers the woodlands tx | category: Home Services | industry benchmark: Home & Home Improvement

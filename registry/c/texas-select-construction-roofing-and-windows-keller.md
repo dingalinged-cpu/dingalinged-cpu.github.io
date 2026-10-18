@@ -13,7 +13,7 @@ Texas Select Construction, Roofing & Windows is a roofer in Keller, TX at 1670 K
 - Website: https://www.texasselectconstruction.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00
-- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 35% of roofers in Dallas–Fort Worth, #1 of 1 roofers in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 37% of roofers in Dallas–Fort Worth, #1 of 1 roofers in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

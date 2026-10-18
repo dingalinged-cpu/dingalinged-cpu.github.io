@@ -13,7 +13,7 @@ Pet Supermarket is a pet store in Denton, TX at 4940 Teasley Lane, Denton, TX 76
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 43.4/100 — Building — top 81% of pet stores in Dallas–Fort Worth, #4 of 4 pet stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.4/100 — Building — top 81% of pet stores in Dallas–Fort Worth, #4 of 4 pet stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

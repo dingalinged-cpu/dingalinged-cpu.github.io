@@ -13,7 +13,7 @@ Jackson Hewitt is a tax preparation service in West Des Moines, IA at 2900 Unive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 44.9/100 — Building — top 58% of tax preparation services in Des Moines, IA, #2 of 2 tax preparation services in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45/100 — Building — top 58% of tax preparation services in Des Moines, IA, #2 of 2 tax preparation services in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

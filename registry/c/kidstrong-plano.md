@@ -13,7 +13,7 @@ KidStrong is a gym in Plano, TX at 6101 Windhaven Parkway #110, Plano, TX 75093.
 - Website: https://www.kidstrong.com/start/west-plano
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Pulse Score: 46.9/100 — Building — top 61% of gyms in Dallas–Fort Worth, #19 of 35 gyms in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 62% of gyms in Dallas–Fort Worth, #19 of 35 gyms in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

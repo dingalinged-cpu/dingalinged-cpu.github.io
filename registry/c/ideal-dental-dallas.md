@@ -13,7 +13,7 @@ Ideal Dental is a dentist in Dallas, TX at 9285 Lookout Point #100, Dallas, TX 7
 - Website: https://www.myidealdental.com/lake-highlands/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 09:00-15:00
-- Pulse Score: 51.3/100 — Fair — top 89% of dentists in Dallas–Fort Worth, #99 of 116 dentists in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 68.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.3/100 — Fair — top 88% of dentists in Dallas–Fort Worth, #99 of 116 dentists in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 68.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

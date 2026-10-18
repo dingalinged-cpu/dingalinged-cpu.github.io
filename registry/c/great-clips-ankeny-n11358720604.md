@@ -13,7 +13,7 @@ Great Clips is a hair salon in Ankeny, IA at 627 North Ankeny Boulevard, Ankeny,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 08:00-17:00; Su 09:30-15:00
-- Pulse Score: 49.5/100 — Building — top 72% of hair salons in Des Moines, IA, #6 of 10 hair salons in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 71% of hair salons in Des Moines, IA, #6 of 10 hair salons in Ankeny (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18
